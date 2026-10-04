@@ -1,33 +1,37 @@
 @import "tailwindcss";
 
+/* Palette et formes reprises de la newsletter Éclairage */
 @theme {
-  --color-papier: #fdfcf5;
-  --color-creme: #f3efe4;
-  --color-encre: #17161c;
-  --color-texte: #2c2b33;
-  --color-gris: #6e6c76;
-  --color-filet: #e4dfd2;
-  --color-soleil: #ffd60a;
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-serif: var(--font-newsreader), ui-serif, Georgia, serif;
+  --color-fond: #eceefa;
+  --color-creme: #fdfbf5;
+  --color-encre: #14142b;
+  --color-gris: #5b5f7a;
+  --color-gris-clair: #8a8ea8;
+  --color-filet: #d5d8e6;
+  --color-jaune: #ffd60a;
+  --color-jaune-pale: #fff7cc;
+  --color-lavande: #d8dbf0;
+  --color-orange: #ff6a3d;
+  --color-orange-pale: #ffe4d9;
+  --color-bleu: #2f3cff;
+  --font-sans: var(--font-inter), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --radius-carte: 24px;
+  --radius-bloc: 18px;
 }
 
 html { color-scheme: light; }
-body { background: var(--color-papier); color: var(--color-texte); font-feature-settings: "kern", "liga"; }
-h1, h2, h3 { text-wrap: balance; color: var(--color-encre); }
+body { background: var(--color-fond); color: var(--color-encre); }
+h1, h2, h3 { text-wrap: balance; letter-spacing: -0.02em; }
 p { text-wrap: pretty; }
 
-/* Le halo du logo, réutilisé pour souligner un mot ou un chiffre */
-.halo { background: radial-gradient(closest-side, rgba(255, 214, 10, 0.55), rgba(255, 214, 10, 0) 100%); padding-inline: 0.15em; }
-.surligne { background-image: linear-gradient(transparent 62%, rgba(255, 214, 10, 0.45) 62%); }
+/* Étiquette en pastille (EN 30 SECONDES, L'ÉCLAIRAGE, rubriques…) */
+.pastille { display: inline-flex; align-items: center; gap: 0.4rem; border-radius: 999px; padding: 0.3rem 0.7rem;
+  font-size: 11px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; line-height: 1; }
+.carte { background: #fff; border-radius: var(--radius-carte); }
+.halo { background: radial-gradient(closest-side, rgba(255, 214, 10, 0.6), rgba(255, 214, 10, 0)); }
 
-/* Édition email affichée dans le site : mise en page conservée, typographie adoucie */
+/* Édition email intégrée telle quelle */
 .edition-email { max-width: 640px; margin-inline: auto; overflow-wrap: anywhere; }
 .edition-email > div, .edition-email > div > table, .edition-email > div > table > tbody > tr > td { background: transparent !important; padding: 0 !important; }
 .edition-email table { max-width: 100% !important; font-family: var(--font-sans) !important; }
 .edition-email img { max-width: 100% !important; height: auto !important; }
-.edition-email [style*="font-weight:900"] { font-weight: 700 !important; }
-.edition-email [style*="font-weight:800"] { font-weight: 600 !important; }
-.edition-email [style*="font-size:26px"], .edition-email [style*="font-size:24px;line-height:1.15"] {
-  font-family: var(--font-serif) !important; font-weight: 500 !important; letter-spacing: -0.01em !important;
-}

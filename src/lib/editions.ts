@@ -4,9 +4,9 @@ import indexData from "../../content/index.json";
 
 export type Sujet = {
   n: number; theme: string; titre: string; image: string | null; legende: string | null;
-  chapeau: string | null; eclairage: string | null; chiffres: { valeur: string; legende: string }[];
+  chapeau: string | null; eclairage: string | null; change: string | null; chiffres: { valeur: string; legende: string }[];
 };
-export type Edition = { rubrique: RubriqueId; date: string; sujets: Sujet[]; lexique: { terme: string; definition: string }[] };
+export type Edition = { rubrique: RubriqueId; date: string; sujets: Sujet[]; lexique: { terme: string; definition: string }[]; agenda: { jour: string; mois: string; texte: string }[] };
 export type RubriqueId = "politique" | "economie" | "sante" | "local" | "food" | "tech";
 
 export const RUBRIQUES: Record<RubriqueId, { nom: string; court: string; couleur: string; fond: string; accroche: string; heure: string }> = {
@@ -71,4 +71,11 @@ export function chiffresDuJour(date: string) {
 export function motDuJour(date: string) {
   for (const e of parDate(date)) if (e.lexique[0]) return { ...e.lexique[0], rubrique: e.rubrique };
   return null;
+}
+
+export function agendaDuJour(date: string) {
+  return parDate(date).flatMap((e) => e.agenda.slice(0, 3).map((a) => ({ ...a, rubrique: e.rubrique }))).slice(0, 6);
+}
+export function lexiqueDuJour(date: string) {
+  return parDate(date).flatMap((e) => e.lexique.slice(0, 1).map((l) => ({ ...l, rubrique: e.rubrique })));
 }

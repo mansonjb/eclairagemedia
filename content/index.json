@@ -20,7 +20,8 @@
       "valeur": "150",
       "legende": "salariés de l'entreprise"
      }
-    ]
+    ],
+    "change": "Pour le secteur, la France compte une entreprise de plus qui prépare une production en série de lanceurs. Pour les salariés, le site réunit développement, fabrication et assemblage ; les 150 salariés actuels y travaillent (Zone Militaire). Pour l'entreprise,…"
    },
    {
     "n": 2,
@@ -43,7 +44,8 @@
       "valeur": "+2,5 %",
       "legende": "tarif réglementé, moyenne au 1er août"
      }
-    ]
+    ],
+    "change": "Pour les ménages, la facture dépend aussi du réseau et des coûts de capacité : le tarif réglementé a progressé de 2,5 % en moyenne au 1er août (Capital). Pour les producteurs, des heures de vente à perte s'ajoutent. Pour le système, le sujet porte sur la…"
    },
    {
     "n": 3,
@@ -66,7 +68,30 @@
       "valeur": "98,7 %",
       "legende": "du salaire d'un jeune : le loyer moyen"
      }
-    ]
+    ],
+    "change": "Pour les locataires, aucune nouvelle mesure n'est en vigueur à ce stade : les deux décrets n'ont pas été validés. Pour les propriétaires et investisseurs immobiliers, le cadre actuel reste inchangé. Pour l'économie, un loyer proche du revenu limite la…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "France : indice PMI composite de septembre (S&P Global)."
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "Insee : indice de la production industrielle d'août (8h45)."
+   },
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Banque de France : balance des paiements d'août (8h45). Douanes : commerce extérieur d'août."
+   },
+   {
+    "jour": "8",
+    "mois": "OCT.",
+    "texte": "Insee : inflation définitive de septembre (8h45)."
    }
   ],
   "chiffreDuJour": null,
@@ -114,7 +139,8 @@
       "valeur": "3 700",
       "legende": "€, complément jeunes agriculteurs"
      }
-    ]
+    ],
+    "change": "Pour une exploitation bio, le niveau d'écorégime à 110 € par hectare est le plus élevé des trois ; le montant versé dépend ensuite des hectares éligibles et des ajustements de fin de campagne. Aucun effet sur les prix en rayon n'est documenté dans les sources…"
    },
    {
     "n": 2,
@@ -137,7 +163,20 @@
       "valeur": "20 000",
       "legende": "hectares non récoltables (CGB)"
      }
-    ]
+    ],
+    "change": "Pour les planteurs, environ 30 % seulement sont assurés selon La France Agricole. Sur les marchés, le sucre brut est passé d'environ 300 $ la tonne cet été à près de 380 $ en septembre à New York, avec un redressement comparable des prix spot européens.…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "MI",
+    "mois": "OCT.",
+    "texte": "Acomptes PAC 2026 : versement généralement à la mi-octobre."
+   },
+   {
+    "jour": "FIN",
+    "mois": "OCT.",
+    "texte": "Green Farmer's (burgers végétaux) prévoit d'ouvrir un restaurant rue du Faubourg Saint-Antoine, Paris 11e, en seconde quinzaine d'octobre ; date non confirmée…"
    }
   ],
   "chiffreDuJour": null,
@@ -181,7 +220,35 @@
       "valeur": "1 mois",
       "legende": "de concertation 9 oct. – 9 nov."
      }
-    ]
+    ],
+    "change": "Aucun péage n'est décidé à ce stade. Les habitants, travailleurs et visiteurs qui empruntent le pont peuvent donner leur avis, et la façon dont les travaux seront payés (impôt ou usagers) reste à trancher par le Département."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Lagord : début de trois mois de travaux sur le réseau d'assainissement (rues Alfred Nobel, Victor Grignard, Fief Nouveau) ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron ( la.charente-maritime.fr)."
+   },
+   {
+    "jour": "11",
+    "mois": "OCT.",
+    "texte": "Journée de la mode responsable : réparation et réemploi des textiles, au Musée Maritime ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle : séance du lundi, à l'Hôtel de Ville ( larochelle.fr)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Pont d'Oléron : clôture de la concertation."
    }
   ],
   "chiffreDuJour": null,
@@ -225,7 +292,8 @@
       "valeur": "6 oct.",
       "legende": "nouvelle journée de mobilisation"
      }
-    ]
+    ],
+    "change": "Les revendications portent sur les moyens (remplacement des professeurs, rythmes scolaires), le projet de loi sur la réparation des dégâts. Ce sont deux dossiers distincts, qui avancent en parallèle."
    },
    {
     "n": 2,
@@ -244,7 +312,8 @@
       "valeur": "15 €",
       "legende": "adhésion (10 € tarif social)"
      }
-    ]
+    ],
+    "change": "La primaire sert à désigner un candidat de la social-démocratie pour la présidentielle d'avril 2027. Le vote est ouvert aux inscrits, pas seulement aux militants."
    },
    {
     "n": 3,
@@ -254,7 +323,40 @@
     "legende": null,
     "chapeau": "Samedi 3 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a déclaré à La Tribune Dimanche maintenir « totalement » sa confiance au président du RN, Jordan Bardella. C'est sa première réaction publique depuis que Mediapart a publié, jeudi 1er octobre, des éléments présentés comme…",
     "eclairage": "Présomption d'innocence. Il s'agit d'accusations publiées par un média et contestées par la personne visée ; aucune décision de justice n'a été rendue. Les plaintes annoncées permettront à un juge de se prononcer sur l'authenticité des messages.",
-    "chiffres": []
+    "chiffres": [],
+    "change": null
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "4",
+    "mois": "OCT.",
+    "texte": "Dernier débat de la primaire de la gauche, 20h45 sur BFMTV."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Clôture des inscriptions à la primaire, à minuit."
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "Nouvelle journée de mobilisation des lycéens."
+   },
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Primaire de la gauche : premier tour les 9 et 10 octobre."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : examen à l'Assemblée à partir de cette date."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,
@@ -302,7 +404,8 @@
       "valeur": "48 %",
       "legende": "de décès parmi les cas confirmés"
      }
-    ]
+    ],
+    "change": "Pour les habitants des zones touchées, la réponse repose sur l'isolement des malades et le suivi des contacts, faute de vaccin ou de traitement approuvé. Pour le reste du monde, l'OMS évaluait le risque comme faible dans sa dernière évaluation (14 août). En…"
    },
    {
     "n": 2,
@@ -325,7 +428,8 @@
       "valeur": "20 000",
       "legende": "lits jugés utiles sur 52 600 (2023)"
      }
-    ]
+    ],
+    "change": "À ce stade, rien ne change : ce sont des recommandations, pas une décision. Le rapport ne ferme aucun établissement et ne fixe pas lui-même le seuil retenu (trois seuils sont étudiés)."
    },
    {
     "n": 3,
@@ -348,7 +452,8 @@
       "valeur": "60 %",
       "legende": "insomnies sous 2 mg (1 % placebo)"
      }
-    ]
+    ],
+    "change": "Pour les personnes atteintes de narcolepsie de type 1, c'est un premier traitement qui vise le mécanisme de la maladie, déjà autorisé aux États-Unis, au Japon et en Chine pour les adultes (Takeda). Aucune autorisation européenne n'apparaît dans les sources…"
    },
    {
     "n": 4,
@@ -371,9 +476,11 @@
       "valeur": "+228",
       "legende": "en une semaine (+6,2 %)"
      }
-    ]
+    ],
+    "change": "Pour les personnes non vaccinées ou dont le statut vaccinal est incertain, le risque est plus élevé : la quasi-totalité des cas américains sont dans ce groupe. En France, le calendrier de vaccination relève des autorités de santé et d'un échange avec le…"
    }
   ],
+  "agenda": [],
   "chiffreDuJour": {
    "valeur": "50+",
    "texte": "soignants morts de l'Ebola Bundibugyo au Congo depuis le 15 mai, selon CBS, STAT et CIDRAP."
@@ -422,7 +529,8 @@
       "valeur": "3",
       "legende": "vice-présidents de la task force"
      }
-    ]
+    ],
+    "change": "Pour une entreprise qui développe ou utilise de l'IA aux États-Unis, ce groupe ne crée aucune obligation à ce stade : il prépare un rapport. Pour un utilisateur, rien ne change immédiatement. Horizon : les recommandations sont attendues dans 120 jours, soit…"
    },
    {
     "n": 2,
@@ -445,7 +553,8 @@
       "valeur": "23",
       "legende": "langues pour la synthèse vocale"
      }
-    ]
+    ],
+    "change": "Pour un développeur ou une entreprise, ces modèles s'ajoutent aux offres de voix existantes, avec un prix de lancement valable jusqu'à fin 2026. Pour un utilisateur, ils pourraient se retrouver dans des assistants vocaux, sans calendrier annoncé. Les deux…"
    },
    {
     "n": 3,
@@ -468,9 +577,11 @@
       "valeur": "21 sept.",
       "legende": "explosion de mines : contexte de tension"
      }
-    ]
+    ],
+    "change": "Pour le grand public, rien de concret à court terme : il s'agit d'une annonce militaire non vérifiée. Pour les spécialistes de la défense, la question est de savoir si l'IA citée change réellement la précision ou la capacité d'évasion, ce que les sources ne…"
    }
   ],
+  "agenda": [],
   "chiffreDuJour": null,
   "lexique": [
    {
@@ -516,7 +627,8 @@
       "valeur": "156 pb",
       "legende": "écart avec l'Allemagne vendredi (BFM Bourse)"
      }
-    ]
+    ],
+    "change": "Pour l'État, emprunter coûte plus cher, ce qui réduit la marge de manœuvre du budget. Pour un ménage ou une entreprise, les taux des crédits dépendent en partie de ces taux de référence, avec un décalage."
    },
    {
     "n": 2,
@@ -539,7 +651,8 @@
       "valeur": "101 $",
       "legende": "Brent (déc.) vendredi, −0,8 %"
      }
-    ]
+    ],
+    "change": "Pour les automobilistes, les prix à la pompe pourraient reculer de quelques centimes dans les prochains jours, mais temporairement, selon Thierry Bros. Pour les marchés, l'effet sur le cours du brut est resté limité vendredi."
    },
    {
     "n": 3,
@@ -562,7 +675,8 @@
       "valeur": "+3,0 %",
       "legende": "salaire horaire moyen sur 12 mois"
      }
-    ]
+    ],
+    "change": "Pour les salariés américains, moins de créations de postes et des salaires qui progressent moins vite réduisent les offres et la marge de négociation. Pour les entreprises et les investisseurs, ces chiffres alimentent le débat sur les prochaines décisions de…"
    },
    {
     "n": 4,
@@ -585,7 +699,8 @@
       "valeur": "6 Md$",
       "legende": "d'économies visées"
      }
-    ]
+    ],
+    "change": "Pour les spectateurs, les marques Paramount, HBO Max, CBS ou CNN restent annoncées. Pour les salariés, l'objectif de 6 milliards de dollars d'économies laisse ouverte la question de l'organisation, sans détail publié à ce stade."
    },
    {
     "n": 5,
@@ -608,7 +723,25 @@
       "valeur": "16 M€",
       "legende": "résultat net (16,2 M€), contre −11,5 M€"
      }
-    ]
+    ],
+    "change": "Pour les clients, rien de changé à court terme. Pour le groupe, la priorité annoncée est la rentabilité, la génération de cash-flow et la réduction de l'endettement."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "France : indice PMI composite de septembre (S&P Global, 9h50). Air Liquide : présentation aux investisseurs. Bonduelle : réunion d'information sur ses résultats…"
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "Insee : indice de la production industrielle d'août (8h45). Voyageurs du Monde : chiffres trimestriels (18h). Paramount et Warner Bros. Discovery : clôture…"
+   },
+   {
+    "jour": "6-9",
+    "mois": "OCT.",
+    "texte": "Sommet de l'élevage à Cournon-d'Auvergne (AFP)."
    }
   ],
   "chiffreDuJour": null,
@@ -656,7 +789,8 @@
       "valeur": "2038",
       "legende": "échéance du projet de mai"
      }
-    ]
+    ],
+    "change": "Pour les fabricants et les distributeurs d'engrais, la contrainte se resserre par paliers dès le 1er janvier 2027. Pour les agriculteurs, le changement passe par la composition des produits vendus, pas par la conduite des cultures."
    },
    {
     "n": 2,
@@ -679,7 +813,8 @@
       "valeur": "3211",
       "legende": "numéro du PLFSS déposé"
      }
-    ]
+    ],
+    "change": "Si la mesure est adoptée, elle viserait des produits vendus en supermarché ; l'Ania estime qu'elle se répercuterait sur les prix, ce que le gouvernement n'a pas confirmé."
    },
    {
     "n": 3,
@@ -702,7 +837,15 @@
       "valeur": "40 000",
       "legende": "tonnes consommées par an"
      }
-    ]
+    ],
+    "change": "Sur les étals, l'effet sur les prix n'est pas documenté dans les sources consultées. Pour les apiculteurs, une année basse fragilise les trésoreries avant l'hiver."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1ER",
+    "mois": "JANV.",
+    "texte": "Cadmium : premier palier à 60 mg/kg dans les engrais."
    }
   ],
   "chiffreDuJour": null,
@@ -750,7 +893,30 @@
       "valeur": "65 000",
       "legende": "usagers en 2025 dans les 3 sites"
      }
-    ]
+    ],
+    "change": "Un habitant peut s'inscrire sans payer à Mireuil, Laleu-La Pallice ou Villeneuve-les-Salines, avec une pièce d'identité et un justificatif de domicile de moins de six mois, et emprunter autant de documents qu'il le souhaite pour quatre semaines."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "OCT.",
+    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel, jusqu'au 18 octobre ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Lagord : début des travaux d'assainissement, environ trois mois ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "11",
+    "mois": "OCT.",
+    "texte": "Journée de la mode responsable : 10 h à 18 h au Musée Maritime, réparation, réemploi et collecte de textiles ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle ( larochelle.fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -794,7 +960,8 @@
       "valeur": "5 %",
       "legende": "déficit visé en 2027"
      }
-    ]
+    ],
+    "change": "Le budget repose sur un accord possible avec le PS ou sur le choix de ne pas être censuré. La lettre du 2 octobre fixe les demandes du groupe avant l'examen du texte."
    },
    {
     "n": 2,
@@ -813,7 +980,8 @@
       "valeur": "4 mois",
       "legende": "durée de la libération"
      }
-    ]
+    ],
+    "change": "Une partie des stocks stratégiques est mise sur le marché pour quatre mois. Les experts cités estiment l'effet limité et temporaire sur les prix à la pompe."
    },
    {
     "n": 3,
@@ -836,7 +1004,30 @@
       "valeur": "13/10",
       "legende": "vote solennel prévu"
      }
-    ]
+    ],
+    "change": "Les affaires de viol resteront jugées par des magistrats professionnels, sauf crimes passibles de 20 ans ou plus. Le financement est discuté : des associations demandent 3 milliards d'euros par an, le gouvernement ayant promis la moitié."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Fin des inscriptions à la primaire PS–Place publique ; session plénière du Parlement européen du 5 au 8 octobre."
+   },
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Sommet des pays du sud de l'UE à Split (Croatie)."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Vote solennel sur la loi intégrale à l'Assemblée."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Élections américaines de mi-mandat."
    }
   ],
   "chiffreDuJour": null,
@@ -884,7 +1075,8 @@
       "valeur": "0,57",
       "legende": "risque relatif de décès (FAS)"
      }
-    ]
+    ],
+    "change": "Rien pour les patients aujourd'hui : VCN-01 n'est pas autorisé. Le gain médian observé est d'environ 2 mois dans la population principale du protocole, avec des effets indésirables plus fréquents (fièvre, symptômes grippaux, enzymes du foie)."
    },
    {
     "n": 2,
@@ -907,7 +1099,8 @@
       "valeur": "22 mm",
       "legende": "taille adulte après dilatation"
      }
-    ]
+    ],
+    "change": "Pour les enfants concernés aux États-Unis, la possibilité d'élargir la valve par cathéter pourrait limiter le nombre d'opérations à cœur ouvert, si les données à long terme le confirment. Rien n'est annoncé pour la France à ce stade."
    },
    {
     "n": 3,
@@ -930,7 +1123,15 @@
       "valeur": "−4,1",
       "legende": "mm Hg de pression systolique"
      }
-    ]
+    ],
+    "change": "Pour les familles américaines, un traitement officiellement approuvé existe pour l'excès d'hormone thyroïdienne. Il ne guérit pas la maladie. L'usage se décide avec l'équipe médicale : le produit comporte un avertissement contre tout usage pour maigrir."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "T3",
+    "mois": "2027",
+    "texte": "VIRAGE2 : premières données de sécurité et d'activité biologique attendues au troisième trimestre 2027, selon Theriva."
    }
   ],
   "chiffreDuJour": null,
@@ -978,7 +1179,8 @@
       "valeur": "118",
       "legende": "comptes compromis au laboratoire de l'ANSSI"
      }
-    ]
+    ],
+    "change": "Pour les agents publics et les prestataires de l'État, l'ANSSI cible l'authentification multifacteur et la fin des applications internes exposées sur Internet. Pour les usagers, aucune consigne officielle n'est donnée dans les documents consultés."
    },
    {
     "n": 2,
@@ -1001,9 +1203,11 @@
       "valeur": "200+",
       "legende": "documents examinés par Reuters"
      }
-    ]
+    ],
+    "change": "Pour une entreprise qui confie des tâches à un agent d'IA, ces études montrent l'intérêt de vérifier les résultats et de limiter les accès accordés à l'agent. Pour un utilisateur, un compte rendu produit par un agent n'est pas une preuve en soi. Horizon : les…"
    }
   ],
+  "agenda": [],
   "chiffreDuJour": null,
   "lexique": [
    {
@@ -1041,7 +1245,8 @@
       "valeur": "+7,38 %",
       "legende": "Capgemini à la clôture, à 112,10 €"
      }
-    ]
+    ],
+    "change": "Pour un salarié ou un client de ces sociétés, rien ne change à court terme. Pour les investisseurs, la question de fond demeure : l'IA crée-t-elle plus de commandes de conseil qu'elle n'en supprime ? Accenture signale à la fois des commandes en hausse et des…"
    },
    {
     "n": 2,
@@ -1064,7 +1269,8 @@
       "valeur": "4",
       "legende": "nouveaux anticorps à co-développer"
      }
-    ]
+    ],
+    "change": "Pour les patients, rien de disponible à court terme : les anticorps sont au stade de l'essai de phase 1 ou n'ont pas encore commencé les essais. Pour Sanofi, c'est un engagement financier important sur des médicaments encore précoces ; pour Regeneron, une…"
    },
    {
     "n": 3,
@@ -1079,7 +1285,8 @@
       "valeur": "4",
       "legende": "usines françaises à l'arrêt"
      }
-    ]
+    ],
+    "change": "Les salariés concernés auront une rémunération réduite pendant les arrêts, et les intérimaires sont les plus exposés. Les clients qui attendent une version longue autonomie peuvent subir des délais."
    },
    {
     "n": 4,
@@ -1102,7 +1309,30 @@
       "valeur": "31/12",
       "legende": "finalisation visée avant fin 2026"
      }
-    ]
+    ],
+    "change": "Si l'opération se conclut, Vicat étendrait son réseau de centrales à béton dans le Sud-Est. Pour les salariés des filiales concernées, la consultation des instances représentatives du personnel est la prochaine étape."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "Tesla publie ses livraisons du troisième trimestre ; Bonduelle publie ses résultats annuels. Journées du Patrimoine économique jusqu'au 4 octobre : 1 015…"
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "États-Unis : indice ISM des services pour septembre."
+   },
+   {
+    "jour": "8",
+    "mois": "OCT.",
+    "texte": "OMC : mise à jour de ses perspectives du commerce mondial."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Mondial de l'automobile à Paris, jusqu'au 18 octobre."
    }
   ],
   "chiffreDuJour": null,
@@ -1150,7 +1380,25 @@
       "valeur": "2",
       "legende": "lycées avec périmètre interdit"
      }
-    ]
+    ],
+    "change": "Vendredi, l'Agglomération prévoit un fonctionnement normal de Yélo, avec possibles changements dans la journée : l'état du réseau se consulte sur l'application ou le site Yélo. Les abords de deux lycées sont interdits aux rassemblements."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "OCT.",
+    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel, jusqu'au 18 octobre ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Collecte des déchets : retour à deux collectes par semaine, avec exceptions pour le centre de La Rochelle et Châtelaillon-Plage ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle ( larochelle.fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -1190,7 +1438,8 @@
       "valeur": "60",
       "legende": "voix pour Patrick Kanner (PS)"
      }
-    ]
+    ],
+    "change": "Le président du Sénat dirige les débats et représente la chambre haute. Il a été réélu à la veille de l'examen du budget 2027, que le Sénat examinera après l'Assemblée."
    },
    {
     "n": 2,
@@ -1213,7 +1462,8 @@
       "valeur": "5 %",
       "legende": "déficit visé en 2027"
      }
-    ]
+    ],
+    "change": "Le gouvernement n'a pas de majorité absolue à l'Assemblée : il devra négocier ou recourir à des outils comme le 49.3. C'est le dernier budget avant la présidentielle de 2027."
    },
    {
     "n": 3,
@@ -1236,7 +1486,8 @@
       "valeur": "305",
       "legende": "forces de l'ordre blessées (Intérieur)"
      }
-    ]
+    ],
+    "change": "Les revendications portent sur les moyens de l'Éducation nationale, qui dépendent du budget 2027 examiné à partir du 13 octobre."
    },
    {
     "n": 4,
@@ -1259,7 +1510,30 @@
       "valeur": "0",
       "legende": "décision de justice"
      }
-    ]
+    ],
+    "change": "Le sujet entre dans la campagne présidentielle de 2027 : Marine Le Pen présente Jordan Bardella comme son choix pour Matignon. Il n'y a pour l'instant aucune décision de justice."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "Lycées : manifestations interdites aux abords des lycées fermés."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début du débat dans l'hémicycle de l'Assemblée."
+   },
+   {
+    "jour": "21",
+    "mois": "JANV.",
+    "texte": "Jugement du procès Dati-Ghosn."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,
@@ -1307,7 +1581,8 @@
       "valeur": "52 min",
       "legende": "durée de l'opération"
      }
-    ]
+    ],
+    "change": "Le traitement est conçu surtout pour les patients ayant épuisé les autres options (AFP). Il n'est pour l'instant utilisé qu'au Japon ; aucune disponibilité en France n'est annoncée dans les sources consultées. La production, en grande partie manuelle, suffit…"
    },
    {
     "n": 2,
@@ -1330,7 +1605,8 @@
       "valeur": "0",
       "legende": "effet indésirable lié au dispositif"
      }
-    ]
+    ],
+    "change": "Rien pour les patients aujourd'hui : le casque reste expérimental, et les résultats portent sur 30 personnes sur huit semaines. Toute décision sur la prise en charge d'un Covid long se discute avec un professionnel de santé."
    },
    {
     "n": 3,
@@ -1353,7 +1629,8 @@
       "valeur": "292",
       "legende": "participants, suivi de 11,9 ans"
      }
-    ]
+    ],
+    "change": "Pas de changement de pratique à ce stade : il s'agit d'un résumé présenté en congrès et d'un seul centre. Les choix de traitement de l'arthrose se discutent avec un médecin."
    },
    {
     "n": 4,
@@ -1376,7 +1653,15 @@
       "valeur": "2027",
       "legende": "saison australe concernée"
      }
-    ]
+    ],
+    "change": "Rien de concret pour la saison grippale actuelle en France : cette recommandation concerne l'hémisphère sud en 2027. Elle sert de base aux autorités de réglementation et aux fabricants pour préparer les vaccins."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "OCT.",
+    "texte": "Fin du congrès de l'EADV (dermatologie), ouvert depuis le 30 septembre ( Medical Dialogues)."
    }
   ],
   "chiffreDuJour": null,
@@ -1424,7 +1709,8 @@
       "valeur": "3",
       "legende": "dépôts actifs au maximum"
      }
-    ]
+    ],
+    "change": "Pour un chercheur, il faut désormais planifier ses dépôts : une erreur de format qui fait refuser un texte consomme une partie du quota du mois. Pour qui lit des préprints (journalistes, entreprises), la mesure vise à garder un flux plus lisible, sans garantir…"
    },
    {
     "n": 3,
@@ -1447,7 +1733,15 @@
       "valeur": "1",
       "legende": "« dot » inclus sans surcoût"
      }
-    ]
+    ],
+    "change": "Pour un salarié ou une équipe, des tâches de suivi (retours clients, petites corrections, mises à jour de documents) peuvent être déléguées à un agent, à condition de relire le résultat. Pour une entreprise, l'accès de l'agent aux outils internes devient un…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "FIN",
+    "mois": "2026",
+    "texte": "SAFA : lancement visé fin 2026 ou début 2027 (projet rapporté par la presse)."
    }
   ],
   "chiffreDuJour": null,
@@ -1495,7 +1789,8 @@
       "valeur": "+9,9 %",
       "legende": "produits frais (+5,9 % en août)"
      }
-    ]
+    ],
+    "change": "Pour les ménages, c'est le coût du carburant et du chauffage qui pèse le plus. Pour les entreprises, c'est un coût de production plus élevé, qui peut se répercuter sur les prix de vente ou sur les marges. Une inflation plus forte réduit aussi la marge de…"
    },
    {
     "n": 2,
@@ -1518,7 +1813,8 @@
       "valeur": "123 pb",
       "legende": "écart avec le Bund allemand"
      }
-    ]
+    ],
+    "change": "Pour l'État, plus de charge d'intérêts à terme à mesure qu'il refinance sa dette à des taux plus élevés. Pour les épargnants, des cours d'actions et d'obligations qui varient avec ces taux. Pour les entreprises, des conditions de financement liées à…"
    },
    {
     "n": 3,
@@ -1537,7 +1833,8 @@
       "valeur": "+5,28 €",
       "legende": "sur la facture d'octobre (indexée)"
      }
-    ]
+    ],
+    "change": "Pour les ménages à offre indexée, la facture d'octobre monte d'environ 5 euros en moyenne ; pour ceux à prix fixe, rien ne change pour l'instant. Pour l'inflation, le gaz s'ajoute aux autres composantes de l'énergie."
    },
    {
     "n": 4,
@@ -1560,7 +1857,30 @@
       "valeur": "Secret",
       "legende": "montant non communiqué"
      }
-    ]
+    ],
+    "change": "Pour le public, rien ne change dans l'immédiat : les concerts programmés, dont la résidence de Céline Dion, se poursuivent. Pour les producteurs concurrents, la question est l'accès à la salle."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "OCT.",
+    "texte": "Budget 2027 présenté en Conseil des ministres."
+   },
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "Zone euro : première estimation de l'inflation de septembre (Eurostat)."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Assemblée nationale : début de l'examen du budget en séance."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Insee : résultats définitifs de l'inflation de septembre."
    }
   ],
   "chiffreDuJour": null,
@@ -1608,7 +1928,8 @@
       "valeur": "18 mois",
       "legende": "pour replanter après accord"
      }
-    ]
+    ],
+    "change": "Pour un agriculteur ou un propriétaire, un dossier unique remplace plusieurs démarches. La replantation devient la contrepartie de toute destruction acceptée."
    },
    {
     "n": 2,
@@ -1631,7 +1952,8 @@
       "valeur": "1 t",
       "legende": "maximum produit"
      }
-    ]
+    ],
+    "change": "Pour les start-up de la fermentation, un équipement de taille intermédiaire en France, accessible sans construire sa propre usine. Aucun produit alimentaire n'en sort directement à ce stade."
    },
    {
     "n": 3,
@@ -1654,7 +1976,15 @@
       "valeur": "-8 %",
       "legende": "maïs grain vs moyenne 5 ans"
      }
-    ]
+    ],
+    "change": "ADM Investor Services indique que cette baisse de production européenne soutient les cours du sucre. Sur le terrain, moins de fourrage disponible pousse certains élevages à réduire leur cheptel, selon le JRC."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "OCT.",
+    "texte": "Régime unique de la haie : le guichet unique est en service."
    }
   ],
   "chiffreDuJour": null,
@@ -1702,7 +2032,8 @@
       "valeur": "29,3 %",
       "legende": "remplissage des barrages concernés"
      }
-    ]
+    ],
+    "change": "Pour un foyer, les interdictions d'arrosage et de lavage de voiture restent applicables ; l'eau du robinet continue d'être distribuée normalement. Les contrôles se poursuivent."
    },
    {
     "n": 2,
@@ -1725,7 +2056,20 @@
       "valeur": "30 min",
       "legende": "réservation possible avant le trajet"
      }
-    ]
+    ],
+    "change": "Dans les communes et arrêts concernés, il n'y a plus de lignes TAD 30, 31 et 32 : les trajets se réservent via Yélo Flex, en semaine, entre 9 h et 16 h seulement."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "OCT.",
+    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel dans l'agglo, jusqu'au 18 octobre ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "mi",
+    "mois": "OCT.",
+    "texte": "Échéance pluie : sans précipitations d'ici la mi-octobre, la préfecture prévoit une forte tension sur les barrages."
    }
   ],
   "chiffreDuJour": null,
@@ -1769,7 +2113,8 @@
       "valeur": "2013",
       "legende": "date des messages selon Mediapart"
      }
-    ]
+    ],
+    "change": "Le sujet entre dans la campagne présidentielle de 2027. À ce stade, il n'y a ni décision de justice ni publication complète des documents."
    },
    {
     "n": 2,
@@ -1792,7 +2137,8 @@
       "valeur": "3 000€",
       "legende": "nouveau plafond proposé (4 439€)"
      }
-    ]
+    ],
+    "change": "Pour les retraités concernés, le choix entre sous-indexation et abattement n'est pas tranché : le gouvernement parle de seuils « à discuter ». Les pensions inférieures ou égales à 1 260 euros seraient revalorisées intégralement."
    },
    {
     "n": 3,
@@ -1815,7 +2161,8 @@
       "valeur": "440-625",
       "legende": "interpellations, selon le périmètre"
      }
-    ]
+    ],
+    "change": "Le gouvernement ouvre lundi une plateforme de concertation pour les lycéens. Le sujet oppose gouvernement et LFI, avec des plaintes et des enquêtes en cours : la présomption d'innocence vaut pour toutes les personnes citées."
    },
    {
     "n": 4,
@@ -1838,7 +2185,40 @@
       "valeur": "16-17h",
       "legende": "résultat attendu"
      }
-    ]
+    ],
+    "change": "Le Sénat élu cette semaine siégera jusqu'au prochain renouvellement par moitié, en 2029."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "OCT.",
+    "texte": "Élection du président du Sénat à 15 h ; conseil JAI à Luxembourg (1er-2 octobre)."
+   },
+   {
+    "jour": "3",
+    "mois": "OCT.",
+    "texte": "Lettonie : élections législatives (Bosnie-Herzégovine : le 4)."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Listes des groupes au Sénat : date limite de dépôt."
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "Manifestation nationale lycéenne et bureau du Sénat."
+   },
+   {
+    "jour": "MI",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début de l'examen à l'Assemblée nationale."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,
@@ -1886,7 +2266,8 @@
       "valeur": "−5,1 %",
       "legende": "poids sous placebo"
      }
-    ]
+    ],
+    "change": "Pour les patients et les soignants, rien ne change aujourd'hui : ce sont des résultats d'essai, et aucune décision d'autorisation n'a été relevée dans les sources consultées. Toute décision de traitement se prend avec un professionnel de santé."
    },
    {
     "n": 2,
@@ -1909,7 +2290,8 @@
       "valeur": "7,6 cm",
       "legende": "incision principale (3 pouces)"
      }
-    ]
+    ],
+    "change": "Pour les patients, rien ne change à ce stade : il s'agit d'un cas isolé, réalisé dans un centre expérimenté qui pratique déjà des greffes robotiques de rein et de foie. L'intérêt, pour l'instant, est de montrer que l'approche est faisable pour des patients…"
    },
    {
     "n": 3,
@@ -1928,7 +2310,8 @@
       "valeur": "2002",
       "legende": "début en Seine- Saint-Denis"
      }
-    ]
+    ],
+    "change": "Aucun changement réglementaire n'est annoncé dans les sources consultées. Les auteurs présentent ces données comme un appui à la prévention en entreprise, au repérage des métiers à risque et à la coordination entre médecine du travail et santé publique."
    },
    {
     "n": 4,
@@ -1947,7 +2330,20 @@
       "valeur": "1,5 an",
       "legende": "gain d'espérance de vie en bonne santé"
      }
-    ]
+    ],
+    "change": "Le rapport s'adresse aux gouvernements de la région : il ne change rien directement pour les patients, mais oriente les priorités de santé publique, avec le dépistage et les soins primaires en premier."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage. Les deux…"
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un…"
    }
   ],
   "chiffreDuJour": null,
@@ -1995,7 +2391,8 @@
       "valeur": "2 $",
       "legende": "par million de jetons en entrée (intro.)"
      }
-    ]
+    ],
+    "change": "Pour l'instant, seuls des défenseurs informatiques invités y accèdent : les utilisateurs ordinaires et les entreprises doivent attendre l'ouverture annoncée, sans date. Côté coût, le tarif d'introduction est annoncé à un cinquième de celui de GPT-6 Astra…"
    },
    {
     "n": 2,
@@ -2018,7 +2415,8 @@
       "valeur": "1re",
       "legende": "action fédérale sur les agents (Al Jazeera)"
      }
-    ]
+    ],
+    "change": "Pour les entreprises d'IA : un risque de contrôle sur leurs outils d'agents et sur ce qu'elles en disent publiquement. Pour le public : aucune décision à ce stade, seulement une enquête. Horizon : les premières demandes formelles sont attendues dans les…"
    },
    {
     "n": 3,
@@ -2041,7 +2439,20 @@
       "valeur": "30/09",
       "legende": "publication dans Nature"
      }
-    ]
+    ],
+    "change": "Pour l'instant, un outil de recherche : les laboratoires peuvent s'en servir pour marquer leurs conceptions, mais il n'existe pas d'obligation de l'utiliser. DeepMind publie les méthodes et met le code et des données à disposition (Help Net Security)."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Green IT : webinaire à 17h15 sur les impacts environnementaux et sanitaires de l'IA, avec les coauteurs de l'étude (selon l'association)."
+   },
+   {
+    "jour": "~",
+    "mois": "OCT.",
+    "texte": "FTC : envoi des demandes d'information formelles à OpenAI, Anthropic et METR attendu « dans les semaines à venir » (date non fixée)."
    }
   ],
   "chiffreDuJour": null,
@@ -2089,7 +2500,8 @@
       "valeur": "1 750",
       "legende": "emplois permanents"
      }
-    ]
+    ],
+    "change": "Pour l'instant, c'est un projet annoncé : la Maison Blanche promet 1 750 emplois permanents et 6 000 emplois de chantier. Pour les entreprises qui achètent de l'acier, il ne change pas les prix à court terme, puisque les premières tonnes sont attendues en…"
    },
    {
     "n": 2,
@@ -2108,7 +2520,8 @@
       "valeur": "≈29 %",
       "legende": "de prime selon le FT"
      }
-    ]
+    ],
+    "change": "Pour les actionnaires d'Evonik, la question est celle du prix. Aucune information publique sur les emplois ou les sites à ce stade."
    },
    {
     "n": 3,
@@ -2131,7 +2544,8 @@
       "valeur": "10 Md$",
       "legende": "engagés au lancement (plus de)"
      }
-    ]
+    ],
+    "change": "Pour Samsung, le montant est un placement financier et un accès à un client potentiel pour ses puces, ses batteries et son refroidissement. Pour Helix, 1 milliard de dollars de plus s'ajoute aux plus de 10 milliards déjà engagés."
    },
    {
     "n": 4,
@@ -2150,7 +2564,25 @@
       "valeur": "+47 %",
       "legende": "de prime sur le dernier cours"
      }
-    ]
+    ],
+    "change": "Pour les actionnaires de Vesuvius, une proposition avec prime. Pour les clients, un rapprochement de deux fournisseurs de réfractaires réduirait le nombre d'acteurs, sans information publique sur les conséquences."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "OCT.",
+    "texte": "Zone euro : taux de chômage d'août et PMI manufacturier définitif de septembre. France : immatriculations de septembre. Entreprises : résultats d'Accenture et…"
+   },
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "Zone euro : première estimation de l'inflation de septembre. États-Unis : rapport sur l'emploi de septembre."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Insee : résultats définitifs de l'inflation de septembre en France."
    }
   ],
   "chiffreDuJour": null,
@@ -2198,7 +2630,8 @@
       "valeur": "-29 %",
       "legende": "betteraves, 25,4 Mt"
      }
-    ]
+    ],
+    "change": "Les besoins en maïs ne baissent pas avec la récolte : selon La France Agricole, les importations françaises de maïs monteraient à 0,8 million de tonnes, contre 0,48 en moyenne sur cinq ans. Au niveau européen, la production de maïs grain passerait sous 50…"
    },
    {
     "n": 2,
@@ -2221,7 +2654,20 @@
       "valeur": "235 M€",
       "legende": "fonds de réarmement"
      }
-    ]
+    ],
+    "change": "Pour une exploitation, l'aide arrive en plusieurs étapes : avance de l'ISN, aides aux intrants via les préfectures, allègements fiscaux et sociaux. Pour les consommateurs, l'effet dépend des filières : maïs et betteraves entrent dans l'alimentation animale, le…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "SEPT.",
+    "texte": "Date initiale de fin de l'aide exceptionnelle à l'azote, prolongée jusqu'au 31 décembre."
+   },
+   {
+    "jour": "31",
+    "mois": "DÉC.",
+    "texte": "Fin de l'aide à l'azote prolongée."
    }
   ],
   "chiffreDuJour": null,
@@ -2269,7 +2715,20 @@
       "valeur": "1 voix",
       "legende": "d'écart pour le 3e siège (calcul)"
      }
-    ]
+    ],
+    "change": "Le département reste représenté par trois sénateurs qui votent les lois et portent au Parlement les dossiers des communes et du département (eau, littoral, financement des collectivités). Le siège de député de Christophe Plassard change de titulaire : selon…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "OCT.",
+    "texte": "Forum des emplois saisonniers d'hiver, Maison de la Charente-Maritime, La Rochelle, 9 h à 16 h 30."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle, à l'Hôtel de ville (calendrier publié par larochelle.fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -2313,7 +2772,8 @@
       "valeur": "1 sur 3",
       "legende": "partirait avant 65 ans, selon lui"
      }
-    ]
+    ],
+    "change": "C'est une proposition de campagne : elle ne s'appliquerait qu'après la présidentielle et un vote du Parlement. La réforme de 2023 reste suspendue en attendant."
    },
    {
     "n": 2,
@@ -2336,7 +2796,8 @@
       "valeur": "62",
       "legende": "sénateurs PS au dernier pointage"
      }
-    ]
+    ],
+    "change": "À ce stade, Gabriel Amard n'a pas de groupe. Le groupe PS compte 62 sénateurs au dernier pointage, contre 64 avant les sénatoriales."
    },
    {
     "n": 3,
@@ -2359,7 +2820,8 @@
       "valeur": "13,7 %",
       "legende": "d'enseignants en grève à la mi-journée"
      }
-    ]
+    ],
+    "change": "Le gel du point d'indice fait partie du projet de budget 2027, dont le texte peut encore être modifié par le Parlement."
    },
    {
     "n": 4,
@@ -2382,7 +2844,40 @@
       "valeur": "3 596",
       "legende": "milliards d'euros de dette"
      }
-    ]
+    ],
+    "change": "Plus la dette est élevée, plus la part du budget consacrée aux intérêts peut peser, surtout si les taux d'emprunt montent."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "SEPT.",
+    "texte": "Vote du groupe PS au Sénat (président de groupe). En Suède, le président du Riksdag reçoit les chefs de parti."
+   },
+   {
+    "jour": "1er",
+    "mois": "OCT.",
+    "texte": "Budget 2027 présenté en Conseil des ministres."
+   },
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "Groupe écologiste du Sénat : composition finale au plus tard ce jour."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Listes des groupes au Sénat, puis élection de son président."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Le budget arrive dans l'hémicycle de l'Assemblée."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,
@@ -2430,7 +2925,8 @@
       "valeur": "~10",
       "legende": "membres d'un comité évoqué par Trump"
      }
-    ]
+    ],
+    "change": "Pour les entreprises, des engagements de procédure sans contrainte légale ; pour le public, aucune nouvelle garantie juridique à ce stade. Selon Donald Trump, les entreprises ont aussi accepté de soutenir davantage les écoles locales ou de réduire les coûts…"
    },
    {
     "n": 2,
@@ -2453,7 +2949,8 @@
       "valeur": "1/5",
       "legende": "prix de Sol vs Astra (OpenAI)"
      }
-    ]
+    ],
+    "change": "Le modèle Astra n'est pas disponible ; les utilisateurs de ChatGPT Work et de Codex accèdent à Sol, présenté par OpenAI comme moins cher."
    },
    {
     "n": 3,
@@ -2476,7 +2973,20 @@
       "valeur": "2026",
       "legende": "clôture visée fin d'année"
      }
-    ]
+    ],
+    "change": "Pour le secteur : un fabricant de puces intègre une équipe de recherche sur les modèles ; pour les clients, aucun changement immédiat. Horizon : fin 2026 si les autorisations sont obtenues."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "~",
+    "mois": "OCT.",
+    "texte": "Accord de la Maison-Blanche : Donald Trump annonce la nomination d'un responsable du suivi dans les prochains jours (date non fixée)."
+   },
+   {
+    "jour": "31",
+    "mois": "DÉC.",
+    "texte": "AMD / World Labs : clôture attendue d'ici fin 2026, sous réserve des autorisations (date précise non communiquée)."
    }
   ],
   "chiffreDuJour": null,
@@ -2524,7 +3034,8 @@
       "valeur": "121,7",
       "legende": "% du PIB prévus fin 2027"
      }
-    ]
+    ],
+    "change": "Plus la dette est élevée, plus l'État paie d'intérêts chaque année, et cet argent ne finance ni écoles ni hôpitaux. La facture dépend aussi du taux auquel la France emprunte, qui a encore monté lundi (voir le chiffre du jour)."
    },
    {
     "n": 2,
@@ -2547,7 +3058,8 @@
       "valeur": "+4 %",
       "legende": "de production par an d'ici 2030"
      }
-    ]
+    ],
+    "change": "Les actionnaires recevront davantage, grâce aux profits tirés de la hausse du pétrole. Le débat porte sur le partage de ces profits entre actionnaires, investissements, consommateurs et État, comme le montrent les propositions politiques ci-dessus."
    },
    {
     "n": 3,
@@ -2570,7 +3082,8 @@
       "valeur": "2e",
       "legende": "plus gros rachat de l'histoire d'AMD"
      }
-    ]
+    ],
+    "change": "La course aux chercheurs en IA se joue désormais à coups de milliards : moins d'un mois plus tôt, Nvidia annonçait le rachat de la plateforme Hugging Face pour 12,9 milliards de dollars. Les grands groupes achètent des équipes entières plutôt que de les…"
    },
    {
     "n": 4,
@@ -2593,7 +3106,8 @@
       "valeur": "5,3 %",
       "legende": "de Gotion cédés par Volkswagen"
      }
-    ]
+    ],
+    "change": "Des batteries moins chères produites en Europe pourraient faire baisser le prix des petites voitures électriques. En échange, un industriel chinois prend une place importante dans une usine présentée comme un pilier de l'autonomie européenne. Electrive relève…"
    },
    {
     "n": 5,
@@ -2616,7 +3130,35 @@
       "valeur": "+6,2 %",
       "legende": "pour l'action Northern Star"
      }
-    ]
+    ],
+    "change": "Les producteurs d'or se regroupent pour réduire leurs coûts et s'assurer des réserves, alors que les gisements faciles à exploiter s'épuisent, selon Reuters. L'offre arrive au moment où la hausse des cours de l'or, record en début d'année, s'essouffle."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "SEPT.",
+    "texte": "Insee : inflation de septembre (estimation provisoire) et consommation des ménages en août. États-Unis : indice des prix PCE d'août, la mesure d'inflation…"
+   },
+   {
+    "jour": "1er",
+    "mois": "OCT.",
+    "texte": "Ventes de voitures neuves en France en septembre et indice PMI de l'industrie."
+   },
+   {
+    "jour": "2",
+    "mois": "OCT.",
+    "texte": "États-Unis : chiffres de l'emploi de septembre. FAO : indice des prix alimentaires mondiaux. Bonduelle : résultats annuels."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Indice PMI composite de septembre (industrie et services)."
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "Insee : production industrielle d'août."
    }
   ],
   "chiffreDuJour": null,
@@ -2664,7 +3206,8 @@
       "valeur": "5 ans",
       "legende": "durée des droits définitifs"
      }
-    ]
+    ],
+    "change": "Les entreprises européennes qui achètent de la protéine de pois chinoise paient ces droits en plus du prix d'achat. Les producteurs européens, eux, retrouvent une concurrence sur des prix sans dumping, selon la logique de la Commission."
    },
    {
     "n": 2,
@@ -2687,7 +3230,8 @@
       "valeur": "2028",
       "legende": "début du prochain budget européen"
      }
-    ]
+    ],
+    "change": "Pour les agriculteurs, c'est le cadre des aides à partir de 2028 qui se dessine : qui y a droit, jusqu'à quel montant, et avec quelles marges laissées à chaque pays. Rien ne change pour la campagne en cours."
    },
    {
     "n": 3,
@@ -2710,7 +3254,8 @@
       "valeur": "6 %",
       "legende": "de bio en cantine (20 % visés)"
      }
-    ]
+    ],
+    "change": "Au supermarché, des produits bio retirés des rayons y reviennent, selon l'Agence Bio, et l'écart de prix avec le conventionnel s'est réduit. Dans les cantines, le bio reste à 6 % des achats, contre 20 % prévus par la loi."
    },
    {
     "n": 4,
@@ -2733,7 +3278,20 @@
       "valeur": "1,6 g",
       "legende": "de protéines/kg, haut de la fourchette"
      }
-    ]
+    ],
+    "change": "Aux États-Unis, ces recommandations servent de base aux programmes publics : aide alimentaire, cantines scolaires, repas de l'armée et des hôpitaux. Leur contenu pèse donc sur des millions de repas servis chaque jour."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "4",
+    "mois": "OCT.",
+    "texte": "Fin de la Grande Semaine Végétale."
+   },
+   {
+    "jour": "6-9",
+    "mois": "OCT.",
+    "texte": "Sommet de l'élevage à Cournon-d'Auvergne (Puy-de-Dôme). Agro Matin"
    }
   ],
   "chiffreDuJour": null,
@@ -2781,7 +3339,8 @@
       "valeur": "20 000",
       "legende": "habitants concernés"
      }
-    ]
+    ],
+    "change": "Si vous habitez le centre-ville de La Rochelle, Bourgneuf ou Montroy, votre eau vient pour l'instant de la Charente, via l'usine de Coulonge. Selon l'Agglomération, vous n'avez rien à faire : l'eau reste potable."
    },
    {
     "n": 2,
@@ -2804,7 +3363,8 @@
       "valeur": "+20 %",
       "legende": "d'étudiants aidés, selon la Banque"
      }
-    ]
+    ],
+    "change": "Pour un étudiant qui mange chaque midi au restau U, le repas à 1 euro au lieu de 3,30 euros représente 2,30 euros d'économie par repas. Mais il ne couvre qu'un repas par jour, et ne règle ni le loyer ni les courses."
    },
    {
     "n": 3,
@@ -2827,7 +3387,30 @@
       "valeur": "30 min",
       "legende": "délai minimum de réservation"
      }
-    ]
+    ],
+    "change": "Si vous utilisiez un TAD 30, 31 ou 32, vous pouvez désormais aller d'un village à l'autre de votre zone sans rejoindre un arrêt de correspondance. Le service fonctionne en semaine de 9 h à 16 h ; les titres Yélo habituels restent valables. Réservation jusqu'à…"
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "29",
+    "mois": "SEPT.",
+    "texte": "Grève dans la fonction publique : écoles, cantines et périscolaire perturbés à La Rochelle."
+   },
+   {
+    "jour": "30",
+    "mois": "SEPT.",
+    "texte": "Budget de l'État 2027 présenté au Parlement (dont les crédits de la vie étudiante)."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Giratoire Treich Laplène : fermeture de la partie nord, nouveaux sens de circulation (rue de l'Oise, avenue de Rompsay)."
+   },
+   {
+    "jour": "FIN",
+    "mois": "OCT.",
+    "texte": "Compteurs d'eau connectés : début de la pose à L'Houmeau. Fin des travaux Treich Laplène le 31."
    }
   ],
   "chiffreDuJour": null,
@@ -2875,7 +3458,8 @@
       "valeur": "1",
       "legende": "plainte en diffamation"
      }
-    ]
+    ],
+    "change": "L'affaire touche le président du parti qui présente Marine Le Pen à la présidentielle, à six mois et demi du premier tour. Elle se jouera d'abord devant la justice, saisie par la plainte."
    },
    {
     "n": 2,
@@ -2898,7 +3482,8 @@
       "valeur": "40 %",
       "legende": "de grévistes attendus en primaire"
      }
-    ]
+    ],
+    "change": null
    },
    {
     "n": 3,
@@ -2921,7 +3506,8 @@
       "valeur": "5/10",
       "legende": "date limite des groupes"
      }
-    ]
+    ],
+    "change": "Les premiers votes du nouveau Sénat, notamment pour les vice-présidences, montreront si la majorité de droite et du centre vote ou non avec le groupe RN."
    },
    {
     "n": 4,
@@ -2944,7 +3530,35 @@
       "valeur": "3 ans",
       "legende": "d'inéligibilité avec sursis requis"
      }
-    ]
+    ],
+    "change": null
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "29",
+    "mois": "SEPT.",
+    "texte": "Grève de la fonction publique ; décision des sénateurs écologistes sur Gabriel Amard."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Listes des groupes au Sénat, puis élection de son président."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Région Sud : élection possible du successeur de Renaud Muselier."
+   },
+   {
+    "jour": "21",
+    "mois": "JANV.",
+    "texte": "Jugement du procès Dati-Ghosn."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,
@@ -2992,7 +3606,8 @@
       "valeur": "42 %",
       "legende": "des cas en Asie de l'Est"
      }
-    ]
+    ],
+    "change": "Rien de nouveau à inventer, dès aujourd'hui : les vaccins contre le HPV et l'hépatite B, le dépistage du cancer du col et les traitements des hépatites existent déjà. L'étude mesure l'ampleur de ce qui pourrait être évité s'ils étaient plus utilisés, surtout…"
    },
    {
     "n": 2,
@@ -3015,7 +3630,8 @@
       "valeur": "157",
       "legende": "patients opérés, 11 pays"
      }
-    ]
+    ],
+    "change": "À court terme : les auteurs concluent que la radiothérapie doit être envisagée après l'ablation complète d'un méningiome atypique quand la prévention de la récidive compte plus que le risque d'effets tardifs. Ils insistent : la décision se prend au cas par…"
    },
    {
     "n": 3,
@@ -3038,7 +3654,8 @@
       "valeur": "4,4 %",
       "legende": "d'hémorragies graves (2,1 % sous placebo)"
      }
-    ]
+    ],
+    "change": "Pas encore, ni pour les patients ni pour les soignants. C'est une piste de recherche sur une médecine « sur mesure », qui choisirait un traitement préventif selon le profil génétique."
    },
    {
     "n": 4,
@@ -3061,7 +3678,20 @@
       "valeur": "×2,2",
       "legende": "arsenic vs référence américaine"
      }
-    ]
+    ],
+    "change": "Pour les autorités : selon les auteurs, surveiller seulement la qualité de l'air pendant et juste après un incendie peut sous-estimer l'exposition réelle. Le nettoyage des sols, des débris et des poussières compte aussi."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage. Les deux…"
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un…"
    }
   ],
   "chiffreDuJour": null,
@@ -3109,7 +3739,8 @@
       "valeur": "14",
       "legende": "membres du 1er groupe RN"
      }
-    ]
+    ],
+    "change": "Un groupe, c'est du temps de parole garanti en séance, des postes au bureau et dans les commissions, et le droit de faire inscrire ses propres textes à l'ordre du jour."
    },
    {
     "n": 2,
@@ -3132,7 +3763,8 @@
       "valeur": "5 %",
       "legende": "déficit visé en 2027"
      }
-    ]
+    ],
+    "change": "C'est le dernier budget avant la présidentielle d'avril 2027. Sans majorité absolue à l'Assemblée, le gouvernement devra négocier mesure par mesure, ou utiliser le 49.3 au risque d'une motion de censure."
    },
    {
     "n": 3,
@@ -3155,7 +3787,8 @@
       "valeur": "12",
       "legende": "policiers blessés"
      }
-    ]
+    ],
+    "change": null
    },
    {
     "n": 4,
@@ -3165,7 +3798,8 @@
     "legende": "Le pape Léon XIV",
     "chapeau": "Le 25 septembre, dans son premier discours en France, prononcé en français à l'Élysée devant Emmanuel Macron, le pape a prôné une « juste laïcité » et dénoncé « l'offre d'une mort programmée », visant la loi sur l'aide à mourir. Il a aussi critiqué « la conviction, erronée, que la possession de l'arme nucléaire serait…",
     "eclairage": "Où en est la loi sur l'aide à mourir ?",
-    "chiffres": []
+    "chiffres": [],
+    "change": null
    },
    {
     "n": 5,
@@ -3188,7 +3822,40 @@
       "valeur": "21/01",
       "legende": "jugement le 21 janvier"
      }
-    ]
+    ],
+    "change": null
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "SEPT.",
+    "texte": "Dépôt du budget 2027 au Parlement."
+   },
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Listes des groupes au Sénat, puis élection de son président."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Région Sud : élection possible du successeur de Renaud Muselier."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Le budget arrive dans l'hémicycle de l'Assemblée."
+   },
+   {
+    "jour": "21",
+    "mois": "JANV.",
+    "texte": "Jugement du procès Dati-Ghosn."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
    }
   ],
   "chiffreDuJour": null,

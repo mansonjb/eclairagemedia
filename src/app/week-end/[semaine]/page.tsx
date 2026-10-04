@@ -12,11 +12,14 @@ export default async function WeekEnd({ params }: { params: Promise<{ semaine: s
   const jours = joursDeSemaine(semaine).filter(estWeekEnd);
   if (!jours.length) notFound();
   return (
-    <main className="mx-auto max-w-4xl px-4 pt-12">
-      <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-gris">L&apos;édition du week-end</p>
-      <h1 className="mt-3 font-serif text-5xl font-medium tracking-[-0.01em]">{jours.map(dateLongue).join(" et ")}</h1>
-      <Link href={`/semaine/${semaine}`} className="mt-4 inline-block text-sm underline decoration-soleil decoration-2 underline-offset-4">Toute la semaine {libelleSemaine(semaine)} →</Link>
-      <div className="mt-12"><Recap jours={jours} /></div>
+    <main className="mx-auto max-w-5xl px-4">
+      <section className="relative mt-4 overflow-hidden rounded-[28px] bg-creme px-6 py-10 text-center">
+        <span className="halo absolute left-1/2 top-0 h-72 w-[480px] -translate-x-1/2 -translate-y-1/2 rounded-full" />
+        <span className="pastille relative bg-orange text-white">L&apos;édition du week-end</span>
+        <h1 className="relative mt-4 text-[30px] font-extrabold sm:text-[40px]">{jours.map(dateLongue).join(" et ")}</h1>
+        <Link href={`/semaine/${semaine}`} className="relative mt-5 inline-block rounded-full bg-white px-4 py-2 text-sm font-extrabold hover:bg-fond">Toute la semaine {libelleSemaine(semaine)} →</Link>
+      </section>
+      <div className="mt-10"><Recap jours={jours} /></div>
     </main>
   );
 }

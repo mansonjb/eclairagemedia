@@ -1,36 +1,46 @@
 import Link from "next/link";
 import { semaines, joursDeSemaine, libelleSemaine, dateLongue, parDate, estWeekEnd, RUBRIQUES } from "@/lib/editions";
+import { Section, TuileDate, jourMois } from "@/components/ui";
 
 export const metadata = { title: "Archives" };
 
 export default function Archives() {
   return (
-    <main className="mx-auto max-w-4xl px-4 pt-12">
-      <h1 className="font-serif text-5xl font-medium tracking-[-0.01em]">Archives</h1>
-      <p className="mt-3 text-lg text-gris">Toutes les éditions, jour par jour, avec les récaps de la semaine et du week-end.</p>
-      <div className="mt-12 space-y-14">
+    <main className="mx-auto max-w-5xl px-4">
+      <section className="mt-4 rounded-[28px] bg-creme px-6 py-10 text-center">
+        <span className="pastille bg-jaune text-encre">Archives</span>
+        <h1 className="mt-4 text-[34px] font-extrabold sm:text-[44px]">Toutes les éditions, jour par jour</h1>
+        <p className="mt-2 text-[15px] text-gris">Avec le récap de chaque semaine et de chaque week-end.</p>
+      </section>
+      <div className="mt-10 space-y-12">
         {semaines().map((s) => {
           const jours = joursDeSemaine(s).reverse();
           return (
             <section key={s}>
-              <div className="flex flex-wrap items-end justify-between gap-2 border-b border-encre pb-3">
-                <h2 className="font-serif text-2xl font-medium">Semaine {libelleSemaine(s)}</h2>
-                <div className="flex gap-5 text-sm">
-                  <Link href={`/semaine/${s}`} className="underline decoration-soleil decoration-2 underline-offset-4">Récap de la semaine</Link>
-                  {jours.some(estWeekEnd) && <Link href={`/week-end/${s}`} className="underline decoration-soleil decoration-2 underline-offset-4">Récap du week-end</Link>}
+              <div className="flex flex-wrap items-center justify-between gap-3">
+                <Section couleur="#2f3cff">Semaine {libelleSemaine(s)}</Section>
+                <div className="flex flex-wrap gap-2 text-[13px] font-extrabold">
+                  <Link href={`/semaine/${s}`} className="rounded-full bg-white px-4 py-2 hover:bg-creme">Récap de la semaine</Link>
+                  {jours.some(estWeekEnd) && <Link href={`/week-end/${s}`} className="rounded-full bg-white px-4 py-2 hover:bg-creme">Récap du week-end</Link>}
                 </div>
               </div>
-              <div className="divide-y divide-filet">
-                {jours.map((d) => (
-                  <Link key={d} href={`/jour/${d}`} className="group grid gap-2 py-4 sm:grid-cols-[220px_1fr]">
-                    <span className="font-serif text-lg text-encre group-hover:underline decoration-soleil decoration-2 underline-offset-4">{dateLongue(d)}</span>
-                    <span className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gris">
-                      {parDate(d).map((e) => (
-                        <span key={e.rubrique} className="flex items-center gap-1.5"><span className="h-1.5 w-1.5 rounded-full" style={{ backgroundColor: RUBRIQUES[e.rubrique].couleur }} />{RUBRIQUES[e.rubrique].court}</span>
-                      ))}
-                    </span>
-                  </Link>
-                ))}
+              <div className="carte mt-3 divide-y divide-filet px-4 py-1">
+                {jours.map((d) => {
+                  const { jour, mois } = jourMois(d);
+                  return (
+                    <Link key={d} href={`/jour/${d}`} className="group flex items-center gap-4 py-3">
+                      <TuileDate jour={jour} mois={mois} couleur="#2f3cff" fond="#e8eaff" />
+                      <div className="min-w-0">
+                        <p className="font-extrabold group-hover:underline">{dateLongue(d)}</p>
+                        <div className="mt-1.5 flex flex-wrap gap-1.5">
+                          {parDate(d).map((e) => (
+                            <span key={e.rubrique} className="pastille" style={{ backgroundColor: RUBRIQUES[e.rubrique].fond, color: RUBRIQUES[e.rubrique].couleur }}>{RUBRIQUES[e.rubrique].court}</span>
+                          ))}
+                        </div>
+                      </div>
+                    </Link>
+                  );
+                })}
               </div>
             </section>
           );

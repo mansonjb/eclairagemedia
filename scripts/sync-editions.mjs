@@ -11,7 +11,7 @@ const PREFIX = { "": "politique", eco: "economie", sante: "sante", local: "local
 const SKIP = new Set(["2026-09-28.html"]); // ancienne maquette « La Revue. »
 
 const ent = (s) => s.replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#39;|&rsquo;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">");
-const strip = (s) => ent(s.replace(/<br\s*\/?>/g, " ").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+const strip = (s) => ent(s.replace(/<br\s*\/?>/g, " ").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").replace(/ ([,.)])/g, "$1").trim();
 const coupe = (t, n) => (t.length <= n ? t : t.slice(0, t.lastIndexOf(" ", n)) + "…");
 // Deux premières phrases d'un paragraphe
 const chapeau = (t) => { const p = t.match(/[^.!?]+[.!?]+(\s|$)/g) || [t]; return coupe(p.slice(0, 2).join("").trim(), 320); };
@@ -41,13 +41,16 @@ function extraire(html) {
       chapeau: passe ? chapeau(strip(passe[1])) : null,
       eclairage: ecl ? strip(ecl[1]) : null,
       chiffres,
+      change: (bloc.match(/CE QUE ÇA CHANGE<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/) || [])[1] ? coupe(strip(bloc.match(/CE QUE ÇA CHANGE<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/)[1]), 260) : null,
     });
   });
   const cj = html.match(/CHIFFRE DU JOUR<\/div>\s*<div[^>]*>([^<]{1,16})<\/div>\s*<div[^>]*>([\s\S]*?)<\/div>/);
   const lex = html.indexOf("LEXIQUE DU JOUR");
   const lexique = lex < 0 ? [] : [...html.slice(lex, lex + 6000).matchAll(/<b[^>]*>([^<]{2,60})<\/b><br>([\s\S]*?)<\/div>/g)]
     .slice(0, 6).map((x) => ({ terme: strip(x[1]), definition: strip(x[2]) }));
-  return { sujets, chiffreDuJour: cj ? { valeur: strip(cj[1]), texte: strip(cj[2]) } : null, lexique };
+  const agenda = [...html.matchAll(/font-size:22px;font-weight:900;line-height:1;[^>]*>([^<]{1,3})<\/div>\s*<div[^>]*>([^<]{2,12})<\/div>\s*<\/div>\s*<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/g)]
+    .slice(0, 6).map((x) => ({ jour: strip(x[1]), mois: strip(x[2]), texte: coupe(strip(x[3]), 160) }));
+  return { sujets, agenda, chiffreDuJour: cj ? { valeur: strip(cj[1]), texte: strip(cj[2]) } : null, lexique };
 }
 
 fs.rmSync(OUT, { recursive: true, force: true });
@@ -59,9 +62,7 @@ for (const file of fs.readdirSync(SRC).sort()) {
   if (!rubrique) continue;
   const date = m[2];
   let html = fs.readFileSync(path.join(SRC, file), "utf8");
-  // Sur le site, l'en-tête de l'email (logo, accroche) fait doublon : on le retire.
-  html = html.replace(/<!-- MASTHEAD[\s\S]*?<tr><td style="height:14px;"><\/td><\/tr>/, "")
-             .replace(/src="assets\/logo-eclairage\.png"/g, 'src="/logo-eclairage.png"');
+  html = html.replace(/src="assets\/logo-eclairage\.png"/g, 'src="/logo-eclairage.png"');
   fs.mkdirSync(path.join(OUT, rubrique), { recursive: true });
   fs.writeFileSync(path.join(OUT, rubrique, `${date}.html`), html);
   index.push({ rubrique, date, ...extraire(html) });
