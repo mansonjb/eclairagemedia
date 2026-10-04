@@ -33,7 +33,7 @@ export default function Onglets({ items }: { items: Item[] }) {
         <div key={filtre + "l"} className="apparait carte mt-4 divide-y divide-filet px-4 sm:px-6">
           {reste.map((it) => <LigneArticle key={it.href + it.titre} it={it} />)}
           {suite.length > 6 && (
-            <button onClick={() => setTout(!tout)} className="w-full py-3 text-sm font-extrabold text-bleu">{tout ? "Voir moins" : `Voir les ${suite.length - 6} autres sujets`}</button>
+            <button onClick={() => setTout(!tout)} className="w-full py-3 text-sm font-extrabold text-bleu">{tout ? "Voir moins" : suite.length - 6 === 1 ? "Voir l'autre sujet" : `Voir les ${suite.length - 6} autres sujets`}</button>
           )}
         </div>
       )}
