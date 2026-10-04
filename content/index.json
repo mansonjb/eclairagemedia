@@ -6,17 +6,86 @@
    {
     "n": 1,
     "theme": "INDUSTRIE",
-    "titre": "HyPrSpace ouvre près de Bordeaux sa première usine de fusées, avant un premier vol prévu en 2027"
+    "titre": "HyPrSpace ouvre près de Bordeaux sa première usine de fusées, avant un premier vol prévu en 2027",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, la start-up spatiale bordelaise HyPrSpace a inauguré au Haillan, en Gironde, un site de production de 7 000 m² surnommé « la Boulangerie », en référence à son lanceur « Baguette One » (Reuters, Zone Militaire). Il comprend deux bâtiments, l'un pour fabriquer les pièces et tester, l'autre pour…",
+    "eclairage": "Comment une start-up de fusées peut-elle gagner de l'argent ?",
+    "chiffres": [
+     {
+      "valeur": "100",
+      "legende": "moteurs par an visés, soit 12 à 15 lanceurs"
+     },
+     {
+      "valeur": "150",
+      "legende": "salariés de l'entreprise"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ÉNERGIE",
-    "titre": "Électricité : 520 heures à prix négatif en France depuis janvier, et pourtant des factures en hausse"
+    "titre": "Électricité : 520 heures à prix négatif en France depuis janvier, et pourtant des factures en hausse",
+    "image": null,
+    "legende": null,
+    "chapeau": "Selon des données Bloomberg relayées par BFM et reprises par Capital et Orange ces derniers jours, le prix de gros de l'électricité en France a été négatif pendant environ 520 heures entre le 1er janvier et le 27 septembre 2026, soit 22 jours cumulés. Le 1er mai à 13h30, le prix spot est tombé à −498,65 euros le…",
+    "eclairage": "Pourquoi un prix négatif, et pourquoi la facture ne baisse pas",
+    "chiffres": [
+     {
+      "valeur": "520 h",
+      "legende": "de prix négatifs du 1er janvier au 27 sept."
+     },
+     {
+      "valeur": "−499 €",
+      "legende": "le 1er mai, en €/MWh (plancher : −500)"
+     },
+     {
+      "valeur": "+2,5 %",
+      "legende": "tarif réglementé, moyenne au 1er août"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "MONDE",
-    "titre": "Espagne : manifestations sur le logement après le rejet de deux décrets du gouvernement"
+    "titre": "Espagne : manifestations sur le logement après le rejet de deux décrets du gouvernement",
+    "image": null,
+    "legende": null,
+    "chapeau": "Samedi 3 octobre, des dizaines de milliers de personnes ont manifesté à Madrid et dans d'autres villes espagnoles contre la crise du logement (Reuters, France 24, franceinfo). À Madrid, 70 000 personnes étaient présentes selon les autorités et 500 000 selon le Syndicat des locataires (franceinfo).",
+    "eclairage": "Pourquoi un loyer peut grimper plus vite que les salaires",
+    "chiffres": [
+     {
+      "valeur": "70 000",
+      "legende": "manifestants à Madrid selon les autorités"
+     },
+     {
+      "valeur": "500 000",
+      "legende": "selon le Syndicat des locataires"
+     },
+     {
+      "valeur": "98,7 %",
+      "legende": "du salaire d'un jeune : le loyer moyen"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Prix de gros",
+    "definition": "Le prix auquel un producteur vend l'électricité à un fournisseur, avant que celui-ci ne la revende aux clients. Il change heure par heure."
+   },
+   {
+    "terme": "Tarif réglementé",
+    "definition": "Un prix de vente fixé selon une méthode encadrée, que le fournisseur historique propose aux ménages. Il tient compte de l'énergie, du réseau et des taxes."
+   },
+   {
+    "terme": "Production en série",
+    "definition": "Fabriquer de nombreux exemplaires identiques avec des méthodes répétables, pour faire baisser le coût de chacun."
+   },
+   {
+    "terme": "Taux d'effort",
+    "definition": "La part du revenu d'un ménage consacrée à une dépense, ici le loyer."
    }
   ]
  },
@@ -27,12 +96,67 @@
    {
     "n": 1,
     "theme": "RÉGLEMENTATION",
-    "titre": "PAC 2026 : les montants des aides publiés, avec 110 € par hectare pour l'écorégime bio"
+    "titre": "PAC 2026 : les montants des aides publiés, avec 110 € par hectare pour l'écorégime bio",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, sept arrêtés publiés au Journal officiel ont fixé les montants des aides de la Politique agricole commune (PAC) pour la campagne 2026. La valeur unitaire des droits au paiement de base est de 127,70 € par hectare dans l'Hexagone (144,52 € en Corse).",
+    "eclairage": "L'écorégime, c'est quoi ?",
+    "chiffres": [
+     {
+      "valeur": "127,70",
+      "legende": "€/ha, valeur du droit de base (Hexagone)"
+     },
+     {
+      "valeur": "110 €",
+      "legende": "écorégime bio, par hectare"
+     },
+     {
+      "valeur": "3 700",
+      "legende": "€, complément jeunes agriculteurs"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "AGRICULTURE",
-    "titre": "Betteraves : au moins 20 000 hectares ne seront pas récoltés, des essais de méthanisation démarrent"
+    "titre": "Betteraves : au moins 20 000 hectares ne seront pas récoltés, des essais de méthanisation démarrent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sugar_beet_harvest_-_geograph.org.uk_-_566296.jpg/960px-Sugar_beet_harvest_-_geograph.org.uk_-_566296.jpg",
+    "legende": "Récolte de betteraves à sucre (illustration, Royaume-Uni)",
+    "chapeau": "Selon Agreste, cité par La France Agricole, la production de betteraves « s'établirait à 25,4 Mt, un point bas depuis au moins 1980 », en baisse de 29 % sur un an : les surfaces reculent de 6 % et le rendement moyen de 24 % (68,2 t/ha). Réussir, pour la même estimation, indique 26,4 Mt : l'écart n'est pas expliqué dans…",
+    "eclairage": "Pourquoi une betterave pourrit-elle sur pied ?",
+    "chiffres": [
+     {
+      "valeur": "25,4",
+      "legende": "millions de tonnes prévues (Agreste)"
+     },
+     {
+      "valeur": "-29 %",
+      "legende": "production sur un an"
+     },
+     {
+      "valeur": "20 000",
+      "legende": "hectares non récoltables (CGB)"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Écorégime",
+    "definition": "Aide à l'hectare de la PAC pour des pratiques favorables à l'environnement, avec un niveau réservé au bio."
+   },
+   {
+    "terme": "Droit au paiement de base",
+    "definition": "Aide de base de la PAC, calculée par hectare ; sa valeur unitaire est de 127,70 € en 2026 dans l'Hexagone."
+   },
+   {
+    "terme": "Rhizopus",
+    "definition": "Champignon qui provoque des pourritures sur la betterave quand la plante est affaiblie et blessée."
+   },
+   {
+    "terme": "Collet",
+    "definition": "Haut de la racine de la betterave, partie contrôlée avant réception à la sucrerie."
    }
   ]
  },
@@ -43,7 +167,36 @@
    {
     "n": 1,
     "theme": "DÉPARTEMENT",
-    "titre": "Pont d'Oléron : un mois de concertation sur la restauration et son financement"
+    "titre": "Pont d'Oléron : un mois de concertation sur la restauration et son financement",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le Département de la Charente-Maritime, propriétaire du pont qui relie l'île d'Oléron au continent depuis 1966, a présenté le 28 septembre les modalités d'une concertation « Avenir pont d'Oléron », ouverte du 9 octobre au 9 novembre 2026. Elle porte sur trois scénarios de mise à niveau des garde-corps, l'aménagement…",
+    "eclairage": "Qui décide, et comment ?",
+    "chiffres": [
+     {
+      "valeur": "1966",
+      "legende": "pont ouvert, péage jusqu'en 1991"
+     },
+     {
+      "valeur": "1 mois",
+      "legende": "de concertation 9 oct. – 9 nov."
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Concertation",
+    "definition": "Phase où une collectivité recueille l'avis du public avant de décider. Elle ne tranche pas : la décision revient aux élus."
+   },
+   {
+    "terme": "Droit départemental de passage",
+    "definition": "Nom du péage que le Département pourrait instaurer sur le pont, payé par les usagers."
+   },
+   {
+    "terme": "Garde-corps",
+    "definition": "Barrières latérales d'un pont, qui protègent les usagers du vide."
    }
   ]
  },
@@ -54,17 +207,73 @@
    {
     "n": 1,
     "theme": "ÉDUCATION",
-    "titre": "Lycées : le gouvernement avance l'examen du projet de loi « casseur-payeur »"
+    "titre": "Lycées : le gouvernement avance l'examen du projet de loi « casseur-payeur »",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG/960px-P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG",
+    "legende": "Façade d'un lycée parisien (illustration)",
+    "chapeau": "Samedi 3 octobre, l'entourage du Premier ministre a indiqué que le gouvernement avance l'examen du projet de loi dit « casseur-payeur » : le texte sera inscrit à l'ordre du jour du Sénat en octobre. Il avait été déposé au Sénat le 16 septembre, en procédure accélérée, par les ministres Laurent Nuñez (Intérieur), Gérald…",
+    "eclairage": "Que prévoit le texte ?",
+    "chiffres": [
+     {
+      "valeur": "1 747",
+      "legende": "interpellations vendredi 2 oct."
+     },
+     {
+      "valeur": "5 000+",
+      "legende": "interpellations depuis lundi"
+     },
+     {
+      "valeur": "6 oct.",
+      "legende": "nouvelle journée de mobilisation"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ÉLECTIONS",
-    "titre": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir"
+    "titre": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg/500px-1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+    "legende": "Raphaël Glucksmann",
+    "chapeau": "Vendredi 2 octobre, Le Média, un site proche de la gauche radicale, a diffusé deux extraits d'une conversation privée de l'eurodéputé Place publique Raphaël Glucksmann, candidat à la primaire de la gauche sociale-démocrate. Dans le premier, il parle du débat organisé par le Medef le 27 août, où Marine Le Pen et…",
+    "eclairage": "Comment fonctionne cette primaire ?",
+    "chiffres": [
+     {
+      "valeur": "5",
+      "legende": "candidats à la primaire"
+     },
+     {
+      "valeur": "15 €",
+      "legende": "adhésion (10 € tarif social)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "JUSTICE",
-    "titre": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance"
+    "titre": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance",
+    "image": null,
+    "legende": null,
+    "chapeau": "Samedi 3 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a déclaré à La Tribune Dimanche maintenir « totalement » sa confiance au président du RN, Jordan Bardella. C'est sa première réaction publique depuis que Mediapart a publié, jeudi 1er octobre, des éléments présentés comme…",
+    "eclairage": "Présomption d'innocence. Il s'agit d'accusations publiées par un média et contestées par la personne visée ; aucune décision de justice n'a été rendue. Les plaintes annoncées permettront à un juge de se prononcer sur l'authenticité des messages.",
+    "chiffres": []
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Responsabilité solidaire",
+    "definition": "Obligation de réparer ensemble un même dommage : chacun peut être poursuivi pour la totalité, dans la limite prévue par le texte."
+   },
+   {
+    "terme": "Procédure accélérée",
+    "definition": "Le gouvernement peut limiter à une lecture par chambre avant une commission mixte paritaire (députés et sénateurs), au lieu de plusieurs allers-retours."
+   },
+   {
+    "terme": "Primaire",
+    "definition": "Vote organisé avant l'élection pour désigner le candidat d'un camp."
+   },
+   {
+    "terme": "Ukraine Facility",
+    "definition": "Instrument financier de l'UE qui verse de l'argent à l'Ukraine par tranches, quand des réformes convenues sont réalisées."
    }
   ]
  },
@@ -75,22 +284,116 @@
    {
     "n": 1,
     "theme": "SANTÉ PUBLIQUE",
-    "titre": "Ebola au Congo : plus de 4 000 morts, sans vaccin ni traitement approuvé contre ce virus"
+    "titre": "Ebola au Congo : plus de 4 000 morts, sans vaccin ni traitement approuvé contre ce virus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ebola_Virus_-_Electron_Micrograph.tiff/lossy-page1-960px-Ebola_Virus_-_Electron_Micrograph.tiff.jpg",
+    "legende": "Particules du virus Ebola (en vert) à la surface d'une cellule, image au microscope électronique (illustration)",
+    "chapeau": "Vendredi 2 octobre 2026, les autorités congolaises ont annoncé 4 018 décès pour 8 300 cas confirmés, dont 2 162 guérisons, soit 48,4 % de décès parmi les cas confirmés. L'épidémie, déclarée le 15 mai dans la province d'Ituri, est due au virus Bundibugyo, une espèce de virus Ebola pour laquelle l'OMS indique qu'il…",
+    "eclairage": "Qu'est-ce que le virus Bundibugyo ?",
+    "chiffres": [
+     {
+      "valeur": "4 018",
+      "legende": "décès au 2 octobre"
+     },
+     {
+      "valeur": "8 300",
+      "legende": "cas confirmés"
+     },
+     {
+      "valeur": "48 %",
+      "legende": "de décès parmi les cas confirmés"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "CHIRURGIE",
-    "titre": "Chirurgie en France : l'Académie propose de suspendre l'activité d'environ 200 établissements"
+    "titre": "Chirurgie en France : l'Académie propose de suspendre l'activité d'environ 200 établissements",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Thailand_Nonthaburi_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A0%E0%B8%B4%E0%B8%81%E0%B8%82%E0%B8%B8_%E0%B8%8A%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99_%28%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%A1_2022%29_operating_room.jpg/960px-Thailand_Nonthaburi_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A0%E0%B8%B4%E0%B8%81%E0%B8%82%E0%B8%B8_%E0%B8%8A%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99_%28%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%A1_2022%29_operating_room.jpg",
+    "legende": "Une salle d'opération (illustration)",
+    "chapeau": "Le 30 septembre 2026, l'Académie nationale de chirurgie a présenté son rapport « La chirurgie en 2035 ». Elle estime qu'il faut envisager de suspendre l'activité chirurgicale dans environ 200 établissements, surtout de petite taille.",
+    "eclairage": "Pourquoi parler de volume d'activité ?",
+    "chiffres": [
+     {
+      "valeur": "~200",
+      "legende": "établissements concernés"
+     },
+     {
+      "valeur": "65 %",
+      "legende": "de chirurgie ambulatoire (2025)"
+     },
+     {
+      "valeur": "20 000",
+      "legende": "lits jugés utiles sur 52 600 (2023)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "TRAITEMENT",
-    "titre": "Narcolepsie de type 1 : un médicament qui remplace l'orexine testé dans deux essais de phase 3"
+    "titre": "Narcolepsie de type 1 : un médicament qui remplace l'orexine testé dans deux essais de phase 3",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le New England Journal of Medicine a publié, selon l'annonce du fabricant Takeda du 9 septembre 2026, les résultats de deux essais de phase 3 de l'oveporexton dans la narcolepsie de type 1 : FirstLight (168 participants) et RadiantLight (105), sur 12 semaines, contre placebo. La réduction médiane des cataplexies…",
+    "eclairage": "Comprendre la narcolepsie de type 1",
+    "chiffres": [
+     {
+      "valeur": "273",
+      "legende": "participants (2 essais)"
+     },
+     {
+      "valeur": "−79 %",
+      "legende": "cataplexies, dose la plus faible*"
+     },
+     {
+      "valeur": "60 %",
+      "legende": "insomnies sous 2 mg (1 % placebo)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "SANTÉ PUBLIQUE",
-    "titre": "Rougeole aux États-Unis : 3 887 cas confirmés en 2026, le plus haut niveau depuis 35 ans"
+    "titre": "Rougeole aux États-Unis : 3 887 cas confirmés en 2026, le plus haut niveau depuis 35 ans",
+    "image": null,
+    "legende": null,
+    "chapeau": "Selon les Centers for Disease Control and Prevention (CDC), 3 887 cas confirmés de rougeole avaient été notifiés aux États-Unis au 1er octobre 2026, soit 228 de plus en une semaine, contre 2 289 cas sur toute l'année 2025. Les CDC dénombrent 42 foyers nouveaux en 2026 ; 95 % des cas (3 700) y sont rattachés.",
+    "eclairage": "La rougeole efface une partie de la mémoire immunitaire",
+    "chiffres": [
+     {
+      "valeur": "3 887",
+      "legende": "cas confirmés au 1er octobre"
+     },
+     {
+      "valeur": "95 %",
+      "legende": "liés à des foyers (3 700 cas)"
+     },
+     {
+      "valeur": "+228",
+      "legende": "en une semaine (+6,2 %)"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "50+",
+   "texte": "soignants morts de l'Ebola Bundibugyo au Congo depuis le 15 mai, selon CBS, STAT et CIDRAP."
+  },
+  "lexique": [
+   {
+    "terme": "Létalité",
+    "definition": "La part des personnes malades qui décèdent. Parmi les cas confirmés d'Ebola, 48 % : un chiffre qui dépend de qui est testé."
+   },
+   {
+    "terme": "Essai de phase 3",
+    "definition": "Un grand essai, en général randomisé contre placebo ou contre un traitement de référence, qui sert à décider d'une autorisation."
+   },
+   {
+    "terme": "Cataplexie",
+    "definition": "Une perte brutale de tonus musculaire, souvent déclenchée par une émotion, typique de la narcolepsie de type 1."
+   },
+   {
+    "terme": "Amnésie immunitaire",
+    "definition": "Après la rougeole, une partie des cellules mémoire du système immunitaire est détruite : on devient plus vulnérable à d'autres infections."
    }
   ]
  },
@@ -101,17 +404,90 @@
    {
     "n": 1,
     "theme": "RÉGULATION",
-    "titre": "États-Unis : Jay Clayton, chef du renseignement, nommé « tsar de l'IA » avec 120 jours pour rendre un rapport"
+    "titre": "États-Unis : Jay Clayton, chef du renseignement, nommé « tsar de l'IA » avec 120 jours pour rendre un rapport",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le samedi 3 octobre, le Wall Street Journal a rapporté, à partir d'un entretien avec l'intéressé, que Donald Trump avait confié à Jay Clayton, directeur du renseignement national depuis août, la direction d'un nouveau groupe de travail de la Maison-Blanche, appelé « Super Intelligence Force ». Ce groupe a 120 jours…",
+    "eclairage": "Qu'est-ce qu'un « tsar » de l'IA, et que peut-il décider ?",
+    "chiffres": [
+     {
+      "valeur": "120 j",
+      "legende": "délai du rapport sur les risques de l'IA"
+     },
+     {
+      "valeur": "2e",
+      "legende": "nomination d'un « tsar » de l'IA par Trump"
+     },
+     {
+      "valeur": "3",
+      "legende": "vice-présidents de la task force"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "MODÈLES",
-    "titre": "Microsoft lance trois modèles de voix pour agents conversationnels : transcription en direct et synthèse vocale"
+    "titre": "Microsoft lance trois modèles de voix pour agents conversationnels : transcription en direct et synthèse vocale",
+    "image": null,
+    "legende": null,
+    "chapeau": "1-Flash, qui produisent de la parole à partir de texte. Selon l'entreprise, la transcription couvre 60 langues avec détection automatique de la langue.",
+    "eclairage": "Que signifie « en continu » pour une transcription, et pourquoi la latence compte-t-elle ?",
+    "chiffres": [
+     {
+      "valeur": "60",
+      "legende": "langues pour la transcription en direct"
+     },
+     {
+      "valeur": "0,54 $",
+      "legende": "par heure d'audio (prix de lancement)"
+     },
+     {
+      "valeur": "23",
+      "legende": "langues pour la synthèse vocale"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "MONDE",
-    "titre": "La Corée du Nord affirme avoir testé un missile « doté d'IA » : ce que l'on sait et ce qui n'est pas vérifié"
+    "titre": "La Corée du Nord affirme avoir testé un missile « doté d'IA » : ce que l'on sait et ce qui n'est pas vérifié",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le samedi 3 octobre, la Corée du Nord a annoncé avoir testé un missile stratégique de portée intermédiaire utilisant l'intelligence artificielle, d'après un communiqué de Kim Yo Jong, sœur du dirigeant Kim Jong Un. Selon ce communiqué, le missile peut modifier sa trajectoire à basse altitude.",
+    "eclairage": "Que peut faire l'IA dans un missile, et que ne sait-on pas ?",
+    "chiffres": [
+     {
+      "valeur": "700 km",
+      "legende": "distance parcourue selon Séoul"
+     },
+     {
+      "valeur": "4",
+      "legende": "modes de trajectoire au moins, selon Pyongyang"
+     },
+     {
+      "valeur": "21 sept.",
+      "legende": "explosion de mines : contexte de tension"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Task force",
+    "definition": "Groupe de travail temporaire, créé pour une mission précise et un délai donné."
+   },
+   {
+    "terme": "Latence",
+    "definition": "Délai entre une action et sa réponse, ici entre la parole et le texte, en millisecondes."
+   },
+   {
+    "terme": "Synthèse vocale",
+    "definition": "Production d'une voix artificielle à partir d'un texte."
+   },
+   {
+    "terme": "Logiciel libre (open source)",
+    "definition": "Programme dont le code est public et réutilisable selon une licence, ici Apache 2.0."
    }
   ]
  },
@@ -122,27 +498,136 @@
    {
     "n": 1,
     "theme": "MARCHÉS",
-    "titre": "Les taux d'emprunt de la France frôlent 5 %, puis se détendent"
+    "titre": "Les taux d'emprunt de la France frôlent 5 %, puis se détendent",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, le rendement des obligations de l'État français à dix ans (les OAT) a atteint 4,96 % en séance, son plus haut niveau depuis 2002, avant de refluer légèrement après la présentation par le gouvernement du projet de budget 2027, selon Reuters. Ce taux avait terminé le troisième trimestre sur sa hausse…",
+    "eclairage": "Qu'est-ce que le « taux d'emprunt » d'un État ?",
+    "chiffres": [
+     {
+      "valeur": "4,96 %",
+      "legende": "plus haut en séance jeudi, depuis 2002"
+     },
+     {
+      "valeur": "4,87 %",
+      "legende": "taux à 10 ans vendredi en fin de séance"
+     },
+     {
+      "valeur": "156 pb",
+      "legende": "écart avec l'Allemagne vendredi (BFM Bourse)"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ÉNERGIE",
-    "titre": "Le G7 libère jusqu'à 100 millions de barils de ses réserves, le Brent reste autour de 100 dollars"
+    "titre": "Le G7 libère jusqu'à 100 millions de barils de ses réserves, le Brent reste autour de 100 dollars",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, réunis en urgence par Emmanuel Macron, les pays du G7 ont annoncé prélever sur leurs stocks stratégiques « jusqu'à 100 millions de barils » de gazole et de pétrole brut « dans les quatre mois », sans limiter les exportations de produits pétroliers entre eux (AFP). L'opération sera coordonnée par…",
+    "eclairage": "À quoi servent les réserves stratégiques de pétrole ?",
+    "chiffres": [
+     {
+      "valeur": "100 M",
+      "legende": "barils au maximum, sur quatre mois"
+     },
+     {
+      "valeur": "771 M",
+      "legende": "barils en stock chez les Européens"
+     },
+     {
+      "valeur": "101 $",
+      "legende": "Brent (déc.) vendredi, −0,8 %"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "CONJONCTURE",
-    "titre": "L'emploi américain ralentit nettement en septembre : 29 000 postes créés"
+    "titre": "L'emploi américain ralentit nettement en septembre : 29 000 postes créés",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, le département américain du Travail a publié son rapport sur l'emploi de septembre : l'économie des États-Unis a créé 29 000 emplois hors agriculture et le taux de chômage est monté à 4,2 %, contre 4,1 % en août. Les économistes attendaient en moyenne 90 000 créations d'emplois selon l'AP et la…",
+    "eclairage": "Que mesure le rapport sur l'emploi américain, et pourquoi les marchés l'attendent-ils ?",
+    "chiffres": [
+     {
+      "valeur": "29 000",
+      "legende": "emplois créés hors agriculture"
+     },
+     {
+      "valeur": "4,2 %",
+      "legende": "taux de chômage, contre 4,1 % en août"
+     },
+     {
+      "valeur": "+3,0 %",
+      "legende": "salaire horaire moyen sur 12 mois"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "ENTREPRISES",
-    "titre": "Paramount et Warner Bros. Discovery fusionneront sous le nom de Skydance"
+    "titre": "Paramount et Warner Bros. Discovery fusionneront sous le nom de Skydance",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, David Ellison, directeur général de Paramount Skydance, a indiqué qu'à la clôture de la fusion avec Warner Bros. , selon Reuters.",
+    "eclairage": "Pourquoi fusionner deux géants, et qu'est-ce qu'une « synergie » ?",
+    "chiffres": [
+     {
+      "valeur": "110 Md$",
+      "legende": "valeur de l'acquisition de Warner Bros. Discovery"
+     },
+     {
+      "valeur": "80 Md$",
+      "legende": "dette cumulée environ"
+     },
+     {
+      "valeur": "6 Md$",
+      "legende": "d'économies visées"
+     }
+    ]
    },
    {
     "n": 5,
     "theme": "INDUSTRIE",
-    "titre": "Bonduelle : chiffre d'affaires stable, résultat net positif après une perte"
+    "titre": "Bonduelle : chiffre d'affaires stable, résultat net positif après une perte",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, après la clôture de la Bourse, Bonduelle a publié ses résultats de l'exercice 2025-2026, clos le 30 juin. Son chiffre d'affaires s'élève à 2 186,2 millions d'euros : +0,4 % à données comparables, mais −0,8 % en données publiées (2 203,8 millions un an plus tôt).",
+    "eclairage": "Comment lire les résultats d'une entreprise ?",
+    "chiffres": [
+     {
+      "valeur": "2,2 Md€",
+      "legende": "chiffre d'affaires (2 186,2 M€)"
+     },
+     {
+      "valeur": "3,6 %",
+      "legende": "marge opérationnelle courante (3,8 % avant)"
+     },
+     {
+      "valeur": "16 M€",
+      "legende": "résultat net (16,2 M€), contre −11,5 M€"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Rendement (d'une obligation)",
+    "definition": "Le taux d'intérêt exigé par les investisseurs qui prêtent à un État ou une entreprise. Il monte quand ils jugent le prêt plus risqué."
+   },
+   {
+    "terme": "Spread",
+    "definition": "L'écart entre deux taux d'emprunt, ici celui de la France et celui de l'Allemagne, mesuré en points de base (1 point de base = 0,01 point de pourcentage)."
+   },
+   {
+    "terme": "Synergies",
+    "definition": "Les économies attendues quand deux entreprises fusionnent et mettent en commun leurs coûts."
+   },
+   {
+    "terme": "Marge opérationnelle courante",
+    "definition": "La part du chiffre d'affaires qui reste après les coûts de l'activité courante, avant éléments exceptionnels, intérêts et impôts."
    }
   ]
  },
@@ -153,17 +638,90 @@
    {
     "n": 1,
     "theme": "RÉGLEMENTATION",
-    "titre": "Cadmium dans les engrais : le seuil sera divisé par plus de quatre d'ici 2030"
+    "titre": "Cadmium dans les engrais : le seuil sera divisé par plus de quatre d'ici 2030",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, le ministère de l'Agriculture a annoncé que la teneur maximale en cadmium des engrais passera de 90 mg/kg aujourd'hui à 20 mg/kg en 2030. La baisse sera progressive : 60 mg/kg au 1er janvier 2027, ce qui correspond au niveau des normes européennes, puis 40 mg/kg en 2028.",
+    "eclairage": "Pourquoi le cadmium dans un engrais ?",
+    "chiffres": [
+     {
+      "valeur": "90",
+      "legende": "mg/kg autorisés aujourd'hui"
+     },
+     {
+      "valeur": "20",
+      "legende": "mg/kg en 2030"
+     },
+     {
+      "valeur": "2038",
+      "legende": "échéance du projet de mai"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "RÉGLEMENTATION",
-    "titre": "Budget 2027 : une taxe sur les produits sucrés transformés dans le PLFSS"
+    "titre": "Budget 2027 : une taxe sur les produits sucrés transformés dans le PLFSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/20110901_biscuits.jpg/960px-20110901_biscuits.jpg",
+    "legende": "Des biscuits (illustration)",
+    "chapeau": "Le 28 septembre, l'Ania (industries alimentaires) a dénoncé dans un communiqué le projet d'une taxe sur les produits sucrés dans le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 ; l'entourage du Premier ministre a alors refusé de confirmer son existence, selon franceinfo. Le 30 septembre, le…",
+    "eclairage": "Une taxe de plus ou un nouveau mécanisme ?",
+    "chiffres": [
+     {
+      "valeur": "200 M€",
+      "legende": "recettes visées (ministre)"
+     },
+     {
+      "valeur": "23 000",
+      "legende": "entreprises représentées par l'Ania"
+     },
+     {
+      "valeur": "3211",
+      "legende": "numéro du PLFSS déposé"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "FILIÈRE",
-    "titre": "Miel 2026 : une récolte en baisse, deux estimations qui divergent"
+    "titre": "Miel 2026 : une récolte en baisse, deux estimations qui divergent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/960px-Runny_hunny.jpg",
+    "legende": "Un pot de miel et une cuillère à miel (illustration)",
+    "chapeau": "L'Union nationale de l'apiculture française (Unaf) estime la production de miel 2026 entre 18 000 et 20 000 tonnes, contre 23 000 à 25 000 tonnes en 2025. L'interprofession InterApi avance un chiffre nettement plus élevé, environ 33 700 tonnes, soit 5 000 de moins que l'année précédente : les deux organisations ne…",
+    "eclairage": "Pourquoi la chaleur réduit-elle le miel ?",
+    "chiffres": [
+     {
+      "valeur": "18 000",
+      "legende": "tonnes, bas de la fourchette Unaf"
+     },
+     {
+      "valeur": "33 700",
+      "legende": "tonnes selon InterApi"
+     },
+     {
+      "valeur": "40 000",
+      "legende": "tonnes consommées par an"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "mg/kg",
+    "definition": "Milligramme par kilogramme : une teneur. 20 mg/kg correspond à 20 millionièmes du poids du produit."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Projet de loi de financement de la Sécurité sociale, voté chaque automne par le Parlement."
+   },
+   {
+    "terme": "Interprofession",
+    "definition": "Organisme qui réunit les acteurs d'une même filière, ici InterApi pour les produits de la ruche."
+   },
+   {
+    "terme": "Ania",
+    "definition": "Association nationale des industries alimentaires, qui représente environ 23 000 entreprises."
    }
   ]
  },
@@ -174,7 +732,40 @@
    {
     "n": 1,
     "theme": "CULTURE",
-    "titre": "Médiathèques de La Rochelle : l'inscription devient gratuite"
+    "titre": "Médiathèques de La Rochelle : l'inscription devient gratuite",
+    "image": null,
+    "legende": null,
+    "chapeau": "Depuis septembre 2026, l'inscription aux médiathèques municipales de Mireuil, de Laleu-La Pallice et de Villeneuve-les-Salines est gratuite. La Ville indique aussi que le nombre de documents empruntables n'est plus limité et que la durée de prêt passe à quatre semaines.",
+    "eclairage": "Qui gère quelle carte de médiathèque ?",
+    "chiffres": [
+     {
+      "valeur": "0 €",
+      "legende": "pour s'inscrire (carte de proximité)"
+     },
+     {
+      "valeur": "4 sem.",
+      "legende": "durée de prêt, nombre illimité"
+     },
+     {
+      "valeur": "65 000",
+      "legende": "usagers en 2025 dans les 3 sites"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Carte de proximité",
+    "definition": "Carte d'inscription qui donne accès aux trois médiathèques municipales de La Rochelle."
+   },
+   {
+    "terme": "Carte réseau",
+    "definition": "Carte qui donne accès à l'ensemble des médiathèques de l'agglomération, à tarif variable selon la situation."
+   },
+   {
+    "terme": "Plan de gestion",
+    "definition": "Document qui définit les mesures à prendre sur un site pollué : travaux de dépollution et restrictions d'usage des terrains."
    }
   ]
  },
@@ -185,17 +776,86 @@
    {
     "n": 1,
     "theme": "ARGENT PUBLIC",
-    "titre": "Budget 2027 : les responsables socialistes demandent des changements « sans délai »"
+    "titre": "Budget 2027 : les responsables socialistes demandent des changements « sans délai »",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, le gouvernement de Sébastien Lecornu a présenté en Conseil des ministres les projets de loi de finances et de financement de la Sécurité sociale pour 2027. L'effort total est de 54 milliards d'euros, dont 43 milliards de mesures nouvelles, pour ramener le déficit public à 5 % du PIB en 2027, contre…",
+    "eclairage": "49.3 et censure : comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "54 Md€",
+      "legende": "d'effort total en 2027"
+     },
+     {
+      "valeur": "43 Md€",
+      "legende": "de mesures nouvelles"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ÉNERGIE",
-    "titre": "Carburants : le G7 va libérer jusqu'à 100 millions de barils"
+    "titre": "Carburants : le G7 va libérer jusqu'à 100 millions de barils",
+    "image": null,
+    "legende": null,
+    "chapeau": "Vendredi 2 octobre, les dirigeants du G7, réunis à l'initiative d'Emmanuel Macron, ont décidé de libérer des stocks stratégiques de gazole et de pétrole brut, jusqu'à 100 millions de barils en quatre mois, sous la coordination de l'Agence internationale de l'énergie. Des quantités de gazole doivent arriver sur le…",
+    "eclairage": "À quoi servent les stocks stratégiques ?",
+    "chiffres": [
+     {
+      "valeur": "100 M",
+      "legende": "de barils au maximum"
+     },
+     {
+      "valeur": "4 mois",
+      "legende": "durée de la libération"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "JUSTICE",
-    "titre": "Loi « intégrale » : les viols restent jugés par les cours criminelles départementales"
+    "titre": "Loi « intégrale » : les viols restent jugés par les cours criminelles départementales",
+    "image": null,
+    "legende": null,
+    "chapeau": "L'Assemblée nationale examine en séance, depuis jeudi 1er octobre, la proposition de loi « intégrale » contre les violences sexuelles et sexistes, qui compte plus de 70 articles. La rapporteure est Céline Thiébault-Martinez ; près de 240 députés de huit groupes soutiennent le texte.",
+    "eclairage": "Cour criminelle ou assises ?",
+    "chiffres": [
+     {
+      "valeur": "70+",
+      "legende": "articles dans le texte"
+     },
+     {
+      "valeur": "1 200+",
+      "legende": "amendements déposés"
+     },
+     {
+      "valeur": "13/10",
+      "legende": "vote solennel prévu"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Motion de censure",
+    "definition": "Vote des députés pour renverser le gouvernement. Elle doit réunir 289 voix sur 577."
+   },
+   {
+    "terme": "Stocks stratégiques",
+    "definition": "Réserves de pétrole et de produits raffinés que les États gardent pour les crises d'approvisionnement."
+   },
+   {
+    "terme": "Cour criminelle départementale",
+    "definition": "Juridiction sans jury, composée de magistrats professionnels, qui juge certains crimes dont les viols."
+   },
+   {
+    "terme": "Conclusions du Conseil",
+    "definition": "Texte politique adopté par les États membres de l'UE, sans force de loi."
    }
   ]
  },
@@ -206,17 +866,90 @@
    {
     "n": 1,
     "theme": "CANCER",
-    "titre": "Cancer du pancréas métastatique : un virus modifié associé à une survie un peu plus longue dans un essai de phase 2b"
+    "titre": "Cancer du pancréas métastatique : un virus modifié associé à une survie un peu plus longue dans un essai de phase 2b",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blausen_0699_PancreasAnatomy2.png/960px-Blausen_0699_PancreasAnatomy2.png",
+    "legende": "Schéma du pancréas, des canaux et du duodénum",
+    "chapeau": "Le 30 septembre 2026, la revue Nature Medicine a publié l'essai VIRAGE, mené chez des adultes atteints d'un cancer du pancréas métastatique découvert récemment. Les patients ont reçu soit la chimiothérapie standard (gemcitabine et nab-paclitaxel), soit cette chimiothérapie plus deux injections intraveineuses de VCN-01,…",
+    "eclairage": "Pourquoi ce résultat est à lire avec prudence",
+    "chiffres": [
+     {
+      "valeur": "10,8",
+      "legende": "mois de survie médiane avec VCN-01 (FAS)"
+     },
+     {
+      "valeur": "8,6",
+      "legende": "mois de survie médiane chimiothérapie seule"
+     },
+     {
+      "valeur": "0,57",
+      "legende": "risque relatif de décès (FAS)"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "CHIRURGIE",
-    "titre": "Une valve cardiaque pour enfants que l'on peut élargir après l'opération, autorisée aux États-Unis"
+    "titre": "Une valve cardiaque pour enfants que l'on peut élargir après l'opération, autorisée aux États-Unis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/960px-Diagram_of_the_human_heart_%28cropped%29.svg.png",
+    "legende": "Schéma du cœur humain avec la valve pulmonaire",
+    "chapeau": "Le 1er octobre 2026, la FDA a approuvé la valve Autus Size-Adjustable, une valve pulmonaire implantée par chirurgie chez des enfants nés avec une malformation de cette valve. Elle peut être posée à environ 13 millimètres, taille adaptée à un tout-petit, puis élargie plus tard par un ballonnet introduit par cathéter,…",
+    "eclairage": "Comprendre : pourquoi un enfant a besoin de plusieurs opérations",
+    "chiffres": [
+     {
+      "valeur": "62",
+      "legende": "enfants dans l'étude, 12 centres"
+     },
+     {
+      "valeur": "13 mm",
+      "legende": "taille à l'implantation"
+     },
+     {
+      "valeur": "22 mm",
+      "legende": "taille adulte après dilatation"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "TRAITEMENT",
-    "titre": "Déficit en MCT8 : première approbation d'un traitement aux États-Unis pour cette maladie génétique rare"
+    "titre": "Déficit en MCT8 : première approbation d'un traitement aux États-Unis pour cette maladie génétique rare",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 28 septembre 2026, la FDA a approuvé Emcitate (tiratricol), des comprimés à dissoudre pris une fois par jour, pour traiter l'excès d'hormones thyroïdiennes dans le sang chez les patients atteints du déficit en MCT8, ou syndrome d'Allan-Herndon-Dudley. Cette maladie génétique touche surtout des garçons : le…",
+    "eclairage": "Ce que ce médicament traite, et ce qu'il ne traite pas",
+    "chiffres": [
+     {
+      "valeur": "118",
+      "legende": "T3 en ng/dL à 12 mois (323 au départ)"
+     },
+     {
+      "valeur": "−8,9",
+      "legende": "battements/min en moyenne"
+     },
+     {
+      "valeur": "−4,1",
+      "legende": "mm Hg de pression systolique"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai randomisé",
+    "definition": "Les participants sont répartis par tirage au sort entre le traitement testé et un traitement de comparaison, pour que les groupes soient comparables."
+   },
+   {
+    "terme": "Essai en ouvert",
+    "definition": "Médecins et patients savent qui reçoit quoi. Cela peut influencer les résultats ; un essai « en aveugle » limite ce biais."
+   },
+   {
+    "terme": "Phase 2b / phase 3",
+    "definition": "La phase 2b cherche un signal d'efficacité sur un petit nombre de patients. La phase 3, plus large, doit confirmer ce signal."
+   },
+   {
+    "terme": "Critère indirect",
+    "definition": "Une mesure (pression artérielle, taux d'hormone) qui ne prouve pas à elle seule que le patient va mieux ou vit plus longtemps."
    }
   ]
  },
@@ -227,12 +960,67 @@
    {
     "n": 1,
     "theme": "CYBERSÉCURITÉ",
-    "titre": "L'État face aux fuites de données : l'ANSSI publie son premier bilan et fait elle-même l'objet d'une enquête"
+    "titre": "L'État face aux fuites de données : l'ANSSI publie son premier bilan et fait elle-même l'objet d'une enquête",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 30 septembre, l'ANSSI, l'agence qui protège les systèmes d'information de l'État, a publié le premier point de situation de l'opération REACTIV, lancée à la demande du Premier ministre le 1er septembre. Depuis le 1er août, 99 violations de données touchant des services de l'État lui ont été signalées, dont 67…",
+    "eclairage": "Pourquoi un mot de passe volé suffit-il ?",
+    "chiffres": [
+     {
+      "valeur": "99",
+      "legende": "violations de données signalées depuis le 1er août"
+     },
+     {
+      "valeur": "67",
+      "legende": "confirmées, 32 en cours d'analyse"
+     },
+     {
+      "valeur": "118",
+      "legende": "comptes compromis au laboratoire de l'ANSSI"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "RECHERCHE",
-    "titre": "Agents d'IA : des études montrent des mensonges et des copies de soi, y compris sur des modèles chinois"
+    "titre": "Agents d'IA : des études montrent des mensonges et des copies de soi, y compris sur des modèles chinois",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 30 septembre, Reuters a publié une enquête fondée sur plus de 200 documents, dont au moins 20 études ou évaluations depuis 2025 décrivant des agents d'IA reposant sur des modèles chinois qui trompent, se répliquent ou testent leurs limites. 2-Exp.",
+    "eclairage": "Que veut dire « tromper » pour un programme ?",
+    "chiffres": [
+     {
+      "valeur": "88 %",
+      "legende": "des sessions avec au moins une fausse déclaration"
+     },
+     {
+      "valeur": "12-20",
+      "legende": "points de mensonges en plus après apprentissage"
+     },
+     {
+      "valeur": "200+",
+      "legende": "documents examinés par Reuters"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Authentification multifacteur",
+    "definition": "Connexion qui exige un mot de passe plus un second élément, comme une application ou une clé physique."
+   },
+   {
+    "terme": "Injection SQL",
+    "definition": "Faille qui permet d'envoyer des commandes à la base de données d'un service."
+   },
+   {
+    "terme": "Préprint",
+    "definition": "Étude publiée avant relecture par des chercheurs indépendants : ses résultats ne sont pas encore validés."
+   },
+   {
+    "terme": "Hachage",
+    "definition": "Transformation d'un mot de passe en suite de caractères, pour ne pas le stocker en clair."
    }
   ]
  },
@@ -243,22 +1031,97 @@
    {
     "n": 1,
     "theme": "TECH",
-    "titre": "Accenture rassure le secteur du conseil informatique, Capgemini en tête du CAC 40"
+    "titre": "Accenture rassure le secteur du conseil informatique, Capgemini en tête du CAC 40",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, Accenture, géant américain du conseil et des services informatiques, a publié ses résultats du quatrième trimestre de son exercice (clos fin août) : 18,7 milliards de dollars de chiffre d'affaires, en hausse de 7 % en devises locales, et 22,2 milliards de dollars de prises de commandes. Pour son…",
+    "eclairage": "Pourquoi une entreprise américaine fait-elle bouger une entreprise française ?",
+    "chiffres": [
+     {
+      "valeur": "+7,38 %",
+      "legende": "Capgemini à la clôture, à 112,10 €"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ENTREPRISES",
-    "titre": "Sanofi paie 1 milliard de dollars à Regeneron pour élargir leur alliance"
+    "titre": "Sanofi paie 1 milliard de dollars à Regeneron pour élargir leur alliance",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_04.jpg/960px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_04.jpg",
+    "legende": "Un site Sanofi à Chattanooga, Tennessee (illustration)",
+    "chapeau": "Jeudi 1er octobre, Sanofi et Regeneron ont annoncé l'élargissement de leur alliance, qui a donné naissance au Dupixent. Sanofi versera 1 milliard de dollars à la signature, puis jusqu'à 7 milliards de dollars de paiements d'étape.",
+    "eclairage": "Que veut dire « paiement d'étape » ?",
+    "chiffres": [
+     {
+      "valeur": "1 Md$",
+      "legende": "versé à la signature"
+     },
+     {
+      "valeur": "7 Md$",
+      "legende": "de paiements d'étape possibles"
+     },
+     {
+      "valeur": "4",
+      "legende": "nouveaux anticorps à co-développer"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "INDUSTRIE",
-    "titre": "Stellantis arrête quatre usines françaises en octobre"
+    "titre": "Stellantis arrête quatre usines françaises en octobre",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mardi 29 septembre, Stellantis a annoncé aux représentants du personnel l'arrêt de quatre usines françaises : Sochaux du 23 au 30 octobre, Rennes du 22 au 30, Mulhouse du 15 au 30 et Poissy du 19 au 23. À Sochaux (Peugeot 3008 et 5008) et à Rennes (Citroën C5 Aircross), le constructeur invoque une disponibilité…",
+    "eclairage": "Comment une demande forte peut-elle arrêter des usines ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "usines françaises à l'arrêt"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "ENTREPRISES",
-    "titre": "Vicat en négociations exclusives pour reprendre des activités de Cemex dans le Sud-Est"
+    "titre": "Vicat en négociations exclusives pour reprendre des activités de Cemex dans le Sud-Est",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, le cimentier français Vicat a annoncé être entré en négociations exclusives pour acquérir les activités de béton prêt à l'emploi et de granulats du groupe mexicain Cemex dans le Sud-Est de la France. L'opération porte sur trois filiales (Cemex Granulats Rhône Méditerranée, Cemex Béton Rhône Alpes,…",
+    "eclairage": "Ciment, granulats, béton : qui fait quoi ?",
+    "chiffres": [
+     {
+      "valeur": "48",
+      "legende": "centrales à béton concernées"
+     },
+     {
+      "valeur": "9",
+      "legende": "carrières de granulats"
+     },
+     {
+      "valeur": "31/12",
+      "legende": "finalisation visée avant fin 2026"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Prises de commandes",
+    "definition": "Les contrats signés mais pas encore facturés. Elles annoncent le chiffre d'affaires futur."
+   },
+   {
+    "terme": "Paiement d'étape",
+    "definition": "Une somme versée seulement si un médicament franchit un jalon prévu au contrat (essai réussi, autorisation, ventes)."
+   },
+   {
+    "terme": "Négociations exclusives",
+    "definition": "Une phase où un acheteur est seul autorisé à négocier avec le vendeur. Elle ne garantit pas que la vente aboutisse."
+   },
+   {
+    "terme": "Chômage partiel",
+    "definition": "Un dispositif qui permet à l'employeur de suspendre ou réduire l'activité sans licencier ; les salariés reçoivent une indemnité."
    }
   ]
  },
@@ -269,7 +1132,40 @@
    {
     "n": 1,
     "theme": "MOBILITÉS",
-    "titre": "Blocus de lycées à La Rochelle : le réseau Yélo interrompu, des rassemblements interdits vendredi"
+    "titre": "Blocus de lycées à La Rochelle : le réseau Yélo interrompu, des rassemblements interdits vendredi",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, des élèves ont bloqué plusieurs lycées de La Rochelle, dont Valin, Dautet, Saint-Exupéry et Rompsay. VOG Radio relève « des dégradations de mobilier urbain et des affrontements avec les forces de l'ordre ».",
+    "eclairage": "Qui décide quoi quand un lycée est bloqué ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "lycées rochelais bloqués (VOG, INF)"
+     },
+     {
+      "valeur": "28",
+      "legende": "communes desservies par Yélo"
+     },
+     {
+      "valeur": "2",
+      "legende": "lycées avec périmètre interdit"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Garde à vue",
+    "definition": "Mesure de police qui permet de retenir une personne pour les besoins d'une enquête, sous contrôle du parquet. Elle n'est pas une condamnation."
+   },
+   {
+    "terme": "Arrêté préfectoral",
+    "definition": "Décision écrite du préfet, applicable sur un territoire et une durée précis."
+   },
+   {
+    "terme": "Période d'observation",
+    "definition": "Phase d'un redressement judiciaire où le tribunal examine si l'activité peut continuer ou si une reprise est possible."
    }
   ]
  },
@@ -280,22 +1176,109 @@
    {
     "n": 1,
     "theme": "INSTITUTIONS",
-    "titre": "Sénat : Gérard Larcher réélu pour un sixième mandat"
+    "titre": "Sénat : Gérard Larcher réélu pour un sixième mandat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg/960px-Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg",
+    "legende": "Le Palais du Luxembourg, siège du Sénat",
+    "chapeau": "Jeudi 1er octobre, le sénateur LR des Yvelines Gérard Larcher a été réélu président du Sénat dès le premier tour, avec 203 voix sur 302 suffrages exprimés. Trois candidats de gauche se présentaient face à lui : le socialiste Patrick Kanner (60 voix), la communiste Cécile Cukierman (22 voix) et l'écologiste Mélanie…",
+    "eclairage": "Comment le Sénat choisit-il son président ?",
+    "chiffres": [
+     {
+      "valeur": "203",
+      "legende": "voix sur 302 exprimées"
+     },
+     {
+      "valeur": "60",
+      "legende": "voix pour Patrick Kanner (PS)"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ARGENT PUBLIC",
-    "titre": "Budget 2027 : présenté en Conseil des ministres, la gauche menace de censure"
+    "titre": "Budget 2027 : présenté en Conseil des ministres, la gauche menace de censure",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Matignon_gala.jpg/960px-Matignon_gala.jpg",
+    "legende": "La cour de l'hôtel de Matignon, résidence du Premier ministre",
+    "chapeau": "Jeudi 1er octobre, Sébastien Lecornu et ses ministres ont présenté en Conseil des ministres le projet de loi de finances (PLF) et celui de financement de la Sécurité sociale (PLFSS) pour 2027. Le gouvernement vise un déficit de 5 % du PIB, grâce à 43 milliards d'euros de mesures nouvelles.",
+    "eclairage": "Comment le budget arrive-t-il à l'Assemblée ?",
+    "chiffres": [
+     {
+      "valeur": "54 Md€",
+      "legende": "d'effort total en 2027"
+     },
+     {
+      "valeur": "43 Md€",
+      "legende": "de mesures nouvelles"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉDUCATION",
-    "titre": "Blocage des lycées : journée de heurts, Matignon met en cause LFI"
+    "titre": "Blocage des lycées : journée de heurts, Matignon met en cause LFI",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG/960px-P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG",
+    "legende": "Façade d'un lycée parisien (illustration)",
+    "chapeau": "Jeudi 1er octobre, le mouvement lycéen, rejoint par des étudiants, s'est étendu : selon le ministère de l'Intérieur, 1 027 lycées ont été concernés dont 222 blocages, et 1 949 personnes ont été interpellées, essentiellement pour atteinte aux personnes dépositaires de l'autorité publique, violences et attroupements.…",
+    "eclairage": null,
+    "chiffres": [
+     {
+      "valeur": "1 027",
+      "legende": "établissements concernés"
+     },
+     {
+      "valeur": "1 949",
+      "legende": "interpellations jeudi"
+     },
+     {
+      "valeur": "305",
+      "legende": "forces de l'ordre blessées (Intérieur)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "POLITIQUE",
-    "titre": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification"
+    "titre": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, Mediapart a publié des captures d'écran de messages antisémites qu'il attribue à Jordan Bardella, président du Rassemblement national, échangés en 2013 sur Messenger. Selon le site, la personne qui les a reçus a obtenu de Meta une archive de la conversation, authentifiée par un huissier.",
+    "eclairage": "Une plainte pour faux, ça change quoi ?",
+    "chiffres": [
+     {
+      "valeur": "2013",
+      "legende": "date des messages selon Mediapart"
+     },
+     {
+      "valeur": "2",
+      "legende": "plaintes annoncées"
+     },
+     {
+      "valeur": "0",
+      "legende": "décision de justice"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Motion de censure",
+    "definition": "Vote des députés qui, s'il réunit la majorité, renverse le gouvernement. Elle doit être déposée par au moins 58 députés."
+   },
+   {
+    "terme": "Désindexation",
+    "definition": "Ne plus faire suivre automatiquement une prestation, comme les pensions, sur l'inflation."
+   },
+   {
+    "terme": "Faux et usage de faux",
+    "definition": "Infraction qui vise l'altération d'un document ou son utilisation en le sachant falsifié."
+   },
+   {
+    "terme": "Effet suspensif",
+    "definition": "Le fait qu'un recours bloque l'application d'une décision tant qu'il n'est pas jugé."
    }
   ]
  },
@@ -306,22 +1289,113 @@
    {
     "n": 1,
     "theme": "CHIRURGIE",
-    "titre": "Cœur : premières feuilles de cellules iPS posées sur un cœur malade au Japon, après un essai de 8 patients"
+    "titre": "Cœur : premières feuilles de cellules iPS posées sur un cœur malade au Japon, après un essai de 8 patients",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Human_induced_pluripotent_stem_cell_colony_%2851816035910%29.jpg/960px-Human_induced_pluripotent_stem_cell_colony_%2851816035910%29.jpg",
+    "legende": "Colonie de cellules souches pluripotentes induites humaines (illustration)",
+    "chapeau": "Mardi 29 septembre, à l'hôpital Osaka Keisatsu (Japon), une femme d'une cinquantaine d'années, atteinte d'insuffisance cardiaque sévère diagnostiquée environ quatre ans plus tôt, a reçu trois fines feuilles de cellules de muscle cardiaque fabriquées à partir de cellules souches pluripotentes induites (cellules iPS).…",
+    "eclairage": "Que sont les cellules iPS, et que prouve un essai sur 8 patients ?",
+    "chiffres": [
+     {
+      "valeur": "8",
+      "legende": "patients dans l'essai préalable"
+     },
+     {
+      "valeur": "4/8",
+      "legende": "amélioration de la fonction du cœur"
+     },
+     {
+      "valeur": "52 min",
+      "legende": "durée de l'opération"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "TRAITEMENT",
-    "titre": "Covid long : un casque magnétique à domicile testé sur 30 personnes, résultats préliminaires"
+    "titre": "Covid long : un casque magnétique à domicile testé sur 30 personnes, résultats préliminaires",
+    "image": null,
+    "legende": null,
+    "chapeau": "Des chercheurs de l'Icahn School of Medicine at Mount Sinai (New York) ont publié le 28 septembre dans Brain Communications un essai pilote sur un casque à champ magnétique de très faible intensité, destiné aux personnes qui gardent des troubles cognitifs (le « brouillard cérébral ») après un Covid long. Trente adultes…",
+    "eclairage": "Que prouve un essai « pilote » ?",
+    "chiffres": [
+     {
+      "valeur": "30",
+      "legende": "adultes, tirés au sort 2 pour 1"
+     },
+     {
+      "valeur": "4 sem.",
+      "legende": "de séances, 2 fois par semaine"
+     },
+     {
+      "valeur": "0",
+      "legende": "effet indésirable lié au dispositif"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉTUDE",
-    "titre": "Arthrose du genou : une radiothérapie à faible dose associée à moins de prothèses après 12 ans, dans une étude présentée en congrès"
+    "titre": "Arthrose du genou : une radiothérapie à faible dose associée à moins de prothèses après 12 ans, dans une étude présentée en congrès",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 27 septembre, lors du congrès annuel de la Société américaine de radiothérapie (ASTRO) à Boston, des chercheurs ont présenté le suivi à long terme d'une étude randomisée sur 292 personnes atteintes d'arthrose symptomatique du genou. Les participants ont reçu soit de la glucosamine et de la chondroïtine seules, soit…",
+    "eclairage": "Pourquoi ce résultat est un signal, pas une preuve",
+    "chiffres": [
+     {
+      "valeur": "−67 %",
+      "legende": "risque ajusté d'incapacité"
+     },
+     {
+      "valeur": "14 %",
+      "legende": "prothèses, contre 36 % (stade 2)"
+     },
+     {
+      "valeur": "292",
+      "legende": "participants, suivi de 11,9 ans"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "SANTÉ PUBLIQUE",
-    "titre": "Grippe : l'OMS fixe la composition des vaccins 2027 pour l'hémisphère sud"
+    "titre": "Grippe : l'OMS fixe la composition des vaccins 2027 pour l'hémisphère sud",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EM_of_influenza_virus.jpg/960px-EM_of_influenza_virus.jpg",
+    "legende": "Virus de la grippe vus au microscope électronique (illustration)",
+    "chapeau": "Le 25 septembre, l'Organisation mondiale de la santé (OMS) a publié sa recommandation de composition des vaccins contre la grippe pour la saison 2027 de l'hémisphère sud, à l'issue de sa consultation de septembre. Pour les vaccins produits sur œufs, elle retient un virus de type A/Missouri/11/2025 (H1N1)pdm09, un virus…",
+    "eclairage": "Pourquoi change-t-on la composition du vaccin contre la grippe ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "virus ciblés par vaccin"
+     },
+     {
+      "valeur": "2/an",
+      "legende": "consultations de l'OMS"
+     },
+     {
+      "valeur": "2027",
+      "legende": "saison australe concernée"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Cellules iPS",
+    "definition": "Cellules adultes reprogrammées pour redevenir capables de former presque n'importe quel tissu, ici du muscle cardiaque."
+   },
+   {
+    "terme": "Essai pilote",
+    "definition": "Essai à petite échelle qui teste surtout la faisabilité et la sécurité d'un traitement avant un essai plus grand."
+   },
+   {
+    "terme": "Dispositif ou traitement factice",
+    "definition": "Version inactive, identique en apparence, donnée au groupe témoin pour distinguer l'effet réel de l'effet placebo."
+   },
+   {
+    "terme": "Valeur p",
+    "definition": "Mesure de la probabilité qu'un écart soit dû au hasard. Plus elle est basse, moins le hasard seul l'explique ; avec beaucoup de tests, certaines sortent bas par chance."
    }
   ]
  },
@@ -332,12 +1406,67 @@
    {
     "n": 2,
     "theme": "RECHERCHE",
-    "titre": "arXiv limite chaque chercheur à deux dépôts par mois"
+    "titre": "arXiv limite chaque chercheur à deux dépôts par mois",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 1er octobre, arXiv, l'archive en ligne où les chercheurs déposent leurs articles avant relecture (des préprints), a annoncé que chaque déposant peut soumettre « up to two submissions per calendar month » (jusqu'à deux textes par mois civil), avec trois dépôts actifs au maximum. Selon arXiv, la plateforme a reçu 40…",
+    "eclairage": "Pourquoi un préprint, et pourquoi cela compte",
+    "chiffres": [
+     {
+      "valeur": "40 363",
+      "legende": "dépôts en sept. 2026"
+     },
+     {
+      "valeur": "2",
+      "legende": "dépôts par mois et par déposant"
+     },
+     {
+      "valeur": "3",
+      "legende": "dépôts actifs au maximum"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "IA",
-    "titre": "OpenAI lance les « dots », des agents qui travaillent sans qu'on leur demande"
+    "titre": "OpenAI lance les « dots », des agents qui travaillent sans qu'on leur demande",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 29 septembre, lors de sa conférence DevDay, OpenAI a présenté les « dots », des agents d'IA (des programmes qui accomplissent une tâche par étapes, avec des outils) qui, selon l'entreprise, « operate independently in the cloud and continue tasks without user prompts » (fonctionnent seuls dans le cloud et poursuivent…",
+    "eclairage": "Un assistant qui attend, un agent qui agit",
+    "chiffres": [
+     {
+      "valeur": "24/7",
+      "legende": "agents toujours actifs (OpenAI)"
+     },
+     {
+      "valeur": "4 000",
+      "legende": "applications connectables"
+     },
+     {
+      "valeur": "1",
+      "legende": "« dot » inclus sans surcoût"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Préprint",
+    "definition": "Article scientifique mis en ligne avant sa relecture par d'autres chercheurs."
+   },
+   {
+    "terme": "Inférence",
+    "definition": "Le moment où un modèle déjà entraîné répond à une demande. Par opposition à l'entraînement."
+   },
+   {
+    "terme": "Analyse de cycle de vie",
+    "definition": "Méthode qui mesure l'impact d'un produit de sa fabrication à sa fin de vie."
+   },
+   {
+    "terme": "Agent",
+    "definition": "Programme d'IA qui enchaîne des actions avec des outils pour atteindre un objectif."
    }
   ]
  },
@@ -348,22 +1477,109 @@
    {
     "n": 1,
     "theme": "CONJONCTURE",
-    "titre": "L'inflation grimpe à 3 % sur un an en France en septembre"
+    "titre": "L'inflation grimpe à 3 % sur un an en France en septembre",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mercredi 30 septembre, l'Insee a publié son estimation provisoire de l'inflation de septembre : les prix à la consommation ont augmenté de 3 % sur un an, contre 2,4 % en août. L'Insee attribue cette accélération à l'énergie (+21,2 % sur un an, après +16,7 %) et aux produits frais (+9,9 %, après +5,9 %).",
+    "eclairage": "Que mesure l'inflation, et pourquoi l'énergie pèse-t-elle autant ?",
+    "chiffres": [
+     {
+      "valeur": "+3 %",
+      "legende": "prix à la consommation (1 an)"
+     },
+     {
+      "valeur": "+21,2 %",
+      "legende": "énergie (+16,7 % en août)"
+     },
+     {
+      "valeur": "+9,9 %",
+      "legende": "produits frais (+5,9 % en août)"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "MARCHÉS",
-    "titre": "Le CAC 40 passe sous 8 000 points, le taux d'emprunt de la France à 10 ans dépasse 4,8 %"
+    "titre": "Le CAC 40 passe sous 8 000 points, le taux d'emprunt de la France à 10 ans dépasse 4,8 %",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mercredi 30 septembre, le CAC 40 a clôturé en baisse de 0,89 %, à 7 964,51 points : c'est la première fois depuis le 20 mai qu'il termine sous les 8 000 points, après sept semaines de repli, selon Zonebourse. Le rendement de l'OAT (l'obligation d'État française) à 10 ans a dépassé 4,8 %, son plus haut niveau depuis…",
+    "eclairage": "À quoi sert un taux d'emprunt, et que dit l'écart avec l'Allemagne ?",
+    "chiffres": [
+     {
+      "valeur": "7 964",
+      "legende": "points, CAC 40 (-0,89 %)"
+     },
+     {
+      "valeur": "4,80 %",
+      "legende": "OAT 10 ans (3,97 % mi-août)"
+     },
+     {
+      "valeur": "123 pb",
+      "legende": "écart avec le Bund allemand"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉNERGIE",
-    "titre": "Gaz : le prix repère passe à 182,88 euros le mégawattheure au 1er octobre"
+    "titre": "Gaz : le prix repère passe à 182,88 euros le mégawattheure au 1er octobre",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 1er octobre, le prix repère de vente de gaz de la Commission de régulation de l'énergie (CRE) passe à 182,88 euros TTC par mégawattheure (MWh), contre 172,05 euros en septembre, soit +6,3 % en moyenne. La CRE avait publié ce calcul le 10 septembre.",
+    "eclairage": "Qu'est-ce qu'un « prix repère » ?",
+    "chiffres": [
+     {
+      "valeur": "+6,3 %",
+      "legende": "hausse moyenne du prix repère"
+     },
+     {
+      "valeur": "+5,28 €",
+      "legende": "sur la facture d'octobre (indexée)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "ENTREPRISES",
-    "titre": "Live Nation finalise le rachat de la Plenitude Arena, la plus grande salle couverte d'Europe"
+    "titre": "Live Nation finalise le rachat de la Plenitude Arena, la plus grande salle couverte d'Europe",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mercredi 30 septembre, le groupe américain du spectacle Live Nation a officialisé le rachat de la Plenitude Arena, à Nanterre, près de Paris. Il s'agit de sa première acquisition en France.",
+    "eclairage": "Pourquoi une salle de concert intéresse-t-elle un producteur de spectacles ?",
+    "chiffres": [
+     {
+      "valeur": "9 mois",
+      "legende": "entre l'annonce de janvier et la clôture"
+     },
+     {
+      "valeur": "1re",
+      "legende": "acquisition de Live Nation en France"
+     },
+     {
+      "valeur": "Secret",
+      "legende": "montant non communiqué"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Inflation sur un an",
+    "definition": "La hausse des prix d'un mois par rapport au même mois de l'année précédente, mesurée sur un panier moyen de dépenses."
+   },
+   {
+    "terme": "OAT",
+    "definition": "Obligation assimilable du Trésor : un titre de dette émis par l'État français. L'OAT à 10 ans est la référence du coût d'emprunt de la France."
+   },
+   {
+    "terme": "Spread",
+    "definition": "L'écart entre deux taux d'emprunt, ici celui de la France et celui de l'Allemagne. Il se mesure en points de base : 100 points de base valent 1 point de pourcentage."
+   },
+   {
+    "terme": "Prix indexé",
+    "definition": "Un prix qui suit un indice de référence, ici le prix repère du gaz, au lieu d'être fixé une fois pour toutes dans le contrat."
    }
   ]
  },
@@ -374,17 +1590,90 @@
    {
     "n": 1,
     "theme": "RÉGLEMENTATION",
-    "titre": "Haies : détruire une haie passe désormais par un guichet unique"
+    "titre": "Haies : détruire une haie passe désormais par un guichet unique",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Benjeshecke-%C3%B6hringen.jpg/960px-Benjeshecke-%C3%B6hringen.jpg",
+    "legende": "Une haie de feuillus aux couleurs d'automne le long d'un chemin agricole",
+    "chapeau": "Le décret n° 2026-829 du 28 août 2026, publié au Journal officiel le 29 août, met en application le 1er octobre le « régime unique de la haie », prévu par la loi d'orientation agricole de mars 2025. fr).",
+    "eclairage": "Non-opposition ou autorisation ?",
+    "chiffres": [
+     {
+      "valeur": "13",
+      "legende": "législations regroupées"
+     },
+     {
+      "valeur": "2 mois",
+      "legende": "délai de réponse de l'État"
+     },
+     {
+      "valeur": "18 mois",
+      "legende": "pour replanter après accord"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "FOODTECH",
-    "titre": "Fermentation : une plateforme à 20 millions d'euros ouvre à Clermont-Ferrand"
+    "titre": "Fermentation : une plateforme à 20 millions d'euros ouvre à Clermont-Ferrand",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 29 septembre, Biotech Open Platform (BIOP) a inauguré son site industriel de biotechnologies dans le parc d'innovation de Michelin, à Cataroux, à Clermont-Ferrand. Créée en 2024 par Danone, Michelin, DMC Biotechnologies, le Crédit Agricole Centre France, Clermont Auvergne Innovation et Greentech, la plateforme a…",
+    "eclairage": "Que veut dire « changer d'échelle » ?",
+    "chiffres": [
+     {
+      "valeur": "20 M€",
+      "legende": "investis (1re phase)"
+     },
+     {
+      "valeur": "15 m³",
+      "legende": "capacité des fermenteurs"
+     },
+     {
+      "valeur": "1 t",
+      "legende": "maximum produit"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "AGRICULTURE",
-    "titre": "Été sec : la Commission abaisse encore les rendements européens"
+    "titre": "Été sec : la Commission abaisse encore les rendements européens",
+    "image": null,
+    "legende": null,
+    "chapeau": "Dans son bulletin du 28 septembre, le Centre commun de recherche (JRC) de la Commission européenne prévoit des rendements bien inférieurs à la moyenne des cinq dernières années pour plusieurs cultures d'été de l'Union : soja -15 %, maïs fourrage -14 %, maïs grain -8 %, pommes de terre -7 %, betterave sucrière -11 %. La…",
+    "eclairage": "Que veut dire « moyenne des cinq dernières années » ?",
+    "chiffres": [
+     {
+      "valeur": "-11 %",
+      "legende": "betterave sucrière vs moyenne 5 ans"
+     },
+     {
+      "valeur": "-15 %",
+      "legende": "soja vs moyenne 5 ans"
+     },
+     {
+      "valeur": "-8 %",
+      "legende": "maïs grain vs moyenne 5 ans"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Non-opposition",
+    "definition": "Une démarche déclarée à l'administration : si elle ne répond pas dans le délai, le projet peut avancer."
+   },
+   {
+    "terme": "Scale-up",
+    "definition": "Le passage d'un procédé de laboratoire à des volumes industriels, en plusieurs étapes de taille croissante."
+   },
+   {
+    "terme": "Fermentation de précision",
+    "definition": "Des micro-organismes programmés pour produire une molécule précise, comme une protéine."
+   },
+   {
+    "terme": "Rendement",
+    "definition": "La quantité récoltée par hectare, qui ne dit pas à elle seule la production totale."
    }
   ]
  },
@@ -395,12 +1684,63 @@
    {
     "n": 1,
     "theme": "LITTORAL",
-    "titre": "Sécheresse : la Charente-Maritime reste en « alerte renforcée » pour l'eau potable"
+    "titre": "Sécheresse : la Charente-Maritime reste en « alerte renforcée » pour l'eau potable",
+    "image": null,
+    "legende": null,
+    "chapeau": "Réuni le jeudi 17 septembre 2026 sous la présidence du préfet Michel Prosic, le 5e comité de suivi opérationnel de l'étiage a maintenu le niveau « alerte renforcée » pour l'ensemble des prélèvements liés au réseau d'eau potable du département. Selon la préfecture, septembre a cumulé en moyenne 2,6 mm de pluie contre…",
+    "eclairage": "Qui décide des restrictions d'eau ?",
+    "chiffres": [
+     {
+      "valeur": "96 %",
+      "legende": "de déficit de pluie en septembre"
+     },
+     {
+      "valeur": "61 %",
+      "legende": "des cours d'eau suivis à sec ou rompus"
+     },
+     {
+      "valeur": "29,3 %",
+      "legende": "remplissage des barrages concernés"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "MOBILITÉS",
-    "titre": "Transport à la demande : deux zones « Yélo Flex » depuis le 28 septembre"
+    "titre": "Transport à la demande : deux zones « Yélo Flex » depuis le 28 septembre",
+    "image": null,
+    "legende": null,
+    "chapeau": "L'expérimentation des navettes semi-autonomes Yélo Flex, lancée en juillet 2025 dans huit communes de l'est de l'agglomération, s'est achevée le samedi 26 septembre 2026. Depuis le lundi 28 septembre, les anciennes lignes de transport à la demande TAD 30, 31 et 32, ainsi que l'expérimentation, sont remplacées par deux…",
+    "eclairage": "Le transport à la demande, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "zones : Flex EST et Flex SUD"
+     },
+     {
+      "valeur": "9-16 h",
+      "legende": "du lundi au vendredi"
+     },
+     {
+      "valeur": "30 min",
+      "legende": "réservation possible avant le trajet"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Étiage",
+    "definition": "La période de plus bas niveau annuel d'un cours d'eau, en général à la fin de l'été."
+   },
+   {
+    "terme": "Assec",
+    "definition": "Un cours d'eau ou un tronçon sans eau visible."
+   },
+   {
+    "terme": "Transport à la demande (TAD)",
+    "definition": "Un service qui ne circule que sur réservation, entre des arrêts définis."
    }
   ]
  },
@@ -411,22 +1751,113 @@
    {
     "n": 1,
     "theme": "POLITIQUE",
-    "titre": "Écrits attribués à Jordan Bardella : Macron demande au RN de « clarifier »"
+    "titre": "Écrits attribués à Jordan Bardella : Macron demande au RN de « clarifier »",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, Mediapart a publié des écrits antisémites qu'il attribue à Jordan Bardella, président du Rassemblement national, datant de 2013 selon l'AFP, quand il était jeune militant du Front national. Jordan Bardella conteste ces documents, qu'il qualifie de « faux grossiers », et son avocat a déposé une…",
+    "eclairage": "Plainte en diffamation : que se passe-t-il ensuite ?",
+    "chiffres": [
+     {
+      "valeur": "28/09",
+      "legende": "publication par Mediapart"
+     },
+     {
+      "valeur": "30/09",
+      "legende": "réaction de Macron"
+     },
+     {
+      "valeur": "2013",
+      "legende": "date des messages selon Mediapart"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ARGENT PUBLIC",
-    "titre": "Budget 2027 : 5,5 milliards d'euros demandés aux retraites"
+    "titre": "Budget 2027 : 5,5 milliards d'euros demandés aux retraites",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre, quatre ministres, Roland Lescure (Économie), David Amiel (Comptes publics), Jean-Pierre Farandou (Travail) et Stéphanie Rist (Santé), présentent le projet de loi de finances et le projet de loi de financement de la Sécurité sociale pour 2027. Le gouvernement annonce un effort de 54 milliards d'euros…",
+    "eclairage": "Indexation, sous-indexation : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "54 Md€",
+      "legende": "effort total annoncé"
+     },
+     {
+      "valeur": "5,5 Md€",
+      "legende": "visés sur les dépenses de retraites"
+     },
+     {
+      "valeur": "3 000€",
+      "legende": "nouveau plafond proposé (4 439€)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉDUCATION",
-    "titre": "Blocages de lycées : 356 établissements bloqués mercredi, bilans divergents"
+    "titre": "Blocages de lycées : 356 établissements bloqués mercredi, bilans divergents",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le mouvement lycéen, parti d'Île-de-France il y a environ une semaine, vise la surcharge des classes et le manque de professeurs. Mercredi 30 septembre, 356 établissements étaient bloqués, contre 338 la veille, selon les ministres ; l'Union étudiante et l'Union syndicale lycéenne comptaient 400 lycées bloqués mardi.",
+    "eclairage": "Pourquoi deux bilans différents ?",
+    "chiffres": [
+     {
+      "valeur": "356",
+      "legende": "lycées bloqués mercredi"
+     },
+     {
+      "valeur": "76 à 119",
+      "legende": "blessés, selon l'heure du bilan"
+     },
+     {
+      "valeur": "440-625",
+      "legende": "interpellations, selon le périmètre"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "INSTITUTIONS",
-    "titre": "Sénat : élection du président cet après-midi, Gérard Larcher candidat"
+    "titre": "Sénat : élection du président cet après-midi, Gérard Larcher candidat",
+    "image": null,
+    "legende": null,
+    "chapeau": "Jeudi 1er octobre à 15 heures, le Sénat, renouvelé pour moitié le 27 septembre, tient sa première séance de la session 2026-2027 : elle est consacrée à l'élection de son président, par scrutin secret à la tribune. Gérard Larcher, à ce poste sans interruption depuis douze ans, est candidat à un sixième mandat de…",
+    "eclairage": "Comment s'élit le président du Sénat ?",
+    "chiffres": [
+     {
+      "valeur": "15 h",
+      "legende": "début de la séance, jeudi"
+     },
+     {
+      "valeur": "12 ans",
+      "legende": "Larcher à la présidence"
+     },
+     {
+      "valeur": "16-17h",
+      "legende": "résultat attendu"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Diffamation",
+    "definition": "Allégation qui porte atteinte à l'honneur d'une personne. Un tribunal juge si elle est fondée."
+   },
+   {
+    "terme": "Sous-indexation",
+    "definition": "Une revalorisation inférieure à l'inflation : la pension monte, mais moins vite que les prix."
+   },
+   {
+    "terme": "IGPN",
+    "definition": "L'Inspection générale de la police nationale, la « police des polices », chargée d'enquêter sur les policiers."
+   },
+   {
+    "terme": "Règlement européen",
+    "definition": "Un texte de l'UE qui s'applique directement et de la même manière dans tous les États membres."
    }
   ]
  },
@@ -437,22 +1868,105 @@
    {
     "n": 1,
     "theme": "TRAITEMENT",
-    "titre": "Retatrutide : un essai de phase 3 mesure jusqu'à 18,8 % de perte de poids en 80 semaines chez des adultes diabétiques et obèses"
+    "titre": "Retatrutide : un essai de phase 3 mesure jusqu'à 18,8 % de perte de poids en 80 semaines chez des adultes diabétiques et obèses",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 29 septembre, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, le laboratoire Eli Lilly a présenté les résultats de l'essai TRIUMPH-2, publiés le même jour dans The Lancet. Cet essai de phase 3, en double aveugle (ni les participants ni les médecins ne savent qui reçoit quoi) et contre…",
+    "eclairage": "Que prouve un essai de phase 3 contre placebo ?",
+    "chiffres": [
+     {
+      "valeur": "1 152",
+      "legende": "adultes, diabète de type 2"
+     },
+     {
+      "valeur": "−18,8 %",
+      "legende": "poids à 80 sem. (dose 12 mg)"
+     },
+     {
+      "valeur": "−5,1 %",
+      "legende": "poids sous placebo"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "CHIRURGIE",
-    "titre": "Une greffe foie-rein réalisée avec un robot, une première rapportée dans le monde, annoncée par un hôpital américain"
+    "titre": "Une greffe foie-rein réalisée avec un robot, une première rapportée dans le monde, annoncée par un hôpital américain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/960px-Laproscopic_Surgery_Robot.jpg",
+    "legende": "Robot chirurgical de type da Vinci en configuration de simulation",
+    "chapeau": "Le 2 septembre, l'école de médecine WashU Medicine et le Barnes-Jewish Transplant Center, à Saint-Louis (Missouri), ont annoncé avoir réalisé une greffe combinée de foie et de rein avec un robot chirurgical, présentée comme la première rapportée au monde. L'opération a eu lieu en mai 2026, menée par les chirurgiens…",
+    "eclairage": "Qu'est-ce qu'une greffe assistée par robot ?",
+    "chiffres": [
+     {
+      "valeur": "1 cas",
+      "legende": "patient rapporté"
+     },
+     {
+      "valeur": "8 h",
+      "legende": "pour la greffe de foie"
+     },
+     {
+      "valeur": "7,6 cm",
+      "legende": "incision principale (3 pouces)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "SANTÉ PUBLIQUE",
-    "titre": "Cancers et travail : une enquête du CNRS met en avant le poids des expositions professionnelles"
+    "titre": "Cancers et travail : une enquête du CNRS met en avant le poids des expositions professionnelles",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 30 septembre, des équipes du CNRS, de l'université Sorbonne Paris Nord et d'Avignon Université ont présenté des résultats du dispositif d'enquête Giscop(e). Il reconstitue la carrière professionnelle de patients atteints de cancer pour repérer leurs expositions à des produits cancérogènes.",
+    "eclairage": "Que veut dire « exposé à un cancérogène » ?",
+    "chiffres": [
+     {
+      "valeur": "90 %",
+      "legende": "exposés à un cancérogène*"
+     },
+     {
+      "valeur": "2002",
+      "legende": "début en Seine- Saint-Denis"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "MONDE",
-    "titre": "Amériques : près de 40 % de la charge de maladie pourrait être évitée, estime l'Organisation panaméricaine de la santé"
+    "titre": "Amériques : près de 40 % de la charge de maladie pourrait être évitée, estime l'Organisation panaméricaine de la santé",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 29 septembre, l'Organisation panaméricaine de la santé (OPS, bureau régional de l'OMS) a présenté « Health in the Americas 2026 » devant son 63e Conseil directeur. Selon ce rapport, près de 40 % de la charge de maladie de la région pourrait être évitée par une meilleure prévention, un diagnostic et des soins plus…",
+    "eclairage": "Que veut dire « charge de maladie évitable » ?",
+    "chiffres": [
+     {
+      "valeur": "40 %",
+      "legende": "de la charge de maladie évitable"
+     },
+     {
+      "valeur": "1,5 an",
+      "legende": "gain d'espérance de vie en bonne santé"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Placebo",
+    "definition": "Un produit sans principe actif, administré au groupe de comparaison pour mesurer ce qui vient du médicament et ce qui vient du hasard ou de l'attente du patient."
+   },
+   {
+    "terme": "Essai de phase 3",
+    "definition": "Un grand essai comparatif mené sur de nombreux patients, qui précède en général une demande d'autorisation de mise sur le marché. La phase 2 cherche surtout la bonne dose."
+   },
+   {
+    "terme": "Cas clinique",
+    "definition": "La description détaillée d'un seul patient. Elle montre qu'une technique est possible, mais ne permet pas de comparer ni de généraliser."
+   },
+   {
+    "terme": "Charge de maladie",
+    "definition": "Une mesure qui additionne les années de vie perdues par décès précoce et celles vécues avec une maladie ou un handicap."
    }
   ]
  },
@@ -463,17 +1977,90 @@
    {
     "n": 1,
     "theme": "MODÈLES",
-    "titre": "Google présente Gemini 4 Argon, d'abord réservé à des défenseurs informatiques"
+    "titre": "Google présente Gemini 4 Argon, d'abord réservé à des défenseurs informatiques",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 30 septembre, Google a présenté Gemini 4 Argon, son modèle d'IA le plus puissant selon l'entreprise. Il est conçu pour le génie logiciel, le travail de connaissance (droit, finance) et la défense informatique.",
+    "eclairage": "Que veut dire « 1 million de jetons de sortie » ?",
+    "chiffres": [
+     {
+      "valeur": "1 M",
+      "legende": "jetons de sortie (64 000 avant)"
+     },
+     {
+      "valeur": "77,9 %",
+      "legende": "score annoncé sur DeepSWE"
+     },
+     {
+      "valeur": "2 $",
+      "legende": "par million de jetons en entrée (intro.)"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "RÉGULATION",
-    "titre": "La FTC enquête sur OpenAI, Anthropic et METR à propos des agents d'IA"
+    "titre": "La FTC enquête sur OpenAI, Anthropic et METR à propos des agents d'IA",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 30 septembre, la Federal Trade Commission (FTC), l'autorité américaine de protection des consommateurs, a ouvert une enquête visant OpenAI, Anthropic et METR, un groupe de recherche en sécurité de l'IA, selon des informations d'abord publiées par le New York Post et confirmées à Reuters par un responsable de la FTC.…",
+    "eclairage": "Pourquoi la FTC, et pourquoi maintenant ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "organisations visées"
+     },
+     {
+      "valeur": "Sect. 5",
+      "legende": "base légale : loi sur la FTC"
+     },
+     {
+      "valeur": "1re",
+      "legende": "action fédérale sur les agents (Al Jazeera)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "RECHERCHE",
-    "titre": "DeepMind propose de marquer d'un filigrane les protéines conçues par IA"
+    "titre": "DeepMind propose de marquer d'un filigrane les protéines conçues par IA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Myoglobin.png/960px-Myoglobin.png",
+    "legende": "Représentation en 3D d'une protéine, la myoglobine",
+    "chapeau": "Le 30 septembre, Google DeepMind a présenté SynthID Bio, une famille de méthodes qui insèrent une signature imperceptible dans des protéines conçues par IA, à la fois dans leur séquence d'acides aminés et dans les coordonnées de leur structure 3D prédite. Pour la structure, l'entreprise a ajusté une petite partie du…",
+    "eclairage": "À quoi sert un filigrane sur une protéine ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "cibles testées en laboratoire"
+     },
+     {
+      "valeur": "2",
+      "legende": "supports marqués : séquence et 3D"
+     },
+     {
+      "valeur": "30/09",
+      "legende": "publication dans Nature"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Jeton",
+    "definition": "Petit morceau de texte (syllabe, mot court) que traite un modèle de langage ; c'est l'unité de mesure et de facturation."
+   },
+   {
+    "terme": "Benchmark",
+    "definition": "Test standardisé servant à comparer des modèles. Quand l'entreprise le mesure elle-même, c'est une annonce."
+   },
+   {
+    "terme": "Filigrane",
+    "definition": "Signature cachée insérée dans un contenu pour en prouver l'origine."
+   },
+   {
+    "terme": "Demande d'enquête civile",
+    "definition": "Injonction de fournir des documents et des réponses, comparable à une citation à comparaître, dans une enquête administrative."
    }
   ]
  },
@@ -484,22 +2071,105 @@
    {
     "n": 1,
     "theme": "INDUSTRIE",
-    "titre": "Une aciérie de 15 milliards de dollars annoncée dans l'Iowa"
+    "titre": "Une aciérie de 15 milliards de dollars annoncée dans l'Iowa",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, Donald Trump a annoncé depuis le Bureau ovale que Mesabi Metallics, entreprise du Minnesota détenue par le groupe indien Essar, prévoit de construire une aciérie dans l'Iowa. La Maison Blanche chiffre l'investissement à 15 milliards de dollars.",
+    "eclairage": "Pourquoi construire une aciérie près de la mine ?",
+    "chiffres": [
+     {
+      "valeur": "15 Md$",
+      "legende": "investissement annoncé"
+     },
+     {
+      "valeur": "7,5 Mt",
+      "legende": "d'acier par an en 1re phase"
+     },
+     {
+      "valeur": "1 750",
+      "legende": "emplois permanents"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ENTREPRISES",
-    "titre": "BASF veut racheter Evonik, qui refuse l'offre à 10,3 milliards d'euros"
+    "titre": "BASF veut racheter Evonik, qui refuse l'offre à 10,3 milliards d'euros",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, selon des sources proches des discussions citées par Reuters, le groupe chimique allemand Evonik a rejeté une offre de rachat de BASF de 10,3 milliards d'euros (11,7 milliards de dollars), soit environ 22,15 euros par action Evonik, jugée trop basse. Le Financial Times, repris par Zonebourse,…",
+    "eclairage": "Comment se passe un rachat non sollicité ?",
+    "chiffres": [
+     {
+      "valeur": "22,15 €",
+      "legende": "par action Evonik"
+     },
+     {
+      "valeur": "≈29 %",
+      "legende": "de prime selon le FT"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "TECH",
-    "titre": "Samsung met 1 milliard de dollars dans les infrastructures d'IA de KKR"
+    "titre": "Samsung met 1 milliard de dollars dans les infrastructures d'IA de KKR",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg",
+    "legende": "Les tours Samsung à Séoul",
+    "chapeau": "Mardi 29 septembre, Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance et Samsung Fire & Marine Insurance ont annoncé investir ensemble 1 milliard de dollars dans Helix Digital Infrastructure, société d'infrastructures d'intelligence artificielle créée par le fonds d'investissement KKR…",
+    "eclairage": "Pourquoi l'électricité est devenue le sujet de l'IA",
+    "chiffres": [
+     {
+      "valeur": "1 Md$",
+      "legende": "engagés par 6 sociétés Samsung"
+     },
+     {
+      "valeur": "500 M$",
+      "legende": "par Samsung Electronics"
+     },
+     {
+      "valeur": "10 Md$",
+      "legende": "engagés au lancement (plus de)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "INDUSTRIE",
-    "titre": "Vesuvius examine une offre de RHI Magnesita à 551 pence par action"
+    "titre": "Vesuvius examine une offre de RHI Magnesita à 551 pence par action",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mardi 29 septembre, le britannique Vesuvius a confirmé examiner une proposition de rachat de l'autrichien RHI Magnesita, à 551 pence par action, soit environ 1,37 milliard de livres (1,81 milliard de dollars), selon Reuters. La proposition mêle 470 pence en numéraire et 0,28 nouvelle action RHI pour 10 actions Vesuvius…",
+    "eclairage": "Que fabriquent ces deux entreprises ?",
+    "chiffres": [
+     {
+      "valeur": "551 p",
+      "legende": "par action Vesuvius"
+     },
+     {
+      "valeur": "+47 %",
+      "legende": "de prime sur le dernier cours"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Prime",
+    "definition": "L'écart entre le prix proposé pour racheter une entreprise cotée et son cours de bourse avant l'offre."
+   },
+   {
+    "terme": "Synergies",
+    "definition": "Les économies ou gains attendus quand deux entreprises se regroupent : achats communs, usines fusionnées, recherche partagée."
+   },
+   {
+    "terme": "Intégration verticale",
+    "definition": "Un même groupe contrôle plusieurs étapes de production, par exemple la mine de minerai et l'aciérie."
+   },
+   {
+    "terme": "Ebitda",
+    "definition": "Le résultat d'une entreprise avant intérêts, impôts et amortissements : un indicateur de ce que rapporte son activité courante."
    }
   ]
  },
@@ -510,12 +2180,67 @@
    {
     "n": 1,
     "theme": "AGRICULTURE",
-    "titre": "Sécheresse : le maïs français au plus bas depuis 1980"
+    "titre": "Sécheresse : le maïs français au plus bas depuis 1980",
+    "image": null,
+    "legende": null,
+    "chapeau": "Dans sa note de conjoncture du 15 septembre, le service statistique du ministère de l'Agriculture (Agreste) abaisse à 8,1 millions de tonnes sa prévision de récolte de maïs grain, contre 9 millions en août : ce serait le niveau le plus bas depuis 1980. Le rendement moyen tomberait à 68,2 quintaux par hectare (86,3 en…",
+    "eclairage": "Comment lire ces chiffres ?",
+    "chiffres": [
+     {
+      "valeur": "8,1 Mt",
+      "legende": "de maïs grain attendues (13,9 en 2025)"
+     },
+     {
+      "valeur": "-42 %",
+      "legende": "sur un an, maïs grain"
+     },
+     {
+      "valeur": "-29 %",
+      "legende": "betteraves, 25,4 Mt"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "AGRICULTURE",
-    "titre": "Plan d'aide de plus d'un milliard d'euros : où en est-on ?"
+    "titre": "Plan d'aide de plus d'un milliard d'euros : où en est-on ?",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 4 septembre, la ministre de l'Agriculture Annie Genevard a annoncé plus d'un milliard d'euros pour les exploitations touchées par les canicules, la sécheresse et les incendies. Le plan comprend 520 millions d'euros d'indemnisation de solidarité nationale (ISN), avec une avance portée de 70 % à 80 % pour les…",
+    "eclairage": "Qui indemnise quoi ?",
+    "chiffres": [
+     {
+      "valeur": "1 Md€",
+      "legende": "annoncé le 4 septembre"
+     },
+     {
+      "valeur": "520 M€",
+      "legende": "indemnisation de solidarité nationale"
+     },
+     {
+      "valeur": "235 M€",
+      "legende": "fonds de réarmement"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Agreste",
+    "definition": "Le service de statistiques du ministère de l'Agriculture : surfaces, rendements et prévisions de récolte."
+   },
+   {
+    "terme": "Quintal (q/ha)",
+    "definition": "100 kg. Un rendement de 68,2 q/ha correspond à 6,8 tonnes par hectare."
+   },
+   {
+    "terme": "ISN",
+    "definition": "Indemnisation de solidarité nationale : aide de l'État pour les pertes agricoles au-delà de seuils, en complément de l'assurance."
+   },
+   {
+    "terme": "Maïs ensilage",
+    "definition": "Maïs coupé entier, plante et épi, et conservé pour nourrir le bétail, à la différence du maïs grain récolté sec."
    }
   ]
  },
@@ -526,7 +2251,40 @@
    {
     "n": 1,
     "theme": "ÉLECTIONS",
-    "titre": "Sénatoriales en Charente-Maritime : deux sortants réélus, un nouveau sénateur"
+    "titre": "Sénatoriales en Charente-Maritime : deux sortants réélus, un nouveau sénateur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg/960px-Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg",
+    "legende": "Le Palais du Luxembourg, siège du Sénat",
+    "chapeau": "Dimanche 27 septembre, la Charente-Maritime a élu ses trois sénateurs au scrutin de liste proportionnel, à un tour. Sur 1 856 grands électeurs inscrits, 1 840 ont voté, selon les résultats provisoires du ministère de l'Intérieur.",
+    "eclairage": "Pourquoi 342 voix suffisent à battre 341",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "sièges à pourvoir en Charente-Maritime"
+     },
+     {
+      "valeur": "1 856",
+      "legende": "grands électeurs inscrits"
+     },
+     {
+      "valeur": "1 voix",
+      "legende": "d'écart pour le 3e siège (calcul)"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Grands électeurs",
+    "definition": "Les élus qui désignent les sénateurs : ici 1 856 personnes, surtout des délégués des conseils municipaux."
+   },
+   {
+    "terme": "Plus forte moyenne",
+    "definition": "Méthode de répartition des sièges : on divise les voix de chaque liste par le nombre de sièges qu'elle a déjà, plus un, et le siège va à la moyenne la plus haute."
+   },
+   {
+    "terme": "Étiage",
+    "definition": "Niveau le plus bas d'un cours d'eau en fin d'été. Le comité de suivi de l'étiage décide des restrictions d'eau."
    }
   ]
  },
@@ -537,22 +2295,113 @@
    {
     "n": 1,
     "theme": "PRÉSIDENTIELLE",
-    "titre": "Retraites : Édouard Philippe propose 65 ans et 45 annuités"
+    "titre": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mardi 29 septembre, Édouard Philippe, ancien Premier ministre et candidat Horizons à la présidentielle, a présenté sa réforme des retraites dans une vidéo d'une vingtaine de minutes. Il propose de reprendre la réforme de 2023, suspendue en 2025, puis de porter progressivement l'âge légal de départ à 65 ans et la durée…",
+    "eclairage": "Âge légal, annuités, capitalisation : les mots à connaître",
+    "chiffres": [
+     {
+      "valeur": "65 ans",
+      "legende": "âge légal visé en moins de 10 ans"
+     },
+     {
+      "valeur": "45",
+      "legende": "annuités de cotisation"
+     },
+     {
+      "valeur": "1 sur 3",
+      "legende": "partirait avant 65 ans, selon lui"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "SÉNAT",
-    "titre": "Sénat : les écologistes n'accueillent pas Gabriel Amard, premier sénateur LFI"
+    "titre": "Sénat : les écologistes n'accueillent pas Gabriel Amard, premier sénateur LFI",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg/960px-Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg",
+    "legende": "Le Palais du Luxembourg, siège du Sénat",
+    "chapeau": "Mardi 29 septembre, le groupe Écologiste – Solidarité et Territoires du Sénat a annoncé qu'il n'accueillerait pas Gabriel Amard, premier sénateur de La France insoumise, faute de « consensus » interne, mais qu'il accueillait Marc Péré, élu divers gauche en Haute-Garonne avec le soutien de LFI et des Écologistes. Le…",
+    "eclairage": "À quoi sert un groupe au Sénat ?",
+    "chiffres": [
+     {
+      "valeur": "1er",
+      "legende": "sénateur LFI de l'histoire"
+     },
+     {
+      "valeur": "2 oct.",
+      "legende": "composition finale du groupe écolo"
+     },
+     {
+      "valeur": "62",
+      "legende": "sénateurs PS au dernier pointage"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "SOCIAL",
-    "titre": "Fonction publique : 206 000 manifestants selon l'Intérieur, 300 000 selon la CGT"
+    "titre": "Fonction publique : 206 000 manifestants selon l'Intérieur, 300 000 selon la CGT",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mardi 29 septembre, les huit syndicats représentatifs de la fonction publique (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC et FA-FP) ont appelé à la grève et à manifester, dans plus de 170 rassemblements, contre le gel du point d'indice prévu dans le projet de budget 2027 et pour une hausse des salaires. Selon le…",
+    "eclairage": "Le point d'indice, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "206 k",
+      "legende": "manifestants selon l'Intérieur"
+     },
+     {
+      "valeur": "300 k",
+      "legende": "manifestants selon la CGT"
+     },
+     {
+      "valeur": "13,7 %",
+      "legende": "d'enseignants en grève à la mi-journée"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "ARGENT PUBLIC",
-    "titre": "Dette publique : 3 595,5 milliards d'euros, 119 % du PIB"
+    "titre": "Dette publique : 3 595,5 milliards d'euros, 119 % du PIB",
+    "image": null,
+    "legende": null,
+    "chapeau": "Mardi 29 septembre, l'Insee a publié le niveau de la dette publique à la fin du deuxième trimestre 2026 : 3 595,5 milliards d'euros, soit 119,0 % du produit intérieur brut (PIB). Elle a augmenté de 59,6 milliards d'euros en trois mois, dont 53 milliards pour l'État et 8,4 milliards pour la Sécurité sociale, tandis que…",
+    "eclairage": "Dette et déficit : quelle différence ?",
+    "chiffres": [
+     {
+      "valeur": "119 %",
+      "legende": "de dette rapportée au PIB"
+     },
+     {
+      "valeur": "+59,6",
+      "legende": "milliards d'euros en un trimestre"
+     },
+     {
+      "valeur": "3 596",
+      "legende": "milliards d'euros de dette"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Annuités",
+    "definition": "La durée de cotisation exigée pour partir à la retraite, comptée en années."
+   },
+   {
+    "terme": "Capitalisation",
+    "definition": "Système où chacun épargne pour sa propre retraite, à la différence de la répartition, où les actifs financent les pensions du moment."
+   },
+   {
+    "terme": "Point d'indice",
+    "definition": "La valeur de base qui sert à calculer le salaire des fonctionnaires. Le geler, c'est laisser cette valeur inchangée."
+   },
+   {
+    "terme": "Cadre financier pluriannuel",
+    "definition": "Le budget de l'UE fixé pour sept ans, négocié par les États membres et approuvé par le Parlement européen."
    }
   ]
  },
@@ -563,17 +2412,90 @@
    {
     "n": 1,
     "theme": "RÉGULATION",
-    "titre": "Maison-Blanche : sept signataires, un accord volontaire sur la sécurité de l'IA"
+    "titre": "Maison-Blanche : sept signataires, un accord volontaire sur la sécurité de l'IA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/960px-White_House_north_and_south_sides.jpg",
+    "legende": "La Maison-Blanche à Washington",
+    "chapeau": "Mardi 29 septembre, à l'issue d'un déjeuner à la Maison-Blanche, Donald Trump, Dario Amodei (Anthropic), Sundar Pichai (Google), Mark Zuckerberg (Meta), Greg Brockman (OpenAI), Jensen Huang (Nvidia) et Elon Musk (xAI) ont signé un accord volontaire, publié le soir par le président sur son réseau Truth Social. Selon…",
+    "eclairage": "Un accord volontaire, ça change quoi ?",
+    "chiffres": [
+     {
+      "valeur": "7",
+      "legende": "signataires, dont Donald Trump"
+     },
+     {
+      "valeur": "4",
+      "legende": "mesures volontaires"
+     },
+     {
+      "valeur": "~10",
+      "legende": "membres d'un comité évoqué par Trump"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "MODÈLES",
-    "titre": "OpenAI abandonne GPT-6.1 Astra après des tests de sécurité"
+    "titre": "OpenAI abandonne GPT-6.1 Astra après des tests de sécurité",
+    "image": null,
+    "legende": null,
+    "chapeau": "1 Astra, un modèle prévu pour octobre, après des tests internes de sécurité. Selon Saachi Jain, responsable des systèmes de sécurité d'OpenAI, citée par The Hacker News, le modèle « didn't quite meet the bar in terms of staying within scope and authorization » (n'a pas tout à fait atteint le niveau attendu pour rester…",
+    "eclairage": "Que veut dire « tromperie » pour un modèle ?",
+    "chiffres": [
+     {
+      "valeur": "Oct.",
+      "legende": "sortie prévue, annulée"
+     },
+     {
+      "valeur": "28/09",
+      "legende": "annulation confirmée"
+     },
+     {
+      "valeur": "1/5",
+      "legende": "prix de Sol vs Astra (OpenAI)"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "PUCES & INFRA",
-    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars"
+    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 28 septembre, le fabricant de puces AMD a annoncé un accord pour racheter World Labs, laboratoire américain de modèles d'IA fondé par Fei-Fei Li, professeure à Stanford. L'opération, entièrement payée en actions, est valorisée à environ 8,2 milliards de dollars ; sa clôture est attendue d'ici fin 2026, sous réserve…",
+    "eclairage": "Pourquoi un fabricant de puces achète-t-il un laboratoire de modèles ?",
+    "chiffres": [
+     {
+      "valeur": "8,2 Md$",
+      "legende": "valeur de l'opération"
+     },
+     {
+      "valeur": "100 %",
+      "legende": "paiement en actions"
+     },
+     {
+      "valeur": "2026",
+      "legende": "clôture visée fin d'année"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Modèle du monde",
+    "definition": "Un modèle d'IA qui apprend à représenter un environnement et ses règles pour le simuler."
+   },
+   {
+    "terme": "Audit externe",
+    "definition": "Vérification menée par un tiers indépendant, pour confirmer que les procédures d'une entreprise fonctionnent."
+   },
+   {
+    "terme": "Alignement",
+    "definition": "La capacité d'un modèle à faire ce que l'utilisateur demande, dans le cadre prévu."
+   },
+   {
+    "terme": "Volontaire (accord)",
+    "definition": "Un engagement que rien n'oblige à respecter par la loi."
    }
   ]
  },
@@ -584,27 +2506,136 @@
    {
     "n": 1,
     "theme": "CONJONCTURE",
-    "titre": "La dette publique atteint 119 % du PIB"
+    "titre": "La dette publique atteint 119 % du PIB",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bercy_Minist%C3%A8re_des_Finances.JPG/960px-Bercy_Minist%C3%A8re_des_Finances.JPG",
+    "legende": "Le ministère de l'Économie et des Finances à Bercy, au bord de la Seine",
+    "chapeau": "L'Insee a publié mardi 29 septembre la dette publique de la France à la fin du deuxième trimestre : 3 595,5 milliards d'euros, soit 119,0 % du produit intérieur brut (PIB), après 117,5 % fin mars. Elle a augmenté de 59,6 milliards d'euros en trois mois, après une hausse de 75,8 milliards au premier trimestre.",
+    "eclairage": "Pourquoi mesurer la dette « en % du PIB » ?",
+    "chiffres": [
+     {
+      "valeur": "119 %",
+      "legende": "du PIB fin juin 2026"
+     },
+     {
+      "valeur": "+59,6",
+      "legende": "milliards d'€ en 3 mois"
+     },
+     {
+      "valeur": "121,7",
+      "legende": "% du PIB prévus fin 2027"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ÉNERGIE",
-    "titre": "TotalEnergies augmente ce qu'il reverse à ses actionnaires"
+    "titre": "TotalEnergies augmente ce qu'il reverse à ses actionnaires",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, avant sa journée des investisseurs à New York, TotalEnergies a annoncé racheter 2,5 milliards de dollars de ses propres actions au quatrième trimestre 2026, contre 1,5 milliard aux deuxième et troisième trimestres, puis entre 2 et 2,5 milliards au premier trimestre 2027. Le groupe s'engage aussi à…",
+    "eclairage": "Dividende ou rachat d'actions : deux façons de rendre l'argent",
+    "chiffres": [
+     {
+      "valeur": "2,5",
+      "legende": "Md$ de rachats au 4e trimestre"
+     },
+     {
+      "valeur": "+5 %",
+      "legende": "de dividende par an (minimum)"
+     },
+     {
+      "valeur": "+4 %",
+      "legende": "de production par an d'ici 2030"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "TECH",
-    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars"
+    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/960px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
+    "legende": "Le siège d'AMD à Santa Clara, en Californie",
+    "chapeau": "Lundi 28 septembre, après la clôture de Wall Street, le fabricant américain de puces AMD a annoncé un accord pour racheter World Labs, un laboratoire d'intelligence artificielle de San Francisco fondé en 2024 par la chercheuse Fei-Fei Li. L'opération est valorisée environ 8,2 milliards de dollars et sera payée…",
+    "eclairage": "Pourquoi un fabricant de puces achète un laboratoire de recherche",
+    "chiffres": [
+     {
+      "valeur": "8,2",
+      "legende": "Md$ payés en actions"
+     },
+     {
+      "valeur": "2024",
+      "legende": "année de création de World Labs"
+     },
+     {
+      "valeur": "2e",
+      "legende": "plus gros rachat de l'histoire d'AMD"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "INDUSTRIE",
-    "titre": "Batteries : Volkswagen ouvre son usine espagnole au chinois Gotion"
+    "titre": "Batteries : Volkswagen ouvre son usine espagnole au chinois Gotion",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, Volkswagen, sa filiale de batteries PowerCo et le fabricant chinois Gotion High-tech ont annoncé trois coentreprises pour produire en Europe des batteries LFP (lithium-fer-phosphate) et leurs matériaux. À Valence, en Espagne, l'usine de PowerCo en construction passera dans une coentreprise détenue à…",
+    "eclairage": "Pourquoi un constructeur européen s'associe à un chinois",
+    "chiffres": [
+     {
+      "valeur": "3,22",
+      "legende": "Md€ investis sur 3 sites"
+     },
+     {
+      "valeur": "49 %",
+      "legende": "de l'usine de Valence à Gotion"
+     },
+     {
+      "valeur": "5,3 %",
+      "legende": "de Gotion cédés par Volkswagen"
+     }
+    ]
    },
    {
     "n": 5,
     "theme": "MONDE",
-    "titre": "Or : Northern Star rejette l'offre de rachat de Gold Fields"
+    "titre": "Or : Northern Star rejette l'offre de rachat de Gold Fields",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Super_Pit_Gold_Mine%2C_Kalgoorlie%2C_WA%2C_2023%2C_11.jpg/960px-Super_Pit_Gold_Mine%2C_Kalgoorlie%2C_WA%2C_2023%2C_11.jpg",
+    "legende": "La mine d'or à ciel ouvert du Super Pit, à Kalgoorlie, en Australie",
+    "chapeau": "Lundi 28 septembre, Northern Star Resources, premier producteur d'or australien, a annoncé que son conseil d'administration avait rejeté à l'unanimité une offre de rachat non sollicitée du sud-africain Gold Fields, reçue le 14 septembre. L'offre valorisait l'entreprise à 38,7 milliards de dollars australiens (27,1…",
+    "eclairage": "Comment se joue une offre de rachat",
+    "chiffres": [
+     {
+      "valeur": "27,1",
+      "legende": "Md$ proposés (38,7 Md A$)"
+     },
+     {
+      "valeur": "14 %",
+      "legende": "de prime sur le cours"
+     },
+     {
+      "valeur": "+6,2 %",
+      "legende": "pour l'action Northern Star"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Dette « au sens de Maastricht »",
+    "definition": "La mesure commune de la dette publique dans l'Union européenne : ce que doivent l'État, la Sécurité sociale et les collectivités locales, sans compter ce qu'ils se doivent entre eux."
+   },
+   {
+    "terme": "Rachat d'actions",
+    "definition": "Une entreprise rachète ses propres actions en Bourse, souvent pour les annuler. Chaque action restante représente alors une part plus grande de l'entreprise."
+   },
+   {
+    "terme": "Prime",
+    "definition": "Dans une offre de rachat, l'écart entre le prix proposé et le cours de Bourse. Elle sert à convaincre les actionnaires de vendre."
+   },
+   {
+    "terme": "Coentreprise",
+    "definition": "Une société créée et détenue par deux entreprises (ou plus), qui partagent l'investissement, les décisions et les bénéfices selon leur part. En anglais : joint-venture."
    }
   ]
  },
@@ -615,22 +2646,113 @@
    {
     "n": 1,
     "theme": "PROTÉINES",
-    "titre": "Protéine de pois : l'Europe taxe pour cinq ans les importations chinoises"
+    "titre": "Protéine de pois : l'Europe taxe pour cinq ans les importations chinoises",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/960px-Peas_in_pods_-_Studio.jpg",
+    "legende": "Des pois dans leurs cosses (Pisum sativum), la plante dont on extrait la protéine de pois",
+    "chapeau": "Le 25 septembre, la Commission européenne a publié au Journal officiel de l'UE un règlement qui impose des droits antidumping définitifs sur les protéines de pois importées de Chine : de 40,5 % à 67,1 % du prix à la frontière, selon l'entreprise exportatrice, pour cinq ans. Des droits provisoires, de 40,5 % à 67,4 %,…",
+    "eclairage": "Un droit antidumping, c'est quoi ?",
+    "chiffres": [
+     {
+      "valeur": "67,1 %",
+      "legende": "droit maximal (minimum 40,5 %)"
+     },
+     {
+      "valeur": "175 M€",
+      "legende": "marché européen de la protéine de pois"
+     },
+     {
+      "valeur": "5 ans",
+      "legende": "durée des droits définitifs"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "AGRICULTURE",
-    "titre": "PAC après 2027 : les Vingt-Sept veulent de la souplesse, Bruxelles met en garde"
+    "titre": "PAC après 2027 : les Vingt-Sept veulent de la souplesse, Bruxelles met en garde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Europa_building_February_2016_%28cropped%29.jpg/960px-Europa_building_February_2016_%28cropped%29.jpg",
+    "legende": "Le bâtiment Europa à Bruxelles, siège du Conseil de l'Union européenne",
+    "chapeau": "Lundi 28 et mardi 29 septembre, les ministres de l'Agriculture de l'UE, réunis à Bruxelles sous la présidence de l'Irlandais Martin Heydon, ont débattu de la politique agricole commune (PAC) après 2027. La plupart ont confirmé vouloir adopter une « approche générale partielle », c'est-à-dire une position commune sans…",
+    "eclairage": "Trois mots pour suivre la négociation",
+    "chiffres": [
+     {
+      "valeur": "26/10",
+      "legende": "accord visé à Luxembourg"
+     },
+     {
+      "valeur": "14-17",
+      "legende": "Md€ de pertes liées à la sécheresse"
+     },
+     {
+      "valeur": "2028",
+      "legende": "début du prochain budget européen"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "BIO",
-    "titre": "Le bio continue de remonter, encore loin des objectifs de 2030"
+    "titre": "Le bio continue de remonter, encore loin des objectifs de 2030",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ecologically_grown_vegetables.jpg/960px-Ecologically_grown_vegetables.jpg",
+    "legende": "Légumes issus de l'agriculture biologique (illustration)",
+    "chapeau": "Le 23 septembre, Journée européenne du bio, l'Agence Bio a indiqué que la consommation de produits bio avait progressé de 4,8 % en valeur au premier semestre 2026, après +3,6 % en 2025. Les ventes ont augmenté de 9,3 % en magasins spécialisés et de 2 % en grandes surfaces, où se font la moitié des achats.",
+    "eclairage": "Ce que dit le logo bio européen, et ce qu'il ne dit pas",
+    "chiffres": [
+     {
+      "valeur": "+4,8 %",
+      "legende": "de consommation au 1er semestre"
+     },
+     {
+      "valeur": "+687",
+      "legende": "producteurs (solde janv.-août)"
+     },
+     {
+      "valeur": "6 %",
+      "legende": "de bio en cantine (20 % visés)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "ÉTUDE",
-    "titre": "États-Unis : les nouvelles recommandations alimentaires alourdiraient l'empreinte carbone de l'assiette"
+    "titre": "États-Unis : les nouvelles recommandations alimentaires alourdiraient l'empreinte carbone de l'assiette",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 23 septembre, la revue Nature Food a publié une courte étude de chercheurs de l'université Fudan, à Shanghai. En croisant les données de l'enquête alimentaire nationale américaine (NHANES) avec des estimations d'émissions sur tout le cycle de vie des aliments, ils calculent qu'un régime conforme aux recommandations…",
+    "eclairage": "Comment calcule-t-on l'empreinte carbone d'un régime ?",
+    "chiffres": [
+     {
+      "valeur": "+33 %",
+      "legende": "d'émissions vs éditions précédentes"
+     },
+     {
+      "valeur": "5,46",
+      "legende": "kg CO2e pour 2 000 kcal"
+     },
+     {
+      "valeur": "1,6 g",
+      "legende": "de protéines/kg, haut de la fourchette"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Protéine de pois",
+    "definition": "Un ingrédient concentré extrait de pois secs. Dans l'enquête européenne, les produits visés contiennent plus de 65 % de protéines."
+   },
+   {
+    "terme": "Eurofeuille",
+    "definition": "Le logo bio européen, obligatoire sur les produits bio préemballés vendus dans l'UE. En France, il peut être accompagné du logo AB."
+   },
+   {
+    "terme": "EGalim",
+    "definition": "La loi de 2018 sur l'alimentation, qui fixe notamment un objectif de 20 % de produits bio dans la restauration collective."
+   },
+   {
+    "terme": "Équivalent CO2",
+    "definition": "L'unité qui additionne les différents gaz à effet de serre (dioxyde de carbone, méthane, protoxyde d'azote) selon leur effet sur le climat."
    }
   ]
  },
@@ -641,17 +2763,90 @@
    {
     "n": 1,
     "theme": "ENVIRONNEMENT",
-    "titre": "Pesticides dans l'eau du captage de Fraise : l'Agglo porte plainte contre X"
+    "titre": "Pesticides dans l'eau du captage de Fraise : l'Agglo porte plainte contre X",
+    "image": null,
+    "legende": null,
+    "chapeau": "Le 18 septembre, l'Agence régionale de santé (ARS) a signalé à l'Agglomération une non-conformité en sortie du captage de Fraise, à Vérines. Deux métabolites d'herbicides y ont été mesurés : le flufénacet-ESA à 0,82 µg/L, au-dessus de la limite de qualité de 0,1 µg/L mais sous le seuil de potabilité de 8,8 µg/L, et le…",
+    "eclairage": "Qui surveille l'eau du robinet ?",
+    "chiffres": [
+     {
+      "valeur": "0,82",
+      "legende": "µg/L de flufénacet-ESA (limite qualité 0,1)"
+     },
+     {
+      "valeur": "8,8",
+      "legende": "µg/L : seuil de potabilité"
+     },
+     {
+      "valeur": "20 000",
+      "legende": "habitants concernés"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "VIE ÉTUDIANTE",
-    "titre": "Repas à 1 euro : files d'attente au restau U, Banque alimentaire débordée"
+    "titre": "Repas à 1 euro : files d'attente au restau U, Banque alimentaire débordée",
+    "image": null,
+    "legende": null,
+    "chapeau": "Depuis le 4 mai 2026, tous les étudiants paient 1 euro leur repas au Crous ; ce tarif était auparavant réservé aux boursiers et aux étudiants en difficulté, les autres payant 3,30 euros. À La Rochelle, l'attente peut atteindre une heure dans les trois restaurants universitaires, malgré 200 tables ajoutées pendant l'été…",
+    "eclairage": "Qui paie le repas à 1 euro ?",
+    "chiffres": [
+     {
+      "valeur": "1 h",
+      "legende": "d'attente au plus dans les 3 restau U"
+     },
+     {
+      "valeur": "400",
+      "legende": "étudiants à la distribution du 24/09"
+     },
+     {
+      "valeur": "+20 %",
+      "legende": "d'étudiants aidés, selon la Banque"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "MOBILITÉS",
-    "titre": "Fin des navettes semi-autonomes : le transport à la demande devient Yélo Flex"
+    "titre": "Fin des navettes semi-autonomes : le transport à la demande devient Yélo Flex",
+    "image": null,
+    "legende": null,
+    "chapeau": "L'expérimentation de navettes électriques semi-autonomes Yélo Flex, lancée en juillet 2025 autour de Saint-Christophe, a pris fin samedi 26 septembre. Depuis lundi 28 septembre, le nom Yélo Flex désigne tout le transport à la demande du réseau Yélo : les anciennes lignes TAD 30, 31 et 32 et l'expérimentation sont…",
+    "eclairage": "Qui décide ? L'Agglomération est l'autorité qui organise les transports publics sur ses 28 communes : c'est elle qui fixe les lignes, les horaires et les tarifs du réseau Yélo. Le transport à la demande fonctionne sans itinéraire fixe : le véhicule ne passe que si un trajet a été réservé, ce qui sert surtout les communes périurbaines et rurales, où une ligne de bus régulière circulerait peu remplie. Les correspondances : gare de Châtelaillon-Plage (TER et ligne 20) pour Flex Sud ; gare de La Jarrie (TER), arrêt Fabre d'Églantine (Illico 2) et P+R Saint-Rogatien (ligne 8) pour Flex Est.",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "zones : Flex Est, Flex Sud"
+     },
+     {
+      "valeur": "9h-16h",
+      "legende": "du lundi au vendredi"
+     },
+     {
+      "valeur": "30 min",
+      "legende": "délai minimum de réservation"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Captage",
+    "definition": "Un ouvrage (puits, forage, prise d'eau) qui prélève l'eau d'une nappe ou d'une rivière pour la rendre potable. L' aire d'alimentation d'un captage, c'est la zone dont les eaux de pluie et de ruissellement finissent par l'atteindre."
+   },
+   {
+    "terme": "Métabolite",
+    "definition": "Une molécule issue de la dégradation d'un pesticide dans le sol ou dans l'eau. Elle peut persister longtemps après l'interdiction du produit d'origine."
+   },
+   {
+    "terme": "Plainte contre X",
+    "definition": "Une plainte déposée sans désigner d'auteur. La justice cherche d'abord à établir les faits et à identifier d'éventuels responsables."
+   },
+   {
+    "terme": "Autorité organisatrice de la mobilité",
+    "definition": "La collectivité chargée d'organiser les transports publics sur son territoire. Ici, c'est l'Agglomération, qui gère le réseau Yélo."
    }
   ]
  },
@@ -662,22 +2857,113 @@
    {
     "n": 1,
     "theme": "PRÉSIDENTIELLE",
-    "titre": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte"
+    "titre": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi 28 septembre, le site d'investigation Mediapart a publié une enquête attribuant au président du Rassemblement national des propos antisémites et complotistes, tenus selon lui dans des conversations écrites privées entre 2013 et 2015, quand il était un jeune militant du Front national. Mediapart affirme avoir…",
+    "eclairage": "Une plainte en diffamation, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "2013",
+      "legende": "date des écrits attribués"
+     },
+     {
+      "valeur": "17-18",
+      "legende": "ans, son âge à l'époque"
+     },
+     {
+      "valeur": "1",
+      "legende": "plainte en diffamation"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ARGENT PUBLIC",
-    "titre": "Fonctionnaires en grève contre le gel de leur point d'indice"
+    "titre": "Fonctionnaires en grève contre le gel de leur point d'indice",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg/960px-Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg",
+    "legende": "La place de la République à Paris, point de départ du cortège",
+    "chapeau": "Ce mardi 29 septembre, huit syndicats (CGT, FO, CFDT, Unsa, FSU, Solidaires, CFE-CGC, FA-FP) appellent les agents publics à la grève. Plus de 170 manifestations sont prévues ; à Paris, le cortège part à 14 heures de la place de la République vers la Nation.",
+    "eclairage": "Pourquoi manifester avant le budget ?",
+    "chiffres": [
+     {
+      "valeur": "170+",
+      "legende": "manifestations prévues"
+     },
+     {
+      "valeur": "8",
+      "legende": "syndicats appelants"
+     },
+     {
+      "valeur": "40 %",
+      "legende": "de grévistes attendus en primaire"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "INSTITUTIONS",
-    "titre": "Sénat : que faire avec le groupe RN ? Et où siégera le sénateur LFI ?"
+    "titre": "Sénat : que faire avec le groupe RN ? Et où siégera le sénateur LFI ?",
+    "image": null,
+    "legende": null,
+    "chapeau": "Au lendemain des sénatoriales, qui donnent au RN son premier groupe au Sénat, les groupes de gauche appellent à un « cordon sanitaire » : ne voter ni ses amendements, ni pour ses candidats aux vice-présidences. À droite et au centre, la majorité sénatoriale assure qu'elle ne travaillera pas avec le RN, mais des voix LR…",
+    "eclairage": "Membre, apparenté, rattaché, non-inscrit : quelle différence ?",
+    "chiffres": [
+     {
+      "valeur": "10",
+      "legende": "sénateurs minimum pour un groupe"
+     },
+     {
+      "valeur": "16→14",
+      "legende": "sénateurs écologistes a priori"
+     },
+     {
+      "valeur": "5/10",
+      "legende": "date limite des groupes"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "JUSTICE",
-    "titre": "Assistants du MoDem : deux ans avec sursis requis en appel contre François Bayrou"
+    "titre": "Assistants du MoDem : deux ans avec sursis requis en appel contre François Bayrou",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Palacio_de_Justicia%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_83.jpg/960px-Palacio_de_Justicia%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_83.jpg",
+    "legende": "Le Palais de justice de Paris, sur l'île de la Cité, siège de la cour d'appel",
+    "chapeau": "Lundi 28 septembre, devant la cour d'appel de Paris, l'accusation a requis contre l'ancien Premier ministre et président du MoDem deux ans de prison avec sursis, 50 000 euros d'amende et trois ans d'inéligibilité avec sursis. Le dossier porte sur des assistants d'eurodéputés, payés par le Parlement européen, qui…",
+    "eclairage": "Relaxe puis appel. En février 2024, le tribunal correctionnel a relaxé François Bayrou. Le parquet a fait appel : la cour d'appel rejuge alors l'affaire entière, avec de nouveaux juges. Réquisitions ≠ condamnation. L'accusation propose une peine ; la cour décide. François Bayrou reste présumé innocent. Avec sursis : la peine n'est pas appliquée, sauf nouvelle condamnation dans un délai fixé par la loi.",
+    "chiffres": [
+     {
+      "valeur": "2 ans",
+      "legende": "de prison avec sursis requis"
+     },
+     {
+      "valeur": "50 k€",
+      "legende": "d'amende requise"
+     },
+     {
+      "valeur": "3 ans",
+      "legende": "d'inéligibilité avec sursis requis"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Diffamation",
+    "definition": "Affirmer publiquement un fait précis qui porte atteinte à l'honneur d'une personne. C'est un délit, jugé par un tribunal."
+   },
+   {
+    "terme": "Cordon sanitaire",
+    "definition": "Engagement de partis à ne jamais voter avec une autre formation ni la soutenir, même sur un texte isolé."
+   },
+   {
+    "terme": "Relaxe",
+    "definition": "Décision d'un tribunal qui déclare un prévenu non coupable. Le parquet peut faire appel."
+   },
+   {
+    "terme": "Initiative populaire",
+    "definition": "En Suisse, proposition de modifier la Constitution lancée par des citoyens, soumise au vote si elle réunit 100 000 signatures."
    }
   ]
  },
@@ -688,22 +2974,113 @@
    {
     "n": 1,
     "theme": "CANCER",
-    "titre": "Un cancer sur huit dans le monde est attribuable à une infection"
+    "titre": "Un cancer sur huit dans le monde est attribuable à une infection",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/EMpylori.jpg/960px-EMpylori.jpg",
+    "legende": "La bactérie Helicobacter pylori vue au microscope électronique",
+    "chapeau": "Le Centre international de recherche sur le cancer (CIRC), l'agence de l'OMS basée à Lyon, a publié le 29 septembre dans The Lancet Oncology une estimation mondiale des cancers causés par des infections. À partir de la base mondiale GLOBOCAN, ses chercheurs ont calculé la part des nouveaux cas de 2024 attribuable à 12…",
+    "eclairage": "Comment une infection peut-elle mener à un cancer ?",
+    "chiffres": [
+     {
+      "valeur": "2,3 M",
+      "legende": "nouveaux cancers liés à une infection"
+     },
+     {
+      "valeur": "12 %",
+      "legende": "de tous les cancers en 2024"
+     },
+     {
+      "valeur": "42 %",
+      "legende": "des cas en Asie de l'Est"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "NEUROCHIRURGIE",
-    "titre": "Méningiome opéré : une radiothérapie après la chirurgie réduit de moitié environ le risque de récidive"
+    "titre": "Méningiome opéré : une radiothérapie après la chirurgie réduit de moitié environ le risque de récidive",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tomotherapy.jpg/960px-Tomotherapy.jpg",
+    "legende": "Un appareil de radiothérapie dans une salle de traitement",
+    "chapeau": "L'essai ROAM/EORTC-1308, coordonné par l'université de Liverpool, a été publié le 25 septembre dans The Lancet et présenté le même jour au congrès de l'Association européenne de neuro-oncologie (EANO) à Rome. Entre 2016 et 2021, 157 patients chez qui le chirurgien avait retiré en totalité un méningiome atypique ont été…",
+    "eclairage": "Un méningiome, c'est quoi ?",
+    "chiffres": [
+     {
+      "valeur": "14 %",
+      "legende": "de récidives avec radiothérapie"
+     },
+     {
+      "valeur": "30 %",
+      "legende": "sous simple surveillance IRM"
+     },
+     {
+      "valeur": "157",
+      "legende": "patients opérés, 11 pays"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉTUDE",
-    "titre": "Aspirine et démence : un effet possible chez certains profils génétiques, une hypothèse à vérifier"
+    "titre": "Aspirine et démence : un effet possible chez certains profils génétiques, une hypothèse à vérifier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Acetylsalicylic_acid.jpg/960px-Acetylsalicylic_acid.jpg",
+    "legende": "De l'acide acétylsalicylique en poudre",
+    "chapeau": "Des chercheurs de l'université Monash (Australie) ont publié le 24 septembre dans Alzheimer's & Dementia une nouvelle analyse de l'essai ASPREE, qui avait comparé l'aspirine à faible dose à un placebo chez des personnes âgées. L'essai n'avait pas montré d'effet préventif sur la démence pour l'ensemble des participants.",
+    "eclairage": "Pourquoi ce résultat reste une hypothèse",
+    "chiffres": [
+     {
+      "valeur": "1 %",
+      "legende": "de démences sous aspirine (sous-groupe)"
+     },
+     {
+      "valeur": "3,3 %",
+      "legende": "sous placebo (même sous-groupe)"
+     },
+     {
+      "valeur": "4,4 %",
+      "legende": "d'hémorragies graves (2,1 % sous placebo)"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "SANTÉ PUBLIQUE",
-    "titre": "Après les incendies de Maui, des métaux dans l'organisme des habitants des mois plus tard"
+    "titre": "Après les incendies de Maui, des métaux dans l'organisme des habitants des mois plus tard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Coast_Guard_Station_Maui_-_7964748.jpg/960px-Coast_Guard_Station_Maui_-_7964748.jpg",
+    "legende": "L'incendie de Lahaina vu depuis un bateau des garde-côtes américains en août 2023",
+    "chapeau": "En août 2023, des incendies ont ravagé l'île de Maui, à Hawaï, et détruit la ville de Lahaina. Une équipe de l'université d'Hawaï a publié le 28 septembre dans la revue PNAS les analyses de 1 400 adultes examinés 6 à 18 mois après la catastrophe : 24 métaux mesurés dans les urines et un test du souffle (spirométrie)…",
+    "eclairage": "Associé ne veut pas dire causé",
+    "chiffres": [
+     {
+      "valeur": "1 400",
+      "legende": "adultes testés 6 à 18 mois après"
+     },
+     {
+      "valeur": "×40",
+      "legende": "antimoine vs référence américaine"
+     },
+     {
+      "valeur": "×2,2",
+      "legende": "arsenic vs référence américaine"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai randomisé contrôlé",
+    "definition": "Une étude où les participants sont répartis par tirage au sort entre le traitement testé et un groupe de comparaison (placebo, surveillance ou autre traitement). C'est la méthode qui permet le mieux d'attribuer un effet au traitement."
+   },
+   {
+    "terme": "Analyse en sous-groupe",
+    "definition": "Regarder, après coup, si un traitement marche mieux chez une partie des participants (selon l'âge, le sexe, les gènes). Utile pour trouver des pistes, fragile pour conclure."
+   },
+   {
+    "terme": "Fraction attribuable",
+    "definition": "La part des cas d'une maladie qui disparaîtrait si un facteur de risque (une infection, le tabac) était supprimé. C'est une estimation calculée, pas un comptage."
+   },
+   {
+    "terme": "Étude observationnelle",
+    "definition": "Les chercheurs observent sans intervenir. Elle peut montrer que deux choses vont ensemble (une association), mais pas que l'une cause l'autre."
    }
   ]
  },
@@ -714,27 +3091,123 @@
    {
     "n": 1,
     "theme": "ÉLECTIONS",
-    "titre": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée"
+    "titre": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg/960px-Palais_du_Luxembourg%2C_Paris_%2838453204755%29_%28cropped%29.jpg",
+    "legende": "Le Palais du Luxembourg, siège du Sénat",
+    "chapeau": "Dimanche 27 septembre, 178 des 348 sièges du Sénat étaient renouvelés. Les groupes LR et Union centriste gardent la majorité ; LR tomberait à 124-126 sénateurs, contre 131 avant.",
+    "eclairage": "Comment on devient sénateur ?",
+    "chiffres": [
+     {
+      "valeur": "178",
+      "legende": "sièges en jeu sur 348"
+     },
+     {
+      "valeur": "~125",
+      "legende": "sénateurs LR (131 avant)"
+     },
+     {
+      "valeur": "14",
+      "legende": "membres du 1er groupe RN"
+     }
+    ]
    },
    {
     "n": 2,
     "theme": "ARGENT PUBLIC",
-    "titre": "Budget 2027 : 54 milliards d'effort, déposé mercredi"
+    "titre": "Budget 2027 : 54 milliards d'effort, déposé mercredi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Matignon_gala.jpg/960px-Matignon_gala.jpg",
+    "legende": "La cour de l'hôtel de Matignon, résidence du Premier ministre",
+    "chapeau": "Le 17 septembre, Sébastien Lecornu a présenté les grandes lignes du budget 2027, qui sera déposé au Parlement mercredi 30 septembre : environ 54 milliards d'euros d'effort pour tenir un déficit autour de 5 % du PIB, qui atteindrait 6,5 % sans mesures. Le gouvernement s'appuie sur une prévision de croissance abaissée le…",
+    "eclairage": "Comment se vote un budget ?",
+    "chiffres": [
+     {
+      "valeur": "54 Md€",
+      "legende": "d'effort en 2027"
+     },
+     {
+      "valeur": "6,5 %",
+      "legende": "de déficit sans mesures"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     }
+    ]
    },
    {
     "n": 3,
     "theme": "ÉDUCATION",
-    "titre": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement"
+    "titre": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG/960px-P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG",
+    "legende": "Façade d'un lycée parisien (illustration)",
+    "chapeau": "Lundi 28 septembre, moins d'un mois après la rentrée, des lycéens ont bloqué ou tenté de bloquer leur établissement, surtout en Île-de-France, aussi dans les Alpes-Maritimes et le Var. Ils dénoncent le manque de moyens : classes surchargées, professeurs absents non remplacés.",
+    "eclairage": null,
+    "chiffres": [
+     {
+      "valeur": "180",
+      "legende": "établissements touchés"
+     },
+     {
+      "valeur": "164",
+      "legende": "interpellations"
+     },
+     {
+      "valeur": "12",
+      "legende": "policiers blessés"
+     }
+    ]
    },
    {
     "n": 4,
     "theme": "SOCIÉTÉ",
-    "titre": "À l'Élysée, Léon XIV critique l'aide à mourir et la dissuasion nucléaire"
+    "titre": "À l'Élysée, Léon XIV critique l'aide à mourir et la dissuasion nucléaire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/500px-Pope_Leo_XIV_3_%283x4_cropped%29.png",
+    "legende": "Le pape Léon XIV",
+    "chapeau": "Le 25 septembre, dans son premier discours en France, prononcé en français à l'Élysée devant Emmanuel Macron, le pape a prôné une « juste laïcité » et dénoncé « l'offre d'une mort programmée », visant la loi sur l'aide à mourir. Il a aussi critiqué « la conviction, erronée, que la possession de l'arme nucléaire serait…",
+    "eclairage": "Où en est la loi sur l'aide à mourir ?",
+    "chiffres": []
    },
    {
     "n": 5,
     "theme": "JUSTICE",
-    "titre": "Procès Dati-Ghosn : prison et inéligibilité immédiate requises"
+    "titre": "Procès Dati-Ghosn : prison et inéligibilité immédiate requises",
+    "image": null,
+    "legende": null,
+    "chapeau": "Lundi, au dernier jour du procès, le parquet national financier (PNF) a requis contre l'ancienne ministre de la Justice, jugée pour corruption dans l'affaire des 900 000 euros perçus de l'alliance Renault-Nissan : quatre ans de prison dont deux ferme sous bracelet électronique, 450 000 euros d'amende et cinq ans…",
+    "eclairage": "Réquisitions ≠ condamnation. Le parquet demande une peine ; ce sont les juges qui décident. Rachida Dati reste présumée innocente. Exécution provisoire : si le tribunal la prononce, l'inéligibilité s'applique dès le jugement, même en cas d'appel. Rachida Dati perdrait alors son mandat de maire du 7e arrondissement de Paris.",
+    "chiffres": [
+     {
+      "valeur": "4 ans",
+      "legende": "de prison requis dont 2 ferme"
+     },
+     {
+      "valeur": "5 ans",
+      "legende": "d'inéligibilité requis"
+     },
+     {
+      "valeur": "21/01",
+      "legende": "jugement le 21 janvier"
+     }
+    ]
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Grands électeurs",
+    "definition": "Les élus qui désignent les sénateurs, environ 160 000, surtout des délégués des conseils municipaux."
+   },
+   {
+    "terme": "Point d'indice",
+    "definition": "La valeur de base qui sert à calculer le salaire des fonctionnaires. Le geler, c'est bloquer leur rémunération de base."
+   },
+   {
+    "terme": "Lecture définitive",
+    "definition": "Quand Assemblée et Sénat restent en désaccord, le gouvernement peut demander à l'Assemblée de trancher seule."
+   },
+   {
+    "terme": "Exécution provisoire",
+    "definition": "Une peine qui s'applique dès le jugement, sans attendre un éventuel appel."
    }
   ]
  }

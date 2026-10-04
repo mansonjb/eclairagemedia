@@ -2,8 +2,11 @@ import fs from "node:fs";
 import path from "node:path";
 import indexData from "../../content/index.json";
 
-export type Sujet = { n: number; theme: string; titre: string };
-export type Edition = { rubrique: RubriqueId; date: string; sujets: Sujet[] };
+export type Sujet = {
+  n: number; theme: string; titre: string; image: string | null; legende: string | null;
+  chapeau: string | null; eclairage: string | null; chiffres: { valeur: string; legende: string }[];
+};
+export type Edition = { rubrique: RubriqueId; date: string; sujets: Sujet[]; lexique: { terme: string; definition: string }[] };
 export type RubriqueId = "politique" | "economie" | "sante" | "local" | "food" | "tech";
 
 export const RUBRIQUES: Record<RubriqueId, { nom: string; court: string; couleur: string; fond: string; accroche: string; heure: string }> = {
@@ -54,4 +57,18 @@ export const dateCourte = (d: string) => fmt({ weekday: "short", day: "numeric",
 export function libelleSemaine(s: string) {
   const j = joursDeSemaine(s);
   return j.length ? `du ${fmt({ day: "numeric", month: "long" }).format(new Date(j[0] + "T12:00:00Z"))} au ${fmt({ day: "numeric", month: "long" }).format(new Date(j[j.length - 1] + "T12:00:00Z"))}` : s;
+}
+
+// Le sujet mis « à la une » d'un jour : le premier sujet illustré, dans l'ordre des rubriques
+export function une(date: string): { e: Edition; s: Sujet } | null {
+  const eds = parDate(date);
+  for (const e of eds) { const s = e.sujets.find((x) => x.image); if (s) return { e, s }; }
+  return eds[0]?.sujets[0] ? { e: eds[0], s: eds[0].sujets[0] } : null;
+}
+export function chiffresDuJour(date: string) {
+  return parDate(date).flatMap((e) => (e.sujets.find((s) => s.chiffres.length)?.chiffres.slice(0, 1) ?? []).map((c) => ({ ...c, rubrique: e.rubrique, date: e.date })));
+}
+export function motDuJour(date: string) {
+  for (const e of parDate(date)) if (e.lexique[0]) return { ...e.lexique[0], rubrique: e.rubrique };
+  return null;
 }

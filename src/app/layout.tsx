@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { Archivo } from "next/font/google";
+import { Inter, Newsreader } from "next/font/google";
 import { Entete, Pied } from "@/components/ui";
 import "./globals.css";
 
-const archivo = Archivo({ subsets: ["latin"], variable: "--font-archivo", weight: ["400", "600", "700", "800", "900"] });
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const newsreader = Newsreader({ subsets: ["latin"], variable: "--font-newsreader", style: ["normal", "italic"], weight: ["400", "500", "600"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://eclairagemedia.com"),
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="fr" className={archivo.variable}>
+    <html lang="fr" className={`${inter.variable} ${newsreader.variable}`}>
       <body className="font-sans antialiased">
         <Entete />
         {children}

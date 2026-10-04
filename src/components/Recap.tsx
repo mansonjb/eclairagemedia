@@ -1,27 +1,33 @@
 import Link from "next/link";
 import { ORDRE, RUBRIQUES, parDate, dateLongue } from "@/lib/editions";
-import { Pastille } from "@/components/ui";
+import { Kicker, Visuel } from "@/components/ui";
 
 // Récap multi-jours : pour chaque rubrique, les sujets de chaque jour de la période
 export default function Recap({ jours }: { jours: string[] }) {
   return (
-    <div className="space-y-6">
+    <div className="space-y-16">
       {ORDRE.map((r) => {
         const lignes = jours.flatMap((d) => parDate(d).filter((e) => e.rubrique === r));
         if (!lignes.length) return null;
         return (
-          <section key={r} className="rounded-3xl bg-white p-6">
-            <div className="flex items-center justify-between gap-3"><Pastille r={r} /><Link href={`/${r}`} className="text-sm font-black" style={{ color: RUBRIQUES[r].couleur }}>Toute la rubrique →</Link></div>
-            <div className="mt-4 divide-y divide-encre/10">
+          <section key={r}>
+            <div className="flex items-end justify-between border-b border-encre pb-3">
+              <h2 className="font-serif text-2xl font-medium">{RUBRIQUES[r].nom}</h2>
+              <Link href={`/${r}`} className="text-sm text-gris hover:text-encre">Toute la rubrique</Link>
+            </div>
+            <div className="divide-y divide-filet">
               {lignes.map((e) => (
-                <div key={e.date} className="grid gap-2 py-3 sm:grid-cols-[150px_1fr]">
-                  <Link href={`/${r}/${e.date}`} className="text-sm font-black text-gris hover:text-encre">{dateLongue(e.date).replace(/ \d{4}$/, "")}</Link>
-                  <ul className="space-y-1">
-                    {e.sujets.map((s) => (
-                      <li key={s.n}><Link href={`/${r}/${e.date}`} className="font-extrabold leading-snug hover:underline">{s.titre}</Link></li>
-                    ))}
-                  </ul>
-                </div>
+                <Link key={e.date} href={`/${r}/${e.date}`} className="group grid grid-cols-[80px_1fr] gap-5 py-5 sm:grid-cols-[140px_1fr]">
+                  {e.sujets[0] && <Visuel s={e.sujets[0]} r={r} className="aspect-[4/3] w-full rounded-sm" />}
+                  <div>
+                    <Kicker r={r}>{dateLongue(e.date).replace(/ \d{4}$/, "")}</Kicker>
+                    <ul className="mt-2 space-y-1.5">
+                      {e.sujets.map((s, i) => (
+                        <li key={s.n} className={i === 0 ? "font-serif text-lg font-medium leading-snug text-encre group-hover:underline decoration-soleil decoration-2 underline-offset-4" : "text-[15px] leading-snug text-gris"}>{s.titre}</li>
+                      ))}
+                    </ul>
+                  </div>
+                </Link>
               ))}
             </div>
           </section>
