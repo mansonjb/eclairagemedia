@@ -1,0 +1,741 @@
+[
+ {
+  "rubrique": "economie",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "INDUSTRIE",
+    "titre": "HyPrSpace ouvre près de Bordeaux sa première usine de fusées, avant un premier vol prévu en 2027"
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "Électricité : 520 heures à prix négatif en France depuis janvier, et pourtant des factures en hausse"
+   },
+   {
+    "n": 3,
+    "theme": "MONDE",
+    "titre": "Espagne : manifestations sur le logement après le rejet de deux décrets du gouvernement"
+   }
+  ]
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGLEMENTATION",
+    "titre": "PAC 2026 : les montants des aides publiés, avec 110 € par hectare pour l'écorégime bio"
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "Betteraves : au moins 20 000 hectares ne seront pas récoltés, des essais de méthanisation démarrent"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "DÉPARTEMENT",
+    "titre": "Pont d'Oléron : un mois de concertation sur la restauration et son financement"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : le gouvernement avance l'examen du projet de loi « casseur-payeur »"
+   },
+   {
+    "n": 2,
+    "theme": "ÉLECTIONS",
+    "titre": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir"
+   },
+   {
+    "n": 3,
+    "theme": "JUSTICE",
+    "titre": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance"
+   }
+  ]
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Ebola au Congo : plus de 4 000 morts, sans vaccin ni traitement approuvé contre ce virus"
+   },
+   {
+    "n": 2,
+    "theme": "CHIRURGIE",
+    "titre": "Chirurgie en France : l'Académie propose de suspendre l'activité d'environ 200 établissements"
+   },
+   {
+    "n": 3,
+    "theme": "TRAITEMENT",
+    "titre": "Narcolepsie de type 1 : un médicament qui remplace l'orexine testé dans deux essais de phase 3"
+   },
+   {
+    "n": 4,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Rougeole aux États-Unis : 3 887 cas confirmés en 2026, le plus haut niveau depuis 35 ans"
+   }
+  ]
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-04",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGULATION",
+    "titre": "États-Unis : Jay Clayton, chef du renseignement, nommé « tsar de l'IA » avec 120 jours pour rendre un rapport"
+   },
+   {
+    "n": 2,
+    "theme": "MODÈLES",
+    "titre": "Microsoft lance trois modèles de voix pour agents conversationnels : transcription en direct et synthèse vocale"
+   },
+   {
+    "n": 3,
+    "theme": "MONDE",
+    "titre": "La Corée du Nord affirme avoir testé un missile « doté d'IA » : ce que l'on sait et ce qui n'est pas vérifié"
+   }
+  ]
+ },
+ {
+  "rubrique": "economie",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MARCHÉS",
+    "titre": "Les taux d'emprunt de la France frôlent 5 %, puis se détendent"
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "Le G7 libère jusqu'à 100 millions de barils de ses réserves, le Brent reste autour de 100 dollars"
+   },
+   {
+    "n": 3,
+    "theme": "CONJONCTURE",
+    "titre": "L'emploi américain ralentit nettement en septembre : 29 000 postes créés"
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "Paramount et Warner Bros. Discovery fusionneront sous le nom de Skydance"
+   },
+   {
+    "n": 5,
+    "theme": "INDUSTRIE",
+    "titre": "Bonduelle : chiffre d'affaires stable, résultat net positif après une perte"
+   }
+  ]
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Cadmium dans les engrais : le seuil sera divisé par plus de quatre d'ici 2030"
+   },
+   {
+    "n": 2,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Budget 2027 : une taxe sur les produits sucrés transformés dans le PLFSS"
+   },
+   {
+    "n": 3,
+    "theme": "FILIÈRE",
+    "titre": "Miel 2026 : une récolte en baisse, deux estimations qui divergent"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CULTURE",
+    "titre": "Médiathèques de La Rochelle : l'inscription devient gratuite"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : les responsables socialistes demandent des changements « sans délai »"
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "Carburants : le G7 va libérer jusqu'à 100 millions de barils"
+   },
+   {
+    "n": 3,
+    "theme": "JUSTICE",
+    "titre": "Loi « intégrale » : les viols restent jugés par les cours criminelles départementales"
+   }
+  ]
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Cancer du pancréas métastatique : un virus modifié associé à une survie un peu plus longue dans un essai de phase 2b"
+   },
+   {
+    "n": 2,
+    "theme": "CHIRURGIE",
+    "titre": "Une valve cardiaque pour enfants que l'on peut élargir après l'opération, autorisée aux États-Unis"
+   },
+   {
+    "n": 3,
+    "theme": "TRAITEMENT",
+    "titre": "Déficit en MCT8 : première approbation d'un traitement aux États-Unis pour cette maladie génétique rare"
+   }
+  ]
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-03",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CYBERSÉCURITÉ",
+    "titre": "L'État face aux fuites de données : l'ANSSI publie son premier bilan et fait elle-même l'objet d'une enquête"
+   },
+   {
+    "n": 2,
+    "theme": "RECHERCHE",
+    "titre": "Agents d'IA : des études montrent des mensonges et des copies de soi, y compris sur des modèles chinois"
+   }
+  ]
+ },
+ {
+  "rubrique": "economie",
+  "date": "2026-10-02",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH",
+    "titre": "Accenture rassure le secteur du conseil informatique, Capgemini en tête du CAC 40"
+   },
+   {
+    "n": 2,
+    "theme": "ENTREPRISES",
+    "titre": "Sanofi paie 1 milliard de dollars à Regeneron pour élargir leur alliance"
+   },
+   {
+    "n": 3,
+    "theme": "INDUSTRIE",
+    "titre": "Stellantis arrête quatre usines françaises en octobre"
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "Vicat en négociations exclusives pour reprendre des activités de Cemex dans le Sud-Est"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-02",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MOBILITÉS",
+    "titre": "Blocus de lycées à La Rochelle : le réseau Yélo interrompu, des rassemblements interdits vendredi"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-02",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "INSTITUTIONS",
+    "titre": "Sénat : Gérard Larcher réélu pour un sixième mandat"
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : présenté en Conseil des ministres, la gauche menace de censure"
+   },
+   {
+    "n": 3,
+    "theme": "ÉDUCATION",
+    "titre": "Blocage des lycées : journée de heurts, Matignon met en cause LFI"
+   },
+   {
+    "n": 4,
+    "theme": "POLITIQUE",
+    "titre": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification"
+   }
+  ]
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-02",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Cœur : premières feuilles de cellules iPS posées sur un cœur malade au Japon, après un essai de 8 patients"
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "Covid long : un casque magnétique à domicile testé sur 30 personnes, résultats préliminaires"
+   },
+   {
+    "n": 3,
+    "theme": "ÉTUDE",
+    "titre": "Arthrose du genou : une radiothérapie à faible dose associée à moins de prothèses après 12 ans, dans une étude présentée en congrès"
+   },
+   {
+    "n": 4,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Grippe : l'OMS fixe la composition des vaccins 2027 pour l'hémisphère sud"
+   }
+  ]
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-02",
+  "sujets": [
+   {
+    "n": 2,
+    "theme": "RECHERCHE",
+    "titre": "arXiv limite chaque chercheur à deux dépôts par mois"
+   },
+   {
+    "n": 3,
+    "theme": "IA",
+    "titre": "OpenAI lance les « dots », des agents qui travaillent sans qu'on leur demande"
+   }
+  ]
+ },
+ {
+  "rubrique": "economie",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "L'inflation grimpe à 3 % sur un an en France en septembre"
+   },
+   {
+    "n": 2,
+    "theme": "MARCHÉS",
+    "titre": "Le CAC 40 passe sous 8 000 points, le taux d'emprunt de la France à 10 ans dépasse 4,8 %"
+   },
+   {
+    "n": 3,
+    "theme": "ÉNERGIE",
+    "titre": "Gaz : le prix repère passe à 182,88 euros le mégawattheure au 1er octobre"
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "Live Nation finalise le rachat de la Plenitude Arena, la plus grande salle couverte d'Europe"
+   }
+  ]
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Haies : détruire une haie passe désormais par un guichet unique"
+   },
+   {
+    "n": 2,
+    "theme": "FOODTECH",
+    "titre": "Fermentation : une plateforme à 20 millions d'euros ouvre à Clermont-Ferrand"
+   },
+   {
+    "n": 3,
+    "theme": "AGRICULTURE",
+    "titre": "Été sec : la Commission abaisse encore les rendements européens"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "LITTORAL",
+    "titre": "Sécheresse : la Charente-Maritime reste en « alerte renforcée » pour l'eau potable"
+   },
+   {
+    "n": 2,
+    "theme": "MOBILITÉS",
+    "titre": "Transport à la demande : deux zones « Yélo Flex » depuis le 28 septembre"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "POLITIQUE",
+    "titre": "Écrits attribués à Jordan Bardella : Macron demande au RN de « clarifier »"
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : 5,5 milliards d'euros demandés aux retraites"
+   },
+   {
+    "n": 3,
+    "theme": "ÉDUCATION",
+    "titre": "Blocages de lycées : 356 établissements bloqués mercredi, bilans divergents"
+   },
+   {
+    "n": 4,
+    "theme": "INSTITUTIONS",
+    "titre": "Sénat : élection du président cet après-midi, Gérard Larcher candidat"
+   }
+  ]
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TRAITEMENT",
+    "titre": "Retatrutide : un essai de phase 3 mesure jusqu'à 18,8 % de perte de poids en 80 semaines chez des adultes diabétiques et obèses"
+   },
+   {
+    "n": 2,
+    "theme": "CHIRURGIE",
+    "titre": "Une greffe foie-rein réalisée avec un robot, une première rapportée dans le monde, annoncée par un hôpital américain"
+   },
+   {
+    "n": 3,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Cancers et travail : une enquête du CNRS met en avant le poids des expositions professionnelles"
+   },
+   {
+    "n": 4,
+    "theme": "MONDE",
+    "titre": "Amériques : près de 40 % de la charge de maladie pourrait être évitée, estime l'Organisation panaméricaine de la santé"
+   }
+  ]
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-01",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MODÈLES",
+    "titre": "Google présente Gemini 4 Argon, d'abord réservé à des défenseurs informatiques"
+   },
+   {
+    "n": 2,
+    "theme": "RÉGULATION",
+    "titre": "La FTC enquête sur OpenAI, Anthropic et METR à propos des agents d'IA"
+   },
+   {
+    "n": 3,
+    "theme": "RECHERCHE",
+    "titre": "DeepMind propose de marquer d'un filigrane les protéines conçues par IA"
+   }
+  ]
+ },
+ {
+  "rubrique": "economie",
+  "date": "2026-09-30",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "INDUSTRIE",
+    "titre": "Une aciérie de 15 milliards de dollars annoncée dans l'Iowa"
+   },
+   {
+    "n": 2,
+    "theme": "ENTREPRISES",
+    "titre": "BASF veut racheter Evonik, qui refuse l'offre à 10,3 milliards d'euros"
+   },
+   {
+    "n": 3,
+    "theme": "TECH",
+    "titre": "Samsung met 1 milliard de dollars dans les infrastructures d'IA de KKR"
+   },
+   {
+    "n": 4,
+    "theme": "INDUSTRIE",
+    "titre": "Vesuvius examine une offre de RHI Magnesita à 551 pence par action"
+   }
+  ]
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-09-30",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGRICULTURE",
+    "titre": "Sécheresse : le maïs français au plus bas depuis 1980"
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "Plan d'aide de plus d'un milliard d'euros : où en est-on ?"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-09-30",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉLECTIONS",
+    "titre": "Sénatoriales en Charente-Maritime : deux sortants réélus, un nouveau sénateur"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-09-30",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Retraites : Édouard Philippe propose 65 ans et 45 annuités"
+   },
+   {
+    "n": 2,
+    "theme": "SÉNAT",
+    "titre": "Sénat : les écologistes n'accueillent pas Gabriel Amard, premier sénateur LFI"
+   },
+   {
+    "n": 3,
+    "theme": "SOCIAL",
+    "titre": "Fonction publique : 206 000 manifestants selon l'Intérieur, 300 000 selon la CGT"
+   },
+   {
+    "n": 4,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Dette publique : 3 595,5 milliards d'euros, 119 % du PIB"
+   }
+  ]
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-09-30",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGULATION",
+    "titre": "Maison-Blanche : sept signataires, un accord volontaire sur la sécurité de l'IA"
+   },
+   {
+    "n": 2,
+    "theme": "MODÈLES",
+    "titre": "OpenAI abandonne GPT-6.1 Astra après des tests de sécurité"
+   },
+   {
+    "n": 3,
+    "theme": "PUCES & INFRA",
+    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars"
+   }
+  ]
+ },
+ {
+  "rubrique": "economie",
+  "date": "2026-09-29",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "La dette publique atteint 119 % du PIB"
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "TotalEnergies augmente ce qu'il reverse à ses actionnaires"
+   },
+   {
+    "n": 3,
+    "theme": "TECH",
+    "titre": "AMD rachète World Labs, la start-up de Fei-Fei Li, pour 8,2 milliards de dollars"
+   },
+   {
+    "n": 4,
+    "theme": "INDUSTRIE",
+    "titre": "Batteries : Volkswagen ouvre son usine espagnole au chinois Gotion"
+   },
+   {
+    "n": 5,
+    "theme": "MONDE",
+    "titre": "Or : Northern Star rejette l'offre de rachat de Gold Fields"
+   }
+  ]
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-09-29",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PROTÉINES",
+    "titre": "Protéine de pois : l'Europe taxe pour cinq ans les importations chinoises"
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "PAC après 2027 : les Vingt-Sept veulent de la souplesse, Bruxelles met en garde"
+   },
+   {
+    "n": 3,
+    "theme": "BIO",
+    "titre": "Le bio continue de remonter, encore loin des objectifs de 2030"
+   },
+   {
+    "n": 4,
+    "theme": "ÉTUDE",
+    "titre": "États-Unis : les nouvelles recommandations alimentaires alourdiraient l'empreinte carbone de l'assiette"
+   }
+  ]
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-09-29",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Pesticides dans l'eau du captage de Fraise : l'Agglo porte plainte contre X"
+   },
+   {
+    "n": 2,
+    "theme": "VIE ÉTUDIANTE",
+    "titre": "Repas à 1 euro : files d'attente au restau U, Banque alimentaire débordée"
+   },
+   {
+    "n": 3,
+    "theme": "MOBILITÉS",
+    "titre": "Fin des navettes semi-autonomes : le transport à la demande devient Yélo Flex"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-09-29",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte"
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Fonctionnaires en grève contre le gel de leur point d'indice"
+   },
+   {
+    "n": 3,
+    "theme": "INSTITUTIONS",
+    "titre": "Sénat : que faire avec le groupe RN ? Et où siégera le sénateur LFI ?"
+   },
+   {
+    "n": 4,
+    "theme": "JUSTICE",
+    "titre": "Assistants du MoDem : deux ans avec sursis requis en appel contre François Bayrou"
+   }
+  ]
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-09-29",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Un cancer sur huit dans le monde est attribuable à une infection"
+   },
+   {
+    "n": 2,
+    "theme": "NEUROCHIRURGIE",
+    "titre": "Méningiome opéré : une radiothérapie après la chirurgie réduit de moitié environ le risque de récidive"
+   },
+   {
+    "n": 3,
+    "theme": "ÉTUDE",
+    "titre": "Aspirine et démence : un effet possible chez certains profils génétiques, une hypothèse à vérifier"
+   },
+   {
+    "n": 4,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Après les incendies de Maui, des métaux dans l'organisme des habitants des mois plus tard"
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-09-28",
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉLECTIONS",
+    "titre": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée"
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : 54 milliards d'effort, déposé mercredi"
+   },
+   {
+    "n": 3,
+    "theme": "ÉDUCATION",
+    "titre": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement"
+   },
+   {
+    "n": 4,
+    "theme": "SOCIÉTÉ",
+    "titre": "À l'Élysée, Léon XIV critique l'aide à mourir et la dissuasion nucléaire"
+   },
+   {
+    "n": 5,
+    "theme": "JUSTICE",
+    "titre": "Procès Dati-Ghosn : prison et inéligibilité immédiate requises"
+   }
+  ]
+ }
+]
