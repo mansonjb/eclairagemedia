@@ -3,8 +3,6 @@ import { ORDRE, RUBRIQUES, dates, parDate, items, dateLongue, semaineDe, libelle
 import { Section, TuileDate, jourMois } from "@/components/ui";
 import { Icone } from "@/components/Icones";
 import Journee from "@/components/Journee";
-import Collage from "@/components/Collage";
-import { MOSAIQUE } from "@/lib/illustrations";
 import Inscription from "@/components/Inscription";
 import Salutation from "@/components/dyn/Salutation";
 import Apparition from "@/components/dyn/Apparition";
@@ -14,38 +12,26 @@ export default function Accueil() {
   const semaine = semaineDe(aujourdhui);
   const eds = parDate(aujourdhui);
   const tous = items(aujourdhui);
-  // Mosaïque : des lieux neutres, une rubrique chacun (banque d'illustrations vérifiées)
-  const photos = MOSAIQUE.map((m) => ({ ...m, href: `/${m.r}`, couleur: RUBRIQUES[m.r].couleur, label: RUBRIQUES[m.r].court }));
   const minutes = eds.reduce((n, e) => n + e.minutes, 0);
   return (
     <main className="mx-auto max-w-6xl px-4">
-      {/* Accueil */}
-      <section className="relative mt-4 overflow-hidden rounded-[32px] bg-creme px-6 py-10 sm:px-12 sm:py-14">
-        
-        <div className="relative grid items-center gap-10 lg:grid-cols-[1.1fr_1fr]">
-          <div>
-            <span className="inline-flex items-center gap-2 rounded-full bg-white px-3 py-1.5 text-[12.5px] font-semibold text-gris ombre"><span className="h-2 w-2 rounded-full bg-jaune" />{dateLongue(aujourdhui)}</span>
-            <h1 className="mt-6 text-[38px] font-bold leading-[1.05] tracking-[-0.035em] sm:text-[56px]">
-              <Salutation />, voici <span className="bg-[linear-gradient(transparent_62%,rgba(255,214,10,.55)_62%)]">l&apos;essentiel</span> du jour.
-            </h1>
-            <p className="mt-5 max-w-lg text-[17px] leading-relaxed text-gris">
-              Vous avez décroché de l&apos;actualité ? On reprend depuis le début : un sujet, son contexte, les faits et les différentes positions.
-            </p>
-            <div className="mt-6 flex flex-wrap gap-2">
-              {[[`${tous.length}`, "sujets"], [`${eds.length}`, "éditions"], [`${minutes}`, "min de lecture"], ["3+", "sources par fait"]].map(([v, l]) => (
+      <div className="mt-8">
+        <Journee date={aujourdhui} entete={
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <div>
+              <p className="flex items-center gap-2 text-[13px] font-semibold text-gris"><span className="h-2 w-2 rounded-full bg-jaune" />{dateLongue(aujourdhui)}</p>
+              <h1 className="mt-2 text-[32px] font-bold leading-[1.08] tracking-[-0.03em] sm:text-[44px]">
+                <Salutation />, voici <span className="bg-[linear-gradient(transparent_62%,rgba(255,214,10,.55)_62%)]">l&apos;essentiel</span> du jour.
+              </h1>
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {[[`${tous.length}`, "sujets"], [`${eds.length}`, "éditions"], [`${minutes}`, "min de lecture"]].map(([v, l]) => (
                 <span key={l} className="rounded-full bg-white px-3.5 py-1.5 text-[13px] text-gris ombre"><b className="text-encre">{v}</b> {l}</span>
               ))}
             </div>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <Link href="#inscription" className="rounded-full bg-encre px-6 py-3.5 text-sm font-extrabold text-jaune ombre transition hover:-translate-y-0.5">Recevoir Éclairage gratuitement</Link>
-              <Link href={`/jour/${aujourdhui}`} className="rounded-full bg-white px-6 py-3.5 text-sm font-extrabold ombre transition hover:-translate-y-0.5">Lire l&apos;édition du jour →</Link>
-            </div>
           </div>
-          <Collage photos={photos} />
-        </div>
-      </section>
-
-      <div className="mt-8"><Journee date={aujourdhui} /></div>
+        } />
+      </div>
 
       {/* Rubriques */}
       <Apparition>

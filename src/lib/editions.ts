@@ -65,8 +65,12 @@ export function une(date: string): { e: Edition; s: Sujet } | null {
   for (const e of eds) { const s = e.sujets.find((x) => x.image); if (s) return { e, s }; }
   return eds[0]?.sujets[0] ? { e: eds[0], s: eds[0].sujets[0] } : null;
 }
+// Un chiffre par rubrique, avec le sujet dont il vient (titre, photo) pour donner le contexte
 export function chiffresDuJour(date: string) {
-  return parDate(date).flatMap((e) => (e.sujets.find((s) => s.chiffres.length)?.chiffres.slice(0, 1) ?? []).map((c) => ({ ...c, rubrique: e.rubrique, date: e.date })));
+  return parDate(date).flatMap((e) => {
+    const s = e.sujets.find((x) => x.chiffres.length);
+    return s ? [{ ...s.chiffres[0], rubrique: e.rubrique, date: e.date, titre: s.titre, image: s.image, theme: s.theme }] : [];
+  });
 }
 export function motDuJour(date: string) {
   for (const e of parDate(date)) if (e.lexique[0]) return { ...e.lexique[0], rubrique: e.rubrique };
@@ -74,10 +78,10 @@ export function motDuJour(date: string) {
 }
 
 export function agendaDuJour(date: string) {
-  return parDate(date).flatMap((e) => e.agenda.slice(0, 3).map((a) => ({ ...a, rubrique: e.rubrique }))).slice(0, 6);
+  return parDate(date).flatMap((e) => e.agenda.slice(0, 3).map((a) => ({ ...a, rubrique: e.rubrique, href: `/${e.rubrique}/${e.date}` }))).slice(0, 6);
 }
 export function lexiqueDuJour(date: string) {
-  return parDate(date).flatMap((e) => e.lexique.slice(0, 1).map((l) => ({ ...l, rubrique: e.rubrique })));
+  return parDate(date).flatMap((e) => e.lexique.slice(0, 1).map((l) => ({ ...l, rubrique: e.rubrique, href: `/${e.rubrique}/${e.date}` })));
 }
 
 // Données sérialisables pour les composants interactifs (cartes photo, onglets, carrousel)

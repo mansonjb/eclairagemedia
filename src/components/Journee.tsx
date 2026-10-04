@@ -1,23 +1,33 @@
+/* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { RUBRIQUES, parDate, items, chiffresDuJour, lexiqueDuJour, agendaDuJour } from "@/lib/editions";
-import { Section, TuileDate, Pastille } from "@/components/ui";
-import { Icone } from "@/components/Icones";
+import { Section, TuileDate } from "@/components/ui";
+import { Icone, Ico } from "@/components/Icones";
 import Carrousel from "@/components/dyn/Carrousel";
 import Onglets from "@/components/dyn/Onglets";
 import Apparition from "@/components/dyn/Apparition";
 
-// Toute la matière d'un jour : bandeau défilant, à la une, sélection filtrable, chiffres, agenda, lexique
-export default function Journee({ date }: { date: string }) {
+// Toute la matière d'un jour : à la une, bandeau, sélection (sans doublon), chiffres, agenda, lexique
+export default function Journee({ date, entete }: { date: string; entete?: React.ReactNode }) {
   const eds = parDate(date);
   const tous = items(date);
-  // À la une : le premier sujet de chaque rubrique, les sujets illustrés d'abord
-  const une = eds.map((e) => tous.find((i) => i.rubrique === e.rubrique)!).sort((a, b) => Number(!!b.image) - Number(!!a.image));
+  // À la une : le premier sujet de chaque rubrique, les vraies photos d'abord
+  const une = eds.map((e) => tous.find((i) => i.rubrique === e.rubrique)!)
+    .sort((a, b) => Number(!b.legende?.endsWith("(illustration)")) - Number(!a.legende?.endsWith("(illustration)")));
+  const dejaUne = new Set(une.map((i) => i.href + i.titre));
+  const selection = tous.filter((i) => !dejaUne.has(i.href + i.titre));
   const chiffres = chiffresDuJour(date).slice(0, 6);
   const lexique = lexiqueDuJour(date).slice(0, 6);
   const agenda = agendaDuJour(date);
   return (
     <div className="space-y-14">
-      {/* Bandeau défilant « En 30 secondes » */}
+      {/* À LA UNE, en premier */}
+      <section>
+        {entete ?? <Section couleur="#2f3cff">À la une</Section>}
+        <div className="mt-5"><Carrousel items={une} /></div>
+      </section>
+
+      {/* Bandeau « En bref » */}
       <section className="carte flex items-stretch overflow-hidden !rounded-full">
         <span className="z-10 flex shrink-0 items-center gap-2 bg-encre px-4 text-[12px] font-bold uppercase tracking-[0.08em] text-white">
           <span className="h-2 w-2 animate-pulse rounded-full bg-jaune" />En bref
@@ -35,37 +45,41 @@ export default function Journee({ date }: { date: string }) {
         </div>
       </section>
 
-      <Apparition>
-        <div className="flex flex-wrap items-end justify-between gap-3">
-          <Section couleur="#2f3cff">À la une</Section>
-          
-        </div>
-        <div className="mt-4"><Carrousel items={une} /></div>
-      </Apparition>
+      {selection.length > 0 && (
+        <Apparition>
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <Section>Sélectionnés pour vous</Section>
+            <Link href={`/jour/${date}`} className="text-sm font-semibold text-bleu underline decoration-2 underline-offset-4">Le récap du jour</Link>
+          </div>
+          <div className="mt-4"><Onglets items={selection} /></div>
+        </Apparition>
+      )}
 
-      <Apparition>
-        <div className="flex flex-wrap items-end justify-between gap-3">
-          <Section>Sélectionnés pour vous</Section>
-          <Link href={`/jour/${date}`} className="text-sm font-extrabold text-bleu underline decoration-2 underline-offset-4">Le récap du jour</Link>
-        </div>
-        <div className="mt-4"><Onglets items={tous} /></div>
-      </Apparition>
-
+      {/* CHIFFRES avec leur contexte */}
       {chiffres.length > 0 && (
         <Apparition>
-          <Section couleur="#ffd60a" texte="#14142b">Les chiffres du jour</Section>
-          <div className="mt-4 grid grid-cols-2 gap-3 md:grid-cols-3">
-            {chiffres.map((c, k) => (
-              <Apparition key={c.rubrique} delai={k * 80}>
-                <Link href={`/${c.rubrique}/${date}`} className="carte group relative block h-full overflow-hidden p-5 transition hover:-translate-y-1 hover:shadow-lg">
-                  
-                  
-                  <p className="relative whitespace-nowrap text-[34px] font-extrabold leading-none tracking-tight" style={{ color: RUBRIQUES[c.rubrique].couleur }}>{c.valeur}</p>
-                  <p className="relative mt-2 text-[13.5px] font-semibold leading-snug text-gris">{c.legende}</p>
-                  <span className="relative mt-3 inline-flex"><Pastille r={c.rubrique} plein={false} /></span>
+          <Section couleur="#e5b800">Les chiffres du jour</Section>
+          <div className="mt-4 grid items-stretch gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {chiffres.map((c) => {
+              const R = RUBRIQUES[c.rubrique];
+              return (
+                <Link key={c.rubrique} href={`/${c.rubrique}/${date}`} className="carte group flex flex-col overflow-hidden transition hover:-translate-y-1">
+                  <div className="relative px-5 pb-4 pt-5" style={{ backgroundColor: R.fond }}>
+                    <span className="pastille text-white" style={{ backgroundColor: R.couleur }}><Icone r={c.rubrique} className="h-3.5 w-3.5" />{R.court}</span>
+                    <p className="mt-4 whitespace-nowrap text-[44px] font-extrabold leading-none tracking-[-0.03em]" style={{ color: R.couleur }}>{c.valeur}</p>
+                    <p className="mt-2 text-[14.5px] font-semibold leading-snug text-encre">{c.legende}</p>
+                  </div>
+                  <div className="flex flex-1 items-center gap-3 px-5 py-4">
+                    {c.image && <img src={c.image} alt="" loading="lazy" className="h-12 w-12 shrink-0 rounded-[12px] object-cover" />}
+                    <div className="min-w-0">
+                      <p className="text-[11px] font-bold uppercase tracking-[0.06em] text-gris">À propos de</p>
+                      <p className="line-clamp-2 text-[14px] font-semibold leading-snug group-hover:underline decoration-jaune decoration-2 underline-offset-2">{c.titre}</p>
+                    </div>
+                    <Ico n="droite" className="ml-auto h-4 w-4 shrink-0 text-gris transition group-hover:translate-x-1 group-hover:text-encre" />
+                  </div>
                 </Link>
-              </Apparition>
-            ))}
+              );
+            })}
           </div>
         </Apparition>
       )}
@@ -75,12 +89,16 @@ export default function Journee({ date }: { date: string }) {
           {agenda.length > 0 && (
             <div className="flex flex-col">
               <Section couleur="#ff6a3d">À venir</Section>
-              <div className="carte mt-4 flex-1 divide-y divide-filet px-5 py-2">
+              <div className="carte mt-4 flex-1 divide-y divide-filet px-3 py-2">
                 {agenda.map((a, i) => (
-                  <div key={i} className="flex items-center gap-4 py-3">
+                  <Link key={i} href={a.href} className="group flex items-center gap-4 rounded-[16px] px-2 py-3 transition hover:bg-fond">
                     <TuileDate jour={a.jour} mois={a.mois} couleur={RUBRIQUES[a.rubrique].couleur} fond={RUBRIQUES[a.rubrique].fond} />
-                    <p className="text-[15px] leading-snug">{a.texte}</p>
-                  </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="text-[15px] leading-snug">{a.texte}</p>
+                      <p className="mt-1 text-[12px] font-semibold" style={{ color: RUBRIQUES[a.rubrique].couleur }}>Expliqué dans {RUBRIQUES[a.rubrique].nom}</p>
+                    </div>
+                    <Ico n="droite" className="h-4 w-4 shrink-0 text-gris transition group-hover:translate-x-1 group-hover:text-encre" />
+                  </Link>
                 ))}
               </div>
             </div>
@@ -90,14 +108,14 @@ export default function Journee({ date }: { date: string }) {
               <Section couleur="#14142b">Le lexique du jour</Section>
               <div className="mt-4 flex-1 rounded-[24px] bg-encre px-6 py-6 text-lavande">
                 <span className="pastille bg-jaune text-encre">Les mots pour suivre</span>
-                <dl className="mt-4 space-y-4">
+                <dl className="mt-5 space-y-5">
                   {lexique.map((l) => (
-                    <div key={l.terme}>
-                      <dt className="flex items-center gap-2 text-[17px] font-extrabold text-white">
-                        <span style={{ color: RUBRIQUES[l.rubrique].couleur }}><Icone r={l.rubrique} className="h-4 w-4" /></span>{l.terme}
+                    <Link key={l.terme} href={l.href} className="group block">
+                      <dt className="inline-flex items-center gap-2 rounded-full border border-jaune/70 px-3 py-1 text-[15.5px] font-bold text-white transition group-hover:bg-jaune group-hover:text-encre">
+                        <span style={{ color: RUBRIQUES[l.rubrique].couleur }} className="group-hover:!text-encre"><Icone r={l.rubrique} className="h-4 w-4" /></span>{l.terme}
                       </dt>
-                      <dd className="mt-1 text-[14.5px] leading-relaxed">{l.definition}</dd>
-                    </div>
+                      <dd className="mt-2 text-[14.5px] leading-relaxed">{l.definition}</dd>
+                    </Link>
                   ))}
                 </dl>
               </div>
