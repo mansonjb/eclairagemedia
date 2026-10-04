@@ -5,8 +5,11 @@ import indexData from "../../content/index.json";
 export type Sujet = {
   n: number; theme: string; titre: string; image: string | null; legende: string | null;
   chapeau: string | null; eclairage: string | null; change: string | null; chiffres: { valeur: string; legende: string }[];
+  passe: string | null; points: string[]; apres: string | null; sources: { url: string; nom: string }[];
+  cartes: { fond: string; couleur: string; parti: string; qui: string; contexte: string | null; texte: string; url: string; source: string }[];
 };
-export type Edition = { rubrique: RubriqueId; date: string; minutes: number; sujets: Sujet[]; lexique: { terme: string; definition: string }[]; agenda: { jour: string; mois: string; texte: string }[] };
+export type Edition = { rubrique: RubriqueId; date: string; minutes: number; sujets: Sujet[]; lexique: { terme: string; definition: string }[]; agenda: { jour: string; mois: string; texte: string }[];
+  quiz?: { affirmation: string; reponse: boolean; explication: string } };
 export type RubriqueId = "politique" | "economie" | "sante" | "local" | "food" | "tech";
 
 export const RUBRIQUES: Record<RubriqueId, { nom: string; court: string; couleur: string; fond: string; accroche: string; heure: string }> = {
@@ -90,4 +93,13 @@ export function items(date: string) {
     href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique, theme: s.theme, titre: s.titre,
     image: s.image, legende: s.legende, minutes: e.minutes, chapeau: s.chapeau, date: e.date,
   })));
+}
+
+import quizManuel from "../../content/quiz-manuel.json";
+// Quiz du jour : celui d'une édition (politique d'abord), sinon le quiz rédigé à la main
+export function quizDuJour(date: string) {
+  const e = parDate(date).find((x) => x.quiz);
+  if (e?.quiz) return { ...e.quiz, href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique };
+  const m = (quizManuel as unknown as Record<string, { affirmation: string; reponse: boolean; explication: string; rubrique: string }>)[date];
+  return m ? { ...m, href: `/${m.rubrique}/${date}` } : null;
 }

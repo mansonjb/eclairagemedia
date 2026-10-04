@@ -17,21 +17,19 @@ export default async function Semaine({ params }: { params: Promise<{ semaine: s
   const liste = semaines();
   const i = liste.indexOf(semaine);
   const nb = jours.reduce((n, d) => n + parDate(d).reduce((m, e) => m + e.sujets.length, 0), 0);
-  const nav = "rounded-full bg-white px-4 py-2 text-sm font-extrabold hover:bg-fond";
+  const b = "rounded-full bg-white px-4 py-2.5 text-[14px] font-bold hover:bg-lavande";
   return (
-    <main className="mx-auto max-w-5xl px-4">
-      <section className="relative mt-4 overflow-hidden rounded-[28px] bg-creme px-6 py-10 text-center">
-        <span className="halo absolute left-1/2 top-0 h-72 w-[480px] -translate-x-1/2 -translate-y-1/2 rounded-full" />
-        <span className="pastille relative bg-jaune text-encre">L&apos;édition de la semaine</span>
-        <h1 className="relative mt-4 text-[32px] font-extrabold sm:text-[44px]">La semaine {libelleSemaine(semaine)}</h1>
-        <p className="relative mt-2 text-[15px] text-gris">{nb} sujets en {jours.length} jours</p>
-        <div className="relative mt-5 flex flex-wrap justify-center gap-3">
-          {liste[i + 1] && <Link href={`/semaine/${liste[i + 1]}`} className={nav}>← Semaine précédente</Link>}
-          {jours.some(estWeekEnd) && <Link href={`/week-end/${semaine}`} className={nav}>Le récap du week-end</Link>}
-          {liste[i - 1] && <Link href={`/semaine/${liste[i - 1]}`} className={nav}>Semaine suivante →</Link>}
+    <main className="flex flex-col gap-5 pt-7">
+      <section className="px-2">
+        <p className="text-[15px] font-semibold text-gris">L&apos;édition de la semaine · {nb} sujets en {jours.length} jours</p>
+        <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">La semaine <span className="surligne">{libelleSemaine(semaine)}</span></h1>
+        <div className="mt-5 flex flex-wrap gap-2">
+          {liste[i + 1] && <Link href={`/semaine/${liste[i + 1]}`} className={b}>← Semaine précédente</Link>}
+          {jours.some(estWeekEnd) && <Link href={`/week-end/${semaine}`} className={b}>Le récap du week-end</Link>}
+          {liste[i - 1] && <Link href={`/semaine/${liste[i - 1]}`} className={b}>Semaine suivante →</Link>}
         </div>
       </section>
-      <div className="mt-10"><Recap jours={jours} /></div>
+      <Recap jours={jours} />
     </main>
   );
 }

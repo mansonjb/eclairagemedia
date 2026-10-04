@@ -1,54 +1,50 @@
 @import "tailwindcss";
 
-/* Palette et formes reprises de la newsletter Éclairage */
+/* Système visuel Éclairage (maquette « site ») : Bricolage Grotesque + Figtree, cartes 28 px */
 @theme {
-  --color-fond: #eceefa;
+  --color-fond: #f3f4f8;
   --color-creme: #fdfbf5;
   --color-encre: #14142b;
   --color-gris: #5b5f7a;
   --color-gris-clair: #8a8ea8;
-  --color-filet: #d5d8e6;
+  --color-filet: #eceefa;
   --color-jaune: #ffd60a;
   --color-jaune-pale: #fff7cc;
-  --color-lavande: #d8dbf0;
+  --color-lavande: #e8eaff;
+  --color-bleu: #2f3cff;
   --color-orange: #ff6a3d;
   --color-orange-pale: #ffe4d9;
-  --color-bleu: #2f3cff;
-  --font-sans: var(--font-inter), "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --radius-carte: 24px;
-  --radius-bloc: 18px;
+  --color-vert: #00a37a;
+  --color-violet: #8b3dff;
+  --font-sans: var(--font-figtree), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-titre: var(--font-bricolage), var(--font-figtree), sans-serif;
 }
 
-html { color-scheme: light; }
-body { background: var(--color-fond); color: var(--color-encre); }
-h1, h2, h3 { text-wrap: balance; letter-spacing: -0.02em; }
-p { text-wrap: pretty; }
-
-/* Étiquette en pastille (EN 30 SECONDES, L'ÉCLAIRAGE, rubriques…) */
-.pastille { display: inline-flex; align-items: center; gap: 0.4rem; border-radius: 999px; padding: 0.3rem 0.7rem;
-  font-size: 11px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; line-height: 1; }
-.carte { background: #fff; border-radius: var(--radius-carte); box-shadow: 0 1px 2px rgba(20,20,43,.04), 0 12px 32px -18px rgba(20,20,43,.18); }
-.ombre { box-shadow: 0 1px 2px rgba(20,20,43,.05), 0 18px 40px -20px rgba(20,20,43,.35); }
-.verre { background: rgba(255,255,255,.22); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
-.halo { background: radial-gradient(closest-side, rgba(255, 214, 10, 0.6), rgba(255, 214, 10, 0)); }
+@layer base {
+  html { color-scheme: light; }
+  body { background: var(--color-fond); color: var(--color-encre); }
+  a { color: inherit; }
+  h1, h2, h3 { text-wrap: balance; }
+  p { text-wrap: pretty; }
+}
+.d { font-family: var(--font-titre); letter-spacing: -0.02em; font-weight: 800; }
+.carte { background: #fff; border-radius: 28px; min-width: 0; }
+.ph { display: block; width: 100%; object-fit: cover; border-radius: 20px; }
+.pastille { display: inline-flex; align-items: center; gap: 0.35rem; border-radius: 999px; padding: 0.35rem 0.75rem;
+  font-size: 12px; font-weight: 800; letter-spacing: 0.02em; line-height: 1; white-space: nowrap; }
+.surligne { background: var(--color-jaune); padding: 0 0.25em; border-radius: 12px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 
 /* Édition email intégrée telle quelle */
 .edition-email { max-width: 640px; margin-inline: auto; overflow-wrap: anywhere; }
 .edition-email > div, .edition-email > div > table, .edition-email > div > table > tbody > tr > td { background: transparent !important; padding: 0 !important; }
-.edition-email table { max-width: 100% !important; font-family: var(--font-sans) !important; }
+.edition-email table { max-width: 100% !important; }
 .edition-email img { max-width: 100% !important; height: auto !important; }
 
-/* Animations */
 @keyframes apparait { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
-.apparait { animation: apparait 0.45s ease-out both; }
-@keyframes flotte { 0%, 100% { transform: translateY(0) rotate(var(--r)); } 50% { transform: translateY(-10px) rotate(var(--r)); } }
-.flotte { animation: flotte 7s ease-in-out infinite; }
-@keyframes defile { from { transform: translateX(0); } to { transform: translateX(-50%); } }
-.defile { animation: defile 60s linear infinite; }
-.defile:hover { animation-play-state: paused; }
-@media (prefers-reduced-motion: reduce) { .apparait, .flotte, .defile { animation: none; } }
+.apparait { animation: apparait 0.4s ease-out both; }
 @supports (animation-timeline: view()) {
   @media (prefers-reduced-motion: no-preference) {
     .revele { animation: apparait linear both; animation-timeline: view(); animation-range: entry 0% entry 30%; }
   }
 }
+@media (prefers-reduced-motion: reduce) { .apparait { animation: none; } }

@@ -42,6 +42,20 @@ function extraire(html) {
       chapeau: passe ? chapeau(strip(passe[1])) : null,
       eclairage: ecl ? strip(ecl[1]) : null,
       chiffres,
+      passe: passe ? strip(passe[1]) : null,
+      points: (() => {
+        const i = bloc.indexOf("L'ÉCLAIRAGE");
+        if (i < 0) return [];
+        const zone = bloc.slice(i, (bloc.indexOf("QUI DIT QUOI", i) + 1 || bloc.indexOf("CE QUE ÇA CHANGE", i) + 1 || bloc.length + 1) - 1);
+        return [...zone.matchAll(/<td[^>]*>(\d)\.<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/g)].slice(0, 5).map((x) => strip(x[2]));
+      })(),
+      sources: (() => {
+        const r = bloc.match(/SOURCES ·([\s\S]*?)<\/div>/);
+        return r ? [...r[1].matchAll(/<a href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)].map((x) => ({ url: x[1], nom: strip(x[2]) })) : [];
+      })(),
+      cartes: [...bloc.matchAll(/<div style="background-color:(#[0-9a-f]{6});border-radius:18px;padding:14px 16px;[^"]*"><span style="background-color:(#[0-9a-f]{6});[^"]*">([^<]+)<\/span>\s*<span[^>]*>([^<]+)<\/span>\s*(?:<span[^>]*>([^<]*)<\/span>)?\s*<div[^>]*>([\s\S]*?)<\/div>\s*(?:<div[^>]*>[\s\S]*?<\/div>\s*)?<a href="([^"]+)"[^>]*>([^<]*)<\/a>/g)]
+        .map((x) => ({ fond: x[1], couleur: x[2], parti: strip(x[3]), qui: strip(x[4]), contexte: x[5] ? strip(x[5]) : null, texte: strip(x[6]), url: x[7], source: strip(x[8]).replace(/^Source : |→$/g, "").trim() })),
+      apres: (bloc.match(/ET APRÈS \?<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/) || [])[1] ? strip(bloc.match(/ET APRÈS \?<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/)[1]) : null,
       change: (bloc.match(/CE QUE ÇA CHANGE<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/) || [])[1] ? coupe(strip(bloc.match(/CE QUE ÇA CHANGE<\/b><br>\s*<span[^>]*>([\s\S]*?)<\/span>/)[1]), 260) : null,
     });
   });
@@ -79,6 +93,9 @@ for (const file of fs.readdirSync(SRC).sort()) {
     s.image = banque[k].url; s.legende = banque[k].legende + " (illustration)"; s.illustration = true;
     prises.add(s.image);
   }
+  // Quiz « Vrai ou faux » inscrit par la routine dans l'édition : <!-- QUIZ {"affirmation","reponse","explication"} -->
+  const qz = html.match(/<!-- QUIZ (\{[\s\S]*?\}) -->/);
+  if (qz) { try { data.quiz = JSON.parse(qz[1]); } catch { /* quiz mal formé : ignoré */ } }
   index.push({ rubrique, date, minutes, ...data });
 }
 index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.localeCompare(b.rubrique)));
@@ -86,3 +103,48 @@ fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, null,
 const stats = (k) => index.reduce((n, e) => n + e.sujets.filter((s) => s[k]).length, 0);
 const total = index.reduce((n, e) => n + e.sujets.length, 0);
 console.log(`${index.length} éditions, ${total} sujets : ${stats("image")} photos, ${stats("chapeau")} chapeaux, ${stats("eclairage")} éclairages ; ${index.filter((e) => e.chiffreDuJour).length} chiffres du jour, ${index.filter((e) => e.lexique.length).length} lexiques`);
+
+// ---------- Baromètre présidentielle : scores du dernier relevé + dernières déclarations ----------
+const DEPOT = path.dirname(SRC);
+const fCand = path.join(DEPOT, "barometre_candidats.json");
+const fHist = path.join(DEPOT, "barometre_historique.json");
+if (fs.existsSync(fCand)) {
+  const cands = JSON.parse(fs.readFileSync(fCand, "utf8")).candidats;
+  const hist = fs.existsSync(fHist) ? JSON.parse(fs.readFileSync(fHist, "utf8")) : [];
+  const dernier = hist[hist.length - 1] || {};
+  // le dernier sondage connu, même s'il n'a pas été relevé le dernier jour
+  const sondage = [...hist].reverse().find((h) => h.sondage)?.sondage || null;
+  const val = (bloc, nom) => (bloc && bloc[nom] !== undefined ? (typeof bloc[nom] === "object" ? bloc[nom] : { v: bloc[nom], d: null }) : null);
+  const candidats = cands.map((c) => {
+    const nomFamille = c.nom.split(" ").slice(-1)[0];
+    const declarations = index.flatMap((e) => e.sujets.flatMap((s) => s.cartes
+      .filter((k) => k.qui.includes(c.nom) || (k.qui.includes(nomFamille) && k.qui.split(" ").length <= 3 && k.qui.includes(c.nom.split(" ")[0])))
+      .map((k) => ({ ...k, date: e.date, rubrique: e.rubrique, sujet: s.titre, href: `/${e.rubrique}/${e.date}` }))));
+    return {
+      ...c,
+      sondage: sondage ? val(sondage.scores, c.nom) : null,
+      attention: val(dernier.attention, c.nom),
+      polymarket: val(dernier.polymarket, c.nom),
+      declarations: declarations.sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 6),
+      nbDeclarations: declarations.length,
+    };
+  });
+  // Score Éclairage /100 : moyenne pondérée des mesures disponibles, chacune ramenée sur 100 (100 = le premier).
+  // Sondages 50 %, marchés de prédiction 30 %, attention en ligne 20 %. Mesure absente pour tous : retirée du calcul.
+  const POIDS = { sondage: 0.5, polymarket: 0.3, attention: 0.2 };
+  const maxi = Object.fromEntries(Object.keys(POIDS).map((k) => [k, Math.max(0, ...candidats.map((c) => c[k]?.v ?? 0))]));
+  const actives = Object.keys(POIDS).filter((k) => maxi[k] > 0);
+  const somme = actives.reduce((n, k) => n + POIDS[k], 0) || 1;
+  for (const c of candidats) {
+    c.composantes = Object.fromEntries(actives.map((k) => [k, Math.round((100 * (c[k]?.v ?? 0)) / maxi[k])]));
+    c.score = actives.length ? Math.round(actives.reduce((n, k) => n + POIDS[k] * c.composantes[k], 0) / somme) : null;
+  }
+  candidats.sort((a, b) => (b.score ?? -1) - (a.score ?? -1));
+  const serie = hist.slice(-60).map((h) => ({ date: h.date,
+    attention: Object.fromEntries(Object.entries(h.attention || {}).map(([k, v]) => [k, typeof v === "object" ? v.v : v])),
+    polymarket: Object.fromEntries(Object.entries(h.polymarket || {}).map(([k, v]) => [k, typeof v === "object" ? v.v : v])) }));
+  fs.writeFileSync(path.resolve("content/barometre.json"), JSON.stringify({
+    date: dernier.date || null, sondage: sondage && { ...sondage, scores: undefined }, sources_attention: dernier.sources_attention || [],
+    polymarket_volume: dernier.polymarket_volume || null, poids: Object.fromEntries(actives.map((k) => [k, POIDS[k] / somme])), candidats, serie }, null, 1));
+  console.log(`baromètre : ${candidats.length} personnalités, ${candidats.reduce((n, c) => n + c.nbDeclarations, 0)} déclarations, relevé du ${dernier.date || "—"}`);
+}

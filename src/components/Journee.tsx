@@ -1,127 +1,177 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { RUBRIQUES, parDate, items, chiffresDuJour, lexiqueDuJour, agendaDuJour } from "@/lib/editions";
-import { Section, TuileDate } from "@/components/ui";
-import { Icone, Ico } from "@/components/Icones";
-import Carrousel from "@/components/dyn/Carrousel";
-import Onglets from "@/components/dyn/Onglets";
-import Apparition from "@/components/dyn/Apparition";
+import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJour, type Edition, type Sujet } from "@/lib/editions";
+import Quiz from "@/components/dyn/Quiz";
+import { Section, Pastille, CarteSujet, Meta } from "@/components/ui";
+import Lexique from "@/components/dyn/Lexique";
+import barometre from "../../content/barometre.json";
+import type { Candidat } from "@/components/dyn/Candidats";
 
-// Toute la matière d'un jour : à la une, bandeau, sélection (sans doublon), chiffres, agenda, lexique
-export default function Journee({ date, entete }: { date: string; entete?: React.ReactNode }) {
-  const eds = parDate(date);
-  const tous = items(date);
-  // À la une : le premier sujet de chaque rubrique, les vraies photos d'abord
-  const une = eds.map((e) => tous.find((i) => i.rubrique === e.rubrique)!)
-    .sort((a, b) => Number(!b.legende?.endsWith("(illustration)")) - Number(!a.legende?.endsWith("(illustration)")));
-  const dejaUne = new Set(une.map((i) => i.href + i.titre));
-  const selection = tous.filter((i) => !dejaUne.has(i.href + i.titre));
-  const chiffres = chiffresDuJour(date).slice(0, 6);
-  const lexique = lexiqueDuJour(date).slice(0, 6);
-  const agenda = agendaDuJour(date);
+const coupe = (t: string | null, n: number) => (!t ? "" : t.length <= n ? t : t.slice(0, t.lastIndexOf(" ", n)) + "…");
+const premierePhrase = (t: string | null) => (t ? (t.match(/^[^.!?]+[.!?]/)?.[0] ?? t) : "");
+
+// Le sujet principal : photo + chiffre, titre, trois étapes, appel à lire
+function Principal({ e, s }: { e: Edition; s: Sujet }) {
+  const R = RUBRIQUES[e.rubrique];
+  const lien = `/${e.rubrique}/${e.date}`;
+  const etapes = [
+    ["LE FAIT", premierePhrase(s.chapeau)],
+    ["CE QUE ÇA CHANGE", coupe(s.change, 150)],
+    ["ET APRÈS ?", coupe(s.apres, 150)],
+  ].filter(([, t]) => t);
   return (
-    <div className="space-y-14">
-      {/* À LA UNE, en premier */}
-      <section>
-        {entete ?? <Section couleur="#2f3cff">À la une</Section>}
-        <div className="mt-5"><Carrousel items={une} /></div>
-      </section>
+    <article className="carte flex flex-col p-3 lg:col-span-2">
+      <div className="relative">
+        <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9]" /></Link>
+        <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET 1 · {s.theme}</span>
+        {s.legende?.endsWith("(illustration)") && <span className="absolute right-4 top-4 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
+        {s.chiffres[0] && (
+          <div className="absolute bottom-4 left-4 rounded-[18px] px-4 py-3 text-white" style={{ backgroundColor: R.couleur }}>
+            <p className="d text-[30px] leading-none sm:text-[40px]">{s.chiffres[0].valeur}</p>
+            <p className="mt-1 text-[13px] font-semibold">{s.chiffres[0].legende}</p>
+          </div>
+        )}
+      </div>
+      <div className="flex flex-col gap-5 px-3 pb-2 pt-5 sm:px-4">
+        <Link href={lien} className="d text-[30px] leading-[1.02] hover:text-bleu sm:text-[42px]">{s.titre}</Link>
+        <div className="grid gap-3 md:grid-cols-3">
+          {etapes.map(([t, texte], k) => (
+            <div key={t} className="rounded-[20px] bg-fond px-4 py-4">
+              <p className="flex items-center gap-2 text-[12px] font-extrabold tracking-[0.04em]" style={{ color: R.couleur }}>
+                <span className="flex h-[22px] w-[22px] items-center justify-center rounded-full text-white" style={{ backgroundColor: R.couleur }}>{k + 1}</span>{t}
+              </p>
+              <p className="mt-2 text-[15px] leading-[1.45]">{texte}</p>
+            </div>
+          ))}
+        </div>
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <Meta s={s} minutes={e.minutes} />
+          <Link href={lien} className="rounded-full bg-encre px-5 py-3.5 text-[15px] font-extrabold text-white hover:bg-black">Comprendre le sujet →</Link>
+        </div>
+      </div>
+    </article>
+  );
+}
 
-      {/* Bandeau « En bref » */}
-      <section className="carte flex items-stretch overflow-hidden !rounded-full">
-        <span className="z-10 flex shrink-0 items-center gap-2 bg-encre px-4 text-[12px] font-bold uppercase tracking-[0.08em] text-white">
-          <span className="h-2 w-2 animate-pulse rounded-full bg-jaune" />En bref
-        </span>
-        <div className="relative min-w-0 flex-1 overflow-hidden py-3 [mask-image:linear-gradient(90deg,transparent,#000_4%,#000_96%,transparent)]">
-          <div className="defile flex w-max gap-12 pl-6" style={{ animationDuration: `${tous.length * 9}s` }}>
-            {[...tous, ...tous].map((i, k) => (
-              <Link key={k} href={i.href} className="flex shrink-0 items-center gap-2.5 text-[14px] text-encre/80 hover:text-encre">
-                <span className="h-1.5 w-1.5 rounded-full" style={{ backgroundColor: RUBRIQUES[i.rubrique].couleur }} />
-                <span className="font-semibold" style={{ color: RUBRIQUES[i.rubrique].couleur }}>{RUBRIQUES[i.rubrique].court}</span>
-                <span>{i.titre}</span>
+export default function Journee({ date }: { date: string }) {
+  const eds = parDate(date);
+  // Le sujet principal : le premier sujet de la première rubrique qui a une vraie photo
+  const lead = eds.find((e) => e.sujets[0]?.image && !e.sujets[0].legende?.endsWith("(illustration)")) ?? eds[0];
+  const autres = [
+    ...eds.filter((e) => e !== lead).map((e) => ({ e, s: e.sujets[0] })),
+    ...(lead?.sujets.slice(1, 2).map((s) => ({ e: lead, s })) ?? []),
+  ].filter((x) => x.s).slice(0, 6);
+  const chiffre = chiffresDuJour(date).find((c) => c.rubrique !== lead?.rubrique) ?? chiffresDuJour(date)[0];
+  const mots = lexiqueDuJour(date).slice(0, 6);
+  const agenda = agendaDuJour(date).slice(0, 5);
+  const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
+  const quiz = quizDuJour(date);
+  const podium = (barometre as unknown as { candidats: Candidat[] }).candidats.filter((c) => c.score !== null).slice(0, 3);
+
+  const carteChiffre = chiffre && (
+              <Link href={`/${chiffre.rubrique}/${date}`} className="carte group flex flex-col gap-3 !bg-jaune p-6 sm:p-7">
+                <div className="flex items-center justify-between">
+                  <span className="pastille bg-encre text-jaune">LE CHIFFRE DU JOUR</span>
+                  <span className="text-[13px] font-bold">{RUBRIQUES[chiffre.rubrique].court}</span>
+                </div>
+                <p className="d text-[52px] leading-none">{chiffre.valeur}</p>
+                <p className="text-[16px] font-bold leading-snug">{chiffre.legende}</p>
+                <p className="mt-1 text-[13.5px] leading-snug text-encre/75 group-hover:underline">À propos : {chiffre.titre}</p>
               </Link>
-            ))}
+  );
+
+  return (
+    <div className="flex flex-col gap-5">
+      {lead && (
+        <div className="grid gap-5 lg:grid-cols-3">
+          <Principal e={lead} s={lead.sujets[0]} />
+          <div className="flex min-w-0 flex-col gap-5">
+            {quiz ? <Quiz q={quiz} /> : carteChiffre}
+            <section className="carte flex flex-1 flex-col p-6" aria-label="En 30 secondes">
+              <h2 className="d mb-2 text-[22px]">En 30 secondes</h2>
+              {eds.map((e, k) => (
+                <Link key={e.rubrique} href={`/${e.rubrique}/${date}`} className={`flex items-start gap-3 py-2.5 text-[15px] leading-snug hover:text-bleu ${k < eds.length - 1 ? "border-b border-filet" : ""}`}>
+                  <span className="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-[3px]" style={{ backgroundColor: RUBRIQUES[e.rubrique].couleur }} />
+                  <span><b>{RUBRIQUES[e.rubrique].court} :</b> {e.sujets[0]?.titre}</span>
+                </Link>
+              ))}
+            </section>
           </div>
         </div>
-      </section>
-
-      {selection.length > 0 && (
-        <Apparition>
-          <div className="flex flex-wrap items-center justify-between gap-3">
-            <Section>Sélectionnés pour vous</Section>
-            <Link href={`/jour/${date}`} className="text-sm font-semibold text-bleu underline decoration-2 underline-offset-4">Le récap du jour</Link>
-          </div>
-          <div className="mt-4"><Onglets items={selection} /></div>
-        </Apparition>
       )}
 
-      {/* CHIFFRES avec leur contexte */}
-      {chiffres.length > 0 && (
-        <Apparition>
-          <Section couleur="#e5b800">Les chiffres du jour</Section>
-          <div className="mt-4 grid items-stretch gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {chiffres.map((c) => {
-              const R = RUBRIQUES[c.rubrique];
+      {autres.length > 0 && (
+        <>
+          <Section id="sujets" lien={{ href: `/jour/${date}`, texte: "Voir tout" }}>Les autres sujets du jour</Section>
+          <div className="grid items-stretch gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {autres.map(({ e, s }) => <CarteSujet key={e.rubrique + s.n} e={e} s={s} />)}
+          </div>
+        </>
+      )}
+
+      <div className="mt-5 grid items-stretch gap-5 lg:grid-cols-3">
+        <div className={quiz ? "lg:col-span-2" : "lg:col-span-3"}>{mots.length > 0 && <Lexique mots={mots} />}</div>
+        {quiz && carteChiffre}
+      </div>
+
+      {podium.length === 3 && (
+        <Link href="/barometre" className="carte group grid items-center gap-6 p-6 sm:p-8 lg:grid-cols-[1fr_1.4fr]">
+          <div>
+            <span className="pastille bg-lavande text-bleu">BAROMÈTRE PRÉSIDENTIELLE 2027</span>
+            <p className="d mt-4 text-[30px] leading-[1.05] sm:text-[38px]">Qui va prendre <span className="surligne">l&apos;avantage ?</span></p>
+            <p className="mt-3 text-[15px] text-gris">Sondages, paris Polymarket et bruit en ligne, réunis en un score sur 100. Mis à jour chaque matin.</p>
+            <span className="mt-5 inline-block rounded-full bg-encre px-5 py-3 text-[14px] font-extrabold text-white group-hover:bg-black">Voir tous les candidats →</span>
+          </div>
+          <div className="grid grid-cols-3 items-end gap-3">
+            {[podium[1], podium[0], podium[2]].map((c) => {
+              const rang = podium.indexOf(c) + 1;
               return (
-                <Link key={c.rubrique} href={`/${c.rubrique}/${date}`} className="carte group flex flex-col overflow-hidden transition hover:-translate-y-1">
-                  <div className="relative px-5 pb-4 pt-5" style={{ backgroundColor: R.fond }}>
-                    <span className="pastille text-white" style={{ backgroundColor: R.couleur }}><Icone r={c.rubrique} className="h-3.5 w-3.5" />{R.court}</span>
-                    <p className="mt-4 whitespace-nowrap text-[44px] font-extrabold leading-none tracking-[-0.03em]" style={{ color: R.couleur }}>{c.valeur}</p>
-                    <p className="mt-2 text-[14.5px] font-semibold leading-snug text-encre">{c.legende}</p>
+                <div key={c.nom} className="flex flex-col items-center">
+                  <p className="d text-center text-[16px] leading-tight sm:text-[18px]">{c.nom}</p>
+                  <span className="pastille mt-1.5 text-white" style={{ backgroundColor: c.couleur }}>{c.etiquette}</span>
+                  <div className={`mt-3 flex w-full flex-col items-center rounded-t-[18px] pt-4 ${rang === 1 ? "h-36 bg-jaune" : rang === 2 ? "h-28 bg-lavande" : "h-20 bg-[#ffe4d9]"}`}>
+                    <p className="d text-[34px] leading-none">{c.score}</p>
+                    <p className="text-[11px] font-extrabold opacity-60">{rang}{rang === 1 ? "er" : "e"}</p>
                   </div>
-                  <div className="flex flex-1 items-center gap-3 px-5 py-4">
-                    {c.image && <img src={c.image} alt="" loading="lazy" className="h-12 w-12 shrink-0 rounded-[12px] object-cover" />}
-                    <div className="min-w-0">
-                      <p className="text-[11px] font-bold uppercase tracking-[0.06em] text-gris">À propos de</p>
-                      <p className="line-clamp-2 text-[14px] font-semibold leading-snug group-hover:underline decoration-jaune decoration-2 underline-offset-2">{c.titre}</p>
-                    </div>
-                    <Ico n="droite" className="ml-auto h-4 w-4 shrink-0 text-gris transition group-hover:translate-x-1 group-hover:text-encre" />
-                  </div>
-                </Link>
+                </div>
               );
             })}
           </div>
-        </Apparition>
+        </Link>
       )}
 
-      {(agenda.length > 0 || lexique.length > 0) && (
-        <Apparition className="grid items-stretch gap-4 lg:grid-cols-2">
-          {agenda.length > 0 && (
-            <div className="flex flex-col">
-              <Section couleur="#ff6a3d">À venir</Section>
-              <div className="carte mt-4 flex-1 divide-y divide-filet px-3 py-2">
-                {agenda.map((a, i) => (
-                  <Link key={i} href={a.href} className="group flex items-center gap-4 rounded-[16px] px-2 py-3 transition hover:bg-fond">
-                    <TuileDate jour={a.jour} mois={a.mois} couleur={RUBRIQUES[a.rubrique].couleur} fond={RUBRIQUES[a.rubrique].fond} />
-                    <div className="min-w-0 flex-1">
-                      <p className="text-[15px] leading-snug">{a.texte}</p>
-                      <p className="mt-1 text-[12px] font-semibold" style={{ color: RUBRIQUES[a.rubrique].couleur }}>Expliqué dans {RUBRIQUES[a.rubrique].nom}</p>
-                    </div>
-                    <Ico n="droite" className="h-4 w-4 shrink-0 text-gris transition group-hover:translate-x-1 group-hover:text-encre" />
-                  </Link>
-                ))}
-              </div>
-            </div>
-          )}
-          {lexique.length > 0 && (
-            <div className="flex flex-col">
-              <Section couleur="#14142b">Le lexique du jour</Section>
-              <div className="mt-4 flex-1 rounded-[24px] bg-encre px-6 py-6 text-lavande">
-                <span className="pastille bg-jaune text-encre">Les mots pour suivre</span>
-                <dl className="mt-5 space-y-5">
-                  {lexique.map((l) => (
-                    <Link key={l.terme} href={l.href} className="group block">
-                      <dt className="inline-flex items-center gap-2 rounded-full border border-jaune/70 px-3 py-1 text-[15.5px] font-bold text-white transition group-hover:bg-jaune group-hover:text-encre">
-                        <span style={{ color: RUBRIQUES[l.rubrique].couleur }} className="group-hover:!text-encre"><Icone r={l.rubrique} className="h-4 w-4" /></span>{l.terme}
-                      </dt>
-                      <dd className="mt-2 text-[14.5px] leading-relaxed">{l.definition}</dd>
-                    </Link>
-                  ))}
-                </dl>
-              </div>
-            </div>
-          )}
-        </Apparition>
+      {citations.length > 0 && (
+        <>
+          <Section>Qui dit quoi</Section>
+          <div className="grid items-stretch gap-5 md:grid-cols-3">
+            {citations.map((c, k) => (
+              <Link key={k} href={c.href} className="flex flex-col gap-3 rounded-[28px] p-6 transition hover:-translate-y-0.5" style={{ backgroundColor: c.fond }}>
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="pastille text-white" style={{ backgroundColor: c.couleur }}>{c.parti}</span>
+                  <span className="text-[13.5px] font-extrabold">{c.qui}</span>
+                </div>
+                <p className="d text-[19px] leading-[1.2]">{c.texte}</p>
+                <p className="mt-auto text-[12.5px] text-gris">{c.contexte ? `${c.contexte} · ` : ""}{c.source}</p>
+              </Link>
+            ))}
+          </div>
+          <p className="px-2 text-right text-[12.5px] text-gris">Citations vérifiées mot pour mot</p>
+        </>
+      )}
+
+      {agenda.length > 0 && (
+        <>
+          <Section id="agenda">À venir</Section>
+          <div className="grid grid-cols-2 gap-3.5 md:grid-cols-3 lg:grid-cols-5">
+            {agenda.map((a, k) => (
+              <Link key={k} href={a.href} className="carte flex flex-col gap-2 p-5 transition hover:-translate-y-0.5">
+                <p className="d text-[24px] leading-none" style={{ color: RUBRIQUES[a.rubrique].couleur }}>{a.jour} {a.mois.toLowerCase()}</p>
+                <p className="text-[14px] leading-snug">{a.texte}</p>
+                <span className="mt-auto pt-1"><Pastille r={a.rubrique} /></span>
+              </Link>
+            ))}
+          </div>
+        </>
       )}
     </div>
   );

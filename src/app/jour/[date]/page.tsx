@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { dates, parDate, dateLongue, semaineDe, libelleSemaine } from "@/lib/editions";
 import Journee from "@/components/Journee";
+import Parcours from "@/components/Parcours";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => dates().map((date) => ({ date }));
@@ -18,19 +19,21 @@ export default async function Jour({ params }: { params: Promise<{ date: string 
   const i = tous.indexOf(date);
   const [suivant, precedent] = [tous[i - 1], tous[i + 1]];
   const s = semaineDe(date);
+  const b = "rounded-full bg-white px-4 py-2.5 text-[14px] font-bold hover:bg-lavande";
   return (
-    <main className="mx-auto max-w-6xl px-4">
-      <section className="mt-4 rounded-[28px] bg-creme px-6 py-10 text-center">
-        <span className="pastille bg-jaune text-encre">Le récap du jour</span>
-        <h1 className="mt-4 text-[34px] font-extrabold sm:text-[44px]">{dateLongue(date)}</h1>
-        <p className="mt-2 text-[15px] text-gris">{eds.reduce((n, e) => n + e.sujets.length, 0)} sujets dans {eds.length} éditions</p>
-        <div className="mt-5 flex flex-wrap justify-center gap-3 text-sm font-extrabold">
-          {precedent && <Link href={`/jour/${precedent}`} className="rounded-full bg-white px-4 py-2 hover:bg-fond">← La veille</Link>}
-          <Link href={`/semaine/${s}`} className="rounded-full bg-white px-4 py-2 hover:bg-fond">La semaine {libelleSemaine(s)}</Link>
-          {suivant && <Link href={`/jour/${suivant}`} className="rounded-full bg-white px-4 py-2 hover:bg-fond">Le lendemain →</Link>}
+    <main className="flex flex-col gap-5">
+      <section className="flex flex-wrap items-end justify-between gap-5 px-2 pb-2 pt-7">
+        <div>
+          <div className="flex flex-wrap gap-2">
+            {precedent && <Link href={`/jour/${precedent}`} className={b}>← La veille</Link>}
+            <Link href={`/semaine/${s}`} className={b}>La semaine {libelleSemaine(s)}</Link>
+            {suivant && <Link href={`/jour/${suivant}`} className={b}>Le lendemain →</Link>}
+          </div>
+          <h1 className="d mt-4 text-[34px] leading-none sm:text-[52px]">{dateLongue(date)}</h1>
         </div>
+        <Parcours eds={eds} date={date} />
       </section>
-      <div className="mt-10"><Journee date={date} /></div>
+      <Journee date={date} />
     </main>
   );
 }

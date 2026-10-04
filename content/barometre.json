@@ -1,0 +1,804 @@
+{
+ "date": "2026-10-05",
+ "sondage": null,
+ "sources_attention": [
+  "Wikipedia"
+ ],
+ "polymarket_volume": 144071478.705598,
+ "poids": {
+  "polymarket": 0.6,
+  "attention": 0.4
+ },
+ "candidats": [
+  {
+   "nom": "Marine Le Pen",
+   "wiki": "Marine_Le_Pen",
+   "etiquette": "RN",
+   "couleur": "#0b1f4d",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 21.9,
+    "d": 6,
+    "parts": {
+     "Wikipedia": 4.7
+    }
+   },
+   "polymarket": {
+    "v": 44.9,
+    "d": 6.5
+   },
+   "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "candidate à la présidentielle",
+     "texte": "« J'ai totalement confiance en Jordan »",
+     "url": "https://www.ici.fr/infos/politique/marine-le-pen-maintient-totalement-sa-confiance-a-jordan-bardella-accuse-par-mediapart-d-ecrits-antisemites-6797013",
+     "source": "ICI",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance",
+     "href": "/politique/2026-10-04"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 100,
+    "attention": 22
+   },
+   "score": 69
+  },
+  {
+   "nom": "David Lisnard",
+   "wiki": "David_Lisnard",
+   "etiquette": "Nouvelle Énergie",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 79.7,
+    "d": 18.7,
+    "parts": {
+     "Wikipedia": 17
+    }
+   },
+   "polymarket": {
+    "v": 10.5,
+    "d": 2.4
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 23,
+    "attention": 80
+   },
+   "score": 46
+  },
+  {
+   "nom": "Jordan Bardella",
+   "wiki": "Jordan_Bardella",
+   "etiquette": "RN",
+   "couleur": "#0b1f4d",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 100,
+    "d": 79.3,
+    "parts": {
+     "Wikipedia": 21.3
+    }
+   },
+   "polymarket": {
+    "v": 0.5,
+    "d": -0.9
+   },
+   "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Jordan Bardella",
+     "contexte": "président du parti, jeudi 1er octobre",
+     "texte": "Il dénonce « des montages grossiers, d'obscures captures d'écran manipulables, reprenant des propos ignobles que je n'ai évidemment jamais tenus »",
+     "url": "https://www.ici.fr/infos/politique/marine-le-pen-maintient-totalement-sa-confiance-a-jordan-bardella-accuse-par-mediapart-d-ecrits-antisemites-6797013",
+     "source": "ICI",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance",
+     "href": "/politique/2026-10-04"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Jordan Bardella",
+     "contexte": "président du parti",
+     "texte": "« des montages grossiers, d'obscures captures d'écran manipulables »",
+     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
+     "source": "CNews",
+     "date": "2026-10-02",
+     "rubrique": "politique",
+     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
+     "href": "/politique/2026-10-02"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Jordan Bardella",
+     "contexte": "président du parti",
+     "texte": "« Après le 7 octobre 2023, j'ai marché dans les rues de Paris, et me suis rendu en Israël. Pas lui »",
+     "url": "https://lcp.fr/actualites/ecrits-antisemites-attribues-a-jordan-bardella-des-propos-gravissimes-declare-emmanuel",
+     "source": "LCP",
+     "date": "2026-10-01",
+     "rubrique": "politique",
+     "sujet": "Écrits attribués à Jordan Bardella : Macron demande au RN de « clarifier »",
+     "href": "/politique/2026-10-01"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Jordan Bardella",
+     "contexte": "président du parti",
+     "texte": "« Ces propos sont parfaitement délirants. Ils ne sont pas les miens. »",
+     "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
+     "source": "franceinfo",
+     "date": "2026-09-29",
+     "rubrique": "politique",
+     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+     "href": "/politique/2026-09-29"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Jordan Bardella",
+     "contexte": "président du parti",
+     "texte": "« Notre groupe au Sénat portera la voix des territoires oubliés, de la ruralité, et des maires trop souvent éloignés des grandes décisions prises à Paris. »",
+     "url": "https://www.franceinfo.fr/elections/senatoriales/la-droite-conserve-sa-majorite-le-rn-obtient-un-groupe-un-premier-elu-lfi-ce-qu-il-faut-retenir-des-resultats-des-elections-senatoriales-2026_8212337.html",
+     "source": "franceinfo",
+     "date": "2026-09-28",
+     "rubrique": "politique",
+     "sujet": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée",
+     "href": "/politique/2026-09-28"
+    }
+   ],
+   "nbDeclarations": 5,
+   "composantes": {
+    "polymarket": 1,
+    "attention": 100
+   },
+   "score": 41
+  },
+  {
+   "nom": "Jean-Luc Mélenchon",
+   "wiki": "Jean-Luc_Mélenchon",
+   "etiquette": "LFI",
+   "couleur": "#d7263d",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 46.9,
+    "d": 13.2,
+    "parts": {
+     "Wikipedia": 10
+    }
+   },
+   "polymarket": {
+    "v": 12.5,
+    "d": 0
+   },
+   "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat à la présidentielle, sur X",
+     "texte": "« On va avoir ce PS qui prépare son alliance avec le centre droit pendant encore sept mois ? »",
+     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html",
+     "source": "franceinfo",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
+     "href": "/politique/2026-10-04"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "sur son blog, samedi 3 octobre",
+     "texte": "La journée du 6 octobre est « un point de départ » qui « ouvre une série à coup sûr »",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html",
+     "source": "franceinfo",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Lycées : le gouvernement avance l'examen du projet de loi « casseur-payeur »",
+     "href": "/politique/2026-10-04"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "fondateur de LFI",
+     "texte": "Il dit appeler à des « méthodes de lutte » non violentes et accuse Emmanuel Macron d'« approuver les violences policières ».",
+     "url": "https://atlantico.fr/article/decryptage/blocus-des-lycees-jean-luc-melenchon-accuse-emmanuel-macron-d-approuver-les-violences-policieres",
+     "source": "Atlantico",
+     "date": "2026-10-01",
+     "rubrique": "politique",
+     "sujet": "Blocages de lycées : 356 établissements bloqués mercredi, bilans divergents",
+     "href": "/politique/2026-10-01"
+    },
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "RESPONSABLES POLITIQUES",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "LFI, en mai",
+     "texte": "Il avait réclamé que le groupe « passe à la caisse ». Les écologistes ont déposé une proposition de loi pour permettre à l'État d'entrer au capital. TotalEnergies met en avant le plafonnement de ses prix en station.",
+     "url": "https://www.tradingsat.com/totalenergies-FR0000120271/actualites/totalenergies-rachats-d-actions-augmentes-a-25-milliards-de-dollars-hausse-du-dividende-de-5-cash-qui-grimpe-de-10-milliards-totalenergies-se-pare-de-ses-plus-beaux-atours-pour-prolonger-son-bond-en-bourse-45-1170836.html",
+     "source": "BFM Bourse",
+     "date": "2026-09-29",
+     "rubrique": "economie",
+     "sujet": "TotalEnergies augmente ce qu'il reverse à ses actionnaires",
+     "href": "/economie/2026-09-29"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": null,
+     "texte": "« Le gouvernement Lecornu a ordonné la répression »",
+     "url": "https://www.franceinfo.fr/societe/education/surenchere-irresponsable-d-un-cote-repression-de-la-jeunesse-de-l-autre-le-gouvernement-et-les-elus-lfi-s-echarpent-sur-le-mouvement-de-blocus-dans-les-lycees_8213252.html",
+     "source": "franceinfo",
+     "date": "2026-09-28",
+     "rubrique": "politique",
+     "sujet": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement",
+     "href": "/politique/2026-09-28"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "sur X",
+     "texte": "L'élection de Gabriel Amard est le signe d'un « heureux augure pour 2027 »",
+     "url": "https://www.lyoncapitale.fr/actualite/senatoriales-dans-le-rhone-gabriel-amard-fait-entrer-lfi-au-senat-la-gauche-perd-un-siege",
+     "source": "Lyon Capitale",
+     "date": "2026-09-28",
+     "rubrique": "politique",
+     "sujet": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée",
+     "href": "/politique/2026-09-28"
+    }
+   ],
+   "nbDeclarations": 6,
+   "composantes": {
+    "polymarket": 28,
+    "attention": 47
+   },
+   "score": 36
+  },
+  {
+   "nom": "Édouard Philippe",
+   "wiki": "Édouard_Philippe",
+   "etiquette": "Horizons",
+   "couleur": "#1aa3b8",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 17.2,
+    "d": 3.6,
+    "parts": {
+     "Wikipedia": 3.7
+    }
+   },
+   "polymarket": {
+    "v": 18,
+    "d": -2.5
+   },
+   "declarations": [
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
+     "contexte": "candidat à la présidentielle",
+     "texte": "« Il est temps de parler des retraites sans faux semblants »",
+     "url": "https://actu.orange.fr/politique/age-de-depart-a-65-ans-45-annuites-de-cotisation-edouard-philippe-devoile-son-projet-de-reforme-des-retraites-CNT000002sbpVx.html",
+     "source": "AFP via Orange",
+     "date": "2026-09-30",
+     "rubrique": "politique",
+     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
+     "href": "/politique/2026-09-30"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 40,
+    "attention": 17
+   },
+   "score": 31
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 60.3,
+    "d": -19,
+    "parts": {
+     "Wikipedia": 12.8
+    }
+   },
+   "polymarket": {
+    "v": 1,
+    "d": 0.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 2,
+    "attention": 60
+   },
+   "score": 25
+  },
+  {
+   "nom": "Raphaël Glucksmann",
+   "wiki": "Raphaël_Glucksmann",
+   "etiquette": "Place publique",
+   "couleur": "#e0457b",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 42.3,
+    "d": -23.8,
+    "parts": {
+     "Wikipedia": 9
+    }
+   },
+   "polymarket": {
+    "v": 1.4,
+    "d": -0.8
+   },
+   "declarations": [
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "PLACE PUBLIQUE",
+     "qui": "Raphaël Glucksmann",
+     "contexte": "dans une conversation privée diffusée par Le Média",
+     "texte": "« On va pas rentrer dedans, on leur pisse dessus »",
+     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html",
+     "source": "franceinfo",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
+     "href": "/politique/2026-10-04"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 3,
+    "attention": 42
+   },
+   "score": 19
+  },
+  {
+   "nom": "Gabriel Attal",
+   "wiki": "Gabriel_Attal",
+   "etiquette": "Renaissance",
+   "couleur": "#f2a900",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 14.9,
+    "d": -6,
+    "parts": {
+     "Wikipedia": 3.2
+    }
+   },
+   "polymarket": {
+    "v": 2.1,
+    "d": 0.1
+   },
+   "declarations": [
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": null,
+     "texte": "« Il faut que Mediapart produise des preuves »",
+     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
+     "source": "CNews",
+     "date": "2026-10-02",
+     "rubrique": "politique",
+     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
+     "href": "/politique/2026-10-02"
+    },
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": "dirigeant de Renaissance",
+     "texte": "Il défend la suppression de l'âge légal et veut faire de la durée de cotisation le principal critère de départ, avec décote et surcote. Il s'oppose à la suspension de la réforme de 2023. Positions antérieures, pas de réaction relevée ce mardi.",
+     "url": "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans",
+     "source": "Public Sénat",
+     "date": "2026-09-30",
+     "rubrique": "politique",
+     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
+     "href": "/politique/2026-09-30"
+    }
+   ],
+   "nbDeclarations": 2,
+   "composantes": {
+    "polymarket": 5,
+    "attention": 15
+   },
+   "score": 9
+  },
+  {
+   "nom": "François Hollande",
+   "wiki": "François_Hollande",
+   "etiquette": "PS",
+   "couleur": "#e0457b",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 9.8,
+    "d": -5.7,
+    "parts": {
+     "Wikipedia": 2.1
+    }
+   },
+   "polymarket": {
+    "v": 3.6,
+    "d": -1.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 8,
+    "attention": 10
+   },
+   "score": 9
+  },
+  {
+   "nom": "Éric Zemmour",
+   "wiki": "Éric_Zemmour",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 20.2,
+    "d": -11.1,
+    "parts": {
+     "Wikipedia": 4.3
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": -0.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 2,
+    "attention": 20
+   },
+   "score": 9
+  },
+  {
+   "nom": "Bruno Retailleau",
+   "wiki": "Bruno_Retailleau",
+   "etiquette": "LR",
+   "couleur": "#1d4ed8",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 14.8,
+    "d": 0.4,
+    "parts": {
+     "Wikipedia": 3.2
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": -0.6
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 2,
+    "attention": 15
+   },
+   "score": 7
+  },
+  {
+   "nom": "Marine Tondelier",
+   "wiki": "Marine_Tondelier",
+   "etiquette": "Écologistes",
+   "couleur": "#1f9d55",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 12.1,
+    "d": -45.6,
+    "parts": {
+     "Wikipedia": 2.6
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null
+   },
+   "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
+     "texte": "Jordan Bardella « doit démissionner de toutes ses fonctions »",
+     "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
+     "source": "franceinfo",
+     "date": "2026-09-29",
+     "rubrique": "politique",
+     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+     "href": "/politique/2026-09-29"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 0,
+    "attention": 12
+   },
+   "score": 5
+  },
+  {
+   "nom": "François Ruffin",
+   "wiki": "François_Ruffin",
+   "etiquette": "Debout !",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 11.6,
+    "d": 3.4,
+    "parts": {
+     "Wikipedia": 2.5
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 0,
+    "attention": 12
+   },
+   "score": 5
+  },
+  {
+   "nom": "Dominique de Villepin",
+   "wiki": "Dominique_de_Villepin",
+   "etiquette": "La France humaniste",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 11.5,
+    "d": -10,
+    "parts": {
+     "Wikipedia": 2.5
+    }
+   },
+   "polymarket": {
+    "v": 0.2,
+    "d": -0.3
+   },
+   "declarations": [
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "LA FRANCE HUMANISTE",
+     "qui": "Dominique de Villepin",
+     "contexte": "ancien Premier ministre",
+     "texte": "« Si ces propos ont été tenus, ils sont inacceptables »",
+     "url": "https://www.franceinfo.fr/politique/si-ces-propos-ont-ete-tenus-ils-sont-inacceptables-denonce-dominique-de-villepin-apres-les-propos-antisemites-attribues-a-jordan-bardella_8214470.html",
+     "source": "franceinfo",
+     "date": "2026-09-29",
+     "rubrique": "politique",
+     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+     "href": "/politique/2026-09-29"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 0,
+    "attention": 12
+   },
+   "score": 5
+  },
+  {
+   "nom": "Fabien Roussel",
+   "wiki": "Fabien_Roussel",
+   "etiquette": "PCF",
+   "couleur": "#b0001e",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 3.8,
+    "d": -2.8,
+    "parts": {
+     "Wikipedia": 0.8
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null
+   },
+   "declarations": [
+    {
+     "fond": "#ffe6e9",
+     "couleur": "#b0001e",
+     "parti": "PCF",
+     "qui": "Fabien Roussel",
+     "contexte": "secrétaire national",
+     "texte": "« Les enfants spirituels de Le Pen ne changeront jamais. »",
+     "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
+     "source": "franceinfo",
+     "date": "2026-09-29",
+     "rubrique": "politique",
+     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+     "href": "/politique/2026-09-29"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "polymarket": 0,
+    "attention": 4
+   },
+   "score": 2
+  },
+  {
+   "nom": "Xavier Bertrand",
+   "wiki": "Xavier_Bertrand",
+   "etiquette": "LR",
+   "couleur": "#1d4ed8",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 2.6,
+    "d": -0.7,
+    "parts": {
+     "Wikipedia": 0.5
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "polymarket": 0,
+    "attention": 3
+   },
+   "score": 1
+  }
+ ],
+ "serie": [
+  {
+   "date": "2026-10-05",
+   "attention": {
+    "Jordan Bardella": 100,
+    "David Lisnard": 79.7,
+    "Sarah Knafo": 60.3,
+    "Jean-Luc Mélenchon": 46.9,
+    "Raphaël Glucksmann": 42.3,
+    "Marine Le Pen": 21.9,
+    "Éric Zemmour": 20.2,
+    "Édouard Philippe": 17.2,
+    "Gabriel Attal": 14.9,
+    "Bruno Retailleau": 14.8,
+    "Marine Tondelier": 12.1,
+    "François Ruffin": 11.6,
+    "Dominique de Villepin": 11.5,
+    "François Hollande": 9.8,
+    "Fabien Roussel": 3.8,
+    "Xavier Bertrand": 2.6
+   },
+   "polymarket": {
+    "Marine Le Pen": 44.9,
+    "Édouard Philippe": 18,
+    "Jean-Luc Mélenchon": 12.5,
+    "David Lisnard": 10.5,
+    "François Hollande": 3.6,
+    "Gabriel Attal": 2.1,
+    "Raphaël Glucksmann": 1.4,
+    "Bruno Retailleau": 1.1,
+    "Sarah Knafo": 1,
+    "Éric Zemmour": 0.9,
+    "Jordan Bardella": 0.5,
+    "Christine Lagarde": 0.5,
+    "Dominique de Villepin": 0.2,
+    "Sébastien Lecornu": 0.2,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Olivier Faure": 0.1,
+    "Jean Castex": 0.1,
+    "Karim Bouamrane": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Laurent Wauquiez": 0.1,
+    "Fabien Roussel": 0.1,
+    "Ségolène Royal": 0.1,
+    "François Asselineau": 0.1,
+    "Clémentine Autain": 0.1,
+    "Nicolas Dupont-Aignan": 0.1,
+    "Michel Barnier": 0.1,
+    "Valérie Pécresse": 0.1,
+    "François Bayrou": 0.1,
+    "Élisabeth Borne": 0.1,
+    "Yaël Braun-Pivet": 0.1,
+    "Gérald Darmanin": 0.1,
+    "Carole Delga": 0.1,
+    "Bernard Cazeneuve": 0.1,
+    "Manuel Bompard": 0.1,
+    "Mathilde Panot": 0.1,
+    "Juan Branco": 0.1,
+    "Clémence Guetté": 0.1,
+    "Lucie Castets": 0.1,
+    "Yannick Jadot": 0.1,
+    "François Baroin": 0.1,
+    "Marion Maréchal": 0.1
+   }
+  }
+ ]
+}
