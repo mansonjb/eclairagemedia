@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { Entete, Pied } from "@/components/ui";
+import BarreMobile from "@/components/BarreMobile";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
@@ -15,10 +16,11 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="fr" className={inter.variable}>
-      <body className="font-sans antialiased">
+      <body className="font-sans antialiased pb-24 md:pb-0">
         <Entete />
         {children}
         <Pied />
+        <BarreMobile />
       </body>
     </html>
   );

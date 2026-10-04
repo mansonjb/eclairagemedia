@@ -65,7 +65,8 @@ for (const file of fs.readdirSync(SRC).sort()) {
   html = html.replace(/src="assets\/logo-eclairage\.png"/g, 'src="/logo-eclairage.png"');
   fs.mkdirSync(path.join(OUT, rubrique), { recursive: true });
   fs.writeFileSync(path.join(OUT, rubrique, `${date}.html`), html);
-  index.push({ rubrique, date, ...extraire(html) });
+  const minutes = Math.max(2, Math.round(strip(html).split(" ").length / 220));
+  index.push({ rubrique, date, minutes, ...extraire(html) });
 }
 index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.localeCompare(b.rubrique)));
 fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, null, 1));
