@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import { Ico } from "@/components/Icones";
 
 // Barre de progression de lecture + barre d'actions flottante (copier, partager, haut de page)
 export function Progression({ couleur }: { couleur: string }) {
@@ -18,9 +19,9 @@ export function Actions({ titre }: { titre: string }) {
   const b = "flex h-10 min-w-10 items-center justify-center gap-1.5 whitespace-nowrap rounded-full px-3 text-[13px] font-bold text-white transition hover:bg-white/15";
   return (
     <div className="fixed bottom-24 right-4 z-40 flex sm:left-1/2 sm:right-auto sm:-translate-x-1/2 gap-1 rounded-full bg-encre/90 p-1.5 shadow-xl backdrop-blur-md md:bottom-6">
-      <button onClick={partager} className={b} aria-label="Partager">↗<span className="hidden sm:inline">Partager</span></button>
-      <button onClick={copier} className={b} aria-label="Copier le lien">{copie ? "✓" : "⧉"}<span className="hidden sm:inline">{copie ? "Lien copié" : "Copier le lien"}</span></button>
-      <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className={b} aria-label="Haut de page">↑</button>
+      <button onClick={partager} className={b} aria-label="Partager"><Ico n="partager" className="h-4 w-4" /><span className="hidden sm:inline">Partager</span></button>
+      <button onClick={copier} className={b} aria-label="Copier le lien"><Ico n={copie ? "ok" : "lien"} className="h-4 w-4" /><span className="hidden sm:inline">{copie ? "Lien copié" : "Copier le lien"}</span></button>
+      <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className={b} aria-label="Haut de page"><Ico n="haut" className="h-4 w-4" /></button>
     </div>
   );
 }
@@ -28,7 +29,7 @@ export function Actions({ titre }: { titre: string }) {
 // Bascule « L'essentiel » / « Édition complète »
 export function Bascule({ essentiel, complete }: { essentiel: React.ReactNode; complete: React.ReactNode }) {
   const [vue, setVue] = useState<"e" | "c">("e");
-  const b = (a: boolean) => `flex-1 rounded-full px-5 py-2.5 text-[14px] font-bold transition ${a ? "bg-encre text-white shadow" : "text-encre hover:bg-creme"}`;
+  const b = (a: boolean) => `flex-1 rounded-full px-5 py-2.5 text-[14px] font-semibold transition ${a ? "bg-encre text-white" : "text-encre hover:bg-fond"}`;
   return (
     <div>
       <div className="mx-auto flex max-w-md gap-1 rounded-full bg-white p-1 shadow-sm">

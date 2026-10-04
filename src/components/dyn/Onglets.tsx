@@ -11,11 +11,11 @@ export default function Onglets({ items }: { items: Item[] }) {
   const [a, b, c, ...suite] = liste;
   const [tout, setTout] = useState(false);
   const reste = tout ? suite : suite.slice(0, 6);
-  const onglet = (actif: boolean) => `flex shrink-0 items-center gap-1.5 rounded-full px-4 py-2 text-[14px] font-bold transition ${actif ? "bg-encre text-white shadow-md" : "bg-white text-encre hover:bg-creme"}`;
+  const onglet = (actif: boolean) => `flex shrink-0 items-center gap-1.5 rounded-full border px-4 py-2 text-[14px] font-semibold transition ${actif ? "border-encre bg-encre text-white" : "border-filet bg-white text-encre hover:border-encre/40"}`;
   return (
     <div>
       <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none]">
-        <button onClick={() => { setFiltre("tout"); setTout(false); }} className={onglet(filtre === "tout")}>✦ Pour vous</button>
+        <button onClick={() => { setFiltre("tout"); setTout(false); }} className={onglet(filtre === "tout")}>À la une</button>
         {ORDRE.map((r) => (
           <button key={r} onClick={() => { setFiltre(r); setTout(false); }} className={onglet(filtre === r)}>
             <span style={{ color: filtre === r ? "#ffd60a" : RUBRIQUES[r].couleur }}><Icone r={r} className="h-4 w-4" /></span>{RUBRIQUES[r].court}

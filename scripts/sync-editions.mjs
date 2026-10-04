@@ -4,6 +4,7 @@
 // Usage : EDITIONS_DIR=../revue-politique/editions npm run sync
 import fs from "node:fs";
 import path from "node:path";
+import { PAR_THEME, hache } from "./illustrations.mjs";
 
 const SRC = process.env.EDITIONS_DIR || path.resolve("../revue-politique/editions");
 const OUT = path.resolve("content/editions");
@@ -66,7 +67,19 @@ for (const file of fs.readdirSync(SRC).sort()) {
   fs.mkdirSync(path.join(OUT, rubrique), { recursive: true });
   fs.writeFileSync(path.join(OUT, rubrique, `${date}.html`), html);
   const minutes = Math.max(2, Math.round(strip(html).split(" ").length / 220));
-  index.push({ rubrique, date, minutes, ...extraire(html) });
+  const data = extraire(html);
+  // Pas de photo dans l'édition : illustration neutre de la banque, différente pour chaque sujet du jour
+  const banque = JSON.parse(fs.readFileSync(path.resolve("content/illustrations.json"), "utf8"));
+  const prises = new Set(data.sujets.map((s) => s.image));
+  for (const s of data.sujets) {
+    if (s.image) continue;
+    const t = PAR_THEME[rubrique];
+    const choix = [...(t[s.theme] || []), ...t._].filter((k) => banque[k] && !prises.has(banque[k].url));
+    const k = choix.length ? choix[hache(s.titre) % Math.min(choix.length, (t[s.theme] || []).length || choix.length)] : t._[0];
+    s.image = banque[k].url; s.legende = banque[k].legende + " (illustration)"; s.illustration = true;
+    prises.add(s.image);
+  }
+  index.push({ rubrique, date, minutes, ...data });
 }
 index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.localeCompare(b.rubrique)));
 fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, null, 1));

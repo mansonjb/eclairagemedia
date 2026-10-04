@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { RUBRIQUES, editions, trouver, htmlEdition, parRubrique, dateLongue, type RubriqueId } from "@/lib/editions";
 import { Tuiles, Eclairage, CeQueCaChange, Etiquette } from "@/components/ui";
-import { Icone } from "@/components/Icones";
+import { Icone, Ico } from "@/components/Icones";
 import { Progression, Actions, Bascule } from "@/components/dyn/Lecture";
 
 export const dynamicParams = false;
@@ -57,9 +57,10 @@ export default async function Edition({ params }: { params: Promise<{ rubrique: 
         {photo?.image ? <img src={photo.image} alt={photo.legende ?? ""} className="absolute inset-0 h-full w-full object-cover" />
           : <><span className="halo absolute -right-20 -top-20 h-96 w-96 rounded-full" /><span className="absolute right-10 top-10" style={{ color: R.couleur }}><Icone r={rubrique} className="h-40 w-40 opacity-15" /></span></>}
         <div className={`absolute inset-0 ${photo?.image ? "bg-gradient-to-t from-encre/85 via-encre/25 to-encre/10" : ""}`} />
+        {photo?.legende?.endsWith("(illustration)") && <span className="absolute bottom-4 right-4 z-10 rounded-full bg-black/35 px-2.5 py-1 text-[11px] font-medium text-white/90 backdrop-blur-sm">Illustration</span>}
         <div className="relative flex w-full flex-col justify-between p-5 sm:p-8">
           <div className="flex items-center justify-between gap-3">
-            <Link href={`/${rubrique}`} className="flex h-11 w-11 items-center justify-center rounded-full bg-white/90 text-lg font-bold text-encre ombre backdrop-blur hover:bg-white" aria-label="Retour à la rubrique">←</Link>
+            <Link href={`/${rubrique}`} className="flex h-11 w-11 items-center justify-center rounded-full bg-white/90 text-lg font-bold text-encre ombre backdrop-blur hover:bg-white" aria-label="Retour à la rubrique"><Ico n="gauche" className="h-5 w-5" /></Link>
             <span className="pastille bg-white/90 text-encre backdrop-blur">{e.minutes} min de lecture</span>
           </div>
           <div className="max-w-3xl">

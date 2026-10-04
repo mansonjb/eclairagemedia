@@ -25,6 +25,7 @@ export function CarteImage({ it, taille = "m" }: { it: Item; taille?: "s" | "m" 
   return (
     <Link href={it.href} className={`group relative flex overflow-hidden rounded-[24px] bg-encre ${h}`}>
       <div className="absolute inset-0"><Fond it={it} /></div>
+      {it.legende?.endsWith("(illustration)") && <span className="absolute right-3 top-4 z-10 rounded-full bg-black/35 px-2 py-0.5 text-[10.5px] font-medium text-white/90 backdrop-blur-sm">Illustration</span>}
       <div className="absolute inset-0 bg-gradient-to-t from-encre/75 via-encre/10 to-transparent" />
       <div className="absolute left-4 top-4 flex flex-wrap gap-1.5">
         <span className="pastille text-white" style={{ backgroundColor: R.couleur }}>{R.court}</span>

@@ -1,28 +1,25 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { RUBRIQUES, type RubriqueId } from "@/lib/editions";
 
-type P = { href: string; image: string; legende: string | null; rubrique: RubriqueId; theme: string };
+type P = { href: string; image: string; alt: string; label: string; couleur: string };
 
-// Collage de photos du jour, tuiles inclinées qui flottent doucement
-const places = [
-  "left-[2%] top-[4%] w-[46%] [--r:-6deg]",
-  "right-[2%] top-[0%] w-[44%] [--r:5deg]",
-  "left-[10%] bottom-[2%] w-[42%] [--r:4deg]",
-  "right-[6%] bottom-[8%] w-[40%] [--r:-4deg]",
-];
+// Mosaïque de l'accueil : trois photos neutres (lieux, objets), jamais de portrait
 export default function Collage({ photos }: { photos: P[] }) {
+  const [a, b, c] = photos;
+  const tuile = (p: P, cls: string) => (
+    <Link href={p.href} className={`group relative overflow-hidden rounded-[22px] bg-fond ombre ${cls}`}>
+      <img src={p.image} alt={p.alt} className="h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" />
+      <span className="absolute inset-0 bg-gradient-to-t from-encre/50 via-transparent to-transparent" />
+      <span className="absolute bottom-3 left-3 flex items-center gap-1.5 rounded-full bg-white/95 px-2.5 py-1 text-[11.5px] font-semibold text-encre">
+        <span className="h-1.5 w-1.5 rounded-full" style={{ backgroundColor: p.couleur }} />{p.label}
+      </span>
+    </Link>
+  );
   return (
-    <div className="relative mx-auto aspect-square w-full max-w-[480px]">
-      {photos.slice(0, 4).map((p, i) => (
-        <Link key={p.href + i} href={p.href}
-          className={`flotte group absolute overflow-hidden rounded-[22px] border-4 border-white bg-white ombre ${places[i]}`}
-          style={{ animationDelay: `${i * -1.7}s` }}>
-          <img src={p.image} alt={p.legende ?? ""} className="aspect-[4/5] w-full object-cover transition duration-700 group-hover:scale-105" />
-          <span className="pastille verre absolute bottom-2 left-2 text-white" style={{ backgroundColor: RUBRIQUES[p.rubrique].couleur + "cc" }}>{p.theme}</span>
-        </Link>
-      ))}
-      <span className="halo pointer-events-none absolute left-1/2 top-1/2 -z-0 h-80 w-80 -translate-x-1/2 -translate-y-1/2 rounded-full" />
+    <div className="grid h-[340px] grid-cols-2 grid-rows-2 gap-3 sm:h-[420px]">
+      {a && tuile(a, "row-span-2")}
+      {b && tuile(b, "")}
+      {c && tuile(c, "")}
     </div>
   );
 }

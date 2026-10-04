@@ -15,11 +15,13 @@ export function Pastille({ r, children, plein = true }: { r: RubriqueId; childre
 }
 
 // Grande pastille de section, comme « FRANCE » ou « À VENIR » dans la newsletter
-export function Section({ couleur = "#14142b", texte = "#fff", children }: { couleur?: string; texte?: string; children: React.ReactNode }) {
+// Titre de section : filet de couleur et titre (texte conservé pour compatibilité)
+export function Section({ couleur = "#14142b", children }: { couleur?: string; texte?: string; children: React.ReactNode }) {
   return (
-    <span className="inline-block rounded-full px-4 py-2 text-[13px] font-extrabold uppercase tracking-[0.06em]" style={{ backgroundColor: couleur, color: texte }}>
+    <h2 className="flex items-center gap-3 text-[20px] font-bold tracking-[-0.01em] text-encre sm:text-[22px]">
+      <span className="h-6 w-1.5 shrink-0 rounded-full" style={{ backgroundColor: couleur === "#ffd60a" ? "#e5b800" : couleur }} />
       {children}
-    </span>
+    </h2>
   );
 }
 
@@ -74,7 +76,12 @@ export function Pied() {
 // Photo du sujet, ou visuel de rubrique (pictogramme et thème) quand il n'y en a pas
 export function Visuel({ s, r, className = "aspect-[16/10]", grand = false }: { s: Sujet; r: RubriqueId; className?: string; grand?: boolean }) {
   if (s.image) {
-    return <img src={s.image} alt={s.legende ?? ""} loading={grand ? "eager" : "lazy"} className={`w-full rounded-[18px] object-cover ${className}`} />;
+    return (
+      <div className={`relative w-full overflow-hidden rounded-[18px] ${className}`}>
+        <img src={s.image} alt={s.legende ?? ""} loading={grand ? "eager" : "lazy"} className="h-full w-full object-cover" />
+        {s.legende?.endsWith("(illustration)") && <span className="absolute right-3 top-3 rounded-full bg-black/35 px-2 py-0.5 text-[10.5px] font-medium text-white/90 backdrop-blur-sm">Illustration</span>}
+      </div>
+    );
   }
   return (
     <div className={`relative w-full overflow-hidden rounded-[18px] ${className}`} style={{ backgroundColor: R[r].fond }} aria-hidden>

@@ -1,6 +1,7 @@
 "use client";
 import { useRef, useState } from "react";
 import { CarteImage, type Item } from "./CarteImage";
+import { Ico } from "@/components/Icones";
 
 // Carrousel « À la une » : défilement par glissement, points et flèches
 export default function Carrousel({ items }: { items: Item[] }) {
@@ -26,9 +27,9 @@ export default function Carrousel({ items }: { items: Item[] }) {
           ))}
         </div>
         <div className="flex gap-2">
-          {[["←", -1], ["→", 1]].map(([f, d]) => (
-            <button key={f} aria-label={d === -1 ? "Précédent" : "Suivant"} onClick={() => aller(Math.min(items.length - 1, Math.max(0, actif + (d as number))))}
-              className="h-10 w-10 rounded-full bg-white text-lg font-bold shadow-sm transition hover:bg-encre hover:text-white">{f}</button>
+          {([["gauche", -1], ["droite", 1]] as const).map(([n, d]) => (
+            <button key={n} aria-label={d === -1 ? "Précédent" : "Suivant"} onClick={() => aller(Math.min(items.length - 1, Math.max(0, actif + d)))}
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-filet bg-white transition hover:border-encre hover:bg-encre hover:text-white"><Ico n={n} className="h-4 w-4" /></button>
           ))}
         </div>
       </div>
