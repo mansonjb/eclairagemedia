@@ -16,14 +16,19 @@ export function GET() {
       <itunes:duration>${e.duree}</itunes:duration>
     </item>`).join("");
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Éclairage, la politique sans prérequis</title>
     <link>${SITE}/podcast</link>
+    <atom:link href="${SITE}/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <description>Chaque matin, l'actualité politique expliquée à deux voix, à partir de faits vérifiés et sourcés.</description>
+    <description>Chaque matin, l'actualité politique française expliquée à deux voix, en quelques minutes et sans prérequis, à partir de faits vérifiés et sourcés. Voix de synthèse générées par intelligence artificielle ; transcription de chaque épisode sur eclairagemedia.com.</description>
     <itunes:author>Éclairage</itunes:author>
-    <itunes:image href="${SITE}/logo-eclairage.png"/>
+    <itunes:owner><itunes:name>Éclairage</itunes:name><itunes:email>bonjour@eclairagemedia.com</itunes:email></itunes:owner>
+    <itunes:image href="${SITE}/podcast-cover.jpg"/>
+    <image><url>${SITE}/podcast-cover.jpg</url><title>Éclairage, la politique sans prérequis</title><link>${SITE}/podcast</link></image>
+    <itunes:type>episodic</itunes:type>
+    <copyright>Éclairage ${new Date().getFullYear()}</copyright>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>${items}
   </channel>
