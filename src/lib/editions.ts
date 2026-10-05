@@ -103,3 +103,12 @@ export function quizDuJour(date: string) {
   const m = (quizManuel as unknown as Record<string, { affirmation: string; reponse: boolean; explication: string; rubrique: string }>)[date];
   return m ? { ...m, href: `/${m.rubrique}/${date}` } : null;
 }
+
+// Les trois sujets principaux du jour : d'abord un sujet avec une vraie photo, puis deux autres rubriques
+export function unesDuJour(date: string): { e: Edition; s: Sujet }[] {
+  const eds = parDate(date).filter((e) => e.sujets[0]);
+  const vraie = (e: Edition) => !!e.sujets[0].image && !e.sujets[0].legende?.endsWith("(illustration)");
+  const lead = eds.find(vraie) ?? eds[0];
+  if (!lead) return [];
+  return [lead, ...eds.filter((e) => e !== lead)].slice(0, 3).map((e) => ({ e, s: e.sujets[0] }));
+}

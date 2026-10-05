@@ -1,7 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJour, type Edition, type Sujet } from "@/lib/editions";
+import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJour, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
 import Quiz from "@/components/dyn/Quiz";
+import { UneCarte } from "@/components/dyn/Une";
 import { Section, Pastille, CarteSujet, Meta } from "@/components/ui";
 import Lexique from "@/components/dyn/Lexique";
 import barometre from "../../content/barometre.json";
@@ -11,7 +12,7 @@ const coupe = (t: string | null, n: number) => (!t ? "" : t.length <= n ? t : t.
 const premierePhrase = (t: string | null) => (t ? (t.match(/^[^.!?]+[.!?]/)?.[0] ?? t) : "");
 
 // Le sujet principal : photo + chiffre, titre, trois étapes, appel à lire
-function Principal({ e, s }: { e: Edition; s: Sujet }) {
+function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
   const R = RUBRIQUES[e.rubrique];
   const lien = `/${e.rubrique}/${e.date}`;
   const etapes = [
@@ -20,10 +21,10 @@ function Principal({ e, s }: { e: Edition; s: Sujet }) {
     ["ET APRÈS ?", coupe(s.apres, 150)],
   ].filter(([, t]) => t);
   return (
-    <article className="carte flex flex-col p-3 lg:col-span-2">
+    <article className="carte flex w-full flex-col p-3">
       <div className="relative">
         <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9]" /></Link>
-        <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET 1 · {s.theme}</span>
+        <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET {k + 1} · {s.theme}</span>
         {s.legende?.endsWith("(illustration)") && <span className="absolute right-4 top-4 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
         {s.chiffres[0] && (
           <div className="absolute bottom-4 left-4 rounded-[18px] px-4 py-3 text-white" style={{ backgroundColor: R.couleur }}>
@@ -55,12 +56,14 @@ function Principal({ e, s }: { e: Edition; s: Sujet }) {
 
 export default function Journee({ date }: { date: string }) {
   const eds = parDate(date);
-  // Le sujet principal : le premier sujet de la première rubrique qui a une vraie photo
-  const lead = eds.find((e) => e.sujets[0]?.image && !e.sujets[0].legende?.endsWith("(illustration)")) ?? eds[0];
-  const autres = [
-    ...eds.filter((e) => e !== lead).map((e) => ({ e, s: e.sujets[0] })),
-    ...(lead?.sujets.slice(1, 2).map((s) => ({ e: lead, s })) ?? []),
-  ].filter((x) => x.s).slice(0, 6);
+  // Les trois sujets principaux (étapes 1/2/3 du haut de page), puis les autres
+  const unes = unesDuJour(date);
+  const lead = unes[0]?.e;
+  const pris = new Set(unes.map((u) => u.s));
+  const autres = eds.flatMap((e) => e.sujets.slice(0, 2).map((s) => ({ e, s })))
+    .filter((x) => !pris.has(x.s))
+    .sort((a, b) => a.s.n - b.s.n)
+    .slice(0, 6);
   const chiffre = chiffresDuJour(date).find((c) => c.rubrique !== lead?.rubrique) ?? chiffresDuJour(date)[0];
   const mots = lexiqueDuJour(date).slice(0, 6);
   const agenda = agendaDuJour(date).slice(0, 5);
@@ -84,7 +87,7 @@ export default function Journee({ date }: { date: string }) {
     <div className="flex flex-col gap-5">
       {lead && (
         <div className="grid gap-5 lg:grid-cols-3">
-          <Principal e={lead} s={lead.sujets[0]} />
+          <UneCarte cartes={unes.map(({ e, s }, k) => <Principal key={e.rubrique} e={e} s={s} k={k} />)} />
           <div className="flex min-w-0 flex-col gap-5">
             {quiz ? <Quiz q={quiz} /> : carteChiffre}
             <section className="carte flex flex-1 flex-col p-6" aria-label="En 30 secondes">
