@@ -40,7 +40,7 @@ function Jauge({ couleur, cle, pause }: { couleur: string; cle: string; pause: b
     style={{ backgroundColor: couleur, animation: `remplir ${DUREE}ms linear forwards`, animationPlayState: pause ? "paused" : "running" }} />;
 }
 
-export function UneEtapes({ etapes }: { etapes: { nom: string; couleur: string; theme: string }[] }) {
+export function UneEtapes({ etapes }: { etapes: { nom: string; titre: string; couleur: string; fond: string; rubrique: string; theme: string }[] }) {
   const { i, tour, pause, choisir, setPause } = useContext(Ctx);
   const n = etapes.length;
   const x = etapes[i] ?? etapes[0];
@@ -66,23 +66,26 @@ export function UneEtapes({ etapes }: { etapes: { nom: string; couleur: string; 
         </div>
         {fleche(1)}
       </div>
-      {/* Tablette et ordinateur : les trois sujets nommés */}
-      <ol onMouseEnter={() => setPause(true)} onMouseLeave={() => setPause(false)} aria-label="Les trois sujets principaux" className="hidden max-w-full gap-1.5 overflow-x-auto rounded-full bg-white p-1.5 [scrollbar-width:none] sm:flex">
+      {/* Tablette et ordinateur : trois cartes-onglets pleine largeur (numéro, rubrique, titre, jauge) */}
+      <div role="tablist" aria-label="Les trois sujets principaux" onMouseEnter={() => setPause(true)} onMouseLeave={() => setPause(false)}
+        className="hidden w-full grid-cols-3 gap-3 sm:grid">
         {etapes.map((e, k) => {
           const actif = k === i;
           return (
-            <li key={k} className="shrink-0">
-              <button type="button" onClick={() => choisir(k)} aria-pressed={actif} aria-controls="une"
-                className={`relative flex items-center gap-2 overflow-hidden rounded-full py-2 pl-2 pr-3.5 text-[14px] font-bold transition-colors ${actif ? "text-white" : "hover:bg-fond"}`}
-                style={actif ? { backgroundColor: e.couleur } : undefined}>
-                {actif && <span className="absolute inset-x-3 bottom-[3px] h-[3px] overflow-hidden rounded-full bg-white/25"><Jauge couleur="rgba(255,255,255,.85)" cle={`d${i}-${tour}`} pause={pause} /></span>}
-                <span className={`flex h-[26px] w-[26px] items-center justify-center rounded-full text-[13px] font-extrabold ${actif ? "bg-white" : "bg-fond"}`} style={actif ? { color: e.couleur } : undefined}>{k + 1}</span>
-                {e.nom}
-              </button>
-            </li>
+            <button key={k} type="button" role="tab" onClick={() => choisir(k)} aria-selected={actif} aria-controls="une"
+              className={`group relative flex min-w-0 items-start gap-3.5 overflow-hidden rounded-[22px] p-4 text-left transition ${actif ? "text-white shadow-lg" : "bg-white hover:-translate-y-0.5 hover:shadow-md"}`}
+              style={actif ? { backgroundColor: e.couleur } : undefined}>
+              <span className={`d flex h-11 w-11 shrink-0 items-center justify-center rounded-[14px] text-[22px] leading-none ${actif ? "bg-white" : ""}`}
+                style={actif ? { color: e.couleur } : { backgroundColor: e.fond, color: e.couleur }}>{k + 1}</span>
+              <span className="min-w-0 flex-1">
+                <span className={`block text-[11.5px] font-extrabold uppercase tracking-[0.06em] ${actif ? "text-white/80" : ""}`} style={actif ? undefined : { color: e.couleur }}>{e.rubrique} · {e.theme}</span>
+                <span className="mt-1 line-clamp-2 block text-[15px] font-bold leading-snug">{e.titre}</span>
+              </span>
+              {actif && <span className="absolute inset-x-4 bottom-2 h-[3px] overflow-hidden rounded-full bg-white/25"><Jauge couleur="rgba(255,255,255,.9)" cle={`d${i}-${tour}`} pause={pause} /></span>}
+            </button>
           );
         })}
-      </ol>
+      </div>
     </>
   );
 }

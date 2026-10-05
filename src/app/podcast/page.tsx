@@ -68,10 +68,9 @@ export default function Podcast() {
         </section>
       ))}
 
-      <section className="grid gap-4 md:grid-cols-3">
+      <section className="grid gap-4 md:grid-cols-2">
         {[
           ["Des faits vérifiés", "Le dialogue est écrit à partir de l'édition du jour, où chaque fait est confirmé par au moins trois sources. Rien n'est ajouté à l'oral."],
-          ["Deux voix de synthèse", "Léa et Paul sont des voix générées par intelligence artificielle (Gemini). La transcription de chaque épisode est publiée."],
           ["Chaque matin", "Un nouvel épisode avec l'édition politique, disponible ici, sur la page de l'édition et dans votre application de podcast."],
         ].map(([t, x]) => (
           <div key={t} className="rounded-[24px] bg-white p-5"><p className="d text-[19px]">{t}</p><p className="mt-1.5 text-[14.5px] leading-relaxed text-gris">{x}</p></div>
