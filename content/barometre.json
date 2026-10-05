@@ -81,8 +81,8 @@
     "d": -0.1
    },
    "attention": {
-    "v": 47.8,
-    "d": 14.4,
+    "v": 57.9,
+    "d": 18,
     "parts": {
      "Wikipedia": 5.5,
      "réseaux": 15.9,
@@ -219,9 +219,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 48
+    "attention": 58
    },
-   "score": 90
+   "score": 92
   },
   {
    "nom": "Jean-Luc Mélenchon",
@@ -237,13 +237,13 @@
    },
    "attention": {
     "v": 100,
-    "d": 2.1,
+    "d": 3.8,
     "parts": {
      "Wikipedia": 12,
      "réseaux": 41.2,
      "citations": 18.8,
      "abonnés": 14.2,
-     "YouTube": 46.6
+     "YouTube": 46.5
     }
    },
    "polymarket": {
@@ -461,13 +461,14 @@
     "d": -0.5
    },
    "attention": {
-    "v": 18,
-    "d": 6.3,
+    "v": 16.8,
+    "d": 5.6,
     "parts": {
      "Wikipedia": 6.6,
      "réseaux": 1.2,
      "citations": 10.4,
-     "abonnés": 0.9
+     "abonnés": 0.9,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -598,9 +599,9 @@
    "composantes": {
     "sondage": 50,
     "polymarket": 40,
-    "attention": 18
+    "attention": 17
    },
-   "score": 41
+   "score": 40
   },
   {
    "nom": "Gabriel Attal",
@@ -615,8 +616,8 @@
     "d": -0.1
    },
    "attention": {
-    "v": 16.8,
-    "d": -0.9,
+    "v": 21.5,
+    "d": 0,
     "parts": {
      "Wikipedia": 3.8,
      "réseaux": 8.2,
@@ -767,9 +768,9 @@
    "composantes": {
     "sondage": 32,
     "polymarket": 5,
-    "attention": 17
+    "attention": 22
    },
-   "score": 21
+   "score": 22
   },
   {
    "nom": "Raphaël Glucksmann",
@@ -784,13 +785,14 @@
     "d": -1.7
    },
    "attention": {
-    "v": 21.6,
-    "d": -9,
+    "v": 19.5,
+    "d": -8.9,
     "parts": {
      "Wikipedia": 12.4,
      "réseaux": 0.6,
      "citations": 9.6,
-     "abonnés": 0.4
+     "abonnés": 0.4,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -935,9 +937,9 @@
    "composantes": {
     "sondage": 31,
     "polymarket": 3,
-    "attention": 22
+    "attention": 20
    },
-   "score": 21
+   "score": 20
   },
   {
    "nom": "David Lisnard",
@@ -949,8 +951,8 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 62.4,
-    "d": 12.2,
+    "v": 57.7,
+    "d": 10.2,
     "parts": {
      "Wikipedia": 21.2,
      "réseaux": 11.5,
@@ -1066,39 +1068,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 24,
-    "attention": 62
-   },
-   "score": 20
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 91.3,
-    "d": -5.6,
-    "parts": {
-     "Wikipedia": 15.8,
-     "abonnés": 15.5,
-     "YouTube": 41.5
-    }
-   },
-   "polymarket": {
-    "v": 1.1,
-    "d": 0.1
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 91
+    "attention": 58
    },
    "score": 19
   },
@@ -1115,8 +1085,8 @@
     "d": 0.5
    },
    "attention": {
-    "v": 15.3,
-    "d": 5.7,
+    "v": 19,
+    "d": 7.3,
     "parts": {
      "Wikipedia": 3.6,
      "réseaux": 6,
@@ -1238,9 +1208,41 @@
    "composantes": {
     "sondage": 25,
     "polymarket": 3,
-    "attention": 15
+    "attention": 19
    },
-   "score": 16
+   "score": 17
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 81.5,
+    "d": -6.5,
+    "parts": {
+     "Wikipedia": 15.8,
+     "abonnés": 15.5,
+     "YouTube": 41.5
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": 0.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 82
+   },
+   "score": 17
   },
   {
    "nom": "François Hollande",
@@ -1255,13 +1257,14 @@
     "d": -2.4
    },
    "attention": {
-    "v": 10.4,
-    "d": 1.2,
+    "v": 9.1,
+    "d": 0.8,
     "parts": {
      "Wikipedia": 2.7,
      "réseaux": 1.7,
      "citations": 3.2,
-     "abonnés": 3.4
+     "abonnés": 3.4,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -1377,7 +1380,7 @@
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
-    "attention": 10
+    "attention": 9
    },
    "score": 14
   },
@@ -1394,8 +1397,8 @@
     "d": 0.8
    },
    "attention": {
-    "v": 15.6,
-    "d": -0.7,
+    "v": 16,
+    "d": -0.5,
     "parts": {
      "Wikipedia": 5.2,
      "réseaux": 6.1,
@@ -1534,13 +1537,14 @@
     "d": 0.3
    },
    "attention": {
-    "v": 6.3,
-    "d": -31.7,
+    "v": 6,
+    "d": -31.3,
     "parts": {
      "Wikipedia": 2.9,
      "réseaux": 2.2,
      "citations": 1,
-     "abonnés": 0.6
+     "abonnés": 0.6,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -1688,13 +1692,14 @@
     "d": -0.2
    },
    "attention": {
-    "v": 6,
-    "d": 1.2,
+    "v": 5.3,
+    "d": 0.8,
     "parts": {
      "Wikipedia": 1.2,
      "réseaux": 1.5,
      "citations": 1.5,
-     "abonnés": 2.2
+     "abonnés": 2.2,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -1825,7 +1830,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 6
+    "attention": 5
    },
    "score": 5
   },
@@ -1842,13 +1847,14 @@
     "d": -1
    },
    "attention": {
-    "v": 7.8,
-    "d": -5.9,
+    "v": 6.6,
+    "d": -4,
     "parts": {
      "Wikipedia": 3.5,
      "réseaux": 0.2,
      "citations": 2.7,
-     "abonnés": 1.8
+     "abonnés": 1.8,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -1979,9 +1985,9 @@
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
-    "attention": 8
+    "attention": 7
    },
-   "score": 5
+   "score": 4
   },
   {
    "nom": "François Ruffin",
@@ -1993,8 +1999,8 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 6.6,
-    "d": 0.8,
+    "v": 7.9,
+    "d": 1,
     "parts": {
      "Wikipedia": 2.9,
      "réseaux": 3.8,
@@ -2116,9 +2122,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 7
+    "attention": 8
    },
-   "score": 1
+   "score": 2
   },
   {
    "nom": "Xavier Bertrand",
@@ -2130,13 +2136,14 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.2,
+    "v": 1.1,
     "d": 0.1,
     "parts": {
      "Wikipedia": 0.7,
      "réseaux": 0,
      "citations": 0.6,
-     "abonnés": 0
+     "abonnés": 0,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -2262,20 +2269,20 @@
    "date": "2026-10-05",
    "attention": {
     "Jean-Luc Mélenchon": 100,
-    "Sarah Knafo": 91.3,
-    "David Lisnard": 62.4,
-    "Marine Le Pen": 47.8,
-    "Raphaël Glucksmann": 21.6,
-    "Édouard Philippe": 18,
-    "Gabriel Attal": 16.8,
-    "Éric Zemmour": 15.6,
-    "Bruno Retailleau": 15.3,
-    "François Hollande": 10.4,
-    "Dominique de Villepin": 7.8,
-    "François Ruffin": 6.6,
-    "Marine Tondelier": 6.3,
-    "Fabien Roussel": 6,
-    "Xavier Bertrand": 1.2
+    "Sarah Knafo": 81.5,
+    "Marine Le Pen": 57.9,
+    "David Lisnard": 57.7,
+    "Gabriel Attal": 21.5,
+    "Raphaël Glucksmann": 19.5,
+    "Bruno Retailleau": 19,
+    "Édouard Philippe": 16.8,
+    "Éric Zemmour": 16,
+    "François Hollande": 9.1,
+    "François Ruffin": 7.9,
+    "Dominique de Villepin": 6.6,
+    "Marine Tondelier": 6,
+    "Fabien Roussel": 5.3,
+    "Xavier Bertrand": 1.1
    },
    "polymarket": {
     "Marine Le Pen": 44.9,
