@@ -30,7 +30,7 @@ export default function Barometre() {
       note: "Une photographie à une date donnée, pas une prédiction." },
     { titre: "L'attention en ligne", couleur: "#ff6a3d", fond: "#ffe4d9", texte: "Indice sur 100 qui combine, sur 7 jours, les consultations Wikipedia, l'engagement sur ses posts, ses citations par les journalistes et les médias, les abonnés gagnés sur les réseaux et les vues de ses vidéos YouTube.",
       note: "Mesure le bruit, pas le soutien : une polémique fait aussi monter l'indice." },
-    { titre: "Les marchés de prédiction", couleur: "#14142b", fond: "#eef0f4", texte: `Probabilité implicite des paris Polymarket${b.polymarket_volume ? `, ${Math.round(b.polymarket_volume / 1e6)} millions de dollars engagés` : ""}.`,
+    { titre: "Les marchés de prédiction", couleur: "#14142b", fond: "#ffffff", texte: `Probabilité implicite des paris Polymarket${b.polymarket_volume ? `, ${Math.round(b.polymarket_volume / 1e6)} millions de dollars engagés` : ""}.`,
       note: "Reflète l'avis des parieurs, pas celui des électeurs." },
   ];
   return (
