@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { RUBRIQUES, dateLongue, type Sujet, type Edition as Ed } from "@/lib/editions";
+import { Credit } from "@/components/ui";
 
 const etiquette = "text-[13px] font-extrabold tracking-[0.06em]";
 // classes statiques (Tailwind) selon le nombre d'éléments, pour que chaque ligne remplisse toute la largeur
@@ -26,7 +27,10 @@ export default function Bento({ e, s }: { e: Ed; s: Sujet }) {
         </div>
         <div className="relative min-h-[280px] overflow-hidden rounded-[24px] bg-white">
           {s.image && <img src={s.image} alt={s.legende ?? ""} className="absolute inset-0 h-full w-full object-cover" />}
-          {s.legende && <span className="absolute bottom-3 left-3 max-w-[85%] rounded-full bg-black/45 px-3 py-1 text-[11px] font-semibold text-white backdrop-blur-sm">{s.legende}</span>}
+          <div className="absolute inset-x-3 bottom-3 flex flex-wrap items-end justify-between gap-2">
+            {s.legende && <span className="max-w-[85%] rounded-full bg-black/45 px-3 py-1 text-[11px] font-semibold text-white backdrop-blur-sm">{s.legende}</span>}
+            <Credit s={s} className="max-w-full truncate" />
+          </div>
         </div>
       </div>
 

@@ -5,7 +5,7 @@ import indexData from "../../content/index.json";
 export type Sujet = {
   n: number; theme: string; titre: string; image: string | null; legende: string | null;
   chapeau: string | null; eclairage: string | null; change: string | null; chiffres: { valeur: string; legende: string }[];
-  passe: string | null; points: string[]; explication?: string | null; chronologie?: { quand: string; texte: string }[]; apres: string | null; sources: { url: string; nom: string }[];
+  passe: string | null; points: string[]; credit?: { auteur: string; licence: string; licence_url: string; page: string }; explication?: string | null; chronologie?: { quand: string; texte: string }[]; apres: string | null; sources: { url: string; nom: string }[];
   cartes: { fond: string; couleur: string; parti: string; qui: string; contexte: string | null; texte: string; url: string; source: string }[];
 };
 export type Edition = { rubrique: RubriqueId; date: string; minutes: number; sujets: Sujet[]; lexique: { terme: string; definition: string }[]; agenda: { jour: string; mois: string; texte: string }[];

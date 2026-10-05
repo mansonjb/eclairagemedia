@@ -3,7 +3,7 @@ import Link from "next/link";
 import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
 import QuizPile from "@/components/dyn/QuizPile";
 import { UneCarte } from "@/components/dyn/Une";
-import { Section, Pastille, CarteSujet, Meta } from "@/components/ui";
+import { Section, Pastille, CarteSujet, Meta, Credit } from "@/components/ui";
 import Lexique from "@/components/dyn/Lexique";
 import barometre from "../../content/barometre.json";
 import type { Candidat } from "@/components/dyn/Candidats";
@@ -25,6 +25,7 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
       <div className="relative">
         <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9]" /></Link>
         <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET {k + 1} · {s.theme}</span>
+        <Credit s={s} className="absolute bottom-4 right-4 hidden max-w-[40%] truncate sm:block" />
         {s.legende?.endsWith("(illustration)") && <span className="absolute right-4 top-4 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
         {s.chiffres[0] && (
           <div className="absolute bottom-4 left-4 rounded-[18px] px-4 py-3 text-white" style={{ backgroundColor: R.couleur }}>

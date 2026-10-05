@@ -23,11 +23,23 @@ export function Section({ children, lien, id }: { children: React.ReactNode; lie
   );
 }
 
+// Crédit photo (auteur, licence, lien vers la fiche Wikimedia Commons), obligatoire pour les licences CC BY / BY-SA
+export function Credit({ s, className = "" }: { s: Sujet; className?: string }) {
+  if (!s.credit) return null;
+  const c = s.credit;
+  return (
+    <a href={c.page} target="_blank" rel="noopener noreferrer" className={`rounded-full bg-black/45 px-2.5 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm hover:bg-black/60 ${className}`} title={`${s.legende ?? ""} · Photo : ${c.auteur} · ${c.licence}`}>
+      © {c.auteur || "Wikimedia Commons"} · {c.licence}
+    </a>
+  );
+}
+
 export function Visuel({ s, className = "aspect-[16/10]" }: { s: Sujet; r?: RubriqueId; className?: string; grand?: boolean }) {
   return (
     <div className={`relative overflow-hidden rounded-[20px] bg-filet ${className}`}>
       {s.image && <img src={s.image} alt={s.legende ?? ""} loading="lazy" className="h-full w-full object-cover" />}
       {s.legende?.endsWith("(illustration)") && <span className="absolute bottom-3 right-3 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
+      <Credit s={s} className="absolute bottom-2 right-2 max-w-[80%] truncate" />
     </div>
   );
 }

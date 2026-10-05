@@ -89,6 +89,12 @@ for (const file of fs.readdirSync(SRC).sort()) {
   fs.writeFileSync(path.join(OUT, rubrique, `${date}.html`), html);
   const minutes = Math.max(2, Math.round(strip(html).split(" ").length / 220));
   const data = extraire(html);
+  // Photos choisies et vérifiées pour le site (content/photos.json, clé « rubrique/date/n ») : priment sur celles de l'email
+  const photos = fs.existsSync(path.resolve("content/photos.json")) ? JSON.parse(fs.readFileSync(path.resolve("content/photos.json"), "utf8")) : {};
+  for (const s of data.sujets) {
+    const p = photos[`${rubrique}/${date}/${s.n}`];
+    if (p) { s.image = p.url; s.legende = p.legende; s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page }; }
+  }
   // Pas de photo dans l'édition : illustration neutre de la banque, différente pour chaque sujet du jour
   const banque = JSON.parse(fs.readFileSync(path.resolve("content/illustrations.json"), "utf8"));
   const prises = new Set(data.sujets.map((s) => s.image));
