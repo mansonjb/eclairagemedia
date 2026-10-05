@@ -175,3 +175,31 @@ if (fs.existsSync(fCand)) {
     polymarket_volume: dernier.polymarket_volume || null, poids: Object.fromEntries(actives.map((k) => [k, POIDS[k] / somme])), candidats, serie }, insecable, 1));
   console.log(`baromètre : ${candidats.length} personnalités, ${candidats.reduce((n, c) => n + c.nbDeclarations, 0)} déclarations, relevé du ${dernier.date || "—"}`);
 }
+
+// ---------- Podcast : MP3 générés par la routine (dépôt des éditions, dossier podcasts/) ----------
+{
+  const dossier = path.join(path.dirname(SRC), "podcasts");
+  const pub = path.resolve("public/podcasts");
+  const episodes = [];
+  if (fs.existsSync(dossier)) {
+    fs.mkdirSync(pub, { recursive: true });
+    for (const f of fs.readdirSync(dossier).filter((x) => /^[a-z]+-\d{4}-\d{2}-\d{2}\.mp3$/.test(x)).sort().reverse()) {
+      const [, rubrique, date] = f.match(/^([a-z]+)-(\d{4}-\d{2}-\d{2})\.mp3$/);
+      const src = path.join(dossier, f);
+      const taille = fs.statSync(src).size;
+      if (!fs.existsSync(path.join(pub, f)) || fs.statSync(path.join(pub, f)).size !== taille) fs.copyFileSync(src, path.join(pub, f));
+      const dlg = path.join(dossier, "dialogues", f.replace(".mp3", ".json"));
+      const d = fs.existsSync(dlg) ? JSON.parse(fs.readFileSync(dlg, "utf8")) : {};
+      const ed = index.find((e) => e.rubrique === rubrique && e.date === date);
+      episodes.push({
+        rubrique, date, url: `/podcasts/${f}`, taille,
+        duree: Math.round((taille * 8) / 64000), // MP3 à 64 kbit/s
+        titre: d.titre || `Éclairage, ${date}`,
+        sujets: ed ? ed.sujets.map((s) => ({ n: s.n, titre: s.titre })) : [],
+        transcription: (d.repliques || []).map((r) => ({ qui: r.qui === "Lea" ? "Léa" : r.qui, texte: r.texte })),
+      });
+    }
+  }
+  fs.writeFileSync(path.resolve("content/podcasts.json"), JSON.stringify(episodes, insecable, 1));
+  console.log(`podcast : ${episodes.length} épisode(s)`);
+}

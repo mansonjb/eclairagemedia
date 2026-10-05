@@ -4,10 +4,13 @@ import { Section } from "@/components/ui";
 import Journee from "@/components/Journee";
 import Parcours from "@/components/Parcours";
 import { UneProvider } from "@/components/dyn/Une";
+import Lecteur from "@/components/dyn/Lecteur";
+import { dernier, minutes } from "@/lib/podcasts";
 
 export default function Accueil() {
   const [aujourdhui, ...avant] = dates();
   const semaine = semaineDe(aujourdhui);
+  const ep = dernier();
   return (
     <main className="flex flex-col gap-5"><UneProvider n={unesDuJour(aujourdhui).length}>
       <section className="flex flex-wrap items-end justify-between gap-4 px-2 pb-2 pt-5 sm:gap-5 sm:pt-7">
@@ -18,6 +21,15 @@ export default function Accueil() {
         <Parcours date={aujourdhui} />
       </section>
 
+      {ep && (
+        <section className="flex flex-col gap-2">
+          <div className="flex flex-wrap items-center justify-between gap-2 px-2">
+            <p className="text-[13px] font-extrabold tracking-[0.06em]">ÉCOUTER L&apos;ÉDITION POLITIQUE{ep.date === aujourdhui ? " DU JOUR" : ""} · {minutes(ep.duree)}</p>
+            <Link href={`/ecouter/${ep.date}`} className="text-[13px] font-bold underline underline-offset-4">Sujets et transcription</Link>
+          </div>
+          <Lecteur src={ep.url} titre={ep.titre} duree={ep.duree} />
+        </section>
+      )}
       <Journee date={aujourdhui} /></UneProvider>
 
       <Section lien={{ href: `/semaine/${semaine}`, texte: `La semaine ${libelleSemaine(semaine)}` }}>Les jours précédents</Section>

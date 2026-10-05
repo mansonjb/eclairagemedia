@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { RUBRIQUES, editions, trouver, htmlEdition, parRubrique, parDate, dateLongue, type RubriqueId } from "@/lib/editions";
 import { Pastille, CarteSujet } from "@/components/ui";
+import Lecteur from "@/components/dyn/Lecteur";
+import { episode } from "@/lib/podcasts";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => editions.map((e) => ({ rubrique: e.rubrique, date: e.date }));
@@ -31,6 +33,7 @@ export default async function Edition({ params }: { params: Promise<{ rubrique: 
         <p className="text-[15px] font-semibold text-gris">{dateLongue(date)} · {e.sujets.length} sujets · {e.minutes} min de lecture</p>
         <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">{R.nom}</h1>
       </section>
+      {(() => { const ep = episode(date, rubrique); return ep ? <Lecteur src={ep.url} titre={`Écouter : ${ep.titre}`} duree={ep.duree} /> : null; })()}
       <div className="grid items-stretch gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {e.sujets.map((s) => <CarteSujet key={s.n} e={e} s={s} />)}
       </div>
