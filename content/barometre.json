@@ -58,7 +58,8 @@
   "Wikipedia",
   "réseaux",
   "citations",
-  "abonnés"
+  "abonnés",
+  "YouTube"
  ],
  "polymarket_volume": 144104976.94650498,
  "poids": {
@@ -80,13 +81,14 @@
     "d": -0.1
    },
    "attention": {
-    "v": 71.2,
-    "d": 22.2,
+    "v": 47.8,
+    "d": 14.4,
     "parts": {
      "Wikipedia": 5.5,
      "réseaux": 15.9,
      "citations": 31.2,
-     "abonnés": 8.8
+     "abonnés": 8.8,
+     "YouTube": 2.1
     }
    },
    "polymarket": {
@@ -217,9 +219,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 71
+    "attention": 48
    },
-   "score": 94
+   "score": 90
   },
   {
    "nom": "Jean-Luc Mélenchon",
@@ -235,12 +237,13 @@
    },
    "attention": {
     "v": 100,
-    "d": 3.2,
+    "d": 2.1,
     "parts": {
      "Wikipedia": 12,
      "réseaux": 41.2,
      "citations": 18.8,
-     "abonnés": 14.2
+     "abonnés": 14.2,
+     "YouTube": 46.6
     }
    },
    "polymarket": {
@@ -458,8 +461,8 @@
     "d": -0.5
    },
    "attention": {
-    "v": 22.2,
-    "d": 7.8,
+    "v": 18,
+    "d": 6.3,
     "parts": {
      "Wikipedia": 6.6,
      "réseaux": 1.2,
@@ -595,139 +598,9 @@
    "composantes": {
     "sondage": 50,
     "polymarket": 40,
-    "attention": 22
+    "attention": 18
    },
    "score": 41
-  },
-  {
-   "nom": "David Lisnard",
-   "wiki": "David_Lisnard",
-   "etiquette": "Nouvelle Énergie",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 91,
-    "d": 18.7,
-    "parts": {
-     "Wikipedia": 21.2,
-     "réseaux": 11.5,
-     "citations": 1.5,
-     "abonnés": 44.3
-    }
-   },
-   "polymarket": {
-    "v": 10.6,
-    "d": 2.3
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/david-lisnard/",
-    "phase": {
-     "note": "82 %",
-     "libelle": "en phase · Proche",
-     "texte": "Ses publications parlent d'abord d'économie et finances (41 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 13,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 181 posts"
-     },
-     {
-      "rang": 10,
-      "libelle": "sur 34 en engagement",
-      "valeur": "6 239 201"
-     },
-     {
-      "rang": 10,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "2 861"
-     },
-     {
-      "rang": 9,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "112 249 645"
-     },
-     {
-      "rang": 20,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "320 107 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "3 juillet 2026 · Instagram",
-      "texte": "Les maires sont aujourd’hui obligés d’attribuer des logements sociaux à des familles de délinquants. Nous sommes donc le seul pays au monde à subventionner la délinquance. David…",
-      "chiffres": "115 374 j'aime · 5 759 commentaires · 0 partages · 3 283 051 vues",
-      "url": "https://instagram.com/p/DaU9i7bgaOs"
-     },
-     {
-      "quand": "15 septembre 2026 · Instagram",
-      "texte": "Décryptons le baratin techno-politicien",
-      "chiffres": "94 812 engagements",
-      "url": "https://www.instagram.com/p/DdUcT2uNbCm"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "1 237",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "218",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "15",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "31",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "1 884",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 242 politiques"
-     },
-     {
-      "valeur": "113",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 48 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Benedetti Arnaud",
-      "role": "Journaliste",
-      "posts": "33 posts"
-     },
-     {
-      "nom": "Yves Bourdillon",
-      "role": "Journaliste",
-      "posts": "15 posts"
-     },
-     {
-      "nom": "Jérôme Godefroy",
-      "role": "Journaliste",
-      "posts": "11 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 24,
-    "attention": 91
-   },
-   "score": 25
   },
   {
    "nom": "Gabriel Attal",
@@ -742,13 +615,14 @@
     "d": -0.1
    },
    "attention": {
-    "v": 25.4,
-    "d": -1.3,
+    "v": 16.8,
+    "d": -0.9,
     "parts": {
      "Wikipedia": 3.8,
      "réseaux": 8.2,
      "citations": 8.9,
-     "abonnés": 1
+     "abonnés": 1,
+     "YouTube": 0.4
     }
    },
    "polymarket": {
@@ -893,9 +767,9 @@
    "composantes": {
     "sondage": 32,
     "polymarket": 5,
-    "attention": 25
+    "attention": 17
    },
-   "score": 23
+   "score": 21
   },
   {
    "nom": "Raphaël Glucksmann",
@@ -910,8 +784,8 @@
     "d": -1.7
    },
    "attention": {
-    "v": 26.6,
-    "d": -11.1,
+    "v": 21.6,
+    "d": -9,
     "parts": {
      "Wikipedia": 12.4,
      "réseaux": 0.6,
@@ -1061,9 +935,172 @@
    "composantes": {
     "sondage": 31,
     "polymarket": 3,
-    "attention": 27
+    "attention": 22
    },
-   "score": 22
+   "score": 21
+  },
+  {
+   "nom": "David Lisnard",
+   "wiki": "David_Lisnard",
+   "etiquette": "Nouvelle Énergie",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 62.4,
+    "d": 12.2,
+    "parts": {
+     "Wikipedia": 21.2,
+     "réseaux": 11.5,
+     "citations": 1.5,
+     "abonnés": 44.3,
+     "YouTube": 4.5
+    }
+   },
+   "polymarket": {
+    "v": 10.6,
+    "d": 2.3
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/david-lisnard/",
+    "phase": {
+     "note": "82 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (41 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 13,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "2 181 posts"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 239 201"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "2 861"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "112 249 645"
+     },
+     {
+      "rang": 20,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "320 107 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "3 juillet 2026 · Instagram",
+      "texte": "Les maires sont aujourd’hui obligés d’attribuer des logements sociaux à des familles de délinquants. Nous sommes donc le seul pays au monde à subventionner la délinquance. David…",
+      "chiffres": "115 374 j'aime · 5 759 commentaires · 0 partages · 3 283 051 vues",
+      "url": "https://instagram.com/p/DaU9i7bgaOs"
+     },
+     {
+      "quand": "15 septembre 2026 · Instagram",
+      "texte": "Décryptons le baratin techno-politicien",
+      "chiffres": "94 812 engagements",
+      "url": "https://www.instagram.com/p/DdUcT2uNbCm"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 237",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "218",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "15",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "31",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "1 884",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 242 politiques"
+     },
+     {
+      "valeur": "113",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 48 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Benedetti Arnaud",
+      "role": "Journaliste",
+      "posts": "33 posts"
+     },
+     {
+      "nom": "Yves Bourdillon",
+      "role": "Journaliste",
+      "posts": "15 posts"
+     },
+     {
+      "nom": "Jérôme Godefroy",
+      "role": "Journaliste",
+      "posts": "11 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 24,
+    "attention": 62
+   },
+   "score": 20
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 91.3,
+    "d": -5.6,
+    "parts": {
+     "Wikipedia": 15.8,
+     "abonnés": 15.5,
+     "YouTube": 41.5
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": 0.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 91
+   },
+   "score": 19
   },
   {
    "nom": "Bruno Retailleau",
@@ -1078,13 +1115,14 @@
     "d": 0.5
    },
    "attention": {
-    "v": 23.6,
-    "d": 8.7,
+    "v": 15.3,
+    "d": 5.7,
     "parts": {
      "Wikipedia": 3.6,
      "réseaux": 6,
      "citations": 8.5,
-     "abonnés": 2.3
+     "abonnés": 2.3,
+     "YouTube": 0
     }
    },
    "polymarket": {
@@ -1200,9 +1238,9 @@
    "composantes": {
     "sondage": 25,
     "polymarket": 3,
-    "attention": 24
+    "attention": 15
    },
-   "score": 18
+   "score": 16
   },
   {
    "nom": "François Hollande",
@@ -1217,8 +1255,8 @@
     "d": -2.4
    },
    "attention": {
-    "v": 12.9,
-    "d": 1.4,
+    "v": 10.4,
+    "d": 1.2,
     "parts": {
      "Wikipedia": 2.7,
      "réseaux": 1.7,
@@ -1339,40 +1377,9 @@
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
-    "attention": 13
+    "attention": 10
    },
-   "score": 15
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 72.5,
-    "d": -10.4,
-    "parts": {
-     "Wikipedia": 15.8,
-     "abonnés": 15.5
-    }
-   },
-   "polymarket": {
-    "v": 1.1,
-    "d": 0.1
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 73
-   },
-   "score": 15
+   "score": 14
   },
   {
    "nom": "Éric Zemmour",
@@ -1387,13 +1394,14 @@
     "d": 0.8
    },
    "attention": {
-    "v": 19,
-    "d": -1.1,
+    "v": 15.6,
+    "d": -0.7,
     "parts": {
      "Wikipedia": 5.2,
      "réseaux": 6.1,
      "citations": 1.2,
-     "abonnés": 3.8
+     "abonnés": 3.8,
+     "YouTube": 4.4
     }
    },
    "polymarket": {
@@ -1509,7 +1517,7 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 2,
-    "attention": 19
+    "attention": 16
    },
    "score": 10
   },
@@ -1526,8 +1534,8 @@
     "d": 0.3
    },
    "attention": {
-    "v": 7.7,
-    "d": -39.1,
+    "v": 6.3,
+    "d": -31.7,
     "parts": {
      "Wikipedia": 2.9,
      "réseaux": 2.2,
@@ -1663,7 +1671,7 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
-    "attention": 8
+    "attention": 6
    },
    "score": 7
   },
@@ -1680,8 +1688,8 @@
     "d": -0.2
    },
    "attention": {
-    "v": 7.4,
-    "d": 1.5,
+    "v": 6,
+    "d": 1.2,
     "parts": {
      "Wikipedia": 1.2,
      "réseaux": 1.5,
@@ -1817,7 +1825,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 7
+    "attention": 6
    },
    "score": 5
   },
@@ -1834,8 +1842,8 @@
     "d": -1
    },
    "attention": {
-    "v": 9.6,
-    "d": -7.3,
+    "v": 7.8,
+    "d": -5.9,
     "parts": {
      "Wikipedia": 3.5,
      "réseaux": 0.2,
@@ -1971,7 +1979,7 @@
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
-    "attention": 10
+    "attention": 8
    },
    "score": 5
   },
@@ -1985,13 +1993,14 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 9.4,
-    "d": 1.3,
+    "v": 6.6,
+    "d": 0.8,
     "parts": {
      "Wikipedia": 2.9,
      "réseaux": 3.8,
      "citations": 0.9,
-     "abonnés": 0.6
+     "abonnés": 0.6,
+     "YouTube": 0.6
     }
    },
    "polymarket": {
@@ -2107,9 +2116,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 9
+    "attention": 7
    },
-   "score": 2
+   "score": 1
   },
   {
    "nom": "Xavier Bertrand",
@@ -2121,7 +2130,7 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.5,
+    "v": 1.2,
     "d": 0.1,
     "parts": {
      "Wikipedia": 0.7,
@@ -2243,7 +2252,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 2
+    "attention": 1
    },
    "score": 0
   }
@@ -2253,20 +2262,20 @@
    "date": "2026-10-05",
    "attention": {
     "Jean-Luc Mélenchon": 100,
-    "David Lisnard": 91,
-    "Sarah Knafo": 72.5,
-    "Marine Le Pen": 71.2,
-    "Raphaël Glucksmann": 26.6,
-    "Gabriel Attal": 25.4,
-    "Bruno Retailleau": 23.6,
-    "Édouard Philippe": 22.2,
-    "Éric Zemmour": 19,
-    "François Hollande": 12.9,
-    "Dominique de Villepin": 9.6,
-    "François Ruffin": 9.4,
-    "Marine Tondelier": 7.7,
-    "Fabien Roussel": 7.4,
-    "Xavier Bertrand": 1.5
+    "Sarah Knafo": 91.3,
+    "David Lisnard": 62.4,
+    "Marine Le Pen": 47.8,
+    "Raphaël Glucksmann": 21.6,
+    "Édouard Philippe": 18,
+    "Gabriel Attal": 16.8,
+    "Éric Zemmour": 15.6,
+    "Bruno Retailleau": 15.3,
+    "François Hollande": 10.4,
+    "Dominique de Villepin": 7.8,
+    "François Ruffin": 6.6,
+    "Marine Tondelier": 6.3,
+    "Fabien Roussel": 6,
+    "Xavier Bertrand": 1.2
    },
    "polymarket": {
     "Marine Le Pen": 44.9,
