@@ -25,7 +25,7 @@ function Reseaux({ f, couleur }: { f: Fiche; couleur: string }) {
   const rangCite = f.citations.find((c) => c.libelle.includes("plus cités"));
   const p = f.posts[0];
   return (
-    <details className="group rounded-[16px] bg-fond px-4 py-3">
+    <details open className="group rounded-[16px] bg-fond px-4 py-3">
       <summary className="flex cursor-pointer list-none items-center justify-between text-[12px] font-extrabold tracking-[0.04em] text-gris">
         SUR LES RÉSEAUX SOCIAUX<span className="text-[16px] transition group-open:rotate-45">+</span>
       </summary>

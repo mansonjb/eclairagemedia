@@ -1,6 +1,7 @@
 import barometre from "../../../content/barometre.json";
 import Candidats, { type Candidat } from "@/components/dyn/Candidats";
 import Podium from "@/components/Podium";
+import Classement from "@/components/Classement";
 
 export const metadata = {
   title: "Baromètre présidentielle 2027",
@@ -41,6 +42,7 @@ export default function Barometre() {
         <p className="mt-4 text-[16.5px] leading-relaxed text-gris">Le score Éclairage combine trois mesures : les sondages, les paris sur Polymarket et le bruit en ligne, chacune ramenée sur 100. C&apos;est un indicateur de dynamique, pas une prédiction : aucune mesure ne dit qui gagnera l&apos;élection d&apos;avril 2027.{!b.sondage && " Pas encore de sondage vérifié dans ce relevé : le score repose aujourd'hui sur Polymarket et l'attention en ligne."}</p>
       </section>
       <Podium candidats={b.candidats} poids={b.poids} />
+      <Classement candidats={b.candidats} poids={b.poids} />
       <div className="grid gap-5 md:grid-cols-3">
         {mesures.map((m) => (
           <div key={m.titre} className="flex flex-col gap-2 rounded-[28px] p-6" style={{ backgroundColor: m.fond }}>
