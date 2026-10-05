@@ -8,7 +8,53 @@ export type Candidat = {
   nom: string; etiquette: string; couleur: string; statut: string | null; date_statut: string | null; source_statut: string | null;
   sondage: Val; attention: Val; polymarket: Val; declarations: Decl[]; nbDeclarations: number;
   score: number | null; composantes: Record<string, number>;
+  reseaux?: Fiche | null;
 };
+type Fiche = {
+  url: string; phase?: { note: string; libelle: string; texte: string };
+  rangs: { rang: number; libelle: string; valeur: string }[];
+  posts: { quand: string; texte: string; chiffres: string; url: string }[];
+  citations: { valeur: string; libelle: string; detail: string }[];
+  journalistes: { nom: string; role: string; posts: string }[];
+};
+
+// Fiche réseaux (Observatoire Présidentielle 2027 de Saper Vedere), repliée par défaut
+function Reseaux({ f, couleur }: { f: Fiche; couleur: string }) {
+  const court = (l: string) => l.replace("sur 34 en ", "").replace("nombre de ", "").replace(" mesurées", "").replace("engagement moyen par post", "engagement / post");
+  const cites = f.citations.find((c) => c.libelle.startsWith("posts qui"));
+  const rangCite = f.citations.find((c) => c.libelle.includes("plus cités"));
+  const p = f.posts[0];
+  return (
+    <details className="group rounded-[16px] bg-fond px-4 py-3">
+      <summary className="flex cursor-pointer list-none items-center justify-between text-[12px] font-extrabold tracking-[0.04em] text-gris">
+        SUR LES RÉSEAUX SOCIAUX<span className="text-[16px] transition group-open:rotate-45">+</span>
+      </summary>
+      <div className="mt-3 flex flex-col gap-3.5 text-[13.5px] leading-snug">
+        <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+          {f.rangs.map((r) => (
+            <div key={r.libelle} className="rounded-[12px] bg-white px-3 py-2">
+              <p className="d text-[20px] leading-none" style={{ color: couleur }}>{r.rang}<sup className="text-[11px]">{r.rang === 1 ? "er" : "e"}</sup><span className="text-[12px] text-gris">/34</span></p>
+              <p className="mt-1 text-[11.5px] font-semibold text-gris">{court(r.libelle)}</p>
+            </div>
+          ))}
+        </div>
+        {f.phase && <p><b>{f.phase.note} en phase</b> avec les priorités des Français. {f.phase.texte}</p>}
+        {p && (
+          <div className="rounded-[12px] bg-white p-3">
+            <p className="text-[11.5px] font-extrabold tracking-[0.04em] text-gris">SON POST LE PLUS ENGAGEANT (12 MOIS)</p>
+            <p className="mt-1 font-semibold">« {p.texte} »</p>
+            <p className="mt-1 text-[12px] text-gris">{p.quand} · {p.chiffres} · <a href={p.url} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2">voir l&apos;original</a></p>
+          </div>
+        )}
+        {cites && (
+          <p><b>Cité par les journalistes et médias :</b> {cites.valeur} posts sur 12 mois{rangCite ? `, ${rangCite.valeur}e sur 34` : ""}.
+            {f.journalistes.length > 0 && <> Le plus souvent par {f.journalistes.map((j) => `${j.nom} (${j.posts})`).join(", ")}.</>}</p>
+        )}
+        <p className="text-[11.5px] text-gris">Source : <a href={f.url} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2">Observatoire Présidentielle 2027, Saper Vedere</a></p>
+      </div>
+    </details>
+  );
+}
 type Serie = { date: string; attention: Record<string, number>; polymarket: Record<string, number> }[];
 
 const fmtDate = (d: string) => new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short", timeZone: "UTC" }).format(new Date(d + "T12:00:00Z"));
@@ -87,6 +133,7 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                 <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
                   serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />
               </div>
+              {c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
               <div className="mt-1 flex flex-1 flex-col">
                 <p className="text-[12px] font-extrabold tracking-[0.04em] text-gris">DERNIÈRES DÉCLARATIONS{c.nbDeclarations ? ` (${c.nbDeclarations})` : ""}</p>
                 {c.declarations.length ? (

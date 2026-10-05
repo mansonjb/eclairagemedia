@@ -110,6 +110,110 @@
     }
    ],
    "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
+    "phase": {
+     "note": "75 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord de représentation politique (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 10,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "2 787 posts"
+     },
+     {
+      "rang": 3,
+      "libelle": "sur 34 en engagement",
+      "valeur": "35 693 058"
+     },
+     {
+      "rang": 1,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "12 807"
+     },
+     {
+      "rang": 1,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "601 960 029"
+     },
+     {
+      "rang": 2,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "5 570 486 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "7 novembre 2025 · Instagram",
+      "texte": "Un musulman, c’est quelqu’un qui croit en Dieu et qui respecte les autres. Un islamiste, c’est quelqu’un qui croit en Dieu, et qui massacre les autres. Ce sont deux choses…",
+      "chiffres": "775 748 j'aime · 32 643 commentaires · 0 partages · 21 303 477 vues",
+      "url": "https://instagram.com/p/DQw0285CKxI"
+     },
+     {
+      "quand": "7 novembre 2025 · TikTok",
+      "texte": "Un musulman, c’est quelqu’un qui croit en Dieu et qui respecte les autres. Un islamiste, c’est quelqu’un qui croit en Dieu, et qui massacre les autres. Ce sont deux choses…",
+      "chiffres": "517 100 j'aime · 9 399 commentaires · 47 167 partages · 5 478 412 vues",
+      "url": "https://tiktok.com/@mlp.officiel/video/7570031255111175446"
+     },
+     {
+      "quand": "2 mai 2026 · TikTok",
+      "texte": "Tenez bon, on arrive !",
+      "chiffres": "319 684 j'aime · 8 584 commentaires · 131 825 partages · 4 144 023 vues",
+      "url": "https://tiktok.com/@mlp.officiel/video/7635251736097148182"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "12 790",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "732",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "1",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "652",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "8 963",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 776 politiques"
+     },
+     {
+      "valeur": "236",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 66 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "139 posts"
+     },
+     {
+      "nom": "Anthony",
+      "role": "Journaliste",
+      "posts": "136 posts"
+     },
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "94 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
@@ -230,6 +334,110 @@
     }
    ],
    "nbDeclarations": 6,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
+    "phase": {
+     "note": "54 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (47 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 4,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "3 926 posts"
+     },
+     {
+      "rang": 2,
+      "libelle": "sur 34 en engagement",
+      "valeur": "37 324 109"
+     },
+     {
+      "rang": 3,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "9 507"
+     },
+     {
+      "rang": 2,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "544 179 178"
+     },
+     {
+      "rang": 1,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "8 083 437 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "7 juillet 2026 · TikTok",
+      "texte": "ALERTE : L'ASSEMBLÉE VOTE LE PERMIS DE TUER XXL",
+      "chiffres": "635 372 j'aime · 9 991 commentaires · 45 196 partages · 4 021 550 vues",
+      "url": "https://tiktok.com/@jlmelenchon/video/7659877549387844896"
+     },
+     {
+      "quand": "2 juin 2026 · TikTok",
+      "texte": "Les premiers résultats du système absurde Parcoursup vont tomber ce mardi. Courage aux jeunes et leurs familles qui sont dans l'angoisse de l'attente des réponses. Comme je…",
+      "chiffres": "510 803 j'aime · 5 735 commentaires · 43 709 partages · 3 974 083 vues",
+      "url": "https://tiktok.com/@jlmelenchon/video/7646774955174022433"
+     },
+     {
+      "quand": "3 septembre 2026 · TikTok",
+      "texte": "Le RN nous reparle du voile. Encore ! Toujours la même idée : diviser les Français. Après l'été qu'on a vécu, voilà de quoi on parle en cette rentrée ! Tout le monde en a plein le…",
+      "chiffres": "464 811 engagements",
+      "url": "https://www.tiktok.com/@jlmelenchon/video/7681212047127842080?_r=1&u_code=f0g2add05gl3d9&preview_pb=0&sharer_language=en&_d=f0gag7797ek65e&share_item_id=7681212047127842080&source=h5_m"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "10 189",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "593",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "2",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "393",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "6 610",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 632 politiques"
+     },
+     {
+      "valeur": "144",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 45 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Jérôme Godefroy",
+      "role": "Journaliste",
+      "posts": "218 posts"
+     },
+     {
+      "nom": "Haziza Frédéric",
+      "role": "Journaliste",
+      "posts": "210 posts"
+     },
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "151 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 49,
     "polymarket": 26,
@@ -280,6 +488,110 @@
     }
    ],
    "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/edouard-philippe/",
+    "phase": {
+     "note": "81 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (30 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 27,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "366 posts"
+     },
+     {
+      "rang": 21,
+      "libelle": "sur 34 en engagement",
+      "valeur": "722 679"
+     },
+     {
+      "rang": 13,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "1 975"
+     },
+     {
+      "rang": 20,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "31 969 349"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 162 825 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "7 juillet 2026 · Facebook",
+      "texte": "Je veux proposer aux Français d'éviter de vivre le cauchemar que constituerait, au second tour de l'élection présidentielle, un choix entre M. Mélenchon et les délires…",
+      "chiffres": "1 151 j'aime · 12 428 commentaires · 426 partages",
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid02STg1QW8v7YxMNjfqgXTMCmdfTL81CwPwnMeBiJLDPVjfwEo7kWEo3ngeBCYry7mEl&id=100044317185425"
+     },
+     {
+      "quand": "29 août 2026 · Instagram",
+      "texte": "Je ne voterai jamais pour un candidat qui s’affiche sous l’étiquette LFI. Je ne voterai jamais pour un candidat qui s’affiche sous l’étiquette RN.",
+      "chiffres": "13 497 engagements",
+      "url": "https://www.instagram.com/p/DcouNyVuN-l"
+     },
+     {
+      "quand": "29 août 2026 · Facebook",
+      "texte": "Je ne voterai jamais pour un candidat qui s’affiche sous l’étiquette LFI. Je ne voterai jamais pour un candidat qui s’affiche sous l’étiquette RN.",
+      "chiffres": "11 748 engagements",
+      "url": "https://facebook.com/2109784355914899_1645649640255593"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "5 224",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "454",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "6",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "217",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "2 996",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 478 politiques"
+     },
+     {
+      "valeur": "117",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 65 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "44 posts"
+     },
+     {
+      "nom": "Florian Tardif",
+      "role": "Journaliste",
+      "posts": "37 posts"
+     },
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "36 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 50,
     "polymarket": 40,
@@ -312,6 +624,104 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/david-lisnard/",
+    "phase": {
+     "note": "82 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (41 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 13,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "2 181 posts"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 239 201"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "2 861"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "112 249 645"
+     },
+     {
+      "rang": 20,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "320 107 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "3 juillet 2026 · Instagram",
+      "texte": "Les maires sont aujourd’hui obligés d’attribuer des logements sociaux à des familles de délinquants. Nous sommes donc le seul pays au monde à subventionner la délinquance. David…",
+      "chiffres": "115 374 j'aime · 5 759 commentaires · 0 partages · 3 283 051 vues",
+      "url": "https://instagram.com/p/DaU9i7bgaOs"
+     },
+     {
+      "quand": "15 septembre 2026 · Instagram",
+      "texte": "Décryptons le baratin techno-politicien",
+      "chiffres": "94 812 engagements",
+      "url": "https://www.instagram.com/p/DdUcT2uNbCm"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 237",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "218",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "15",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "31",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "1 884",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 242 politiques"
+     },
+     {
+      "valeur": "113",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 48 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Benedetti Arnaud",
+      "role": "Journaliste",
+      "posts": "33 posts"
+     },
+     {
+      "nom": "Yves Bourdillon",
+      "role": "Journaliste",
+      "posts": "15 posts"
+     },
+     {
+      "nom": "Jérôme Godefroy",
+      "role": "Journaliste",
+      "posts": "11 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 0,
     "polymarket": 24,
@@ -376,6 +786,110 @@
     }
    ],
    "nbDeclarations": 2,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
+    "phase": {
+     "note": "67 %",
+     "libelle": "en phase · Décalé",
+     "texte": "Ses publications parlent d'abord de défense (34 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 15,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "1 561 posts"
+     },
+     {
+      "rang": 5,
+      "libelle": "sur 34 en engagement",
+      "valeur": "12 154 295"
+     },
+     {
+      "rang": 4,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "7 786"
+     },
+     {
+      "rang": 5,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "205 684 669"
+     },
+     {
+      "rang": 6,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 451 114 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "27 novembre 2025 · TikTok",
+      "texte": "Ici c’est Gabriel Décrypte",
+      "chiffres": "820 212 j'aime · 15 344 commentaires · 78 845 partages · 6 452 395 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7577458011048873238"
+     },
+     {
+      "quand": "25 novembre 2025 · TikTok",
+      "texte": "Robot du 9.1 pouloulou 🦾",
+      "chiffres": "581 660 j'aime · 1 911 commentaires · 92 714 partages · 4 559 277 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7576731497240005910"
+     },
+     {
+      "quand": "7 janvier 2026 · TikTok",
+      "texte": "Je peux rien dire de plus 😔 Idée originale : @Chachou 🪼",
+      "chiffres": "496 807 j'aime · 9 119 commentaires · 18 199 partages · 4 266 588 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7592674077047917846"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "5 481",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "528",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "5",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "186",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "3 593",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 586 politiques"
+     },
+     {
+      "valeur": "233",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 103 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "85 posts"
+     },
+     {
+      "nom": "Alexis Poulin",
+      "role": "Journaliste",
+      "posts": "80 posts"
+     },
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "46 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 32,
     "polymarket": 5,
@@ -440,6 +954,110 @@
     }
    ],
    "nbDeclarations": 2,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
+    "phase": {
+     "note": "39 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (64 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 22,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "636 posts"
+     },
+     {
+      "rang": 16,
+      "libelle": "sur 34 en engagement",
+      "valeur": "2 068 603"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 253"
+     },
+     {
+      "rang": 16,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "50 853 104"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "948 940 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "18 novembre 2025 · Instagram",
+      "texte": "Monsieur Zemmour, comme ses amis, sont profondément étrangers à tout ce qui fait la grandeur de la France.",
+      "chiffres": "40 317 j'aime · 1 295 commentaires · 0 partages · 1 188 347 vues",
+      "url": "https://instagram.com/p/DRNxlecCIJJ"
+     },
+     {
+      "quand": "23 août 2026 · Instagram",
+      "texte": "J’ai quelque chose à vous dire. Je suis candidat à l’élection présidentielle pour apporter quelque chose de nouveau, pour que la France redevienne libre et juste, pour que les…",
+      "chiffres": "32 456 engagements",
+      "url": "https://www.instagram.com/p/DcZUBvvIKSW"
+     },
+     {
+      "quand": "9 janvier 2026 · Instagram",
+      "texte": "L’Iran sera libre ! La bravoure du peuple iranien aura raison de la dictature des mollahs. C’est écrit. Nul ne peut indéfiniment arrêter un peuple prêt à mourir pour être libre.…",
+      "chiffres": "28 631 j'aime · 1 913 commentaires · 0 partages",
+      "url": "https://instagram.com/p/DTSoGOCiOxP"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "3 760",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "396",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "8",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "200",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "1 224",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 296 politiques"
+     },
+     {
+      "valeur": "83",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 43 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "129 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "74 posts"
+     },
+     {
+      "nom": "Alexis Poulin",
+      "role": "Journaliste",
+      "posts": "53 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 31,
     "polymarket": 3,
@@ -475,6 +1093,110 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
+    "phase": {
+     "note": "66 %",
+     "libelle": "en phase · Décalé",
+     "texte": "Ses publications parlent d'abord d'identité (24 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 17,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "1 292 posts"
+     },
+     {
+      "rang": 13,
+      "libelle": "sur 34 en engagement",
+      "valeur": "2 979 675"
+     },
+     {
+      "rang": 11,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "2 306"
+     },
+     {
+      "rang": 11,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "90 726 357"
+     },
+     {
+      "rang": 18,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "413 727 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "2 juin 2026 · TikTok",
+      "texte": "Je suis favorable à la castration chimique des pédophiles, sans l’accord de l’agresseur. Pour moi, il faut traiter le mal à partir de la racine. Attenter à l’enfance c’est la pire…",
+      "chiffres": "127 527 j'aime · 1 065 commentaires · 10 068 partages · 1 093 558 vues",
+      "url": "https://tiktok.com/@brunoretailleauoff/video/7646836301127224608"
+     },
+     {
+      "quand": "14 mai 2026 · Instagram",
+      "texte": "On ne va pas interdire un banquet parce qu’il y a du cochon et du vin. La volonté d’un député socialiste d’interdire le canon Français est le signe de la mélenchonnisation des…",
+      "chiffres": "79 100 j'aime · 5 375 commentaires · 0 partages · 2 069 229 vues",
+      "url": "https://instagram.com/p/DYVJDm2tlSu"
+     },
+     {
+      "quand": "14 mai 2026 · Facebook",
+      "texte": "On ne va pas interdire un banquet parce qu’il y a du cochon et du vin. La volonté d’un député socialiste d’interdire le canon Français est le signe de la mélenchonnisation des…",
+      "chiffres": "60 289 j'aime · 4 702 commentaires · 5 694 partages",
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid0k986bxpmmmh7WYu37t39252AEKbgKEkipFw9DdXo1EARcWgibKD5Kx33r6xtUDszl&id=100044178246660"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "5 973",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "512",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "4",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "177",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "3 408",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 589 politiques"
+     },
+     {
+      "valeur": "161",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 82 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "54 posts"
+     },
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "45 posts"
+     },
+     {
+      "nom": "Marie-Cécile Renault",
+      "role": "Journaliste",
+      "posts": "34 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 25,
     "polymarket": 3,
@@ -510,6 +1232,110 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-hollande/",
+    "phase": {
+     "note": "48 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (48 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 26,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "502 posts"
+     },
+     {
+      "rang": 17,
+      "libelle": "sur 34 en engagement",
+      "valeur": "1 922 231"
+     },
+     {
+      "rang": 7,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 829"
+     },
+     {
+      "rang": 15,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "74 148 655"
+     },
+     {
+      "rang": 4,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "2 295 943 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "5 janvier 2026 · TikTok",
+      "texte": "Le bonheur de la neige à Paris ! #fyp #neige",
+      "chiffres": "188 352 j'aime · 4 482 commentaires · 8 944 partages · 2 998 323 vues",
+      "url": "https://tiktok.com/@fhollandeofficiel/video/7591970466089209110"
+     },
+     {
+      "quand": "4 juillet 2026 · TikTok",
+      "texte": "Mon pronostic est fait. ⚽️ À vous de jouer : score final ? @Mon Petit Prono 🏆",
+      "chiffres": "112 279 j'aime · 1 221 commentaires · 6 651 partages · 1 408 247 vues",
+      "url": "https://tiktok.com/@fhollandeofficiel/video/7658557449577696545"
+     },
+     {
+      "quand": "9 juillet 2026 · TikTok",
+      "texte": "Si j’ai encore bon… cette fois, je parie pour de vrai. ⭐ #francemaroc #woldcup2026",
+      "chiffres": "71 639 j'aime · 1 403 commentaires · 6 016 partages · 1 119 238 vues",
+      "url": "https://tiktok.com/@fhollandeofficiel/video/7660414082058571041"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "2 391",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "369",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "11",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "67",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "624",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 269 politiques"
+     },
+     {
+      "valeur": "100",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 48 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "71 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "35 posts"
+     },
+     {
+      "nom": "Haziza Frédéric",
+      "role": "Journaliste",
+      "posts": "19 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
@@ -540,6 +1366,7 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": null,
    "composantes": {
     "sondage": 0,
     "polymarket": 2,
@@ -575,6 +1402,110 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/eric-zemmour/",
+    "phase": {
+     "note": "49 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord d'identité (52 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 12,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "2 201 posts"
+     },
+     {
+      "rang": 6,
+      "libelle": "sur 34 en engagement",
+      "valeur": "9 854 502"
+     },
+     {
+      "rang": 6,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "4 477"
+     },
+     {
+      "rang": 7,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "140 388 315"
+     },
+     {
+      "rang": 7,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 363 414 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "18 septembre 2026 · Facebook",
+      "texte": "Aujourd’hui, le spectre qui hante l’Europe, ce n'est plus le nazisme, c’est l’islamisation. Face à ce phénomène, le résistant, c’est moi. Le collabo, c’est vous, Monsieur Copé.",
+      "chiffres": "80 032 engagements",
+      "url": "https://facebook.com/100364822103824_1414369494093803"
+     },
+     {
+      "quand": "2 juillet 2026 · Instagram",
+      "texte": "🇪🇺 Over a dozen top European right-wing figures have already signed the Save Europe Act. A large coalition of prominent European politicians and public figures has signed the…",
+      "chiffres": "76 323 j'aime · 2 384 commentaires · 0 partages",
+      "url": "https://instagram.com/p/DaSHLofAA8_"
+     },
+     {
+      "quand": "19 novembre 2025 · Facebook",
+      "texte": "« Quand je vais à New York ou à Berlin, je me sens plus chez moi que lorsque je me rends en Picardie », ce sont vos mots monsieur Glucksmann et cette phrase vous résume. En une…",
+      "chiffres": "66 443 j'aime · 4 462 commentaires · 5 633 partages",
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid0xCWE5r9V3tEHk5qRuvNprutmbdgAAHMbrDE4LC7hfEhdbqERQ3uWNzfyv13eHMpFl&id=100065622963954"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 903",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "318",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "12",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "26",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "648",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 199 politiques"
+     },
+     {
+      "valeur": "117",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 30 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Jean-Michel Aphatie",
+      "role": "Journaliste",
+      "posts": "43 posts"
+     },
+     {
+      "nom": "Nassira El Moaddem",
+      "role": "Journaliste",
+      "posts": "32 posts"
+     },
+     {
+      "nom": "Alexandre Devecchio",
+      "role": "Journaliste",
+      "posts": "22 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 12,
     "polymarket": 2,
@@ -625,6 +1556,110 @@
     }
    ],
    "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
+    "phase": {
+     "note": "48 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord d'environnement (45 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 3,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "4 377 posts"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 764 182"
+     },
+     {
+      "rang": 17,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "1 545"
+     },
+     {
+      "rang": 6,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "197 843 185"
+     },
+     {
+      "rang": 15,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "640 799 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "23 décembre 2025 · Instagram",
+      "texte": "Marion Maréchal devrait avoir honte. Honte des députés de son camp qui ont pris en photo des petites filles en sortie scolaire à l'Assemblée car elles portaient le voile (c'est…",
+      "chiffres": "339 708 j'aime · 7 703 commentaires · 0 partages · 5 124 331 vues",
+      "url": "https://instagram.com/p/DSnCAIyk-a7"
+     },
+     {
+      "quand": "29 décembre 2025 · Instagram",
+      "texte": "Marion Maréchal n'a pas aimé que je lui rappelle les vrais chiffres de l'immigration, donc elle a passé son temps à me couper. Mais les faits sont têtus, malgré ce qu'elle et ses…",
+      "chiffres": "262 213 j'aime · 6 094 commentaires · 0 partages · 3 379 478 vues",
+      "url": "https://instagram.com/p/DS22kaXk10i"
+     },
+     {
+      "quand": "30 mars 2026 · Instagram",
+      "texte": "Je n’osais plus l’espérer.",
+      "chiffres": "145 400 j'aime · 4 580 commentaires · 0 partages",
+      "url": "https://instagram.com/p/DWhKdh0iLSB"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "2 681",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "344",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "10",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "21",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "827",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 307 politiques"
+     },
+     {
+      "valeur": "74",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 45 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "89 posts"
+     },
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "48 posts"
+     },
+     {
+      "nom": "Jérôme Godefroy",
+      "role": "Journaliste",
+      "posts": "44 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
@@ -675,6 +1710,110 @@
     }
    ],
    "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/fabien-roussel/",
+    "phase": {
+     "note": "67 %",
+     "libelle": "en phase · Décalé",
+     "texte": "Ses publications parlent d'abord de défense (30 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 18,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "1 097 posts"
+     },
+     {
+      "rang": 24,
+      "libelle": "sur 34 en engagement",
+      "valeur": "451 526"
+     },
+     {
+      "rang": 28,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "412"
+     },
+     {
+      "rang": 24,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "18 778 414"
+     },
+     {
+      "rang": 27,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "160 295 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "30 septembre 2026 · TikTok",
+      "texte": "Avec ce que vivent nos concitoyens, ils n'auraient pas le droit de manifester, d'exprimer leurs colères ? On veut que cela change maintenant ! Pas dans 8 mois !",
+      "chiffres": "53 118 engagements",
+      "url": "https://www.tiktok.com/@fabien_roussel/video/7691316170670247201?_r=1&u_code=f0m20c91456ddi&preview_pb=0&sharer_language=en&_d=f0m8i98fmki8fg&share_item_id=7691316170670247201&source=h5_m"
+     },
+     {
+      "quand": "14 avril 2026 · X",
+      "texte": "Je demande à ce que la France appelle à la cessation immédiate du commerce entre l’Union européenne et Israël. Il faut faire pression pour mettre fin aux violences et faire…",
+      "chiffres": "8 244 j'aime · 522 commentaires · 2 143 partages · 77 202 impressions",
+      "url": "https://x.com/Fabien_Roussel/status/2043971625834455339"
+     },
+     {
+      "quand": "14 septembre 2026 · Instagram",
+      "texte": "✊️ Moment magique à la Fête de l’Humanité. Un chœur de 40 000 personnes pour chanter la marseillaise et l’Internationale en clôture du meeting de Fabien Roussel sur la grande…",
+      "chiffres": "10 622 engagements",
+      "url": "https://www.instagram.com/p/DdRtuEculIP"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "779",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "144",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "20",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "32",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "146",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 91 politiques"
+     },
+     {
+      "valeur": "14",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 10 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Jérôme Godefroy",
+      "role": "Journaliste",
+      "posts": "25 posts"
+     },
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "14 posts"
+     },
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "10 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
@@ -725,6 +1864,110 @@
     }
    ],
    "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/dominique-de-villepin/",
+    "phase": {
+     "note": "48 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (52 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 21,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "713 posts"
+     },
+     {
+      "rang": 14,
+      "libelle": "sur 34 en engagement",
+      "valeur": "2 275 143"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 191"
+     },
+     {
+      "rang": 17,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "38 618 529"
+     },
+     {
+      "rang": 26,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "223 838 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "11 août 2026 · Facebook",
+      "texte": "[Extraits 12.09.24 - Entretien avec France Inter]",
+      "chiffres": "126 354 engagements",
+      "url": "https://facebook.com/551584571372169_122186357504768481"
+     },
+     {
+      "quand": "4 janvier 2026 · Instagram",
+      "texte": "Personne ne regrettera Nicolás Maduro. Il a mis son pays en faillite et en ruine, avec huit millions d’exilés. Mais cela ne justifie pas que les États-Unis remettent…",
+      "chiffres": "91 532 j'aime · 4 595 commentaires · 0 partages · 4 383 048 vues",
+      "url": "https://instagram.com/p/DTF8PHSiMhq"
+     },
+     {
+      "quand": "14 février 2026 · TikTok",
+      "texte": "Dostoievski est un écrivain rare parce qu'il déterre ce que nous avons de plus fragile pour en faire une vérité universelle. Dans les Carnets du sous-sol, il nous tend un miroir…",
+      "chiffres": "76 496 j'aime · 2 533 commentaires · 15 668 partages · 1 082 835 vues",
+      "url": "https://tiktok.com/@dominiquedevillepin/video/7606865246417964310"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 425",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "263",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "13",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "57",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "256",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 90 politiques"
+     },
+     {
+      "valeur": "53",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 28 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Edwy Plenel",
+      "role": "Journaliste",
+      "posts": "14 posts"
+     },
+     {
+      "nom": "Pierre Haski",
+      "role": "Journaliste",
+      "posts": "13 posts"
+     },
+     {
+      "nom": "Antoine Comte",
+      "role": "Journaliste",
+      "posts": "12 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
@@ -757,6 +2000,110 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-ruffin/",
+    "phase": {
+     "note": "79 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 2,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "4 622 posts"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en engagement",
+      "valeur": "7 045 059"
+     },
+     {
+      "rang": 18,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "1 524"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "128 012 047"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 353 787 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "17 décembre 2025 · TikTok",
+      "texte": "Y a quoi derrière vos colis ?",
+      "chiffres": "332 318 j'aime · 5 096 commentaires · 32 492 partages · 3 841 621 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7584874683435191574"
+     },
+     {
+      "quand": "21 novembre 2025 · TikTok",
+      "texte": "Sauvez Teisseire ! Sauvez le sirop de grenadine français, sauvez 205 emplois, 205 vies de famille, sauvez ce qu’il reste de notre industrie française, nos usines qu’on laisse…",
+      "chiffres": "240 184 j'aime · 3 562 commentaires · 19 913 partages · 3 023 922 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7575183811785329942"
+     },
+     {
+      "quand": "26 janvier 2026 · TikTok",
+      "texte": "Je suis candidat à la présidence de la République française. Pour les millions de travailleurs qui, en bas, dans les usines, les bureaux, les hôpitaux, tiennent le pays debout.…",
+      "chiffres": "134 194 j'aime · 2 469 commentaires · 11 072 partages · 1 751 193 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7599771786070215958"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 378",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "241",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "14",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "19",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "380",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 156 politiques"
+     },
+     {
+      "valeur": "77",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 37 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "43 posts"
+     },
+     {
+      "nom": "Christine Lejoux",
+      "role": "Journaliste",
+      "posts": "19 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "11 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
@@ -789,6 +2136,110 @@
    },
    "declarations": [],
    "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/xavier-bertrand/",
+    "phase": {
+     "note": "68 %",
+     "libelle": "en phase · Décalé",
+     "texte": "Ses publications parlent d'abord d'économie et finances (44 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 20,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "822 posts"
+     },
+     {
+      "rang": 23,
+      "libelle": "sur 34 en engagement",
+      "valeur": "566 280"
+     },
+     {
+      "rang": 23,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "689"
+     },
+     {
+      "rang": 26,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "14 421 626"
+     },
+     {
+      "rang": 24,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "236 640 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "21 novembre 2025 · Instagram",
+      "texte": "Voilà pourquoi je continuerai à combattre l’extrême-droite de toutes mes forces.",
+      "chiffres": "10 476 j'aime · 5 940 commentaires · 0 partages · 315 371 vues",
+      "url": "https://instagram.com/p/DRUJNIIDL99"
+     },
+     {
+      "quand": "9 novembre 2025 · Facebook",
+      "texte": "Stop à l’amateurisme. On ne peut pas diriger un pays de 68 millions d’habitants, la septième puissance mondiale, à 30 ans et sans expérience.",
+      "chiffres": "3 847 j'aime · 11 216 commentaires · 933 partages",
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid0FEXfnc8hSWLMA7DD3eZSTaiJ8dL2mDspA6qpfgoJz6XenfG68HtjaxY6xUGmU3pXl&id=100044401660393"
+     },
+     {
+      "quand": "21 novembre 2025 · Facebook",
+      "texte": "Voilà pourquoi je continuerai à combattre l’extrême-droite de toutes mes forces.",
+      "chiffres": "5 563 j'aime · 5 846 commentaires · 1 255 partages",
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid027mHtjQCbAcZ11FwmmWPr9aEAKd83ParuW52JRu7FB3AnWtJa8R9dXb5ztQGLtjjRl&id=100044401660393"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "605",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "171",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "23",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "12",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "855",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 208 politiques"
+     },
+     {
+      "valeur": "734",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 56 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Haziza Frédéric",
+      "role": "Journaliste",
+      "posts": "12 posts"
+     },
+     {
+      "nom": "Alexis Poulin",
+      "role": "Journaliste",
+      "posts": "6 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "6 posts"
+     }
+    ]
+   },
    "composantes": {
     "sondage": 0,
     "polymarket": 0,

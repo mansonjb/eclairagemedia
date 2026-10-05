@@ -112,6 +112,8 @@ if (fs.existsSync(fCand)) {
   const cands = JSON.parse(fs.readFileSync(fCand, "utf8")).candidats;
   const hist = fs.existsSync(fHist) ? JSON.parse(fs.readFileSync(fHist, "utf8")) : [];
   const dernier = hist[hist.length - 1] || {};
+  const fFiches = path.join(DEPOT, "barometre_fiches.json");
+  const fiches = fs.existsSync(fFiches) ? JSON.parse(fs.readFileSync(fFiches, "utf8")).fiches : {};
   // le dernier sondage connu, même s'il n'a pas été relevé le dernier jour
   const sondage = [...hist].reverse().find((h) => h.sondage)?.sondage || null;
   const val = (bloc, nom) => (bloc && bloc[nom] !== undefined ? (typeof bloc[nom] === "object" ? bloc[nom] : { v: bloc[nom], d: null }) : null);
@@ -127,6 +129,7 @@ if (fs.existsSync(fCand)) {
       polymarket: val(dernier.polymarket, c.nom),
       declarations: declarations.sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 6),
       nbDeclarations: declarations.length,
+      reseaux: fiches[c.nom] || null,
     };
   });
   // Score Éclairage /100 : moyenne pondérée des mesures disponibles, chacune ramenée sur 100 (100 = le premier).
