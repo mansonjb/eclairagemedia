@@ -18,7 +18,7 @@ export default function Barometre() {
         : `${b.sondage.institut} pour ${b.sondage.commanditaire}, publié le ${fmt(b.sondage.date!)}. Marge d'erreur ${b.sondage.marge}.`
       : "Le dernier sondage d'intentions de vote au premier tour, vérifié sur la publication de l'institut. Ajouté par l'édition politique.",
       note: "Une photographie à une date donnée, pas une prédiction." },
-    { titre: "L'attention en ligne", couleur: "#ff6a3d", fond: "#ffe4d9", texte: `Indice sur 100 qui combine ${b.sources_attention.length ? b.sources_attention.join(", ") : "Wikipedia, la presse et Bluesky"} sur 7 jours.`,
+    { titre: "L'attention en ligne", couleur: "#ff6a3d", fond: "#ffe4d9", texte: "Indice sur 100 qui combine, sur 7 jours, les consultations Wikipedia, l'engagement sur ses posts, ses citations par les journalistes et les médias, et les abonnés gagnés sur les réseaux.",
       note: "Mesure le bruit, pas le soutien : une polémique fait aussi monter l'indice." },
     { titre: "Les marchés de prédiction", couleur: "#14142b", fond: "#eef0f4", texte: `Probabilité implicite des paris Polymarket${b.polymarket_volume ? `, ${Math.round(b.polymarket_volume / 1e6)} millions de dollars engagés` : ""}.`,
       note: "Reflète l'avis des parieurs, pas celui des électeurs." },
@@ -41,7 +41,7 @@ export default function Barometre() {
         ))}
       </div>
       <Candidats candidats={b.candidats} serie={b.serie} />
-      <p className="px-2 text-[12.5px] text-gris">Sources : instituts de sondage (publications originales), statistiques de consultation Wikimedia, GDELT, Bluesky, Polymarket. Étiquettes revendiquées par les personnalités. Le statut « déclaré » n&apos;est affiché qu&apos;avec une source datée.</p>
+      <p className="px-2 text-[12.5px] text-gris">Sources : instituts de sondage (publications originales), statistiques de consultation Wikimedia, <a href="https://www.saper-vedere.eu/presidentielle/p/presidentielle-candidats/" className="underline">Saper Vedere</a> (engagement et citations), <a href="https://www.qui-sera-president.fr/" className="underline">qui-sera-president.fr</a> (abonnés), Polymarket. Étiquettes revendiquées par les personnalités. Le statut « déclaré » n&apos;est affiché qu&apos;avec une source datée.</p>
     </main>
   );
 }
