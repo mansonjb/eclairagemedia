@@ -133,7 +133,7 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                 {(critere === "score" || critere === "polymarket") && <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
                   serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />}
               </div>
-              {c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
+              {critere === "attention" && c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
               <div className="mt-1 flex flex-1 flex-col">
                 <p className="text-[12px] font-extrabold tracking-[0.04em] text-gris">DERNIÈRES DÉCLARATIONS{c.nbDeclarations ? ` (${c.nbDeclarations})` : ""}</p>
                 {c.declarations.length ? (
