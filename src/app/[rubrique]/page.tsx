@@ -19,7 +19,7 @@ export default async function Rubrique({ params }: { params: Promise<{ rubrique:
       <section className="rounded-[28px] p-7 sm:p-10" style={{ backgroundColor: R.couleur }}>
         <span className="pastille bg-white/20 text-white">Chaque jour à {R.heure}</span>
         <h1 className="d mt-4 text-[38px] leading-none text-white sm:text-[56px]">{R.nom}</h1>
-        <p className="mt-4 max-w-2xl text-[17px] font-semibold leading-relaxed text-white/90">{R.accroche}</p>
+        <p className="mt-4 text-[17px] font-semibold leading-relaxed text-white/90">{R.accroche}</p>
       </section>
       {derniere && (
         <>

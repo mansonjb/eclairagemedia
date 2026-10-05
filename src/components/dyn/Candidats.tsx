@@ -16,7 +16,7 @@ const fmtDate = (d: string) => new Intl.DateTimeFormat("fr-FR", { day: "numeric"
 function Delta({ d, unite = "pt" }: { d: number | null | undefined; unite?: string }) {
   if (d === null || d === undefined) return <span className="text-[12px] font-semibold text-gris-clair">—</span>;
   if (Math.abs(d) < 0.5) return <span className="text-[12px] font-bold text-gris">= stable</span>;
-  return <span className={`text-[12px] font-extrabold ${d > 0 ? "text-[#0a7d5a]" : "text-[#d7263d]"}`}>{d > 0 ? "▲" : "▼"} {Math.abs(d).toFixed(0)} {unite}{Math.abs(d) >= 2 ? "s" : ""}</span>;
+  return <span className={`text-[12px] font-extrabold ${d > 0 ? "text-[#0a7d5a]" : "text-[#d7263d]"}`}>{d > 0 ? "▲" : "▼"} {Math.abs(d) < 2 ? Math.abs(d).toFixed(1).replace(".", ",") : Math.abs(d).toFixed(0)} {unite}{Math.abs(d) >= 2 ? "s" : ""}</span>;
 }
 
 function Courbe({ points, couleur }: { points: number[]; couleur: string }) {
@@ -26,7 +26,7 @@ function Courbe({ points, couleur }: { points: number[]; couleur: string }) {
   return <svg viewBox="0 0 100 30" className="h-7 w-24" preserveAspectRatio="none" aria-hidden><polyline points={xy} fill="none" stroke={couleur} strokeWidth="2.5" vectorEffect="non-scaling-stroke" strokeLinecap="round" strokeLinejoin="round" /></svg>;
 }
 
-function Mesure({ titre, val, libelle, max, couleur, unite, serie }: { titre: string; val: Val; libelle: string; max: number; couleur: string; unite?: string; serie?: number[] }) {
+function Mesure({ titre, val, libelle, max, couleur, unite, serie, vide = "Non mesuré" }: { titre: string; val: Val; libelle: string; max: number; couleur: string; unite?: string; serie?: number[]; vide?: string }) {
   return (
     <div className="rounded-[16px] bg-fond p-3.5">
       <div className="flex items-center justify-between gap-2">
@@ -38,7 +38,7 @@ function Mesure({ titre, val, libelle, max, couleur, unite, serie }: { titre: st
           <div className="mt-1 flex items-baseline justify-between gap-2"><p className="d text-[26px] leading-none">{libelle}</p><Delta d={val.d} unite={unite} /></div>
           <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-white"><div className="h-full rounded-full" style={{ width: `${Math.max(2, (val.v / max) * 100)}%`, backgroundColor: couleur }} /></div>
         </>
-      ) : <p className="mt-2 text-[13px] font-semibold text-gris-clair">Non mesuré</p>}
+      ) : <p className="mt-2 text-[13px] font-semibold text-gris-clair">{vide}</p>}
     </div>
   );
 }
@@ -81,7 +81,7 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                 </div>
               </div>
               <div className="grid gap-2.5">
-                <Mesure titre="SONDAGE (1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v} %` : ""} max={maxS} couleur={c.couleur} />
+                <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />
                 <Mesure titre="ATTENTION EN LIGNE /100" val={c.attention} libelle={c.attention ? `${Math.round(c.attention.v)}` : ""} max={100} couleur="#ff6a3d" unite="pt"
                   serie={serie.map((s) => s.attention[c.nom]).filter((x) => x !== undefined)} />
                 <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"

@@ -19,7 +19,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="fr" className={`${figtree.variable} ${bricolage.variable}`}>
       <body className="font-sans antialiased pb-24 md:pb-0">
-        <div className="mx-auto max-w-[1320px] px-4 pt-5 sm:px-5">
+        <div className="mx-auto max-w-[1320px] px-4 pt-2 sm:px-5">
           <Entete />
           {children}
           <Pied />

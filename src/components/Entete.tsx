@@ -9,7 +9,7 @@ export default function Entete() {
   const chemin = usePathname();
   const liens = [{ href: "/", nom: "À la une" }, ...ORDRE.map((r) => ({ href: `/${r}`, nom: RUBRIQUES[r].court })), { href: "/barometre", nom: "Baromètre 2027" }];
   return (
-    <header className="flex flex-wrap items-center justify-between gap-x-6 gap-y-4">
+    <header className="sticky top-0 z-40 -mx-4 flex flex-wrap items-center justify-between gap-x-6 gap-y-3 bg-fond/90 px-4 py-3 backdrop-blur-md sm:-mx-5 sm:px-5" style={{ top: "env(safe-area-inset-top, 0px)" }}>
       <Link href="/" className="block" aria-label="Éclairage, accueil">
         <Image src="/logo-eclairage-transparent.png" alt="Éclairage" width={976} height={370} priority className="h-[52px] w-auto sm:h-[58px]" />
       </Link>

@@ -32,7 +32,7 @@ export function Bascule({ essentiel, complete }: { essentiel: React.ReactNode; c
   const b = (a: boolean) => `flex-1 rounded-full px-5 py-2.5 text-[14px] font-semibold transition ${a ? "bg-encre text-white" : "text-encre hover:bg-fond"}`;
   return (
     <div>
-      <div className="mx-auto flex max-w-md gap-1 rounded-full bg-white p-1 shadow-sm">
+      <div className="mx-auto flex gap-1 rounded-full bg-white p-1 shadow-sm">
         <button onClick={() => setVue("e")} className={b(vue === "e")}>L&apos;essentiel</button>
         <button onClick={() => setVue("c")} className={b(vue === "c")}>Édition complète</button>
       </div>

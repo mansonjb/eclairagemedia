@@ -25,7 +25,7 @@ export default function Lexique({ mots }: { mots: Mot[] }) {
       {m && (
         <div key={m.terme} className="apparait mt-auto">
           <p className="d text-[34px] leading-none text-jaune">{m.terme}</p>
-          <p className="mt-3 max-w-2xl text-[16px] leading-relaxed text-white/90">{m.definition}</p>
+          <p className="mt-3 text-[16px] leading-relaxed text-white/90">{m.definition}</p>
           <Link href={m.href} className="mt-3 inline-block text-[13px] font-bold text-white/70 underline underline-offset-4 hover:text-white">Voir le mot dans son contexte →</Link>
         </div>
       )}

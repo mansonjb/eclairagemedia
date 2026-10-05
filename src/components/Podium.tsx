@@ -24,7 +24,7 @@ export default function Podium({ candidats, poids }: { candidats: Candidat[]; po
         <span className="pastille bg-jaune text-encre">LE PODIUM DU JOUR</span>
         <p className="text-[13px] font-semibold text-gris">Score Éclairage = {Object.entries(poids).map(([k, v]) => `${NOMS[k]} ${Math.round(v * 100)} %`).join(" + ")}</p>
       </div>
-      <div className="mx-auto mt-8 grid max-w-3xl grid-cols-3 items-end gap-3 sm:gap-5">
+      <div className="mx-auto mt-8 grid max-w-4xl grid-cols-3 items-end gap-3 sm:gap-5">
         {marche(p1, 1, "h-56", "#ffd60a")}
         {marche(p2, 2, "h-40", "#e8eaff")}
         {marche(p3, 3, "h-32", "#ffe4d9")}
