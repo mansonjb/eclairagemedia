@@ -161,6 +161,11 @@ if (fs.existsSync(fCand)) {
     c.score = actives.length ? Math.round(actives.reduce((n, k) => n + POIDS[k] * c.composantes[k], 0) / somme) : null;
   }
   candidats.sort((a, b) => (b.score ?? -1) - (a.score ?? -1));
+  // Rang chez les parieurs et dans les sondages (comparaison de classements, pas de chiffres)
+  for (const k of ["sondage", "polymarket"]) {
+    const tri = candidats.filter((c) => c[k]?.v != null).sort((a, b) => b[k].v - a[k].v);
+    tri.forEach((c, i) => { c.rangs = { ...(c.rangs || {}), [k]: i + 1 }; });
+  }
   // séries limitées aux personnalités suivies (une personne retirée de la liste disparaît aussi des courbes)
   const suivis = new Set(cands.map((c) => c.nom));
   const garder = (bloc) => Object.fromEntries(Object.entries(bloc || {}).filter(([k]) => suivis.has(k)).map(([k, v]) => [k, typeof v === "object" ? v.v : v]));

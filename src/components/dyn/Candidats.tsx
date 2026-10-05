@@ -9,7 +9,53 @@ export type Candidat = {
   sondage: Val; attention: Val; polymarket: Val; declarations: Decl[]; nbDeclarations: number;
   score: number | null; composantes: Record<string, number>;
   reseaux?: Fiche | null;
+  rangs?: { sondage?: number; polymarket?: number };
 };
+type Pm = { v: number; d: number | null; d24?: number | null; d30?: number | null; vol?: number; vol7?: number; haut?: number | null; bas?: number | null };
+
+const dollars = (n?: number) => (n == null ? "–" : n >= 1e6 ? `${(n / 1e6).toFixed(1).replace(".", ",")} M$` : `${Math.round(n / 1e3)} k$`);
+const ordinal = (n: number) => `${n}${n === 1 ? "er" : "e"}`;
+
+// Polymarket en détail : évolutions, argent misé, fourchette sur 30 jours, rang comparé aux sondages
+function DetailParis({ c }: { c: Candidat }) {
+  const p = c.polymarket as Pm | null;
+  if (!p) return null;
+  const evo = (t: string, d?: number | null) => (
+    <div className="rounded-[12px] bg-white px-3 py-2 text-center">
+      <p className="text-[11px] font-extrabold tracking-[0.04em] text-gris">{t}</p>
+      <p className={`text-[15px] font-extrabold tabular-nums ${d == null ? "text-gris" : d > 0.4 ? "text-[#0a7d5a]" : d < -0.4 ? "text-[#d7263d]" : ""}`}>
+        {d == null ? "–" : `${d > 0 ? "+" : ""}${d.toFixed(1).replace(".", ",")} pt`}
+      </p>
+    </div>
+  );
+  const rp = c.rangs?.polymarket, rs = c.rangs?.sondage;
+  const lecture = rp && rs ? (rp < rs ? "Les parieurs le placent plus haut que les sondages." : rp > rs ? "Les parieurs le placent plus bas que les sondages." : "Parieurs et sondages lui donnent le même rang.") : null;
+  return (
+    <div className="flex flex-col gap-3 rounded-[16px] bg-fond p-4 text-[13.5px]">
+      <p className="text-[12px] font-extrabold tracking-[0.04em] text-gris">LES PARIS EN DÉTAIL</p>
+      <div className="grid grid-cols-3 gap-2">{evo("24 H", p.d24)}{evo("7 JOURS", p.d)}{evo("30 JOURS", p.d30)}</div>
+      <div className="grid grid-cols-2 gap-2">
+        <div className="rounded-[12px] bg-white px-3 py-2">
+          <p className="text-[11px] font-extrabold tracking-[0.04em] text-gris">ARGENT MISÉ</p>
+          <p className="text-[15px] font-extrabold tabular-nums">{dollars(p.vol)}</p>
+          <p className="text-[12px] text-gris">dont {dollars(p.vol7)} cette semaine</p>
+        </div>
+        <div className="rounded-[12px] bg-white px-3 py-2">
+          <p className="text-[11px] font-extrabold tracking-[0.04em] text-gris">SUR 30 JOURS</p>
+          <p className="text-[15px] font-extrabold tabular-nums">{p.bas != null && p.haut != null ? `${Math.round(p.bas)} à ${Math.round(p.haut)} %` : "–"}</p>
+          <p className="text-[12px] text-gris">plus bas et plus haut</p>
+        </div>
+      </div>
+      {(rp || rs) && (
+        <div className="rounded-[12px] bg-white px-3 py-2.5">
+          <p className="text-[11px] font-extrabold tracking-[0.04em] text-gris">PARIEURS OU SONDAGES&nbsp;?</p>
+          <p className="mt-0.5 text-[15px] font-extrabold">Parieurs : {rp ? ordinal(rp) : "non coté"} · Sondages : {rs ? ordinal(rs) : "non testé"}</p>
+          {lecture && <p className="text-[12.5px] text-gris">{lecture} Un rang, pas un chiffre : une probabilité de victoire et une intention de vote ne se comparent pas.</p>}
+        </div>
+      )}
+    </div>
+  );
+}
 type Fiche = {
   url: string; phase?: { note: string; libelle: string; texte: string };
   rangs: { rang: number; libelle: string; valeur: string }[];
@@ -134,6 +180,7 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                   serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />}
               </div>
               {critere === "attention" && c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
+              {critere === "polymarket" && <DetailParis c={c} />}
               <div className="mt-1 flex flex-1 flex-col">
                 <p className="text-[12px] font-extrabold tracking-[0.04em] text-gris">DERNIÈRES DÉCLARATIONS{c.nbDeclarations ? ` (${c.nbDeclarations})` : ""}</p>
                 {c.declarations.length ? (
