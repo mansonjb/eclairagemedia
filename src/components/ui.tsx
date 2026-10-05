@@ -16,9 +16,9 @@ export function Pastille({ r, children, plein = false }: { r: RubriqueId; childr
 // Titre de section façon maquette : grand titre + lien à droite
 export function Section({ children, lien, id }: { children: React.ReactNode; lien?: { href: string; texte: string }; id?: string; couleur?: string; texte?: string }) {
   return (
-    <div id={id} className="flex scroll-mt-6 items-baseline justify-between gap-4 px-2 pt-7">
+    <div id={id} className="flex scroll-mt-6 flex-wrap items-baseline justify-between gap-x-4 gap-y-1 px-2 pt-7">
       <h2 className="d text-[26px] sm:text-[30px]">{children}</h2>
-      {lien && <Link href={lien.href} className="shrink-0 text-[14px] font-bold underline underline-offset-4 hover:text-bleu">{lien.texte}</Link>}
+      {lien && <Link href={lien.href} className="text-[14px] font-bold underline underline-offset-4 hover:text-bleu">{lien.texte}</Link>}
     </div>
   );
 }
