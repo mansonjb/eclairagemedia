@@ -1,6 +1,1139 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-05",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "Zone euro : l'inflation monte à 3,8 % en septembre, tirée par l'énergie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_D%C3%A9fense_Juin_2025.jpg/960px-La_D%C3%A9fense_Juin_2025.jpg",
+    "legende": "Le quartier d'affaires de La Défense (illustration)",
+    "chapeau": "Vendredi 2 octobre, Eurostat a publié son estimation rapide de l'inflation en zone euro : 3,8 % sur un an en septembre, contre 3,2 % en août, soit le niveau le plus haut depuis trois ans. L'énergie progresse de 18,8 % sur un an (14,3 % en août), les services de 3,2 % (3,0 %), l'alimentation, l'alcool et le tabac de 1,4…",
+    "eclairage": "Pourquoi l'énergie fait monter tout le reste ?",
+    "chiffres": [
+     {
+      "valeur": "3,8 %",
+      "legende": "inflation sur un an (3,2 % en août)"
+     },
+     {
+      "valeur": "18,8 %",
+      "legende": "hausse des prix de l'énergie"
+     },
+     {
+      "valeur": "3,4 %",
+      "legende": "France (estimation)"
+     }
+    ],
+    "passe": "Vendredi 2 octobre, Eurostat a publié son estimation rapide de l'inflation en zone euro : 3,8 % sur un an en septembre, contre 3,2 % en août, soit le niveau le plus haut depuis trois ans. L'énergie progresse de 18,8 % sur un an (14,3 % en août), les services de 3,2 % (3,0 %), l'alimentation, l'alcool et le tabac de 1,4 % (1,1 %). Les biens industriels hors énergie ralentissent à 1,1 % (1,2 %). Parmi les grandes économies, la France est estimée à 3,4 % et l'Allemagne à 3,3 %. La Banque centrale européenne (BCE) a relevé ses taux en juin puis le 10 septembre, portant son taux de dépôt à 2,50 %. Eurostat publiera le chiffre définitif de septembre le 16 octobre.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+      "nom": "Eurostat"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/zone-euro-l-inflation-depasse-les-attentes-en-septembre-f843b6440e68c4750066e0e229d82bd3",
+      "nom": "Boursorama"
+     },
+     {
+      "url": "https://echosplus.com/2026/10/02/inflation-en-zone-euro-a-38-en-septembre-lenergie-accentue-la-pression-sur-la-bce/",
+      "nom": "Échos Plus"
+     },
+     {
+      "url": "https://europe-business-news.com/03/10/2026/inflation-zone-euro-3-8-pourcent-septembre-2026-energie-bce/",
+      "nom": "Europe Business News"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Christine Lagarde",
+      "contexte": "présidente de la BCE, devant le Parlement européen le 28 septembre",
+      "texte": "« nous ne réagissons pas aux prix de l'énergie, nous réagissons si nous voyons des risques que la hausse des prix de l'énergie s'ancre dans l'inflation »",
+      "url": "https://www.france-epargne.fr/news/lagarde-la-hausse-des-taux-longs-freinera-croissance-et-inflation-la-bce-reste-mesuree",
+      "source": "France Épargne"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Société Générale",
+      "contexte": "banque",
+      "texte": "« une hausse des taux en octobre paraît peu probable »",
+      "url": "https://www.boursorama.com/bourse/actualites/des-economistes-temperent-apres-l-inflation-plus-elevee-que-prevu-4dc86be82795de7a967f9f6a7bd403a0",
+      "source": "Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Juliette Cohen",
+      "contexte": "stratégiste, CPRAM",
+      "texte": "« l'équation devient désormais plus compliquée pour la BCE »",
+      "url": "https://www.boursorama.com/bourse/actualites/des-economistes-temperent-apres-l-inflation-plus-elevee-que-prevu-4dc86be82795de7a967f9f6a7bd403a0",
+      "source": "Boursorama"
+     }
+    ],
+    "apres": "Chiffre définitif d'Eurostat le 16 octobre, prochaine réunion de politique monétaire de la BCE le 29 octobre.",
+    "change": "Pour un ménage, des prix de l'énergie en hausse pèsent sur le budget carburant et chauffage. Pour les entreprises et les futurs emprunteurs, un nouveau relèvement des taux de la BCE renchérirait le crédit.",
+    "illustration": true
+   },
+   {
+    "n": 2,
+    "theme": "MARCHÉS",
+    "titre": "Dette française : le taux à 10 ans frôle 5 %, un sommet depuis 2002",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Palais_Brongniart_Facade.jpg/960px-Palais_Brongniart_Facade.jpg",
+    "legende": "Le palais Brongniart à Paris, ancien siège de la Bourse (illustration)",
+    "chapeau": "Jeudi 1er octobre, le rendement de l'obligation française à dix ans (OAT) a atteint 4,92 % sur le marché secondaire, contre 4,85 % la veille : c'est son plus haut niveau depuis juillet 2002. En séance, selon Reuters, il a touché 4,9629 % avant de refluer après la présentation par le gouvernement d'un budget 2027…",
+    "eclairage": "Comment l'État emprunte, et pourquoi le taux compte",
+    "chiffres": [
+     {
+      "valeur": "4,92 %",
+      "legende": "taux à 10 ans le 1er octobre"
+     },
+     {
+      "valeur": "131 pb",
+      "legende": "écart avec l'Allemagne (jusqu'à 133)"
+     },
+     {
+      "valeur": "+61 pb",
+      "legende": "hausse en septembre"
+     }
+    ],
+    "passe": "Jeudi 1er octobre, le rendement de l'obligation française à dix ans (OAT) a atteint 4,92 % sur le marché secondaire, contre 4,85 % la veille : c'est son plus haut niveau depuis juillet 2002. En séance, selon Reuters, il a touché 4,9629 % avant de refluer après la présentation par le gouvernement d'un budget 2027 prévoyant 43 milliards d'euros de nouvelles économies. L'écart avec le taux allemand à dix ans atteint 131 points de base selon ABC Bourse et NLTO, jusqu'à 133 en séance selon Reuters, un niveau qui n'avait pas été vu depuis 2012. Sur le seul mois de septembre, le taux français a gagné 61 points de base, sa plus forte hausse mensuelle depuis fin 2022. Un point de base vaut 0,01 point de pourcentage. Les sources citent la hausse des prix du pétrole, les craintes d'inflation, les anticipations de nouvelles hausses de taux de la BCE et l'incertitude politique avant l'élection présidentielle de 2027.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/les-rendements-obligataires-se-tendent-l-oat-touche-un-sommet-depuis-2002-avant-de-refluer-17f1ead4afb4939899f3b968ad5bf028",
+      "nom": "dépêche Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/dette-francaise-le-taux-a-10-ans-atteint-4-92--un-sommet-inedit-depuis-2002_703529",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://www.nlto.fr/dette-loat-10-ans-francais-au-plus-haut-depuis-24-ans/",
+      "nom": "NLTO"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "John Plassard",
+      "contexte": "Cité Gestion Private Bank",
+      "texte": "« le risque politique français s'étend au-delà du Parlement vers 2027 »",
+      "url": "https://www.nlto.fr/dette-loat-10-ans-francais-au-plus-haut-depuis-24-ans/",
+      "source": "NLTO"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "a admis que « le réel nous rattrape »",
+      "url": "https://www.nlto.fr/dette-loat-10-ans-francais-au-plus-haut-depuis-24-ans/",
+      "source": "NLTO"
+     }
+    ],
+    "apres": "Examen du budget 2027 au Parlement dans les semaines qui viennent ; réunion de la BCE le 29 octobre.",
+    "change": "L'État paie plus cher les nouvelles dettes qu'il émet : c'est une contrainte de plus pour le budget 2027, qui doit passer par le Parlement."
+   },
+   {
+    "n": 3,
+    "theme": "ÉNERGIE",
+    "titre": "Carburants : le G7 va libérer jusqu'à 100 millions de barils de ses stocks",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Marcellois_FR21_%C3%A9oliennes_IMF2968.jpg/960px-Marcellois_FR21_%C3%A9oliennes_IMF2968.jpg",
+    "legende": "Une éolienne dans un champ (illustration)",
+    "chapeau": "Vendredi 2 octobre, à l'issue d'une visioconférence, Emmanuel Macron a annoncé que les pays du G7 libéreraient « jusqu'à 100 millions de barils » de diesel et de pétrole brut de leurs stocks stratégiques « dans les quatre mois », sous la coordination de l'Agence internationale de l'énergie (AIE). Une quantité…",
+    "eclairage": "À quoi servent les stocks stratégiques ?",
+    "chiffres": [
+     {
+      "valeur": "100 M",
+      "legende": "barils au maximum (diesel et brut)"
+     },
+     {
+      "valeur": "4 mois",
+      "legende": "durée de la libération"
+     },
+     {
+      "valeur": "~100 $",
+      "legende": "prix du baril de Brent"
+     }
+    ],
+    "passe": "Vendredi 2 octobre, à l'issue d'une visioconférence, Emmanuel Macron a annoncé que les pays du G7 libéreraient « jusqu'à 100 millions de barils » de diesel et de pétrole brut de leurs stocks stratégiques « dans les quatre mois », sous la coordination de l'Agence internationale de l'énergie (AIE). Une quantité importante de diesel doit être libérée dans les vingt premiers jours, selon Reuters et Al Jazeera. Selon franceinfo, Donald Trump avait pressé les Européens de puiser dans leurs réserves, en menaçant de bloquer les exportations de diesel américain vers l'Europe. Le Brent a brièvement reculé autour de 98 dollars selon franceinfo avant de repasser au-dessus de 100 dollars ; il cédait 1,98 % à 100,28 dollars à 13h55 GMT selon Le JDD. Cette libération s'ajoute à un accord de 400 millions de barils de l'AIE décidé en mars, dont environ deux tiers ont déjà été libérés.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.investing.com/news/stock-market-news/europe-discussing-plan-for-diesel-stock-releases-after-us-pressure-source-says-4929100",
+      "nom": "dépêche Reuters via Investing.com"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/100-millions-de-barils-du-g7-liberes-l-annonce-d-emmanuel-macron-va-t-elle-faire-baisser-les-prix-a-la-pompe_8220349.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.lejdd.fr/politique/carburants-le-g7-va-liberer-jusqua-100-millions-de-barils-pour-faire-baisser-les-prix-185016",
+      "nom": "Le JDD"
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+      "nom": "Al Jazeera"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« pas de limitation, d'interdiction d'export entre les membres du G7 »",
+      "url": "https://www.lejdd.fr/politique/carburants-le-g7-va-liberer-jusqua-100-millions-de-barils-pour-faire-baisser-les-prix-185016",
+      "source": "Le JDD"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Thierry Bros",
+      "contexte": "professeur à Sciences Po, spécialiste de l'énergie",
+      "texte": "« on s'achète du temps »",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/100-millions-de-barils-du-g7-liberes-l-annonce-d-emmanuel-macron-va-t-elle-faire-baisser-les-prix-a-la-pompe_8220349.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Libération étalée sur quatre mois, avec une première tranche de diesel dans les vingt premiers jours.",
+    "change": "Les prix à la pompe pourraient reculer de quelques centimes, mais temporairement, selon Thierry Bros (franceinfo). Le diesel est le carburant visé en priorité.",
+    "illustration": true
+   },
+   {
+    "n": 4,
+    "theme": "MONDE",
+    "titre": "États-Unis : 29 000 emplois créés en septembre, bien moins qu'attendu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vue_a%C3%A9rienne_de_la_ville_du_Havre.jpg/960px-Vue_a%C3%A9rienne_de_la_ville_du_Havre.jpg",
+    "legende": "Le port du Havre vu du ciel (illustration)",
+    "chapeau": "Vendredi 2 octobre, le Bureau of Labor Statistics (BLS), l'institut statistique du ministère du Travail américain, a annoncé 29 000 créations d'emplois dans le secteur non agricole en septembre, avec un taux de chômage de 4,2 %. Les prévisions allaient d'environ 84 000 à 95 000 selon les sources.",
+    "eclairage": "Pourquoi ce chiffre compte pour tout le monde",
+    "chiffres": [
+     {
+      "valeur": "29 000",
+      "legende": "emplois créés en septembre"
+     },
+     {
+      "valeur": "4,2 %",
+      "legende": "taux de chômage"
+     },
+     {
+      "valeur": "-60 000",
+      "legende": "révision des chiffres de juillet et août"
+     }
+    ],
+    "passe": "Vendredi 2 octobre, le Bureau of Labor Statistics (BLS), l'institut statistique du ministère du Travail américain, a annoncé 29 000 créations d'emplois dans le secteur non agricole en septembre, avec un taux de chômage de 4,2 %. Les prévisions allaient d'environ 84 000 à 95 000 selon les sources. Les chiffres de juillet ont été révisés de 31 000 emplois à la baisse et ceux d'août de 29 000. Le salaire horaire moyen a augmenté de 5 cents à 37,81 dollars, soit +3,0 % sur douze mois. La santé a ajouté 17 000 emplois, plus lentement que son rythme moyen des douze derniers mois (33 000 par mois).",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "nom": "BLS"
+     },
+     {
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-soutenu-par-la-baisse-des-prix-du-petrole-le-cac-40-termine-dans-le-vert-mais-cede-22-sur-la-semaine-1171214.html",
+      "nom": "BFM Bourse"
+     },
+     {
+      "url": "https://www.babypips.com/news/headline-us-jobs-report-september-2026-payrolls-miss-fed-hike-odds",
+      "nom": "Babypips"
+     },
+     {
+      "url": "https://www.wichitaliberty.org/economics/september-2026-jobs-report/",
+      "nom": "Wichita Liberty"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Bureau of Labor Statistics",
+      "contexte": "institut statistique américain",
+      "texte": "l'emploi et le chômage « changed little in September »",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "source": "BLS"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Wichita Liberty",
+      "contexte": "analyse publiée le 2 octobre",
+      "texte": "parle d'un marché du travail « low-hire, low-fire », où les entreprises recrutent peu et licencient peu",
+      "url": "https://www.wichitaliberty.org/economics/september-2026-jobs-report/",
+      "source": "Wichita Liberty"
+     }
+    ],
+    "apres": "Minutes de la Fed mercredi 7 octobre ; prochain rapport sur l'emploi le 6 novembre.",
+    "change": "Des créations d'emplois faibles alimentent les anticipations sur la politique de la Fed, et avec elles le cours du dollar et les taux d'emprunt des États.",
+    "illustration": true
+   },
+   {
+    "n": 5,
+    "theme": "ENTREPRISES",
+    "titre": "Sanofi élargit son alliance avec Regeneron : 1 milliard de dollars versés d'emblée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg/960px-Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg",
+    "legende": "L'entrée du siège de Sanofi à Gentilly (illustration)",
+    "chapeau": "Jeudi 1er octobre, Sanofi et Regeneron ont annoncé l'élargissement de leur alliance, née en 2003 et à l'origine du médicament Dupixent. Quatre anticorps d'immunologie à action prolongée, inventés par Regeneron, sont concernés.",
+    "eclairage": "Acompte, paiements d'étape : comment se paie une alliance pharmaceutique",
+    "chiffres": [
+     {
+      "valeur": "1 Md$",
+      "legende": "versé d'emblée à Regeneron"
+     },
+     {
+      "valeur": "7 Md$",
+      "legende": "maximum en paiements d'étape"
+     },
+     {
+      "valeur": "4",
+      "legende": "nouveaux anticorps concernés"
+     }
+    ],
+    "passe": "Jeudi 1er octobre, Sanofi et Regeneron ont annoncé l'élargissement de leur alliance, née en 2003 et à l'origine du médicament Dupixent. Quatre anticorps d'immunologie à action prolongée, inventés par Regeneron, sont concernés. Regeneron reçoit 1 milliard de dollars à la signature et jusqu'à 7 milliards de dollars supplémentaires liés à des étapes de développement, d'autorisation et de commercialisation. Les coûts de développement et les futurs bénéfices sont partagés à parts égales. Un seul anticorps (REGN20423, contre la dermatite atopique) est en essai de phase 1 ; les trois autres doivent entrer en essais cliniques en 2027. Les deux groupes ont aussi mis fin aux litiges liés à leur collaboration. En Bourse, l'action Sanofi a d'abord progressé de 1,5 % jeudi matin (Zonebourse), puis a reculé d'environ 3 % vendredi à Paris (70,81 € à la clôture selon Ad-hoc-news), avec un plus bas sur 52 semaines à 69,75 € en séance selon Investing.com.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526410232/d143371dex991.htm",
+      "nom": "communiqué Sanofi (SEC)"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/sanofi-va-verser-1-milliard-d-euros-a-regeneron-pour-developper-ensemble-des-anticorps-ce785ad3dd8ef422",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-sanofi-chutetelle-a-un-plus-bas-de-52-semaines--93CH-3618920",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sanofi-stock-falls-3-13-percent-after-regeneron-deal-expands-pipeline-costs/70221625",
+      "nom": "Ad-hoc-news"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Belén Garijo",
+      "contexte": "directrice générale de Sanofi",
+      "texte": "« This is a deliberate first step in igniting Sanofi's innovation engine. »",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526410232/d143371dex991.htm",
+      "source": "communiqué Sanofi"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Leonard Schleifer",
+      "contexte": "président-directeur général de Regeneron",
+      "texte": "« By expanding our Alliance, we are positioning promising new long-acting antibodies for the kind of rapid, global impact that our shared work on Dupixent has already achieved. »",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526410232/d143371dex991.htm",
+      "source": "communiqué Sanofi"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Jefferies",
+      "contexte": "banque d'affaires",
+      "texte": "« cet élargissement [de l'alliance] doit être considéré comme positif, car il témoigne de la volonté de la nouvelle directrice générale de s'attaquer aux principales incertitudes des investisseurs »",
+      "url": "https://www.zonebourse.com/actualite-bourse/sanofi-va-verser-1-milliard-d-euros-a-regeneron-pour-developper-ensemble-des-anticorps-ce785ad3dd8ef422",
+      "source": "Zonebourse"
+     }
+    ],
+    "apres": "Entrée en essais cliniques des trois autres anticorps en 2027.",
+    "change": "Sanofi engage des sommes importantes sur des médicaments encore au stade précoce. Les résultats dépendront des essais cliniques, dont trois n'ont pas encore commencé."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Air Liquide : journée investisseurs en ligne (15h à 18h) et présentation de son nouveau plan stratégique. PMI services de la zone euro et indice ISM des…"
+   },
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Fed : publication des minutes de sa dernière réunion (20h)."
+   },
+   {
+    "jour": "8",
+    "mois": "OCT.",
+    "texte": "Résultats du distributeur britannique Tesco et de PepsiCo."
+   },
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Confiance des consommateurs de l'université du Michigan ; résultats de la compagnie aérienne Delta Air Lines."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Eurostat : inflation définitive de septembre en zone euro."
+   },
+   {
+    "jour": "29",
+    "mois": "OCT.",
+    "texte": "BCE : réunion de politique monétaire."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "OAT",
+    "definition": "Obligation assimilable du Trésor : le titre de dette que l'État français émet pour emprunter. Son taux à 10 ans est la référence du coût de la dette."
+   },
+   {
+    "terme": "Spread",
+    "definition": "L'écart entre le taux d'emprunt de deux pays, ici la France et l'Allemagne. Plus il grandit, plus les investisseurs réclament une prime pour prêter à la France."
+   },
+   {
+    "terme": "Taux de la facilité de dépôt",
+    "definition": "Le taux que la BCE verse aux banques qui lui confient leur argent. C'est son principal taux directeur : il passe à 2,50 % depuis le 10 septembre."
+   },
+   {
+    "terme": "Paiement d'étape",
+    "definition": "Une somme due seulement si un médicament franchit une étape prévue au contrat (essais, autorisation, ventes)."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le G7 a décidé de libérer 100 millions de barils de pétrole en un seul mois.",
+   "reponse": false,
+   "explication": "Faux : le G7 a annoncé la libération de « jusqu'à 100 millions de barils » de diesel et de pétrole brut sur quatre mois, sous la coordination de l'Agence internationale de l'énergie."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-05",
+  "minutes": 4,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "JUSTICE",
+    "titre": "Hermione : six mois de sursis pour l'association propriétaire de la réplique",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porte_arsenalRochefort.jpg/960px-Porte_arsenalRochefort.jpg",
+    "legende": "La porte de l'arsenal de Rochefort, port d'attache de la réplique de l'Hermione",
+    "chapeau": "Le 1er octobre 2026, le tribunal de La Rochelle a accordé un nouveau délai de six mois à l'association Hermione-La Fayette, propriétaire de la réplique de la frégate de La Fayette, avant de statuer sur la poursuite de la procédure ou sur une liquidation judiciaire. L'association est en redressement judiciaire depuis…",
+    "eclairage": "Que veut dire « sursis » pour une association ?",
+    "chiffres": [
+     {
+      "valeur": "5 M€",
+      "legende": "environ à trouver pour remettre à l'eau"
+     },
+     {
+      "valeur": "19 M€",
+      "legende": "de subventions depuis la création"
+     },
+     {
+      "valeur": "2027",
+      "legende": "prochaine audience 14 avril"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, le tribunal de La Rochelle a accordé un nouveau délai de six mois à l'association Hermione-La Fayette, propriétaire de la réplique de la frégate de La Fayette, avant de statuer sur la poursuite de la procédure ou sur une liquidation judiciaire. L'association est en redressement judiciaire depuis octobre 2025. Le navire est en cale sèche à Anglet, près de Bayonne, depuis septembre 2021, et sa coque est attaquée par des champignons. Il manque environ 5 millions d'euros pour le remettre à l'eau et le ramener à Rochefort, son port d'attache. Selon les sources, les offres de reprise déposées, dont celles de Tugdual et Kenan Jaouen et du groupe Presence de Christophe Degnéro, ont été écartées par le tribunal ou retirées, comme celle du Centre international de la mer. L'association emploie 10 permanents et 18 saisonniers. La prochaine audience est fixée au 14 avril 2027.",
+    "points": [
+     "Une association peut, comme une entreprise, entrer en redressement judiciaire : le tribunal suit ses comptes pendant une période d'observation pour voir si elle peut continuer.",
+     "À la fin de cette période, le tribunal choisit : plan de continuation, reprise par un tiers, ou liquidation (vente des actifs, fin de l'activité).",
+     "Ici, la prolongation est exceptionnelle : la durée totale de l'observation est encadrée par la loi, selon Aquitaine Online."
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/culture/patrimoine/hermione/un-nouveau-delai-accorde-a-l-association-proprietaire-de-la-replique-de-l-hermione_8218390.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/l-hermione-echappe-a-la-liquidation-judiciaire-un-nouveau-sursis-de-six-mois-accorde-a-l-association-qui-gere-le-bateau-7316340",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://www.aquitaineonline.com/actualites-en-aquitaine/poitou-charentes/13508-hermione-sursis-tribunal-rochelle-2027.html",
+      "nom": "Aquitaine Online"
+     },
+     {
+      "url": "https://www.nouvelle-aquitaine.fr/linstitution/le-conseil-regional/les-seances-plenieres/seance-pleniere-des-13-et-14-octobre-2025",
+      "nom": "Région Nouvelle-Aquitaine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "JUSTICE",
+      "qui": "Tribunal de La Rochelle",
+      "contexte": "décision du 1er octobre",
+      "texte": "Il accorde un délai exceptionnel de six mois et renvoie l'affaire au 14 avril 2027 pour choisir entre la poursuite de la restructuration et la liquidation. Propos résumés sans guillemets.",
+      "url": "https://www.franceinfo.fr/culture/patrimoine/hermione/un-nouveau-delai-accorde-a-l-association-proprietaire-de-la-replique-de-l-hermione_8218390.html",
+      "source": "Source"
+     }
+    ],
+    "apres": "Audience du 14 avril 2027 au tribunal de La Rochelle, qui tranchera entre poursuite de la restructuration et liquidation.",
+    "change": "L'association n'est pas liquidée à ce stade : elle poursuit son activité, dont les visites du navire, et dispose jusqu'au printemps 2027 pour réunir les financements. Le retour du navire à Rochefort n'a pas de date."
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Lagord : début de trois mois de travaux sur le réseau d'assainissement (rues Alfred Nobel, Victor Grignard, Fief Nouveau) ; circulation perturbée et…"
+   },
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron ( la.charente-maritime.fr)."
+   },
+   {
+    "jour": "11",
+    "mois": "OCT.",
+    "texte": "Journée de la mode responsable : de 10 h à 18 h au Musée Maritime, espaces gratuits (réparation, boutique de seconde main) ( agglo-larochelle.fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle : séance du lundi ( larochelle.fr)."
+   },
+   {
+    "jour": "14",
+    "mois": "AVR.",
+    "texte": "Hermione : audience au tribunal de La Rochelle (2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Redressement judiciaire",
+    "definition": "Procédure supervisée par un tribunal pour permettre à une entreprise ou une association en difficulté de continuer son activité."
+   },
+   {
+    "terme": "Période d'observation",
+    "definition": "Temps pendant lequel le tribunal examine la situation avant de choisir la suite."
+   },
+   {
+    "terme": "Liquidation judiciaire",
+    "definition": "Fin de l'activité : les biens sont vendus pour rembourser les créanciers."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le tribunal de La Rochelle a prononcé la liquidation judiciaire de l'association Hermione-La Fayette.",
+   "reponse": false,
+   "explication": "Le tribunal a accordé le 1er octobre 2026 un délai supplémentaire de six mois ; il se prononcera de nouveau le 14 avril 2027."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-05",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : le Premier ministre fixe « cinq chantiers » et demande la reprise des cours",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG/960px-P1030651_Paris_V_Lyc%C3%A9e_Henri_IV_rue_Clotilde_rwk.JPG",
+    "legende": "Façade d'un lycée parisien (illustration)",
+    "chapeau": "Dimanche 4 octobre, le Premier ministre Sébastien Lecornu a adressé à sept ministres une lettre qui fixe « cinq chantiers » en réponse au mouvement lycéen : remplacement des absences longues d'enseignants (premier bilan attendu le 16 octobre), état des bâtiments avec les régions (réunion en visioconférence mardi 6…",
+    "eclairage": "Qui décide de quoi dans un lycée ?",
+    "chiffres": [
+     {
+      "valeur": "400-500",
+      "legende": "lycées aux cours suspendus lundi"
+     },
+     {
+      "valeur": "5",
+      "legende": "chantiers annoncés"
+     },
+     {
+      "valeur": "6 oct.",
+      "legende": "« acte III » de mobilisation"
+     }
+    ],
+    "passe": "Dimanche 4 octobre, le Premier ministre Sébastien Lecornu a adressé à sept ministres une lettre qui fixe « cinq chantiers » en réponse au mouvement lycéen : remplacement des absences longues d'enseignants (premier bilan attendu le 16 octobre), état des bâtiments avec les régions (réunion en visioconférence mardi 6 octobre), emplois du temps, Parcoursup 2027 et suites données à la parole des lycéens. Il demande des premières décisions avant la fin du mois d'octobre et que les cours reprennent lundi 5 octobre « partout » où la sécurité le permet. Le même jour, le ministre de l'Éducation nationale Édouard Geffray a indiqué que les cours seraient « totalement ou partiellement » suspendus dans 400 à 500 lycées sur 3 700 lundi, dont plus de 160 en Île-de-France selon la présidente de la région Valérie Pécresse. Il a aussi chiffré le bilan depuis le début du mouvement : 78 personnels blessés et 24 établissements incendiés ou saccagés. Une nouvelle journée nationale de mobilisation, appelée « acte III » par les organisations lycéennes, est prévue mardi 6 octobre, avec une grève dans l'Éducation nationale. La lettre précise aussi que l'examen du projet de loi « casseur-payeur » sera accéléré.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-adresse-une-feuille-de-route-de-cinq-chantiers-a-ses-ministres-et-demande-des-decisions-avant-la-fin-du-mois-pour-repondre-au-mouvement-lyceen_8222518.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.ledevoir.com/monde/europe/1014239/cours-suspendus-lundi-400-500-lycees-france",
+      "nom": "dépêche AFP via Le Devoir"
+     },
+     {
+      "url": "https://lcp.fr/actualites/lycees-bloques-sebastien-lecornu-lance-cinq-chantiers-et-veut-la-reprise-des-cours",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.ici.fr/infos/societe/blocage-des-lycees-etablissements-fermes-acte-iii-a-quoi-s-attendre-cette-semaine-7838440",
+      "nom": "ICI (Radio France)"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir",
+      "nom": "France 24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, lettre du 4 octobre",
+      "texte": "« le principe est que les cours devront reprendre partout où la sécurité et l’état des locaux le permettent »",
+      "url": "https://lcp.fr/actualites/lycees-bloques-sebastien-lecornu-lance-cinq-chantiers-et-veut-la-reprise-des-cours",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale, dimanche 4 octobre",
+      "texte": "Il dit que « 78 personnels de l’Éducation nationale ont été blessés » depuis les premiers blocages.",
+      "url": "https://www.ledevoir.com/monde/europe/1014239/cours-suspendus-lundi-400-500-lycees-france",
+      "source": "AFP via Le Devoir"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur de LFI, dimanche 4 octobre",
+      "texte": "« S’il y a quelqu’un qui est responsable de cette mobilisation, c’est vous ! »",
+      "url": "https://www.ledevoir.com/monde/europe/1014239/cours-suspendus-lundi-400-500-lycees-france",
+      "source": "AFP via Le Devoir"
+     }
+    ],
+    "apres": "Mardi 6 octobre : journée de mobilisation et réunion avec les présidents de région ; 16 octobre : premier bilan sur les remplacements ; avant fin octobre : premières décisions.",
+    "change": "Deux dossiers avancent en parallèle : des mesures sur les moyens des lycées (remplacement, bâtiments, emplois du temps, Parcoursup) et un projet de loi sur la réparation des dégâts. Le Premier ministre précise qu'il arbitrera en tenant compte des « contraintes…"
+   },
+   {
+    "n": 2,
+    "theme": "ÉLECTIONS",
+    "titre": "Primaire de la gauche : dernier débat avant le premier tour",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wooden_ballot_box_-_Smithsonian.jpg/960px-Wooden_ballot_box_-_Smithsonian.jpg",
+    "legende": "Une urne électorale (illustration)",
+    "chapeau": "Dimanche 4 octobre, les cinq candidats à la primaire de la gauche sociale-démocrate, Raphaël Glucksmann (Place publique), Olivier Faure (PS), Ségolène Royal, Jérôme Guedj (PS) et Emmanuel Maurel (GRS), se sont retrouvés pour un dernier débat sur BFMTV. Le début de soirée a porté sur les relations avec La France…",
+    "eclairage": "Pourquoi cette primaire ?",
+    "chiffres": [
+     {
+      "valeur": "5",
+      "legende": "candidats sur le plateau"
+     },
+     {
+      "valeur": "90 000+",
+      "legende": "votants attendus par l'organisation"
+     }
+    ],
+    "passe": "Dimanche 4 octobre, les cinq candidats à la primaire de la gauche sociale-démocrate, Raphaël Glucksmann (Place publique), Olivier Faure (PS), Ségolène Royal, Jérôme Guedj (PS) et Emmanuel Maurel (GRS), se sont retrouvés pour un dernier débat sur BFMTV. Le début de soirée a porté sur les relations avec La France insoumise : Raphaël Glucksmann et Jérôme Guedj refusent toute alliance avec elle, Olivier Faure dit n'avoir « jamais parlé d'une alliance avec Jean-Luc Mélenchon », et Ségolène Royal accuse Raphaël Glucksmann d'un « hold-up » sur le PS, ce qu'il a qualifié de « pur procès d'intention ». Interpellé par Ségolène Royal sur ses propos privés évoquant une « danse du ventre à Macron », Raphaël Glucksmann s'est dit « désolé » et a parlé de mots « inélégants ». Les candidats ont ensuite évoqué les lycées, les retraites (convergence sur l'abrogation de la réforme de 2023, avec une nuance de Jérôme Guedj), l'Ukraine, le nucléaire et la régularisation des travailleurs sans papiers. La commission d'organisation table sur plus de 90 000 votants ; les inscriptions closent lundi 5 octobre à minuit.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/melenchon-encore-et-toujours-au-centre-des-debats-de-la-primaire-sociale-democrate-75927989bf965b80e245a7cd863f54ee",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.20min.ch/fr/story/primaire-de-la-gauche-le-dernier-debat-ravive-la-fracture-sur-l-alliance-avec-melenchon-103644395",
+      "nom": "dépêche AFP via 20 minutes"
+     },
+     {
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "nom": "LCP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Olivier Faure",
+      "contexte": "premier secrétaire du PS, candidat",
+      "texte": "« On ne peut pas prétendre rassembler le pays quand on a la volonté de rendre les uns et les autres irréconciliables. »",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PLACE PUBLIQUE",
+      "qui": "Raphaël Glucksmann",
+      "contexte": "eurodéputé, candidat",
+      "texte": "« Je n'ai aucune intention de diluer la famille sociale-démocrate, ni dans le mélenchonisme, ni dans la droite. »",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PRIMAIRE",
+      "qui": "Ségolène Royal",
+      "contexte": "candidate",
+      "texte": "Elle affirme qu'un « hold-up est en train de se faire sur le Parti socialiste ».",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Jérôme Guedj",
+      "contexte": "député PS, candidat",
+      "texte": "« Jean-Luc Mélenchon n’est pas Voldemort »",
+      "url": "https://www.20min.ch/fr/story/primaire-de-la-gauche-le-dernier-debat-ravive-la-fracture-sur-l-alliance-avec-melenchon-103644395",
+      "source": "AFP via 20 minutes"
+     }
+    ],
+    "apres": "Clôture des inscriptions lundi 5 octobre à minuit ; premier tour les 9 et 10 octobre.",
+    "change": "Le premier tour désigne qui défendra la social-démocratie en 2027. Le vote est ouvert aux inscrits, pas seulement aux militants.",
+    "illustration": true
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : le projet de loi de finances est entré dans le calendrier parlementaire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cambon.jpg/960px-Cambon.jpg",
+    "legende": "La Cour des comptes, rue Cambon à Paris (illustration)",
+    "chapeau": "Jeudi 1er octobre, le gouvernement a présenté en Conseil des ministres le projet de loi de finances (PLF) et le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. L'objectif affiché est de ramener le déficit public à 5 % du PIB en 2027, grâce à un effort de redressement de 54 milliards d'euros, dont…",
+    "eclairage": "Comment le budget est-il voté ?",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     },
+     {
+      "valeur": "54 Md€",
+      "legende": "effort total annoncé"
+     },
+     {
+      "valeur": "13 oct.",
+      "legende": "début en séance à l'Assemblée"
+     }
+    ],
+    "passe": "Jeudi 1er octobre, le gouvernement a présenté en Conseil des ministres le projet de loi de finances (PLF) et le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. L'objectif affiché est de ramener le déficit public à 5 % du PIB en 2027, grâce à un effort de redressement de 54 milliards d'euros, dont 43 milliards de mesures nouvelles ; le déficit est estimé à 5,4 % en 2026. Parmi les mesures : les allocations familiales maintenues au niveau de 2026 (500 millions d'euros d'économies), les aides au logement (APL) non revalorisées, un gel du point d'indice des fonctionnaires, une indexation des retraites selon leur niveau (totale sous 1 260 euros par mois, partielle entre 1 260 et 2 000 euros, nulle au-delà) et un plafond de l'abattement fiscal de 10 % des retraités abaissé de 4 439 à 3 000 euros. Le gouvernement a en revanche retiré les frais d'inscription prévus en BTS (178 euros) et en classe préparatoire (270 euros), après la mobilisation des lycéens. Aucune de ces mesures n'est votée : le Parlement peut encore les modifier, et l'exécutif n'a pas de majorité absolue.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://presse.economie.gouv.fr/?p=184684",
+      "nom": "dossier de presse, ministère de l'Économie"
+     },
+     {
+      "url": "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/",
+      "nom": "touteleurope.eu"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261001-budget-2027-mesures-annonc%C3%A9es-gouvernement-lecornu",
+      "nom": "France 24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, entretien au Figaro, 17 septembre",
+      "texte": "« Aucune pension ne diminuera »",
+      "url": "https://www.ici.fr/infos/politique/budget-2027-retraites-fonctionnaires-allocataires-etrangers-les-mesures-proposees-par-sebastien-lecornu-7109793",
+      "source": "ICI"
+     }
+    ],
+    "apres": "Commission des finances le 7 octobre ; séance à l'Assemblée à partir du 13 octobre ; vote solennel sur l'ensemble du PLF prévu le 17 novembre.",
+    "change": "Le texte fixe le cadre des recettes et des dépenses de 2027 : prestations sociales, retraites, fonction publique, impôts. Rien n'est définitif avant le vote final.",
+    "illustration": true
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "5",
+    "mois": "OCT.",
+    "texte": "Clôture des inscriptions à la primaire de la gauche, à minuit."
+   },
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "« Acte III » lycéen : journée de mobilisation et grève dans l'Éducation nationale ; réunion du Premier ministre avec les présidents de région."
+   },
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début des travaux de la commission des finances de l'Assemblée."
+   },
+   {
+    "jour": "5-8",
+    "mois": "OCT.",
+    "texte": "Parlement européen : session plénière à Strasbourg, dont un vote sur le programme de défense AGILE."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début de l'examen en séance à l'Assemblée."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "PLF / PLFSS",
+    "definition": "Projet de loi de finances (budget de l'État) et projet de loi de financement de la Sécurité sociale : les deux textes du budget, votés chaque automne par le Parlement."
+   },
+   {
+    "terme": "Article 49.3",
+    "definition": "Disposition de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est adoptée."
+   },
+   {
+    "terme": "Désindexation",
+    "definition": "Ne pas relever une prestation ou une pension au rythme de l'inflation."
+   },
+   {
+    "terme": "Primaire",
+    "definition": "Vote organisé avant l'élection pour désigner le candidat d'un camp."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans son projet de budget 2027, le gouvernement vise un déficit public de 5 % du PIB.",
+   "reponse": true,
+   "explication": "Le projet de loi de finances présenté le 1er octobre 2026 vise un déficit de 5 % du PIB en 2027, grâce à un effort de 54 milliards d'euros ; le déficit est estimé à 5,4 % en 2026."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-05",
+  "minutes": 14,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Test sanguin multicancer : l'essai NHS-Galleri ne montre pas de baisse significative des cancers avancés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leitz_117298_frei.jpg/960px-Leitz_117298_frei.jpg",
+    "legende": "Un microscope (illustration)",
+    "chapeau": "Le 1er octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai NHS-Galleri, mené en Angleterre auprès de 142 250 personnes de 50 à 77 ans. Elles ont été réparties au hasard en deux groupes : 71 122 ont eu une prise de sang annuelle analysée par le test Galleri, qui recherche dans le sang des…",
+    "eclairage": "Que mesure un test « multicancer » ?",
+    "chiffres": [
+     {
+      "valeur": "1,03",
+      "legende": "rapport de taux, stades III et IV (IC 95 % : 0,92 à 1,14)"
+     },
+     {
+      "valeur": "0,86",
+      "legende": "rapport de taux, stade IV seul (IC 95 % : 0,74 à 1,00)"
+     },
+     {
+      "valeur": "3 ans",
+      "legende": "de dépistage annuel, 142 250 participants"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai NHS-Galleri, mené en Angleterre auprès de 142 250 personnes de 50 à 77 ans. Elles ont été réparties au hasard en deux groupes : 71 122 ont eu une prise de sang annuelle analysée par le test Galleri, qui recherche dans le sang des fragments d'ADN de tumeurs, et 71 128 formaient le groupe témoin. L'objectif était de voir si le test faisait baisser le nombre de cancers diagnostiqués aux stades III et IV, parmi 12 types de cancers définis à l'avance. Le résultat principal : 300,5 cas pour 100 000 personnes-années dans le groupe testé (706 cas) contre 292,5 dans le groupe témoin (688 cas), soit un rapport de taux de 1,03, sans différence statistiquement significative (p = 0,63). Pour les cancers de stade IV seuls, l'analyse secondaire donne 145,2 contre 168,5 pour 100 000 personnes-années (rapport de taux de 0,86, intervalle de confiance de 0,74 à 1,00). L'essai est financé par Grail, l'entreprise qui commercialise le test.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://ascopost.com/news/october-2026/multicancer-early-detection-screening-does-not-reduce-overall-late-stage-cancer-diagnosis",
+      "nom": "ASCO Post (NEJM)"
+     },
+     {
+      "url": "https://www.fiercebiotech.com/medtech/grail-stock-craters-key-nhs-galleri-cancer-blood-test-trial-fails-hit-significance",
+      "nom": "Fierce Biotech"
+     },
+     {
+      "url": "https://www.lungcancerstoday.com/post/multi-cancer-early-detection-test-fails-to-reduce-late-stage-cancer-diagnoses",
+      "nom": "Lung Cancer Today"
+     },
+     {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9564213/",
+      "nom": "protocole de l'essai (PubMed Central)"
+     },
+     {
+      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/",
+      "nom": "GRAIL"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Auteurs de l'étude",
+      "contexte": "NEJM",
+      "texte": "Les auteurs indiquent qu'un suivi plus long est nécessaire pour voir comment évoluent les résultats sur les stades III et IV et la différence observée sur le stade IV.",
+      "url": "https://ascopost.com/news/october-2026/multicancer-early-detection-screening-does-not-reduce-overall-late-stage-cancer-diagnosis",
+      "source": "ASCO Post"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Nima Nabavizadeh",
+      "contexte": "investigateur principal de l'essai PATHFINDER-2, Oregon Health & Science University",
+      "texte": "« Missing the primary end point is an important thing that's taken seriously. » (« Ne pas atteindre le critère principal est un point important, pris au sérieux. »)",
+      "url": "https://www.lungcancerstoday.com/post/multi-cancer-early-detection-test-fails-to-reduce-late-stage-cancer-diagnoses",
+      "source": "Lung Cancer Today"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Grail",
+      "contexte": "fabricant du test et financeur de l'essai",
+      "texte": "Dans un communiqué lié à la présentation des résultats complets au congrès de l'ASCO, Grail met en avant une baisse des diagnostics de stade IV de 9 %, 22 % et 26 % aux trois tours successifs de dépistage, et annonce prolonger le suivi de 6 à 12 mois.",
+      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/",
+      "source": "GRAIL"
+     }
+    ],
+    "apres": "Le suivi de l'essai se poursuit et d'autres analyses sont attendues. Une décision de remboursement par un système public de santé suppose des preuves plus complètes ; aucune échéance n'est annoncée dans les sources consultées.",
+    "change": "Pour les personnes de 50 à 77 ans, le test ne fait pas partie du dépistage organisé et cet essai ne fournit pas la preuve qu'il réduit les cancers avancés. Il ne remplace pas les dépistages existants (sein, côlon, col de l'utérus). La décision de se faire…",
+    "illustration": true
+   },
+   {
+    "n": 2,
+    "theme": "CHIRURGIE",
+    "titre": "Prothèses de hanche et de genou : la chirurgie assistée par robot ne réduit pas les réinterventions, selon deux études du BMJ",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hospital-de-Bellvitge.jpg/960px-Hospital-de-Bellvitge.jpg",
+    "legende": "Un bâtiment hospitalier (illustration)",
+    "chapeau": "Le 1er octobre 2026, le BMJ a publié deux études sur la pose de prothèses de hanche et de genou avec ou sans assistance robotique. L'équipe, menée par Hasan Mohammad (Queen Mary University of London, avec les universités d'Oxford et de Bristol), a analysé le registre national des prothèses du Royaume-Uni entre 2018 et…",
+    "eclairage": "Comparer sans tirage au sort : ce que cela permet",
+    "chiffres": [
+     {
+      "valeur": "10 203",
+      "legende": "prothèses de hanche posées par robot"
+     },
+     {
+      "valeur": "22 111",
+      "legende": "prothèses de genou posées par robot"
+     },
+     {
+      "valeur": "2,5 ans",
+      "legende": "de suivi moyen"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, le BMJ a publié deux études sur la pose de prothèses de hanche et de genou avec ou sans assistance robotique. L'équipe, menée par Hasan Mohammad (Queen Mary University of London, avec les universités d'Oxford et de Bristol), a analysé le registre national des prothèses du Royaume-Uni entre 2018 et 2024 : 666 283 prothèses de hanche (dont 10 203 par robot) et 697 145 prothèses de genou (dont 22 111 par robot). Les patients opérés avec et sans robot ont été comparés après ajustement sur l'âge, le sexe, l'indice de masse corporelle, le diagnostic, l'état de santé, le type d'implant et le volume d'activité du chirurgien. Le suivi moyen est de 2,5 ans. Les auteurs ne rapportent aucune différence sur la durée de vie de la prothèse, le risque global de réintervention ou les complications. Une exception : le robot est associé à un risque plus faible de réintervention liée à un mauvais positionnement de l'implant à la hanche.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1136/bmj-2026-100709",
+      "nom": "BMJ (DOI, hanche)"
+     },
+     {
+      "url": "https://www.qmul.ac.uk/news/latest-news/2026/medicine-and-dentistry/fmd/robotic-hip-and-knee-surgery-fails-to-cut-overall-risk-of-repeat-surgery.html",
+      "nom": "Queen Mary University of London"
+     },
+     {
+      "url": "https://www.news-medical.net/news/20261001/Robotic-assisted-hip-and-knee-replacements-shows-no-clear-benefit-over-conventional-methods.aspx",
+      "nom": "News-Medical"
+     },
+     {
+      "url": "https://bmjgroup.com/robotic-surgery-offers-no-clear-benefit-over-conventional-joint-replacement-surgery/",
+      "nom": "BMJ Group"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-09-robotic-hip-knee-surgery.html",
+      "nom": "Medical Xpress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Hasan Mohammad",
+      "contexte": "auteur principal, Queen Mary University of London",
+      "texte": "« New technology should deliver meaningful benefit for patients and represent good value for a publicly funded health service. » (« Une nouvelle technologie doit apporter un bénéfice réel aux patients et un bon rapport qualité-prix pour un système de santé financé par l'argent public. »)",
+      "url": "https://www.qmul.ac.uk/news/latest-news/2026/medicine-and-dentistry/fmd/robotic-hip-and-knee-surgery-fails-to-cut-overall-risk-of-repeat-surgery.html",
+      "source": "QMUL"
+     }
+    ],
+    "apres": "Les auteurs signalent que les essais RACER, qui comparent les résultats fonctionnels rapportés par les patients, apporteront des données complémentaires. Un suivi plus long du registre permettra de juger la durée de vie des prothèses.",
+    "change": "Pour les patients qui doivent être opérés, ces données ne montrent pas, à 2,5 ans, de bénéfice du robot sur la réintervention ou les complications. Le choix de la technique se discute avec le chirurgien. Pour les hôpitaux, la question du coût se pose : les…",
+    "illustration": true
+   },
+   {
+    "n": 3,
+    "theme": "TRAITEMENT",
+    "titre": "Maladie rare FOP : le garetosmab réduit les nouvelles lésions osseuses dans un essai de phase 3 publié dans The Lancet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/FlattenedRoundPills.jpg/960px-FlattenedRoundPills.jpg",
+    "legende": "Des comprimés (illustration)",
+    "chapeau": "Le 28 septembre 2026, The Lancet a publié l'essai de phase 3 OPTIMA, mené dans 18 centres de 16 pays, sur le garetosmab, un anticorps qui neutralise la protéine activine A, impliquée dans la formation d'os à des endroits anormaux. La maladie concernée, la fibrodysplasie ossifiante progressive (FOP), est une maladie…",
+    "eclairage": "Une maladie rare, un essai petit : comment lire les chiffres",
+    "chiffres": [
+     {
+      "valeur": "−94 %",
+      "legende": "nouvelles lésions osseuses, dose de 3 mg/kg"
+     },
+     {
+      "valeur": "−90 %",
+      "legende": "nouvelles lésions osseuses, dose de 10 mg/kg"
+     },
+     {
+      "valeur": "63",
+      "legende": "adultes inclus, 56 semaines"
+     }
+    ],
+    "passe": "Le 28 septembre 2026, The Lancet a publié l'essai de phase 3 OPTIMA, mené dans 18 centres de 16 pays, sur le garetosmab, un anticorps qui neutralise la protéine activine A, impliquée dans la formation d'os à des endroits anormaux. La maladie concernée, la fibrodysplasie ossifiante progressive (FOP), est une maladie génétique ultra-rare. L'essai a inclus 63 adultes, répartis au hasard entre placebo et deux doses de garetosmab (3 et 10 mg/kg) en perfusion mensuelle pendant 56 semaines. Le nombre de nouvelles lésions osseuses est réduit de 94 % avec la dose de 3 mg/kg et de 90 % avec 10 mg/kg par rapport au placebo. Les crises (poussées) évaluées par les cliniciens sont aussi réduites, alors que celles déclarées par les patients ne diffèrent pas de façon statistiquement significative. Les effets indésirables les plus fréquents sont les abcès, l'acné, la pilosité accrue, les aphtes et les saignements de nez. La FDA a déjà autorisé le médicament (Pasatru) aux États-Unis en août 2026 chez l'adulte.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01599-0/abstract",
+      "nom": "The Lancet (OPTIMA)"
+     },
+     {
+      "url": "https://www.healio.com/news/endocrinology/20260820/fda-approves-pasatru-to-reduce-lesions-flareups-in-fibrodysplasia-ossificans-progressiva",
+      "nom": "Healio"
+     },
+     {
+      "url": "https://www.patientcareonline.com/view/fda-approves-garetosmab-for-adults-with-fibrodysplasia-ossificans-progressiva",
+      "nom": "Patient Care"
+     },
+     {
+      "url": "https://www.pharmacytimes.com/view/fda-approves-garetosmab-grts-first-treatment-for-fop-bone-growth",
+      "nom": "Pharmacy Times"
+     },
+     {
+      "url": "https://checkorphan.org/news/regenerons-garetosmab-meets-phase-3-optima-trial-primary-endpoint-in-fop-showing-up-to-94-reduction-in-new-bone-lesions/",
+      "nom": "CheckOrphan"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Kathryn Dahir",
+      "contexte": "investigatrice principale, Vanderbilt University",
+      "texte": "« For people living with FOP, every irregular new bone formation is a step toward disability and potential loss of mobility » (« Pour les personnes atteintes de FOP, chaque nouvelle formation osseuse irrégulière est un pas vers le handicap et la perte possible de mobilité »).",
+      "url": "https://www.patientcareonline.com/view/fda-approves-garetosmab-for-adults-with-fibrodysplasia-ossificans-progressiva",
+      "source": "Patient Care"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "FDA",
+      "contexte": "États-Unis",
+      "texte": "Le médicament est autorisé en août 2026 pour réduire les nouvelles lésions osseuses et les poussées évaluées par les cliniciens chez l'adulte. Les mises en garde portent sur le risque pour le fœtus, les infections de la peau et des tissus mous, et les saignements de nez parfois sévères.",
+      "url": "https://www.pharmacytimes.com/view/fda-approves-garetosmab-grts-first-treatment-for-fop-bone-growth",
+      "source": "Pharmacy Times"
+     }
+    ],
+    "apres": "Les sources consultées ne mentionnent pas de décision européenne ni française. L'autorisation dans l'Union européenne passerait par l'EMA, puis le remboursement par la HAS.",
+    "change": "Pour les adultes atteints de FOP aux États-Unis, un traitement autorisé existe désormais ; selon Healio, un autre médicament, le palovarotène, est autorisé depuis août 2023. Le choix du traitement se décide avec une équipe spécialisée.",
+    "illustration": true
+   },
+   {
+    "n": 4,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Grippe et Covid-19 : la campagne de vaccination commence le 13 octobre, avec un seul rendez-vous possible pour les deux",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/H%C3%B4pital_de_la_Piti%C3%A9-Salp%C3%AAtri%C3%A8re%2C_Paris_21_January_2017.jpg/960px-H%C3%B4pital_de_la_Piti%C3%A9-Salp%C3%AAtri%C3%A8re%2C_Paris_21_January_2017.jpg",
+    "legende": "L'entrée de l'hôpital de la Pitié-Salpêtrière, à Paris (illustration)",
+    "chapeau": "Les campagnes de vaccination contre la grippe et le Covid-19 commencent le 13 octobre 2026, en France, à l'exception de Mayotte et de La Réunion. Elles sont recommandées aux personnes de 65 ans et plus et aux personnes à risque de forme grave : femmes enceintes, personnes immunodéprimées, résidents d'établissements…",
+    "eclairage": "Pourquoi vacciner à l'automne, et pourquoi pas plus tard ?",
+    "chiffres": [
+     {
+      "valeur": "13/10",
+      "legende": "début de la campagne"
+     },
+     {
+      "valeur": "65 ans",
+      "legende": "et plus : public recommandé en priorité"
+     },
+     {
+      "valeur": "2 en 1",
+      "legende": "deux vaccins lors d'une même séance"
+     }
+    ],
+    "passe": "Les campagnes de vaccination contre la grippe et le Covid-19 commencent le 13 octobre 2026, en France, à l'exception de Mayotte et de La Réunion. Elles sont recommandées aux personnes de 65 ans et plus et aux personnes à risque de forme grave : femmes enceintes, personnes immunodéprimées, résidents d'établissements médico-sociaux, personnes atteintes de maladies chroniques, ainsi que les professionnels en contact régulier avec des personnes fragiles. Les deux vaccins peuvent être administrés lors de la même séance, sur deux sites d'injection différents, sans intervalle minimal entre eux. Côté Covid-19, le vaccin Comirnaty XFG, adapté au sous-lignage Omicron XFG, est utilisé (30 microgrammes dès 12 ans). Côté grippe, cinq vaccins trivalents sont disponibles, dont Efluelda et Fluad préférentiellement pour les 65 ans et plus. Santé publique France indique, dans son bulletin francilien du 30 septembre, une augmentation du recours aux soins pour suspicion de Covid-19 en semaine 39 et une circulation en hausse du virus dans les eaux usées.",
+    "points": [],
+    "sources": [
+     {
+      "url": "https://www.vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/covid-19",
+      "nom": "Vaccination Info Service"
+     },
+     {
+      "url": "https://www.santepubliquefrance.fr/regions-et-territoires/ile-de-france/bulletin-regional/surveillance-sanitaire-en-ile-de-france-bulletin-du-30-septembre-2026",
+      "nom": "Santé publique France"
+     },
+     {
+      "url": "https://www.vidal.fr/actualites/38333-grippe-et-covid-19-tous-les-details-de-la-campagne-de-vaccination-2026-2027.html",
+      "nom": "Vidal"
+     },
+     {
+      "url": "https://www.lemoniteurdespharmacies.fr/nouvelles-missions/vaccination/grippe-et-covid-19-debut-de-la-campagne-de-vaccination-le-13-octobre",
+      "nom": "Le Moniteur des pharmacies"
+     },
+     {
+      "url": "https://ma-sante.news/grippe-covid-19-campagne-vaccination-demarre-13-octobre/",
+      "nom": "Ma Santé"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Vaccination Info Service",
+      "contexte": "site d'information officiel sur les vaccins",
+      "texte": "« Les deux vaccinations peuvent être pratiquées dans le même temps, sur deux sites d'injection différents. »",
+      "url": "https://www.vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/covid-19",
+      "source": "Vaccination Info Service"
+     }
+    ],
+    "apres": "La campagne s'ouvre le 13 octobre. Les sources consultées ne donnent pas d'objectif chiffré de couverture vaccinale pour cette saison.",
+    "change": "Pour les personnes concernées par les recommandations, un seul rendez-vous peut suffire pour les deux vaccins. Pour toute personne qui se demande si elle est concernée, la réponse se trouve auprès d'un médecin, d'un pharmacien ou d'un infirmier.",
+    "illustration": true
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19 en France (hors Mayotte et La Réunion)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "1,36 M",
+   "texte": "de prothèses de hanche et de genou (666 283 + 697 145) analysées dans les deux études du BMJ sur la chirurgie assistée par robot."
+  },
+  "lexique": [
+   {
+    "terme": "Critère principal",
+    "definition": "La question à laquelle un essai doit répondre, fixée avant son début. Dans NHS-Galleri : moins de cancers aux stades III et IV ?"
+   },
+   {
+    "terme": "Intervalle de confiance",
+    "definition": "La plage de valeurs compatibles avec le résultat observé. Si elle contient 1 pour un rapport, la différence peut être due au hasard."
+   },
+   {
+    "terme": "Étude observationnelle",
+    "definition": "Les chercheurs observent des patients sans tirage au sort. Elle montre des associations, mais prouve moins bien une cause."
+   },
+   {
+    "terme": "Essai de phase 3",
+    "definition": "Un grand essai, en général randomisé contre placebo ou contre un traitement de référence, qui sert à décider d'une autorisation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai NHS-Galleri, le test sanguin multicancer a réduit de façon statistiquement significative le nombre de cancers de stade III et IV.",
+   "reponse": false,
+   "explication": "Le critère principal n'a pas atteint la significativité statistique : rapport de taux de 1,03 (intervalle de confiance à 95 % de 0,92 à 1,14), selon la publication dans le NEJM."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-04",
   "minutes": 11,
   "sujets": [
