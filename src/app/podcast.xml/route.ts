@@ -19,7 +19,7 @@ export function GET() {
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Éclairage, la politique sans prérequis</title>
-    <link>${SITE}/ecouter</link>
+    <link>${SITE}/podcast</link>
     <language>fr-fr</language>
     <description>Chaque matin, l'actualité politique expliquée à deux voix, à partir de faits vérifiés et sourcés.</description>
     <itunes:author>Éclairage</itunes:author>

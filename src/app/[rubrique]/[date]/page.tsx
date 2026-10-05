@@ -33,11 +33,15 @@ export default async function Edition({ params }: { params: Promise<{ rubrique: 
         <p className="text-[15px] font-semibold text-gris">{dateLongue(date)} · {e.sujets.length} sujets · {e.minutes} min de lecture</p>
         <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">{R.nom}</h1>
       </section>
-      {(() => { const ep = episode(date, rubrique); return ep ? <Lecteur src={ep.url} titre={`Écouter : ${ep.titre}`} duree={ep.duree} /> : null; })()}
       <div className="grid items-stretch gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {e.sujets.map((s) => <CarteSujet key={s.n} e={e} s={s} />)}
       </div>
 
+      {(() => { const ep = episode(date, rubrique); return ep ? (
+        <section className="mt-4 flex flex-col gap-2">
+          <p className="px-2 text-[13px] font-extrabold tracking-[0.06em]">ÉCOUTER CETTE ÉDITION · <Link href={`/ecouter/${ep.date}`} className="underline underline-offset-4">sujets et transcription</Link></p>
+          <Lecteur src={ep.url} titre={ep.titre} duree={ep.duree} />
+        </section>) : null; })()}
       <details className="carte mt-4 p-5 sm:p-7">
         <summary className="cursor-pointer text-[15px] font-extrabold">Voir l&apos;édition telle qu&apos;envoyée par email (lexique, agenda, toutes les sources)</summary>
         <article className="edition-email mt-6" dangerouslySetInnerHTML={{ __html: htmlEdition(rubrique, date) }} />

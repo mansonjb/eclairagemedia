@@ -21,15 +21,6 @@ export default function Accueil() {
         <Parcours date={aujourdhui} />
       </section>
 
-      {ep && (
-        <section className="flex flex-col gap-2">
-          <div className="flex flex-wrap items-center justify-between gap-2 px-2">
-            <p className="text-[13px] font-extrabold tracking-[0.06em]">ÉCOUTER L&apos;ÉDITION POLITIQUE{ep.date === aujourdhui ? " DU JOUR" : ""} · {minutes(ep.duree)}</p>
-            <Link href={`/ecouter/${ep.date}`} className="text-[13px] font-bold underline underline-offset-4">Sujets et transcription</Link>
-          </div>
-          <Lecteur src={ep.url} titre={ep.titre} duree={ep.duree} />
-        </section>
-      )}
       <Journee date={aujourdhui} /></UneProvider>
 
       <Section lien={{ href: `/semaine/${semaine}`, texte: `La semaine ${libelleSemaine(semaine)}` }}>Les jours précédents</Section>
@@ -46,6 +37,19 @@ export default function Accueil() {
           </Link>
         ))}
       </div>
+      {ep && (
+        <section className="carte mt-4 flex flex-col gap-4 p-5 sm:p-7">
+          <div className="flex flex-wrap items-end justify-between gap-3">
+            <div>
+              <span className="pastille bg-jaune text-encre">PODCAST · {minutes(ep.duree)}</span>
+              <h2 className="d mt-3 text-[26px] leading-tight sm:text-[30px]">L&apos;édition politique{ep.date === aujourdhui ? " du jour" : ""}, à écouter</h2>
+              <p className="mt-1 text-[15px] text-gris">Léa et Paul reprennent les sujets, à partir des faits vérifiés de l&apos;édition.</p>
+            </div>
+            <Link href="/podcast" className="rounded-full bg-fond px-4 py-2.5 text-[14px] font-bold hover:bg-lavande">Tous les épisodes →</Link>
+          </div>
+          <Lecteur src={ep.url} titre={ep.titre} duree={ep.duree} />
+        </section>
+      )}
     </main>
   );
 }

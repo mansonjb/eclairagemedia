@@ -20,7 +20,7 @@ export default async function Ecouter({ params }: P) {
   return (
     <main className="mx-auto flex w-full max-w-4xl flex-col gap-5 pt-6">
       <div className="flex flex-wrap items-center gap-2">
-        <Link href="/ecouter" className="rounded-full bg-white px-4 py-2.5 text-[14px] font-bold hover:bg-lavande">← Tous les épisodes</Link>
+        <Link href="/podcast" className="rounded-full bg-white px-4 py-2.5 text-[14px] font-bold hover:bg-lavande">← Tous les épisodes</Link>
         <span className="pastille bg-jaune text-encre">PODCAST · {minutes(e.duree)}</span>
       </div>
       <section className="px-2">
