@@ -18,7 +18,7 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
   const etapes = [
     ["LE FAIT", premierePhrase(s.chapeau)],
     ["CE QUE ÇA CHANGE", coupe(s.change, 150)],
-    ["ET APRÈS ?", coupe(s.apres, 150)],
+    ["ET APRÈS ?", coupe(s.apres, 150)],
   ].filter(([, t]) => t);
   return (
     <article className="carte flex w-full flex-col p-3">
@@ -95,7 +95,7 @@ export default function Journee({ date }: { date: string }) {
               {eds.map((e, k) => (
                 <Link key={e.rubrique} href={`/${e.rubrique}/${date}`} className={`flex items-start gap-3 py-2.5 text-[15px] leading-snug hover:text-bleu ${k < eds.length - 1 ? "border-b border-filet" : ""}`}>
                   <span className="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-[3px]" style={{ backgroundColor: RUBRIQUES[e.rubrique].couleur }} />
-                  <span><b>{RUBRIQUES[e.rubrique].court} :</b> {e.sujets[0]?.titre}</span>
+                  <span><b>{RUBRIQUES[e.rubrique].court}&nbsp;:</b> {e.sujets[0]?.titre}</span>
                 </Link>
               ))}
             </section>
@@ -121,7 +121,7 @@ export default function Journee({ date }: { date: string }) {
         <Link href="/barometre" className="carte group grid items-center gap-6 p-6 sm:p-8 lg:grid-cols-[1fr_1.4fr]">
           <div>
             <span className="pastille bg-lavande text-bleu">BAROMÈTRE PRÉSIDENTIELLE 2027</span>
-            <p className="d mt-4 text-[30px] leading-[1.05] sm:text-[38px]">Qui va prendre <span className="surligne">l&apos;avantage ?</span></p>
+            <p className="d mt-4 text-[30px] leading-[1.05] sm:text-[38px]">Qui va prendre <span className="surligne whitespace-nowrap">l&apos;avantage&nbsp;?</span></p>
             <p className="mt-3 text-[15px] text-gris">Sondages, paris Polymarket et bruit en ligne, réunis en un score sur 100. Mis à jour chaque matin.</p>
             <span className="mt-5 inline-block rounded-full bg-encre px-5 py-3 text-[14px] font-extrabold text-white group-hover:bg-black">Voir tous les candidats →</span>
           </div>
@@ -132,9 +132,13 @@ export default function Journee({ date }: { date: string }) {
                 <div key={c.nom} className="flex flex-col items-center">
                   <p className="d text-center text-[16px] leading-tight sm:text-[18px]">{c.nom}</p>
                   <span className="pastille mt-1.5 text-white" style={{ backgroundColor: c.couleur }}>{c.etiquette}</span>
-                  <div className={`mt-3 flex w-full flex-col items-center rounded-t-[18px] pt-4 ${rang === 1 ? "h-36 bg-jaune" : rang === 2 ? "h-28 bg-lavande" : "h-20 bg-[#ffe4d9]"}`}>
-                    <p className="d text-[34px] leading-none">{c.score}</p>
-                    <p className="text-[11px] font-extrabold opacity-60">{rang}{rang === 1 ? "er" : "e"}</p>
+                  {/* même style que le podium de la page Baromètre : marches lavande, rang en bas */}
+                  <div className={`mt-3 flex w-full flex-col items-center justify-between rounded-t-[18px] bg-lavande pb-3 pt-4 ${rang === 1 ? "h-44" : rang === 2 ? "h-36" : "h-32"}`}>
+                    <div className="flex flex-col items-center">
+                      <p className="d text-[34px] leading-none">{c.score}</p>
+                      <p className="mt-1 text-[10.5px] font-extrabold tracking-[0.04em] text-gris">SCORE /100</p>
+                    </div>
+                    <p className="flex h-9 w-9 items-center justify-center rounded-full bg-white text-[14px] font-extrabold">{rang}<sup className="text-[9px]">{rang === 1 ? "er" : "e"}</sup></p>
                   </div>
                 </div>
               );

@@ -37,7 +37,7 @@ export default function Barometre() {
     <main className="flex flex-col gap-5 pt-7">
       <section className="px-2">
         <p className="text-[15px] font-semibold text-gris">{b.date ? `Relevé du ${fmt(b.date)}` : "Baromètre"} · mis à jour chaque matin</p>
-        <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">Présidentielle 2027 : <span className="surligne">qui va prendre l&apos;avantage ?</span></h1>
+        <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">Présidentielle 2027 : <span className="surligne">qui va prendre l&apos;avantage&nbsp;?</span></h1>
         <p className="mt-4 text-[16.5px] leading-relaxed text-gris">Le score Éclairage combine trois mesures : les sondages, les paris sur Polymarket et le bruit en ligne, chacune ramenée sur 100. C&apos;est un indicateur de dynamique, pas une prédiction : aucune mesure ne dit qui gagnera l&apos;élection d&apos;avril 2027.{!b.sondage && " Pas encore de sondage vérifié dans ce relevé : le score repose aujourd'hui sur Polymarket et l'attention en ligne."}</p>
       </section>
       <Podium candidats={b.candidats} poids={b.poids} />
@@ -87,7 +87,7 @@ function Methode({ b }: { b: { sondage: { methode?: string; nb?: number; url: st
       </div>
       <div className="grid gap-5 lg:grid-cols-2">
         <div>
-          <h3 className="d text-[20px]">Le podium tient-il avec d&apos;autres poids ?</h3>
+          <h3 className="d text-[20px]">Le podium tient-il avec d&apos;autres poids&nbsp;?</h3>
           <p className="mt-1 text-[14px] text-gris">Podium actuel : {ref}.</p>
           <ul className="mt-2 space-y-1.5 text-[14.5px]">
             {variantes.map(([l, p]) => { const v = podiumAvec(b.candidats, p).join(", "); return (
@@ -96,7 +96,7 @@ function Methode({ b }: { b: { sondage: { methode?: string; nb?: number; url: st
         </div>
         <div>
           <h3 className="d text-[20px]">L&apos;attention en ligne, en détail</h3>
-          <p className="mt-1 text-[14px] text-gris">Parts de chaque personnalité sur 7 jours, comparées aux 7 jours précédents, pondérées ainsi :</p>
+          <p className="mt-1 text-[14px] text-gris">Parts de chaque personnalité sur 7 jours, comparées aux 7 jours précédents, pondérées ainsi&nbsp;:</p>
           <ul className="mt-2 space-y-1 text-[14.5px]">{att.map(([t, p]) => <li key={t} className="flex justify-between gap-3 border-b border-filet py-1"><span>{t}</span><b>{p}</b></li>)}</ul>
           <p className="mt-2 text-[13px] text-gris">Une personnalité non suivie par une source est notée sur les autres (« indice partiel », marqué *). Sans chaîne YouTube, elle compte 0 vue.</p>
         </div>

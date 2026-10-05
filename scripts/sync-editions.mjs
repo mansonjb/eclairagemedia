@@ -99,7 +99,10 @@ for (const file of fs.readdirSync(SRC).sort()) {
   index.push({ rubrique, date, minutes, ...data });
 }
 index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.localeCompare(b.rubrique)));
-fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, null, 1));
+// Typographie française : la ponctuation haute et les guillemets ne passent jamais seuls à la ligne
+const insecable = (k, v) => (typeof v === "string" && !/^(https?:|\/)/.test(v)
+  ? v.replace(/ ([?!:;»%])/g, "\u00a0$1").replace(/« /g, "«\u00a0") : v);
+fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, insecable, 1));
 const stats = (k) => index.reduce((n, e) => n + e.sujets.filter((s) => s[k]).length, 0);
 const total = index.reduce((n, e) => n + e.sujets.length, 0);
 console.log(`${index.length} éditions, ${total} sujets : ${stats("image")} photos, ${stats("chapeau")} chapeaux, ${stats("eclairage")} éclairages ; ${index.filter((e) => e.chiffreDuJour).length} chiffres du jour, ${index.filter((e) => e.lexique.length).length} lexiques`);
@@ -149,6 +152,6 @@ if (fs.existsSync(fCand)) {
   const serie = hist.slice(-60).map((h) => ({ date: h.date, attention: garder(h.attention), polymarket: garder(h.polymarket) }));
   fs.writeFileSync(path.resolve("content/barometre.json"), JSON.stringify({
     date: dernier.date || null, sondage: sondage && { ...sondage, scores: undefined }, sources_attention: dernier.sources_attention || [],
-    polymarket_volume: dernier.polymarket_volume || null, poids: Object.fromEntries(actives.map((k) => [k, POIDS[k] / somme])), candidats, serie }, null, 1));
+    polymarket_volume: dernier.polymarket_volume || null, poids: Object.fromEntries(actives.map((k) => [k, POIDS[k] / somme])), candidats, serie }, insecable, 1));
   console.log(`baromètre : ${candidats.length} personnalités, ${candidats.reduce((n, c) => n + c.nbDeclarations, 0)} déclarations, relevé du ${dernier.date || "—"}`);
 }

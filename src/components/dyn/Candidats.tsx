@@ -47,7 +47,7 @@ function Reseaux({ f, couleur }: { f: Fiche; couleur: string }) {
           </div>
         )}
         {cites && (
-          <p><b>Cité par les journalistes et médias :</b> {cites.valeur} posts sur 12 mois{rangCite ? `, ${rangCite.valeur}e sur 34` : ""}.
+          <p><b>Cité par les journalistes et médias&nbsp;:</b> {cites.valeur} posts sur 12 mois{rangCite ? `, ${rangCite.valeur}e sur 34` : ""}.
             {f.journalistes.length > 0 && <> Le plus souvent par {f.journalistes.map((j) => `${j.nom} (${j.posts})`).join(", ")}.</>}</p>
         )}
         <p className="text-[11.5px] text-gris">Source : <a href={f.url} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2">Observatoire Présidentielle 2027, Saper Vedere</a></p>
@@ -127,10 +127,10 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                 </div>
               </div>
               <div className="grid gap-2.5">
-                <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />
-                <Mesure titre="ATTENTION EN LIGNE /100" val={c.attention} libelle={c.attention ? `${Math.round(c.attention.v)}` : ""} max={100} couleur="#ff6a3d" unite="pt"
+                {(critere === "score" || critere === "sondage") && <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />
+                {(critere === "score" || critere === "attention") && <Mesure titre="ATTENTION EN LIGNE /100" val={c.attention} libelle={c.attention ? `${Math.round(c.attention.v)}` : ""} max={100} couleur="#ff6a3d" unite="pt"
                   serie={serie.map((s) => s.attention[c.nom]).filter((x) => x !== undefined)} />
-                <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
+                {(critere === "score" || critere === "polymarket") && <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
                   serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />
               </div>
               {c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}

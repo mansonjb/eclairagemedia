@@ -17,14 +17,14 @@ export default function Quiz({ q }: { q: QuizData }) {
   return (
     <section className="carte flex flex-col gap-3.5 !bg-jaune p-6 sm:p-7" aria-label="Quiz">
       <div className="flex items-center justify-between">
-        <span className="pastille bg-encre text-jaune">VRAI OU FAUX ?</span>
+        <span className="pastille bg-encre text-jaune">VRAI OU FAUX ?</span>
         <span className="text-[13px] font-bold">10 secondes</span>
       </div>
       <p className="d text-[24px] leading-[1.12]">{q.affirmation}</p>
       <div className="flex gap-2.5">{bouton(true)}{bouton(false)}</div>
       {choix !== null && (
         <div className="apparait rounded-[18px] bg-white/70 p-4">
-          <p className="text-[15px] font-extrabold">{juste ? "Bien vu !" : "Raté !"} C&apos;est {q.reponse ? "vrai" : "faux"}.</p>
+          <p className="text-[15px] font-extrabold">{juste ? "Bien vu !" : "Raté !"} C&apos;est {q.reponse ? "vrai" : "faux"}.</p>
           <p className="mt-1 text-[14px] leading-relaxed">{q.explication}</p>
           <Link href={q.href} className="mt-2 inline-block text-[13px] font-bold underline underline-offset-4">Comprendre le sujet →</Link>
         </div>

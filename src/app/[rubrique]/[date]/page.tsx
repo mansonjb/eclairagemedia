@@ -83,7 +83,7 @@ function Bento({ e, s }: { e: Ed; s: Sujet }) {
       )}
       {etapes.length > 0 && (
         <div className="rounded-[24px] bg-white p-6 sm:p-8 lg:col-span-2">
-          <p className={etiquette} style={{ color: R.couleur }}>ET APRÈS ?</p>
+          <p className={etiquette} style={{ color: R.couleur }}>ET APRÈS ?</p>
           <div className="mt-4 grid gap-3 sm:grid-cols-3">
             {etapes.map((t, k) => (
               <div key={k} className="rounded-[16px] p-4" style={{ backgroundColor: R.fond }}>
