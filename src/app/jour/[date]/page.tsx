@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { dates, parDate, dateLongue, semaineDe, libelleSemaine } from "@/lib/editions";
+import { dates, parDate, dateLongue, semaineDe, libelleSemaine, unesDuJour } from "@/lib/editions";
 import Journee from "@/components/Journee";
 import Parcours from "@/components/Parcours";
 import { UneProvider } from "@/components/dyn/Une";
@@ -22,7 +22,7 @@ export default async function Jour({ params }: { params: Promise<{ date: string 
   const s = semaineDe(date);
   const b = "rounded-full bg-white px-4 py-2.5 text-[14px] font-bold hover:bg-lavande";
   return (
-    <main className="flex flex-col gap-5"><UneProvider>
+    <main className="flex flex-col gap-5"><UneProvider n={unesDuJour(date).length}>
       <section className="flex flex-wrap items-end justify-between gap-5 px-2 pb-2 pt-7">
         <div>
           <div className="flex flex-wrap gap-2">

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { dates, parDate, dateLongue, semaineDe, libelleSemaine, RUBRIQUES } from "@/lib/editions";
+import { dates, parDate, dateLongue, semaineDe, libelleSemaine, RUBRIQUES, unesDuJour } from "@/lib/editions";
 import { Section } from "@/components/ui";
 import Journee from "@/components/Journee";
 import Parcours from "@/components/Parcours";
@@ -9,7 +9,7 @@ export default function Accueil() {
   const [aujourdhui, ...avant] = dates();
   const semaine = semaineDe(aujourdhui);
   return (
-    <main className="flex flex-col gap-5"><UneProvider>
+    <main className="flex flex-col gap-5"><UneProvider n={unesDuJour(aujourdhui).length}>
       <section className="flex flex-wrap items-end justify-between gap-4 px-2 pb-2 pt-5 sm:gap-5 sm:pt-7">
         <div>
           <p className="text-[15px] font-semibold text-gris">{dateLongue(aujourdhui)}</p>
