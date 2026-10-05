@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { episodes, episode, minutes } from "@/lib/podcasts";
 import { dateLongue } from "@/lib/editions";
 import Lecteur from "@/components/dyn/Lecteur";
+import BoutonSpotify from "@/components/BoutonSpotify";
 
 type P = { params: Promise<{ date: string }> };
 export const dynamicParams = false;
@@ -29,6 +30,7 @@ export default async function Ecouter({ params }: P) {
         <p className="mt-3 text-[16px] leading-relaxed text-gris">Léa et Paul reprennent les sujets du jour, sans prérequis. Le texte n&apos;utilise que les faits vérifiés et sourcés de l&apos;édition écrite.</p>
       </section>
       <Lecteur src={e.url} titre={e.titre} duree={e.duree} grand />
+      <div className="flex flex-wrap items-center gap-3 px-2"><BoutonSpotify /><span className="text-[13.5px] text-gris">pour l&apos;écouter dans l&apos;application et recevoir chaque nouvel épisode</span></div>
       {e.sujets.length > 0 && (
         <section className="carte p-6">
           <p className="text-[13px] font-extrabold tracking-[0.06em] text-bleu">DANS CET ÉPISODE</p>

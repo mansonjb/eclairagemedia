@@ -6,6 +6,7 @@ import Parcours from "@/components/Parcours";
 import { UneProvider } from "@/components/dyn/Une";
 import Lecteur from "@/components/dyn/Lecteur";
 import { dernier, minutes } from "@/lib/podcasts";
+import BoutonSpotify from "@/components/BoutonSpotify";
 
 export default function Accueil() {
   const [aujourdhui, ...avant] = dates();
@@ -45,7 +46,10 @@ export default function Accueil() {
               <h2 className="d mt-3 text-[26px] leading-tight sm:text-[30px]">L&apos;édition politique{ep.date === aujourdhui ? " du jour" : ""}, à écouter</h2>
               <p className="mt-1 text-[15px] text-gris">Léa et Paul reprennent les sujets, à partir des faits vérifiés de l&apos;édition.</p>
             </div>
-            <Link href="/podcast" className="rounded-full bg-fond px-4 py-2.5 text-[14px] font-bold hover:bg-lavande">Tous les épisodes →</Link>
+            <div className="flex flex-wrap gap-2">
+              <BoutonSpotify />
+              <Link href="/podcast" className="rounded-full bg-fond px-4 py-2.5 text-[14px] font-bold hover:bg-lavande">Tous les épisodes →</Link>
+            </div>
           </div>
           <Lecteur src={ep.url} titre={ep.titre} duree={ep.duree} />
         </section>

@@ -6,6 +6,7 @@ export type Episode = {
 };
 export const episodes = data as unknown as Episode[];
 export const SITE = "https://www.eclairagemedia.com";
+export const SPOTIFY = "https://open.spotify.com/show/30PlME95PqcFG6epQNAIAh";
 export const episode = (date: string, rubrique = "politique") => episodes.find((e) => e.date === date && e.rubrique === rubrique);
 export const dernier = (rubrique = "politique") => episodes.find((e) => e.rubrique === rubrique);
 export const minutes = (s: number) => `${Math.max(1, Math.round(s / 60))} min`;
