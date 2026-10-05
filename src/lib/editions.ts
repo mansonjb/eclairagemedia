@@ -80,8 +80,23 @@ export function motDuJour(date: string) {
   return null;
 }
 
-export function agendaDuJour(date: string) {
-  return parDate(date).flatMap((e) => e.agenda.slice(0, 3).map((a) => ({ ...a, rubrique: e.rubrique, href: `/${e.rubrique}/${e.date}` }))).slice(0, 6);
+// Agenda des éditions du jour, trié dans le temps et regroupé par date (aujourd'hui et après seulement)
+const MOIS_AGENDA = ["JANV", "FÉVR", "MARS", "AVR", "MAI", "JUIN", "JUIL", "AOÛT", "SEPT", "OCT", "NOV", "DÉC"];
+export function agendaDuJour(date: string, jours = 4, parJour = 3) {
+  const ref = new Date(date + "T12:00:00Z");
+  const items = parDate(date).flatMap((e) => e.agenda.map((a) => {
+    const m = MOIS_AGENDA.findIndex((x) => a.mois.toUpperCase().replace(".", "").startsWith(x.slice(0, 3)));
+    if (m < 0 || !/^\d+$/.test(a.jour)) return null;
+    let d = new Date(Date.UTC(ref.getUTCFullYear(), m, Number(a.jour), 12));
+    if (d.getTime() < ref.getTime() - 180 * 864e5) d = new Date(Date.UTC(ref.getUTCFullYear() + 1, m, Number(a.jour), 12));
+    return { iso: d.toISOString().slice(0, 10), texte: a.texte, rubrique: e.rubrique, href: `/${e.rubrique}/${e.date}` };
+  }).filter((x): x is NonNullable<typeof x> => !!x && x.iso >= date));
+  const groupes = new Map<string, typeof items>();
+  for (const x of items.sort((a, b) => (a.iso < b.iso ? -1 : a.iso > b.iso ? 1 : ORDRE.indexOf(a.rubrique) - ORDRE.indexOf(b.rubrique)))) {
+    if (!groupes.has(x.iso)) groupes.set(x.iso, []);
+    groupes.get(x.iso)!.push(x);
+  }
+  return [...groupes.entries()].slice(0, jours).map(([iso, evts]) => ({ iso, evts: evts.slice(0, parJour), autres: Math.max(0, evts.length - parJour) }));
 }
 export function lexiqueDuJour(date: string) {
   return parDate(date).flatMap((e) => e.lexique.slice(0, 1).map((l) => ({ ...l, rubrique: e.rubrique, href: `/${e.rubrique}/${e.date}` })));

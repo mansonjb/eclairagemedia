@@ -66,7 +66,7 @@ export default function Journee({ date }: { date: string }) {
     .slice(0, 6);
   const chiffre = chiffresDuJour(date).find((c) => c.rubrique !== lead?.rubrique) ?? chiffresDuJour(date)[0];
   const mots = lexiqueDuJour(date).slice(0, 6);
-  const agenda = agendaDuJour(date).slice(0, 5);
+  const agenda = agendaDuJour(date);
   const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}/${s.n}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
   const quizzes = quizDuJourListe(date, 3);
   const quiz = quizzes.length > 0;
@@ -170,14 +170,41 @@ export default function Journee({ date }: { date: string }) {
       {agenda.length > 0 && (
         <>
           <Section id="agenda">À venir</Section>
-          <div className="grid grid-cols-2 gap-3.5 md:grid-cols-3 lg:grid-cols-5">
-            {agenda.map((a, k) => (
-              <Link key={k} href={a.href} className="carte flex flex-col gap-2 p-5 transition hover:-translate-y-0.5">
-                <p className="d text-[24px] leading-none" style={{ color: RUBRIQUES[a.rubrique].couleur }}>{a.jour} {a.mois.toLowerCase()}</p>
-                <p className="text-[14px] leading-snug">{a.texte}</p>
-                <span className="mt-auto pt-1"><Pastille r={a.rubrique} /></span>
-              </Link>
-            ))}
+          <div className={`grid gap-4 sm:grid-cols-2 ${agenda.length >= 4 ? "lg:grid-cols-4" : agenda.length === 3 ? "lg:grid-cols-3" : ""}`}>
+            {agenda.map((g) => {
+              const d = new Date(g.iso + "T12:00:00Z");
+              const ecart = Math.round((d.getTime() - new Date(date + "T12:00:00Z").getTime()) / 864e5);
+              const quand = ecart === 0 ? "Aujourd'hui" : ecart === 1 ? "Demain" : `Dans ${ecart} jours`;
+              const fmt = (o: Intl.DateTimeFormatOptions) => new Intl.DateTimeFormat("fr-FR", { ...o, timeZone: "UTC" }).format(d);
+              return (
+                <section key={g.iso} className="carte flex flex-col gap-4 p-5">
+                  <div className="flex items-center gap-3.5">
+                    <div className={`flex w-[64px] shrink-0 flex-col items-center overflow-hidden rounded-[16px] ${ecart === 0 ? "bg-encre text-white" : "bg-fond"}`}>
+                      <span className={`w-full py-1 text-center text-[11px] font-extrabold uppercase tracking-[0.06em] ${ecart === 0 ? "bg-jaune text-encre" : "bg-encre text-white"}`}>{fmt({ month: "short" }).replace(".", "")}</span>
+                      <span className="d py-1.5 text-[30px] leading-none">{d.getUTCDate()}</span>
+                    </div>
+                    <div>
+                      <p className="d text-[20px] capitalize leading-tight">{fmt({ weekday: "long" })}</p>
+                      <p className={`text-[13px] font-bold ${ecart === 0 ? "text-bleu" : "text-gris"}`}>{quand}</p>
+                    </div>
+                  </div>
+                  <ul className="flex flex-col gap-2.5">
+                    {g.evts.map((a, k) => (
+                      <li key={k}>
+                        <Link href={a.href} className="flex gap-3 rounded-[14px] bg-fond p-3 transition hover:bg-lavande">
+                          <span className="w-1 shrink-0 rounded-full" style={{ backgroundColor: RUBRIQUES[a.rubrique].couleur }} />
+                          <span className="min-w-0">
+                            <span className="block text-[11.5px] font-extrabold uppercase tracking-[0.04em]" style={{ color: RUBRIQUES[a.rubrique].couleur }}>{RUBRIQUES[a.rubrique].court}</span>
+                            <span className="mt-0.5 line-clamp-3 block text-[14px] leading-snug">{a.texte}</span>
+                          </span>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                  {g.autres > 0 && <p className="mt-auto text-[12.5px] font-bold text-gris">+ {g.autres} autre{g.autres > 1 ? "s" : ""} rendez-vous</p>}
+                </section>
+              );
+            })}
           </div>
         </>
       )}
