@@ -10,10 +10,10 @@ export default function Accueil() {
   const semaine = semaineDe(aujourdhui);
   return (
     <main className="flex flex-col gap-5"><UneProvider>
-      <section className="flex flex-wrap items-end justify-between gap-5 px-2 pb-2 pt-7">
+      <section className="flex flex-wrap items-end justify-between gap-4 px-2 pb-2 pt-5 sm:gap-5 sm:pt-7">
         <div>
           <p className="text-[15px] font-semibold text-gris">{dateLongue(aujourdhui)}</p>
-          <h1 className="d mt-1.5 text-[34px] leading-none sm:text-[52px]">L&apos;essentiel en 5 minutes, <span className="surligne">sans prérequis.</span></h1>
+          <h1 className="d mt-1.5 text-balance text-[31px] leading-[1.08] sm:text-[52px] sm:leading-none">L&apos;essentiel en 5&nbsp;minutes, <span className="surligne whitespace-nowrap">sans prérequis.</span></h1>
         </div>
         <Parcours date={aujourdhui} />
       </section>
