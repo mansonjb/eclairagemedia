@@ -127,11 +127,11 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                 </div>
               </div>
               <div className="grid gap-2.5">
-                {(critere === "score" || critere === "sondage") && <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />
+                {(critere === "score" || critere === "sondage") && <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />}
                 {(critere === "score" || critere === "attention") && <Mesure titre="ATTENTION EN LIGNE /100" val={c.attention} libelle={c.attention ? `${Math.round(c.attention.v)}` : ""} max={100} couleur="#ff6a3d" unite="pt"
-                  serie={serie.map((s) => s.attention[c.nom]).filter((x) => x !== undefined)} />
+                  serie={serie.map((s) => s.attention[c.nom]).filter((x) => x !== undefined)} />}
                 {(critere === "score" || critere === "polymarket") && <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
-                  serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />
+                  serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />}
               </div>
               {c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
               <div className="mt-1 flex flex-1 flex-col">
