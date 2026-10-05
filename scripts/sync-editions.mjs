@@ -90,7 +90,9 @@ for (const file of fs.readdirSync(SRC).sort()) {
   const minutes = Math.max(2, Math.round(strip(html).split(" ").length / 220));
   const data = extraire(html);
   // Photos choisies et vérifiées pour le site (content/photos.json, clé « rubrique/date/n ») : priment sur celles de l'email
-  const photos = fs.existsSync(path.resolve("content/photos.json")) ? JSON.parse(fs.readFileSync(path.resolve("content/photos.json"), "utf8")) : {};
+  // registre du site + registre tenu par les routines dans le dépôt des éditions (photos des nouvelles éditions)
+  const lire = (f) => (fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : {});
+  const photos = { ...lire(path.resolve("content/photos.json")), ...lire(path.join(path.dirname(SRC), "photos.json")) };
   for (const s of data.sujets) {
     const p = photos[`${rubrique}/${date}/${s.n}`];
     if (p) { s.image = p.url; s.legende = p.legende; s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page }; }
