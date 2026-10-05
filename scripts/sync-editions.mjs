@@ -12,7 +12,7 @@ const PREFIX = { "": "politique", eco: "economie", sante: "sante", local: "local
 const SKIP = new Set(["2026-09-28.html"]); // ancienne maquette « La Revue. »
 
 const ent = (s) => s.replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#39;|&rsquo;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">");
-const strip = (s) => ent(s.replace(/<br\s*\/?>/g, " ").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").replace(/ ([,.)])/g, "$1").trim();
+const strip = (s) => ent(s.replace(/<br\s*\/?>/g, " ").replace(/<\/?(?:b|strong|i|em|a|span|u)\b[^>]*>/g, "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").replace(/ ([,.)])/g, "$1").trim();
 const coupe = (t, n) => (t.length <= n ? t : t.slice(0, t.lastIndexOf(" ", n)) + "…");
 // Deux premières phrases d'un paragraphe
 const chapeau = (t) => { const p = t.match(/[^.!?]+[.!?]+(\s|$)/g) || [t]; return coupe(p.slice(0, 2).join("").trim(), 320); };
@@ -43,11 +43,18 @@ function extraire(html) {
       eclairage: ecl ? strip(ecl[1]) : null,
       chiffres,
       passe: passe ? strip(passe[1]) : null,
-      points: (() => {
+      ...(() => {
+        // L'encadré « L'ÉCLAIRAGE » : titre, paragraphe d'explication, points numérotés ou chronologie datée
         const i = bloc.indexOf("L'ÉCLAIRAGE");
-        if (i < 0) return [];
-        const zone = bloc.slice(i, (bloc.indexOf("QUI DIT QUOI", i) + 1 || bloc.indexOf("CE QUE ÇA CHANGE", i) + 1 || bloc.length + 1) - 1);
-        return [...zone.matchAll(/<td[^>]*>(\d)\.<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/g)].slice(0, 5).map((x) => strip(x[2]));
+        if (i < 0) return { points: [], explication: null, chronologie: [] };
+        const fins = ["QUI DIT QUOI", "LES POINTS DE VUE", "CE QUE ÇA CHANGE"].map((m) => bloc.indexOf(m, i)).filter((x) => x > 0);
+        const zone = bloc.slice(i, fins.length ? Math.min(...fins) : bloc.length);
+        const paras = [...zone.matchAll(/<div style="font-size:1[45](?:\.5)?px;line-height[^"]*">([\s\S]*?)<\/div>/g)].map((x) => strip(x[1])).filter((t) => t.length > 40);
+        return {
+          points: [...zone.matchAll(/<td[^>]*>(\d)\.<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/g)].slice(0, 5).map((x) => strip(x[2])),
+          explication: paras.join(" ") || null,
+          chronologie: [...zone.matchAll(/<span[^>]*>([^<]{2,24})<\/span><\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/g)].slice(0, 6).map((x) => ({ quand: strip(x[1]), texte: strip(x[2]) })),
+        };
       })(),
       sources: (() => {
         const r = bloc.match(/SOURCES ·([\s\S]*?)<\/div>/);

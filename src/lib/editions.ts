@@ -5,7 +5,7 @@ import indexData from "../../content/index.json";
 export type Sujet = {
   n: number; theme: string; titre: string; image: string | null; legende: string | null;
   chapeau: string | null; eclairage: string | null; change: string | null; chiffres: { valeur: string; legende: string }[];
-  passe: string | null; points: string[]; apres: string | null; sources: { url: string; nom: string }[];
+  passe: string | null; points: string[]; explication?: string | null; chronologie?: { quand: string; texte: string }[]; apres: string | null; sources: { url: string; nom: string }[];
   cartes: { fond: string; couleur: string; parti: string; qui: string; contexte: string | null; texte: string; url: string; source: string }[];
 };
 export type Edition = { rubrique: RubriqueId; date: string; minutes: number; sujets: Sujet[]; lexique: { terme: string; definition: string }[]; agenda: { jour: string; mois: string; texte: string }[];
@@ -97,6 +97,13 @@ export function items(date: string) {
 
 import quizManuel from "../../content/quiz-manuel.json";
 // Quiz du jour : celui d'une édition (politique d'abord), sinon le quiz rédigé à la main
+// Jusqu'à 3 quiz du jour, de rubriques différentes (dans l'ordre des rubriques), sinon le quiz rédigé à la main
+export function quizDuJourListe(date: string, k = 3) {
+  const liste = parDate(date).filter((e) => e.quiz).map((e) => ({ ...e.quiz!, href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique }));
+  if (liste.length) return liste.slice(0, k);
+  const q = quizDuJour(date);
+  return q ? [q] : [];
+}
 export function quizDuJour(date: string) {
   const e = parDate(date).find((x) => x.quiz);
   if (e?.quiz) return { ...e.quiz, href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique };

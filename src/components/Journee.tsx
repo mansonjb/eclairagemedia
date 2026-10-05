@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJour, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
-import Quiz from "@/components/dyn/Quiz";
+import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
+import QuizPile from "@/components/dyn/QuizPile";
 import { UneCarte } from "@/components/dyn/Une";
 import { Section, Pastille, CarteSujet, Meta } from "@/components/ui";
 import Lexique from "@/components/dyn/Lexique";
@@ -68,7 +68,8 @@ export default function Journee({ date }: { date: string }) {
   const mots = lexiqueDuJour(date).slice(0, 6);
   const agenda = agendaDuJour(date).slice(0, 5);
   const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}/${s.n}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
-  const quiz = quizDuJour(date);
+  const quizzes = quizDuJourListe(date, 3);
+  const quiz = quizzes.length > 0;
   const podium = (barometre as unknown as { candidats: Candidat[] }).candidats.filter((c) => c.score !== null).slice(0, 3);
 
   const carteChiffre = chiffre && (
@@ -89,7 +90,7 @@ export default function Journee({ date }: { date: string }) {
         <div className="grid gap-5 lg:grid-cols-3">
           <UneCarte cartes={unes.map(({ e, s }, k) => <Principal key={e.rubrique} e={e} s={s} k={k} />)} />
           <div className="flex min-w-0 flex-col gap-5">
-            {quiz ? <Quiz q={quiz} /> : carteChiffre}
+            {quiz ? <QuizPile qs={quizzes} /> : carteChiffre}
             <section className="carte flex flex-1 flex-col p-6" aria-label="En 30 secondes">
               <h2 className="d mb-2 text-[22px]">En 30 secondes</h2>
               {eds.map((e, k) => (
