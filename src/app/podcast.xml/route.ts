@@ -7,11 +7,12 @@ const x = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(
 export function GET() {
   const items = episodes.filter((e) => e.rubrique === "politique").map((e) => `
     <item>
-      <title>${x(e.titre)}</title>
+      <title>${x(e.titre_episode || e.titre)}</title>
       <link>${SITE}/ecouter/${e.date}</link>
       <guid isPermaLink="false">eclairage-${e.rubrique}-${e.date}</guid>
       <pubDate>${new Date(e.date + "T06:00:00+02:00").toUTCString()}</pubDate>
-      <description>${x(e.sujets.map((s) => s.titre).join(" · "))}</description>
+      <description>${x(e.description || e.sujets.map((s) => s.titre).join(" · "))}</description>
+      <itunes:summary>${x(e.description || e.sujets.map((s) => s.titre).join(" · "))}</itunes:summary>
       <enclosure url="${SITE}${e.url}" length="${e.taille}" type="audio/mpeg"/>
       <itunes:duration>${e.duree}</itunes:duration>
     </item>`).join("");

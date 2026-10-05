@@ -1,7 +1,7 @@
 import data from "../../content/podcasts.json";
 
 export type Episode = {
-  rubrique: string; date: string; url: string; taille: number; duree: number; titre: string;
+  rubrique: string; date: string; url: string; taille: number; duree: number; titre: string; titre_episode?: string | null; description?: string | null;
   sujets: { n: number; titre: string }[]; transcription: { qui: string; texte: string }[];
 };
 export const episodes = data as unknown as Episode[];

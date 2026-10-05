@@ -195,6 +195,8 @@ if (fs.existsSync(fCand)) {
         rubrique, date, url: `/podcasts/${f}`, taille,
         duree: Math.round((taille * 8) / 64000), // MP3 à 64 kbit/s
         titre: d.titre || `Éclairage, ${date}`,
+        titre_episode: d.titre_episode || null,
+        description: d.description || null,
         sujets: ed ? ed.sujets.map((s) => ({ n: s.n, titre: s.titre })) : [],
         transcription: (d.repliques || []).map((r) => ({ qui: r.qui === "Lea" ? "Léa" : r.qui, texte: r.texte })),
       });
