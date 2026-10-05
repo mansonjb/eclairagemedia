@@ -74,7 +74,7 @@ export function Meta({ s, minutes }: { s: Sujet; minutes: number }) {
 
 // Carte « autre sujet du jour »
 export function CarteSujet({ e, s }: { e: Edition; s: Sujet; grand?: boolean }) {
-  const lien = `/${e.rubrique}/${e.date}`;
+  const lien = `/${e.rubrique}/${e.date}/${s.n}`;
   return (
     <article className="carte flex flex-col p-3">
       <Link href={lien}><Visuel s={s} /></Link>

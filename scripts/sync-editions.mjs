@@ -124,7 +124,7 @@ if (fs.existsSync(fCand)) {
     const nomFamille = c.nom.split(" ").slice(-1)[0];
     const declarations = index.flatMap((e) => e.sujets.flatMap((s) => s.cartes
       .filter((k) => k.qui.includes(c.nom) || (k.qui.includes(nomFamille) && k.qui.split(" ").length <= 3 && k.qui.includes(c.nom.split(" ")[0])))
-      .map((k) => ({ ...k, date: e.date, rubrique: e.rubrique, sujet: s.titre, href: `/${e.rubrique}/${e.date}` }))));
+      .map((k) => ({ ...k, date: e.date, rubrique: e.rubrique, sujet: s.titre, href: `/${e.rubrique}/${e.date}/${s.n}` }))));
     return {
       ...c,
       sondage: sondage ? val(sondage.scores, c.nom) : null,

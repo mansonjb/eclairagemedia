@@ -14,7 +14,7 @@ const premierePhrase = (t: string | null) => (t ? (t.match(/^[^.!?]+[.!?]/)?.[0]
 // Le sujet principal : photo + chiffre, titre, trois étapes, appel à lire
 function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
   const R = RUBRIQUES[e.rubrique];
-  const lien = `/${e.rubrique}/${e.date}`;
+  const lien = `/${e.rubrique}/${e.date}/${s.n}`;
   const etapes = [
     ["LE FAIT", premierePhrase(s.chapeau)],
     ["CE QUE ÇA CHANGE", coupe(s.change, 150)],
@@ -67,12 +67,12 @@ export default function Journee({ date }: { date: string }) {
   const chiffre = chiffresDuJour(date).find((c) => c.rubrique !== lead?.rubrique) ?? chiffresDuJour(date)[0];
   const mots = lexiqueDuJour(date).slice(0, 6);
   const agenda = agendaDuJour(date).slice(0, 5);
-  const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
+  const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}/${s.n}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
   const quiz = quizDuJour(date);
   const podium = (barometre as unknown as { candidats: Candidat[] }).candidats.filter((c) => c.score !== null).slice(0, 3);
 
   const carteChiffre = chiffre && (
-              <Link href={`/${chiffre.rubrique}/${date}`} className="carte group flex flex-col gap-3 !bg-jaune p-6 sm:p-7">
+              <Link href={`/${chiffre.rubrique}/${date}/${chiffre.n}`} className="carte group flex flex-col gap-3 !bg-jaune p-6 sm:p-7">
                 <div className="flex items-center justify-between">
                   <span className="pastille bg-encre text-jaune">LE CHIFFRE DU JOUR</span>
                   <span className="text-[13px] font-bold">{RUBRIQUES[chiffre.rubrique].court}</span>
@@ -93,7 +93,7 @@ export default function Journee({ date }: { date: string }) {
             <section className="carte flex flex-1 flex-col p-6" aria-label="En 30 secondes">
               <h2 className="d mb-2 text-[22px]">En 30 secondes</h2>
               {eds.map((e, k) => (
-                <Link key={e.rubrique} href={`/${e.rubrique}/${date}`} className={`flex items-start gap-3 py-2.5 text-[15px] leading-snug hover:text-bleu ${k < eds.length - 1 ? "border-b border-filet" : ""}`}>
+                <Link key={e.rubrique} href={`/${e.rubrique}/${date}/${e.sujets[0]?.n ?? 1}`} className={`flex items-start gap-3 py-2.5 text-[15px] leading-snug hover:text-bleu ${k < eds.length - 1 ? "border-b border-filet" : ""}`}>
                   <span className="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-[3px]" style={{ backgroundColor: RUBRIQUES[e.rubrique].couleur }} />
                   <span><b>{RUBRIQUES[e.rubrique].court}&nbsp;:</b> {e.sujets[0]?.titre}</span>
                 </Link>

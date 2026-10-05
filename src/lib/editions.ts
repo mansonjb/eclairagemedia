@@ -72,7 +72,7 @@ export function une(date: string): { e: Edition; s: Sujet } | null {
 export function chiffresDuJour(date: string) {
   return parDate(date).flatMap((e) => {
     const s = e.sujets.find((x) => x.chiffres.length);
-    return s ? [{ ...s.chiffres[0], rubrique: e.rubrique, date: e.date, titre: s.titre, image: s.image, theme: s.theme }] : [];
+    return s ? [{ ...s.chiffres[0], rubrique: e.rubrique, date: e.date, titre: s.titre, image: s.image, theme: s.theme, n: s.n }] : [];
   });
 }
 export function motDuJour(date: string) {
@@ -90,7 +90,7 @@ export function lexiqueDuJour(date: string) {
 // Données sérialisables pour les composants interactifs (cartes photo, onglets, carrousel)
 export function items(date: string) {
   return parDate(date).flatMap((e) => e.sujets.map((s) => ({
-    href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique, theme: s.theme, titre: s.titre,
+    href: `/${e.rubrique}/${e.date}/${s.n}`, rubrique: e.rubrique, theme: s.theme, titre: s.titre,
     image: s.image, legende: s.legende, minutes: e.minutes, chapeau: s.chapeau, date: e.date,
   })));
 }
@@ -111,4 +111,23 @@ export function unesDuJour(date: string): { e: Edition; s: Sujet }[] {
   const lead = eds.find(vraie) ?? eds[0];
   if (!lead) return [];
   return [lead, ...eds.filter((e) => e !== lead)].slice(0, 3).map((e) => ({ e, s: e.sujets[0] }));
+}
+
+// Lien vers la page d'un sujet
+export const lienSujet = (e: { rubrique: string; date: string }, s: { n: number }) => `/${e.rubrique}/${e.date}/${s.n}`;
+
+// Sujets complémentaires : mots partagés (titre, thème, chapeau), même thème, même rubrique, proximité de date
+const VIDES = new Set("avec dans pour sans plus sont cette leur leurs elle elles mais comme entre vers chez apres avant depuis encore aussi tout tous toute toutes selon fait faire etre avoir deux trois quoi dont".split(" "));
+const motsDe = (t: string) => new Set(t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").split(/[^a-z0-9]+/).filter((m) => m.length > 3 && !VIDES.has(m)));
+export function complementaires(e: Edition, s: Sujet, k = 3) {
+  const ref = motsDe(`${s.titre} ${s.theme} ${s.chapeau ?? ""}`);
+  return editions.flatMap((x) => x.sujets.map((t) => ({ e: x, s: t })))
+    .filter((x) => !(x.e === e && x.s.n === s.n))
+    .map((x) => {
+      let c = 0;
+      for (const m of motsDe(`${x.s.titre} ${x.s.theme} ${x.s.chapeau ?? ""}`)) if (ref.has(m)) c++;
+      const jours = Math.abs(Date.parse(x.e.date) - Date.parse(e.date)) / 864e5;
+      return { ...x, score: c + (x.s.theme === s.theme ? 2 : 0) + (x.e.rubrique === e.rubrique ? 1 : 0) - jours / 30 };
+    })
+    .sort((a, b) => b.score - a.score).slice(0, k);
 }
