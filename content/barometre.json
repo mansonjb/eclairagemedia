@@ -112,53 +112,6 @@
    "score": 80
   },
   {
-   "nom": "Édouard Philippe",
-   "wiki": "Édouard_Philippe",
-   "etiquette": "Horizons",
-   "couleur": "#1aa3b8",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": {
-    "v": 16.8,
-    "d": -0.5
-   },
-   "attention": {
-    "v": 28.3,
-    "d": 13.2,
-    "parts": {
-     "Wikipedia": 5.6
-    }
-   },
-   "polymarket": {
-    "v": 18,
-    "d": -2.5
-   },
-   "declarations": [
-    {
-     "fond": "#e0f6f9",
-     "couleur": "#1aa3b8",
-     "parti": "HORIZONS",
-     "qui": "Édouard Philippe",
-     "contexte": "candidat à la présidentielle",
-     "texte": "« Il est temps de parler des retraites sans faux semblants »",
-     "url": "https://actu.orange.fr/politique/age-de-depart-a-65-ans-45-annuites-de-cotisation-edouard-philippe-devoile-son-projet-de-reforme-des-retraites-CNT000002sbpVx.html",
-     "source": "AFP via Orange",
-     "date": "2026-09-30",
-     "rubrique": "politique",
-     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
-     "href": "/politique/2026-09-30"
-    }
-   ],
-   "nbDeclarations": 1,
-   "composantes": {
-    "sondage": 50,
-    "polymarket": 40,
-    "attention": 28
-   },
-   "score": 43
-  },
-  {
    "nom": "Jean-Luc Mélenchon",
    "wiki": "Jean-Luc_Mélenchon",
    "etiquette": "LFI",
@@ -271,7 +224,54 @@
    "composantes": {
     "sondage": 49,
     "polymarket": 26,
-    "attention": 51
+    "attention": 57
+   },
+   "score": 44
+  },
+  {
+   "nom": "Édouard Philippe",
+   "wiki": "Édouard_Philippe",
+   "etiquette": "Horizons",
+   "couleur": "#1aa3b8",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": {
+    "v": 16.8,
+    "d": -0.5
+   },
+   "attention": {
+    "v": 28.3,
+    "d": 13.2,
+    "parts": {
+     "Wikipedia": 5.6
+    }
+   },
+   "polymarket": {
+    "v": 18,
+    "d": -2.5
+   },
+   "declarations": [
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
+     "contexte": "candidat à la présidentielle",
+     "texte": "« Il est temps de parler des retraites sans faux semblants »",
+     "url": "https://actu.orange.fr/politique/age-de-depart-a-65-ans-45-annuites-de-cotisation-edouard-philippe-devoile-son-projet-de-reforme-des-retraites-CNT000002sbpVx.html",
+     "source": "AFP via Orange",
+     "date": "2026-09-30",
+     "rubrique": "politique",
+     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
+     "href": "/politique/2026-09-30"
+    }
+   ],
+   "nbDeclarations": 1,
+   "composantes": {
+    "sondage": 50,
+    "polymarket": 40,
+    "attention": 31
    },
    "score": 43
   },
@@ -332,9 +332,9 @@
    "composantes": {
     "sondage": 31,
     "polymarket": 3,
-    "attention": 53
+    "attention": 58
    },
-   "score": 27
+   "score": 28
   },
   {
    "nom": "David Lisnard",
@@ -361,9 +361,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 24,
-    "attention": 90
+    "attention": 100
    },
-   "score": 25
+   "score": 27
   },
   {
    "nom": "Gabriel Attal",
@@ -422,109 +422,9 @@
    "composantes": {
     "sondage": 32,
     "polymarket": 5,
-    "attention": 16
+    "attention": 18
    },
    "score": 21
-  },
-  {
-   "nom": "Jordan Bardella",
-   "wiki": "Jordan_Bardella",
-   "etiquette": "RN",
-   "couleur": "#0b1f4d",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 100,
-    "d": 77.1,
-    "parts": {
-     "Wikipedia": 19.9
-    }
-   },
-   "polymarket": {
-    "v": 0.5,
-    "d": -0.9
-   },
-   "declarations": [
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Jordan Bardella",
-     "contexte": "président du parti, jeudi 1er octobre",
-     "texte": "Il dénonce « des montages grossiers, d'obscures captures d'écran manipulables, reprenant des propos ignobles que je n'ai évidemment jamais tenus »",
-     "url": "https://www.ici.fr/infos/politique/marine-le-pen-maintient-totalement-sa-confiance-a-jordan-bardella-accuse-par-mediapart-d-ecrits-antisemites-6797013",
-     "source": "ICI",
-     "date": "2026-10-04",
-     "rubrique": "politique",
-     "sujet": "Messages attribués à Jordan Bardella : Marine Le Pen maintient sa confiance",
-     "href": "/politique/2026-10-04"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Jordan Bardella",
-     "contexte": "président du parti",
-     "texte": "« des montages grossiers, d'obscures captures d'écran manipulables »",
-     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
-     "source": "CNews",
-     "date": "2026-10-02",
-     "rubrique": "politique",
-     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
-     "href": "/politique/2026-10-02"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Jordan Bardella",
-     "contexte": "président du parti",
-     "texte": "« Après le 7 octobre 2023, j'ai marché dans les rues de Paris, et me suis rendu en Israël. Pas lui »",
-     "url": "https://lcp.fr/actualites/ecrits-antisemites-attribues-a-jordan-bardella-des-propos-gravissimes-declare-emmanuel",
-     "source": "LCP",
-     "date": "2026-10-01",
-     "rubrique": "politique",
-     "sujet": "Écrits attribués à Jordan Bardella : Macron demande au RN de « clarifier »",
-     "href": "/politique/2026-10-01"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Jordan Bardella",
-     "contexte": "président du parti",
-     "texte": "« Ces propos sont parfaitement délirants. Ils ne sont pas les miens. »",
-     "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
-     "source": "franceinfo",
-     "date": "2026-09-29",
-     "rubrique": "politique",
-     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
-     "href": "/politique/2026-09-29"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Jordan Bardella",
-     "contexte": "président du parti",
-     "texte": "« Notre groupe au Sénat portera la voix des territoires oubliés, de la ruralité, et des maires trop souvent éloignés des grandes décisions prises à Paris. »",
-     "url": "https://www.franceinfo.fr/elections/senatoriales/la-droite-conserve-sa-majorite-le-rn-obtient-un-groupe-un-premier-elu-lfi-ce-qu-il-faut-retenir-des-resultats-des-elections-senatoriales-2026_8212337.html",
-     "source": "franceinfo",
-     "date": "2026-09-28",
-     "rubrique": "politique",
-     "sujet": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée",
-     "href": "/politique/2026-09-28"
-    }
-   ],
-   "nbDeclarations": 5,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 1,
-    "attention": 100
-   },
-   "score": 20
   },
   {
    "nom": "Bruno Retailleau",
@@ -554,7 +454,36 @@
    "composantes": {
     "sondage": 25,
     "polymarket": 3,
-    "attention": 15
+    "attention": 17
+   },
+   "score": 17
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 67.2,
+    "d": -20.5,
+    "parts": {
+     "Wikipedia": 13.4
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": 0.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 75
    },
    "score": 16
   },
@@ -586,38 +515,9 @@
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
-    "attention": 12
+    "attention": 13
    },
    "score": 15
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 67.2,
-    "d": -20.5,
-    "parts": {
-     "Wikipedia": 13.4
-    }
-   },
-   "polymarket": {
-    "v": 1.1,
-    "d": 0.1
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 67
-   },
-   "score": 14
   },
   {
    "nom": "Éric Zemmour",
@@ -647,9 +547,9 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 2,
-    "attention": 22
+    "attention": 25
    },
-   "score": 11
+   "score": 12
   },
   {
    "nom": "Marine Tondelier",
@@ -694,7 +594,7 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
-    "attention": 12
+    "attention": 14
    },
    "score": 8
   },
@@ -741,7 +641,7 @@
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
-    "attention": 15
+    "attention": 17
    },
    "score": 6
   },
@@ -788,7 +688,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
    "score": 5
   },
@@ -817,9 +717,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 12
+    "attention": 13
    },
-   "score": 2
+   "score": 3
   },
   {
    "nom": "Xavier Bertrand",
@@ -855,7 +755,6 @@
   {
    "date": "2026-10-05",
    "attention": {
-    "Jordan Bardella": 100,
     "David Lisnard": 90.1,
     "Sarah Knafo": 67.2,
     "Raphaël Glucksmann": 52.6,
@@ -883,38 +782,11 @@
     "Bruno Retailleau": 1.3,
     "Sarah Knafo": 1.1,
     "Éric Zemmour": 0.9,
-    "Jordan Bardella": 0.5,
-    "Christine Lagarde": 0.5,
     "Dominique de Villepin": 0.2,
-    "Sébastien Lecornu": 0.2,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
-    "Olivier Faure": 0.1,
-    "Jean Castex": 0.1,
-    "Karim Bouamrane": 0.1,
     "Xavier Bertrand": 0.1,
-    "Laurent Wauquiez": 0.1,
-    "Fabien Roussel": 0.1,
-    "Ségolène Royal": 0.1,
-    "François Asselineau": 0.1,
-    "Clémentine Autain": 0.1,
-    "Nicolas Dupont-Aignan": 0.1,
-    "Michel Barnier": 0.1,
-    "Valérie Pécresse": 0.1,
-    "François Bayrou": 0.1,
-    "Élisabeth Borne": 0.1,
-    "Yaël Braun-Pivet": 0.1,
-    "Gérald Darmanin": 0.1,
-    "Carole Delga": 0.1,
-    "Bernard Cazeneuve": 0.1,
-    "Manuel Bompard": 0.1,
-    "Mathilde Panot": 0.1,
-    "Juan Branco": 0.1,
-    "Clémence Guetté": 0.1,
-    "Lucie Castets": 0.1,
-    "Yannick Jadot": 0.1,
-    "François Baroin": 0.1,
-    "Marion Maréchal": 0.1
+    "Fabien Roussel": 0.1
    }
   }
  ]

@@ -140,9 +140,10 @@ if (fs.existsSync(fCand)) {
     c.score = actives.length ? Math.round(actives.reduce((n, k) => n + POIDS[k] * c.composantes[k], 0) / somme) : null;
   }
   candidats.sort((a, b) => (b.score ?? -1) - (a.score ?? -1));
-  const serie = hist.slice(-60).map((h) => ({ date: h.date,
-    attention: Object.fromEntries(Object.entries(h.attention || {}).map(([k, v]) => [k, typeof v === "object" ? v.v : v])),
-    polymarket: Object.fromEntries(Object.entries(h.polymarket || {}).map(([k, v]) => [k, typeof v === "object" ? v.v : v])) }));
+  // séries limitées aux personnalités suivies (une personne retirée de la liste disparaît aussi des courbes)
+  const suivis = new Set(cands.map((c) => c.nom));
+  const garder = (bloc) => Object.fromEntries(Object.entries(bloc || {}).filter(([k]) => suivis.has(k)).map(([k, v]) => [k, typeof v === "object" ? v.v : v]));
+  const serie = hist.slice(-60).map((h) => ({ date: h.date, attention: garder(h.attention), polymarket: garder(h.polymarket) }));
   fs.writeFileSync(path.resolve("content/barometre.json"), JSON.stringify({
     date: dernier.date || null, sondage: sondage && { ...sondage, scores: undefined }, sources_attention: dernier.sources_attention || [],
     polymarket_volume: dernier.polymarket_volume || null, poids: Object.fromEntries(actives.map((k) => [k, POIDS[k] / somme])), candidats, serie }, null, 1));
