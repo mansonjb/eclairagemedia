@@ -108,14 +108,20 @@ for (const file of fs.readdirSync(SRC).sort()) {
   // Photos choisies et vérifiées pour le site (content/photos.json, clé « rubrique/date/n ») : priment sur celles de l'email
   // registre du site + registre tenu par les routines dans le dépôt des éditions (photos des nouvelles éditions)
   const lire = (f) => (fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : {});
-  const photos = { ...lire(path.resolve("content/photos.json")), ...lire(path.join(path.dirname(SRC), "photos.json")) };
+  const site = lire(path.resolve("content/photos.json")), depot = lire(path.join(path.dirname(SRC), "photos.json"));
+  // Ordre de préférence : registre des routines, registre du site, photo de l'email ; la première assez grande l'emporte.
+  // Contrôle de qualité : une photo Commons dont l'original fait moins de 1000 px de large est écartée.
   for (const s of data.sujets) {
-    const p = photos[`${rubrique}/${date}/${s.n}`];
-    if (p) { s.image = p.url; s.legende = p.legende; s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page }; }
+    const k = `${rubrique}/${date}/${s.n}`;
+    const choix = [depot[k], site[k], s.image && { url: s.image, legende: s.legende }].filter(Boolean);
+    s.image = null; s.legende = null; delete s.credit;
+    for (const p of choix) {
+      if (!(await assezGrande(p.url))) continue;
+      s.image = p.url; s.legende = p.legende ?? null;
+      if (p.auteur) s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page };
+      break;
+    }
   }
-  // Contrôle de qualité : une photo Commons trop petite (originale < 1000 px de large) est retirée.
-  // Pas d'illustration de remplissage : un sujet sans photo vérifiée s'affiche sans image.
-  for (const s of data.sujets) if (s.image && !(await assezGrande(s.image))) { s.image = null; s.legende = null; delete s.credit; }
   // Quiz « Vrai ou faux » inscrit par la routine dans l'édition : <!-- QUIZ {"affirmation","reponse","explication"} -->
   const qz = html.match(/<!-- QUIZ (\{[\s\S]*?\}) -->/);
   if (qz) { try { data.quiz = JSON.parse(qz[1]); } catch { /* quiz mal formé : ignoré */ } }
@@ -127,6 +133,7 @@ index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.lo
 const insecable = (k, v) => (typeof v === "string" && !/^(https?:|\/)/.test(v)
   ? v.replace(/ ([?!:;»%])/g, "\u00a0$1").replace(/« /g, "«\u00a0") : v);
 fs.writeFileSync(path.resolve("content/index.json"), JSON.stringify(index, insecable, 1));
+await (await import("./portraits-personnes.mjs")).portraitsPersonnes(index);
 const stats = (k) => index.reduce((n, e) => n + e.sujets.filter((s) => s[k]).length, 0);
 const total = index.reduce((n, e) => n + e.sujets.length, 0);
 console.log(`${index.length} éditions, ${total} sujets : ${stats("image")} photos, ${stats("chapeau")} chapeaux, ${stats("eclairage")} éclairages ; ${index.filter((e) => e.chiffreDuJour).length} chiffres du jour, ${index.filter((e) => e.lexique.length).length} lexiques`);

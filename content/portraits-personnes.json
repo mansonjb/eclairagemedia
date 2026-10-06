@@ -1,0 +1,577 @@
+{
+ "Olivier Blum": null,
+ "JP Morgan": null,
+ "Jefferies": null,
+ "Amin Nasser": null,
+ "Christopher Low": null,
+ "Briefing.com": null,
+ "Allison Kirkby": null,
+ "Lisa Nandy": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lisa_Nandy_Official_Cabinet_Portrait%2C_July_2024_%28cropped%29_2.jpg/250px-Lisa_Nandy_Official_Cabinet_Portrait%2C_July_2024_%28cropped%29_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Lisa_Nandy_Official_Cabinet_Portrait,_July_2024_(cropped)_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lisa_Nandy_Official_Cabinet_Portrait%2C_July_2024_(cropped)_2.jpg",
+  "auteur": "Lauren Hurley / No 10 Downing Street",
+  "licence": "OGL 3"
+ },
+ "Fnab": null,
+ "Ministère de l'Agriculture": null,
+ "Bonduelle": null,
+ "Michel Prosic": null,
+ "Académie de Poitiers": null,
+ "Ville de La Rochelle": null,
+ "Agglomération de La Rochelle": null,
+ "Atmo Nouvelle-Aquitaine": null,
+ "Édouard Geffray": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Portrait_Geffrey_%28cropped%29.jpg/250px-Portrait_Geffrey_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Portrait_Geffrey_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_Geffrey_(cropped).jpg",
+  "auteur": "Ministère de l'Éducation Nationale",
+  "licence": "Licence Ouverte"
+ },
+ "Manuel Bompard": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Manuel_Bompard_Manifestation_Liban_%28cropped%29.jpg/250px-Manuel_Bompard_Manifestation_Liban_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Manuel_Bompard_Manifestation_Liban_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Manuel_Bompard_Manifestation_Liban_(cropped).jpg",
+  "auteur": "SachaLintignat",
+  "licence": "CC0"
+ },
+ "Marine Tondelier": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/20210819_tondelier.m-cr3.jpg/250px-20210819_tondelier.m-cr3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20210819_tondelier.m-cr3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20210819_tondelier.m-cr3.jpg",
+  "auteur": "Greenbox",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Fabien Roussel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Roussel_Fabien_1.jpg/250px-Roussel_Fabien_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Roussel_Fabien_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+  "auteur": "Zouhair NAKARA",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Olivier Faure": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/OF_MATIGNON_-_MAXIME_CLAM_%28cropped%29.png/250px-OF_MATIGNON_-_MAXIME_CLAM_%28cropped%29.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "OF_MATIGNON_-_MAXIME_CLAM_(cropped).png",
+  "page": "https://commons.wikimedia.org/wiki/File:OF_MATIGNON_-_MAXIME_CLAM_(cropped).png",
+  "auteur": "KimiRaikkonen3",
+  "licence": "Public domain"
+ },
+ "Agnès Pannier-Runacher": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Agn%C3%A8s_Pannier-Runacher_-_2023_%28cropped%29.jpg/250px-Agn%C3%A8s_Pannier-Runacher_-_2023_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Agnès_Pannier-Runacher_-_2023_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Agn%C3%A8s_Pannier-Runacher_-_2023_(cropped).jpg",
+  "auteur": "IAEA Imagebank",
+  "licence": "CC BY 2.0"
+ },
+ "Joshua Hochart": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Joshua_Hochart_Forum_RNJ_%28cropped%29.jpg/250px-Joshua_Hochart_Forum_RNJ_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Joshua_Hochart_Forum_RNJ_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joshua_Hochart_Forum_RNJ_(cropped).jpg",
+  "auteur": "VenteXe",
+  "licence": "CC0"
+ },
+ "Patrick Mennucci": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Patrick_Mennucci_%28cropped%29.png/250px-Patrick_Mennucci_%28cropped%29.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Patrick_Mennucci_(cropped).png",
+  "page": "https://commons.wikimedia.org/wiki/File:Patrick_Mennucci_(cropped).png",
+  "auteur": "REVELLI-BEAUMONT",
+  "licence": "CC BY-SA 3.0"
+ },
+ "Éric Coquerel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Eric_Coquerel_en_2017.jpg/250px-Eric_Coquerel_en_2017.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Eric_Coquerel_en_2017.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Eric_Coquerel_en_2017.jpg",
+  "auteur": "Marche des fiertés de Paris 2017-14.jpg: Jérémie Silvestro Derivative work: Keym",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Monique Barbut": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Monique_Barbut_Portrait_%28cropped%29.jpg/250px-Monique_Barbut_Portrait_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Monique_Barbut_Portrait_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monique_Barbut_Portrait_(cropped).jpg",
+  "auteur": "Arnaud Bouissou / Terra",
+  "licence": "Licence Ouverte"
+ },
+ "Lula": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%282023%E2%80%932027%29.jpg/250px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%282023%E2%80%932027%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Foto_oficial_de_Luiz_Inácio_Lula_da_Silva_(2023–2027).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(2023%E2%80%932027).jpg",
+  "auteur": "Palácio do Planalto from Brasilia, Brasil",
+  "licence": "CC BY 2.0"
+ },
+ "Flavio Bolsonaro": null,
+ "Valentine Nfonsam": null,
+ "Auteurs de l'étude": null,
+ "Gary Clifford": null,
+ "Charles Taïeb": null,
+ "Bruno Halioua": null,
+ "FDA": null,
+ "Jennifer Woyach": null,
+ "Jacob Coxon": null,
+ "Julie Menin": null,
+ "Apple": null,
+ "David Singleton": null,
+ "Gouvernement espagnol": null,
+ "Christine Lagarde": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Lagarde_ECB_Portrait_2019.jpg/250px-Lagarde_ECB_Portrait_2019.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Lagarde_ECB_Portrait_2019.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lagarde_ECB_Portrait_2019.jpg",
+  "auteur": "Lemrich / European Central Bank",
+  "licence": "Attribution"
+ },
+ "Société Générale": null,
+ "Juliette Cohen": null,
+ "John Plassard": null,
+ "Sébastien Lecornu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg/250px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Portrait_officiel_de_Sébastien_Lecornu_-_Ministre_des_Armées_(cropped_2).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_(cropped_2).jpg",
+  "auteur": "© Patrice Normand/Leextra via opale",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Emmanuel Macron": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/250px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Emmanuel_Macron_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+  "auteur": "Nebojša Tejić",
+  "licence": "Public domain"
+ },
+ "Thierry Bros": null,
+ "Bureau of Labor Statistics": null,
+ "Wichita Liberty": null,
+ "Belén Garijo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bel%C3%A9n_Garijo.png/250px-Bel%C3%A9n_Garijo.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Belén_Garijo.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9n_Garijo.png",
+  "auteur": "Merck (Darmstadt, Germany)",
+  "licence": "CC BY-SA 3.0 de"
+ },
+ "Leonard Schleifer": null,
+ "Bruno Martel": null,
+ "Maximo Torero": null,
+ "Tribunal de La Rochelle": null,
+ "Raphaël Glucksmann": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg/250px-1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+  "auteur": "European Union 2024 - Source : EP",
+  "licence": "European Parliament"
+ },
+ "Ségolène Royal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Royal_Toulouse_2012.JPG/250px-Royal_Toulouse_2012.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Royal_Toulouse_2012.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Royal_Toulouse_2012.JPG",
+  "auteur": "Jackolan1",
+  "licence": "CC BY-SA 3.0"
+ },
+ "Jérôme Guedj": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/J%C3%A9r%C3%B4me_Guedj_2010.jpg/250px-J%C3%A9r%C3%B4me_Guedj_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Jérôme_Guedj_2010.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%B4me_Guedj_2010.jpg",
+  "auteur": "Audrey AK",
+  "licence": "CC BY-SA 2.0"
+ },
+ "Nima Nabavizadeh": null,
+ "Grail": null,
+ "Hasan Mohammad": null,
+ "Kathryn Dahir": null,
+ "Vaccination Info Service": null,
+ "Rob Bonta": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rob_Bonta_official_portrait_%28cropped%29.jpg/250px-Rob_Bonta_official_portrait_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Rob_Bonta_official_portrait_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rob_Bonta_official_portrait_(cropped).jpg",
+  "auteur": "Douglas Despres, California Attorney General's Office",
+  "licence": "Public domain"
+ },
+ "Responsable de la FTC": null,
+ "OpenAI": null,
+ "Dario Amodei": null,
+ "Nicolas Billecocq": null,
+ "Ministère des Armées": null,
+ "Agence spatiale européenne": null,
+ "RTE": null,
+ "Thomas Veyrenc": null,
+ "Laurent Néry": null,
+ "Syndicat des locataires": null,
+ "Cabinet de Pedro Sánchez": null,
+ "Franck Sander": null,
+ "Thibaut Morelle": null,
+ "Dominique Rabelle": null,
+ "Habitants de l'île d'Oléron": null,
+ "Laurent Wauquiez": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Laurent_Wauquiez_2021.jpg/250px-Laurent_Wauquiez_2021.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Laurent_Wauquiez_2021.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurent_Wauquiez_2021.jpg",
+  "auteur": "Un Gone",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Jean-Luc Mélenchon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg/250px-Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Jean_Luc_Mélenchon_en_mai_2026-_55261894422_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg",
+  "auteur": "jlm2017.fr",
+  "licence": "CC BY 4.0"
+ },
+ "David Amiel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/David-amiel_%28cropped%29.jpg/250px-David-amiel_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "David-amiel_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:David-amiel_(cropped).jpg",
+  "auteur": "B.MODIFICATEUR",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Marine Le Pen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/250px-Marine_Le_Pen_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Marine_Le_Pen_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+  "auteur": "Vox España",
+  "licence": "CC0"
+ },
+ "Jordan Bardella": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/MEP_Jordan_Bardella.jpg/250px-MEP_Jordan_Bardella.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "MEP_Jordan_Bardella.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MEP_Jordan_Bardella.jpg",
+  "auteur": "European Union",
+  "licence": "European Parliament"
+ },
+ "OMS": null,
+ "Jean-Noël Barrot": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Jean-No%C3%ABl_Barrot_2023_cropped.jpg/250px-Jean-No%C3%ABl_Barrot_2023_cropped.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Jean-Noël_Barrot_2023_cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jean-No%C3%ABl_Barrot_2023_cropped.jpg",
+  "auteur": "Tomohiro Ohsumi / European Union, 2023 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Alain Bernard": null,
+ "Takeda": null,
+ "CDC": null,
+ "Jay Clayton": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Official_portrait_of_Jay_Clayton_%282026%29.jpg/250px-Official_portrait_of_Jay_Clayton_%282026%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Official_portrait_of_Jay_Clayton_(2026).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Jay_Clayton_(2026).jpg",
+  "auteur": "Office of the Director of National Intelligence",
+  "licence": "Public domain"
+ },
+ "Donald Trump": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+  "auteur": "Daniel Torok",
+  "licence": "Public domain"
+ },
+ "Parlementaires américains": null,
+ "Microsoft AI": null,
+ "Mustafa Suleyman": null,
+ "Kim Yo Jong": null,
+ "État-major sud-coréen": null,
+ "Reinout De Bock": null,
+ "Moody's": null,
+ "Gouvernement": null,
+ "Bret Kenwell": null,
+ "Bastien Drut": null,
+ "David Ellison": null,
+ "Ross Benes": null,
+ "États plaignants": null,
+ "Xavier Unkovic": null,
+ "Serge Papin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Visit_of_Serge_Papin%2C_French_Minister_for_Small_and_Medium-sized_Enterprises%2C_to_the_EC_-_2025_%28cropped%29.jpg/250px-Visit_of_Serge_Papin%2C_French_Minister_for_Small_and_Medium-sized_Enterprises%2C_to_the_EC_-_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_to_the_EC_-_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin%2C_French_Minister_for_Small_and_Medium-sized_Enterprises%2C_to_the_EC_-_2025_(cropped).jpg",
+  "auteur": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Ania": null,
+ "Unaf": null,
+ "Steven Shallcross": null,
+ "Michelle Tarver": null,
+ "Marina Zemskova": null,
+ "Egetis Therapeutics": null,
+ "ANSSI": null,
+ "Parquet de Paris": null,
+ "Colin Shea-Blymyer": null,
+ "Alex Mallen": null,
+ "Chine": null,
+ "Steve Sosnick": null,
+ "Julie Sweet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Julie_Sweet_at_the_World_Economic_Forum.jpg/250px-Julie_Sweet_at_the_World_Economic_Forum.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Julie_Sweet_at_the_World_Economic_Forum.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Julie_Sweet_at_the_World_Economic_Forum.jpg",
+  "auteur": "World Economic Forum",
+  "licence": "CC BY 3.0"
+ },
+ "Michael Leuchten": null,
+ "Markus Manns": null,
+ "Stellantis": null,
+ "Jérôme Boussard": null,
+ "CGT Mulhouse": null,
+ "Guy Sidos": null,
+ "Agglo La Rochelle": null,
+ "Gérard Larcher": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_G._Larcher_2014_%28cropped%29.jpg/250px-Portrait_G._Larcher_2014_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Portrait_G._Larcher_2014_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_G._Larcher_2014_(cropped).jpg",
+  "auteur": "Senate",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Roland Lescure": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Visit_of_Roland_Lescure%2C_Minister_attached_to_the_French_Minister_for_Economics%2C_to_the_European_Commission_-_2022_%28cropped%29.jpg/250px-Visit_of_Roland_Lescure%2C_Minister_attached_to_the_French_Minister_for_Economics%2C_to_the_European_Commission_-_2022_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Visit_of_Roland_Lescure,_Minister_attached_to_the_French_Minister_for_Economics,_to_the_European_Commission_-_2022_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Roland_Lescure%2C_Minister_attached_to_the_French_Minister_for_Economics%2C_to_the_European_Commission_-_2022_(cropped).jpg",
+  "auteur": "Lukasz Kobus / European Union, 2022 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Estelle Mercier": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20260212-P1370205_Mercier_Estelle_Wikipedia.jpg/250px-20260212-P1370205_Mercier_Estelle_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20260212-P1370205_Mercier_Estelle_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20260212-P1370205_Mercier_Estelle_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Medef": null,
+ "Députés écologistes": null,
+ "Rassemblement national": null,
+ "Laurent Nuñez": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nunez_Beauvau_%28cropped%29.jpg/250px-Nunez_Beauvau_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Nunez_Beauvau_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nunez_Beauvau_(cropped).jpg",
+  "auteur": "Ministère de l'Intérieur",
+  "licence": "Licence Ouverte"
+ },
+ "Laure Lavalette": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Laure_Lavalette.jpg/250px-Laure_Lavalette.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Laure_Lavalette.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laure_Lavalette.jpg",
+  "auteur": "Alain V",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Gabriel Attal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/250px-Gabriel_Attal_2025_%28close_crop%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Gabriel_Attal_2025_(close_crop).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+  "auteur": "Ismail Aissoub",
+  "licence": "CC BY 4.0"
+ },
+ "Yoshiki Sawa": null,
+ "Femme d'une cinquantaine d'années": null,
+ "Jacqueline Becker": null,
+ "Bobby Koneru": null,
+ "Nathan Lambert": null,
+ "Kevin Thozet": null,
+ "Commerzbank": null,
+ "Live Nation": null,
+ "Autorité de la concurrence": null,
+ "FDSEA de la Marne": null,
+ "Khadidja Romari": null,
+ "Yaël Braun-Pivet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ya%C3%ABl_Braun-Pivet_2023_%28cropped%29.jpg/250px-Ya%C3%ABl_Braun-Pivet_2023_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Yaël_Braun-Pivet_2023_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ya%C3%ABl_Braun-Pivet_2023_(cropped).jpg",
+  "auteur": "Houses of the Oireachtas from Ireland",
+  "licence": "CC BY 2.0"
+ },
+ "Jean-Pierre Farandou": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Farandou_Portrait_officiel_%28cropped%29.jpg/250px-Farandou_Portrait_officiel_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Farandou_Portrait_officiel_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Farandou_Portrait_officiel_(cropped).jpg",
+  "auteur": "Matthieu Raffard",
+  "licence": "Licence Ouverte"
+ },
+ "Eli Lilly": null,
+ "Randy Seeley": null,
+ "Adeel Khan": null,
+ "Anne Marchand": null,
+ "Jarbas Barbosa": null,
+ "Google": null,
+ "Andrew Ferguson": null,
+ "Google DeepMind": null,
+ "BASF": null,
+ "DZ Bank": null,
+ "Samsung": null,
+ "Vesuvius": null,
+ "Cevian Capital": null,
+ "Annie Genevard": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Agriculture_and_Fisheries_Council._Bilateral_meeting%2C_FR-HR._2025-07-14_-_Annie_Genevard_%28cropped%29.jpg/250px-Agriculture_and_Fisheries_Council._Bilateral_meeting%2C_FR-HR._2025-07-14_-_Annie_Genevard_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Agriculture_and_Fisheries_Council._Bilateral_meeting,_FR-HR._2025-07-14_-_Annie_Genevard_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Agriculture_and_Fisheries_Council._Bilateral_meeting%2C_FR-HR._2025-07-14_-_Annie_Genevard_(cropped).jpg",
+  "auteur": "Yladda",
+  "licence": "CC0"
+ },
+ "FNSEA": null,
+ "Corinne Imbert": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Corinne_Imbert.jpg/250px-Corinne_Imbert.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Corinne_Imbert.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Corinne_Imbert.jpg",
+  "auteur": "Aodren Munoz",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Mickaël Vallet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Micka%C3%ABl_Vallet_lors_de_la_semaine_de_la_francophonie_2023_%28cropped%29.jpg/250px-Micka%C3%ABl_Vallet_lors_de_la_semaine_de_la_francophonie_2023_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Mickaël_Vallet_lors_de_la_semaine_de_la_francophonie_2023_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Micka%C3%ABl_Vallet_lors_de_la_semaine_de_la_francophonie_2023_(cropped).jpg",
+  "auteur": "Le Commissaire",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Christophe Plassard": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/20240708-P1030272_Christophe_Plassard_Wikipedia.jpg/250px-20240708-P1030272_Christophe_Plassard_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20240708-P1030272_Christophe_Plassard_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20240708-P1030272_Christophe_Plassard_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY 4.0"
+ },
+ "Édouard Philippe": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Edouard_Philippe_3x4_crop.jpg/250px-Edouard_Philippe_3x4_crop.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Edouard_Philippe_3x4_crop.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+  "auteur": "Wasasaq8",
+  "licence": "CC0"
+ },
+ "Communiqué du groupe": null,
+ "Gabriel Amard": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/D%C3%A9put%C3%A9_Gabriel_Amard_%28cropped%29.jpg/250px-D%C3%A9put%C3%A9_Gabriel_Amard_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Député_Gabriel_Amard_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9put%C3%A9_Gabriel_Amard_(cropped).jpg",
+  "auteur": "portraits_politiques - https://www.instagram.com/portraits_politiques/",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Cécile Cukierman": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/PhotoCC2_Campagne015_%28cropped%29.jpg/250px-PhotoCC2_Campagne015_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "PhotoCC2_Campagne015_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PhotoCC2_Campagne015_(cropped).jpg",
+  "auteur": "PCF AuvergneRhoneAlpes",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Fabien Claveau": null,
+ "Pierre Vallejo": null,
+ "Anthony Morlet-Lavidalie": null,
+ "Raul Sampognaro": null,
+ "Mohammad Bagher Ghalibaf": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mohammmad_Bagher_Ghalibaf_2025.jpg/250px-Mohammmad_Bagher_Ghalibaf_2025.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Mohammmad_Bagher_Ghalibaf_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammmad_Bagher_Ghalibaf_2025.jpg",
+  "auteur": "Mohsen Ranginkaman",
+  "licence": "CC BY 4.0"
+ },
+ "Majed Al Ansari": null,
+ "Alex Pascal": null,
+ "Toby Walsh": null,
+ "Saachi Jain": null,
+ "Lisa Su": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SXSW-2024-alih-OB7A0861-Lisa_Su.jpg/250px-SXSW-2024-alih-OB7A0861-Lisa_Su.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "SXSW-2024-alih-OB7A0861-Lisa_Su.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg",
+  "auteur": "Fuzheado",
+  "licence": "CC BY 4.0"
+ },
+ "Fei-Fei Li": null,
+ "TotalEnergies": null,
+ "RBC": null,
+ "Thomas Schmall": null,
+ "Li Zhen": null,
+ "Michael Chaney": null,
+ "Alex Dall": null,
+ "Elliott Investment Management": null,
+ "Commission européenne": null,
+ "Coalition des producteurs européens": null,
+ "Christophe Hansen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansen_EC_Portrait_2024.jpg/250px-Hansen_EC_Portrait_2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Hansen_EC_Portrait_2024.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hansen_EC_Portrait_2024.jpg",
+  "auteur": "Bogdan Hoyaux / European Union",
+  "licence": "CC BY 4.0"
+ },
+ "Gouvernement autrichien": null,
+ "Alois Rainer": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rainer_Alois_2017_by_Tobias_Koch.jpg/250px-Rainer_Alois_2017_by_Tobias_Koch.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Rainer_Alois_2017_by_Tobias_Koch.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rainer_Alois_2017_by_Tobias_Koch.jpg",
+  "auteur": "Tobias Koch",
+  "licence": "CC BY-SA 3.0"
+ },
+ "Gouvernement américain": null,
+ "NCBA": null,
+ "Marc Maigné": null,
+ "Guillaume Krabal": null,
+ "Ministère de l'Enseignement supérieur": null,
+ "Jean-Yves Cerfontaine": null,
+ "Communiqué de l'Agglo": null,
+ "Jean-François Copé": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Photo_JFC.jpg/250px-Photo_JFC.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Photo_JFC.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_JFC.jpg",
+  "auteur": "175Nell",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Dominique de Villepin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg/250px-Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg",
+  "auteur": "Georges Seguin (Okki)",
+  "licence": "CC BY-SA 3.0"
+ },
+ "Aurore Bergé": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/AURORE_BERG%C3%89_04_%28cropped%29.jpg/250px-AURORE_BERG%C3%89_04_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "AURORE_BERGÉ_04_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:AURORE_BERG%C3%89_04_(cropped).jpg",
+  "auteur": "HUGUES DE BEAUCHESNE",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Patrick Kanner": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Patrick_Kanner_par_Claude_Truong-Ngoc_septembre_2014.jpg/250px-Patrick_Kanner_par_Claude_Truong-Ngoc_septembre_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Patrick_Kanner_par_Claude_Truong-Ngoc_septembre_2014.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Patrick_Kanner_par_Claude_Truong-Ngoc_septembre_2014.jpg",
+  "auteur": "Photo Claude TRUONG-NGOC",
+  "licence": "CC BY-SA 3.0"
+ },
+ "Mélanie Vogel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/M%C3%A9lanie_Vogel_%282023%29-3.jpg/250px-M%C3%A9lanie_Vogel_%282023%29-3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Mélanie_Vogel_(2023)-3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9lanie_Vogel_(2023)-3.jpg",
+  "auteur": "original : European Greens from Brussels, Belgium modification : O.Taris",
+  "licence": "CC BY 2.0"
+ },
+ "Isabelle Florennes": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Isabelle_Florennes%2C_s%C3%A9natrice_des_Hauts-de-Seine.jpg/250px-Isabelle_Florennes%2C_s%C3%A9natrice_des_Hauts-de-Seine.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Isabelle_Florennes,_sénatrice_des_Hauts-de-Seine.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isabelle_Florennes%2C_s%C3%A9natrice_des_Hauts-de-Seine.jpg",
+  "auteur": "Medjai92",
+  "licence": "CC0"
+ },
+ "Max Brisson": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Photo_officielle_S%C3%A9nat_Max_Brisson_%28cropped%29.jpg/250px-Photo_officielle_S%C3%A9nat_Max_Brisson_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Photo_officielle_Sénat_Max_Brisson_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_officielle_S%C3%A9nat_Max_Brisson_(cropped).jpg",
+  "auteur": "Max Brisson",
+  "licence": "CC BY-SA 4.0"
+ },
+ "François Bayrou": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayrou_Matignon_%28cropped%29.jpg/250px-Bayrou_Matignon_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Bayrou_Matignon_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bayrou_Matignon_(cropped).jpg",
+  "auteur": "Service photographique de Matignon",
+  "licence": "Licence Ouverte"
+ },
+ "Damien Weber": null,
+ "Helen Bulbeck": null,
+ "Peter Fransquet": null,
+ "Ruben Juarez": null,
+ "Kekoa Taparra": null,
+ "Yannick Jadot": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/20210819_jadot.yannick_5704.jpg/250px-20210819_jadot.yannick_5704.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20210819_jadot.yannick_5704.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20210819_jadot.yannick_5704.jpg",
+  "auteur": "Greenbox",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Hervé Marseille": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Herve_Marseille-IMG_4096.jpg/250px-Herve_Marseille-IMG_4096.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Herve_Marseille-IMG_4096.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Herve_Marseille-IMG_4096.jpg",
+  "auteur": "Rama",
+  "licence": "CC BY-SA 2.0 fr"
+ },
+ "Laure Darcos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Laure_Darcos_-_2019_%28cropped%29.jpg/250px-Laure_Darcos_-_2019_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Laure_Darcos_-_2019_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laure_Darcos_-_2019_(cropped).jpg",
+  "auteur": "Jérémy Barande",
+  "licence": "CC BY-SA 2.0"
+ }
+}

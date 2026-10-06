@@ -96,12 +96,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:France_98_v_FIFA_98,_12_June_2018_(1).jpg"
  },
  "economie/2026-10-02/1": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/La_D%C3%A9fense_remote_view_from_Eiffel_tower_second_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "legende": "La Défense remote view from Eiffel tower second floor",
-  "auteur": "Simdaperce",
-  "licence": "CC BY-SA 3.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "page": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense_remote_view_from_Eiffel_tower_second_floor.jpg"
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg/1280px-Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Le siège de Capgemini, à Issy-les-Moulineaux",
+  "auteur": "Rd.capgemini",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg"
  },
  "economie/2026-10-02/2": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Assistant_Pharmacist.jpg/1280px-Assistant_Pharmacist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -934,5 +934,109 @@
   "licence": "CC BY-SA 2.0",
   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg"
+ },
+ "economie/2026-10-06/2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Altona_Oil_Refinery_Victoria.jpg/1280px-Altona_Oil_Refinery_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Raffinerie de pétrole",
+  "auteur": "Sgroey",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Altona_Oil_Refinery_Victoria.jpg"
+ },
+ "economie/2026-10-06/3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1280px-Nasdaq_MarketSite_%2851494550508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Le Nasdaq MarketSite, à Times Square, New York",
+  "auteur": "ajay_suresh",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+ },
+ "economie/2026-10-06/4": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Top_of_BT_Tower_at_Dusk.jpg/1280px-Top_of_BT_Tower_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "La BT Tower, à Londres",
+  "auteur": "Sebastiandoe5",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Top_of_BT_Tower_at_Dusk.jpg"
+ },
+ "politique/2026-10-06/2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/S%C3%A9nat%2C_h%C3%A9micycle.jpg/1280px-S%C3%A9nat%2C_h%C3%A9micycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "L'hémicycle du Sénat, au palais du Luxembourg",
+  "auteur": "Soleil1409",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat,_h%C3%A9micycle.jpg"
+ },
+ "politique/2026-10-06/3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2020-06-28_18-07-24_election-Belfort.jpg/1280px-2020-06-28_18-07-24_election-Belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Une urne lors d'un scrutin en France",
+  "auteur": "Thomas Bresson",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2020-06-28_18-07-24_election-Belfort.jpg"
+ },
+ "sante/2026-10-06/1": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg/1280px-Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Une équipe chirurgicale au bloc opératoire",
+  "auteur": "Official U.S. Navy Page from United States of America\n\nCpl. Karis Mattingly/U.S.",
+  "licence": "Public domain",
+  "licence_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Laparoscopic_surgery_-_210710-M-TS451-1028_(51313716419).jpg"
+ },
+ "sante/2026-10-06/3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ozempic%C2%AE_3ml.jpg/1280px-Ozempic%C2%AE_3ml.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Un stylo injecteur d'Ozempic (sémaglutide)",
+  "auteur": "HualinXMN",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ozempic%C2%AE_3ml.jpg"
+ },
+ "tech/2026-10-06/3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_%284480191605%29.jpg/1280px-Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_%284480191605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Le ministère du Travail espagnol, à Madrid",
+  "auteur": "Ricardo Ricote Rodríguez from Madrid, España",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_(4480191605).jpg"
+ },
+ "sante/2026-10-04/3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Imagerrrrrr.jpg/1280px-Imagerrrrrr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Une chambre",
+  "auteur": "Juanejacome",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Imagerrrrrr.jpg"
+ },
+ "tech/2026-10-03/1": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wikimedia_Foundation_Servers-8055_13.jpg/1280px-Wikimedia_Foundation_Servers-8055_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Une salle de serveurs informatiques",
+  "auteur": "Victorgrigas",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg"
+ },
+ "politique/2026-10-01/2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg/1280px-Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Rassemblement de retraités à Sens (Yonne), novembre 2025",
+  "auteur": "François GOGLINS",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg"
+ },
+ "food/2026-09-30/2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg/1280px-Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Un champ cultivé",
+  "auteur": "Guilhem Vellut from Annecy, France",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tractor_tracks_@_Field_@_Choisy_(49908338837).jpg"
+ },
+ "tech/2026-09-30/2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/1280px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "legende": "Le Pioneer Building, siège d'OpenAI à San Francisco",
+  "auteur": "HaeB",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg"
  }
 }

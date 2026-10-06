@@ -1,3 +1,4 @@
+import { Orateur } from "@/components/Portrait";
 /* eslint-disable @next/next/no-img-element */
 import { RUBRIQUES, dateLongue, type Sujet, type Edition as Ed } from "@/lib/editions";
 import { Credit } from "@/components/ui";
@@ -95,7 +96,7 @@ export default function Bento({ e, s }: { e: Ed; s: Sujet }) {
           <div className={`grid gap-4 ${COLS[Math.min(s.cartes.length, 5)]}`}>
             {s.cartes.map((c, k) => (
               <a key={k} href={c.url} target="_blank" rel="noopener noreferrer" className="flex flex-col gap-3 rounded-[24px] p-6 transition hover:-translate-y-0.5" style={{ backgroundColor: c.fond }}>
-                <div className="flex flex-wrap items-center gap-2"><span className="pastille text-white" style={{ backgroundColor: c.couleur }}>{c.parti}</span><span className="text-[13.5px] font-extrabold">{c.qui}</span></div>
+                <Orateur qui={c.qui} parti={c.parti} couleur={c.couleur} />
                 <p className="d text-[19px] leading-[1.25]">{c.texte}</p>
                 <p className="mt-auto text-[12.5px] text-gris">{c.contexte ? `${c.contexte} · ` : ""}<span className="underline">{c.source}</span></p>
               </a>

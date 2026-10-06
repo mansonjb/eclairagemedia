@@ -99,8 +99,8 @@
     "theme": "ÉNERGIE",
     "titre": "Pétrole : le patron d'Aramco juge les stocks mondiaux « scarily thin »",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Altona_Oil_Refinery_Victoria.jpg/1280px-Altona_Oil_Refinery_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Raffinerie de pétrole",
     "chapeau": "Lundi 5 octobre, à Londres, le directeur général de Saudi Aramco, Amin Nasser, a déclaré au forum Energy Intelligence que le monde a perdu près de 3 milliards de barils d'offre brute depuis le début de la guerre en Iran. Le monde est entré dans la crise avec environ 10 milliards de barils de stocks ; plus d'un milliard…",
     "eclairage": "À quoi servent les stocks de pétrole ?",
     "chiffres": [
@@ -152,15 +152,21 @@
      }
     ],
     "apres": "La publication des minutes de la Fed mercredi 7 octobre et la suite des libérations de réserves stratégiques.",
-    "change": "Des stocks bas rendent les prix plus sensibles aux mauvaises nouvelles : les ménages et les entreprises restent exposés à un carburant cher tant que le détroit d'Ormuz n'est pas pleinement rouvert. Précision : Aramco est lui-même un acteur du marché, qui vend…"
+    "change": "Des stocks bas rendent les prix plus sensibles aux mauvaises nouvelles : les ménages et les entreprises restent exposés à un carburant cher tant que le détroit d'Ormuz n'est pas pleinement rouvert. Précision : Aramco est lui-même un acteur du marché, qui vend…",
+    "credit": {
+     "auteur": "Sgroey",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Altona_Oil_Refinery_Victoria.jpg"
+    }
    },
    {
     "n": 3,
     "theme": "MARCHÉS",
     "titre": "Wall Street : le Nasdaq à un record, malgré un taux américain à 10 ans autour de 5,3 %",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1280px-Nasdaq_MarketSite_%2851494550508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Le Nasdaq MarketSite, à Times Square, New York",
     "chapeau": "Lundi 5 octobre, la Bourse de New York a terminé en hausse. Le Nasdaq a gagné 1,05 % et a clôturé à un record de 27 477,31 points, le S&P 500 a pris 0,66 % et le Dow Jones 0,18 %.",
     "eclairage": "Le taux à 10 ans, thermomètre du coût de l'argent",
     "chiffres": [
@@ -222,15 +228,21 @@
      }
     ],
     "apres": "Mercredi 7 octobre : compte rendu de la dernière réunion de la Fed.",
-    "change": "Les cours de Bourse sont cités ici comme faits datés et ne constituent pas un conseil d'investissement. Un taux américain élevé se répercute, avec retard, sur le coût du crédit dans le monde."
+    "change": "Les cours de Bourse sont cités ici comme faits datés et ne constituent pas un conseil d'investissement. Un taux américain élevé se répercute, avec retard, sur le coût du crédit dans le monde.",
+    "credit": {
+     "auteur": "ajay_suresh",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+    }
    },
    {
     "n": 4,
     "theme": "ENTREPRISES",
     "titre": "BT rachète TalkTalk, sorti d'administration, pour environ 400 millions de livres",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Top_of_BT_Tower_at_Dusk.jpg/1280px-Top_of_BT_Tower_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "La BT Tower, à Londres",
     "chapeau": "Lundi 5 octobre, BT Group a annoncé avoir racheté TalkTalk Telecommunications et PlatformX Communications, qui étaient en administration (procédure britannique proche d'une faillite encadrée), pour assurer la continuité du service de 2,5 millions de clients. L'opération se fait sans dette reprise.",
     "eclairage": "Que se passe-t-il quand une entreprise est « en administration » ?",
     "chiffres": [
@@ -292,7 +304,13 @@
      }
     ],
     "apres": "Rapport de la CMA à la ministre d'ici au 19 octobre.",
-    "change": "Pour les clients de TalkTalk, le service continue sans interruption. Pour le marché britannique du haut débit, le nombre d'acteurs diminue, ce que la CMA examinera."
+    "change": "Pour les clients de TalkTalk, le service continue sans interruption. Pour le marché britannique du haut débit, le nombre d'acteurs diminue, ce que la CMA examinera.",
+    "credit": {
+     "auteur": "Sebastiandoe5",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Top_of_BT_Tower_at_Dusk.jpg"
+    }
    }
   ],
   "agenda": [
@@ -896,8 +914,8 @@
     "theme": "INSTITUTIONS",
     "titre": "Sénat : les Républicains restent premiers, l'UCI passe deuxième, le RN a son groupe",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/S%C3%A9nat%2C_h%C3%A9micycle.jpg/1280px-S%C3%A9nat%2C_h%C3%A9micycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "L'hémicycle du Sénat, au palais du Luxembourg",
     "chapeau": "Lundi 5 octobre, une semaine après le renouvellement partiel du Sénat du 27 septembre, les effectifs des groupes politiques ont été arrêtés. Selon la liste du Sénat, Les Républicains comptent 124 sénateurs sur 348, soit sept de moins qu'avant le scrutin, et gardent la première place.",
     "eclairage": "À quoi sert un groupe politique au Sénat ?",
     "chiffres": [
@@ -958,15 +976,21 @@
      }
     ],
     "apres": "À suivre : la répartition des postes du Bureau du Sénat, qui dépend du poids des groupes.",
-    "change": "La répartition des postes du Bureau et des vice-présidences suit le poids des groupes : l'ordre des groupes au Sénat est modifié. Rien ne change pour la majorité sénatoriale, qui reste celle de LR et de l'UCI."
+    "change": "La répartition des postes du Bureau et des vice-présidences suit le poids des groupes : l'ordre des groupes au Sénat est modifié. Rien ne change pour la majorité sénatoriale, qui reste celle de LR et de l'UCI.",
+    "credit": {
+     "auteur": "Soleil1409",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat,_h%C3%A9micycle.jpg"
+    }
    },
    {
     "n": 3,
     "theme": "ÉLECTIONS",
     "titre": "Primaire de la gauche : 140 282 inscrits avant le premier tour",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2020-06-28_18-07-24_election-Belfort.jpg/1280px-2020-06-28_18-07-24_election-Belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Une urne lors d'un scrutin en France",
     "chapeau": "La commission d'organisation de la primaire de la gauche sociale-démocrate a annoncé, dans la nuit du lundi 5 au mardi 6 octobre, le chiffre définitif des inscrits après la clôture des inscriptions à minuit : 140 282 personnes pourront voter. Lundi soir, elle avait communiqué un chiffre provisoire d'environ 128 000…",
     "eclairage": "Comment vote-t-on ?",
     "chiffres": [
@@ -1019,7 +1043,13 @@
      }
     ],
     "apres": "Premier tour les 9 et 10 octobre ; second tour les 16 et 17 octobre si nécessaire.",
-    "change": "Le chiffre fixe le corps électoral du premier tour : seuls les inscrits à la clôture pourront voter, en ligne."
+    "change": "Le chiffre fixe le corps électoral du premier tour : seuls les inscrits à la clôture pourront voter, en ligne.",
+    "credit": {
+     "auteur": "Thomas Bresson",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2020-06-28_18-07-24_election-Belfort.jpg"
+    }
    },
    {
     "n": 4,
@@ -1189,8 +1219,8 @@
     "theme": "CHIRURGIE",
     "titre": "Appendicite : moins de cancers colorectaux après l'opération qu'après les antibiotiques seuls, dans une étude observationnelle non relue par des pairs",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg/1280px-Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Une équipe chirurgicale au bloc opératoire",
     "chapeau": "Des chercheurs de la Morehouse School of Medicine (Atlanta) ont présenté, lors du congrès de l'American College of Surgeons à Washington (26 au 29 septembre 2026), une analyse de dossiers médicaux issus du réseau TriNetX (168 organisations de santé). Après appariement, 15 616 patients opérés d'une appendicite aiguë et…",
     "eclairage": "Pourquoi cette étude ne prouve pas que l'opération protège",
     "chiffres": [
@@ -1242,7 +1272,13 @@
      }
     ],
     "apres": "Publication complète dans une revue à comité de lecture, puis, pour trancher, des études où les patients sont répartis au hasard.",
-    "change": "Rien ne change aujourd'hui dans la prise en charge : les antibiotiques restent une option acceptée pour certaines appendicites, et le choix se fait avec l'équipe soignante. Ce travail ouvre une question de suivi à long terme après un traitement sans chirurgie."
+    "change": "Rien ne change aujourd'hui dans la prise en charge : les antibiotiques restent une option acceptée pour certaines appendicites, et le choix se fait avec l'équipe soignante. Ce travail ouvre une question de suivi à long terme après un traitement sans chirurgie.",
+    "credit": {
+     "auteur": "Official U.S. Navy Page from United States of America\n\nCpl. Karis Mattingly/U.S.",
+     "licence": "Public domain",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Laparoscopic_surgery_-_210710-M-TS451-1028_(51313716419).jpg"
+    }
    },
    {
     "n": 2,
@@ -1325,8 +1361,8 @@
     "theme": "ÉTUDE",
     "titre": "Médicaments GLP-1 : plus de décollement des ongles et de chute de cheveux déclarés dans une enquête, sans preuve de cause",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ozempic%C2%AE_3ml.jpg/1280px-Ozempic%C2%AE_3ml.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Un stylo injecteur d'Ozempic (sémaglutide)",
     "chapeau": "Le 1er octobre 2026, au congrès de l'Académie européenne de dermatologie et de vénéréologie (EADV) à Vienne, une équipe dirigée notamment par le Dr Charles Taïeb (hôpital Necker, Paris) a présenté une enquête menée en France, aux États-Unis, au Brésil et au Mexique. Elle compare 575 personnes utilisant pour la première…",
     "eclairage": "Qu'est-ce qu'une enquête déclarative, et que vaut-elle ?",
     "chiffres": [
@@ -1388,7 +1424,13 @@
      }
     ],
     "apres": "Publication complète après relecture par des pairs, puis études avec des groupes comparables suivis dans le temps.",
-    "change": "Aujourd'hui, rien ne justifie de modifier un traitement : l'enquête signale une association à explorer, pas un effet démontré. Pour les soignants, c'est une piste pour mieux interroger les patients sur leurs ongles et leur cuir chevelu."
+    "change": "Aujourd'hui, rien ne justifie de modifier un traitement : l'enquête signale une association à explorer, pas un effet démontré. Pour les soignants, c'est une piste pour mieux interroger les patients sur leurs ongles et leur cuir chevelu.",
+    "credit": {
+     "auteur": "HualinXMN",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ozempic%C2%AE_3ml.jpg"
+    }
    },
    {
     "n": 4,
@@ -1675,8 +1717,8 @@
     "theme": "TRAVAIL",
     "titre": "Espagne : les employeurs doivent signaler les algorithmes qui décident des conditions de travail",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_%284480191605%29.jpg/1280px-Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_%284480191605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Le ministère du Travail espagnol, à Madrid",
     "chapeau": "Le décret royal 723/2026, adopté le 9 septembre et publié au Journal officiel espagnol (BOE) le 15 septembre, est entré en vigueur le 5 octobre 2026. Il transpose la directive européenne 2019/1152 sur la transparence des conditions de travail.",
     "eclairage": "Informer n'est pas interdire",
     "chiffres": [
@@ -1728,7 +1770,13 @@
      }
     ],
     "apres": "Pour les contrats existants, la réponse est due dans les 30 jours ouvrables suivant la demande. Une loi sur les sanctions reste en attente, sans date dans les sources.",
-    "change": "En Espagne, un salarié peut désormais demander si un algorithme influence son planning, ses tâches, sa paie ou son évolution, et recevoir une réponse écrite. Pour une entreprise, cela suppose de savoir quels outils automatisés elle emploie. Effet immédiat…"
+    "change": "En Espagne, un salarié peut désormais demander si un algorithme influence son planning, ses tâches, sa paie ou son évolution, et recevoir une réponse écrite. Pour une entreprise, cela suppose de savoir quels outils automatisés elle emploie. Effet immédiat…",
+    "credit": {
+     "auteur": "Ricardo Ricote Rodríguez from Madrid, España",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ministerio_de_Trabajo_e_Inmigraci%C3%B3n_(4480191605).jpg"
+    }
    }
   ],
   "agenda": [],
@@ -4479,8 +4527,8 @@
     "theme": "TRAITEMENT",
     "titre": "Narcolepsie de type 1 : un médicament qui remplace l'orexine testé dans deux essais de phase 3",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Imagerrrrrr.jpg/1280px-Imagerrrrrr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Une chambre",
     "chapeau": "Le New England Journal of Medicine a publié, selon l'annonce du fabricant Takeda du 9 septembre 2026, les résultats de deux essais de phase 3 de l'oveporexton dans la narcolepsie de type 1 : FirstLight (168 participants) et RadiantLight (105), sur 12 semaines, contre placebo. La réduction médiane des cataplexies…",
     "eclairage": "Comprendre la narcolepsie de type 1",
     "chiffres": [
@@ -4542,7 +4590,13 @@
      }
     ],
     "apres": "Plus de 95 % des participants qui ont terminé les essais ont rejoint les études de prolongation, qui renseigneront sur le long terme (Pharmacy Times).",
-    "change": "Pour les personnes atteintes de narcolepsie de type 1, c'est un premier traitement qui vise le mécanisme de la maladie, déjà autorisé aux États-Unis, au Japon et en Chine pour les adultes (Takeda). Aucune autorisation européenne n'apparaît dans les sources…"
+    "change": "Pour les personnes atteintes de narcolepsie de type 1, c'est un premier traitement qui vise le mécanisme de la maladie, déjà autorisé aux États-Unis, au Japon et en Chine pour les adultes (Takeda). Aucune autorisation européenne n'apparaît dans les sources…",
+    "credit": {
+     "auteur": "Juanejacome",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Imagerrrrrr.jpg"
+    }
    },
    {
     "n": 4,
@@ -6176,8 +6230,8 @@
     "theme": "CYBERSÉCURITÉ",
     "titre": "L'État face aux fuites de données : l'ANSSI publie son premier bilan et fait elle-même l'objet d'une enquête",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wikimedia_Foundation_Servers-8055_13.jpg/1280px-Wikimedia_Foundation_Servers-8055_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Une salle de serveurs informatiques",
     "chapeau": "Le 30 septembre, l'ANSSI, l'agence qui protège les systèmes d'information de l'État, a publié le premier point de situation de l'opération REACTIV, lancée à la demande du Premier ministre le 1er septembre. Depuis le 1er août, 99 violations de données touchant des services de l'État lui ont été signalées, dont 67…",
     "eclairage": "Pourquoi un mot de passe volé suffit-il ?",
     "chiffres": [
@@ -6239,7 +6293,13 @@
      }
     ],
     "apres": "L'ANSSI présente ses chiffres comme provisoires ; l'enquête du parquet de Paris est ouverte, sans calendrier public.",
-    "change": "Pour les agents publics et les prestataires de l'État, l'ANSSI cible l'authentification multifacteur et la fin des applications internes exposées sur Internet. Pour les usagers, aucune consigne officielle n'est donnée dans les documents consultés."
+    "change": "Pour les agents publics et les prestataires de l'État, l'ANSSI cible l'authentification multifacteur et la fin des applications internes exposées sur Internet. Pour les usagers, aucune consigne officielle n'est donnée dans les documents consultés.",
+    "credit": {
+     "auteur": "Victorgrigas",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg"
+    }
    },
    {
     "n": 2,
@@ -6359,8 +6419,8 @@
     "theme": "TECH",
     "titre": "Accenture rassure le secteur du conseil informatique, Capgemini en tête du CAC 40",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg/1280px-Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Le siège de Capgemini, à Issy-les-Moulineaux",
     "chapeau": "Jeudi 1er octobre, Accenture, géant américain du conseil et des services informatiques, a publié ses résultats du quatrième trimestre de son exercice (clos fin août) : 18,7 milliards de dollars de chiffre d'affaires, en hausse de 7 % en devises locales, et 22,2 milliards de dollars de prises de commandes. Pour son…",
     "eclairage": "Pourquoi une entreprise américaine fait-elle bouger une entreprise française ?",
     "chiffres": [
@@ -6422,7 +6482,13 @@
      }
     ],
     "apres": "Les prochains résultats trimestriels de Capgemini et des autres sociétés de services informatiques diront si la tendance se confirme.",
-    "change": "Pour un salarié ou un client de ces sociétés, rien ne change à court terme. Pour les investisseurs, la question de fond demeure : l'IA crée-t-elle plus de commandes de conseil qu'elle n'en supprime ? Accenture signale à la fois des commandes en hausse et des…"
+    "change": "Pour un salarié ou un client de ces sociétés, rien ne change à court terme. Pour les investisseurs, la question de fond demeure : l'IA crée-t-elle plus de commandes de conseil qu'elle n'en supprime ? Accenture signale à la fois des commandes en hausse et des…",
+    "credit": {
+     "auteur": "Rd.capgemini",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg"
+    }
    },
    {
     "n": 2,
@@ -8488,8 +8554,8 @@
     "theme": "ARGENT PUBLIC",
     "titre": "Budget 2027 : 5,5 milliards d'euros demandés aux retraites",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg/1280px-Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Rassemblement de retraités à Sens (Yonne), novembre 2025",
     "chapeau": "Jeudi 1er octobre, quatre ministres, Roland Lescure (Économie), David Amiel (Comptes publics), Jean-Pierre Farandou (Travail) et Stéphanie Rist (Santé), présentent le projet de loi de finances et le projet de loi de financement de la Sécurité sociale pour 2027. Le gouvernement annonce un effort de 54 milliards d'euros…",
     "eclairage": "Indexation, sous-indexation : de quoi parle-t-on ?",
     "chiffres": [
@@ -8541,7 +8607,13 @@
      }
     ],
     "apres": "Examen à l'Assemblée nationale à partir de la mi-octobre (les sources donnent entre le 12 et le 14 octobre), puis au Sénat.",
-    "change": "Pour les retraités concernés, le choix entre sous-indexation et abattement n'est pas tranché : le gouvernement parle de seuils « à discuter ». Les pensions inférieures ou égales à 1 260 euros seraient revalorisées intégralement."
+    "change": "Pour les retraités concernés, le choix entre sous-indexation et abattement n'est pas tranché : le gouvernement parle de seuils « à discuter ». Les pensions inférieures ou égales à 1 260 euros seraient revalorisées intégralement.",
+    "credit": {
+     "auteur": "François GOGLINS",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg"
+    }
    },
    {
     "n": 3,
@@ -9680,8 +9752,8 @@
     "theme": "AGRICULTURE",
     "titre": "Plan d'aide de plus d'un milliard d'euros : où en est-on ?",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg/1280px-Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Un champ cultivé",
     "chapeau": "Le 4 septembre, la ministre de l'Agriculture Annie Genevard a annoncé plus d'un milliard d'euros pour les exploitations touchées par les canicules, la sécheresse et les incendies. Le plan comprend 520 millions d'euros d'indemnisation de solidarité nationale (ISN), avec une avance portée de 70 % à 80 % pour les…",
     "eclairage": "Qui indemnise quoi ?",
     "chiffres": [
@@ -9743,7 +9815,13 @@
      }
     ],
     "apres": "La fenêtre initiale de l'aide à l'azote se terminait aujourd'hui, 30 septembre ; elle court désormais jusqu'au 31 décembre 2026.",
-    "change": "Pour une exploitation, l'aide arrive en plusieurs étapes : avance de l'ISN, aides aux intrants via les préfectures, allègements fiscaux et sociaux. Pour les consommateurs, l'effet dépend des filières : maïs et betteraves entrent dans l'alimentation animale, le…"
+    "change": "Pour une exploitation, l'aide arrive en plusieurs étapes : avance de l'ISN, aides aux intrants via les préfectures, allègements fiscaux et sociaux. Pour les consommateurs, l'effet dépend des filières : maïs et betteraves entrent dans l'alimentation animale, le…",
+    "credit": {
+     "auteur": "Guilhem Vellut from Annecy, France",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_tracks_@_Field_@_Choisy_(49908338837).jpg"
+    }
    }
   ],
   "agenda": [
@@ -10428,8 +10506,8 @@
     "theme": "MODÈLES",
     "titre": "OpenAI abandonne GPT-6.1 Astra après des tests de sécurité",
     "court": null,
-    "image": null,
-    "legende": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/1280px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Le Pioneer Building, siège d'OpenAI à San Francisco",
     "chapeau": "1 Astra, un modèle prévu pour octobre, après des tests internes de sécurité. Selon Saachi Jain, responsable des systèmes de sécurité d'OpenAI, citée par The Hacker News, le modèle « didn't quite meet the bar in terms of staying within scope and authorization » (n'a pas tout à fait atteint le niveau attendu pour rester…",
     "eclairage": "Que veut dire « tromperie » pour un modèle ?",
     "chiffres": [
@@ -10481,7 +10559,13 @@
      }
     ],
     "apres": "OpenAI dit vouloir reprendre le travail sur ce modèle pour les prochaines versions de la famille GPT-6 (selon la presse), sans date.",
-    "change": "Le modèle Astra n'est pas disponible ; les utilisateurs de ChatGPT Work et de Codex accèdent à Sol, présenté par OpenAI comme moins cher."
+    "change": "Le modèle Astra n'est pas disponible ; les utilisateurs de ChatGPT Work et de Codex accèdent à Sol, présenté par OpenAI comme moins cher.",
+    "credit": {
+     "auteur": "HaeB",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg"
+    }
    },
    {
     "n": 3,

@@ -1,4 +1,4 @@
-import Portrait from "@/components/Portrait";
+import Portrait, { Orateur } from "@/components/Portrait";
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { RUBRIQUES, titreCourt, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
@@ -169,10 +169,7 @@ export default function Journee({ date }: { date: string }) {
           <div className="grid items-stretch gap-5 md:grid-cols-3">
             {citations.map((c, k) => (
               <Link key={k} href={c.href} className="flex flex-col gap-3 rounded-[28px] p-6 transition hover:-translate-y-0.5" style={{ backgroundColor: c.fond }}>
-                <div className="flex flex-wrap items-center gap-2">
-                  <span className="pastille text-white" style={{ backgroundColor: c.couleur }}>{c.parti}</span>
-                  <span className="text-[13.5px] font-extrabold">{c.qui}</span>
-                </div>
+                <Orateur qui={c.qui} parti={c.parti} couleur={c.couleur} />
                 <p className="d text-[19px] leading-[1.2]">{c.texte}</p>
                 <p className="mt-auto text-[12.5px] text-gris">{c.contexte ? `${c.contexte} · ` : ""}{c.source}</p>
               </Link>
