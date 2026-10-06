@@ -61,7 +61,7 @@ export default function Journee({ date }: { date: string }) {
   const unes = unesDuJour(date);
   const lead = unes[0]?.e;
   const pris = new Set(unes.map((u) => u.s));
-  const autres = eds.flatMap((e) => e.sujets.slice(0, 2).map((s) => ({ e, s })))
+  const autres = eds.flatMap((e) => e.sujets.map((s) => ({ e, s })))
     .filter((x) => !pris.has(x.s))
     .sort((a, b) => a.s.n - b.s.n)
     .slice(0, 6);
@@ -89,7 +89,7 @@ export default function Journee({ date }: { date: string }) {
     <div className="flex flex-col gap-5">
       {lead && (
         <div className="grid gap-5 lg:grid-cols-3">
-          <UneCarte cartes={unes.map(({ e, s }, k) => <Principal key={e.rubrique} e={e} s={s} k={k} />)} />
+          <UneCarte cartes={unes.map(({ e, s }, k) => <Principal key={`${e.rubrique}-${s.n}`} e={e} s={s} k={k} />)} />
           <div className="flex min-w-0 flex-col gap-5">
             {quiz ? <QuizPile qs={quizzes} /> : carteChiffre}
             <section className="carte flex flex-1 flex-col p-6" aria-label="En 30 secondes">

@@ -114,7 +114,12 @@ import quizManuel from "../../content/quiz-manuel.json";
 // Quiz du jour : celui d'une édition (politique d'abord), sinon le quiz rédigé à la main
 // Jusqu'à 3 quiz du jour, de rubriques différentes (dans l'ordre des rubriques), sinon le quiz rédigé à la main
 export function quizDuJourListe(date: string, k = 3) {
-  const liste = parDate(date).filter((e) => e.quiz).map((e) => ({ ...e.quiz!, href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique }));
+  // Quiz du jour d'abord, puis ceux des éditions précédentes (autres rubriques) tant que la journée n'est pas complète
+  const vus = new Set<string>();
+  const liste = editions.filter((e) => e.quiz && e.date <= date)
+    .sort((a, b) => (a.date === b.date ? ORDRE.indexOf(a.rubrique) - ORDRE.indexOf(b.rubrique) : b.date.localeCompare(a.date)))
+    .filter((e) => !vus.has(e.rubrique) && vus.add(e.rubrique))
+    .map((e) => ({ ...e.quiz!, href: `/${e.rubrique}/${e.date}`, rubrique: e.rubrique }));
   if (liste.length) return liste.slice(0, k);
   const q = quizDuJour(date);
   return q ? [q] : [];
@@ -132,7 +137,10 @@ export function unesDuJour(date: string): { e: Edition; s: Sujet }[] {
   const vraie = (e: Edition) => !!e.sujets[0].image && !e.sujets[0].legende?.endsWith("(illustration)");
   const lead = eds.find(vraie) ?? eds[0];
   if (!lead) return [];
-  return [lead, ...eds.filter((e) => e !== lead)].slice(0, 3).map((e) => ({ e, s: e.sujets[0] }));
+  const unes = [lead, ...eds.filter((e) => e !== lead)].slice(0, 3).map((e) => ({ e, s: e.sujets[0] }));
+  // Moins de trois rubriques publiées : on complète avec les sujets suivants des éditions du jour
+  const suite = eds.flatMap((e) => e.sujets.slice(1).map((s) => ({ e, s }))).sort((a, b) => a.s.n - b.s.n);
+  return [...unes, ...suite].slice(0, 3);
 }
 
 // Lien vers la page d'un sujet

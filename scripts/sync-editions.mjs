@@ -205,3 +205,4 @@ if (fs.existsSync(fCand)) {
   fs.writeFileSync(path.resolve("content/podcasts.json"), JSON.stringify(episodes, insecable, 1));
   console.log(`podcast : ${episodes.length} épisode(s)`);
 }
+await import("./epub.mjs");
