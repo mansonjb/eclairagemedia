@@ -1,5 +1,754 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-06",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Schneider Electric rachète l'américain PTC pour 22,6 milliards de dollars, son plus gros achat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schneider_Elec_HQ.jpg/960px-Schneider_Elec_HQ.jpg",
+    "legende": "Le siège de Schneider Electric à Rueil-Malmaison",
+    "chapeau": "Lundi 5 octobre, Schneider Electric et PTC ont annoncé un accord définitif : Schneider achète PTC, éditeur américain de logiciels de conception et de gestion de produits industriels basé à Boston, pour 205 dollars par action, en numéraire. Cela valorise les fonds propres de PTC à environ 22,6 milliards de dollars (20,1…",
+    "eclairage": "Comment une entreprise paie un rachat, et pourquoi la prime ?",
+    "chiffres": [
+     {
+      "valeur": "+42 %",
+      "legende": "prime sur le dernier cours de PTC"
+     },
+     {
+      "valeur": "−10 %",
+      "legende": "cours de Schneider à la clôture lundi"
+     },
+     {
+      "valeur": "2,4 Md€",
+      "legende": "chiffre d'affaires 2025 de PTC"
+     }
+    ],
+    "passe": "Lundi 5 octobre, Schneider Electric et PTC ont annoncé un accord définitif : Schneider achète PTC, éditeur américain de logiciels de conception et de gestion de produits industriels basé à Boston, pour 205 dollars par action, en numéraire. Cela valorise les fonds propres de PTC à environ 22,6 milliards de dollars (20,1 milliards d'euros), et l'entreprise avec sa dette à 23,7 milliards de dollars. Selon le communiqué, l'offre représente une prime de 42,3 % sur le dernier cours de clôture de PTC. PTC a réalisé 2,4 milliards d'euros de chiffre d'affaires en 2025, avec une marge d'EBITA ajusté d'environ 40 %. Schneider attend 250 millions d'euros d'économies annuelles à la troisième année et environ 800 millions d'euros de revenus supplémentaires. La finalisation est attendue d'ici au troisième trimestre 2027, sous réserve de l'accord des actionnaires de PTC et des autorités de régulation. À Wall Street, l'action PTC a gagné 33,49 % ; à Paris, celle de Schneider a perdu 9,97 % à la clôture, selon l'AFP.",
+    "points": [],
+    "explication": "Pour acheter une société cotée, il faut proposer à ses actionnaires un prix supérieur au cours de Bourse : c'est la prime (ici 42,3 %). Sans elle, personne ne vendrait. Schneider paie tout en numéraire : l'argent vient de ses fonds propres et de dettes nouvelles. Les acheteurs justifient souvent le prix par des synergies : des coûts supprimés parce que deux entreprises font doublon (250 M€ ici), et des ventes en plus grâce à des produits complémentaires (800 M€). Les marchés regardent aussi l'endettement : plus il monte, plus l'entreprise a de charges d'intérêts à payer.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ptc.com/en/news/2026/schneider-electric-to-acquire-ptc",
+      "nom": "communiqué officiel (PTC)"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-record-du-nasdaq-5a98961d63c049fec673f5ab48dac680",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/schneider-electric-chute-apres-le-rachat-de-ptc-le-marche-s-inquiete-de-la-facture-92d2cd0cc78484d12cf92510796e4f8c",
+      "nom": "Zonebourse via Boursorama"
+     },
+     {
+      "url": "https://www.rte.ie/news/business/2026/1005/1594011-schneider-electric-to-buy-ptc-in-22-6-billion-deal/",
+      "nom": "RTÉ"
+     },
+     {
+      "url": "https://www.bostonglobe.com/2026/10/05/business/schneider-electric-ptc/",
+      "nom": "Boston Globe"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Olivier Blum",
+      "contexte": "directeur général de Schneider Electric",
+      "texte": "« the industry's most complete Software & AI powerhouse »",
+      "url": "https://www.ptc.com/en/news/2026/schneider-electric-to-acquire-ptc",
+      "source": "communiqué PTC"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "JP Morgan",
+      "contexte": null,
+      "texte": "« Large-scale M&A is typically unwelcome in the first instance by European investors »",
+      "url": "https://www.rte.ie/news/business/2026/1005/1594011-schneider-electric-to-buy-ptc-in-22-6-billion-deal/",
+      "source": "RTÉ"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Jefferies",
+      "contexte": null,
+      "texte": "Les synergies de revenus sont, selon la banque, « plus difficiles et plus longues à matérialiser que les économies de coûts »",
+      "url": "https://www.boursorama.com/bourse/actualites/schneider-electric-chute-apres-le-rachat-de-ptc-le-marche-s-inquiete-de-la-facture-92d2cd0cc78484d12cf92510796e4f8c",
+      "source": "Zonebourse via Boursorama"
+     }
+    ],
+    "apres": "Vote des actionnaires de PTC et feux verts réglementaires, puis finalisation attendue d'ici au troisième trimestre 2027.",
+    "change": "Pour les clients industriels de Schneider et de PTC, la promesse est d'offrir dans une seule gamme les logiciels de conception, les équipements électriques et l'intelligence artificielle. Pour les actionnaires de Schneider, l'achat pèse sur le cours à court…",
+    "credit": {
+     "auteur": "Wilmotte & associés architectes",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Schneider_Elec_HQ.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "Pétrole : le patron d'Aramco juge les stocks mondiaux « scarily thin »",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Centrale_nucl%C3%A9aire_de_Flamanville_en_2023.png/960px-Centrale_nucl%C3%A9aire_de_Flamanville_en_2023.png",
+    "legende": "La centrale nucléaire de Flamanville (illustration)",
+    "chapeau": "Lundi 5 octobre, à Londres, le directeur général de Saudi Aramco, Amin Nasser, a déclaré au forum Energy Intelligence que le monde a perdu près de 3 milliards de barils d'offre brute depuis le début de la guerre en Iran. Le monde est entré dans la crise avec environ 10 milliards de barils de stocks ; plus d'un milliard…",
+    "eclairage": "À quoi servent les stocks de pétrole ?",
+    "chiffres": [
+     {
+      "valeur": "3 Md",
+      "legende": "de barils de production perdus depuis la guerre"
+     },
+     {
+      "valeur": "<6 Md",
+      "legende": "de barils de stocks commerciaux restants"
+     },
+     {
+      "valeur": "2 ans",
+      "legende": "pour reconstituer les stocks"
+     }
+    ],
+    "passe": "Lundi 5 octobre, à Londres, le directeur général de Saudi Aramco, Amin Nasser, a déclaré au forum Energy Intelligence que le monde a perdu près de 3 milliards de barils d'offre brute depuis le début de la guerre en Iran. Le monde est entré dans la crise avec environ 10 milliards de barils de stocks ; plus d'un milliard en a été prélevé et il reste moins de 6 milliards de barils de stocks commerciaux, dont la plus grande partie n'est pas réellement disponible : selon lui, « moins de 10 % » le sont. Il estime que reconstituer ces stocks tout en continuant à répondre à la demande pourrait prendre jusqu'à deux ans, même après la réouverture complète du détroit d'Ormuz. Environ 325 millions de barils de réserves stratégiques ont été libérés à ce jour, sur les 400 millions promis par les pays de l'Agence internationale de l'énergie en mars.",
+    "points": [],
+    "explication": "Les stocks sont le coussin entre ce qui est produit et ce qui est consommé. Quand une partie de l'offre disparaît, on puise dedans pour que les prix ne s'envolent pas. Mais une grande part des stocks « commerciaux » est dans des oléoducs ou des cuves, nécessaires au fonctionnement même du système : elle ne se consomme pas. Plus le coussin est mince, plus une nouvelle perturbation pèse sur le prix du baril, donc sur le carburant, le transport et les coûts des entreprises. Les réserves stratégiques, elles, appartiennent aux États et ne sont libérées qu'en cas de crise.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.lematin.ch/story/arabie-saoudite-les-stocks-mondiaux-de-petrole-sont-dangeureusement-faibles-103644607",
+      "nom": "dépêche AFP via Le Matin"
+     },
+     {
+      "url": "https://www.irishtimes.com/business/2026/10/05/saudi-aramco-boss-warns-worlds-oil-stockpiles-are-scarily-thin/",
+      "nom": "Irish Times"
+     },
+     {
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/05/oil-prices-could-have-hit-200-a-barrel-if-not-for-east-west-pipeline-aramco-chief-says/",
+      "nom": "The National"
+     },
+     {
+      "url": "https://www.cnews.fr/monde/2026-10-05/des-stocks-dangereusement-faibles-le-patron-du-geant-petrolier-aramco-tire-la",
+      "nom": "CNews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Amin Nasser",
+      "contexte": "directeur général de Saudi Aramco",
+      "texte": "« the supply resilience cushion is scarily thin »",
+      "url": "https://www.irishtimes.com/business/2026/10/05/saudi-aramco-boss-warns-worlds-oil-stockpiles-are-scarily-thin/",
+      "source": "Irish Times"
+     }
+    ],
+    "apres": "La publication des minutes de la Fed mercredi 7 octobre et la suite des libérations de réserves stratégiques.",
+    "change": "Des stocks bas rendent les prix plus sensibles aux mauvaises nouvelles : les ménages et les entreprises restent exposés à un carburant cher tant que le détroit d'Ormuz n'est pas pleinement rouvert. Précision : Aramco est lui-même un acteur du marché, qui vend…",
+    "illustration": true
+   },
+   {
+    "n": 3,
+    "theme": "MARCHÉS",
+    "titre": "Wall Street : le Nasdaq à un record, malgré un taux américain à 10 ans autour de 5,3 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Palais_Brongniart_Facade.jpg/960px-Palais_Brongniart_Facade.jpg",
+    "legende": "Le palais Brongniart, ancienne Bourse de Paris (illustration)",
+    "chapeau": "Lundi 5 octobre, la Bourse de New York a terminé en hausse. Le Nasdaq a gagné 1,05 % et a clôturé à un record de 27 477,31 points, le S&P 500 a pris 0,66 % et le Dow Jones 0,18 %.",
+    "eclairage": "Le taux à 10 ans, thermomètre du coût de l'argent",
+    "chiffres": [
+     {
+      "valeur": "27 477",
+      "legende": "points : record du Nasdaq à la clôture"
+     },
+     {
+      "valeur": "+1,05",
+      "legende": "% pour le Nasdaq lundi"
+     },
+     {
+      "valeur": "5,31 %",
+      "legende": "taux américain à 10 ans"
+     }
+    ],
+    "passe": "Lundi 5 octobre, la Bourse de New York a terminé en hausse. Le Nasdaq a gagné 1,05 % et a clôturé à un record de 27 477,31 points, le S&P 500 a pris 0,66 % et le Dow Jones 0,18 %. Les valeurs technologiques ont tiré l'indice : Nvidia +2,12 %, Microsoft +1,48 %, Broadcom +2,08 %, Meta +1,90 %. Dans le même temps, le rendement des emprunts d'État américains à dix ans évoluait autour de 5,31 %, contre 5,27 % vendredi ; en séance, il a dépassé 5,34 %, un niveau qu'il avait déjà touché jeudi 1er octobre (5,342 %), son plus haut depuis 2002. Les investisseurs attendent mercredi le compte rendu de la dernière réunion de la banque centrale américaine (Fed).",
+    "points": [],
+    "explication": "Quand un État emprunte, il verse un rendement aux prêteurs. Celui de l'État américain à dix ans sert de référence mondiale : il influence le coût des crédits immobiliers, des prêts aux entreprises et la valeur des actions. Quand ce taux monte, emprunter coûte plus cher et un placement sans risque devient plus rémunérateur, ce qui peut peser sur les actions. Que le Nasdaq progresse malgré ce taux est justement ce que les analystes relèvent. Un record d'indice dit que la valeur totale des entreprises qui le composent est au plus haut ; il ne dit rien de leur avenir.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-record-du-nasdaq-5a98961d63c049fec673f5ab48dac680",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/currencies/articles/10-us-treasury-yield-hits-081434489.html",
+      "nom": "Reuters via Yahoo Finance"
+     },
+     {
+      "url": "https://www.foxbusiness.com/economy/bond-yields-hovering-near-multi-year-highs-what-means-your-wallet",
+      "nom": "Fox Business"
+     },
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/wall-street-cloture-en-hausse-record-du-nasdaq-afp-cf4ce92532a008d58c87192a8f8109b5c309fd41",
+      "nom": "Bourse Direct (AFP)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Christopher Low",
+      "contexte": "FHN Financial, auprès de l'AFP",
+      "texte": "« Le marché obligataire est en pleine tourmente, comme toute la semaine dernière, mais personne n'a semblé s'en soucier aujourd'hui »",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-record-du-nasdaq-5a98961d63c049fec673f5ab48dac680",
+      "source": "dépêche AFP via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Briefing.com",
+      "contexte": null,
+      "texte": "Les opérateurs « ont largement ignoré la pression persistante et ont passé une grande partie de l'après-midi à consolider leurs gains »",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-record-du-nasdaq-5a98961d63c049fec673f5ab48dac680",
+      "source": "dépêche AFP via Boursorama"
+     }
+    ],
+    "apres": "Mercredi 7 octobre : compte rendu de la dernière réunion de la Fed.",
+    "change": "Les cours de Bourse sont cités ici comme faits datés et ne constituent pas un conseil d'investissement. Un taux américain élevé se répercute, avec retard, sur le coût du crédit dans le monde.",
+    "illustration": true
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "BT rachète TalkTalk, sorti d'administration, pour environ 400 millions de livres",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_D%C3%A9fense_Juin_2025.jpg/960px-La_D%C3%A9fense_Juin_2025.jpg",
+    "legende": "Le quartier d'affaires de La Défense (illustration)",
+    "chapeau": "Lundi 5 octobre, BT Group a annoncé avoir racheté TalkTalk Telecommunications et PlatformX Communications, qui étaient en administration (procédure britannique proche d'une faillite encadrée), pour assurer la continuité du service de 2,5 millions de clients. L'opération se fait sans dette reprise.",
+    "eclairage": "Que se passe-t-il quand une entreprise est « en administration » ?",
+    "chiffres": [
+     {
+      "valeur": "2,5 M",
+      "legende": "clients protégés"
+     },
+     {
+      "valeur": "400 M£",
+      "legende": "impact en trésorerie pour BT cette année"
+     },
+     {
+      "valeur": "19/10",
+      "legende": "rapport de la CMA à la ministre"
+     }
+    ],
+    "passe": "Lundi 5 octobre, BT Group a annoncé avoir racheté TalkTalk Telecommunications et PlatformX Communications, qui étaient en administration (procédure britannique proche d'une faillite encadrée), pour assurer la continuité du service de 2,5 millions de clients. L'opération se fait sans dette reprise. BT estime son impact total en trésorerie à environ 400 millions de livres sur l'exercice en cours, en incluant le prix, les frais et une perte d'exploitation attendue d'environ 60 millions de livres. Le gouvernement britannique a émis un avis d'intervention d'intérêt public : l'autorité de la concurrence (CMA) doit lui remettre son rapport d'ici au 19 octobre. BT indique que les deux groupes resteront séparés et continueront de se concurrencer pendant l'examen.",
+    "points": [],
+    "explication": "Au Royaume-Uni, une entreprise en difficulté peut être confiée à un administrateur indépendant, qui cherche un repreneur ou vend les activités pour rembourser au mieux les créanciers. Ici, le service est essentiel (connexions utilisées par des hôpitaux, des services d'urgence, des écoles), ce qui a poussé l'État à intervenir pour accélérer la procédure. Un rachat entre deux concurrents est normalement examiné par l'autorité de la concurrence, pour vérifier qu'il ne fait pas monter les prix.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://newsroom.bt.com/bt-group-has-acquired-talktalk-and-platformx-ensuring-continuity-of-service-for-millions-of-customers/",
+      "nom": "communiqué officiel BT"
+     },
+     {
+      "url": "https://www.theregister.com/networks/2026/10/05/bt-buys-talktalk-out-of-administration-to-keep-25m-customers-connected/5301066",
+      "nom": "The Register"
+     },
+     {
+      "url": "https://www.mobileeurope.co.uk/bt-talktalk-acquisition/",
+      "nom": "Mobile Europe"
+     },
+     {
+      "url": "https://www.itv.com/news/2026-10-05/bt-agrees-rescue-deal-to-save-talktalk-from-administration",
+      "nom": "ITV News"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Allison Kirkby",
+      "contexte": "directrice générale de BT",
+      "texte": "« This is a genuinely unprecedented situation, where millions of citizens and businesses were at risk if TalkTalk had collapsed »",
+      "url": "https://www.mobileeurope.co.uk/bt-talktalk-acquisition/",
+      "source": "Mobile Europe"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Lisa Nandy",
+      "contexte": "ministre britannique de la Culture",
+      "texte": "« If TalkTalk services fail, there is a genuine risk to life and public services »",
+      "url": "https://live.euronext.com/en/financial-news/bt-rescues-rival-talktalk-administration",
+      "source": "Euronext (dépêche)"
+     }
+    ],
+    "apres": "Rapport de la CMA à la ministre d'ici au 19 octobre.",
+    "change": "Pour les clients de TalkTalk, le service continue sans interruption. Pour le marché britannique du haut débit, le nombre d'acteurs diminue, ce que la CMA examinera.",
+    "illustration": true
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "États-Unis : publication du compte rendu de la dernière réunion de la Fed."
+   },
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Royaume-Uni : la CMA remet son rapport sur le rachat de TalkTalk par BT."
+   },
+   {
+    "jour": "30",
+    "mois": "OCT.",
+    "texte": "Insee : prochaine publication des prix de production de l'industrie."
+   },
+   {
+    "jour": "T3",
+    "mois": "2027",
+    "texte": "Schneider Electric - PTC : finalisation attendue."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Prime",
+    "definition": "L'écart entre le prix offert pour racheter une société cotée et son dernier cours de Bourse."
+   },
+   {
+    "terme": "Synergies",
+    "definition": "Les économies et les ventes supplémentaires attendues quand deux entreprises s'unissent."
+   },
+   {
+    "terme": "Rendement d'un emprunt d'État",
+    "definition": "Le taux que l'État verse à ceux qui lui prêtent. Quand il monte, emprunter devient plus cher."
+   },
+   {
+    "terme": "Administration",
+    "definition": "Au Royaume-Uni, procédure où un administrateur indépendant cherche un repreneur ou vend les activités d'une entreprise en difficulté."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Schneider Electric a annoncé racheter l'américain PTC pour environ 22,6 milliards de dollars, entièrement en numéraire.",
+   "reponse": true,
+   "explication": "Vrai : l'accord, annoncé le 5 octobre, valorise les fonds propres de PTC à environ 22,6 milliards de dollars (205 dollars par action, en numéraire), avec une prime de 42,3 % sur son dernier cours."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-06",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Plan engrais : la bio demande à y entrer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Muck_spreading_at_Findatie_Farm.jpg/960px-Muck_spreading_at_Findatie_Farm.jpg",
+    "legende": "Épandage d'un amendement organique dans un champ de chaume",
+    "chapeau": "Dans un communiqué du 1er octobre, la Fédération nationale d'agriculture biologique (Fnab) a demandé que les agriculteurs bio soient éligibles au plan d'aide à l'achat d'engrais, doté de 145 millions d'euros (107 millions de la réserve de crise européenne, 38 millions de crédits nationaux). Ce guichet de FranceAgriMer…",
+    "eclairage": "Engrais de synthèse ou engrais organique ?",
+    "chiffres": [
+     {
+      "valeur": "145 M€",
+      "legende": "plan engrais FranceAgriMer"
+     },
+     {
+      "valeur": "50 €/t",
+      "legende": "aide de base (70 €/t si engrais > 10 % des charges)"
+     },
+     {
+      "valeur": "10-30 %",
+      "legende": "hausse des engrais organiques selon la Fnab"
+     }
+    ],
+    "passe": "Dans un communiqué du 1er octobre, la Fédération nationale d'agriculture biologique (Fnab) a demandé que les agriculteurs bio soient éligibles au plan d'aide à l'achat d'engrais, doté de 145 millions d'euros (107 millions de la réserve de crise européenne, 38 millions de crédits nationaux). Ce guichet de FranceAgriMer ne couvre que les engrais azotés minéraux simples (ammonitrates, urée, solutions azotées) : 50 euros par tonne, 70 euros pour les exploitations dont les engrais dépassent 10 % des charges. Selon la Fnab, les prix des engrais organiques ont augmenté de 10 à 30 % en 2026, et jusqu'à 20 à 30 % pour les fientes et certains engrais élaborés selon un autre média. La fédération explique que des agriculteurs conventionnels, face au prix des engrais minéraux, se reportent sur les engrais organiques, ce qui en tire les prix. La fédération demande aussi un remboursement des achats effectués depuis le 1er juin 2026. La période d'achats éligibles, d'abord close au 30 septembre, a été prolongée jusqu'au 31 décembre, annonce faite le 4 septembre.",
+    "points": [],
+    "explication": "Un engrais azoté minéral (ammonitrate, urée) est fabriqué industriellement ; son prix suit notamment celui du gaz et des marchés mondiaux. Un engrais organique (fientes, fumiers, composts, bouchons de matières animales ou végétales) vient de matières vivantes. Le cahier des charges de l'agriculture biologique, fixé par le règlement européen 2018/848, ne permet pas les engrais azotés de synthèse : le plan, tel que conçu, ne peut donc pas bénéficier aux fermes bio. Quand la demande d'engrais organiques augmente, leur prix peut monter aussi. Règlement →",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agriculture.gouv.fr/le-gouvernement-met-en-place-un-guichet-exceptionnel-daide-a-lachat-dengrais-azotes-simples-pour",
+      "nom": "agriculture.gouv.fr"
+     },
+     {
+      "url": "https://www.terre-net.fr/syndicalisme-agricole/article/904253/les-agriculteurs-bio-veulent-etre-eligibles-aux-aides-sur-les-engrais",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.lafranceagricole.fr/fertilisation/article/904288/la-bio-denonce-son-exclusion-du-plan-engrais",
+      "nom": "La France Agricole"
+     },
+     {
+      "url": "https://agra.fr/lives/bio-la-fnab-reclame-lextension-de-laide-aux-achats-dintrants-organiques",
+      "nom": "Agra"
+     },
+     {
+      "url": "https://www.reussir.fr/grandes-cultures/aide-engrais-azotes-2026-la-date-limite-pour-faire-sa-demande-reportee-au-31-decembre",
+      "nom": "Réussir"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "Fnab",
+      "contexte": "fédération nationale d'agriculture biologique",
+      "texte": "« Les chiffres confirment une hausse du prix des engrais organiques »",
+      "url": "https://www.terre-net.fr/syndicalisme-agricole/article/904253/les-agriculteurs-bio-veulent-etre-eligibles-aux-aides-sur-les-engrais",
+      "source": "Terre-net"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Ministère de l'Agriculture",
+      "contexte": null,
+      "texte": "Le guichet est décrit comme une aide exceptionnelle à l'achat d'engrais azotés simples, pour préserver la trésorerie des exploitations.",
+      "url": "https://agriculture.gouv.fr/le-gouvernement-met-en-place-un-guichet-exceptionnel-daide-a-lachat-dengrais-azotes-simples-pour",
+      "source": "agriculture.gouv.fr"
+     }
+    ],
+    "apres": "Les demandes d'aide peuvent être déposées jusqu'au 31 décembre 2026. La Fnab demande une concertation rapide avec le ministère.",
+    "change": "Les fermes bio n'ont aujourd'hui aucun accès à cette aide. Si la demande était retenue, elle concernerait des achats d'engrais organiques faits depuis le 1er juin ; sinon, leurs coûts de fertilisation 2026-2027 restent à leur charge.",
+    "credit": {
+     "auteur": "Brian Forbes",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Muck_spreading_at_Findatie_Farm.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "FILIÈRE",
+    "titre": "Bonduelle : chiffre d'affaires stable, canicule et maïs chinois en cause",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Starr-150814-2148-Zea_mays-Illini_Xtra_Sweet_ears_harvested-Hawea_Pl_Olinda-Maui_%2825000436000%29.jpg/960px-Starr-150814-2148-Zea_mays-Illini_Xtra_Sweet_ears_harvested-Hawea_Pl_Olinda-Maui_%2825000436000%29.jpg",
+    "legende": "Épis de maïs doux récoltés",
+    "chapeau": "Le 2 octobre, le groupe Bonduelle (légumes en conserve, surgelés et frais) a publié ses résultats de l'exercice clos le 30 juin 2026. Selon l'entreprise, le chiffre d'affaires est de 2 186,2 millions d'euros, en baisse de 0,8 % en données publiées et en hausse de 0,4 % à périmètre et changes comparables.",
+    "eclairage": "Comment lire ces résultats ?",
+    "chiffres": [
+     {
+      "valeur": "2 186",
+      "legende": "M€ de chiffre d'affaires (-0,8 %)"
+     },
+     {
+      "valeur": "79,6",
+      "legende": "M€ de résultat opérationnel (-5,0 %)"
+     },
+     {
+      "valeur": "577",
+      "legende": "M€ de dette nette au 30 juin 2026"
+     }
+    ],
+    "passe": "Le 2 octobre, le groupe Bonduelle (légumes en conserve, surgelés et frais) a publié ses résultats de l'exercice clos le 30 juin 2026. Selon l'entreprise, le chiffre d'affaires est de 2 186,2 millions d'euros, en baisse de 0,8 % en données publiées et en hausse de 0,4 % à périmètre et changes comparables. Le résultat opérationnel courant s'établit à 79,6 millions d'euros contre 83,8 millions un an plus tôt (-5,0 %), soit une marge de 3,6 %. Le résultat net est de 16,2 millions d'euros contre -11,5 millions, y compris 33,1 millions d'euros d'activités arrêtées dont la plus-value de la cession de la salade en sachet en France. Le cash-flow opérationnel courant progresse de 27,5 % à 98,9 millions d'euros ; la dette nette atteint 577,4 millions d'euros, pour un levier d'endettement de 3,58 contre 3,38 un an plus tôt. Ces chiffres sont ceux de l'entreprise.",
+    "points": [],
+    "explication": "Le résultat opérationnel courant mesure ce que rapporte l'activité avant éléments exceptionnels ; divisé par le chiffre d'affaires, il donne la marge (3,6 % ici). Le levier d'endettement rapporte la dette nette à la capacité de l'entreprise à dégager des bénéfices : à 3,58, il faudrait un peu plus de trois ans et demi de résultats pour la rembourser. Les données comparables neutralisent les effets de change et de périmètre. Les trois sources en ligne reprennent le même communiqué : ces chiffres n'ont pas de confirmation indépendante.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.bonduelle.com/fr/investisseurs/",
+      "nom": "bonduelle.com (communiqué)"
+     },
+     {
+      "url": "https://www.globenewswire.com/news-release/2026/10/02/3373934/0/en/bonduelle-2025-2026-annual-results-the-bonduelle-group-demonstrates-its-resilience-ending-fiscal-year-2025-2026-with-stable-sales-and-profitability.html",
+      "nom": "GlobeNewswire"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/bonduelle-resultats-annuels-2025-2026-le-groupe-bonduelle-confirme-sa-resilience-et-cloture-son-exercice-2025-2026-sur-un-chiffre-d-affaires-et-une-rentabilite-stables-5745bc65d2b10e3660081014404384e0",
+      "nom": "Boursorama"
+     },
+     {
+      "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/02/bonduelle-resultats-annuels-2025-2026-le-groupe-bonduelle-confirme-sa-resilience-et-cloture-son-exercice-2025-2026-sur-un-chiffre-daffaires-et-une-rentabilite-stables-S367VSH43ZEPNNAH4BWZYDEUH4/",
+      "nom": "Le Soleil"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ENTREPRISE",
+      "qui": "Bonduelle",
+      "contexte": "communiqué du 2 octobre",
+      "texte": "Le groupe cite des « importations non régulées de maïs chinois, qui ont pesé sur les volumes et les prix »",
+      "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/02/bonduelle-resultats-annuels-2025-2026-le-groupe-bonduelle-confirme-sa-resilience-et-cloture-son-exercice-2025-2026-sur-un-chiffre-daffaires-et-une-rentabilite-stables-S367VSH43ZEPNNAH4BWZYDEUH4/",
+      "source": "Le Soleil"
+     }
+    ],
+    "apres": "Le groupe indique viser le maintien de sa rentabilité, l'amélioration de la génération de cash-flow et la réduction de son endettement en 2026-2027.",
+    "change": "Pour les producteurs de légumes sous contrat, la canicule 2026 a réduit les rendements de la récolte en cours, selon l'entreprise. Pour le consommateur, rien de directement chiffré dans le communiqué sur les prix en rayon.",
+    "credit": {
+     "auteur": "Forest et Kim Starr",
+     "licence": "CC BY 3.0 US",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Starr-150814-2148-Zea_mays-Illini_Xtra_Sweet_ears_harvested-Hawea_Pl_Olinda-Maui_(25000436000).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Fin du Sommet de l'Élevage à Clermont-Ferrand (ouvert depuis le 6)."
+   },
+   {
+    "jour": "31",
+    "mois": "DÉC.",
+    "texte": "Fin de la période d'achats d'engrais éligibles à l'aide de FranceAgriMer."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "107 M€",
+   "texte": "C'est la part du plan engrais de 145 millions d'euros financée par l'aide européenne ; les 38 millions restants viennent d'un appui national."
+  },
+  "lexique": [
+   {
+    "terme": "Fnab",
+    "definition": "Fédération nationale d'agriculture biologique : le réseau qui rassemble les producteurs bio et les représente auprès des pouvoirs publics."
+   },
+   {
+    "terme": "Engrais azoté simple",
+    "definition": "Un engrais qui apporte un seul élément nutritif, l'azote : ammonitrate, urée ou solution azotée."
+   },
+   {
+    "terme": "Amendement organique",
+    "definition": "Une matière d'origine animale ou végétale (fumier, compost) apportée au sol pour l'enrichir."
+   },
+   {
+    "terme": "Levier d'endettement",
+    "definition": "Le rapport entre la dette nette d'une entreprise et son résultat avant intérêts, impôts et amortissements."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le guichet d'aide à l'achat d'engrais de 145 millions d'euros ne couvre que les engrais azotés minéraux simples, pas les engrais organiques.",
+   "reponse": true,
+   "explication": "Il concerne les ammonitrates, l'urée et les solutions azotées. La Fnab demande depuis le 1er octobre son extension aux engrais organiques utilisés en bio."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-06",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Blocus : douze établissements fermés mardi dans les deux Charentes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lyc%C3%A9e_Dautet%2C_ancien_Grand_S%C3%A9minaire_%28La_Rochelle%29.jpg/960px-Lyc%C3%A9e_Dautet%2C_ancien_Grand_S%C3%A9minaire_%28La_Rochelle%29.jpg",
+    "legende": "Le lycée Dautet, ancien Grand Séminaire, à La Rochelle",
+    "chapeau": "Après des blocages les jeudi 1er et vendredi 2 octobre puis lundi 5, l'Académie de Poitiers a annoncé la fermeture de douze établissements pour le mardi 6 octobre, dont huit à La Rochelle : les lycées René-Josué Valin (les formations post-bac sont maintenues), Jean Dautet, Pierre Doriole, Antoine de Saint-Exupéry,…",
+    "eclairage": "Qui décide de quoi quand un lycée ferme ?",
+    "chiffres": [
+     {
+      "valeur": "8",
+      "legende": "lycées fermés à La Rochelle"
+     },
+     {
+      "valeur": "12",
+      "legende": "établissements fermés (2 Charentes)"
+     },
+     {
+      "valeur": "6 oct.",
+      "legende": "jour de fermeture"
+     }
+    ],
+    "passe": "Après des blocages les jeudi 1er et vendredi 2 octobre puis lundi 5, l'Académie de Poitiers a annoncé la fermeture de douze établissements pour le mardi 6 octobre, dont huit à La Rochelle : les lycées René-Josué Valin (les formations post-bac sont maintenues), Jean Dautet, Pierre Doriole, Antoine de Saint-Exupéry, Léonce Vieljeux, le lycée hôtelier et le lycée privé Fénelon. Quatre établissements d'Angoulême et de Cognac sont aussi fermés en Charente. Le préfet de Charente-Maritime, Michel Prosic, a pris un arrêté qui interdit les rassemblements aux abords de ces établissements, ainsi que le port d'armes, de fusées et d'artifices. La Ville indique que l'école Réaumur est fermée le 6 octobre, ses élèves étant accueillis à l'école Palissy, et que le parking de la place de Verdun est fermé ce jour-là ; le réseau Yélo, dévié lundi, avait retrouvé un fonctionnement normal dans l'après-midi. Selon inf-info, les élèves mobilisés mettent en avant les conditions d'enseignement, les effectifs par classe et les moyens de l'Éducation nationale.",
+    "points": [
+     "La fermeture d'un lycée public relève de l'Académie (le rectorat, service de l'État) ; ici, l'Académie de Poitiers.",
+     "L'interdiction des rassemblements est un arrêté préfectoral : le préfet représente l'État et exerce la police de l'ordre public dans le département.",
+     "Les lycées dépendent de la Région Nouvelle-Aquitaine pour les bâtiments ; les écoles maternelles et élémentaires dépendent de la Ville, qui a donc organisé l'accueil des enfants de l'école Réaumur ; le réseau Yélo est géré par l'Agglo."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "nom": "Ville de La Rochelle"
+     },
+     {
+      "url": "https://www.agglo-larochelle.fr/actualites",
+      "nom": "Agglo La Rochelle (alertes)"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/blocages-des-lycees-et-manifestations-12-etablissements-fermes-ce-mardi-en-charente-maritime-et-en-charente-5985010",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://inf-info.fr/direct-blocages-des-lycees-a-la-rochelle-suivez-la-situation/",
+      "nom": "inf-info"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Michel Prosic",
+      "contexte": "préfet de Charente-Maritime",
+      "texte": "Arrêté d'interdiction des rassemblements aux abords des établissements fermés, du port d'armes, de fusées et d'artifices.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/blocages-des-lycees-et-manifestations-12-etablissements-fermes-ce-mardi-en-charente-maritime-et-en-charente-5985010",
+      "source": "Source"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / ACADÉMIE",
+      "qui": "Académie de Poitiers",
+      "contexte": "rectorat",
+      "texte": "Annonce la fermeture de douze établissements le mardi 6 octobre, en tenant compte du contexte et des risques qu'elle a identifiés (formulation résumée).",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/blocages-des-lycees-et-manifestations-12-etablissements-fermes-ce-mardi-en-charente-maritime-et-en-charente-5985010",
+      "source": "Source"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "VILLE",
+      "qui": "Ville de La Rochelle",
+      "contexte": "services municipaux",
+      "texte": "Ferme l'école Réaumur le 6 octobre, accueille ses élèves à Palissy et ferme le parking de la place de Verdun ; invite à suivre les mises à jour sur ses canaux.",
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "source": "Source"
+     }
+    ],
+    "apres": "La réouverture dépend de nouvelles décisions de l'Académie, annoncées établissement par établissement ; la Ville et l'Agglo publient leurs informations sur leurs sites.",
+    "change": "Pour les familles, lycéens et professeurs des huit lycées, pas de cours en présentiel mardi 6 octobre ; quelques rues du centre et le parking de la place de Verdun sont touchés, et la collecte des déchets peut être décalée près des lycées.",
+    "credit": {
+     "auteur": "Pertuisallionis",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lyc%C3%A9e_Dautet,_ancien_Grand_S%C3%A9minaire_(La_Rochelle).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Pesticides dans l'air : les résultats 2025 présentés au public",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/116_-_Mairie_-_Montroy.jpg/960px-116_-_Mairie_-_Montroy.jpg",
+    "legende": "La mairie de Montroy, commune où se trouve l'un des trois sites de mesure",
+    "chapeau": "L'Agglo de La Rochelle suit depuis 2019, avec Atmo Nouvelle-Aquitaine, les pesticides présents dans l'air de la plaine d'Aunis. En 2025, deux sites ont été ajoutés à celui de Montroy : Saint-Vivien et L'Houmeau.",
+    "eclairage": "Comment lire ces chiffres ?",
+    "chiffres": [
+     {
+      "valeur": "8",
+      "legende": "produits détectés sur 3 sites"
+     },
+     {
+      "valeur": "13,3",
+      "legende": "ng/m³ à Montroy (10,2 en 2024)"
+     },
+     {
+      "valeur": "3",
+      "legende": "sites de mesure"
+     }
+    ],
+    "passe": "L'Agglo de La Rochelle suit depuis 2019, avec Atmo Nouvelle-Aquitaine, les pesticides présents dans l'air de la plaine d'Aunis. En 2025, deux sites ont été ajoutés à celui de Montroy : Saint-Vivien et L'Houmeau. Huit produits ont été détectés sur l'ensemble des sites, sept herbicides et un insecticide. Les concentrations les plus élevées concernent le prosulfocarbe et la pendiméthaline, deux herbicides employés surtout sur les céréales d'hiver ; Atmo relève une hausse de l'usage du prosulfocarbe, très volatil. À Montroy, la moyenne hebdomadaire des herbicides atteint 13,3 ng/m³, contre 10,2 en 2024 ; les valeurs les plus hautes sont observées en novembre et décembre. Du lindane, interdit en usage agricole, a été retrouvé à des niveaux très faibles, proches des limites de quantification. Trois réunions publiques sont organisées les 5, 6 et 7 octobre ; celle de Montroy a lieu ce mardi 6 octobre à 18 h 30, à la salle des fêtes.",
+    "points": [
+     "Un nanogramme par mètre cube (ng/m³) est un milliardième de gramme dans un mètre cube d'air : l'unité sert à mesurer des traces.",
+     "Atmo Nouvelle-Aquitaine, association de surveillance de la qualité de l'air, mesure ; l'Agglo commande le suivi et présente les résultats aux habitants et aux maires.",
+     "Les valeurs montent à l'automne, période des traitements des céréales d'hiver : c'est pourquoi la moyenne annuelle et les pics de novembre et décembre sont lus séparément."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "nom": "Agglo La Rochelle"
+     },
+     {
+      "url": "https://www.salles-sur-mer.fr/qualite-de-lair-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public/",
+      "nom": "Commune de Salles-sur-Mer"
+     },
+     {
+      "url": "https://www.montroy.fr/mardi-6-octobre-reunion-publique-sur-les-resultats-2025-du-suivi-des-pesticides",
+      "nom": "Commune de Montroy"
+     },
+     {
+      "url": "https://www.atmo-nouvelleaquitaine.org/actualite/nouvelle-surveillance-des-pesticides-dans-lair-lhoumeau-et-saint-vivien",
+      "nom": "Atmo Nouvelle-Aquitaine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "AGGLO",
+      "qui": "Agglomération de La Rochelle",
+      "contexte": "commanditaire du suivi",
+      "texte": "Présente les résultats aux habitants et indique mener une série d'actions pour réduire l'exposition aux produits phytosanitaires et accompagner les changements de pratiques agricoles.",
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "source": "Source"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION",
+      "qui": "Atmo Nouvelle-Aquitaine",
+      "contexte": "surveillance de la qualité de l'air",
+      "texte": "Note une hausse de l'usage du prosulfocarbe, herbicide très volatil, parmi les explications de la hausse des concentrations à Montroy.",
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "source": "Source"
+     }
+    ],
+    "apres": "Réunions des 6 et 7 octobre ; le suivi annuel se poursuit sur les trois sites.",
+    "change": "Les mesures portent sur l'air extérieur et documentent la présence de traces ; elles ne disent pas, à elles seules, quel niveau d'exposition est dangereux. Les réunions publiques permettent de poser des questions aux élus et à Atmo.",
+    "credit": {
+     "auteur": "Patrick Despoix",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:116_-_Mairie_-_Montroy.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Exercice anti-submersion : premier jour, entre le Port de plaisance et le pont Scherzer, suite le 8 octobre jusqu'au quai Valin (larochelle.fr)."
+   },
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Conseil municipal de La Rochelle : séance du lundi (larochelle.fr)."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Conseil communautaire de l'Agglo : date provisoire (agglo-larochelle.fr)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Arrêté préfectoral",
+    "definition": "Décision écrite du préfet, représentant de l'État dans le département, qui s'applique sur son territoire (ici, une interdiction de rassemblements)."
+   },
+   {
+    "terme": "Académie",
+    "definition": "Circonscription de l'Éducation nationale dirigée par un recteur ; celle de Poitiers couvre les deux Charentes, les Deux-Sèvres et la Vienne."
+   },
+   {
+    "terme": "Nanogramme par mètre cube (ng/m³)",
+    "definition": "Un milliardième de gramme dans un mètre cube d'air, pour mesurer des traces."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En 2025, le suivi des pesticides dans l'air de la plaine d'Aunis a porté sur trois sites : Montroy, Saint-Vivien et L'Houmeau.",
+   "reponse": true,
+   "explication": "Deux sites, Saint-Vivien et L'Houmeau, ont été ajoutés en 2025 à celui de Montroy, suivi depuis 2019 avec Atmo Nouvelle-Aquitaine."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-06",
   "minutes": 15,
@@ -421,6 +1170,580 @@
    "affirmation": "Depuis le 5 octobre 2026, le groupe socialiste est le deuxième groupe du Sénat, devant le groupe Union centriste et indépendants (UCI).",
    "reponse": false,
    "explication": "Selon la liste officielle du Sénat, l'UCI compte 63 sénateurs et le groupe socialiste 62 : l'UCI passe devant. Les Républicains restent premiers avec 124 sénateurs."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-06",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Appendicite : moins de cancers colorectaux après l'opération qu'après les antibiotiques seuls, dans une étude observationnelle non relue par des pairs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leitz_117298_frei.jpg/960px-Leitz_117298_frei.jpg",
+    "legende": "Un microscope (illustration)",
+    "chapeau": "Des chercheurs de la Morehouse School of Medicine (Atlanta) ont présenté, lors du congrès de l'American College of Surgeons à Washington (26 au 29 septembre 2026), une analyse de dossiers médicaux issus du réseau TriNetX (168 organisations de santé). Après appariement, 15 616 patients opérés d'une appendicite aiguë et…",
+    "eclairage": "Pourquoi cette étude ne prouve pas que l'opération protège",
+    "chiffres": [
+     {
+      "valeur": "−58 %",
+      "legende": "de risque relatif de cancer colorectal"
+     },
+     {
+      "valeur": "30 911",
+      "legende": "patients analysés après exclusions"
+     },
+     {
+      "valeur": "0,7 / 1,7 %",
+      "legende": "après chirurgie / après antibiotiques"
+     }
+    ],
+    "passe": "Des chercheurs de la Morehouse School of Medicine (Atlanta) ont présenté, lors du congrès de l'American College of Surgeons à Washington (26 au 29 septembre 2026), une analyse de dossiers médicaux issus du réseau TriNetX (168 organisations de santé). Après appariement, 15 616 patients opérés d'une appendicite aiguë et 15 295 patients traités par antibiotiques seuls ont été comparés. Un cancer colorectal a été diagnostiqué ultérieurement chez 110 patients opérés (0,7 %) et 254 patients sous antibiotiques (1,7 %), soit un risque relatif réduit de 58 % après chirurgie. Il s'agit d'un résumé présenté en congrès, qui n'a pas encore été relu par des pairs. Les auteurs écrivent qu'il ne faut pas en conclure que toute personne atteinte d'appendicite doit être opérée pour prévenir un cancer. L'étude ne dit pas pourquoi l'écart existe.",
+    "points": [],
+    "explication": "L'appendice est un petit organe en cul-de-sac, près de la jonction entre l'intestin grêle et le côlon. Une étude rétrospective regarde en arrière des dossiers existants : elle repère des associations, mais ne choisit pas qui reçoit quel traitement. Or les patients opérés et ceux traités par antibiotiques peuvent différer (âge, gravité, examens réalisés). Les auteurs eux-mêmes citent une autre explication possible : une appendicite peut être le premier signe d'une tumeur déjà présente, repérée lors de l'opération et de l'analyse de l'appendice retiré. Corrélation n'est pas causalité : seul un essai randomisé, où le hasard répartit les patients, pourrait trancher. « These results should not be interpreted to mean that everyone with appendicitis needs an appendectomy to prevent cancer » (« Ces résultats ne doivent pas être interprétés comme signifiant que toute personne souffrant d'appendicite doit subir une appendicectomie pour prévenir le cancer »). Sur le mécanisme, il dit que l'étude ne peut pas y répondre : « our study cannot answer that question ».",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.facs.org/media-center/press-releases/2026/appendectomy-for-appendicitis-associated-with-58-lower-colorectal-cancer-risk-than-antibiotics-alone/",
+      "nom": "American College of Surgeons"
+     },
+     {
+      "url": "https://boursorama.com/bourse/actualites/actualites-sante-une-etude-etablit-un-lien-entre-l-ablation-de-l-appendice-et-une-diminution-du-risque-de-cancer-colorectal-bbb27b24aaca962a33938367f798add6",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://sharjah24.ae/en/Articles/2026/10/02/Study-Appendectomy-linked-to-lower-colorectal-cancer-risk",
+      "nom": "AFP via Sharjah24"
+     },
+     {
+      "url": "https://www.emirates247.com/health/appendectomy-for-acute-appendicitis-linked-to-58-lower-colorectal-cancer-risk-vs-antibiotics-study-finds/6270",
+      "nom": "Emirates 24|7"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Valentine Nfonsam",
+      "contexte": "auteur senior, Morehouse School of Medicine",
+      "texte": "« These results should not be interpreted to mean that everyone with appendicitis needs an appendectomy to prevent cancer » (« Ces résultats ne doivent pas être interprétés comme signifiant que toute personne souffrant d'appendicite doit subir une appendicectomie pour prévenir le cancer »). Sur le mécanisme, il dit que l'étude ne peut pas y répondre : « our study cannot answer that question ».",
+      "url": "https://www.facs.org/media-center/press-releases/2026/appendectomy-for-appendicitis-associated-with-58-lower-colorectal-cancer-risk-than-antibiotics-alone/",
+      "source": "American College of Surgeons"
+     }
+    ],
+    "apres": "Publication complète dans une revue à comité de lecture, puis, pour trancher, des études où les patients sont répartis au hasard.",
+    "change": "Rien ne change aujourd'hui dans la prise en charge : les antibiotiques restent une option acceptée pour certaines appendicites, et le choix se fait avec l'équipe soignante. Ce travail ouvre une question de suivi à long terme après un traitement sans chirurgie.",
+    "illustration": true
+   },
+   {
+    "n": 2,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Cancer : une analyse du CIRC attribue environ 12 % des nouveaux cas de 2024 à des infections",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/IARC_Nouveau_Centre_Exterieur_1.jpg/960px-IARC_Nouveau_Centre_Exterieur_1.jpg",
+    "legende": "Le siège du Centre international de recherche sur le cancer à Lyon",
+    "chapeau": "Le 28 septembre 2026, des chercheurs du Centre international de recherche sur le cancer (CIRC, agence de l'OMS basée à Lyon) ont publié dans The Lancet Oncology une analyse de l'incidence mondiale. À partir des estimations de la base Global Cancer Observatory, ils attribuent environ 2,3 millions de nouveaux cancers de…",
+    "eclairage": "Comment une infection peut-elle causer un cancer ?",
+    "chiffres": [
+     {
+      "valeur": "2,3 M",
+      "legende": "nouveaux cancers liés à une infection en 2024"
+     },
+     {
+      "valeur": "12 %",
+      "legende": "de tous les nouveaux cancers"
+     },
+     {
+      "valeur": "3/4",
+      "legende": "dans des pays à revenu faible ou moyen"
+     }
+    ],
+    "passe": "Le 28 septembre 2026, des chercheurs du Centre international de recherche sur le cancer (CIRC, agence de l'OMS basée à Lyon) ont publié dans The Lancet Oncology une analyse de l'incidence mondiale. À partir des estimations de la base Global Cancer Observatory, ils attribuent environ 2,3 millions de nouveaux cancers de 2024, soit près de 12 %, à 12 agents infectieux. Helicobacter pylori arrive en tête (environ 760 000 cas, surtout des cancers de l'estomac), devant les papillomavirus humains (HPV, environ 750 000, surtout du col de l'utérus), le virus de l'hépatite B (environ 360 000), le virus d'Epstein-Barr (environ 260 000) et celui de l'hépatite C (environ 160 000). L'Asie de l'Est concentre 42 % de ces cancers, et plus des trois quarts surviennent dans des pays à revenu faible ou intermédiaire. Il s'agit d'estimations par modélisation, non de comptages individuels.",
+    "points": [],
+    "explication": "Un cancer naît quand des cellules accumulent des anomalies de leur ADN et se multiplient sans contrôle. Certains microbes favorisent ce processus : une infection ancienne de l'estomac par la bactérie H. pylori entretient une inflammation, certains HPV insèrent des gènes dans les cellules du col de l'utérus, les virus des hépatites B et C abîment le foie pendant des années. « Attribuable » veut dire que, selon un calcul statistique, ces cancers n'auraient pas eu lieu sans l'infection ; ce n'est pas un diagnostic cas par cas. Des vaccins existent contre le HPV et l'hépatite B, et H. pylori comme les hépatites peuvent être dépistées et traitées. Aucune décision personnelle ne se prend sur cette base seule : le dépistage et la vaccination se discutent avec un professionnel de santé. « Our findings highlight the importance of infection control to achieve cancer prevention. » (« Nos résultats soulignent l'importance de la lutte contre les infections pour prévenir le cancer. ») Il relève que des vaccins efficaces n'existent pas encore pour certaines infections, comme le virus d'Epstein-Barr, ce qui oriente les futurs investissements en prévention (paraphrase du communiqué du CIRC).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.iarc.who.int/news-events/global-burden-of-cancer-attributable-to-infections-in-2024-one-in-eight-cancers-worldwide-linked-to-infections/",
+      "nom": "CIRC (OMS)"
+     },
+     {
+      "url": "https://doi.org/10.1016/S1470-2045(26)00307-4",
+      "nom": "The Lancet Oncology (DOI)"
+     },
+     {
+      "url": "https://www.cidrap.umn.edu/hivaids/more-2-million-new-cancer-cases-caused-infections-2024-study-finds",
+      "nom": "CIDRAP"
+     },
+     {
+      "url": "https://www.iarc.who.int/wp-content/uploads/2026/09/pr387_E.pdf",
+      "nom": "Communiqué CIRC n° 387"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Auteurs de l'étude",
+      "contexte": "CIRC, The Lancet Oncology",
+      "texte": "« Our findings highlight the importance of infection control to achieve cancer prevention. » (« Nos résultats soulignent l'importance de la lutte contre les infections pour prévenir le cancer. »)",
+      "url": "https://www.cidrap.umn.edu/hivaids/more-2-million-new-cancer-cases-caused-infections-2024-study-finds",
+      "source": "CIDRAP"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Gary Clifford",
+      "contexte": "co-auteur senior, CIRC",
+      "texte": "Il relève que des vaccins efficaces n'existent pas encore pour certaines infections, comme le virus d'Epstein-Barr, ce qui oriente les futurs investissements en prévention (paraphrase du communiqué du CIRC).",
+      "url": "https://www.iarc.who.int/wp-content/uploads/2026/09/pr387_E.pdf",
+      "source": "communiqué du CIRC"
+     }
+    ],
+    "apres": "Les auteurs appellent à étendre les mesures existantes et à développer des vaccins contre d'autres agents, dont le virus d'Epstein-Barr. Aucun calendrier n'est annoncé.",
+    "change": "Pour les patients et les soignants, rien de nouveau dans les gestes : vaccination contre le HPV et l'hépatite B, dépistage et traitement de H. pylori et des hépatites. L'étude chiffre l'ampleur du bénéfice possible de ces mesures, surtout là où elles sont peu…",
+    "credit": {
+     "auteur": "Marion Moseby",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:IARC_Nouveau_Centre_Exterieur_1.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ÉTUDE",
+    "titre": "Médicaments GLP-1 : plus de décollement des ongles et de chute de cheveux déclarés dans une enquête, sans preuve de cause",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hospital-de-Bellvitge.jpg/960px-Hospital-de-Bellvitge.jpg",
+    "legende": "Un bâtiment hospitalier (illustration)",
+    "chapeau": "Le 1er octobre 2026, au congrès de l'Académie européenne de dermatologie et de vénéréologie (EADV) à Vienne, une équipe dirigée notamment par le Dr Charles Taïeb (hôpital Necker, Paris) a présenté une enquête menée en France, aux États-Unis, au Brésil et au Mexique. Elle compare 575 personnes utilisant pour la première…",
+    "eclairage": "Qu'est-ce qu'une enquête déclarative, et que vaut-elle ?",
+    "chiffres": [
+     {
+      "valeur": "39 %",
+      "legende": "décollement des ongles chez les utilisateurs"
+     },
+     {
+      "valeur": "9 %",
+      "legende": "chez les non- utilisateurs"
+     },
+     {
+      "valeur": "1 904",
+      "legende": "participants (575 + 1 329)"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, au congrès de l'Académie européenne de dermatologie et de vénéréologie (EADV) à Vienne, une équipe dirigée notamment par le Dr Charles Taïeb (hôpital Necker, Paris) a présenté une enquête menée en France, aux États-Unis, au Brésil et au Mexique. Elle compare 575 personnes utilisant pour la première fois un médicament de la classe GLP-1 (comme le sémaglutide ou le tirzépatide) et 1 329 personnes diabétiques ou obèses qui n'en avaient jamais pris. Un décollement de l'ongle est déclaré par 39 % des utilisateurs contre 9 % des non-utilisateurs ; dans une étude parallèle sur les cheveux, une chute après le début du traitement est rapportée par 26 % contre 12 %. Les écarts persistent chez les participants qui ont perdu du poids. Les auteurs soulignent que ces données ne prouvent pas que le médicament en soit la cause.",
+    "points": [],
+    "explication": "Les médicaments GLP-1 imitent une hormone digestive ; on les prescrit contre le diabète de type 2 et l'obésité. Une enquête déclarative demande aux participants de rapporter eux-mêmes leurs symptômes : elle permet de repérer un signal rapidement, mais les souvenirs varient et les groupes comparés ne sont pas identiques. Ici, environ la moitié des utilisateurs signalaient déjà des problèmes d'ongles avant le traitement, et la prise en compte de maladies de la peau ou de carences nutritionnelles a atténué certains écarts, selon Medical Economics. Corrélation n'est pas causalité : un signal comme celui-ci appelle des études plus solides avant toute conclusion. En cas de changement des ongles ou des cheveux, c'est un point à aborder avec son médecin, sans arrêter un traitement de sa propre initiative. « Until now, nail changes associated with GLP-1 therapies had essentially been anecdotal » (« Jusqu'ici, les changements des ongles associés aux traitements GLP-1 étaient essentiellement anecdotiques »). Il ajoute : « not everything that happens during GLP-1 treatment is necessarily caused by the treatment itself » (« tout ce qui survient pendant un traitement GLP-1 n'est pas nécessairement causé par le traitement lui-même »). « Cela suggère que ce qui se passe au niveau du cuir chevelu pourrait aller au-delà de la chute classique observée après une perte de poids rapide et impliquer une composante inflammatoire »",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://boursorama.com/bourse/actualites/actualites-sante-une-etude-etablit-un-lien-entre-l-ablation-de-l-appendice-et-une-diminution-du-risque-de-cancer-colorectal-bbb27b24aaca962a33938367f798add6",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.medicaleconomics.com/view/glp-1-users-report-more-nail-detachment-hair-loss-than-nonusers-study-finds",
+      "nom": "Medical Economics"
+     },
+     {
+      "url": "https://www.medicaldaily.com/glp1-nail-detachment-hair-loss-eadv-2026-survey-479503",
+      "nom": "Medical Daily"
+     },
+     {
+      "url": "https://sharjah24.ae/en/Articles/2026/10/02/Study-Appendectomy-linked-to-lower-colorectal-cancer-risk",
+      "nom": "AFP via Sharjah24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Charles Taïeb",
+      "contexte": "dermatologue, hôpital Necker, Paris",
+      "texte": "« Until now, nail changes associated with GLP-1 therapies had essentially been anecdotal » (« Jusqu'ici, les changements des ongles associés aux traitements GLP-1 étaient essentiellement anecdotiques »). Il ajoute : « not everything that happens during GLP-1 treatment is necessarily caused by the treatment itself » (« tout ce qui survient pendant un traitement GLP-1 n'est pas nécessairement causé par le traitement lui-même »).",
+      "url": "https://www.medicaleconomics.com/view/glp-1-users-report-more-nail-detachment-hair-loss-than-nonusers-study-finds",
+      "source": "Medical Economics"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Bruno Halioua",
+      "contexte": "dermatologue parisien, auteur de l'étude sur les cheveux",
+      "texte": "« Cela suggère que ce qui se passe au niveau du cuir chevelu pourrait aller au-delà de la chute classique observée après une perte de poids rapide et impliquer une composante inflammatoire »",
+      "url": "https://boursorama.com/bourse/actualites/actualites-sante-une-etude-etablit-un-lien-entre-l-ablation-de-l-appendice-et-une-diminution-du-risque-de-cancer-colorectal-bbb27b24aaca962a33938367f798add6",
+      "source": "Reuters via Boursorama"
+     }
+    ],
+    "apres": "Publication complète après relecture par des pairs, puis études avec des groupes comparables suivis dans le temps.",
+    "change": "Aujourd'hui, rien ne justifie de modifier un traitement : l'enquête signale une association à explorer, pas un effet démontré. Pour les soignants, c'est une piste pour mieux interroger les patients sur leurs ongles et leur cuir chevelu.",
+    "illustration": true
+   },
+   {
+    "n": 4,
+    "theme": "TRAITEMENT",
+    "titre": "Leucémie lymphoïde chronique : la FDA étend l'usage du pirtobrutinib aux patients jamais traités",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Chronic_lymphocytic_leukemia_%28Wright-Giemsa%2C_50x%29..jpg/960px-Chronic_lymphocytic_leukemia_%28Wright-Giemsa%2C_50x%29..jpg",
+    "legende": "Lymphocytes de leucémie lymphoïde chronique au microscope",
+    "chapeau": "Le 2 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a approuvé le pirtobrutinib (Jaypirca, laboratoire Eli Lilly) pour les adultes atteints de leucémie lymphoïde chronique (LLC) ou de lymphome lymphocytique à petites cellules (LLPC) jamais traités, sans délétion 17p connue. La décision repose sur…",
+    "eclairage": "Que veut dire « survie sans progression » ?",
+    "chiffres": [
+     {
+      "valeur": "HR 0,20",
+      "legende": "risque de progression ou de décès vs chimio"
+     },
+     {
+      "valeur": "282",
+      "legende": "patients dans l'essai BRUIN CLL-313"
+     },
+     {
+      "valeur": "28 mois",
+      "legende": "suivi médian pour la survie sans progression"
+     }
+    ],
+    "passe": "Le 2 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a approuvé le pirtobrutinib (Jaypirca, laboratoire Eli Lilly) pour les adultes atteints de leucémie lymphoïde chronique (LLC) ou de lymphome lymphocytique à petites cellules (LLPC) jamais traités, sans délétion 17p connue. La décision repose sur l'essai de phase 3 BRUIN CLL-313, randomisé et en ouvert, qui a réparti 282 patients à parts égales (141 et 141) entre le pirtobrutinib et six cycles de bendamustine plus rituximab. Après 28 mois de suivi médian, la survie sans progression médiane n'était pas atteinte avec le pirtobrutinib et de 33,5 mois avec la chimio-immunothérapie (rapport de risque 0,20 ; intervalle de confiance à 95 % de 0,11 à 0,37). Les données de survie globale étaient encore immatures, avec 13 décès au total (3 sous pirtobrutinib, 10 dans le groupe de comparaison). Parmi les effets indésirables les plus fréquents figurent les infections des voies respiratoires hautes (27 %), l'éruption cutanée (22 %) et le Covid-19 (21 %).",
+    "points": [],
+    "explication": "La LLC est un cancer de certains globules blancs (les lymphocytes B) qui évolue souvent lentement. Le pirtobrutinib bloque une protéine, appelée BTK, dont ces cellules ont besoin pour survivre ; c'est un comprimé pris chaque jour jusqu'à progression de la maladie. La survie sans progression mesure le temps avant que la maladie s'aggrave ou que le patient décède : c'est un indicateur intermédiaire, pas la durée de vie totale, qui reste ici trop incomplète pour conclure. Un essai en ouvert signifie que patients et médecins savent quel traitement est reçu, ce qui peut influencer certains résultats. Ici, la comparaison se fait avec une chimio-immunothérapie, et non avec les autres médicaments ciblés déjà utilisés en première ligne. Le choix d'un traitement se décide avec l'hématologue. Elle indique que le traitement est approuvé pour les adultes atteints de LLC ou de LLPC jamais traités sans délétion 17p, et que les données de survie globale étaient immatures au moment de l'analyse principale. « Doctors can now consider pirtobrutinib for appropriate patients when initial therapy is needed, not just later in a patient’s treatment journey. » (« Les médecins peuvent désormais envisager le pirtobrutinib pour des patients appropriés quand un premier traitement est nécessaire, et non plus seulement plus tard dans le parcours. ») Citée dans le communiqué de Lilly ; ses éventuels liens d'intérêts ne sont pas précisés.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pirtobrutinib-previously-untreated-chronic-lymphocytic-leukemia-or-small-lymphocytic",
+      "nom": "FDA"
+     },
+     {
+      "url": "https://www.onclive.com/view/fda-approves-pirtobrutinib-for-previously-untreated-cll-sll",
+      "nom": "OncLive"
+     },
+     {
+      "url": "https://www.ajmc.com/view/fda-approves-pirtobrutinib-for-untreated-cll-sll-without-17p-deletion",
+      "nom": "AJMC"
+     },
+     {
+      "url": "https://www.prnewswire.com/news-releases/lillys-jaypirca-pirtobrutinib-the-first-and-only-approved-non-covalent-btk-inhibitor-receives-expanded-indication-from-us-fda-for-certain-patients-with-previously-untreated-cllsll-302897416.html",
+      "nom": "Lilly (communiqué)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "FDA",
+      "contexte": "agence américaine du médicament",
+      "texte": "Elle indique que le traitement est approuvé pour les adultes atteints de LLC ou de LLPC jamais traités sans délétion 17p, et que les données de survie globale étaient immatures au moment de l'analyse principale.",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pirtobrutinib-previously-untreated-chronic-lymphocytic-leukemia-or-small-lymphocytic",
+      "source": "FDA"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT (CITÉE PAR LILLY)",
+      "qui": "Jennifer Woyach",
+      "contexte": "hématologue, Ohio State University",
+      "texte": "« Doctors can now consider pirtobrutinib for appropriate patients when initial therapy is needed, not just later in a patient’s treatment journey. » (« Les médecins peuvent désormais envisager le pirtobrutinib pour des patients appropriés quand un premier traitement est nécessaire, et non plus seulement plus tard dans le parcours. ») Citée dans le communiqué de Lilly ; ses éventuels liens d'intérêts ne sont pas précisés.",
+      "url": "https://www.onclive.com/view/fda-approves-pirtobrutinib-for-previously-untreated-cll-sll",
+      "source": "OncLive"
+     }
+    ],
+    "apres": "Mise à disposition aux États-Unis ; en Europe, l'examen par les autorités ne figure pas dans les sources consultées.",
+    "change": "Les hématologues disposent d'une option de plus en première ligne pour un groupe précis de patients, sans délétion 17p. La comparaison avec d'autres médicaments ciblés déjà utilisés dans cette situation n'est pas l'objet de cet essai.",
+    "credit": {
+     "auteur": "Gabriel Caponetti",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Chronic_lymphocytic_leukemia_(Wright-Giemsa,_50x)..jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Campagne de vaccination grippe et Covid-19 : début en France."
+   },
+   {
+    "jour": "fin",
+    "mois": "OCT.",
+    "texte": "Réunion ACTRIMS-ECTRIMS à Toronto : données détaillées de l'essai Kyverna annoncées par l'entreprise."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "2,3 M",
+   "texte": "de nouveaux cancers diagnostiqués en 2024 sont attribués à des infections par l'analyse du CIRC, soit environ 12 % du total mondial."
+  },
+  "lexique": [
+   {
+    "terme": "Étude rétrospective",
+    "definition": "Une étude qui analyse des données déjà recueillies, sans répartir les patients au hasard : elle repère des associations, mais prouve rarement une cause."
+   },
+   {
+    "terme": "Relu par des pairs",
+    "definition": "Un travail vérifié par des experts indépendants avant publication dans une revue. Un résumé présenté en congrès ne l'a pas forcément été."
+   },
+   {
+    "terme": "Risque relatif",
+    "definition": "Le rapport entre le risque d'un groupe et celui d'un autre. Un risque relatif réduit de 58 % compare deux groupes ; il ne dit pas à lui seul le risque réel de chacun."
+   },
+   {
+    "terme": "Survie sans progression",
+    "definition": "Le temps pendant lequel une maladie ne s'aggrave pas après le début d'un traitement. Ce n'est pas la durée de vie totale."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon une analyse du Centre international de recherche sur le cancer publiée dans The Lancet Oncology, environ un nouveau cancer sur huit dans le monde en 2024 était attribuable à une infection.",
+   "reponse": true,
+   "explication": "Les auteurs estiment à 2,3 millions les nouveaux cancers de 2024 liés à 12 agents infectieux, soit environ 12 % du total, avec Helicobacter pylori (environ 760 000 cas) et les HPV (environ 750 000) en tête."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-06",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGULATION",
+    "titre": "New York : quatre géants de l'IA auditionnés sous serment par le Conseil municipal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/New_York_City_Hall_-_September_2025.jpg/960px-New_York_City_Hall_-_September_2025.jpg",
+    "legende": "L'hôtel de ville de New York, siège du Conseil municipal",
+    "chapeau": "Lundi 5 octobre 2026, le Conseil municipal de New York a tenu une audition de l'ensemble de ses 51 élus (« Committee of the Whole », réunion de toute l'assemblée en commission) sur les risques de l'intelligence artificielle. Des responsables d'Anthropic (Logan Graham, chef de l'équipe de tests offensifs « Frontier Red…",
+    "eclairage": "Une ville peut-elle encadrer l'IA ?",
+    "chiffres": [
+     {
+      "valeur": "51",
+      "legende": "élus de la ville réunis"
+     },
+     {
+      "valeur": "10",
+      "legende": "projets de loi et résolutions"
+     },
+     {
+      "valeur": "4",
+      "legende": "entreprises auditionnées"
+     }
+    ],
+    "passe": "Lundi 5 octobre 2026, le Conseil municipal de New York a tenu une audition de l'ensemble de ses 51 élus (« Committee of the Whole », réunion de toute l'assemblée en commission) sur les risques de l'intelligence artificielle. Des responsables d'Anthropic (Logan Graham, chef de l'équipe de tests offensifs « Frontier Red Team »), d'OpenAI (Morgan Dwyer), de Google (Alice Friend) et de Meta (Shane Cahill) ont témoigné sous serment, à distance. Selon CBS New York et The City, SpaceXAI, citée par une assignation, ne s'est pas présentée ; la présidente du Conseil, Julie Menin, a annoncé des poursuites. Dix textes étaient examinés, dont l'un interdirait de vendre ou de déployer un système d'IA dans la ville sans validation par un tiers extérieur et sans possibilité d'arrêt par un humain. Trois lanceurs d'alerte (Jacob Coxon, Alex Turner, Daniel Kokotajlo) ont aussi été entendus. Les sources divergent sur la fonction exacte de Jacob Coxon (ancien d'Anthropic ou ingénieur de l'entreprise).",
+    "points": [],
+    "explication": "Audition sous serment : mentir devant le Conseil est sanctionné ; c'est ce qui la distingue d'une conférence de presse. Validation par un tiers : un organisme extérieur teste le système avant sa mise en service, comme un contrôle technique. Interrupteur d'arrêt (« kill switch ») : un moyen pour une personne de couper le système. Limite : selon The City, le Conseil n'a pas le pouvoir d'une régulation générale ; ces textes ne sont encore que des projets. Démontré ou pas ? Les estimations de risque entendues lundi sont des avis de témoins, pas des mesures. Aucune des sources consultées ne chiffre ces risques.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://council.nyc.gov/press/2026/09/16/3240/",
+      "nom": "Conseil municipal de New York (annonce)"
+     },
+     {
+      "url": "https://www.cbsnews.com/newyork/news/new-york-city-council-ai-oversight-hearing/",
+      "nom": "CBS New York"
+     },
+     {
+      "url": "https://www.cnbcafrica.com/2026/anthropic-openai-google-and-meta-execs-set-to-testify-at-nyc-council-hearing-on-ai-risks",
+      "nom": "CNBC Africa"
+     },
+     {
+      "url": "https://www.thecityreporter.nyc/2026/10/05/nyc-city-council-ai-hearing-openai-anthropic-google-elon-musk/",
+      "nom": "The City"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "Jacob Coxon",
+      "contexte": "lanceur d'alerte",
+      "texte": "« On the current path, I think it is more likely than not that humanity loses control to these AIs »",
+      "url": "https://www.cbsnews.com/newyork/news/new-york-city-council-ai-oversight-hearing/",
+      "source": "CBS New York"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Julie Menin",
+      "contexte": "présidente du Conseil municipal",
+      "texte": "« Whistleblowers are why the world learned of the potential dangers of AI, and they deserve to be protected, rewarded and heard »",
+      "url": "https://gothamist.com/news/nyc-council-hearing-to-put-ai-risks-in-the-spotlight",
+      "source": "Gothamist"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Anthropic, OpenAI, Google, Meta",
+      "contexte": "entreprises auditionnées",
+      "texte": "Selon The City, elles ont surtout évité les questions directes sur les risques et mis en avant les bénéfices de l'IA. Selon CBS New York, le représentant de Meta a refusé de donner des précisions lorsque Julie Menin lui a demandé s'il pouvait chiffrer les risques et assumer une responsabilité juridique. Paraphrases, sans guillemets.",
+      "url": "https://www.thecityreporter.nyc/2026/10/05/nyc-city-council-ai-hearing-openai-anthropic-google-elon-musk/",
+      "source": "The City"
+     }
+    ],
+    "apres": "Le Conseil a annoncé des poursuites contre SpaceXAI. Aucune date de vote n'apparaît dans les sources consultées.",
+    "change": "Rien n'est encore en vigueur : ce sont des projets de textes. S'ils étaient adoptés, un système d'IA vendu ou déployé à New York devrait passer par une validation extérieure et pouvoir être arrêté par un humain. Pour une entreprise du secteur, cela ajouterait…",
+    "credit": {
+     "auteur": "Nielsoncaetanosalmeron",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:New_York_City_Hall_-_September_2025.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PLATEFORMES",
+    "titre": "Apple va durcir l'« accès complet au disque » sur Mac face aux agents d'IA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Apple_Park_aerial_view%2C_June_2024.jpg/960px-Apple_Park_aerial_view%2C_June_2024.jpg",
+    "legende": "Vue aérienne d'Apple Park, siège d'Apple à Cupertino",
+    "chapeau": "Le 2 octobre 2026, Apple a publié sur son site pour développeurs un texte intitulé « Updates to Full Disk Access in macOS ». L'entreprise y écrit que certains développeurs utilisent l'accès complet au disque d'une manière qui peut exposer fichiers, courriels, messages et historique de navigation sans que l'utilisateur…",
+    "eclairage": "Que donne l'accès complet au disque ?",
+    "chiffres": [
+     {
+      "valeur": "2 oct.",
+      "legende": "annonce publiée par Apple"
+     },
+     {
+      "valeur": "2",
+      "legende": "autorisations, selon Meta"
+     }
+    ],
+    "passe": "Le 2 octobre 2026, Apple a publié sur son site pour développeurs un texte intitulé « Updates to Full Disk Access in macOS ». L'entreprise y écrit que certains développeurs utilisent l'accès complet au disque d'une manière qui peut exposer fichiers, courriels, messages et historique de navigation sans que l'utilisateur en soit pleinement conscient, et annonce de nouveaux contrôles. Aucun calendrier n'a été indiqué. Cette annonce suit une polémique autour de Muse, l'agent d'IA personnel de Meta : Jason Aten, chroniqueur du magazine Inc., affirme que Muse a lu ses messages alors qu'il pensait ne pas avoir activé cet accès. Meta répond que Muse ne peut lire les messages que si deux réglages sont activés : l'accès complet au disque de macOS et le connecteur Messages de Muse. Les reprises de presse se sont poursuivies jusqu'au 5 octobre.",
+    "points": [],
+    "explication": "Sur Mac, chaque application est normalement limitée : elle ne peut pas lire le courrier ou les messages d'une autre. L'accès complet au disque (« Full Disk Access ») lève ces barrières ; selon Apple, il existe pour que les logiciels de sauvegarde fonctionnent. Un agent d'IA est un programme qui agit seul pour son utilisateur (lire, trier, acheter). Plus on lui donne d'accès, plus il peut lire. Ce qui est établi : le texte d'Apple et la position de Meta. Ce qui est contesté : ce que Jason Aten avait réellement activé ; aucune vérification indépendante n'apparaît dans les sources consultées.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "nom": "Apple Developer"
+     },
+     {
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full.html",
+      "nom": "The Hacker News"
+     },
+     {
+      "url": "https://www.thenationalnews.com/future/technology/2026/10/03/apple-to-tighten-mac-privacy-controls-against-ai-agents-after-meta-muse-complaints/",
+      "nom": "The National"
+     },
+     {
+      "url": "https://macdailynews.com/2026/10/05/apple-to-tighten-mac-prompts-when-ai-agents-seek-full-disk-access-after-meta-muse-complaints/",
+      "nom": "MacDailyNews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Apple",
+      "contexte": "communiqué aux développeurs",
+      "texte": "« we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action »",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Apple Developer"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "CONCURRENT",
+      "qui": "David Singleton",
+      "contexte": "directeur technique de Meta",
+      "texte": "« Your Muse can only read Messages content if macOS system-level Full Disk Access is granted and the Messages connector is enabled »",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full.html",
+      "source": "The Hacker News"
+     }
+    ],
+    "apres": "Apple n'a pas annoncé de date ni de version de macOS. Meta n'a pas annoncé de modification de Muse dans les sources consultées.",
+    "change": "Pour un utilisateur de Mac, donner un accès complet à une application demandera un geste plus explicite, à une date non précisée. Pour les entreprises qui développent des agents, l'accès aux données locales passera par des autorisations plus visibles.",
+    "credit": {
+     "auteur": "Nils Huenerfuerst",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TRAVAIL",
+    "titre": "Espagne : les employeurs doivent signaler les algorithmes qui décident des conditions de travail",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Samsung_Galaxy_Note8%2C_Huawei_Mate_10_Pro%2C_iPhone_8_Plus.jpg/960px-Samsung_Galaxy_Note8%2C_Huawei_Mate_10_Pro%2C_iPhone_8_Plus.jpg",
+    "legende": "Des smartphones (illustration)",
+    "chapeau": "Le décret royal 723/2026, adopté le 9 septembre et publié au Journal officiel espagnol (BOE) le 15 septembre, est entré en vigueur le 5 octobre 2026. Il transpose la directive européenne 2019/1152 sur la transparence des conditions de travail.",
+    "eclairage": "Informer n'est pas interdire",
+    "chiffres": [
+     {
+      "valeur": "5 oct.",
+      "legende": "entrée en vigueur"
+     },
+     {
+      "valeur": "4 sem.",
+      "legende": "durée de contrat au-delà de laquelle la règle s'applique"
+     },
+     {
+      "valeur": "30 j.",
+      "legende": "jours ouvrables pour répondre"
+     }
+    ],
+    "passe": "Le décret royal 723/2026, adopté le 9 septembre et publié au Journal officiel espagnol (BOE) le 15 septembre, est entré en vigueur le 5 octobre 2026. Il transpose la directive européenne 2019/1152 sur la transparence des conditions de travail. Son article 3.2.k) impose d'informer le salarié de « La existencia de sistemas algorítmicos o automatizados de toma de decisiones » (l'existence de systèmes algorithmiques ou automatisés de décision), avec leurs règles de fonctionnement quand ils servent à fixer ou modifier la durée du travail, l'affectation des tâches, les salaires, la progression de carrière, le lieu de travail ou la fin du contrat. La règle vise les relations de travail de plus de quatre semaines. Les nouveaux embauchés reçoivent l'information avant le début du contrat ; les salariés déjà en poste peuvent la demander, et l'employeur dispose de 30 jours ouvrables pour répondre. Un communiqué de Garrigues date la publication du 9 septembre ; le BOE indique le 15.",
+    "points": [],
+    "explication": "Un système algorithmique applique des règles automatiques pour décider, par exemple, d'un planning ; il n'utilise pas forcément de l'IA. Le texte n'interdit pas ces systèmes : il oblige à dire qu'ils existent et à expliquer leurs critères. Limites : le décret ne donne pas accès aux salaires des collègues, seulement aux critères de rémunération variable et de promotion (Euro Weekly News). Des sanctions plus fortes dépendent d'une loi distincte, encore en attente. La directive européenne aurait dû s'appliquer dès août 2022.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-19200",
+      "nom": "BOE (Journal officiel espagnol)"
+     },
+     {
+      "url": "https://www.garrigues.com/en_GB/new/companies-spain-will-have-provide-information-their-employees-elements-including-algorithms",
+      "nom": "Garrigues"
+     },
+     {
+      "url": "https://natlawreview.com/article/spain-introduces-new-employer-information-obligations-force-5-october-2026",
+      "nom": "National Law Review"
+     },
+     {
+      "url": "https://euroweeklynews.com/2026/09/16/workers-in-spain-gain-new-rights-over-pay-hours-and-workplace-ai-from-october-5-heres-whats-changing/",
+      "nom": "Euro Weekly News"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Gouvernement espagnol",
+      "contexte": "auteur du décret",
+      "texte": "Le décret remplace le décret royal 1659/1998 et élargit la liste des informations dues au salarié (formation, plan d'égalité, procédure de harcèlement, préavis). Paraphrase du texte officiel.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-19200",
+      "source": "BOE"
+     }
+    ],
+    "apres": "Pour les contrats existants, la réponse est due dans les 30 jours ouvrables suivant la demande. Une loi sur les sanctions reste en attente, sans date dans les sources.",
+    "change": "En Espagne, un salarié peut désormais demander si un algorithme influence son planning, ses tâches, sa paie ou son évolution, et recevoir une réponse écrite. Pour une entreprise, cela suppose de savoir quels outils automatisés elle emploie. Effet immédiat…",
+    "illustration": true
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Agent d'IA",
+    "definition": "Programme qui agit de lui-même pour son utilisateur, avec les autorisations qu'on lui donne."
+   },
+   {
+    "terme": "Accès complet au disque",
+    "definition": "Autorisation macOS qui lève les protections entre applications et permet de lire courrier, messages et sauvegardes."
+   },
+   {
+    "terme": "Validation par un tiers",
+    "definition": "Test d'un système par un organisme extérieur avant sa mise en service."
+   },
+   {
+    "terme": "Système algorithmique",
+    "definition": "Ensemble de règles automatiques qui aident ou remplacent une décision humaine, comme un planning."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon le texte du décret espagnol 723/2026, l'obligation d'informer les salariés sur les systèmes algorithmiques ne concerne que les licenciements.",
+   "reponse": false,
+   "explication": "Le texte cite aussi la durée du travail, l'affectation des tâches, les salaires, la progression de carrière et le lieu de travail (article 3.2.k, BOE)."
   }
  },
  {
