@@ -19,7 +19,7 @@ export function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Éclairage, la politique sans prérequis</title>
+    <title>Éclairage, l'actu sans prérequis</title>
     <link>${SITE}/podcast</link>
     <atom:link href="${SITE}/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
@@ -27,7 +27,7 @@ export function GET() {
     <itunes:author>Éclairage</itunes:author>
     <itunes:owner><itunes:name>Éclairage</itunes:name><itunes:email>bonjour@eclairagemedia.com</itunes:email></itunes:owner>
     <itunes:image href="${SITE}/podcast-cover.jpg"/>
-    <image><url>${SITE}/podcast-cover.jpg</url><title>Éclairage, la politique sans prérequis</title><link>${SITE}/podcast</link></image>
+    <image><url>${SITE}/podcast-cover.jpg</url><title>Éclairage, l'actu sans prérequis</title><link>${SITE}/podcast</link></image>
     <itunes:type>episodic</itunes:type>
     <copyright>Éclairage ${new Date().getFullYear()}</copyright>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
