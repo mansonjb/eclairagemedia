@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 // Envoie la demande d'inscription à bonjour@eclairagemedia.com via l'API Brevo (variable BREVO_API_KEY sur Vercel).
 export async function POST(req: Request) {
-  const { email, rubriques } = await req.json().catch(() => ({}));
+  const { email, rubriques, liseuse } = await req.json().catch(() => ({}));
   if (typeof email !== "string" || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 200) {
     return NextResponse.json({ ok: false }, { status: 400 });
   }
@@ -16,8 +16,10 @@ export async function POST(req: Request) {
       sender: { name: "Site Éclairage", email: "bonjour@eclairagemedia.com" },
       to: [{ email: "bonjour@eclairagemedia.com" }],
       replyTo: { email },
-      subject: `Inscription : ${email}`,
-      textContent: `Nouvelle demande d'inscription\nEmail : ${email}\nRubriques : ${liste || "non précisé"}`,
+      subject: liseuse ? `Liseuse : ${email}` : `Inscription : ${email}`,
+      textContent: liseuse
+        ? `Nouvelle demande d'envoi sur liseuse\nAdresse de la liseuse : ${email}\nÀ ajouter à kindle.txt (dépôt eclairage).`
+        : `Nouvelle demande d'inscription\nEmail : ${email}\nRubriques : ${liste || "non précisé"}`,
     }),
   });
   return NextResponse.json({ ok: r.ok }, { status: r.ok ? 200 : 502 });

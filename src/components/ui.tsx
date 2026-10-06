@@ -172,7 +172,7 @@ export function Pied() {
           {ORDRE.map((r) => <Link key={r} href={`/${r}`} className="hover:text-encre">{R[r].court}</Link>)}
           <Link href="/barometre" className="hover:text-encre">Baromètre</Link>
           <Link href="/podcast" className="hover:text-encre">Podcast</Link>
-          <Link href="/liseuse" className="hover:text-encre">Sur liseuse</Link>
+          <Link href="/read" className="hover:text-encre">Sur liseuse</Link>
           <Link href="/archives" className="hover:text-encre">Archives</Link>
           <span className="select-all">bonjour@eclairagemedia.com</span>
         </nav>

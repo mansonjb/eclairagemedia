@@ -144,6 +144,20 @@ ${chap.map((c) => `<itemref idref="${c.id}"/>`).join("\n")}
   return zip(f);
 }
 
+// Versions d'un seul fichier pour l'envoi par e-mail (HTML, accepté par Brevo et par Send to Kindle)
+// et pour les anciennes Kindle qui ne lisent ni l'EPUB ni le HTML (texte brut, téléchargeable depuis leur navigateur).
+function unFichier(date, eds) {
+  const titre = `Éclairage · ${dateLongue(date)}`;
+  const corps = eds.map((e) => chapitre(e).match(/<body>([\s\S]*)<\/body>/)[1]).join("\n");
+  const html = `<!DOCTYPE html>\n<html lang="fr"><head><meta charset="utf-8"/><title>${x(titre)}</title><style>${CSS}</style></head><body>\n<h1>${x(titre)}</h1>\n${corps}\n</body></html>`;
+  const txt = html.replace(/<style>[\s\S]*?<\/style>/, "").replace(/<title>[\s\S]*?<\/title>/, "")
+    .replace(/<h[12][^>]*>/g, "\n\n\n").replace(/<h3[^>]*>/g, "\n\n").replace(/<\/h\d>/g, "\n")
+    .replace(/<li[^>]*>/g, "\n- ").replace(/<(p|dt|blockquote)[^>]*>/g, "\n").replace(/<dd[^>]*>/g, "\n  ")
+    .replace(/<[^>]+>/g, "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&amp;/g, "&")
+    .replace(/[ \t]+/g, " ").replace(/\n[ ]+/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+  return { html, txt: "\ufeff" + txt + "\n" };
+}
+
 // ---------- génération : un livre par jour, refait seulement si la journée a changé ----------
 const index = JSON.parse(fs.readFileSync(path.resolve("content/index.json"), "utf8"));
 const fManif = path.resolve("content/epub.json");
@@ -155,8 +169,13 @@ for (const date of [...new Set(index.map((e) => e.date))].filter((d) => d >= DEB
   const empreinte = crypto.createHash("sha1").update(JSON.stringify(eds)).digest("hex").slice(0, 12);
   const fichier = `eclairage-${date}.epub`;
   const ancien = avant.find((l) => l.date === date);
-  if (!ancien || ancien.empreinte !== empreinte || !fs.existsSync(path.join(OUT, fichier))) fs.writeFileSync(path.join(OUT, fichier), livre(date, eds));
-  livres.push({ date, url: `/epub/${fichier}`, taille: fs.statSync(path.join(OUT, fichier)).size, rubriques: eds.map((e) => e.rubrique), sujets: eds.reduce((n, e) => n + e.sujets.length, 0), empreinte });
+  if (!ancien || ancien.empreinte !== empreinte || !fs.existsSync(path.join(OUT, fichier)) || !fs.existsSync(path.join(OUT, fichier.replace(".epub", ".txt")))) {
+    fs.writeFileSync(path.join(OUT, fichier), livre(date, eds));
+    const u = unFichier(date, eds);
+    fs.writeFileSync(path.join(OUT, fichier.replace(".epub", ".html")), u.html);
+    fs.writeFileSync(path.join(OUT, fichier.replace(".epub", ".txt")), u.txt);
+  }
+  livres.push({ date, url: `/epub/${fichier}`, txt: `/epub/${fichier.replace(".epub", ".txt")}`, taille: fs.statSync(path.join(OUT, fichier)).size, rubriques: eds.map((e) => e.rubrique), sujets: eds.reduce((n, e) => n + e.sujets.length, 0), empreinte });
 }
 fs.writeFileSync(fManif, JSON.stringify(livres, null, 1));
 console.log(`epub : ${livres.length} livre(s)`);
