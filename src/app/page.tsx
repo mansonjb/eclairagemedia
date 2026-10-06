@@ -11,7 +11,9 @@ import BoutonSpotify from "@/components/BoutonSpotify";
 export default function Accueil() {
   const [aujourdhui, ...avant] = dates();
   const semaine = semaineDe(aujourdhui);
-  const ep = dernier();
+  // l'essentiel du jour s'il est paru (plus récent ou du même jour), sinon l'édition politique
+  const pol = dernier(), ess = dernier("essentiel");
+  const ep = ess && (!pol || ess.date >= pol.date) ? ess : pol;
   return (
     <main className="flex flex-col gap-5"><UneProvider n={unesDuJour(aujourdhui).length}>
       <section className="flex flex-wrap items-end justify-between gap-4 px-2 pb-2 pt-5 sm:gap-5 sm:pt-7">
@@ -43,8 +45,8 @@ export default function Accueil() {
           <div className="flex flex-wrap items-end justify-between gap-3">
             <div>
               <span className="pastille bg-jaune text-encre">PODCAST · {minutes(ep.duree)}</span>
-              <h2 className="d mt-3 text-[26px] leading-tight sm:text-[30px]">L&apos;édition politique{ep.date === aujourdhui ? " du jour" : ""}, à écouter</h2>
-              <p className="mt-1 text-[15px] text-gris">Léa et Paul reprennent les sujets, à partir des faits vérifiés de l&apos;édition.</p>
+              <h2 className="d mt-3 text-[26px] leading-tight sm:text-[30px]">{ep.rubrique === "essentiel" ? "L'essentiel du jour" : "L'édition politique"}{ep.date === aujourdhui ? (ep.rubrique === "essentiel" ? "" : " du jour") : ""}, à écouter</h2>
+              <p className="mt-1 text-[15px] text-gris">{ep.rubrique === "essentiel" ? "Léa et Paul font le tour de l'actualité, toutes rubriques, à partir des faits vérifiés des éditions." : "Léa et Paul reprennent les sujets, à partir des faits vérifiés de l'édition."}</p>
             </div>
             <div className="flex flex-wrap gap-2">
               <BoutonSpotify />

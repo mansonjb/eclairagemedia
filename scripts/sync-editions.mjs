@@ -209,15 +209,19 @@ if (fs.existsSync(fCand)) {
       const ed = index.find((e) => e.rubrique === rubrique && e.date === date);
       episodes.push({
         rubrique, date, url: `/podcasts/${f}`, taille,
-        duree: Math.round((taille * 8) / 64000), // MP3 à 64 kbit/s
+        duree: d.duree || Math.round((taille * 8) / 64000), // durée notée par podcast.py, sinon MP3 à 64 kbit/s
         titre: d.titre || `Éclairage, ${date}`,
         titre_episode: d.titre_episode || null,
         description: d.description || null,
-        sujets: ed ? ed.sujets.map((s) => ({ n: s.n, titre: s.titre })) : [],
+        // épisode long : sujets choisis dans plusieurs rubriques (liste « sujets » du dialogue)
+        sujets: Array.isArray(d.sujets)
+          ? d.sujets.map((x) => ({ rubrique: x.rubrique, n: x.n, titre: index.find((e) => e.rubrique === x.rubrique && e.date === date)?.sujets.find((t) => t.n === x.n)?.titre })).filter((x) => x.titre)
+          : ed ? ed.sujets.map((s) => ({ rubrique, n: s.n, titre: s.titre })) : [],
         transcription: (d.repliques || []).map((r) => ({ qui: r.qui === "Lea" ? "Léa" : r.qui, texte: r.texte })),
       });
     }
   }
+  episodes.sort((a, b) => b.date.localeCompare(a.date) || (a.rubrique === "essentiel" ? -1 : 1));
   fs.writeFileSync(path.resolve("content/podcasts.json"), JSON.stringify(episodes, insecable, 1));
   console.log(`podcast : ${episodes.length} épisode(s)`);
 }

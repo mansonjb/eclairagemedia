@@ -1,16 +1,16 @@
-import { episodes, SITE } from "@/lib/podcasts";
+import { episodes, SITE, lienEpisode } from "@/lib/podcasts";
 
 export const dynamic = "force-static";
 const x = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
 // Flux RSS du podcast (Apple Podcasts, Spotify, applications de podcast)
 export function GET() {
-  const items = episodes.filter((e) => e.rubrique === "politique").map((e) => `
+  const items = episodes.map((e) => `
     <item>
       <title>${x(e.titre_episode || e.titre)}</title>
-      <link>${SITE}/ecouter/${e.date}</link>
+      <link>${SITE}${lienEpisode(e)}</link>
       <guid isPermaLink="false">eclairage-${e.rubrique}-${e.date}</guid>
-      <pubDate>${new Date(e.date + "T06:00:00+02:00").toUTCString()}</pubDate>
+      <pubDate>${new Date(e.date + (e.rubrique === "politique" ? "T06:00:00+02:00" : "T09:00:00+02:00")).toUTCString()}</pubDate>
       <description>${x(e.description || e.sujets.map((s) => s.titre).join(" · "))}</description>
       <itunes:summary>${x(e.description || e.sujets.map((s) => s.titre).join(" · "))}</itunes:summary>
       <enclosure url="${SITE}${e.url}" length="${e.taille}" type="audio/mpeg"/>
@@ -23,7 +23,7 @@ export function GET() {
     <link>${SITE}/podcast</link>
     <atom:link href="${SITE}/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <description>Chaque matin, l'actualité politique française expliquée à deux voix, en quelques minutes et sans prérequis, à partir de faits vérifiés et sourcés. Voix de synthèse générées par intelligence artificielle ; transcription de chaque épisode sur eclairagemedia.com.</description>
+    <description>Chaque matin, l'actualité expliquée à deux voix et sans prérequis, à partir de faits vérifiés et sourcés : l'édition politique en quelques minutes, puis l'essentiel du jour (politique, économie, santé, alimentation, IA et tech). Voix de synthèse générées par intelligence artificielle ; transcription de chaque épisode sur eclairagemedia.com.</description>
     <itunes:author>Éclairage</itunes:author>
     <itunes:owner><itunes:name>Éclairage</itunes:name><itunes:email>bonjour@eclairagemedia.com</itunes:email></itunes:owner>
     <itunes:image href="${SITE}/podcast-cover.jpg"/>

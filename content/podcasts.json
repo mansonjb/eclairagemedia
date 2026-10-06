@@ -10,18 +10,22 @@
   "description": "Ce mardi 6 octobre, Léa et Paul reprennent 4 sujets.\n• Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens, une enquête de l'IGPN est ouverte, et ce que l'on sait des circonstances.\n• Sénat : Les Républicains restent premiers, l'UCI passe deuxième, le RN forme son premier groupe, et à quoi sert un groupe politique.\n• Primaire de la gauche : 140 282 inscrits, qui vote et comment, avant le premier tour des 9 et 10 octobre.\n• Canicule : une mission de l'Assemblée chiffre à environ 16 milliards d'euros le coût de l'été 2026, avec ses réserves de méthode.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
   "sujets": [
    {
+    "rubrique": "politique",
     "n": 1,
     "titre": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens"
    },
    {
+    "rubrique": "politique",
     "n": 2,
     "titre": "Sénat : les Républicains restent premiers, l'UCI passe deuxième, le RN a son groupe"
    },
    {
+    "rubrique": "politique",
     "n": 3,
     "titre": "Primaire de la gauche : 140 282 inscrits avant le premier tour"
    },
    {
+    "rubrique": "politique",
     "n": 4,
     "titre": "Canicule : une mission de l'Assemblée chiffre à environ 16 milliards d'euros le coût de l'été 2026"
    }
@@ -164,14 +168,17 @@
   "description": "Ce lundi 5 octobre, Léa et Paul reprennent trois sujets.\n\n• Lycées : dans une lettre à sept ministres, Sébastien Lecornu fixe « cinq chantiers » (remplacements, bâtiments, emplois du temps, Parcoursup, parole des lycéens) et demande la reprise des cours. Qui décide de quoi entre l'État et les régions, et le calendrier des prochains jours.\n• Primaire de la gauche : dernier débat entre les cinq candidats avant le premier tour des 9 et 10 octobre. Les relations avec La France insoumise, les retraites et comment voter.\n• Budget 2027 : ce que contiennent le projet de loi de finances et celui de la Sécurité sociale, ce qui n'est pas encore voté, et le calendrier à l'Assemblée.\n\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
   "sujets": [
    {
+    "rubrique": "politique",
     "n": 1,
     "titre": "Lycées : le Premier ministre fixe « cinq chantiers » et demande la reprise des cours"
    },
    {
+    "rubrique": "politique",
     "n": 2,
     "titre": "Primaire de la gauche : dernier débat avant le premier tour"
    },
    {
+    "rubrique": "politique",
     "n": 3,
     "titre": "Budget 2027 : le projet de loi de finances est entré dans le calendrier parlementaire"
    }
