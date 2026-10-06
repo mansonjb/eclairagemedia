@@ -34,12 +34,14 @@ export function Credit({ s, className = "" }: { s: Sujet; className?: string }) 
   );
 }
 
-export function Visuel({ s, className = "aspect-[16/10]" }: { s: Sujet; r?: RubriqueId; className?: string; grand?: boolean }) {
+// Photo d'un sujet ; rien du tout quand le sujet n'a pas de photo vérifiée (pas d'illustration de remplissage)
+export function Visuel({ s, className = "aspect-[16/10]", href, credit = true }: { s: Sujet; r?: RubriqueId; className?: string; grand?: boolean; href?: string; credit?: boolean }) {
+  if (!s.image) return null;
   return (
     <div className={`relative overflow-hidden rounded-[20px] bg-filet ${className}`}>
-      {s.image && <img src={s.image} alt={s.legende ?? ""} loading="lazy" className="h-full w-full object-cover" />}
-      {s.legende?.endsWith("(illustration)") && <span className="absolute bottom-3 right-3 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
-      <Credit s={s} className="absolute bottom-2 right-2 max-w-[80%] truncate" />
+      {href ? <Link href={href}><img src={s.image} alt={s.legende ?? ""} loading="lazy" className="h-full w-full object-cover" /></Link>
+        : <img src={s.image} alt={s.legende ?? ""} loading="lazy" className="h-full w-full object-cover" />}
+      {credit && <Credit s={s} className="absolute bottom-2 right-2 max-w-[80%] truncate" />}
     </div>
   );
 }
@@ -89,7 +91,7 @@ export function CarteSujet({ e, s }: { e: Edition; s: Sujet; grand?: boolean }) 
   const lien = `/${e.rubrique}/${e.date}/${s.n}`;
   return (
     <article className="carte flex flex-col p-3">
-      <Link href={lien}><Visuel s={s} /></Link>
+      <Visuel s={s} href={lien} />
       <div className="flex flex-1 flex-col gap-3 px-3 pb-2.5 pt-4">
         <div className="flex flex-wrap items-center gap-1.5">
           <Pastille r={e.rubrique} />
@@ -109,7 +111,7 @@ export function CarteEdition({ e, avecDate = false }: { e: Edition; avecDate?: b
   const lien = `/${e.rubrique}/${e.date}`;
   return (
     <article className="carte flex flex-col p-3">
-      <Link href={lien}><Visuel s={p} /></Link>
+      <Visuel s={p} href={lien} />
       <div className="flex flex-1 flex-col gap-3 px-3 pb-2.5 pt-4">
         <div className="flex flex-wrap items-center justify-between gap-2">
           <Pastille r={e.rubrique} />

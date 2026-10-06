@@ -40,6 +40,24 @@ function Jauge({ couleur, cle, pause }: { couleur: string; cle: string; pause: b
     style={{ backgroundColor: couleur, animation: `remplir ${DUREE}ms linear forwards`, animationPlayState: pause ? "paused" : "running" }} />;
 }
 
+// Numéro du sujet entouré d'un anneau qui se remplit pendant les 20 secondes (sujet actif seulement)
+function Anneau({ actif, couleur, fond, n, cle, pause }: { actif: boolean; couleur: string; fond: string; n: number; cle: string; pause: boolean }) {
+  const C = 2 * Math.PI * 20;
+  return (
+    <span className="relative flex h-12 w-12 shrink-0 items-center justify-center">
+      {actif && (
+        <svg viewBox="0 0 48 48" className="absolute inset-0 -rotate-90" aria-hidden>
+          <circle cx="24" cy="24" r="20" fill="none" stroke="rgba(255,255,255,.25)" strokeWidth="3" />
+          <circle key={cle} cx="24" cy="24" r="20" fill="none" stroke="#fff" strokeWidth="3" strokeLinecap="round" strokeDasharray={C}
+            style={{ strokeDashoffset: C, animation: `anneau ${DUREE}ms linear forwards`, animationPlayState: pause ? "paused" : "running" }} />
+        </svg>
+      )}
+      <span className="d flex h-9 w-9 items-center justify-center rounded-full text-[19px] leading-none"
+        style={actif ? { backgroundColor: "#fff", color: couleur } : { backgroundColor: fond, color: couleur }}>{n}</span>
+    </span>
+  );
+}
+
 export function UneEtapes({ etapes }: { etapes: { nom: string; titre: string; couleur: string; fond: string; rubrique: string; theme: string }[] }) {
   const { i, tour, pause, choisir, setPause } = useContext(Ctx);
   const n = etapes.length;
@@ -73,15 +91,13 @@ export function UneEtapes({ etapes }: { etapes: { nom: string; titre: string; co
           const actif = k === i;
           return (
             <button key={k} type="button" role="tab" onClick={() => choisir(k)} aria-selected={actif} aria-controls="une"
-              className={`group relative flex min-w-0 items-start gap-3.5 overflow-hidden rounded-[22px] p-4 text-left transition ${actif ? "text-white shadow-lg" : "bg-white hover:-translate-y-0.5 hover:shadow-md"}`}
+              className={`group relative flex min-w-0 items-center gap-3.5 overflow-hidden rounded-[22px] p-4 text-left transition ${actif ? "text-white shadow-lg" : "bg-white hover:-translate-y-0.5 hover:shadow-md"}`}
               style={actif ? { backgroundColor: e.couleur } : undefined}>
-              <span className={`d flex h-11 w-11 shrink-0 items-center justify-center rounded-[14px] text-[22px] leading-none ${actif ? "bg-white" : ""}`}
-                style={actif ? { color: e.couleur } : { backgroundColor: e.fond, color: e.couleur }}>{k + 1}</span>
+              <Anneau actif={actif} couleur={e.couleur} fond={e.fond} n={k + 1} cle={`d${i}-${tour}`} pause={pause} />
               <span className="min-w-0 flex-1">
-                <span className={`block text-[11.5px] font-extrabold uppercase tracking-[0.06em] ${actif ? "text-white/80" : ""}`} style={actif ? undefined : { color: e.couleur }}>{e.rubrique} · {e.theme}</span>
-                <span className="mt-1 line-clamp-2 block text-[15px] font-bold leading-snug">{e.titre}</span>
+                <span className={`block text-[11.5px] font-extrabold uppercase tracking-[0.06em] ${actif ? "text-white/80" : ""}`} style={actif ? undefined : { color: e.couleur }}>{e.rubrique}</span>
+                <span className="mt-0.5 line-clamp-2 text-[16px] font-bold leading-snug">{e.titre}</span>
               </span>
-              {actif && <span className="absolute inset-x-4 bottom-2 h-[3px] overflow-hidden rounded-full bg-white/25"><Jauge couleur="rgba(255,255,255,.9)" cle={`d${i}-${tour}`} pause={pause} /></span>}
             </button>
           );
         })}

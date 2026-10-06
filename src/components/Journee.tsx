@@ -1,7 +1,7 @@
 import Portrait from "@/components/Portrait";
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
+import { RUBRIQUES, titreCourt, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
 import QuizPile from "@/components/dyn/QuizPile";
 import { UneCarte } from "@/components/dyn/Une";
 import { Section, Pastille, CarteSujet, Meta, Credit } from "@/components/ui";
@@ -23,11 +23,11 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
   ].filter(([, t]) => t);
   return (
     <article className="carte flex w-full flex-col p-3">
+      {s.image ? (
       <div className="relative">
         <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9]" /></Link>
         <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET {k + 1} · {s.theme}</span>
         <Credit s={s} className="absolute bottom-4 right-4 hidden max-w-[40%] truncate sm:block" />
-        {s.legende?.endsWith("(illustration)") && <span className="absolute right-4 top-4 rounded-full bg-black/40 px-2 py-0.5 text-[10.5px] font-semibold text-white backdrop-blur-sm">Illustration</span>}
         {s.chiffres[0] && (
           <div className="absolute bottom-4 left-4 rounded-[18px] px-4 py-3 text-white" style={{ backgroundColor: R.couleur }}>
             <p className="d text-[30px] leading-none sm:text-[40px]">{s.chiffres[0].valeur}</p>
@@ -35,8 +35,20 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
           </div>
         )}
       </div>
+      ) : (
+        // Pas de photo vérifiée : bandeau couleur de la rubrique avec le chiffre clé
+        <div className="flex flex-wrap items-end justify-between gap-4 rounded-[20px] p-5 sm:p-6" style={{ backgroundColor: R.fond }}>
+          <span className="rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET {k + 1} · {s.theme}</span>
+          {s.chiffres[0] && (
+            <div className="text-right" style={{ color: R.couleur }}>
+              <p className="d text-[44px] leading-none sm:text-[56px]">{s.chiffres[0].valeur}</p>
+              <p className="mt-1 text-[13.5px] font-bold">{s.chiffres[0].legende}</p>
+            </div>
+          )}
+        </div>
+      )}
       <div className="flex flex-col gap-5 px-3 pb-2 pt-5 sm:px-4">
-        <Link href={lien} className="d text-[30px] leading-[1.02] hover:text-bleu sm:text-[42px]">{s.titre}</Link>
+        <Link href={lien} className="d text-balance text-[30px] leading-[1.02] hover:text-bleu sm:text-[42px]">{titreCourt(e, s)}</Link>
         <div className="grid gap-3 md:grid-cols-3">
           {etapes.map(([t, texte], k) => (
             <div key={t} className="rounded-[20px] bg-fond px-4 py-4">

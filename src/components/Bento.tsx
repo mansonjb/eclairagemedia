@@ -19,19 +19,19 @@ export default function Bento({ e, s }: { e: Ed; s: Sujet }) {
   const tuiles = s.chiffres.length + (s.sources.length ? 1 : 0);
   return (
     <article className="flex flex-col gap-4">
-      <div className="grid gap-4 lg:grid-cols-2">
+      <div className={`grid gap-4 ${s.image ? "lg:grid-cols-2" : ""}`}>
         <div className="flex flex-col justify-between gap-6 rounded-[24px] p-6 text-white sm:p-8" style={{ backgroundColor: R.couleur }}>
           <p className={etiquette}>{s.n} · {s.theme}</p>
           <h1 className="d text-[30px] leading-[1.02] sm:text-[44px]">{s.titre}</h1>
           <p className="text-[13.5px] font-semibold text-white/85">{dateLongue(e.date)}{s.sources.length ? ` · ${s.sources.length} sources` : ""} · {e.minutes} min de lecture</p>
         </div>
-        <div className="relative min-h-[280px] overflow-hidden rounded-[24px] bg-white">
+        {s.image && <div className="relative min-h-[280px] overflow-hidden rounded-[24px] bg-white">
           {s.image && <img src={s.image} alt={s.legende ?? ""} className="absolute inset-0 h-full w-full object-cover" />}
           <div className="absolute inset-x-3 bottom-3 flex flex-wrap items-end justify-between gap-2">
             {s.legende && <span className="max-w-[85%] rounded-full bg-black/45 px-3 py-1 text-[11px] font-semibold text-white backdrop-blur-sm">{s.legende}</span>}
             <Credit s={s} className="max-w-full truncate" />
           </div>
-        </div>
+        </div>}
       </div>
 
       {tuiles > 0 && (

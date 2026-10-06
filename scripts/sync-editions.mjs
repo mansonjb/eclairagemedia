@@ -4,7 +4,6 @@
 // Usage : EDITIONS_DIR=../revue-politique/editions npm run sync
 import fs from "node:fs";
 import path from "node:path";
-import { PAR_THEME, hache } from "./illustrations.mjs";
 
 const SRC = process.env.EDITIONS_DIR || path.resolve("../revue-politique/editions");
 const OUT = path.resolve("content/editions");
@@ -37,7 +36,7 @@ function extraire(html) {
     const chiffres = [...bloc.matchAll(/font-size:24px;font-weight:900[^>]*>([^<]{1,12})<\/div>\s*<div[^>]*>([\s\S]*?)<\/div>/g)]
       .slice(0, 3).map((c) => ({ valeur: strip(c[1]), legende: strip(c[2]) }));
     sujets.push({
-      n, theme: strip(m[2]), titre: strip(m[3]),
+      n, theme: strip(m[2]), titre: strip(m[3]), court: (bloc.match(/<!--\s*court\s*:\s*([^>]*?)\s*-->/) || [])[1] || null,
       image: img ? img[1] : null, legende: img && img[2] ? ent(img[2]) : null,
       chapeau: passe ? chapeau(strip(passe[1])) : null,
       eclairage: ecl ? strip(ecl[1]) : null,
@@ -76,6 +75,23 @@ function extraire(html) {
 }
 
 fs.rmSync(OUT, { recursive: true, force: true });
+// Largeur originale des photos Wikimedia Commons, en cache (content/images-verifiees.json) pour ne pas redemander chaque jour
+const fCache = path.resolve("content/images-verifiees.json");
+const cacheImg = fs.existsSync(fCache) ? JSON.parse(fs.readFileSync(fCache, "utf8")) : {};
+async function assezGrande(url) {
+  const m = decodeURIComponent(url).match(/wikimedia\.org\/wikipedia\/commons\/(?:thumb\/)?[0-9a-f]\/[0-9a-f]{2}\/([^/?]+)/);
+  if (!m) return true; // hors Commons (Unsplash…) : servi en grand format
+  const nom = m[1];
+  if (!(nom in cacheImg)) {
+    try {
+      const r = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=size&titles=File:${encodeURIComponent(nom)}`,
+        { headers: { "User-Agent": "EclairageBot/1.0 (bonjour@eclairagemedia.com)" } });
+      const p = Object.values((await r.json()).query.pages)[0];
+      cacheImg[nom] = p.imageinfo ? p.imageinfo[0].width : 0;
+    } catch { return true; } // réseau indisponible : on ne retire rien
+  }
+  return cacheImg[nom] >= 1000;
+}
 const index = [];
 for (const file of fs.readdirSync(SRC).sort()) {
   if (!file.endsWith(".html") || SKIP.has(file) || file.startsWith("test")) continue;
@@ -97,22 +113,15 @@ for (const file of fs.readdirSync(SRC).sort()) {
     const p = photos[`${rubrique}/${date}/${s.n}`];
     if (p) { s.image = p.url; s.legende = p.legende; s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page }; }
   }
-  // Pas de photo dans l'édition : illustration neutre de la banque, différente pour chaque sujet du jour
-  const banque = JSON.parse(fs.readFileSync(path.resolve("content/illustrations.json"), "utf8"));
-  const prises = new Set(data.sujets.map((s) => s.image));
-  for (const s of data.sujets) {
-    if (s.image) continue;
-    const t = PAR_THEME[rubrique];
-    const choix = [...(t[s.theme] || []), ...t._].filter((k) => banque[k] && !prises.has(banque[k].url));
-    const k = choix.length ? choix[hache(s.titre) % Math.min(choix.length, (t[s.theme] || []).length || choix.length)] : t._[0];
-    s.image = banque[k].url; s.legende = banque[k].legende + " (illustration)"; s.illustration = true;
-    prises.add(s.image);
-  }
+  // Contrôle de qualité : une photo Commons trop petite (originale < 1000 px de large) est retirée.
+  // Pas d'illustration de remplissage : un sujet sans photo vérifiée s'affiche sans image.
+  for (const s of data.sujets) if (s.image && !(await assezGrande(s.image))) { s.image = null; s.legende = null; delete s.credit; }
   // Quiz « Vrai ou faux » inscrit par la routine dans l'édition : <!-- QUIZ {"affirmation","reponse","explication"} -->
   const qz = html.match(/<!-- QUIZ (\{[\s\S]*?\}) -->/);
   if (qz) { try { data.quiz = JSON.parse(qz[1]); } catch { /* quiz mal formé : ignoré */ } }
   index.push({ rubrique, date, minutes, ...data });
 }
+fs.writeFileSync(fCache, JSON.stringify(cacheImg, null, 1));
 index.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.rubrique.localeCompare(b.rubrique)));
 // Typographie française : la ponctuation haute et les guillemets ne passent jamais seuls à la ligne
 const insecable = (k, v) => (typeof v === "string" && !/^(https?:|\/)/.test(v)

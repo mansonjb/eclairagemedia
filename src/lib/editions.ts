@@ -1,9 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import indexData from "../../content/index.json";
+import titresCourts from "../../content/titres-courts.json";
 
 export type Sujet = {
-  n: number; theme: string; titre: string; image: string | null; legende: string | null;
+  n: number; theme: string; titre: string; court?: string | null; image: string | null; legende: string | null;
   chapeau: string | null; eclairage: string | null; change: string | null; chiffres: { valeur: string; legende: string }[];
   passe: string | null; points: string[]; credit?: { auteur: string; licence: string; licence_url: string; page: string }; explication?: string | null; chronologie?: { quand: string; texte: string }[]; apres: string | null; sources: { url: string; nom: string }[];
   cartes: { fond: string; couleur: string; parti: string; qui: string; contexte: string | null; texte: string; url: string; source: string }[];
@@ -141,6 +142,14 @@ export function unesDuJour(date: string): { e: Edition; s: Sujet }[] {
   // Moins de trois rubriques publiées : on complète avec les sujets suivants des éditions du jour
   const suite = eds.flatMap((e) => e.sujets.slice(1).map((s) => ({ e, s }))).sort((a, b) => a.s.n - b.s.n);
   return [...unes, ...suite].slice(0, 3);
+}
+
+// Titre court (onglets, cartes) : fourni par la routine, sinon saisi à la main, sinon la partie avant « : »
+export function titreCourt(e: { rubrique: string; date: string }, s: Sujet) {
+  const t = s.court || (titresCourts as Record<string, string>)[`${e.rubrique}-${e.date}-${s.n}`];
+  if (t) return t;
+  const [a, b] = s.titre.split(" : ");
+  return s.titre.length <= 60 ? s.titre : b && a.length <= 30 ? `${a} : ${b.split(" ").slice(0, 5).join(" ")}…` : s.titre.split(" ").slice(0, 7).join(" ") + "…";
 }
 
 // Lien vers la page d'un sujet

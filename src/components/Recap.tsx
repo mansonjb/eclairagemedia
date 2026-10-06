@@ -17,7 +17,7 @@ export default function Recap({ jours }: { jours: string[] }) {
               const { jour, mois } = jourMois(e.date);
               return (
                 <Link key={e.date} href={`/${r}/${e.date}`} className="carte grid gap-4 p-3 transition hover:-translate-y-0.5 sm:grid-cols-[200px_64px_1fr] sm:items-center">
-                  {e.sujets[0] && <Visuel s={e.sujets[0]} className="hidden aspect-[16/10] sm:block" />}
+                  {e.sujets[0]?.image && <Visuel s={e.sujets[0]} credit={false} className="hidden aspect-[16/10] sm:block" />}
                   <TuileDate jour={jour} mois={mois} couleur={R.couleur} fond={R.fond} />
                   <ul className="space-y-1.5 px-2 pb-2 sm:p-0">
                     {e.sujets.map((s, i) => (
