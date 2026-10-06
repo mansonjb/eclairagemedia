@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "sondage": {
   "methode": "moyenne",
   "nb": 8,
@@ -61,7 +61,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 144185807.89973798,
+ "polymarket_volume": 144998162.85968798,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -81,23 +81,23 @@
     "d": -0.1
    },
    "attention": {
-    "v": 57.9,
-    "d": 18,
+    "v": 58.6,
+    "d": 18.2,
     "parts": {
-     "Wikipedia": 5.5,
+     "Wikipedia": 5.2,
      "réseaux": 15.9,
      "citations": 31.2,
-     "abonnés": 8.8,
-     "YouTube": 2.1
+     "abonnés": 9.6,
+     "YouTube": 2.4
     }
    },
    "polymarket": {
-    "v": 44.9,
-    "d": 5.4,
-    "d24": -0.7,
-    "d30": 9,
-    "vol": 3083475,
-    "vol7": 353238,
+    "v": 42.5,
+    "d": 3.1,
+    "d24": -2.3,
+    "d30": 6.9,
+    "vol": 3322597,
+    "vol7": 567505,
     "haut": 45.7,
     "bas": 34.1
    },
@@ -225,7 +225,7 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 58
+    "attention": 59
    },
    "score": 92,
    "rangs": {
@@ -247,22 +247,22 @@
    },
    "attention": {
     "v": 100,
-    "d": 3.8,
+    "d": 1,
     "parts": {
-     "Wikipedia": 12,
+     "Wikipedia": 11.5,
      "réseaux": 41.2,
      "citations": 18.8,
-     "abonnés": 14.2,
-     "YouTube": 46.5
+     "abonnés": 13.9,
+     "YouTube": 46.4
     }
    },
    "polymarket": {
-    "v": 11.5,
-    "d": -1,
-    "d24": -1,
-    "d30": -1,
-    "vol": 1872815,
-    "vol7": 227612,
+    "v": 12.5,
+    "d": -3,
+    "d24": 1,
+    "d30": null,
+    "vol": 1885401,
+    "vol7": 193326,
     "haut": 15.5,
     "bas": 11.5
    },
@@ -459,13 +459,13 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 26,
+    "polymarket": 29,
     "attention": 100
    },
-   "score": 52,
+   "score": 53,
    "rangs": {
     "sondage": 3,
-    "polymarket": 3
+    "polymarket": 4
    }
   },
   {
@@ -481,10 +481,10 @@
     "d": -0.5
    },
    "attention": {
-    "v": 16.8,
+    "v": 17.2,
     "d": 5.6,
     "parts": {
-     "Wikipedia": 6.6,
+     "Wikipedia": 7,
      "réseaux": 1.2,
      "citations": 10.4,
      "abonnés": 0.9,
@@ -492,12 +492,12 @@
     }
    },
    "polymarket": {
-    "v": 18.5,
+    "v": 17.5,
     "d": -2,
-    "d24": 1,
-    "d30": -8,
-    "vol": 1927786,
-    "vol7": 179250,
+    "d24": -0.5,
+    "d30": -13,
+    "vol": 1945291,
+    "vol7": 153464,
     "haut": 30.5,
     "bas": 17.5
    },
@@ -646,23 +646,23 @@
     "d": -0.1
    },
    "attention": {
-    "v": 21.5,
-    "d": 0,
+    "v": 22.1,
+    "d": 0.3,
     "parts": {
-     "Wikipedia": 3.8,
+     "Wikipedia": 4.2,
      "réseaux": 8.2,
      "citations": 8.9,
-     "abonnés": 1,
-     "YouTube": 0.4
+     "abonnés": 1.3,
+     "YouTube": 0.5
     }
    },
    "polymarket": {
     "v": 2.1,
     "d": 0.1,
     "d24": null,
-    "d30": -1,
-    "vol": 2630150,
-    "vol7": 166692,
+    "d30": -0.9,
+    "vol": 2642604,
+    "vol7": 159262,
     "haut": 3.1,
     "bas": 1.2
    },
@@ -825,23 +825,23 @@
     "d": -1.7
    },
    "attention": {
-    "v": 19.5,
-    "d": -8.9,
+    "v": 20.6,
+    "d": -7.7,
     "parts": {
-     "Wikipedia": 12.4,
+     "Wikipedia": 13.7,
      "réseaux": 0.6,
      "citations": 9.6,
-     "abonnés": 0.4,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 1.5,
-    "d": -0.6,
-    "d24": 0.1,
-    "d30": -1,
-    "vol": 2044348,
-    "vol7": 160086,
+    "d": -0.4,
+    "d24": null,
+    "d30": -0.7,
+    "vol": 2047627,
+    "vol7": 145844,
     "haut": 2.5,
     "bas": 1.4
    },
@@ -982,10 +982,10 @@
    },
    "composantes": {
     "sondage": 31,
-    "polymarket": 3,
-    "attention": 20
+    "polymarket": 4,
+    "attention": 21
    },
-   "score": 20,
+   "score": 21,
    "rangs": {
     "sondage": 5,
     "polymarket": 7
@@ -1001,24 +1001,24 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 57.7,
-    "d": 10.2,
+    "v": 58.1,
+    "d": 6.6,
     "parts": {
-     "Wikipedia": 21.2,
+     "Wikipedia": 22.3,
      "réseaux": 11.5,
      "citations": 1.5,
-     "abonnés": 44.3,
-     "YouTube": 4.5
+     "abonnés": 43.3,
+     "YouTube": 3.9
     }
    },
    "polymarket": {
-    "v": 10.8,
-    "d": 2.6,
-    "d24": -0.6,
-    "d30": 7.6,
-    "vol": 3694413,
-    "vol7": 1140221,
-    "haut": 11.4,
+    "v": 13.2,
+    "d": 5.5,
+    "d24": 2.6,
+    "d30": 11.9,
+    "vol": 3887643,
+    "vol7": 1311145,
+    "haut": 13.2,
     "bas": 1.4
    },
    "declarations": [],
@@ -1123,12 +1123,12 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 24,
+    "polymarket": 31,
     "attention": 58
    },
-   "score": 19,
+   "score": 21,
    "rangs": {
-    "polymarket": 4
+    "polymarket": 3
    }
   },
   {
@@ -1144,23 +1144,23 @@
     "d": 0.5
    },
    "attention": {
-    "v": 19,
-    "d": 7.3,
+    "v": 19.2,
+    "d": 6.8,
     "parts": {
      "Wikipedia": 3.6,
      "réseaux": 6,
      "citations": 8.5,
-     "abonnés": 2.3,
+     "abonnés": 2.4,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.1,
-    "d": -0.8,
-    "d24": -0.4,
-    "d30": -0.6,
-    "vol": 2586345,
-    "vol7": 205805,
+    "v": 1.2,
+    "d": -0.3,
+    "d24": -0.1,
+    "d30": -0.1,
+    "vol": 2588823,
+    "vol7": 182158,
     "haut": 2.5,
     "bas": 1.1
    },
@@ -1272,7 +1272,7 @@
    },
    "composantes": {
     "sondage": 25,
-    "polymarket": 2,
+    "polymarket": 3,
     "attention": 19
    },
    "score": 17,
@@ -1291,21 +1291,21 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 81.5,
-    "d": -6.5,
+    "v": 81.9,
+    "d": -10.5,
     "parts": {
-     "Wikipedia": 15.8,
-     "abonnés": 15.5,
-     "YouTube": 41.5
+     "Wikipedia": 15.7,
+     "abonnés": 15.6,
+     "YouTube": 41.3
     }
    },
    "polymarket": {
     "v": 0.9,
     "d": 0,
-    "d24": null,
+    "d24": -0.1,
     "d30": null,
-    "vol": 2378249,
-    "vol7": 178699,
+    "vol": 2391431,
+    "vol7": 177679,
     "haut": 1.7,
     "bas": 0.9
    },
@@ -1335,23 +1335,23 @@
     "d": -2.4
    },
    "attention": {
-    "v": 9.1,
-    "d": 0.8,
+    "v": 9.4,
+    "d": 0.9,
     "parts": {
-     "Wikipedia": 2.7,
+     "Wikipedia": 2.9,
      "réseaux": 1.7,
      "citations": 3.2,
-     "abonnés": 3.4,
+     "abonnés": 3.6,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 4.3,
-    "d": -1.2,
-    "d24": 0.8,
-    "d30": 0.7,
-    "vol": 2220660,
-    "vol7": 185132,
+    "v": 5.1,
+    "d": -0.1,
+    "d24": 1.5,
+    "d30": 2.1,
+    "vol": 2223542,
+    "vol7": 164974,
     "haut": 6.3,
     "bas": 2.8
    },
@@ -1463,7 +1463,7 @@
    },
    "composantes": {
     "sondage": 20,
-    "polymarket": 10,
+    "polymarket": 12,
     "attention": 9
    },
    "score": 15,
@@ -1485,23 +1485,23 @@
     "d": 0.8
    },
    "attention": {
-    "v": 16,
-    "d": -0.5,
+    "v": 16.2,
+    "d": -1.1,
     "parts": {
-     "Wikipedia": 5.2,
+     "Wikipedia": 5.1,
      "réseaux": 6.1,
      "citations": 1.2,
-     "abonnés": 3.8,
-     "YouTube": 4.4
+     "abonnés": 3.9,
+     "YouTube": 4.8
     }
    },
    "polymarket": {
     "v": 0.9,
     "d": -0.1,
     "d24": null,
-    "d30": 0.5,
-    "vol": 2708915,
-    "vol7": 176187,
+    "d30": 0.6,
+    "vol": 2722579,
+    "vol7": 167652,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -1635,10 +1635,9 @@
     "d": 0.3
    },
    "attention": {
-    "v": 6,
-    "d": -31.3,
+    "v": 4.7,
+    "d": -29.9,
     "parts": {
-     "Wikipedia": 2.9,
      "réseaux": 2.2,
      "citations": 1,
      "abonnés": 0.6,
@@ -1649,13 +1648,27 @@
     "v": 0.1,
     "d": null,
     "d24": null,
-    "d30": null,
-    "vol": 4379262,
-    "vol7": 132981,
+    "d30": 0.1,
+    "vol": 4393082,
+    "vol7": 124564,
     "haut": null,
     "bas": null
    },
    "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "candidate écologiste à la présidentielle",
+     "texte": "Elle qualifie de « une faute politique grave » l'absence, selon elle, de consigne de retenue du ministre de l'Intérieur aux policiers.",
+     "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+     "source": "LCP",
+     "date": "2026-10-06",
+     "rubrique": "politique",
+     "sujet": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens",
+     "href": "/politique/2026-10-06/1"
+    },
     {
      "fond": "#e2f7e9",
      "couleur": "#1f9d55",
@@ -1671,7 +1684,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 1,
+   "nbDeclarations": 2,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -1779,7 +1792,7 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
-    "attention": 6
+    "attention": 5
    },
    "score": 7,
    "rangs": {
@@ -1800,13 +1813,13 @@
     "d": -0.2
    },
    "attention": {
-    "v": 5.3,
-    "d": 0.8,
+    "v": 5.5,
+    "d": 1.2,
     "parts": {
-     "Wikipedia": 1.2,
+     "Wikipedia": 1.3,
      "réseaux": 1.5,
      "citations": 1.5,
-     "abonnés": 2.2,
+     "abonnés": 2.4,
      "YouTube": 0
     }
    },
@@ -1826,6 +1839,20 @@
      "couleur": "#b0001e",
      "parti": "PCF",
      "qui": "Fabien Roussel",
+     "contexte": "candidat communiste à la présidentielle",
+     "texte": "« Laurent Nuñez doit répondre de ses choix politiques »",
+     "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+     "source": "LCP",
+     "date": "2026-10-06",
+     "rubrique": "politique",
+     "sujet": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens",
+     "href": "/politique/2026-10-06/1"
+    },
+    {
+     "fond": "#ffe6e9",
+     "couleur": "#b0001e",
+     "parti": "PCF",
+     "qui": "Fabien Roussel",
      "contexte": "secrétaire national",
      "texte": "« Les enfants spirituels de Le Pen ne changeront jamais. »",
      "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
@@ -1836,7 +1863,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 1,
+   "nbDeclarations": 2,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/fabien-roussel/",
     "phase": {
@@ -1944,7 +1971,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
    "score": 5,
    "rangs": {
@@ -1965,23 +1992,23 @@
     "d": -1
    },
    "attention": {
-    "v": 6.6,
-    "d": -4,
+    "v": 6.5,
+    "d": -4.2,
     "parts": {
-     "Wikipedia": 3.5,
+     "Wikipedia": 3.7,
      "réseaux": 0.2,
      "citations": 2.7,
-     "abonnés": 1.8,
+     "abonnés": 1.3,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 0.5,
     "d": 0.1,
-    "d24": 0.2,
+    "d24": 0.3,
     "d30": -0.9,
-    "vol": 2224230,
-    "vol7": 149377,
+    "vol": 2239880,
+    "vol7": 147851,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -2127,14 +2154,14 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 7.9,
+    "v": 8.1,
     "d": 1,
     "parts": {
      "Wikipedia": 2.9,
      "réseaux": 3.8,
      "citations": 0.9,
-     "abonnés": 0.6,
-     "YouTube": 0.6
+     "abonnés": 0.7,
+     "YouTube": 0.7
     }
    },
    "polymarket": {
@@ -2142,8 +2169,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4560296,
-    "vol7": 216891,
+    "vol": 4574129,
+    "vol7": 208524,
     "haut": null,
     "bas": null
    },
@@ -2273,10 +2300,10 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.1,
+    "v": 1.2,
     "d": 0.1,
     "parts": {
-     "Wikipedia": 0.7,
+     "Wikipedia": 0.8,
      "réseaux": 0,
      "citations": 0.6,
      "abonnés": 0,
@@ -2288,8 +2315,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 6152576,
-    "vol7": 4337,
+    "vol": 6153588,
+    "vol7": 2011,
     "haut": null,
     "bas": null
    },
@@ -2439,6 +2466,43 @@
     "Gabriel Attal": 2.1,
     "Raphaël Glucksmann": 1.5,
     "Bruno Retailleau": 1.1,
+    "Éric Zemmour": 0.9,
+    "Sarah Knafo": 0.9,
+    "Dominique de Villepin": 0.5,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 81.9,
+    "Marine Le Pen": 58.6,
+    "David Lisnard": 58.1,
+    "Gabriel Attal": 22.1,
+    "Raphaël Glucksmann": 20.6,
+    "Bruno Retailleau": 19.2,
+    "Édouard Philippe": 17.2,
+    "Éric Zemmour": 16.2,
+    "François Hollande": 9.4,
+    "François Ruffin": 8.1,
+    "Dominique de Villepin": 6.5,
+    "Fabien Roussel": 5.5,
+    "Marine Tondelier": 4.7,
+    "Xavier Bertrand": 1.2
+   },
+   "polymarket": {
+    "Marine Le Pen": 42.5,
+    "Édouard Philippe": 17.5,
+    "David Lisnard": 13.2,
+    "Jean-Luc Mélenchon": 12.5,
+    "François Hollande": 5.1,
+    "Gabriel Attal": 2.1,
+    "Raphaël Glucksmann": 1.5,
+    "Bruno Retailleau": 1.2,
     "Éric Zemmour": 0.9,
     "Sarah Knafo": 0.9,
     "Dominique de Villepin": 0.5,

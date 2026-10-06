@@ -1,5 +1,429 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-06",
+  "minutes": 15,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ly%C3%A7%C3%A9e_Auguste_B%C3%A9hal_de_Lens_Entr%C3%A9e_Principale.jpg/1280px-Ly%C3%A7%C3%A9e_Auguste_B%C3%A9hal_de_Lens_Entr%C3%A9e_Principale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Lycée Auguste Béhal de Lens, entrée principale",
+    "chapeau": "Lundi 5 octobre, vers 10 heures, un lycéen de 15 ans, scolarisé en seconde bac pro au lycée Auguste-Béhal de Lens (Pas-de-Calais), a eu la main arrachée par une grenade lors d'une manifestation, à quelques centaines de mètres de l'établissement, selon le procureur de Béthune. Étienne Thieffry a dit ne pas être « en…",
+    "eclairage": "Qui enquête, et qui décide du maintien de l'ordre ?",
+    "chiffres": [
+     {
+      "valeur": "15 ans",
+      "legende": "âge du lycéen blessé à Lens"
+     },
+     {
+      "valeur": "589",
+      "legende": "établissements perturbés lundi"
+     },
+     {
+      "valeur": "6 oct.",
+      "legende": "« acte III » de mobilisation"
+     }
+    ],
+    "passe": "Lundi 5 octobre, vers 10 heures, un lycéen de 15 ans, scolarisé en seconde bac pro au lycée Auguste-Béhal de Lens (Pas-de-Calais), a eu la main arrachée par une grenade lors d'une manifestation, à quelques centaines de mètres de l'établissement, selon le procureur de Béthune. Étienne Thieffry a dit ne pas être « en mesure de dire formellement si le lycéen a ramassé la grenade ou si elle a été jetée sur lui » ; une enquête de l'Inspection générale de la police nationale (IGPN) a été ouverte. Le préfet du Pas-de-Calais, François-Xavier Lauch, a décrit un rassemblement de « 200, 250 lycéens » qui ont lancé des pierres, des feux d'artifice et des mortiers sur les policiers, face auxquels une compagnie de CRS avait été déployée ; une lycéenne présente citée par ICI affirme que le garçon « l'a reçue sur sa main ». Selon le ministre de l'Éducation nationale Édouard Geffray, 589 établissements étaient perturbés lundi, contre « presque 800 » vendredi. Depuis le début du mouvement, 190 élèves (chiffre du ministre) à 215 élèves (chiffre de Matignon) ont été blessés, ainsi que 85 personnels éducatifs selon Matignon. Une journée nationale de mobilisation, l'« acte III », est prévue mardi 6 octobre avec des syndicats.",
+    "points": [],
+    "explication": "L'IGPN (Inspection générale de la police nationale, surnommée « police des polices ») enquête sur les agissements de policiers. Ici, le procureur de la République de Béthune l'a saisie d'un délit de « violence ayant entraîné une mutilation, une infirmité permanente ». La doctrine de maintien de l'ordre relève du ministre de l'Intérieur, Laurent Nuñez, et non du ministre de l'Éducation, qui a rappelé que cela ne rentrait pas dans ses attributions. C'est pourquoi plusieurs responsables de gauche s'adressent à l'Intérieur. À ce stade, aucune responsabilité n'est établie : l'enquête doit déterminer les circonstances.",
+    "chronologie": [
+     {
+      "quand": "4 OCT.",
+      "texte": "Lettre du Premier ministre à sept ministres (« cinq chantiers »)."
+     },
+     {
+      "quand": "5 OCT.",
+      "texte": "Blessure d'un lycéen à Lens ; enquête de l'IGPN ouverte."
+     },
+     {
+      "quand": "6 OCT.",
+      "texte": "« Acte III » : mobilisation nationale avec des syndicats."
+     },
+     {
+      "quand": "16 OCT.",
+      "texte": "Premier bilan attendu sur le remplacement des enseignants absents."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-de-15-ans-a-eu-la-main-arrachee-par-une-grenade-a-lens-une-enquete-de-l-igpn-ouverte-annonce-le-procureur-de-bethune_8223337.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/lens/blocage-des-lycees-un-eleve-d-un-lycee-de-lens-perd-une-main-arrachee-par-une-grenade-7395868",
+      "nom": "ICI (Radio France)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/mobilisations-lyceennes-un-jeune-gravement-blesse-a-la-veille-d-un-acte-iii-mardi-479e0986e4f4b0f270fcbd372c3b99b8",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale, lundi 5 octobre",
+      "texte": "Il parle d'un cas « personnellement et humainement dramatique ».",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur national de LFI",
+      "texte": "« Honte à ceux qui ont choisi la répression de nos enfants plutôt que l’écoute et le dialogue »",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "candidate écologiste à la présidentielle",
+      "texte": "Elle qualifie de « une faute politique grave » l'absence, selon elle, de consigne de retenue du ministre de l'Intérieur aux policiers.",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Fabien Roussel",
+      "contexte": "candidat communiste à la présidentielle",
+      "texte": "« Laurent Nuñez doit répondre de ses choix politiques »",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Olivier Faure",
+      "contexte": "candidat à la primaire sociale-démocrate",
+      "texte": "« Le gouvernement doit immédiatement revoir sa doctrine de maintien de l’ordre »",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Agnès Pannier-Runacher",
+      "contexte": "députée Ensemble pour la République",
+      "texte": "« Toute la lumière devra être faite sur les circonstances de ce drame. »",
+      "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Mardi 6 octobre : « acte III » de la mobilisation ; 16 octobre : premier bilan sur les remplacements ; avant fin octobre : premières décisions du gouvernement.",
+    "change": "L'enquête de l'IGPN doit établir comment la grenade a blessé le lycéen. Dans le même temps, le gouvernement poursuit deux dossiers : les mesures sur les moyens des lycées et le projet de loi dit « casseurs-payeurs », dont l'examen au Sénat est annoncé pour la…",
+    "credit": {
+     "auteur": "ChrisDelcuse",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ly%C3%A7%C3%A9e_Auguste_B%C3%A9hal_de_Lens_Entr%C3%A9e_Principale.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "INSTITUTIONS",
+    "titre": "Sénat : les Républicains restent premiers, l'UCI passe deuxième, le RN a son groupe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Matignon_gala.jpg/960px-Matignon_gala.jpg",
+    "legende": "L'hôtel de Matignon (illustration)",
+    "chapeau": "Lundi 5 octobre, une semaine après le renouvellement partiel du Sénat du 27 septembre, les effectifs des groupes politiques ont été arrêtés. Selon la liste du Sénat, Les Républicains comptent 124 sénateurs sur 348, soit sept de moins qu'avant le scrutin, et gardent la première place.",
+    "eclairage": "À quoi sert un groupe politique au Sénat ?",
+    "chiffres": [
+     {
+      "valeur": "124",
+      "legende": "sénateurs LR, premier groupe"
+     },
+     {
+      "valeur": "63 / 62",
+      "legende": "UCI devant le groupe socialiste"
+     },
+     {
+      "valeur": "15",
+      "legende": "membres du groupe RN-UDR (UNT)"
+     }
+    ],
+    "passe": "Lundi 5 octobre, une semaine après le renouvellement partiel du Sénat du 27 septembre, les effectifs des groupes politiques ont été arrêtés. Selon la liste du Sénat, Les Républicains comptent 124 sénateurs sur 348, soit sept de moins qu'avant le scrutin, et gardent la première place. Le groupe Union centriste et indépendants (UCI), présidé par Hervé Marseille, passe à 63 membres (quatre de plus) et devient deuxième groupe devant le groupe socialiste (62, contre 64 avant le scrutin). Le Rassemblement national et ses alliés de l'Union des droites pour la République (UDR) forment pour la première fois un groupe, l'Union nationale pour les territoires (UNT), présidé par Edwige Diaz et composé de 12 élus RN et de 3 élus UDR. Le groupe Les Indépendants passe de 20 à 15 membres. Deux sénateurs ne figurent sur la liste d'aucun groupe.",
+    "points": [],
+    "explication": "Un groupe politique exige au moins 10 membres. Il ouvre droit à du temps de parole, à des places dans les commissions et à des moyens. Sa taille compte aussi pour la répartition des postes du Bureau du Sénat (8 vice-présidents, 3 questeurs, 14 secrétaires) et pour le nombre de questions d'actualité au gouvernement : l'UCI devrait en gagner une de plus, aux dépens des socialistes, selon Public Sénat. La majorité absolue est de 175 sièges sur 348 ; LR et l'UCI conservent la majorité sénatoriale. Le RN a franchi le seuil des dix élus lors du scrutin du 27 septembre.",
+    "chronologie": [
+     {
+      "quand": "27 SEPT.",
+      "texte": "Renouvellement partiel du Sénat."
+     },
+     {
+      "quand": "5 OCT.",
+      "texte": "Publication des effectifs des groupes ; création du groupe UNT."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.senat.fr/senateurs/grp.html",
+      "nom": "senat.fr"
+     },
+     {
+      "url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/senatoriales-2027-le-groupe-union-centriste-et-independants-devient-le-deuxieme-groupe-du-senat-devant-les-socialistes",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html",
+      "nom": "franceinfo (RN)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Joshua Hochart",
+      "contexte": "sénateur RN, sur Public Sénat",
+      "texte": "Il promet des « sénateurs respectueux de l’institution » : même attitude que les députés RN.",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-nouveau-groupe-rn-udr-sappelle-union-nationale-pour-les-territoires-annonce-joshua-hochart",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "À suivre : la répartition des postes du Bureau du Sénat, qui dépend du poids des groupes.",
+    "change": "La répartition des postes du Bureau et des vice-présidences suit le poids des groupes : l'ordre des groupes au Sénat est modifié. Rien ne change pour la majorité sénatoriale, qui reste celle de LR et de l'UCI.",
+    "illustration": true
+   },
+   {
+    "n": 3,
+    "theme": "ÉLECTIONS",
+    "titre": "Primaire de la gauche : 140 282 inscrits avant le premier tour",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wooden_ballot_box_-_Smithsonian.jpg/960px-Wooden_ballot_box_-_Smithsonian.jpg",
+    "legende": "Une urne électorale (illustration)",
+    "chapeau": "La commission d'organisation de la primaire de la gauche sociale-démocrate a annoncé, dans la nuit du lundi 5 au mardi 6 octobre, le chiffre définitif des inscrits après la clôture des inscriptions à minuit : 140 282 personnes pourront voter. Lundi soir, elle avait communiqué un chiffre provisoire d'environ 128 000…",
+    "eclairage": "Comment vote-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "140 282",
+      "legende": "inscrits définitifs"
+     }
+    ],
+    "passe": "La commission d'organisation de la primaire de la gauche sociale-démocrate a annoncé, dans la nuit du lundi 5 au mardi 6 octobre, le chiffre définitif des inscrits après la clôture des inscriptions à minuit : 140 282 personnes pourront voter. Lundi soir, elle avait communiqué un chiffre provisoire d'environ 128 000 inscrits (127 986). Les électeurs sont des militants du Parti socialiste, de Place publique ou de la Gauche républicaine et socialiste (GRS), ou des personnes ayant adhéré directement sur la plateforme choisir2027.fr contre 15 euros d'inscription. Cinq candidats sont en lice : Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj. Le premier tour a lieu les 9 et 10 octobre, avec un second tour prévu les 16 et 17 octobre si nécessaire.",
+    "points": [],
+    "explication": "Cette primaire désigne le candidat de la gauche sociale-démocrate à la présidentielle de 2027. Elle est organisée par le PS, Place publique et la GRS. Le vote se fait en ligne. Il faut être inscrit avant la clôture : être militant de l'une de ces formations, ou adhérer directement sur la plateforme en s'acquittant de 15 euros. Un second tour a lieu si aucun candidat n'est désigné au premier. Jean-Luc Mélenchon n'y participe pas : il est le candidat de La France insoumise.",
+    "chronologie": [
+     {
+      "quand": "5 OCT.",
+      "texte": "Clôture des inscriptions à minuit."
+     },
+     {
+      "quand": "9-10 OCT.",
+      "texte": "Premier tour."
+     },
+     {
+      "quand": "16-17 OCT.",
+      "texte": "Second tour, si nécessaire."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.france24.com/fr/info-en-continu/20261005-la-primaire-de-la-gauche-sociale-d%C3%A9mocrate-plus-proche-d-un-congr%C3%A8s-du-ps-que-de-2027",
+      "nom": "avec AFP via France 24"
+     },
+     {
+      "url": "https://www.ici.fr/infos/politique/presidentielle-pres-de-128-000-electeurs-sont-inscrits-pour-voter-a-la-primaire-socialiste-2524609",
+      "nom": "ICI (Radio France)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PRIMAIRE",
+      "qui": "Patrick Mennucci",
+      "contexte": "président de la commission d'organisation",
+      "texte": "« Ces dizaines de milliers de citoyens sont la garantie de l'unité autour du vainqueur de cette désignation »",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Premier tour les 9 et 10 octobre ; second tour les 16 et 17 octobre si nécessaire.",
+    "change": "Le chiffre fixe le corps électoral du premier tour : seuls les inscrits à la clôture pourront voter, en ligne.",
+    "illustration": true
+   },
+   {
+    "n": 4,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Canicule : une mission de l'Assemblée chiffre à environ 16 milliards d'euros le coût de l'été 2026",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Drought_-_France_%28P-058733-00-03%29.jpg/1280px-Drought_-_France_%28P-058733-00-03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Drought - France (arbre dans une région sèche près de Lyon)",
+    "chapeau": "Lundi 5 octobre, le député LFI Éric Coquerel, président de la commission des finances de l'Assemblée nationale et rapporteur d'une mission flash sur « le coût de la canicule », a présenté ses conclusions à la commission. Le rapport évoque une « estimation provisoire du coût des fortes températures et de la sécheresse…",
+    "eclairage": "Qu'est-ce qu'une mission flash ?",
+    "chiffres": [
+     {
+      "valeur": "16 Md€",
+      "legende": "coût estimé (provisoire)"
+     },
+     {
+      "valeur": "0,1 pt",
+      "legende": "de PIB perdu (soit ~3 Md€)"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "pertes agricoles, au minimum"
+     }
+    ],
+    "passe": "Lundi 5 octobre, le député LFI Éric Coquerel, président de la commission des finances de l'Assemblée nationale et rapporteur d'une mission flash sur « le coût de la canicule », a présenté ses conclusions à la commission. Le rapport évoque une « estimation provisoire du coût des fortes températures et de la sécheresse de l'été 2026 de l'ordre de 16 milliards d'euros », fondée sur 34 auditions et 22 contributions écrites. Il distingue notamment environ 3 milliards d'euros de perte de croissance (0,1 point de PIB), au moins 2,5 milliards d'euros de dépenses publiques imprévues (dont 1,3 milliard d'aides aux agriculteurs) et plus d'un milliard d'euros pour les ménages ; pour les entreprises, seules les pertes estimées par les syndicats agricoles ont pu être recensées, au moins 10 milliards d'euros. Le rapporteur reconnaît des « réserves méthodologiques » : le chiffre additionne des coûts de nature différente, avec un risque de double compte. Cette estimation dépasse la fourchette avancée mi-août par la ministre de la Transition écologique Monique Barbut (10 à 15 milliards d'euros).",
+    "points": [],
+    "explication": "C'est une mission d'information courte créée par une commission de l'Assemblée, ici la commission des finances. Elle évalue le coût actuel et futur des épisodes de chaleur extrême et celui des mesures de prévention et d'adaptation, pour éclairer la préparation du budget 2027. Ses conclusions prennent la forme d'une communication devant la commission : ce n'est pas un texte de loi et rien n'est voté. Le rapporteur juge « nécessaire » d'engager entre 8,75 et 12,3 milliards d'euros de dépenses publiques supplémentaires en 2027, dont 8,4 à 11,9 milliards pour le budget de l'État.",
+    "chronologie": [
+     {
+      "quand": "MI-AOÛT",
+      "texte": "Fourchette de la ministre : 10 à 15 milliards d'euros."
+     },
+     {
+      "quand": "FIN AOÛT",
+      "texte": "Lancement de la mission flash."
+     },
+     {
+      "quand": "5 OCT.",
+      "texte": "Présentation des conclusions à la commission des finances."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/les-canicules-et-les-incendies-de-cet-ete-ont-coute-au-moins-16-milliards-d-euros-selon",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicules-secheresse-incendies-l-ete-2026-a-coute-16-milliards-d-euros-selon-les-calculs-d-une-mission-parlementaire_8223526.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/missions-info-commission/mi_cout_canicule",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Éric Coquerel",
+      "contexte": "député LFI, rapporteur de la mission",
+      "texte": "Il juge qu'il « est nécessaire d'engager entre 8,75 et 12,3 milliards d'euros des dépenses publiques supplémentaires » en 2027.",
+      "url": "https://lcp.fr/actualites/les-canicules-et-les-incendies-de-cet-ete-ont-coute-au-moins-16-milliards-d-euros-selon",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Monique Barbut",
+      "contexte": "ministre de la Transition écologique, mi-août",
+      "texte": "Elle évoquait « de l'ordre de 10 à 15 milliards d'euros de coûts directs et indirects ».",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicules-secheresse-incendies-l-ete-2026-a-coute-16-milliards-d-euros-selon-les-calculs-d-une-mission-parlementaire_8223526.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "PT",
+      "qui": "Lula",
+      "contexte": "président sortant, dimanche 4 octobre",
+      "texte": "« Le match va commencer. Nous sommes dans les prolongations, et c'est là que nous allons convaincre le peuple brésilien »",
+      "url": "https://www.franceinfo.fr/monde/bresil/presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour_8222773.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PL",
+      "qui": "Flavio Bolsonaro",
+      "contexte": "sénateur, candidat, dimanche 4 octobre",
+      "texte": "Il remercie ses électeurs de lui avoir donné « un vote de confiance pour le changement ».",
+      "url": "https://www.franceinfo.fr/monde/bresil/presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour_8222773.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Commission des finances de l'Assemblée sur le budget 2027 à partir du 7 octobre ; séance publique à partir du 13 octobre.",
+    "change": "Le chiffre est une estimation provisoire, avec des réserves de méthode. Il sert de base aux discussions sur d'éventuelles dépenses d'adaptation dans le budget 2027, qui n'est pas voté.",
+    "credit": {
+     "auteur": "Commission européenne, service audiovisuel (Olivier Chassignole)",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Drought_-_France_(P-058733-00-03).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "6",
+    "mois": "OCT.",
+    "texte": "« Acte III » lycéen : journée de mobilisation avec des syndicats ; réunion du Premier ministre avec les présidents de région."
+   },
+   {
+    "jour": "7",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début des travaux de la commission des finances de l'Assemblée."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début de l'examen en séance à l'Assemblée."
+   },
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Brésil : second tour de la présidentielle, Flavio Bolsonaro face à Lula."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "IGPN",
+    "definition": "Inspection générale de la police nationale, le service qui enquête sur les agissements de policiers."
+   },
+   {
+    "terme": "Groupe politique",
+    "definition": "Regroupement d'élus d'une même sensibilité au Parlement ; au Sénat, il faut au moins 10 membres pour en former un."
+   },
+   {
+    "terme": "Mission flash",
+    "definition": "Mission d'information courte d'une commission de l'Assemblée, qui rend ses conclusions en quelques semaines."
+   },
+   {
+    "terme": "Second tour",
+    "definition": "Deuxième vote qui oppose les deux candidats arrivés en tête au premier tour."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Depuis le 5 octobre 2026, le groupe socialiste est le deuxième groupe du Sénat, devant le groupe Union centriste et indépendants (UCI).",
+   "reponse": false,
+   "explication": "Selon la liste officielle du Sénat, l'UCI compte 63 sénateurs et le groupe socialiste 62 : l'UCI passe devant. Les Républicains restent premiers avec 124 sénateurs."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-05",
   "minutes": 13,

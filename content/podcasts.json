@@ -1,6 +1,160 @@
 [
  {
   "rubrique": "politique",
+  "date": "2026-10-06",
+  "url": "/podcasts/politique-2026-10-06.mp3",
+  "taille": 1927149,
+  "duree": 241,
+  "titre": "Éclairage politique, mardi 6 octobre 2026",
+  "titre_episode": "Lycéen blessé à Lens, nouveau Sénat, primaire de la gauche : l'essentiel du mardi 6 octobre",
+  "description": "Ce mardi 6 octobre, Léa et Paul reprennent 4 sujets.\n• Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens, une enquête de l'IGPN est ouverte, et ce que l'on sait des circonstances.\n• Sénat : Les Républicains restent premiers, l'UCI passe deuxième, le RN forme son premier groupe, et à quoi sert un groupe politique.\n• Primaire de la gauche : 140 282 inscrits, qui vote et comment, avant le premier tour des 9 et 10 octobre.\n• Canicule : une mission de l'Assemblée chiffre à environ 16 milliards d'euros le coût de l'été 2026, avec ses réserves de méthode.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "n": 1,
+    "titre": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens"
+   },
+   {
+    "n": 2,
+    "titre": "Sénat : les Républicains restent premiers, l'UCI passe deuxième, le RN a son groupe"
+   },
+   {
+    "n": 3,
+    "titre": "Primaire de la gauche : 140 282 inscrits avant le premier tour"
+   },
+   {
+    "n": 4,
+    "titre": "Canicule : une mission de l'Assemblée chiffre à environ 16 milliards d'euros le coût de l'été 2026"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, la politique expliquée sans prérequis. Nous sommes le mardi 6 octobre. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Quatre sujets ce matin : un lycéen grièvement blessé à Lens, le nouveau visage du Sénat, la primaire de la gauche, et le coût de la canicule de cet été."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par Lens. Paul, que s'est-il passé lundi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vers dix heures, un lycéen de quinze ans, en seconde bac pro au lycée Auguste-Béhal, a eu la main arrachée par une grenade lors d'une manifestation, à quelques centaines de mètres de son établissement. C'est le procureur de Béthune qui l'a annoncé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et on sait comment c'est arrivé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas encore. Le procureur a dit qu'il n'était pas en mesure de dire formellement si le lycéen a ramassé la grenade ou si elle a été jetée sur lui. Le préfet décrit un rassemblement de deux cents à deux cent cinquante lycéens qui ont lancé des pierres, des feux d'artifice et des mortiers sur les policiers, avec une compagnie de CRS déployée. Une lycéenne présente affirme que le garçon l'a reçue sur sa main. Une enquête de l'IGPN a été ouverte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'IGPN, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Inspection générale de la police nationale, qu'on surnomme la police des polices. Elle enquête sur les agissements de policiers. À ce stade, aucune responsabilité n'est établie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté politique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Éducation, Édouard Geffray, parle d'un cas personnellement et humainement dramatique, et veut rester prudent. À gauche, plusieurs responsables demandent des comptes au ministre de l'Intérieur, Laurent Nuñez. C'est lui, et non le ministre de l'Éducation, qui est concerné par la doctrine du maintien de l'ordre. Le socialiste Boris Vallaud demande son audition à l'Assemblée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le mouvement lycéen continue ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Lundi, cinq cent quatre-vingt-neuf établissements étaient perturbés, contre presque huit cents vendredi, selon le ministre. Une nouvelle journée nationale de mobilisation, l'acte trois, est prévue ce mardi, avec des syndicats."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet : le Sénat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une semaine après le renouvellement partiel du vingt-sept septembre, les groupes politiques du Sénat ont été arrêtés lundi. Les Républicains restent premiers, avec cent vingt-quatre sénateurs sur trois cent quarante-huit, soit sept de moins qu'avant le scrutin. Le groupe centriste UCI passe deuxième, avec soixante-trois sénateurs, devant les socialistes, qui en comptent soixante-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un groupe, ça sert à quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il faut au moins dix membres pour en former un. Un groupe donne du temps de parole, des places en commission et des moyens. Sa taille compte aussi pour répartir les postes du Bureau du Sénat. Et la majorité absolue est de cent soixante-quinze sièges : LR et l'UCI la conservent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la nouveauté, c'est le Rassemblement national."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Pour la première fois, le RN a son groupe au Sénat, avec ses alliés de l'UDR, l'Union des droites pour la République. Il s'appelle Union nationale pour les territoires. Quinze membres : douze du RN et trois de l'UDR. Il est présidé par Edwige Diaz. Le sénateur RN Joshua Hochart promet des sénateurs respectueux de l'institution."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Troisième sujet : la primaire de la gauche."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La commission d'organisation a annoncé le chiffre définitif des inscrits : cent quarante mille deux cent quatre-vingt-deux personnes pourront voter. Lundi soir, le chiffre provisoire était d'environ cent vingt-huit mille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui vote, et comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des militants du Parti socialiste, de Place publique ou de la GRS, la Gauche républicaine et socialiste, ou des personnes qui ont adhéré directement sur la plateforme choisir deux mille vingt-sept, pour quinze euros. Le vote se fait en ligne. Cinq candidats sont en lice : Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj. Premier tour les neuf et dix octobre, second tour les seize et dix-sept octobre si nécessaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet : le coût de la canicule."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi, le député LFI Éric Coquerel, président de la commission des finances de l'Assemblée nationale, a présenté les conclusions d'une mission flash. Son estimation provisoire : environ seize milliards d'euros pour la canicule, la sécheresse et les incendies de l'été deux mille vingt-six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça se décompose comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ trois milliards d'euros de perte de croissance, soit zéro virgule un point de PIB. Au moins deux milliards et demi de dépenses publiques imprévues, dont un milliard trois d'aides aux agriculteurs. Et pour les entreprises, seules les pertes estimées par les syndicats agricoles ont été recensées : au moins dix milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le chiffre est solide ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le rapporteur reconnaît lui-même des réserves méthodologiques : le chiffre additionne des coûts de nature différente, avec un risque de double compte. À la mi-août, la ministre de la Transition écologique, Monique Barbut, évoquait dix à quinze milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça débouche sur quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une mission flash rend une communication devant la commission, ce n'est pas une loi. Le rapporteur juge nécessaire d'engager entre huit virgule soixante-quinze et douze virgule trois milliards d'euros de dépenses publiques supplémentaires en deux mille vingt-sept. Rien n'est voté : le budget est à l'étude, avec la commission des finances dès le sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci Paul. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
+  "rubrique": "politique",
   "date": "2026-10-05",
   "url": "/podcasts/politique-2026-10-05.mp3",
   "taille": 1931949,
