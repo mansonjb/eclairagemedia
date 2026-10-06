@@ -1,4 +1,5 @@
 "use client";
+import Portrait from "@/components/Portrait";
 import { useState } from "react";
 import Link from "next/link";
 
@@ -153,11 +154,10 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
       </div>
       <div key={critere} className="apparait grid items-stretch gap-5 md:grid-cols-2 xl:grid-cols-3">
         {liste.map((c, rang) => {
-          const initiales = c.nom.split(/[ -]/).filter((m) => m && m[0] === m[0].toUpperCase()).map((m) => m[0]).slice(0, 2).join("");
           return (
             <article key={c.nom} className="carte flex flex-col gap-4 p-5 sm:p-6">
               <div className="flex items-center gap-3.5">
-                <span className="d flex h-14 w-14 shrink-0 items-center justify-center rounded-[18px] text-[20px] text-white" style={{ backgroundColor: c.couleur }}>{initiales}</span>
+                <Portrait nom={c.nom} couleur={c.couleur} className="h-16 w-16 rounded-[20px]" texte="text-[22px]" />
                 <div className="min-w-0 flex-1">
                   <p className="d truncate text-[22px] leading-tight">{c.nom}</p>
                   <div className="mt-1 flex flex-wrap items-center gap-1.5">

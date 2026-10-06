@@ -1,3 +1,4 @@
+import { CreditsPortraits } from "@/components/Portrait";
 import barometre from "../../../content/barometre.json";
 import Candidats, { type Candidat } from "@/components/dyn/Candidats";
 import Podium from "@/components/Podium";
@@ -54,6 +55,7 @@ export default function Barometre() {
       </div>
       <Candidats candidats={b.candidats} serie={b.serie} />
       <Methode b={b} />
+      <div className="px-2"><CreditsPortraits /></div>
       <p className="px-2 text-[12.5px] text-gris">Sources : instituts de sondage (publications originales), statistiques de consultation Wikimedia, <a href="https://www.saper-vedere.eu/presidentielle/p/presidentielle-candidats/" className="underline">Saper Vedere</a> (engagement et citations), <a href="https://www.qui-sera-president.fr/" className="underline">qui-sera-president.fr</a> (abonnés), API YouTube, Polymarket. Étiquettes revendiquées par les personnalités. Le statut « déclaré » n&apos;est affiché qu&apos;avec une source datée.</p>
     </main>
   );

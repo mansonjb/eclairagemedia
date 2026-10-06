@@ -1,14 +1,14 @@
+import Portrait from "@/components/Portrait";
 import type { Candidat } from "@/components/dyn/Candidats";
 
 const NOMS: Record<string, string> = { sondage: "Sondages", polymarket: "Polymarket", attention: "Attention" };
-const initiales = (n: string) => n.split(/[ -]/).filter((m) => m && m[0] === m[0].toUpperCase()).map((m) => m[0]).slice(0, 2).join("");
 
 // Podium : 2e à gauche, 1er au centre (plus haut), 3e à droite
 export default function Podium({ candidats, poids }: { candidats: Candidat[]; poids: Record<string, number> }) {
   const [p1, p2, p3] = candidats;
   const marche = (c: Candidat | undefined, rang: number, h: string) => c && (
     <div className={`flex flex-col items-center ${rang === 1 ? "order-2" : rang === 2 ? "order-1" : "order-3"}`}>
-      <span className={`d flex items-center justify-center rounded-[22px] text-white shadow-lg ${rang === 1 ? "h-24 w-24 text-[34px]" : "h-20 w-20 text-[28px]"}`} style={{ backgroundColor: c.couleur }}>{initiales(c.nom)}</span>
+      <Portrait nom={c.nom} couleur={c.couleur} className={`rounded-full shadow-lg ${rang === 1 ? "h-28 w-28" : "h-24 w-24"}`} texte={rang === 1 ? "text-[34px]" : "text-[28px]"} />
       <p className={`d mt-3 text-center leading-tight ${rang === 1 ? "text-[24px]" : "text-[19px]"}`}>{c.nom}</p>
       <span className="pastille mt-1.5 text-white" style={{ backgroundColor: c.couleur }}>{c.etiquette}</span>
       {/* marches de couleur unique, seule la hauteur change ; le rang est toujours au même endroit, en bas */}

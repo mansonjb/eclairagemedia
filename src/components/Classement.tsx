@@ -1,3 +1,4 @@
+import Portrait from "@/components/Portrait";
 import type { Candidat } from "@/components/dyn/Candidats";
 
 const MESURES = [
@@ -27,9 +28,12 @@ export default function Classement({ candidats, poids }: { candidats: Candidat[]
         {liste.map((c, rang) => (
           <li key={c.nom} className="grid grid-cols-[22px_minmax(0,1fr)_40px] items-center gap-x-2.5 gap-y-1.5 sm:grid-cols-[26px_13rem_minmax(0,1fr)_44px] sm:gap-x-3">
             <span className="col-start-1 row-start-1 text-right text-[13px] font-extrabold tabular-nums text-gris">{rang + 1}</span>
-            <span className="col-start-2 row-start-1 min-w-0">
-              <span className="block truncate text-[14px] font-extrabold sm:text-[15px]">{c.nom}</span>
-              <span className="block truncate text-[11.5px] font-semibold text-gris">{c.etiquette}</span>
+            <span className="col-start-2 row-start-1 flex min-w-0 items-center gap-2.5">
+              <Portrait nom={c.nom} couleur={c.couleur} className="h-9 w-9 rounded-full" texte="text-[12px]" />
+              <span className="min-w-0">
+                <span className="block truncate text-[14px] font-extrabold sm:text-[15px]">{c.nom}</span>
+                <span className="block truncate text-[11.5px] font-semibold text-gris">{c.etiquette}</span>
+              </span>
             </span>
             <span className="col-span-2 col-start-2 row-start-2 flex h-5 overflow-hidden rounded-full bg-fond sm:col-span-1 sm:col-start-3 sm:row-start-1 sm:h-6" title={`${c.nom} : ${c.score}/100`}>
               <span className="flex h-full" style={{ width: `${(100 * (c.score ?? 0)) / max}%` }}>

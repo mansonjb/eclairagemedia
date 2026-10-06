@@ -1,3 +1,4 @@
+import Portrait from "@/components/Portrait";
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { RUBRIQUES, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
@@ -132,6 +133,7 @@ export default function Journee({ date }: { date: string }) {
               const rang = podium.indexOf(c) + 1;
               return (
                 <div key={c.nom} className="flex flex-col items-center">
+                  <Portrait nom={c.nom} couleur={c.couleur} className={`mb-2.5 rounded-full ${rang === 1 ? "h-20 w-20" : "h-16 w-16"}`} texte="text-[22px]" />
                   <p className="d text-center text-[16px] leading-tight sm:text-[18px]">{c.nom}</p>
                   <span className="pastille mt-1.5 text-white" style={{ backgroundColor: c.couleur }}>{c.etiquette}</span>
                   {/* même style que le podium de la page Baromètre : marches lavande, rang en bas */}
