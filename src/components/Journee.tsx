@@ -1,4 +1,5 @@
 import Portrait, { Orateur } from "@/components/Portrait";
+import { parSondage, pct } from "@/lib/barometre";
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { RUBRIQUES, titreCourt, parDate, chiffresDuJour, lexiqueDuJour, agendaDuJour, quizDuJourListe, unesDuJour, type Edition, type Sujet } from "@/lib/editions";
@@ -84,7 +85,7 @@ export default function Journee({ date }: { date: string }) {
   const citations = eds.flatMap((e) => e.sujets.flatMap((s) => s.cartes.map((c) => ({ ...c, href: `/${e.rubrique}/${e.date}/${s.n}` })))).filter((c) => c.texte.length > 20).slice(0, 3);
   const quizzes = quizDuJourListe(date, 3);
   const quiz = quizzes.length > 0;
-  const podium = (barometre as unknown as { candidats: Candidat[] }).candidats.filter((c) => c.score !== null).slice(0, 3);
+  const podium = parSondage((barometre as unknown as { candidats: Candidat[] }).candidats).filter((c) => c.sondage).slice(0, 3);
 
   const carteChiffre = chiffre && (
               <Link href={`/${chiffre.rubrique}/${date}/${chiffre.n}`} className="carte group flex flex-col gap-3 !bg-jaune p-6 sm:p-7">
@@ -137,7 +138,7 @@ export default function Journee({ date }: { date: string }) {
           <div>
             <span className="pastille bg-lavande text-bleu">BAROMÈTRE PRÉSIDENTIELLE 2027</span>
             <p className="d mt-4 text-[30px] leading-[1.05] sm:text-[38px]">Qui va prendre <span className="surligne whitespace-nowrap">l&apos;avantage&nbsp;?</span></p>
-            <p className="mt-3 text-[15px] text-gris">Sondages, paris Polymarket et bruit en ligne, réunis en un score sur 100. Mis à jour chaque matin.</p>
+            <p className="mt-3 text-[15px] text-gris">Les intentions de vote dans les sondages, les paris Polymarket et le bruit en ligne, mesure par mesure. Mis à jour chaque matin.</p>
             <span className="mt-5 inline-block rounded-full bg-encre px-5 py-3 text-[14px] font-extrabold text-white group-hover:bg-black">Voir tous les candidats →</span>
           </div>
           <div className="grid grid-cols-3 items-end gap-3">
@@ -151,8 +152,8 @@ export default function Journee({ date }: { date: string }) {
                   {/* même style que le podium de la page Baromètre : marches lavande, rang en bas */}
                   <div className={`mt-3 flex w-full flex-col items-center justify-between rounded-t-[18px] bg-lavande pb-3 pt-4 ${rang === 1 ? "h-44" : rang === 2 ? "h-36" : "h-32"}`}>
                     <div className="flex flex-col items-center">
-                      <p className="d text-[34px] leading-none">{c.score}</p>
-                      <p className="mt-1 text-[10.5px] font-extrabold tracking-[0.04em] text-gris">SCORE /100</p>
+                      <p className="d text-[26px] leading-none sm:text-[30px]">{pct(c.sondage!.v)}</p>
+                      <p className="mt-1 text-center text-[10.5px] font-extrabold tracking-[0.04em] text-gris">SONDAGES</p>
                     </div>
                     <p className="flex h-9 w-9 items-center justify-center rounded-full bg-white text-[14px] font-extrabold">{rang}<sup className="text-[9px]">{rang === 1 ? "er" : "e"}</sup></p>
                   </div>

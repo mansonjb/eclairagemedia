@@ -2,13 +2,14 @@
 import Portrait from "@/components/Portrait";
 import { useState } from "react";
 import Link from "next/link";
+import { parSondage, pct, pctPm, rangsAttention } from "@/lib/barometre";
 
 type Val = { v: number; d: number | null; parts?: Record<string, number> } | null;
 type Decl = { qui: string; texte: string; date: string; sujet: string; href: string; source: string; url: string; contexte: string | null };
 export type Candidat = {
   nom: string; etiquette: string; couleur: string; statut: string | null; date_statut: string | null; source_statut: string | null;
   sondage: Val; attention: Val; polymarket: Val; declarations: Decl[]; nbDeclarations: number;
-  score: number | null; composantes: Record<string, number>;
+  score?: number | null; composantes?: Record<string, number>;
   reseaux?: Fiche | null;
   rangs?: { sondage?: number; polymarket?: number };
 };
@@ -16,6 +17,7 @@ type Pm = { v: number; d: number | null; d24?: number | null; d30?: number | nul
 
 const dollars = (n?: number) => (n == null ? "–" : n >= 1e6 ? `${(n / 1e6).toFixed(1).replace(".", ",")} M$` : `${Math.round(n / 1e3)} k$`);
 const ordinal = (n: number) => `${n}${n === 1 ? "er" : "e"}`;
+const SOURCES_ATT = ["Wikipedia", "réseaux", "citations", "abonnés", "YouTube"];
 
 // Polymarket en détail : évolutions, argent misé, fourchette sur 30 jours, rang comparé aux sondages
 function DetailParis({ c }: { c: Candidat }) {
@@ -136,24 +138,51 @@ function Mesure({ titre, val, libelle, max, couleur, unite, serie, vide = "Non m
   );
 }
 
+// Attention en ligne : un rang, pas une note (l'indice est une construction), et le rang sur chaque source
+function Attention({ c, candidats, rang }: { c: Candidat; candidats: Candidat[]; rang?: number }) {
+  if (!c.attention) return <div className="rounded-[16px] bg-fond p-3.5 text-[13px] font-semibold text-gris-clair">Non mesuré</div>;
+  const parSource = SOURCES_ATT.map((k) => {
+    const l = candidats.filter((x) => x.attention?.parts?.[k] !== undefined).sort((a, b) => (b.attention!.parts![k] ?? 0) - (a.attention!.parts![k] ?? 0));
+    const i = l.findIndex((x) => x.nom === c.nom);
+    return [k, i >= 0 ? i + 1 : null, l.length] as const;
+  }).filter(([, r]) => r);
+  return (
+    <div className="rounded-[16px] bg-fond p-3.5">
+      <p className="text-[11.5px] font-extrabold tracking-[0.04em] text-gris">ATTENTION EN LIGNE (7 JOURS)</p>
+      <p className="d mt-1 text-[26px] leading-none">{rang ? ordinal(rang) : "–"}<span className="text-[14px] text-gris"> sur {candidats.filter((x) => x.attention).length}</span></p>
+      <div className="mt-2.5 flex flex-wrap gap-1.5">
+        {parSource.map(([k, r, n]) => <span key={k} className="rounded-full bg-white px-2.5 py-1 text-[12px] font-bold">{k.charAt(0).toUpperCase() + k.slice(1)} : {ordinal(r!)}<span className="font-semibold text-gris">/{n}</span></span>)}
+      </div>
+    </div>
+  );
+}
+
 export default function Candidats({ candidats, serie }: { candidats: Candidat[]; serie: Serie }) {
-  const [tri, setTri] = useState<"score" | "sondage" | "attention" | "polymarket">("score");
-  const critere = tri === "sondage" && !candidats.some((c) => c.sondage) ? "score" : tri;
-  const val = (c: Candidat) => (critere === "score" ? c.score ?? -1 : c[critere]?.v ?? -1);
-  const liste = [...candidats].sort((a, b) => val(b) - val(a));
+  const aSondage = candidats.some((c) => c.sondage);
+  const [tri, setTri] = useState<"sondage" | "attention" | "polymarket">(aSondage ? "sondage" : "polymarket");
+  const critere = tri === "sondage" && !aSondage ? "polymarket" : tri;
+  const liste = critere === "sondage" ? parSondage(candidats) : [...candidats].sort((a, b) => (b[critere]?.v ?? -1) - (a[critere]?.v ?? -1));
+  const ra = rangsAttention(candidats);
   const maxS = Math.max(...candidats.map((c) => c.sondage?.v ?? 0), 1);
   const maxP = Math.max(...candidats.map((c) => c.polymarket?.v ?? 0), 1);
   const onglet = (k: typeof tri, nom: string) => (
     <button onClick={() => setTri(k)} className={`rounded-full px-4 py-2.5 text-[14px] font-bold transition ${critere === k ? "bg-encre text-white" : "bg-white hover:bg-lavande"}`}>{nom}</button>
   );
+  const tete = (c: Candidat, rang: number) => {
+    // en-tête : le rang seulement ; la valeur mesurée est dans le bloc en dessous
+    if (critere === "sondage") return c.sondage ? [ordinal(rang), "SONDAGES"] : ["n.t.", "NON TESTÉ"];
+    if (critere === "polymarket") return c.polymarket ? [ordinal(rang), "POLYMARKET"] : ["–", "NON COTÉ"];
+    return ra[c.nom] ? [ordinal(ra[c.nom]), "ATTENTION"] : ["–", "NON MESURÉ"];
+  };
   return (
     <div className="flex flex-col gap-5">
       <div className="flex flex-wrap items-center gap-2 px-2">
         <span className="mr-1 text-[14px] font-semibold text-gris">Classer par</span>
-        {onglet("score", "Score Éclairage")}{candidats.some((c) => c.sondage) && onglet("sondage", "Sondages")}{onglet("attention", "Attention en ligne")}{onglet("polymarket", "Polymarket")}
+        {aSondage && onglet("sondage", "Sondages")}{onglet("polymarket", "Polymarket")}{onglet("attention", "Attention en ligne")}
       </div>
       <div key={critere} className="apparait grid items-stretch gap-5 md:grid-cols-2 xl:grid-cols-3">
         {liste.map((c, rang) => {
+          const [valeur, legende] = tete(c, rang + 1);
           return (
             <article key={c.nom} className="carte flex flex-col gap-4 p-5 sm:p-6">
               <div className="flex items-center gap-3.5">
@@ -168,15 +197,14 @@ export default function Candidats({ candidats, serie }: { candidats: Candidat[];
                   </div>
                 </div>
                 <div className="text-right">
-                  <p className="d text-[34px] leading-none">{c.score ?? "–"}</p>
-                  <p className="text-[11px] font-extrabold tracking-[0.04em] text-gris">SCORE · #{rang + 1}</p>
+                  <p className="d whitespace-nowrap text-[30px] leading-none">{valeur}</p>
+                  <p className="whitespace-nowrap text-[11px] font-extrabold tracking-[0.04em] text-gris">{legende}</p>
                 </div>
               </div>
               <div className="grid gap-2.5">
-                {(critere === "score" || critere === "sondage") && <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? `${c.sondage.v.toFixed(1).replace(".", ",")} %` : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />}
-                {(critere === "score" || critere === "attention") && <Mesure titre="ATTENTION EN LIGNE /100" val={c.attention} libelle={c.attention ? `${Math.round(c.attention.v)}` : ""} max={100} couleur="#ff6a3d" unite="pt"
-                  serie={serie.map((s) => s.attention[c.nom]).filter((x) => x !== undefined)} />}
-                {(critere === "score" || critere === "polymarket") && <Mesure titre="POLYMARKET" val={c.polymarket} libelle={c.polymarket ? (c.polymarket.v < 1 ? "< 1 %" : `${Math.round(c.polymarket.v)} %`) : ""} max={maxP} couleur="#14142b"
+                {critere === "sondage" && <Mesure titre="SONDAGES (MOYENNE 1er TOUR)" val={c.sondage} libelle={c.sondage ? pct(c.sondage.v) : ""} max={maxS} couleur={c.couleur} vide="Non testé dans les sondages récents" />}
+                {critere === "attention" && <Attention c={c} candidats={candidats} rang={ra[c.nom]} />}
+                {critere === "polymarket" && <Mesure titre="POLYMARKET (PROBABILITÉ DE VICTOIRE)" val={c.polymarket} libelle={c.polymarket ? pctPm(c.polymarket.v) : ""} max={maxP} couleur="#14142b"
                   serie={serie.map((s) => s.polymarket[c.nom]).filter((x) => x !== undefined)} />}
               </div>
               {critere === "attention" && c.reseaux && <Reseaux f={c.reseaux} couleur={c.couleur} />}
