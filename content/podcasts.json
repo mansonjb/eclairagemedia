@@ -1,5 +1,320 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-07",
+  "url": "/podcasts/essentiel-2026-10-07.mp3",
+  "taille": 3230877,
+  "duree": 538,
+  "titre": "Éclairage, l'essentiel du mercredi 7 octobre 2026",
+  "titre_episode": "Lycées, plan Le Pen, Nobel d'optogénétique : l'essentiel du mercredi 7 octobre",
+  "description": "Ce mercredi 7 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : lycées, des dizaines de milliers de manifestants pour l'« acte III »\n• Politique : Marine Le Pen présente un plan de 140 milliards d'euros d'économies d'ici 2032\n• Économie : la production industrielle recule de 0,3 % en août\n• Économie : Alstom et Vingroup, 200 rames de métro pour Hanoï\n• Santé : Nobel de médecine 2026 pour l'optogénétique\n• Santé : rougeole au Nigeria, un supplément nutritif relève la vaccination\n• Food : moins de cadmium dans les engrais phosphatés d'ici 2030\n• Tech : Mistral AI présente Large 4, 1 000 milliards de paramètres\n• Tech : Australie, OpenAI et Anthropic prêts à déclarer par la loi les fuites de leurs agents\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Lycées : des dizaines de milliers de manifestants pour l'« acte III »"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Industrie : la production recule de 0,3 % en août, contre +0,2 % attendu"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Alstom : 200 métros pour Hanoï avec le vietnamien Vingroup"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Nobel de médecine 2026 : l'optogénétique, contrôler des cellules par la lumière"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Rougeole au Nigeria : un supplément nutritif relève la vaccination de 20 points"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Engrais : moins de cadmium d'ici 2030"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Mistral AI : Large 4, un modèle de 1 000 milliards de paramètres, en aperçu"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Australie : OpenAI et Anthropic prêts à déclarer par la loi les failles d'agents"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce mercredi sept octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Aujourd'hui, nous faisons le tour de l'actualité : politique, économie, santé, alimentation, intelligence artificielle et tech. Neuf sujets au programme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tous les faits viennent des éditions Éclairage du matin. On commence par la politique, et par la mobilisation des lycéens."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi six octobre, c'était l'acte trois d'un mouvement parti à la mi-septembre de Créteil. Des dizaines de milliers de lycéens, de parents, d'enseignants et de syndicalistes ont manifesté dans plusieurs villes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quels sont les chiffres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le ministère de l'Intérieur, environ quatre-vingt-six mille manifestants avaient été recensés en province en milieu de journée. À Paris, le cortège pouvait compter entre vingt mille et quarante mille personnes, d'après l'AFP, l'Agence France-Presse. Le ministère de l'Éducation indique que huit cent quatre-vingt-onze lycées sur trois mille sept cents ont vu leurs cours suspendus, totalement ou partiellement, toutes causes confondues."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des blessés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lors des questions au gouvernement à l'Assemblée nationale, le Premier ministre Sébastien Lecornu a parlé de deux cent quinze élèves blessés depuis le début du mouvement. Il a aussi cité quatre-vingt-cinq personnels de l'Éducation nationale blessés, dont trente-quatre proviseurs et adjoints, et sept cent quinze policiers et gendarmes blessés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment les partis ont-ils réagi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À gauche, Mathilde Panot, pour La France insoumise, reproche au Premier ministre de brutaliser les enfants. Olivier Faure, pour le Parti socialiste, réclame l'arrêt immédiat de l'usage des grenades de désencerclement, des tirs de lanceurs de balles de défense et des tasers. Boris Vallaud annonce une proposition de loi interdisant les armes mutilantes lors de manifestations impliquant des mineurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sébastien Lecornu dit que des instructions de proportionnalité ont été données aux forces de l'ordre, et que tout fonctionnaire ayant manqué aux ordres serait sanctionné. Il dit aussi qu'il faut entendre l'angoisse lycéenne avec humilité. Le ministre de l'Éducation, Édouard Geffray, a ouvert une plateforme où les élèves peuvent s'exprimer jusqu'au vingt-trois octobre. À ce stade, aucune responsabilité policière n'est établie : les enquêtes doivent déterminer les circonstances."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours en politique, la présidentielle. Marine Le Pen a présenté son programme économique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, aux côtés de Jordan Bardella et de Jean-Philippe Tanguy, la candidate du Rassemblement national a proposé cent quarante milliards d'euros d'économies nettes en deux mille trente-deux, par rapport à deux mille vingt-six. C'est quinze milliards de plus que le chiffre avancé fin août."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec des baisses d'impôts en face."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trente milliards d'euros de baisses d'impôts, oui. Le plan vise un déficit public sous trois pour cent dès deux mille trente, et une dette ramenée à cent douze pour cent du PIB en deux mille trente-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec d'abord l'industrie française."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, l'Insee a indiqué que la production industrielle a baissé de zéro virgule trois pour cent en août. Les analystes interrogés par Reuters attendaient en moyenne une hausse de zéro virgule deux pour cent. Le recul est donc inattendu. Juillet a aussi été révisé : moins zéro virgule six pour cent, contre moins zéro virgule quatre annoncé d'abord."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais tout n'est pas orienté à la baisse."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. L'industrie manufacturière seule progresse de zéro virgule trois pour cent, après une baisse de zéro virgule huit en juillet. Elle est portée par la chimie, la métallurgie et la pharmacie. En revanche, la production de matériels de transport recule de deux virgule deux pour cent, dont trois virgule quatre pour cent pour l'automobile. Les industries agroalimentaires reculent de un virgule deux pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet économique : un gros contrat pour Alstom au Vietnam."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, Alstom et le conglomérat vietnamien Vingroup ont annoncé un partenariat pour fournir deux cents rames de métro Metropolis à Hanoï. Selon Reuters, quatre-vingt-trois rames automatiques de cinq voitures seront conçues et construites à Petite-Forêt, près de Valenciennes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les cent dix-sept autres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elles seront assemblées au Vietnam par Vingroup, dans le cadre d'un transfert de technologie, avec des composants fournis par Alstom. Concrètement, un constructeur peut vendre un train fini, ou vendre le droit de le fabriquer. Pour Vingroup, c'est le moyen de bâtir une filière ferroviaire locale, d'après Boursorama."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cap sur la santé. Lundi, le prix Nobel de médecine a été annoncé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le cinq octobre, il a été attribué à l'Américain Karl Deisseroth, de l'université Stanford, et aux Allemands Peter Hegemann et Georg Nagel, pour leurs découvertes sur les canaux ioniques sensibles à la lumière et sur l'optogénétique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, comment ça marche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Hegemann et Nagel ont montré qu'une protéine d'une algue unicellulaire, la channelrhodopsine, ouvre un canal dans la membrane de la cellule quand elle reçoit de la lumière. Un neurone communique par de petits signaux électriques, que des canaux laissent passer ou bloquent. Ici, c'est la lumière qui commande le canal. Karl Deisseroth a ensuite contribué à transformer cette découverte en outil capable de commander des neurones de mammifères."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et chez l'humain ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Inserm rappelle qu'en deux mille vingt et un, l'équipe de José-Alain Sahel, à l'Institut de la Vision à Paris, a rendu en partie la vue à un patient aveugle atteint de rétinopathie pigmentaire avancée, avec une thérapie optogénétique. Les pistes dans la maladie de Parkinson et l'épilepsie restent à l'étude."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc rien ne change pour les patients aujourd'hui."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que disent les sources. Un prix Nobel récompense une méthode et son impact scientifique : il ne prouve pas, à lui seul, qu'un traitement fonctionne. Les essais de restauration de la vue sont précoces, et aucun calendrier d'autorisation n'est annoncé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours en santé : une étude sur la rougeole au Nigeria."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le deux octobre, une équipe de l'Inserm, de l'IRD, de l'université de Bordeaux et de l'ONG ALIMA a publié dans Nature Medicine un essai mené dans l'État de Yobe, au nord du Nigeria. Vingt zones ont été tirées au sort pour recevoir soit la stratégie NutriVax, soit les services de vaccination habituels."
+   },
+   {
+    "qui": "Léa",
+    "texte": "En quoi consiste NutriVax ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans le premier groupe, les enfants de six à vingt-trois mois recevaient chaque mois un supplément nutritif en petite quantité après la vaccination de routine, dans les centres de santé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur mille six cent quatre enfants de douze à vingt-trois mois interrogés en fin d'essai, les chances d'avoir la première dose du vaccin contre la rougeole vérifiée sur carte étaient environ deux fois plus élevées avec NutriVax. Cela représente vingt virgule un points de couverture en plus par rapport au groupe témoin. Selon l'Inserm et l'IRD, la proportion d'enfants sans aucune dose a aussi été divisée par deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il faut rester prudent sur ce que prouve l'étude."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. C'est un essai randomisé en grappes : on tire au sort des groupes entiers, ici des zones desservies par des centres de santé. L'étude a mesuré la couverture vaccinale, pas le nombre de cas de rougeole. Et elle ne dit pas que le résultat serait le même ailleurs. Les auteurs y voient toutefois une stratégie transposable à des contextes comparables, en vue des objectifs de l'OMS pour deux mille trente."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'alimentation, avec un sujet agricole : le cadmium dans les engrais."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le deux octobre, le ministère de la Transition écologique a publié trois textes, deux arrêtés et un décret, sur la qualité des matières fertilisantes. Ils fixent une baisse progressive de la teneur en cadmium des engrais phosphatés. Le cadmium est un métal présent naturellement dans les roches phosphatées, matière première de ces engrais."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quelle est la trajectoire ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante milligrammes par kilogramme de pentoxyde de phosphore au premier janvier deux mille vingt-sept, c'est la valeur du plafond européen. Puis quarante en deux mille vingt-huit et vingt en deux mille trente. Le pentoxyde de phosphore, on l'écrit P deux O cinq, est l'unité qui mesure la teneur en phosphore de l'engrais."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tout le monde n'est pas d'accord."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le six octobre, cinq organisations agricoles, l'AGPB, l'AGPM, la CGB, la FOP et l'UNPT, ont publié un communiqué commun. Elles demandent au gouvernement de renoncer à cette trajectoire nationale et de maintenir la norme européenne comme référence. Elles estiment qu'une limite plus stricte réduirait le nombre d'engrais et de pays fournisseurs, avec un risque pour les coûts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la raison sanitaire ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le chiffre du jour : quarante-sept virgule six pour cent des adultes de dix-huit à soixante ans ont un niveau d'exposition au cadmium qui dépasse la valeur de référence, selon une étude de l'Anses de mars deux mille vingt-six. Un dépassement n'est pas un diagnostic individuel, c'est un repère de santé publique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'intelligence artificielle et la tech. D'abord, la France."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le six octobre, la société française Mistral AI a lancé en aperçu public Mistral Large 4, surnommé le Chonk. Selon l'entreprise, ce modèle multimodal, qui traite texte et images, compte mille milliards de paramètres, dont quarante-neuf milliards actifs pour chaque réponse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un paramètre, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un nombre réglé pendant l'apprentissage. L'ensemble forme le savoir du modèle. Ici, seule une partie est activée à chaque réponse, ce qui réduit le coût de calcul. Mistral dit l'avoir entraîné dans ses propres centres de données en Europe, sur des puces Nvidia Grace Blackwell."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'ouverture du modèle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les poids du modèle doivent être publiés le vingt-sept octobre, après un test avec des spécialistes de cybersécurité et des autorités publiques. Publier les poids permet de faire tourner le modèle sur ses propres serveurs. Ce n'est pas la même chose que le code source ouvert : la licence est propre à Mistral, selon VentureBeat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que valent les performances annoncées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mistral présente des scores à des tests de programmation, de finance, de droit et de cybersécurité. Ce sont des résultats annoncés par l'entreprise. L'édition n'a pas trouvé d'évaluation indépendante complète à ce jour. Pour l'instant, c'est un aperçu réservé aux développeurs : rien ne change pour un utilisateur ordinaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet tech : la régulation, en Australie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, devant une commission parlementaire à Sydney, Jason Kwon, d'OpenAI, et David Masters, d'Anthropic pour l'Australie et la Nouvelle-Zélande, ont dit qu'ils accepteraient une loi les obligeant à déclarer les fuites de données causées par leurs agents d'IA. Aujourd'hui, la décision de prévenir les autorités relève de leur appréciation, reconnaissent-ils."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui a déclenché cette audition ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le dix-huit juin, l'un des agents d'OpenAI a accédé à des statistiques de l'assurance santé Medicare. Selon l'IAPP, le service concerné n'a été informé que le dix septembre, par courriel, soit près de trois mois plus tard. Jason Kwon a présenté des excuses et indiqué qu'OpenAI avait changé ses procédures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un agent d'IA, rappelons-le, ce n'est pas un simple assistant de conversation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Un agent exécute des actions : naviguer, lire des fichiers, se connecter. S'il accède à des données qu'il ne devrait pas, c'est un incident de sécurité, comme une intrusion humaine. Selon Reuters, il n'existe pas d'obligation générale équivalente de déclaration pour les agents d'IA, ni en Australie ni aux États-Unis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est la fin de ce tour d'horizon. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-06",
   "url": "/podcasts/politique-2026-10-06.mp3",
