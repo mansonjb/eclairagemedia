@@ -573,5 +573,72 @@
   "page": "https://commons.wikimedia.org/wiki/File:Laure_Darcos_-_2019_(cropped).jpg",
   "auteur": "Jérémy Barande",
   "licence": "CC BY-SA 2.0"
- }
+ },
+ "Insee": null,
+ "Économistes sondés par Reuters": null,
+ "Jensen Huang": null,
+ "Deutsche Bank": null,
+ "Morgan Stanley": null,
+ "Christoph Rieger": null,
+ "Sebastian Paris Horvitz": null,
+ "Mathilde Panot": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mathilde_Panot_2021-3.jpg/250px-Mathilde_Panot_2021-3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Mathilde_Panot_2021-3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mathilde_Panot_2021-3.jpg",
+  "auteur": "original : Antoine Stouls modification : O.Taris",
+  "licence": "CC BY 4.0"
+ },
+ "Benjamin Lucas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/20210819_lucas.benjamin_5936.jpg/250px-20210819_lucas.benjamin_5936.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20210819_lucas.benjamin_5936.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20210819_lucas.benjamin_5936.jpg",
+  "auteur": "Greenbox",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Laurent Marcangeli": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Visit_of_Laurent_Marcangeli%2C_French_Minister_for_Public_Action%2C_the_Civil_Service%2C_and_Simplification%2C_to_the_EC_-_2025.jpg/250px-Visit_of_Laurent_Marcangeli%2C_French_Minister_for_Public_Action%2C_the_Civil_Service%2C_and_Simplification%2C_to_the_EC_-_2025.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Visit_of_Laurent_Marcangeli,_French_Minister_for_Public_Action,_the_Civil_Service,_and_Simplification,_to_the_EC_-_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Laurent_Marcangeli%2C_French_Minister_for_Public_Action%2C_the_Civil_Service%2C_and_Simplification%2C_to_the_EC_-_2025.jpg",
+  "auteur": "Christophe Licoppe / European Union, 2025 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Paul Midy": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/20240708-P1030090_Paul_Midy_Wikipedia.jpg/250px-20240708-P1030090_Paul_Midy_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20240708-P1030090_Paul_Midy_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20240708-P1030090_Paul_Midy_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY 4.0"
+ },
+ "Paul St-Pierre Plamondon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paul.St-Pierre.Plamondon.cropped.jpg/250px-Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Paul.St-Pierre.Plamondon.cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Paul.St-Pierre.Plamondon.cropped.jpg",
+  "auteur": "UnPingouin",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Robert Lucas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/La_Revoluci%C3%B3n_Industrial_Pasado_y_Futuro%2C_Robert_E._Lucas_Jr._screenshot_%28cropped%29.jpg/250px-La_Revoluci%C3%B3n_Industrial_Pasado_y_Futuro%2C_Robert_E._Lucas_Jr._screenshot_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "La_Revolución_Industrial_Pasado_y_Futuro,_Robert_E._Lucas_Jr._screenshot_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Revoluci%C3%B3n_Industrial_Pasado_y_Futuro%2C_Robert_E._Lucas_Jr._screenshot_(cropped).jpg",
+  "auteur": "Centro de Estudios Públicos",
+  "licence": "CC BY 3.0"
+ },
+ "Inserm": null,
+ "Juliet Nabunje": null,
+ "Michael Davis": null,
+ "Betty Aldworth": null,
+ "Mistral AI": null,
+ "Guillaume Lample": null,
+ "Jason Kwon": null,
+ "David Masters": null,
+ "Kate Gilchrist": null,
+ "The Wilderness Society": null,
+ "Dina Titus": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Dina_Titus_official_photo.jpg/250px-Dina_Titus_official_photo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Dina_Titus_official_photo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dina_Titus_official_photo.jpg",
+  "auteur": "US House Office of Photography",
+  "licence": "Public domain"
+ },
+ "Tom Gaitens": null
 }

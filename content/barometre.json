@@ -1,8 +1,8 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "sondage": {
   "methode": "moyenne",
-  "nb": 8,
+  "nb": 9,
   "jours": 30,
   "debut": "2026-09-09",
   "fin": "2026-09-29",
@@ -19,7 +19,7 @@
    {
     "institut": "Ifop",
     "terrain": "25-29 septembre",
-    "echantillon": "1 597",
+    "echantillon": "1 527",
     "hypotheses": 10
    },
    {
@@ -41,16 +41,16 @@
     "hypotheses": 3
    },
    {
+    "institut": "Ifop",
+    "terrain": "9-11 septembre",
+    "echantillon": "1 548",
+    "hypotheses": 2
+   },
+   {
     "institut": "OpinionWay",
     "terrain": "9-10 septembre",
     "echantillon": "1 001",
     "hypotheses": 3
-   },
-   {
-    "institut": "Harris",
-    "terrain": "8-10 septembre",
-    "echantillon": "2 052",
-    "hypotheses": 5
    }
   ]
  },
@@ -61,7 +61,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 144998162.85968798,
+ "polymarket_volume": 146159414.858746,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -78,30 +78,58 @@
    "source_statut": null,
    "sondage": {
     "v": 33.8,
-    "d": -0.1
+    "d": 0
    },
    "attention": {
-    "v": 58.6,
-    "d": 18.2,
+    "v": 56.4,
+    "d": 12,
     "parts": {
-     "Wikipedia": 5.2,
-     "réseaux": 15.9,
-     "citations": 31.2,
-     "abonnés": 9.6,
-     "YouTube": 2.4
+     "Wikipedia": 4.5,
+     "réseaux": 17,
+     "citations": 27.6,
+     "abonnés": 9.5,
+     "YouTube": 3.9
     }
    },
    "polymarket": {
-    "v": 42.5,
-    "d": 3.1,
-    "d24": -2.3,
-    "d30": 6.9,
-    "vol": 3322597,
-    "vol7": 567505,
+    "v": 43.2,
+    "d": 0.5,
+    "d24": 0.7,
+    "d30": 6.2,
+    "vol": 3348611,
+    "vol7": 513474,
     "haut": 45.7,
     "bas": 34.1
    },
    "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "présidente du groupe RN à l'Assemblée, mardi 6 octobre",
+     "texte": "Elle qualifie le projet de « très mauvais », reposant selon elle sur un « rabot généralisé ».",
+     "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/140-milliards-d-economies-ce-qu-il-faut-retenir-de-l-intervention-de-marine-le-pen-afp-c7e3f37b845db4c22fabbed19f2f95b7ce56ed6b",
+     "source": "dépêche AFP",
+     "date": "2026-10-07",
+     "rubrique": "politique",
+     "sujet": "Budget 2027 : la commission des finances s'en saisit ce mercredi",
+     "href": "/politique/2026-10-07/3"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "candidate du RN à la présidentielle",
+     "texte": "« La France devient l'objet de toutes les inquiétudes des investisseurs internationaux »",
+     "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/140-milliards-d-economies-ce-qu-il-faut-retenir-de-l-intervention-de-marine-le-pen-afp-c7e3f37b845db4c22fabbed19f2f95b7ce56ed6b",
+     "source": "dépêche AFP",
+     "date": "2026-10-07",
+     "rubrique": "politique",
+     "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
+     "href": "/politique/2026-10-07/2"
+    },
     {
      "fond": "#e4e7f2",
      "couleur": "#0b1f4d",
@@ -117,7 +145,7 @@
      "href": "/politique/2026-10-04/3"
     }
    ],
-   "nbDeclarations": 1,
+   "nbDeclarations": 3,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -129,27 +157,27 @@
      {
       "rang": 10,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 787 posts"
+      "valeur": "2 793 posts"
      },
      {
       "rang": 3,
       "libelle": "sur 34 en engagement",
-      "valeur": "35 693 058"
+      "valeur": "35 790 666"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "12 807"
+      "valeur": "12 814"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "601 960 029"
+      "valeur": "603 317 339"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "5 570 486 abonnés"
+      "valeur": "5 574 268 abonnés"
      }
     ],
     "posts": [
@@ -174,12 +202,12 @@
     ],
     "citations": [
      {
-      "valeur": "12 790",
+      "valeur": "12 806",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "732",
+      "valeur": "733",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -189,19 +217,19 @@
       "detail": ""
      },
      {
-      "valeur": "652",
+      "valeur": "542",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "8 963",
+      "valeur": "8 987",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 776 politiques"
+      "detail": "par 775 politiques"
      },
      {
-      "valeur": "236",
+      "valeur": "235",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 66 organisations"
+      "detail": "par 65 organisations"
      }
     ],
     "journalistes": [
@@ -213,7 +241,7 @@
      {
       "nom": "Anthony",
       "role": "Journaliste",
-      "posts": "136 posts"
+      "posts": "138 posts"
      },
      {
       "nom": "Nils Wilcke",
@@ -225,9 +253,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 59
+    "attention": 56
    },
-   "score": 92,
+   "score": 91,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -243,30 +271,44 @@
    "source_statut": null,
    "sondage": {
     "v": 16.7,
-    "d": 0.4
+    "d": 0.3
    },
    "attention": {
     "v": 100,
-    "d": 1,
+    "d": -6.3,
     "parts": {
-     "Wikipedia": 11.5,
-     "réseaux": 41.2,
-     "citations": 18.8,
-     "abonnés": 13.9,
-     "YouTube": 46.4
+     "Wikipedia": 11.3,
+     "réseaux": 41.8,
+     "citations": 17.7,
+     "abonnés": 17.8,
+     "YouTube": 41.8
     }
    },
    "polymarket": {
     "v": 12.5,
-    "d": -3,
-    "d24": 1,
+    "d": -2,
+    "d24": null,
     "d30": null,
-    "vol": 1885401,
-    "vol7": 193326,
+    "vol": 1929917,
+    "vol7": 198900,
     "haut": 15.5,
     "bas": 11.5
    },
    "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat de La France insoumise à la présidentielle",
+     "texte": "Il estime que le programme va « condamner la France à faire des coupes budgétaires et de la récession pendant 120 ans ».",
+     "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+     "source": "Public Sénat",
+     "date": "2026-10-07",
+     "rubrique": "politique",
+     "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
+     "href": "/politique/2026-10-07/2"
+    },
     {
      "fond": "#ffe9e6",
      "couleur": "#d7263d",
@@ -336,23 +378,9 @@
      "rubrique": "politique",
      "sujet": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement",
      "href": "/politique/2026-09-28/3"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "sur X",
-     "texte": "L'élection de Gabriel Amard est le signe d'un « heureux augure pour 2027 »",
-     "url": "https://www.lyoncapitale.fr/actualite/senatoriales-dans-le-rhone-gabriel-amard-fait-entrer-lfi-au-senat-la-gauche-perd-un-siege",
-     "source": "Lyon Capitale",
-     "date": "2026-09-28",
-     "rubrique": "politique",
-     "sujet": "Sénatoriales : la majorité tient, le RN et LFI font leur entrée",
-     "href": "/politique/2026-09-28/1"
     }
    ],
-   "nbDeclarations": 6,
+   "nbDeclarations": 7,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -364,27 +392,27 @@
      {
       "rang": 4,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "3 926 posts"
+      "valeur": "3 946 posts"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en engagement",
-      "valeur": "37 324 109"
+      "valeur": "37 637 206"
      },
      {
       "rang": 3,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "9 507"
+      "valeur": "9 538"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "544 179 178"
+      "valeur": "546 837 213"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "8 083 437 abonnés"
+      "valeur": "8 098 193 abonnés"
      }
     ],
     "posts": [
@@ -409,7 +437,7 @@
     ],
     "citations": [
      {
-      "valeur": "10 189",
+      "valeur": "10 221",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -424,14 +452,14 @@
       "detail": ""
      },
      {
-      "valeur": "393",
+      "valeur": "347",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "6 610",
+      "valeur": "6 646",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 632 politiques"
+      "detail": "par 633 politiques"
      },
      {
       "valeur": "144",
@@ -443,17 +471,17 @@
      {
       "nom": "Jérôme Godefroy",
       "role": "Journaliste",
-      "posts": "218 posts"
+      "posts": "217 posts"
      },
      {
       "nom": "Haziza Frédéric",
       "role": "Journaliste",
-      "posts": "210 posts"
+      "posts": "209 posts"
      },
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "151 posts"
+      "posts": "153 posts"
      }
     ]
    },
@@ -464,8 +492,8 @@
    },
    "score": 53,
    "rangs": {
-    "sondage": 3,
-    "polymarket": 4
+    "sondage": 2,
+    "polymarket": 3
    }
   },
   {
@@ -477,14 +505,14 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 16.8,
-    "d": -0.5
+    "v": 16.4,
+    "d": -0.8
    },
    "attention": {
-    "v": 17.2,
-    "d": 5.6,
+    "v": 16.8,
+    "d": 5.4,
     "parts": {
-     "Wikipedia": 7,
+     "Wikipedia": 6.5,
      "réseaux": 1.2,
      "citations": 10.4,
      "abonnés": 0.9,
@@ -493,15 +521,29 @@
    },
    "polymarket": {
     "v": 17.5,
-    "d": -2,
-    "d24": -0.5,
-    "d30": -13,
-    "vol": 1945291,
-    "vol7": 153464,
+    "d": -1,
+    "d24": null,
+    "d30": -12,
+    "vol": 1964082,
+    "vol7": 159333,
     "haut": 30.5,
     "bas": 17.5
    },
    "declarations": [
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
+     "contexte": "candidat Horizons à la présidentielle, sur X",
+     "texte": "Il dénonce un « plan d’une désinvolture spectaculaire ».",
+     "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+     "source": "Public Sénat",
+     "date": "2026-10-07",
+     "rubrique": "politique",
+     "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
+     "href": "/politique/2026-10-07/2"
+    },
     {
      "fond": "#e0f6f9",
      "couleur": "#1aa3b8",
@@ -517,7 +559,7 @@
      "href": "/politique/2026-09-30/1"
     }
    ],
-   "nbDeclarations": 1,
+   "nbDeclarations": 2,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/edouard-philippe/",
     "phase": {
@@ -534,22 +576,22 @@
      {
       "rang": 21,
       "libelle": "sur 34 en engagement",
-      "valeur": "722 679"
+      "valeur": "723 806"
      },
      {
       "rang": 13,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 975"
+      "valeur": "1 978"
      },
      {
       "rang": 20,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "31 969 349"
+      "valeur": "31 997 518"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 162 825 abonnés"
+      "valeur": "1 162 957 abonnés"
      }
     ],
     "posts": [
@@ -574,12 +616,12 @@
     ],
     "citations": [
      {
-      "valeur": "5 224",
+      "valeur": "5 211",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "454",
+      "valeur": "455",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -589,17 +631,17 @@
       "detail": ""
      },
      {
-      "valeur": "217",
+      "valeur": "205",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "2 996",
+      "valeur": "2 999",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 478 politiques"
+      "detail": "par 479 politiques"
      },
      {
-      "valeur": "117",
+      "valeur": "120",
       "libelle": "posts de lobbies et organisations sur 12 mois",
       "detail": "par 65 organisations"
      }
@@ -623,13 +665,13 @@
     ]
    },
    "composantes": {
-    "sondage": 50,
+    "sondage": 49,
     "polymarket": 41,
     "attention": 17
    },
-   "score": 41,
+   "score": 40,
    "rangs": {
-    "sondage": 2,
+    "sondage": 3,
     "polymarket": 2
    }
   },
@@ -642,18 +684,18 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 10.8,
-    "d": -0.1
+    "v": 10.4,
+    "d": -0.6
    },
    "attention": {
-    "v": 22.1,
-    "d": 0.3,
+    "v": 22.2,
+    "d": 4.5,
     "parts": {
-     "Wikipedia": 4.2,
+     "Wikipedia": 4.3,
      "réseaux": 8.2,
      "citations": 8.9,
      "abonnés": 1.3,
-     "YouTube": 0.5
+     "YouTube": 0.6
     }
    },
    "polymarket": {
@@ -661,8 +703,8 @@
     "d": 0.1,
     "d24": null,
     "d30": -0.9,
-    "vol": 2642604,
-    "vol7": 159262,
+    "vol": 2662257,
+    "vol7": 166869,
     "haut": 3.1,
     "bas": 1.2
    },
@@ -708,27 +750,27 @@
      {
       "rang": 15,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 561 posts"
+      "valeur": "1 582 posts"
      },
      {
       "rang": 5,
       "libelle": "sur 34 en engagement",
-      "valeur": "12 154 295"
+      "valeur": "12 174 578"
      },
      {
       "rang": 4,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "7 786"
+      "valeur": "7 696"
      },
      {
       "rang": 5,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "205 684 669"
+      "valeur": "206 146 496"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 451 114 abonnés"
+      "valeur": "1 451 075 abonnés"
      }
     ],
     "posts": [
@@ -753,12 +795,12 @@
     ],
     "citations": [
      {
-      "valeur": "5 481",
+      "valeur": "5 479",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "528",
+      "valeur": "529",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -768,12 +810,12 @@
       "detail": ""
      },
      {
-      "valeur": "186",
+      "valeur": "174",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "3 593",
+      "valeur": "3 605",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 586 politiques"
      },
@@ -787,7 +829,7 @@
      {
       "nom": "Nils Wilcke",
       "role": "Journaliste",
-      "posts": "85 posts"
+      "posts": "84 posts"
      },
      {
       "nom": "Alexis Poulin",
@@ -802,11 +844,11 @@
     ]
    },
    "composantes": {
-    "sondage": 32,
+    "sondage": 31,
     "polymarket": 5,
     "attention": 22
    },
-   "score": 22,
+   "score": 21,
    "rangs": {
     "sondage": 4,
     "polymarket": 6
@@ -821,28 +863,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 10.5,
-    "d": -1.7
+    "v": 10.3,
+    "d": -1.9
    },
    "attention": {
-    "v": 20.6,
-    "d": -7.7,
+    "v": 22.8,
+    "d": 2.6,
     "parts": {
-     "Wikipedia": 13.7,
+     "Wikipedia": 13.2,
      "réseaux": 0.6,
-     "citations": 9.6,
+     "citations": 12.2,
      "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.5,
-    "d": -0.4,
-    "d24": null,
+    "v": 1.4,
+    "d": -0.3,
+    "d24": -0.1,
     "d30": -0.7,
-    "vol": 2047627,
-    "vol7": 145844,
-    "haut": 2.5,
+    "vol": 2062151,
+    "vol7": 148235,
+    "haut": 2.3,
     "bas": 1.4
    },
    "declarations": [
@@ -887,27 +929,27 @@
      {
       "rang": 22,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "636 posts"
+      "valeur": "646 posts"
      },
      {
       "rang": 16,
       "libelle": "sur 34 en engagement",
-      "valeur": "2 068 603"
+      "valeur": "2 077 829"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 253"
+      "valeur": "3 216"
      },
      {
       "rang": 16,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "50 853 104"
+      "valeur": "51 273 525"
      },
      {
       "rang": 10,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "948 940 abonnés"
+      "valeur": "947 175 abonnés"
      }
     ],
     "posts": [
@@ -932,7 +974,7 @@
     ],
     "citations": [
      {
-      "valeur": "3 760",
+      "valeur": "3 797",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -947,12 +989,12 @@
       "detail": ""
      },
      {
-      "valeur": "200",
+      "valeur": "240",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "1 224",
+      "valeur": "1 225",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 296 politiques"
      },
@@ -966,24 +1008,24 @@
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "129 posts"
+      "posts": "132 posts"
      },
      {
       "nom": "Françoise Degois",
       "role": "Journaliste",
-      "posts": "74 posts"
+      "posts": "76 posts"
      },
      {
       "nom": "Alexis Poulin",
       "role": "Journaliste",
-      "posts": "53 posts"
+      "posts": "52 posts"
      }
     ]
    },
    "composantes": {
-    "sondage": 31,
-    "polymarket": 4,
-    "attention": 21
+    "sondage": 30,
+    "polymarket": 3,
+    "attention": 23
    },
    "score": 21,
    "rangs": {
@@ -1001,25 +1043,25 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 58.1,
-    "d": 6.6,
+    "v": 54.5,
+    "d": 0.1,
     "parts": {
-     "Wikipedia": 22.3,
-     "réseaux": 11.5,
+     "Wikipedia": 21.7,
+     "réseaux": 10.4,
      "citations": 1.5,
-     "abonnés": 43.3,
-     "YouTube": 3.9
+     "abonnés": 40.2,
+     "YouTube": 3.4
     }
    },
    "polymarket": {
-    "v": 13.2,
-    "d": 5.5,
-    "d24": 2.6,
-    "d30": 11.9,
-    "vol": 3887643,
-    "vol7": 1311145,
+    "v": 12.3,
+    "d": 4.5,
+    "d24": -0.9,
+    "d30": 9.1,
+    "vol": 4033763,
+    "vol7": 1418215,
     "haut": 13.2,
-    "bas": 1.4
+    "bas": 2.9
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1034,27 +1076,27 @@
      {
       "rang": 13,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 181 posts"
+      "valeur": "2 183 posts"
      },
      {
       "rang": 10,
       "libelle": "sur 34 en engagement",
-      "valeur": "6 239 201"
+      "valeur": "6 278 606"
      },
      {
       "rang": 10,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "2 861"
+      "valeur": "2 876"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "112 249 645"
+      "valeur": "112 253 568"
      },
      {
       "rang": 20,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "320 107 abonnés"
+      "valeur": "321 566 abonnés"
      }
     ],
     "posts": [
@@ -1073,12 +1115,12 @@
     ],
     "citations": [
      {
-      "valeur": "1 237",
+      "valeur": "1 236",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "218",
+      "valeur": "219",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1088,12 +1130,12 @@
       "detail": ""
      },
      {
-      "valeur": "31",
+      "valeur": "30",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "1 884",
+      "valeur": "1 889",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 242 politiques"
      },
@@ -1123,12 +1165,53 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 31,
-    "attention": 58
+    "polymarket": 28,
+    "attention": 55
    },
-   "score": 21,
+   "score": 19,
    "rangs": {
-    "polymarket": 3
+    "polymarket": 4
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 88.8,
+    "d": 2,
+    "parts": {
+     "Wikipedia": 17.4,
+     "abonnés": 15.9,
+     "YouTube": 45.5
+    }
+   },
+   "polymarket": {
+    "v": 1,
+    "d": 0.1,
+    "d24": 0.1,
+    "d30": 0.1,
+    "vol": 2408848,
+    "vol7": 179237,
+    "haut": 1.7,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 89
+   },
+   "score": 18,
+   "rangs": {
+    "polymarket": 10
    }
   },
   {
@@ -1140,16 +1223,16 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 8.4,
-    "d": 0.5
+    "v": 8.1,
+    "d": 0.3
    },
    "attention": {
-    "v": 19.2,
-    "d": 6.8,
+    "v": 19.3,
+    "d": 6.4,
     "parts": {
-     "Wikipedia": 3.6,
-     "réseaux": 6,
-     "citations": 8.5,
+     "Wikipedia": 3.5,
+     "réseaux": 5.7,
+     "citations": 9,
      "abonnés": 2.4,
      "YouTube": 0
     }
@@ -1157,10 +1240,10 @@
    "polymarket": {
     "v": 1.2,
     "d": -0.3,
-    "d24": -0.1,
+    "d24": null,
     "d30": -0.1,
-    "vol": 2588823,
-    "vol7": 182158,
+    "vol": 2609479,
+    "vol7": 182599,
     "haut": 2.5,
     "bas": 1.1
    },
@@ -1177,27 +1260,27 @@
      {
       "rang": 17,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 292 posts"
+      "valeur": "1 293 posts"
      },
      {
       "rang": 13,
       "libelle": "sur 34 en engagement",
-      "valeur": "2 979 675"
+      "valeur": "2 983 478"
      },
      {
       "rang": 11,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "2 306"
+      "valeur": "2 307"
      },
      {
       "rang": 11,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "90 726 357"
+      "valeur": "86 245 497"
      },
      {
       "rang": 18,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "413 727 abonnés"
+      "valeur": "414 124 abonnés"
      }
     ],
     "posts": [
@@ -1222,12 +1305,12 @@
     ],
     "citations": [
      {
-      "valeur": "5 973",
+      "valeur": "5 825",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "512",
+      "valeur": "511",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1237,17 +1320,17 @@
       "detail": ""
      },
      {
-      "valeur": "177",
+      "valeur": "176",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "3 408",
+      "valeur": "3 359",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 589 politiques"
+      "detail": "par 577 politiques"
      },
      {
-      "valeur": "161",
+      "valeur": "160",
       "libelle": "posts de lobbies et organisations sur 12 mois",
       "detail": "par 82 organisations"
      }
@@ -1256,12 +1339,12 @@
      {
       "nom": "Nils Wilcke",
       "role": "Journaliste",
-      "posts": "54 posts"
+      "posts": "51 posts"
      },
      {
       "nom": "Jean-Marc Morandini",
       "role": "Journaliste",
-      "posts": "45 posts"
+      "posts": "40 posts"
      },
      {
       "nom": "Marie-Cécile Renault",
@@ -1271,7 +1354,7 @@
     ]
    },
    "composantes": {
-    "sondage": 25,
+    "sondage": 24,
     "polymarket": 3,
     "attention": 19
    },
@@ -1279,47 +1362,6 @@
    "rangs": {
     "sondage": 6,
     "polymarket": 8
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 81.9,
-    "d": -10.5,
-    "parts": {
-     "Wikipedia": 15.7,
-     "abonnés": 15.6,
-     "YouTube": 41.3
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": 0,
-    "d24": -0.1,
-    "d30": null,
-    "vol": 2391431,
-    "vol7": 177679,
-    "haut": 1.7,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 82
-   },
-   "score": 17,
-   "rangs": {
-    "polymarket": 9
    }
   },
   {
@@ -1335,23 +1377,23 @@
     "d": -2.4
    },
    "attention": {
-    "v": 9.4,
-    "d": 0.9,
+    "v": 9.2,
+    "d": 0.6,
     "parts": {
-     "Wikipedia": 2.9,
-     "réseaux": 1.7,
-     "citations": 3.2,
-     "abonnés": 3.6,
+     "Wikipedia": 2.8,
+     "réseaux": 1.8,
+     "citations": 3.6,
+     "abonnés": 2.8,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 5.1,
-    "d": -0.1,
-    "d24": 1.5,
-    "d30": 2.1,
-    "vol": 2223542,
-    "vol7": 164974,
+    "v": 3.6,
+    "d": -1.9,
+    "d24": -1.4,
+    "d30": 0.7,
+    "vol": 2241908,
+    "vol7": 163030,
     "haut": 6.3,
     "bas": 2.8
    },
@@ -1368,27 +1410,27 @@
      {
       "rang": 26,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "502 posts"
+      "valeur": "504 posts"
      },
      {
       "rang": 17,
       "libelle": "sur 34 en engagement",
-      "valeur": "1 922 231"
+      "valeur": "1 935 278"
      },
      {
       "rang": 7,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 829"
+      "valeur": "3 840"
      },
      {
       "rang": 15,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "74 148 655"
+      "valeur": "74 225 768"
      },
      {
       "rang": 4,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "2 295 943 abonnés"
+      "valeur": "2 295 941 abonnés"
      }
     ],
     "posts": [
@@ -1413,7 +1455,7 @@
     ],
     "citations": [
      {
-      "valeur": "2 391",
+      "valeur": "2 399",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -1428,17 +1470,17 @@
       "detail": ""
      },
      {
-      "valeur": "67",
+      "valeur": "70",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "624",
+      "valeur": "627",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 269 politiques"
      },
      {
-      "valeur": "100",
+      "valeur": "101",
       "libelle": "posts de lobbies et organisations sur 12 mois",
       "detail": "par 48 organisations"
      }
@@ -1447,7 +1489,7 @@
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "71 posts"
+      "posts": "72 posts"
      },
      {
       "nom": "Françoise Degois",
@@ -1463,10 +1505,10 @@
    },
    "composantes": {
     "sondage": 20,
-    "polymarket": 12,
+    "polymarket": 8,
     "attention": 9
    },
-   "score": 15,
+   "score": 14,
    "rangs": {
     "sondage": 7,
     "polymarket": 5
@@ -1485,23 +1527,23 @@
     "d": 0.8
    },
    "attention": {
-    "v": 16.2,
-    "d": -1.1,
+    "v": 15.8,
+    "d": 2.8,
     "parts": {
-     "Wikipedia": 5.1,
-     "réseaux": 6.1,
+     "Wikipedia": 5,
+     "réseaux": 6,
      "citations": 1.2,
-     "abonnés": 3.9,
-     "YouTube": 4.8
+     "abonnés": 4,
+     "YouTube": 4.2
     }
    },
    "polymarket": {
     "v": 0.9,
-    "d": -0.1,
-    "d24": null,
-    "d30": 0.6,
-    "vol": 2722579,
-    "vol7": 167652,
+    "d": -0.2,
+    "d24": -0.1,
+    "d30": 0.3,
+    "vol": 2750178,
+    "vol7": 141784,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -1518,27 +1560,27 @@
      {
       "rang": 12,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 201 posts"
+      "valeur": "2 198 posts"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en engagement",
-      "valeur": "9 854 502"
+      "valeur": "9 848 851"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "4 477"
+      "valeur": "4 481"
      },
      {
       "rang": 7,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "140 388 315"
+      "valeur": "140 254 023"
      },
      {
       "rang": 7,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 363 414 abonnés"
+      "valeur": "1 363 496 abonnés"
      }
     ],
     "posts": [
@@ -1578,7 +1620,7 @@
       "detail": ""
      },
      {
-      "valeur": "26",
+      "valeur": "23",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
@@ -1602,7 +1644,7 @@
      {
       "nom": "Nassira El Moaddem",
       "role": "Journaliste",
-      "posts": "32 posts"
+      "posts": "33 posts"
      },
      {
       "nom": "Alexandre Devecchio",
@@ -1619,7 +1661,7 @@
    "score": 10,
    "rangs": {
     "sondage": 8,
-    "polymarket": 10
+    "polymarket": 11
    }
   },
   {
@@ -1631,16 +1673,17 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 3.6,
-    "d": 0.3
+    "v": 3.5,
+    "d": 0.2
    },
    "attention": {
-    "v": 4.7,
-    "d": -29.9,
+    "v": 5.6,
+    "d": -30.6,
     "parts": {
+     "Wikipedia": 2.4,
      "réseaux": 2.2,
      "citations": 1,
-     "abonnés": 0.6,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
@@ -1649,8 +1692,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4393082,
-    "vol7": 124564,
+    "vol": 4408187,
+    "vol7": 127375,
     "haut": null,
     "bas": null
    },
@@ -1696,27 +1739,27 @@
      {
       "rang": 3,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 377 posts"
+      "valeur": "4 372 posts"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en engagement",
-      "valeur": "6 764 182"
+      "valeur": "6 657 277"
      },
      {
       "rang": 17,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 545"
+      "valeur": "1 523"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "197 843 185"
+      "valeur": "194 562 423"
      },
      {
       "rang": 15,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "640 799 abonnés"
+      "valeur": "641 000 abonnés"
      }
     ],
     "posts": [
@@ -1741,7 +1784,7 @@
     ],
     "citations": [
      {
-      "valeur": "2 681",
+      "valeur": "2 648",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -1756,12 +1799,12 @@
       "detail": ""
      },
      {
-      "valeur": "21",
+      "valeur": "19",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "827",
+      "valeur": "824",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 307 politiques"
      },
@@ -1790,11 +1833,11 @@
     ]
    },
    "composantes": {
-    "sondage": 11,
+    "sondage": 10,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
-   "score": 7,
+   "score": 6,
    "rangs": {
     "sondage": 9,
     "polymarket": 12
@@ -1813,13 +1856,13 @@
     "d": -0.2
    },
    "attention": {
-    "v": 5.5,
-    "d": 1.2,
+    "v": 5.4,
+    "d": 2,
     "parts": {
-     "Wikipedia": 1.3,
-     "réseaux": 1.5,
-     "citations": 1.5,
-     "abonnés": 2.4,
+     "Wikipedia": 1.2,
+     "réseaux": 1.4,
+     "citations": 1.6,
+     "abonnés": 2.5,
      "YouTube": 0
     }
    },
@@ -1827,9 +1870,9 @@
     "v": 0.1,
     "d": null,
     "d24": null,
-    "d30": -0.1,
-    "vol": 4248943,
-    "vol7": 0,
+    "d30": null,
+    "vol": 4248945,
+    "vol7": 4652,
     "haut": null,
     "bas": null
    },
@@ -1875,27 +1918,27 @@
      {
       "rang": 18,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 097 posts"
+      "valeur": "1 101 posts"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en engagement",
-      "valeur": "451 526"
+      "valeur": "454 995"
      },
      {
       "rang": 28,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "412"
+      "valeur": "413"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "18 778 414"
+      "valeur": "18 838 203"
      },
      {
       "rang": 27,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "160 295 abonnés"
+      "valeur": "160 421 abonnés"
      }
     ],
     "posts": [
@@ -1920,7 +1963,7 @@
     ],
     "citations": [
      {
-      "valeur": "779",
+      "valeur": "782",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -1935,14 +1978,14 @@
       "detail": ""
      },
      {
-      "valeur": "32",
+      "valeur": "31",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "146",
+      "valeur": "149",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 91 politiques"
+      "detail": "par 92 politiques"
      },
      {
       "valeur": "14",
@@ -1971,7 +2014,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 6
+    "attention": 5
    },
    "score": 5,
    "rangs": {
@@ -1992,23 +2035,23 @@
     "d": -1
    },
    "attention": {
-    "v": 6.5,
-    "d": -4.2,
+    "v": 7,
+    "d": -2,
     "parts": {
-     "Wikipedia": 3.7,
-     "réseaux": 0.2,
-     "citations": 2.7,
-     "abonnés": 1.3,
+     "Wikipedia": 3.4,
+     "réseaux": 0.3,
+     "citations": 3.5,
+     "abonnés": 1.2,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 0.5,
-    "d": 0.1,
-    "d24": 0.3,
-    "d30": -0.9,
-    "vol": 2239880,
-    "vol7": 147851,
+    "v": 1.2,
+    "d": 0.8,
+    "d24": 0.7,
+    "d30": -0.2,
+    "vol": 2334171,
+    "vol7": 230956,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -2040,12 +2083,12 @@
      {
       "rang": 21,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "713 posts"
+      "valeur": "714 posts"
      },
      {
       "rang": 14,
       "libelle": "sur 34 en engagement",
-      "valeur": "2 275 143"
+      "valeur": "2 278 025"
      },
      {
       "rang": 9,
@@ -2055,7 +2098,7 @@
      {
       "rang": 17,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "38 618 529"
+      "valeur": "38 472 694"
      },
      {
       "rang": 26,
@@ -2085,12 +2128,12 @@
     ],
     "citations": [
      {
-      "valeur": "1 425",
+      "valeur": "1 436",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "263",
+      "valeur": "265",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -2100,14 +2143,14 @@
       "detail": ""
      },
      {
-      "valeur": "57",
+      "valeur": "68",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "256",
+      "valeur": "260",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 90 politiques"
+      "detail": "par 91 politiques"
      },
      {
       "valeur": "53",
@@ -2119,7 +2162,7 @@
      {
       "nom": "Edwy Plenel",
       "role": "Journaliste",
-      "posts": "14 posts"
+      "posts": "16 posts"
      },
      {
       "nom": "Pierre Haski",
@@ -2135,13 +2178,13 @@
    },
    "composantes": {
     "sondage": 6,
-    "polymarket": 1,
+    "polymarket": 3,
     "attention": 7
    },
    "score": 5,
    "rangs": {
     "sondage": 11,
-    "polymarket": 11
+    "polymarket": 9
    }
   },
   {
@@ -2154,14 +2197,14 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 8.1,
-    "d": 1,
+    "v": 7.9,
+    "d": 1.1,
     "parts": {
-     "Wikipedia": 2.9,
-     "réseaux": 3.8,
-     "citations": 0.9,
+     "Wikipedia": 2.7,
+     "réseaux": 3.6,
+     "citations": 1.1,
      "abonnés": 0.7,
-     "YouTube": 0.7
+     "YouTube": 0.6
     }
    },
    "polymarket": {
@@ -2169,8 +2212,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4574129,
-    "vol7": 208524,
+    "vol": 4589564,
+    "vol7": 211663,
     "haut": null,
     "bas": null
    },
@@ -2187,27 +2230,27 @@
      {
       "rang": 2,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 622 posts"
+      "valeur": "4 638 posts"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en engagement",
-      "valeur": "7 045 059"
+      "valeur": "7 041 011"
      },
      {
       "rang": 18,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 524"
+      "valeur": "1 518"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "128 012 047"
+      "valeur": "126 842 136"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 353 787 abonnés"
+      "valeur": "1 353 913 abonnés"
      }
     ],
     "posts": [
@@ -2232,7 +2275,7 @@
     ],
     "citations": [
      {
-      "valeur": "1 378",
+      "valeur": "1 380",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -2247,14 +2290,14 @@
       "detail": ""
      },
      {
-      "valeur": "19",
+      "valeur": "22",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "380",
+      "valeur": "382",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 156 politiques"
+      "detail": "par 157 politiques"
      },
      {
       "valeur": "77",
@@ -2300,12 +2343,11 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.2,
-    "d": 0.1,
+    "v": 1,
+    "d": 0.5,
     "parts": {
-     "Wikipedia": 0.8,
      "réseaux": 0,
-     "citations": 0.6,
+     "citations": 0.8,
      "abonnés": 0,
      "YouTube": 0
     }
@@ -2315,8 +2357,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 6153588,
-    "vol7": 2011,
+    "vol": 6153790,
+    "vol7": 1431,
     "haut": null,
     "bas": null
    },
@@ -2333,27 +2375,27 @@
      {
       "rang": 20,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "822 posts"
+      "valeur": "824 posts"
      },
      {
       "rang": 23,
       "libelle": "sur 34 en engagement",
-      "valeur": "566 280"
+      "valeur": "566 237"
      },
      {
       "rang": 23,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "689"
+      "valeur": "687"
      },
      {
       "rang": 26,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "14 421 626"
+      "valeur": "14 419 961"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "236 640 abonnés"
+      "valeur": "236 641 abonnés"
      }
     ],
     "posts": [
@@ -2378,7 +2420,7 @@
     ],
     "citations": [
      {
-      "valeur": "605",
+      "valeur": "607",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -2393,14 +2435,14 @@
       "detail": ""
      },
      {
-      "valeur": "12",
+      "valeur": "16",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "855",
+      "valeur": "858",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 208 politiques"
+      "detail": "par 211 politiques"
      },
      {
       "valeur": "734",
@@ -2506,6 +2548,43 @@
     "Éric Zemmour": 0.9,
     "Sarah Knafo": 0.9,
     "Dominique de Villepin": 0.5,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 88.8,
+    "Marine Le Pen": 56.4,
+    "David Lisnard": 54.5,
+    "Raphaël Glucksmann": 22.8,
+    "Gabriel Attal": 22.2,
+    "Bruno Retailleau": 19.3,
+    "Édouard Philippe": 16.8,
+    "Éric Zemmour": 15.8,
+    "François Hollande": 9.2,
+    "François Ruffin": 7.9,
+    "Dominique de Villepin": 7,
+    "Marine Tondelier": 5.6,
+    "Fabien Roussel": 5.4,
+    "Xavier Bertrand": 1
+   },
+   "polymarket": {
+    "Marine Le Pen": 43.2,
+    "Édouard Philippe": 17.5,
+    "Jean-Luc Mélenchon": 12.5,
+    "David Lisnard": 12.3,
+    "François Hollande": 3.6,
+    "Gabriel Attal": 2.1,
+    "Raphaël Glucksmann": 1.4,
+    "Bruno Retailleau": 1.2,
+    "Dominique de Villepin": 1.2,
+    "Sarah Knafo": 1,
+    "Éric Zemmour": 0.9,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
     "Xavier Bertrand": 0.1,
