@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { dates, parDate, dateLongue, semaineDe, libelleSemaine, RUBRIQUES, unesDuJour } from "@/lib/editions";
+import { dates, parDate, dateLongue, semaineDe, libelleSemaine, RUBRIQUES, unesDuJour, titreCourt } from "@/lib/editions";
 import { Section } from "@/components/ui";
 import Journee from "@/components/Journee";
 import Parcours from "@/components/Parcours";
@@ -32,9 +32,9 @@ export default function Accueil() {
           <Link key={d} href={`/jour/${d}`} className="carte flex min-w-0 flex-col gap-2 p-5 transition hover:-translate-y-0.5">
             <p className="d text-[20px]">{dateLongue(d)}</p>
             {parDate(d).slice(0, 3).map((e) => (
-              <p key={e.rubrique} className="flex gap-2.5 truncate text-[14px] text-gris">
+              <p key={e.rubrique} className="flex gap-2.5 text-[14px] leading-snug text-gris">
                 <span className="mt-1.5 h-2 w-2 shrink-0 rounded-[3px]" style={{ backgroundColor: RUBRIQUES[e.rubrique].couleur }} />
-                <span className="truncate">{e.sujets[0]?.titre}</span>
+                <span className="min-w-0">{e.sujets[0] && titreCourt(e, e.sujets[0])}</span>
               </p>
             ))}
           </Link>

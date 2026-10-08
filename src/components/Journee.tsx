@@ -10,7 +10,14 @@ import Lexique from "@/components/dyn/Lexique";
 import barometre from "../../content/barometre.json";
 import type { Candidat } from "@/components/dyn/Candidats";
 
-const coupe = (t: string | null, n: number) => (!t ? "" : t.length <= n ? t : t.slice(0, t.lastIndexOf(" ", n)) + "…");
+// Raccourcit un texte en phrases entières (jamais de « … ») : autant de phrases que la limite le permet, au moins la première
+const coupe = (t: string | null, n: number) => {
+  if (!t) return "";
+  const phrases = t.match(/[^.!?]+[.!?]+(?:\s+|$)/g) ?? [t];
+  let r = phrases[0];
+  for (const p of phrases.slice(1)) { if ((r + p).length > n) break; r += p; }
+  return r.trim();
+};
 const premierePhrase = (t: string | null) => (t ? (t.match(/^[^.!?]+[.!?]/)?.[0] ?? t) : "");
 
 // Le sujet principal : photo + chiffre, titre, trois étapes, appel à lire
@@ -208,7 +215,7 @@ export default function Journee({ date }: { date: string }) {
                           <span className="w-1 shrink-0 rounded-full" style={{ backgroundColor: RUBRIQUES[a.rubrique].couleur }} />
                           <span className="min-w-0">
                             <span className="block text-[11.5px] font-extrabold uppercase tracking-[0.04em]" style={{ color: RUBRIQUES[a.rubrique].couleur }}>{RUBRIQUES[a.rubrique].court}</span>
-                            <span className="mt-0.5 line-clamp-3 block text-[14px] leading-snug">{a.texte}</span>
+                            <span className="mt-0.5 block text-[14px] leading-snug">{a.texte}</span>
                           </span>
                         </Link>
                       </li>

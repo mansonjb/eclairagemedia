@@ -148,8 +148,7 @@ export function unesDuJour(date: string): { e: Edition; s: Sujet }[] {
 export function titreCourt(e: { rubrique: string; date: string }, s: Sujet) {
   const t = s.court || (titresCourts as Record<string, string>)[`${e.rubrique}-${e.date}-${s.n}`];
   if (t) return t;
-  const [a, b] = s.titre.split(" : ");
-  return s.titre.length <= 60 ? s.titre : b && a.length <= 30 ? `${a} : ${b.split(" ").slice(0, 5).join(" ")}…` : s.titre.split(" ").slice(0, 7).join(" ") + "…";
+  return s.titre; // jamais de titre coupé par « … »
 }
 
 // Lien vers la page d'un sujet

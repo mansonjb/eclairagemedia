@@ -29,7 +29,7 @@ export default function Podcast() {
         <div className="carte flex flex-col gap-3 p-5">
           <p className="text-[13px] font-extrabold tracking-[0.06em]">S&apos;ABONNER AU PODCAST</p>
           <BoutonSpotify className="self-start" />
-          <p className="text-[14px] text-gris">Ou copiez l&apos;adresse du flux dans votre application (Apple Podcasts, Pocket Casts, Podcast Addict…).</p>
+          <p className="text-[14px] text-gris">Ou copiez l&apos;adresse du flux dans votre application (Apple Podcasts, Pocket Casts ou Podcast Addict).</p>
           <CopierRss url={`${SITE}/podcast.xml`} />
         </div>
       </section>

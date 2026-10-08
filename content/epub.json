@@ -3,7 +3,7 @@
   "date": "2026-10-08",
   "url": "/epub/eclairage-2026-10-08.epub",
   "txt": "/epub/eclairage-2026-10-08.txt",
-  "taille": 208214,
+  "taille": 207866,
   "rubriques": [
    "politique",
    "economie",
@@ -13,13 +13,13 @@
    "tech"
   ],
   "sujets": 16,
-  "empreinte": "5f68fb4b69b8"
+  "empreinte": "3eae748d0d3d"
  },
  {
   "date": "2026-10-07",
   "url": "/epub/eclairage-2026-10-07.epub",
   "txt": "/epub/eclairage-2026-10-07.txt",
-  "taille": 204620,
+  "taille": 204391,
   "rubriques": [
    "politique",
    "economie",
@@ -28,13 +28,13 @@
    "tech"
   ],
   "sujets": 15,
-  "empreinte": "689b7203790f"
+  "empreinte": "f669b5e0d815"
  },
  {
   "date": "2026-10-06",
   "url": "/epub/eclairage-2026-10-06.epub",
   "txt": "/epub/eclairage-2026-10-06.txt",
-  "taille": 212196,
+  "taille": 211808,
   "rubriques": [
    "politique",
    "economie",
@@ -44,6 +44,6 @@
    "tech"
   ],
   "sujets": 19,
-  "empreinte": "d2c3b27bd373"
+  "empreinte": "572c767620d7"
  }
 ]

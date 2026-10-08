@@ -48,7 +48,7 @@ Laurent Marcangeli (Horizons), président du groupe Horizons et indépendants
 
 Ce qui change
 
-Les violences et leur bilan restent contestés : le gouvernement et la gauche s'opposent sur la responsabilité des forces de l'ordre et sur l'origine des blocages. Aucune responsabilité policière n'est établie à ce stade ; les enquêtes de l'IGPN doivent…
+Les violences et leur bilan restent contestés : le gouvernement et la gauche s'opposent sur la responsabilité des forces de l'ordre et sur l'origine des blocages.
 
 Et après
 
@@ -139,7 +139,7 @@ Marine Le Pen (Rn), présidente du groupe RN à l'Assemblée, mardi 6 octobre
 
 Ce qui change
 
-La commission des finances peut modifier le texte avant qu'il n'arrive dans l'hémicycle ; le sort du budget dépendra des votes des groupes et du recours éventuel à l'article 49.3 ou d'une motion de censure.
+3 ou d'une motion de censure.
 
 Et après
 
@@ -374,7 +374,7 @@ Sources : Reuters via Boursorama · ABC Bourse · BFM Bourse · dépêche AFP vi
 À venir
 
 - 7 oct. : Réserve fédérale américaine : compte rendu de sa dernière réunion.
-- 9 oct. : Medincell : décision attendue de la FDA sur son traitement injectable contre la schizophrénie, développé avec Teva (date citée par une seule source, Moneyvox, à…
+- 9 oct. : Medincell : décision attendue de la FDA sur son traitement injectable contre la schizophrénie, développé avec Teva (date citée par une seule source, Moneyvox, à confirmer).
 
 Les mots du jour
 
@@ -571,7 +571,7 @@ Ministère de la Transition écologique (Pouvoirs publics)
 
 Ce qui change
 
-Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles. Dans l'assiette, l'effet sur l'exposition se mesurerait sur plusieurs…
+Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles.
 
 Et après
 
@@ -676,7 +676,7 @@ Kate Gilchrist (Créateurs / ayants droit), responsable du contenu et des affair
 
 Ce qui change
 
-Si l'Australie légifère, un éditeur d'agents d'IA devrait prévenir les autorités quand l'un de ses agents accède à des données par erreur. Pour une entreprise cliente, cela rend ce type d'incident plus visible. Aucune loi n'est encore proposée dans les sources…
+Si l'Australie légifère, un éditeur d'agents d'IA devrait prévenir les autorités quand l'un de ses agents accède à des données par erreur. Pour une entreprise cliente, cela rend ce type d'incident plus visible.
 
 Et après
 
@@ -717,7 +717,7 @@ Tom Gaitens (Association / société civile), conseiller, Humans First (groupe c
 
 Ce qui change
 
-Rien n'est interdit à ce stade : il s'agit d'une demande d'organisation. Si un moratoire ou une obligation d'évaluation environnementale était adopté, les projets de centres de données sur terres fédérales seraient retardés ou encadrés, avec un effet sur le…
+Rien n'est interdit à ce stade : il s'agit d'une demande d'organisation.
 
 Et après
 
@@ -729,7 +729,7 @@ Sources : Reuters via Yahoo Actualités · Mountain West News Bureau (KSUT) · N
 
 - 8 oct. : États-Unis : date demandée aux élus pour la réponse du secrétaire à l'Intérieur sur les centres de données (KUNC).
 - 9 oct. : Australie : dernière séance de la commission sur l'IA (Reuters).
-- 27 oct. : Mistral AI : publication annoncée des poids de Large 4 (mistral.ai).
+- 27 oct. : ai).
 - 30 nov. : Australie : rapport final de la commission (Reuters).
 
 Les mots du jour

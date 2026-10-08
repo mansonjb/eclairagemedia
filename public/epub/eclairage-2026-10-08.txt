@@ -407,7 +407,7 @@ ANSM (Autorité de santé), agence nationale
 
 Ce qui change
 
-Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions. Toute question sur un traitement en cours se règle…
+Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions.
 
 Et après
 
@@ -445,7 +445,7 @@ GenSight Biologics (Industrie), promoteur de l'essai
 
 Ce qui change
 
-Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité. Les résultats montrent qu'une réponse visuelle mesurable est possible chez certains patients, sans démontrer un bénéfice dans la vie…
+Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité.
 
 Et après
 
@@ -572,9 +572,9 @@ Sources : Ville de La Rochelle · ICI · Le Grand Repas
 À venir
 
 - 8 oct. : Rassemblement lycéen et syndical : 9 h, place de Verdun (ICI).
-- 9 oct. : Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr).
-- 12 oct. : Conseil municipal de La Rochelle : séance du lundi (larochelle.fr).
-- 15 oct. : Journées nationales de la réparation (15 au 17 octobre) : 13 animations portées par 11 associations ou structures de l'agglomération (agglo-larochelle.fr).
+- 9 oct. : fr).
+- 12 oct. : fr).
+- 15 oct. : fr).
 
 Les mots du jour
 
@@ -622,7 +622,7 @@ Agreste (Pouvoirs publics), service statistique du ministère de l'Agriculture
 
 Ce qui change
 
-Pour les vignerons, l'écart entre bassins est le fait marquant : une récolte en hausse dans le Sud-Ouest, le Bordelais et le Languedoc-Roussillon, très en baisse en Champagne et dans le Jura. Pour les consommateurs, aucune conséquence de prix n'est établie à…
+Pour les vignerons, l'écart entre bassins est le fait marquant : une récolte en hausse dans le Sud-Ouest, le Bordelais et le Languedoc-Roussillon, très en baisse en Champagne et dans le Jura.
 
 Et après
 
@@ -725,7 +725,7 @@ OpenAI (Concurrent), GPT-6 Luna
 
 Ce qui change
 
-Pour une entreprise qui traite de gros volumes (tri de courriels, extraction de données, assistants), le coût par tâche peut baisser, sous réserve de la qualité réelle. Un particulier peut sélectionner le modèle dans Claude.ai.
+Pour une entreprise qui traite de gros volumes (tri de courriels, extraction de données, assistants), le coût par tâche peut baisser, sous réserve de la qualité réelle. ai.
 
 Et après
 
@@ -801,7 +801,7 @@ Commission européenne (Régulateur), règlement sur l'IA
 
 Ce qui change
 
-Dans l'Union européenne, des textes produits avec ChatGPT ou Codex pourront porter une marque statistique invisible, que seuls des acteurs approuvés pourront lire pour l'instant. Pour un enseignant, un éditeur ou une agence, ce n'est pas un outil de contrôle…
+Dans l'Union européenne, des textes produits avec ChatGPT ou Codex pourront porter une marque statistique invisible, que seuls des acteurs approuvés pourront lire pour l'instant.
 
 Et après
 
@@ -812,7 +812,7 @@ Sources : OpenAI (annonce) · Blog du Modérateur · Begeek · Commission europ�
 À venir
 
 - 8 oct. : OpenAI : GPT-6 (Luna) attendu sur les comptes Free et Go (TestingCatalog).
-- 27 oct. : Mistral AI : publication annoncée des poids de Large 4 (mistral.ai).
+- 27 oct. : ai).
 - 30 nov. : Australie : rapport final de la commission parlementaire sur l'IA (Reuters).
 - 2 déc. : Union européenne : fin du délai de marquage des contenus pour les systèmes d'IA générative déjà sur le marché (ActuIA).
 

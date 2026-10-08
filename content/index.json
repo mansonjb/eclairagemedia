@@ -323,7 +323,7 @@
     "court": "Vendange 2026 : près de 35 millions d'hl",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nombreuses_grappes_du_vignoble_de_Montmartre_%282015%29.jpg/1280px-Nombreuses_grappes_du_vignoble_de_Montmartre_%282015%29.jpg",
     "legende": "Grappes de raisin noir dans une vigne",
-    "chapeau": "Le 7 octobre 2026, le service statistique du ministère de l'Agriculture (Agreste) a publié son estimation de la production viticole au 1er octobre : près de 35 millions d'hectolitres, contre environ 33,9 millions annoncés un mois plus tôt. Cela représente un recul de 2 % sur 2025, année déjà peu abondante, et de 14 %…",
+    "chapeau": "Le 7 octobre 2026, le service statistique du ministère de l'Agriculture (Agreste) a publié son estimation de la production viticole au 1er octobre : près de 35 millions d'hectolitres, contre environ 33,9 millions annoncés un mois plus tôt.",
     "eclairage": "Comment est calculée une estimation de vendange ?",
     "chiffres": [
      {
@@ -374,7 +374,7 @@
      }
     ],
     "apres": "Agreste doit publier une nouvelle estimation au 1er novembre ; les déclarations de récolte fixeront ensuite le résultat définitif de la campagne.",
-    "change": "Pour les vignerons, l'écart entre bassins est le fait marquant : une récolte en hausse dans le Sud-Ouest, le Bordelais et le Languedoc-Roussillon, très en baisse en Champagne et dans le Jura. Pour les consommateurs, aucune conséquence de prix n'est établie à…",
+    "change": "Pour les vignerons, l'écart entre bassins est le fait marquant : une récolte en hausse dans le Sud-Ouest, le Bordelais et le Languedoc-Roussillon, très en baisse en Champagne et dans le Jura.",
     "credit": {
      "auteur": "Tangopaso",
      "licence": "Domaine public",
@@ -389,7 +389,7 @@
     "court": "Sécheresse : nouvelles aides attendues",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Prairie_de_Pre_Daval_vallee_du_Fossat_2015-08-25.jpg/1280px-Prairie_de_Pre_Daval_vallee_du_Fossat_2015-08-25.jpg",
     "legende": "Vaches sur une prairie au pied d'un massif boisé",
-    "chapeau": "Le 7 octobre 2026, dans une allocution depuis Matignon, le Premier ministre Sébastien Lecornu a annoncé que la ministre de l'Agriculture, Annie Genevard, présenterait jeudi 8 octobre de « nouvelles mesures » aux agriculteurs touchés par les canicules, au Sommet de l'élevage de Cournon-d'Auvergne. Cette visite avait été…",
+    "chapeau": "Le 7 octobre 2026, dans une allocution depuis Matignon, le Premier ministre Sébastien Lecornu a annoncé que la ministre de l'Agriculture, Annie Genevard, présenterait jeudi 8 octobre de « nouvelles mesures » aux agriculteurs touchés par les canicules, au Sommet de l'élevage de Cournon-d'Auvergne.",
     "eclairage": "Qu'est-ce que l'indemnité de solidarité nationale ?",
     "chiffres": [
      {
@@ -702,17 +702,17 @@
    {
     "jour": "9",
     "mois": "OCT.",
-    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle : séance du lundi (larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "15",
     "mois": "OCT.",
-    "texte": "Journées nationales de la réparation (15 au 17 octobre) : 13 animations portées par 11 associations ou structures de l'agglomération (agglo-larochelle.fr)."
+    "texte": "fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -744,7 +744,7 @@
     "court": "Lycées : grenades suspendues",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_004.jpg/1280px-Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_004.jpg",
     "legende": "Cortège de la manifestation lycéenne et étudiante du 6 octobre 2026 à Paris",
-    "chapeau": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a annoncé sur RTL la suspension de l'usage des grenades assourdissantes « pour le mouvement lycéen », après qu'un lycéen de 15 ans a eu une main arrachée lundi lors d'une manifestation à Lens (Pas-de-Calais), dans des circonstances qui restent à déterminer.…",
+    "chapeau": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a annoncé sur RTL la suspension de l'usage des grenades assourdissantes « pour le mouvement lycéen », après qu'un lycéen de 15 ans a eu une main arrachée lundi lors d'une manifestation à Lens (Pas-de-Calais), dans des circonstances qui restent à déterminer.",
     "eclairage": "Que décide, et que ne décide pas, cette suspension ?",
     "chiffres": [
      {
@@ -843,7 +843,7 @@
     "court": "Lecornu : 10 millions de barils libérés",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Facade_%40_Jardin_de_l'H%C3%B4tel_Matignon_%40_Paris_(34261927513).jpg/1280px-Facade_%40_Jardin_de_l'H%C3%B4tel_Matignon_%40_Paris_(34261927513).jpg",
     "legende": "La façade de l'hôtel de Matignon côté jardin (illustration)",
-    "chapeau": "Mercredi 7 octobre au soir, le Premier ministre Sébastien Lecornu s'est adressé aux Français depuis Matignon, à la veille d'une nouvelle journée d'action lycéenne. Il a annoncé que 10 millions de barils de gazole issus des réserves stratégiques seraient mis à disposition des distributeurs, au prix de revient, pour une…",
+    "chapeau": "Mercredi 7 octobre au soir, le Premier ministre Sébastien Lecornu s'est adressé aux Français depuis Matignon, à la veille d'une nouvelle journée d'action lycéenne.",
     "eclairage": "Que sont les réserves stratégiques de carburant ?",
     "chiffres": [
      {
@@ -962,7 +962,7 @@
     "court": "Budget 2027 : une croissance « optimiste »",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Palais_Cambon,_Grand'Chambre_(1).jpg/1280px-Palais_Cambon,_Grand'Chambre_(1).jpg",
     "legende": "Inscription de l'article 15 de la Déclaration de 1789 au palais Cambon, siège de la Cour des comptes (illustration)",
-    "chapeau": "Mercredi 7 octobre, Amélie de Montchalin, première présidente de la Cour des comptes et présidente de droit du Haut Conseil des finances publiques (HCFP), a présenté aux parlementaires l'avis de l'institution sur le projet de budget 2027, publié le 1er octobre. Le HCFP juge « optimiste » la prévision de croissance de 1…",
+    "chapeau": "Mercredi 7 octobre, Amélie de Montchalin, première présidente de la Cour des comptes et présidente de droit du Haut Conseil des finances publiques (HCFP), a présenté aux parlementaires l'avis de l'institution sur le projet de budget 2027, publié le 1er octobre.",
     "eclairage": "À quoi sert le Haut Conseil des finances publiques ?",
     "chiffres": [
      {
@@ -1075,7 +1075,7 @@
     "court": "Transition : la Cour des comptes alerte",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Scay-FR-08-%C3%A9oliennes-a1.jpg/1280px-Scay-FR-08-%C3%A9oliennes-a1.jpg",
     "legende": "Éoliennes dans un paysage agricole en France (illustration)",
-    "chapeau": "Mercredi 7 octobre, la Cour des comptes a publié son rapport public sur la transition écologique, présenté dans la journée à la commission du développement durable de l'Assemblée nationale par sa première présidente, Amélie de Montchalin. Elle juge les résultats « insuffisants » et évalue les besoins d'investissements…",
+    "chapeau": "Mercredi 7 octobre, la Cour des comptes a publié son rapport public sur la transition écologique, présenté dans la journée à la commission du développement durable de l'Assemblée nationale par sa première présidente, Amélie de Montchalin.",
     "eclairage": "Que fait la Cour des comptes ?",
     "chiffres": [
      {
@@ -1223,7 +1223,7 @@
     "court": "aGLP-1 : mésusage et interactions",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ozempic%C2%AE_3ml.jpg/1280px-Ozempic%C2%AE_3ml.jpg",
     "legende": "Stylo injecteur d'Ozempic (sémaglutide), l'un des aGLP-1 suivis par l'ANSM",
-    "chapeau": "Le 7 octobre 2026, l'Agence nationale de sécurité du médicament (ANSM) a publié le troisième rapport de pharmacovigilance sur les analogues du GLP-1 (aGLP-1), des médicaments contre le diabète de type 2 et l'obésité comme Ozempic, Wegovy ou Mounjaro. Le rapport, préparé par le réseau des centres régionaux de…",
+    "chapeau": "Le 7 octobre 2026, l'Agence nationale de sécurité du médicament (ANSM) a publié le troisième rapport de pharmacovigilance sur les analogues du GLP-1 (aGLP-1), des médicaments contre le diabète de type 2 et l'obésité comme Ozempic, Wegovy ou Mounjaro.",
     "eclairage": "Que mesure un rapport de pharmacovigilance ?",
     "chiffres": [
      {
@@ -1266,7 +1266,7 @@
      }
     ],
     "apres": "L'Agence européenne des médicaments évalue si les aGLP-1 peuvent réduire l'efficacité des contraceptifs oraux. Aucune date de conclusion n'est annoncée dans les sources consultées.",
-    "change": "Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions. Toute question sur un traitement en cours se règle…",
+    "change": "Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions.",
     "credit": {
      "auteur": "HualinXMN",
      "licence": "CC BY-SA 4.0",
@@ -1281,7 +1281,7 @@
     "court": "Optogénétique : essai publié au NEJM",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fundus_of_patient_with_retinitis_pigmentosa%2C_end_stage.jpg",
     "legende": "Fond d'œil d'une rétinopathie pigmentaire à un stade avancé, la maladie visée par l'essai",
-    "chapeau": "Le 8 octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai PIONEER (« Optogenetic Therapy for Restoring Aspects of Visual Function »), annoncés par l'entreprise GenSight Biologics et par l'hôpital national des 15-20 à Paris. Il s'agit d'un premier essai chez l'humain (phase 1/2), mené sur…",
+    "chapeau": "Le 8 octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai PIONEER (« Optogenetic Therapy for Restoring Aspects of Visual Function »), annoncés par l'entreprise GenSight Biologics et par l'hôpital national des 15-20 à Paris.",
     "eclairage": "Pourquoi 10 patients ne prouvent pas l'efficacité",
     "chiffres": [
      {
@@ -1338,7 +1338,7 @@
      }
     ],
     "apres": "Il faudrait des essais plus larges, avec un groupe comparatif, avant tout dépôt de dossier auprès des autorités. Aucun calendrier n'est annoncé dans les sources consultées.",
-    "change": "Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité. Les résultats montrent qu'une réponse visuelle mesurable est possible chez certains patients, sans démontrer un bénéfice dans la vie…",
+    "change": "Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité.",
     "credit": {
      "auteur": "Christian Hamel",
      "licence": "CC BY 2.0",
@@ -1455,7 +1455,7 @@
      }
     ],
     "apres": "Les premières évaluations indépendantes diront si les scores annoncés se confirment ; le réglage d'effort modifie à la fois le coût et le résultat (selon VentureBeat, le score à un test de programmation double entre le réglage par défaut et l'effort maximal : information d'une seule source, à confirmer).",
-    "change": "Pour une entreprise qui traite de gros volumes (tri de courriels, extraction de données, assistants), le coût par tâche peut baisser, sous réserve de la qualité réelle. Un particulier peut sélectionner le modèle dans Claude.ai.",
+    "change": "Pour une entreprise qui traite de gros volumes (tri de courriels, extraction de données, assistants), le coût par tâche peut baisser, sous réserve de la qualité réelle. ai.",
     "credit": {
      "auteur": "Victorgrigas",
      "licence": "CC BY-SA 3.0",
@@ -1470,7 +1470,7 @@
     "court": "ChatGPT : GPT-6 et réponses interactives",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Smartphone_in_Hand_%28Unsplash%29.jpg/1280px-Smartphone_in_Hand_%28Unsplash%29.jpg",
     "legende": "Une main tenant un smartphone",
-    "chapeau": "Le 7 octobre 2026, OpenAI a commencé à déployer GPT-6 dans ChatGPT, avec une fonction baptisée « Intelligent UI » (interface intelligente) : selon la question, la réponse peut comporter des graphiques, des boutons, des formulaires ou des comparaisons côte à côte, au lieu de seulement du texte. L'utilisateur peut aussi…",
+    "chapeau": "Le 7 octobre 2026, OpenAI a commencé à déployer GPT-6 dans ChatGPT, avec une fonction baptisée « Intelligent UI » (interface intelligente) : selon la question, la réponse peut comporter des graphiques, des boutons, des formulaires ou des comparaisons côte à côte, au lieu de seulement du texte.",
     "eclairage": "Quand la réponse devient une interface",
     "chiffres": [
      {
@@ -1607,7 +1607,7 @@
      }
     ],
     "apres": "Début de l'activation dans les prochaines semaines ; échéance du 2 décembre 2026 pour les systèmes déjà sur le marché. En France, la loi désignant les autorités de contrôle n'était pas adoptée au 6 octobre (ActuIA).",
-    "change": "Dans l'Union européenne, des textes produits avec ChatGPT ou Codex pourront porter une marque statistique invisible, que seuls des acteurs approuvés pourront lire pour l'instant. Pour un enseignant, un éditeur ou une agence, ce n'est pas un outil de contrôle…",
+    "change": "Dans l'Union européenne, des textes produits avec ChatGPT ou Codex pourront porter une marque statistique invisible, que seuls des acteurs approuvés pourront lire pour l'instant.",
     "credit": {
      "auteur": "almathias",
      "licence": "CC0",
@@ -1625,7 +1625,7 @@
    {
     "jour": "27",
     "mois": "OCT.",
-    "texte": "Mistral AI : publication annoncée des poids de Large 4 (mistral.ai)."
+    "texte": "ai)."
    },
    {
     "jour": "30",
@@ -1802,7 +1802,7 @@
     "court": "Nvidia frôle 6 000 Md$ de valeur",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
     "legende": "Un bâtiment du siège de Nvidia à Santa Clara",
-    "chapeau": "Lundi 5 octobre, l'action Nvidia a clôturé à 238,90 dollars, soit une capitalisation d'environ 5 800 milliards de dollars, d'après Bloomberg et la presse financière : il lui manque environ 4 % pour atteindre 6 000 milliards, un seuil qu'aucune entreprise n'a atteint. Selon l'AFP, le titre a gagné 2,12 % lundi, dans une…",
+    "chapeau": "Lundi 5 octobre, l'action Nvidia a clôturé à 238,90 dollars, soit une capitalisation d'environ 5 800 milliards de dollars, d'après Bloomberg et la presse financière : il lui manque environ 4 % pour atteindre 6 000 milliards, un seuil qu'aucune entreprise n'a atteint.",
     "eclairage": "Que veut dire « valoir 6 000 milliards » ?",
     "chiffres": [
      {
@@ -1987,7 +1987,7 @@
    {
     "jour": "9",
     "mois": "OCT.",
-    "texte": "Medincell : décision attendue de la FDA sur son traitement injectable contre la schizophrénie, développé avec Teva (date citée par une seule source, Moneyvox, à…"
+    "texte": "Medincell : décision attendue de la FDA sur son traitement injectable contre la schizophrénie, développé avec Teva (date citée par une seule source, Moneyvox, à confirmer)."
    }
   ],
   "chiffreDuJour": null,
@@ -2027,7 +2027,7 @@
     "court": "Engrais : moins de cadmium d'ici 2030",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg/1280px-Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg",
     "legende": "Épandage d'engrais dans une prairie (illustration)",
-    "chapeau": "Le 2 octobre 2026, le ministère de la Transition écologique a publié trois textes (deux arrêtés et un décret) sur la qualité des matières fertilisantes. Ils fixent une trajectoire de baisse de la teneur en cadmium des engrais phosphatés : 60 milligrammes par kilogramme de pentoxyde de phosphore (P₂O₅) au 1er janvier…",
+    "chapeau": "Le 2 octobre 2026, le ministère de la Transition écologique a publié trois textes (deux arrêtés et un décret) sur la qualité des matières fertilisantes.",
     "eclairage": "Pourquoi du cadmium dans un engrais ?",
     "chiffres": [
      {
@@ -2088,7 +2088,7 @@
      }
     ],
     "apres": "Le décret s'applique au 1er janvier 2027 ; l'objectif de 20 mg/kg de P₂O₅ et de 2 g/ha/an est fixé au 1er janvier 2030.",
-    "change": "Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles. Dans l'assiette, l'effet sur l'exposition se mesurerait sur plusieurs…",
+    "change": "Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles.",
     "credit": {
      "auteur": "David Clark",
      "licence": "CC BY-SA 2.0",
@@ -2145,7 +2145,7 @@
     "court": "Lycées : l'acte III de la mobilisation",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_01.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_01.jpg",
     "legende": "Manifestation de lycéens et d'étudiants à Perpignan lors de l'« acte III » (illustration)",
-    "chapeau": "Mardi 6 octobre, pour l'« acte III » d'un mouvement parti mi-septembre de Créteil, des dizaines de milliers de lycéens, parents, enseignants et syndicalistes ont manifesté dans plusieurs villes. Selon le ministère de l'Intérieur, environ 86 000 manifestants avaient été recensés en province en milieu de journée ; le…",
+    "chapeau": "Mardi 6 octobre, pour l'« acte III » d'un mouvement parti mi-septembre de Créteil, des dizaines de milliers de lycéens, parents, enseignants et syndicalistes ont manifesté dans plusieurs villes.",
     "eclairage": "Comment les élus interrogent le gouvernement",
     "chiffres": [
      {
@@ -2253,7 +2253,7 @@
      }
     ],
     "apres": "Poursuite des discussions dans les lycées d'ici vendredi ; dépôt annoncé par le groupe socialiste d'une proposition de loi sur les armes mutilantes ; plateforme de consultation ouverte jusqu'au 23 octobre.",
-    "change": "Les violences et leur bilan restent contestés : le gouvernement et la gauche s'opposent sur la responsabilité des forces de l'ordre et sur l'origine des blocages. Aucune responsabilité policière n'est établie à ce stade ; les enquêtes de l'IGPN doivent…",
+    "change": "Les violences et leur bilan restent contestés : le gouvernement et la gauche s'opposent sur la responsabilité des forces de l'ordre et sur l'origine des blocages.",
     "credit": {
      "auteur": "Aurelio Cárdenas",
      "licence": "CC BY 4.0",
@@ -2268,7 +2268,7 @@
     "court": "Le Pen : 140 milliards d'économies",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Marine_Le_Pen_VIVA_24_%282%29.jpg/1280px-Marine_Le_Pen_VIVA_24_%282%29.jpg",
     "legende": "Marine Le Pen lors d'un meeting en 2024 (illustration)",
-    "chapeau": "Mardi 6 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a présenté son programme économique, aux côtés de Jordan Bardella et de Jean-Philippe Tanguy. Elle propose 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026, soit 15 milliards de plus que le chiffre avancé fin…",
+    "chapeau": "Mardi 6 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a présenté son programme économique, aux côtés de Jordan Bardella et de Jean-Philippe Tanguy.",
     "eclairage": "Qu'est-ce qu'une « règle d'or » budgétaire ?",
     "chiffres": [
      {
@@ -2377,7 +2377,7 @@
     "court": "Budget 2027 : place à la commission",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG/1280px-Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG",
     "legende": "Le ministère de l'Économie et des Finances à Bercy (illustration)",
-    "chapeau": "Le projet de loi de finances pour 2027 a été déposé à l'Assemblée nationale le 1er octobre et renvoyé à la commission des finances, qui commence son examen le mercredi 7 octobre à 9 heures. Le Premier ministre Sébastien Lecornu a annoncé un effort budgétaire d'environ 54 milliards d'euros, dans la stabilité fiscale,…",
+    "chapeau": "Le projet de loi de finances pour 2027 a été déposé à l'Assemblée nationale le 1er octobre et renvoyé à la commission des finances, qui commence son examen le mercredi 7 octobre à 9 heures.",
     "eclairage": "Le parcours d'un budget",
     "chiffres": [
      {
@@ -2455,7 +2455,7 @@
      }
     ],
     "apres": "7 octobre : début en commission ; 13 octobre : séance publique à l'Assemblée ; puis Sénat et commission mixte paritaire ; échéance de fin décembre.",
-    "change": "La commission des finances peut modifier le texte avant qu'il n'arrive dans l'hémicycle ; le sort du budget dépendra des votes des groupes et du recours éventuel à l'article 49.3 ou d'une motion de censure.",
+    "change": "3 ou d'une motion de censure.",
     "credit": {
      "auteur": "Dinkum",
      "licence": "CC0",
@@ -2470,7 +2470,7 @@
     "court": "Sénat : le RN entre au Bureau",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paris_Palais_du_Luxembourg_fa%C3%A7ade%26jardin_2014.jpg/1280px-Paris_Palais_du_Luxembourg_fa%C3%A7ade%26jardin_2014.jpg",
     "legende": "Le palais du Luxembourg, siège du Sénat (illustration)",
-    "chapeau": "Mardi 6 octobre, les présidents de groupe du Sénat se sont accordés à midi sur les listes de candidats au Bureau, l'instance dirigeante de la Haute assemblée ; la désignation des vice-présidents, questeurs et secrétaires était inscrite à la séance publique de 14 h 30. Selon l'AFP, le Rassemblement national et ses…",
+    "chapeau": "Mardi 6 octobre, les présidents de groupe du Sénat se sont accordés à midi sur les listes de candidats au Bureau, l'instance dirigeante de la Haute assemblée ; la désignation des vice-présidents, questeurs et secrétaires était inscrite à la séance publique de 14 h 30.",
     "eclairage": "À quoi sert le Bureau du Sénat ?",
     "chiffres": [
      {
@@ -2607,7 +2607,7 @@
     "court": "Nobel de médecine : l'optogénétique",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Optogenetics_imetronic.JPG/1280px-Optogenetics_imetronic.JPG",
     "legende": "Cages de laboratoire éclairées en bleu pour des expériences d'optogénétique (illustration)",
-    "chapeau": "Le 5 octobre 2026, le prix Nobel de physiologie ou médecine a été attribué à l'Américain Karl Deisseroth (université Stanford) et aux Allemands Peter Hegemann (université Humboldt de Berlin) et Georg Nagel (université de Wurtzbourg) pour leurs découvertes sur les canaux ioniques sensibles à la lumière et sur…",
+    "chapeau": "Le 5 octobre 2026, le prix Nobel de physiologie ou médecine a été attribué à l'Américain Karl Deisseroth (université Stanford) et aux Allemands Peter Hegemann (université Humboldt de Berlin) et Georg Nagel (université de Wurtzbourg) pour leurs découvertes sur les canaux ioniques sensibles à la lumière et sur l'optogénétique.",
     "eclairage": "Comment la lumière peut-elle commander une cellule ?",
     "chiffres": [
      {
@@ -2759,7 +2759,7 @@
     "court": "Ibogaïne : la FDA consulte le public",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tabernanthe_iboga_-_Feuilles.jpg/1280px-Tabernanthe_iboga_-_Feuilles.jpg",
     "legende": "Feuilles de Tabernanthe iboga, la plante dont est issue l'ibogaïne (illustration)",
-    "chapeau": "Le 5 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a publié une demande d'informations sur la conception d'essais cliniques précoces de l'ibogaïne, une substance psychoactive issue de la racine d'un arbuste d'Afrique centrale, Tabernanthe iboga. L'agence sollicite des commentaires et des données sur…",
+    "chapeau": "Le 5 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a publié une demande d'informations sur la conception d'essais cliniques précoces de l'ibogaïne, une substance psychoactive issue de la racine d'un arbuste d'Afrique centrale, Tabernanthe iboga.",
     "eclairage": "Pourquoi parler de sécurité avant d'efficacité ?",
     "chiffres": [
      {
@@ -2953,7 +2953,7 @@
     "court": "Australie : OpenAI et Anthropic pour la loi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canberra_%28AU%29%2C_Parliament_House_--_2019_--_1746.jpg/1280px-Canberra_%28AU%29%2C_Parliament_House_--_2019_--_1746.jpg",
     "legende": "Le Parlement australien à Canberra",
-    "chapeau": "Mardi 6 octobre 2026, devant une commission parlementaire australienne à Sydney, Jason Kwon (directeur de la stratégie d'OpenAI) et David Masters (responsable des politiques publiques d'Anthropic pour l'Australie et la Nouvelle-Zélande) ont dit qu'ils accepteraient une loi les obligeant à déclarer les fuites de données…",
+    "chapeau": "Mardi 6 octobre 2026, devant une commission parlementaire australienne à Sydney, Jason Kwon (directeur de la stratégie d'OpenAI) et David Masters (responsable des politiques publiques d'Anthropic pour l'Australie et la Nouvelle-Zélande) ont dit qu'ils accepteraient une loi les obligeant à déclarer les fuites de données causées par leurs agents d'IA.",
     "eclairage": "Qu'est-ce qu'un agent, et pourquoi déclarer ses fuites ?",
     "chiffres": [
      {
@@ -3024,7 +3024,7 @@
      }
     ],
     "apres": "Auditions jusqu'au 9 octobre, rapport final de la commission le 30 novembre.",
-    "change": "Si l'Australie légifère, un éditeur d'agents d'IA devrait prévenir les autorités quand l'un de ses agents accède à des données par erreur. Pour une entreprise cliente, cela rend ce type d'incident plus visible. Aucune loi n'est encore proposée dans les sources…",
+    "change": "Si l'Australie légifère, un éditeur d'agents d'IA devrait prévenir les autorités quand l'un de ses agents accède à des données par erreur. Pour une entreprise cliente, cela rend ce type d'incident plus visible.",
     "credit": {
      "auteur": "Dietmar Rabich",
      "licence": "CC BY-SA 4.0",
@@ -3039,7 +3039,7 @@
     "court": "États-Unis : moratoire sur terres fédérales",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lake_Mead_%26_Boulder_City.jpg/1280px-Lake_Mead_%26_Boulder_City.jpg",
     "legende": "Vue aérienne du lac Mead et de Boulder City, Nevada",
-    "chapeau": "Lundi 5 octobre 2026, l'organisation de protection de la nature The Wilderness Society a demandé un moratoire sur les centres de données d'intelligence artificielle sur les terres fédérales, en invoquant la consommation d'eau, la demande d'électricité, l'habitat de la faune et l'accès du public (Reuters). Selon…",
+    "chapeau": "Lundi 5 octobre 2026, l'organisation de protection de la nature The Wilderness Society a demandé un moratoire sur les centres de données d'intelligence artificielle sur les terres fédérales, en invoquant la consommation d'eau, la demande d'électricité, l'habitat de la faune et l'accès du public (Reuters).",
     "eclairage": "Pourquoi des centres de données sur des terres publiques ?",
     "chiffres": [
      {
@@ -3106,7 +3106,7 @@
      }
     ],
     "apres": "Réponse des élus attendue du secrétaire à l'Intérieur d'ici le 8 octobre. En novembre, les électeurs de Boulder City voteront sur un changement de zonage (KSUT).",
-    "change": "Rien n'est interdit à ce stade : il s'agit d'une demande d'organisation. Si un moratoire ou une obligation d'évaluation environnementale était adopté, les projets de centres de données sur terres fédérales seraient retardés ou encadrés, avec un effet sur le…",
+    "change": "Rien n'est interdit à ce stade : il s'agit d'une demande d'organisation.",
     "credit": {
      "auteur": "Doc Searls",
      "licence": "CC BY 2.0",
@@ -3129,7 +3129,7 @@
    {
     "jour": "27",
     "mois": "OCT.",
-    "texte": "Mistral AI : publication annoncée des poids de Large 4 (mistral.ai)."
+    "texte": "ai)."
    },
    {
     "jour": "30",
@@ -3174,7 +3174,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schneider_Elec_HQ.jpg/960px-Schneider_Elec_HQ.jpg",
     "legende": "Le siège de Schneider Electric à Rueil-Malmaison",
-    "chapeau": "Lundi 5 octobre, Schneider Electric et PTC ont annoncé un accord définitif : Schneider achète PTC, éditeur américain de logiciels de conception et de gestion de produits industriels basé à Boston, pour 205 dollars par action, en numéraire. Cela valorise les fonds propres de PTC à environ 22,6 milliards de dollars (20,1…",
+    "chapeau": "Lundi 5 octobre, Schneider Electric et PTC ont annoncé un accord définitif : Schneider achète PTC, éditeur américain de logiciels de conception et de gestion de produits industriels basé à Boston, pour 205 dollars par action, en numéraire.",
     "eclairage": "Comment une entreprise paie un rachat, et pourquoi la prime ?",
     "chiffres": [
      {
@@ -3249,7 +3249,7 @@
      }
     ],
     "apres": "Vote des actionnaires de PTC et feux verts réglementaires, puis finalisation attendue d'ici au troisième trimestre 2027.",
-    "change": "Pour les clients industriels de Schneider et de PTC, la promesse est d'offrir dans une seule gamme les logiciels de conception, les équipements électriques et l'intelligence artificielle. Pour les actionnaires de Schneider, l'achat pèse sur le cours à court…",
+    "change": "Pour les clients industriels de Schneider et de PTC, la promesse est d'offrir dans une seule gamme les logiciels de conception, les équipements électriques et l'intelligence artificielle.",
     "credit": {
      "auteur": "Wilmotte & associés architectes",
      "licence": "CC BY-SA 4.0",
@@ -3264,7 +3264,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Altona_Oil_Refinery_Victoria.jpg/1280px-Altona_Oil_Refinery_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Raffinerie de pétrole",
-    "chapeau": "Lundi 5 octobre, à Londres, le directeur général de Saudi Aramco, Amin Nasser, a déclaré au forum Energy Intelligence que le monde a perdu près de 3 milliards de barils d'offre brute depuis le début de la guerre en Iran. Le monde est entré dans la crise avec environ 10 milliards de barils de stocks ; plus d'un milliard…",
+    "chapeau": "Lundi 5 octobre, à Londres, le directeur général de Saudi Aramco, Amin Nasser, a déclaré au forum Energy Intelligence que le monde a perdu près de 3 milliards de barils d'offre brute depuis le début de la guerre en Iran.",
     "eclairage": "À quoi servent les stocks de pétrole ?",
     "chiffres": [
      {
@@ -3315,7 +3315,7 @@
      }
     ],
     "apres": "La publication des minutes de la Fed mercredi 7 octobre et la suite des libérations de réserves stratégiques.",
-    "change": "Des stocks bas rendent les prix plus sensibles aux mauvaises nouvelles : les ménages et les entreprises restent exposés à un carburant cher tant que le détroit d'Ormuz n'est pas pleinement rouvert. Précision : Aramco est lui-même un acteur du marché, qui vend…",
+    "change": "Des stocks bas rendent les prix plus sensibles aux mauvaises nouvelles : les ménages et les entreprises restent exposés à un carburant cher tant que le détroit d'Ormuz n'est pas pleinement rouvert.",
     "credit": {
      "auteur": "Sgroey",
      "licence": "CC BY-SA 4.0",
@@ -3535,7 +3535,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Muck_spreading_at_Findatie_Farm.jpg/960px-Muck_spreading_at_Findatie_Farm.jpg",
     "legende": "Épandage d'un amendement organique dans un champ de chaume",
-    "chapeau": "Dans un communiqué du 1er octobre, la Fédération nationale d'agriculture biologique (Fnab) a demandé que les agriculteurs bio soient éligibles au plan d'aide à l'achat d'engrais, doté de 145 millions d'euros (107 millions de la réserve de crise européenne, 38 millions de crédits nationaux). Ce guichet de FranceAgriMer…",
+    "chapeau": "Dans un communiqué du 1er octobre, la Fédération nationale d'agriculture biologique (Fnab) a demandé que les agriculteurs bio soient éligibles au plan d'aide à l'achat d'engrais, doté de 145 millions d'euros (107 millions de la réserve de crise européenne, 38 millions de crédits nationaux).",
     "eclairage": "Engrais de synthèse ou engrais organique ?",
     "chiffres": [
      {
@@ -3727,7 +3727,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lyc%C3%A9e_Dautet%2C_ancien_Grand_S%C3%A9minaire_%28La_Rochelle%29.jpg/960px-Lyc%C3%A9e_Dautet%2C_ancien_Grand_S%C3%A9minaire_%28La_Rochelle%29.jpg",
     "legende": "Le lycée Dautet, ancien Grand Séminaire, à La Rochelle",
-    "chapeau": "Après des blocages les jeudi 1er et vendredi 2 octobre puis lundi 5, l'Académie de Poitiers a annoncé la fermeture de douze établissements pour le mardi 6 octobre, dont huit à La Rochelle : les lycées René-Josué Valin (les formations post-bac sont maintenues), Jean Dautet, Pierre Doriole, Antoine de Saint-Exupéry,…",
+    "chapeau": "Après des blocages les jeudi 1er et vendredi 2 octobre puis lundi 5, l'Académie de Poitiers a annoncé la fermeture de douze établissements pour le mardi 6 octobre, dont huit à La Rochelle : les lycées René-Josué Valin (les formations post-bac sont maintenues), Jean Dautet, Pierre Doriole, Antoine de Saint-Exupéry, Léonce Vieljeux, le lycée hôtelier et le lycée privé Fénelon.",
     "eclairage": "Qui décide de quoi quand un lycée ferme ?",
     "chiffres": [
      {
@@ -3895,22 +3895,22 @@
    {
     "jour": "7",
     "mois": "OCT.",
-    "texte": "Exercice anti-submersion : premier jour, entre le Port de plaisance et le pont Scherzer, suite le 8 octobre jusqu'au quai Valin (larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "9",
     "mois": "OCT.",
-    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle : séance du lundi (larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "15",
     "mois": "OCT.",
-    "texte": "Conseil communautaire de l'Agglo : date provisoire (agglo-larochelle.fr)."
+    "texte": "fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -3946,7 +3946,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ly%C3%A7%C3%A9e_Auguste_B%C3%A9hal_de_Lens_Entr%C3%A9e_Principale.jpg/1280px-Ly%C3%A7%C3%A9e_Auguste_B%C3%A9hal_de_Lens_Entr%C3%A9e_Principale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Lycée Auguste Béhal de Lens, entrée principale",
-    "chapeau": "Lundi 5 octobre, vers 10 heures, un lycéen de 15 ans, scolarisé en seconde bac pro au lycée Auguste-Béhal de Lens (Pas-de-Calais), a eu la main arrachée par une grenade lors d'une manifestation, à quelques centaines de mètres de l'établissement, selon le procureur de Béthune. Étienne Thieffry a dit ne pas être « en…",
+    "chapeau": "Lundi 5 octobre, vers 10 heures, un lycéen de 15 ans, scolarisé en seconde bac pro au lycée Auguste-Béhal de Lens (Pas-de-Calais), a eu la main arrachée par une grenade lors d'une manifestation, à quelques centaines de mètres de l'établissement, selon le procureur de Béthune.",
     "eclairage": "Qui enquête, et qui décide du maintien de l'ordre ?",
     "chiffres": [
      {
@@ -4064,7 +4064,7 @@
      }
     ],
     "apres": "Mardi 6 octobre : « acte III » de la mobilisation ; 16 octobre : premier bilan sur les remplacements ; avant fin octobre : premières décisions du gouvernement.",
-    "change": "L'enquête de l'IGPN doit établir comment la grenade a blessé le lycéen. Dans le même temps, le gouvernement poursuit deux dossiers : les mesures sur les moyens des lycées et le projet de loi dit « casseurs-payeurs », dont l'examen au Sénat est annoncé pour la…",
+    "change": "L'enquête de l'IGPN doit établir comment la grenade a blessé le lycéen.",
     "credit": {
      "auteur": "ChrisDelcuse",
      "licence": "CC BY-SA 4.0",
@@ -4154,7 +4154,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2020-06-28_18-07-24_election-Belfort.jpg/1280px-2020-06-28_18-07-24_election-Belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Une urne lors d'un scrutin en France",
-    "chapeau": "La commission d'organisation de la primaire de la gauche sociale-démocrate a annoncé, dans la nuit du lundi 5 au mardi 6 octobre, le chiffre définitif des inscrits après la clôture des inscriptions à minuit : 140 282 personnes pourront voter. Lundi soir, elle avait communiqué un chiffre provisoire d'environ 128 000…",
+    "chapeau": "La commission d'organisation de la primaire de la gauche sociale-démocrate a annoncé, dans la nuit du lundi 5 au mardi 6 octobre, le chiffre définitif des inscrits après la clôture des inscriptions à minuit : 140 282 personnes pourront voter.",
     "eclairage": "Comment vote-t-on ?",
     "chiffres": [
      {
@@ -4221,7 +4221,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Drought_-_France_%28P-058733-00-03%29.jpg/1280px-Drought_-_France_%28P-058733-00-03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Drought - France (arbre dans une région sèche près de Lyon)",
-    "chapeau": "Lundi 5 octobre, le député LFI Éric Coquerel, président de la commission des finances de l'Assemblée nationale et rapporteur d'une mission flash sur « le coût de la canicule », a présenté ses conclusions à la commission. Le rapport évoque une « estimation provisoire du coût des fortes températures et de la sécheresse…",
+    "chapeau": "Lundi 5 octobre, le député LFI Éric Coquerel, président de la commission des finances de l'Assemblée nationale et rapporteur d'une mission flash sur « le coût de la canicule », a présenté ses conclusions à la commission.",
     "eclairage": "Qu'est-ce qu'une mission flash ?",
     "chiffres": [
      {
@@ -4384,7 +4384,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg/1280px-Laparoscopic_surgery_-_210710-M-TS451-1028_%2851313716419%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Une équipe chirurgicale au bloc opératoire",
-    "chapeau": "Des chercheurs de la Morehouse School of Medicine (Atlanta) ont présenté, lors du congrès de l'American College of Surgeons à Washington (26 au 29 septembre 2026), une analyse de dossiers médicaux issus du réseau TriNetX (168 organisations de santé). Après appariement, 15 616 patients opérés d'une appendicite aiguë et…",
+    "chapeau": "Des chercheurs de la Morehouse School of Medicine (Atlanta) ont présenté, lors du congrès de l'American College of Surgeons à Washington (26 au 29 septembre 2026), une analyse de dossiers médicaux issus du réseau TriNetX (168 organisations de santé).",
     "eclairage": "Pourquoi cette étude ne prouve pas que l'opération protège",
     "chiffres": [
      {
@@ -4450,7 +4450,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/IARC_Nouveau_Centre_Exterieur_1.jpg/960px-IARC_Nouveau_Centre_Exterieur_1.jpg",
     "legende": "Le siège du Centre international de recherche sur le cancer à Lyon",
-    "chapeau": "Le 28 septembre 2026, des chercheurs du Centre international de recherche sur le cancer (CIRC, agence de l'OMS basée à Lyon) ont publié dans The Lancet Oncology une analyse de l'incidence mondiale. À partir des estimations de la base Global Cancer Observatory, ils attribuent environ 2,3 millions de nouveaux cancers de…",
+    "chapeau": "Le 28 septembre 2026, des chercheurs du Centre international de recherche sur le cancer (CIRC, agence de l'OMS basée à Lyon) ont publié dans The Lancet Oncology une analyse de l'incidence mondiale.",
     "eclairage": "Comment une infection peut-elle causer un cancer ?",
     "chiffres": [
      {
@@ -4511,7 +4511,7 @@
      }
     ],
     "apres": "Les auteurs appellent à étendre les mesures existantes et à développer des vaccins contre d'autres agents, dont le virus d'Epstein-Barr. Aucun calendrier n'est annoncé.",
-    "change": "Pour les patients et les soignants, rien de nouveau dans les gestes : vaccination contre le HPV et l'hépatite B, dépistage et traitement de H. pylori et des hépatites. L'étude chiffre l'ampleur du bénéfice possible de ces mesures, surtout là où elles sont peu…",
+    "change": "Pour les patients et les soignants, rien de nouveau dans les gestes : vaccination contre le HPV et l'hépatite B, dépistage et traitement de H. pylori et des hépatites.",
     "credit": {
      "auteur": "Marion Moseby",
      "licence": "CC BY-SA 4.0",
@@ -4526,7 +4526,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ozempic%C2%AE_3ml.jpg/1280px-Ozempic%C2%AE_3ml.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Un stylo injecteur d'Ozempic (sémaglutide)",
-    "chapeau": "Le 1er octobre 2026, au congrès de l'Académie européenne de dermatologie et de vénéréologie (EADV) à Vienne, une équipe dirigée notamment par le Dr Charles Taïeb (hôpital Necker, Paris) a présenté une enquête menée en France, aux États-Unis, au Brésil et au Mexique. Elle compare 575 personnes utilisant pour la première…",
+    "chapeau": "Le 1er octobre 2026, au congrès de l'Académie européenne de dermatologie et de vénéréologie (EADV) à Vienne, une équipe dirigée notamment par le Dr Charles Taïeb (hôpital Necker, Paris) a présenté une enquête menée en France, aux États-Unis, au Brésil et au Mexique.",
     "eclairage": "Qu'est-ce qu'une enquête déclarative, et que vaut-elle ?",
     "chiffres": [
      {
@@ -4602,7 +4602,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Chronic_lymphocytic_leukemia_%28Wright-Giemsa%2C_50x%29..jpg/960px-Chronic_lymphocytic_leukemia_%28Wright-Giemsa%2C_50x%29..jpg",
     "legende": "Lymphocytes de leucémie lymphoïde chronique au microscope",
-    "chapeau": "Le 2 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a approuvé le pirtobrutinib (Jaypirca, laboratoire Eli Lilly) pour les adultes atteints de leucémie lymphoïde chronique (LLC) ou de lymphome lymphocytique à petites cellules (LLPC) jamais traités, sans délétion 17p connue. La décision repose sur…",
+    "chapeau": "Le 2 octobre 2026, la Food and Drug Administration (FDA, États-Unis) a approuvé le pirtobrutinib (Jaypirca, laboratoire Eli Lilly) pour les adultes atteints de leucémie lymphoïde chronique (LLC) ou de lymphome lymphocytique à petites cellules (LLPC) jamais traités, sans délétion 17p connue.",
     "eclairage": "Que veut dire « survie sans progression » ?",
     "chiffres": [
      {
@@ -4724,7 +4724,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/New_York_City_Hall_-_September_2025.jpg/960px-New_York_City_Hall_-_September_2025.jpg",
     "legende": "L'hôtel de ville de New York, siège du Conseil municipal",
-    "chapeau": "Lundi 5 octobre 2026, le Conseil municipal de New York a tenu une audition de l'ensemble de ses 51 élus (« Committee of the Whole », réunion de toute l'assemblée en commission) sur les risques de l'intelligence artificielle. Des responsables d'Anthropic (Logan Graham, chef de l'équipe de tests offensifs « Frontier Red…",
+    "chapeau": "Lundi 5 octobre 2026, le Conseil municipal de New York a tenu une audition de l'ensemble de ses 51 élus (« Committee of the Whole », réunion de toute l'assemblée en commission) sur les risques de l'intelligence artificielle.",
     "eclairage": "Une ville peut-elle encadrer l'IA ?",
     "chiffres": [
      {
@@ -4795,7 +4795,7 @@
      }
     ],
     "apres": "Le Conseil a annoncé des poursuites contre SpaceXAI. Aucune date de vote n'apparaît dans les sources consultées.",
-    "change": "Rien n'est encore en vigueur : ce sont des projets de textes. S'ils étaient adoptés, un système d'IA vendu ou déployé à New York devrait passer par une validation extérieure et pouvoir être arrêté par un humain. Pour une entreprise du secteur, cela ajouterait…",
+    "change": "Rien n'est encore en vigueur : ce sont des projets de textes. S'ils étaient adoptés, un système d'IA vendu ou déployé à New York devrait passer par une validation extérieure et pouvoir être arrêté par un humain.",
     "credit": {
      "auteur": "Nielsoncaetanosalmeron",
      "licence": "CC BY 4.0",
@@ -4810,7 +4810,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Apple_Park_aerial_view%2C_June_2024.jpg/960px-Apple_Park_aerial_view%2C_June_2024.jpg",
     "legende": "Vue aérienne d'Apple Park, siège d'Apple à Cupertino",
-    "chapeau": "Le 2 octobre 2026, Apple a publié sur son site pour développeurs un texte intitulé « Updates to Full Disk Access in macOS ». L'entreprise y écrit que certains développeurs utilisent l'accès complet au disque d'une manière qui peut exposer fichiers, courriels, messages et historique de navigation sans que l'utilisateur…",
+    "chapeau": "Le 2 octobre 2026, Apple a publié sur son site pour développeurs un texte intitulé « Updates to Full Disk Access in macOS ».",
     "eclairage": "Que donne l'accès complet au disque ?",
     "chiffres": [
      {
@@ -4933,7 +4933,7 @@
      }
     ],
     "apres": "Pour les contrats existants, la réponse est due dans les 30 jours ouvrables suivant la demande. Une loi sur les sanctions reste en attente, sans date dans les sources.",
-    "change": "En Espagne, un salarié peut désormais demander si un algorithme influence son planning, ses tâches, sa paie ou son évolution, et recevoir une réponse écrite. Pour une entreprise, cela suppose de savoir quels outils automatisés elle emploie. Effet immédiat…",
+    "change": "En Espagne, un salarié peut désormais demander si un algorithme influence son planning, ses tâches, sa paie ou son évolution, et recevoir une réponse écrite. Pour une entreprise, cela suppose de savoir quels outils automatisés elle emploie.",
     "credit": {
      "auteur": "Ricardo Ricote Rodríguez from Madrid, España",
      "licence": "CC BY 2.0",
@@ -4980,7 +4980,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg/1280px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "European Central Bank - building under construction - Frankfurt - Germany",
-    "chapeau": "Vendredi 2 octobre, Eurostat a publié son estimation rapide de l'inflation en zone euro : 3,8 % sur un an en septembre, contre 3,2 % en août, soit le niveau le plus haut depuis trois ans. L'énergie progresse de 18,8 % sur un an (14,3 % en août), les services de 3,2 % (3,0 %), l'alimentation, l'alcool et le tabac de 1,4…",
+    "chapeau": "Vendredi 2 octobre, Eurostat a publié son estimation rapide de l'inflation en zone euro : 3,8 % sur un an en septembre, contre 3,2 % en août, soit le niveau le plus haut depuis trois ans.",
     "eclairage": "Pourquoi l'énergie fait monter tout le reste ?",
     "chiffres": [
      {
@@ -5066,7 +5066,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/M%C3%A9tro_sur_le_Pont_de_Bercy_pr%C3%A8s_du_Minist%C3%A8re_%C3%A0_Paris_%28septembre_2023%29.JPG/1280px-M%C3%A9tro_sur_le_Pont_de_Bercy_pr%C3%A8s_du_Minist%C3%A8re_%C3%A0_Paris_%28septembre_2023%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Métro sur le Pont de Bercy près du Ministère à Paris (septembre 2023)",
-    "chapeau": "Jeudi 1er octobre, le rendement de l'obligation française à dix ans (OAT) a atteint 4,92 % sur le marché secondaire, contre 4,85 % la veille : c'est son plus haut niveau depuis juillet 2002. En séance, selon Reuters, il a touché 4,9629 % avant de refluer après la présentation par le gouvernement d'un budget 2027…",
+    "chapeau": "Jeudi 1er octobre, le rendement de l'obligation française à dix ans (OAT) a atteint 4,92 % sur le marché secondaire, contre 4,85 % la veille : c'est son plus haut niveau depuis juillet 2002.",
     "eclairage": "Comment l'État emprunte, et pourquoi le taux compte",
     "chiffres": [
      {
@@ -5138,7 +5138,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chemical_Oil_Products_Tanker_%27Stolt_Petrel%27_-_North_sea_-_Netherlands_%2829132081475%29.jpg/1280px-Chemical_Oil_Products_Tanker_%27Stolt_Petrel%27_-_North_sea_-_Netherlands_%2829132081475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Chemical Oil Products Tanker 'Stolt Petrel' - North sea - Netherlands",
-    "chapeau": "Vendredi 2 octobre, à l'issue d'une visioconférence, Emmanuel Macron a annoncé que les pays du G7 libéreraient « jusqu'à 100 millions de barils » de diesel et de pétrole brut de leurs stocks stratégiques « dans les quatre mois », sous la coordination de l'Agence internationale de l'énergie (AIE). Une quantité…",
+    "chapeau": "Vendredi 2 octobre, à l'issue d'une visioconférence, Emmanuel Macron a annoncé que les pays du G7 libéreraient « jusqu'à 100 millions de barils » de diesel et de pétrole brut de leurs stocks stratégiques « dans les quatre mois », sous la coordination de l'Agence internationale de l'énergie (AIE).",
     "eclairage": "À quoi servent les stocks stratégiques ?",
     "chiffres": [
      {
@@ -5374,7 +5374,7 @@
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "Air Liquide : journée investisseurs en ligne (15h à 18h) et présentation de son nouveau plan stratégique. PMI services de la zone euro et indice ISM des…"
+    "texte": "Air Liquide : journée investisseurs en ligne (15h à 18h) et présentation de son nouveau plan stratégique."
    },
    {
     "jour": "7",
@@ -5439,7 +5439,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/CocagneCornetHiver2020.jpg/1280px-CocagneCornetHiver2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "CocagneCornetHiver2020",
-    "chapeau": "Le 23 septembre, l'Agence Bio a annoncé une hausse de 4,8 % en valeur de la consommation de produits bio au premier semestre 2026, après +3,6 % en 2025, selon AGRA. Le bio représente moins de 6 % de la consommation à domicile, environ 1 % des approvisionnements de la restauration commerciale et moins de 6 % des achats…",
+    "chapeau": "Le 23 septembre, l'Agence Bio a annoncé une hausse de 4,8 % en valeur de la consommation de produits bio au premier semestre 2026, après +3,6 % en 2025, selon AGRA.",
     "eclairage": "Que mesure ce chiffre ?",
     "chiffres": [
      {
@@ -5490,7 +5490,7 @@
      }
     ],
     "apres": "Consolidation des chiffres du semestre dans l'observatoire annuel de l'Agence Bio ; atteinte des objectifs 2030 à suivre.",
-    "change": "Pour le consommateur, rien ne change dans l'immédiat : il s'agit d'une tendance de ventes. Pour les producteurs, le solde d'installations est positif sur huit mois, après un recul du nombre de fermes bio en 2025 selon Réussir. Le bio reste une part minoritaire…",
+    "change": "Pour le consommateur, rien ne change dans l'immédiat : il s'agit d'une tendance de ventes. Pour les producteurs, le solde d'installations est positif sur huit mois, après un recul du nombre de fermes bio en 2025 selon Réussir.",
     "credit": {
      "auteur": "MHM55",
      "licence": "CC BY-SA 4.0",
@@ -5505,7 +5505,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Golden_wheat_field_2.jpg/1280px-Golden_wheat_field_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Golden wheat field",
-    "chapeau": "Vendredi 2 octobre, la FAO a publié son indice des prix des produits alimentaires : 136,0 points en septembre 2026, en hausse de 1,5 % sur un mois et de 5,8 % sur un an, mais 15,1 % sous son pic de mars 2022. L'indice des prix des céréales gagne 5,1 % sur un mois (+17,2 % sur un an) : le blé progresse de 6,3 % et le…",
+    "chapeau": "Vendredi 2 octobre, la FAO a publié son indice des prix des produits alimentaires : 136,0 points en septembre 2026, en hausse de 1,5 % sur un mois et de 5,8 % sur un an, mais 15,1 % sous son pic de mars 2022.",
     "eclairage": "Comment lit-on cet indice ?",
     "chiffres": [
      {
@@ -5552,7 +5552,7 @@
      }
     ],
     "apres": "Prochaine publication de l'indice FAO en novembre, avec les chiffres d'octobre.",
-    "change": "Selon la FAO, si ces tensions durent, elles se répercuteront sur les prix à la consommation, surtout dans les pays dépendants des importations d'énergie et de nourriture. Pour la France, l'effet sur les prix en rayon n'est pas documenté dans les sources…",
+    "change": "Selon la FAO, si ces tensions durent, elles se répercuteront sur les prix à la consommation, surtout dans les pays dépendants des importations d'énergie et de nourriture.",
     "credit": {
      "auteur": "Nupur Dasgupta",
      "licence": "CC BY 2.0",
@@ -5595,7 +5595,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Fr%C3%A9gate_Hermione_r%C3%A9plique_de_la_fr%C3%A9gate_de_1779_en_aout_2014_DSC_5906.jpg/1280px-Fr%C3%A9gate_Hermione_r%C3%A9plique_de_la_fr%C3%A9gate_de_1779_en_aout_2014_DSC_5906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Frégate Hermione réplique de la frégate de 1779 en aout",
-    "chapeau": "Le 1er octobre 2026, le tribunal de La Rochelle a accordé un nouveau délai de six mois à l'association Hermione-La Fayette, propriétaire de la réplique de la frégate de La Fayette, avant de statuer sur la poursuite de la procédure ou sur une liquidation judiciaire. L'association est en redressement judiciaire depuis…",
+    "chapeau": "Le 1er octobre 2026, le tribunal de La Rochelle a accordé un nouveau délai de six mois à l'association Hermione-La Fayette, propriétaire de la réplique de la frégate de La Fayette, avant de statuer sur la poursuite de la procédure ou sur une liquidation judiciaire.",
     "eclairage": "Que veut dire « sursis » pour une association ?",
     "chiffres": [
      {
@@ -5663,22 +5663,22 @@
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "Lagord : début de trois mois de travaux sur le réseau d'assainissement (rues Alfred Nobel, Victor Grignard, Fief Nouveau) ; circulation perturbée et…"
+    "texte": "fr)."
    },
    {
     "jour": "9",
     "mois": "OCT.",
-    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "11",
     "mois": "OCT.",
-    "texte": "Journée de la mode responsable : de 10 h à 18 h au Musée Maritime, espaces gratuits (réparation, boutique de seconde main) (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle : séance du lundi (larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "14",
@@ -5719,7 +5719,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Fa%C3%A7ade_du_lyc%C3%A9e_Condorcet%2C_Paris_12_mars_2014.jpg/1280px-Fa%C3%A7ade_du_lyc%C3%A9e_Condorcet%2C_Paris_12_mars_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Façade du lycée Condorcet, Paris",
-    "chapeau": "Dimanche 4 octobre, le Premier ministre Sébastien Lecornu a adressé à sept ministres une lettre qui fixe « cinq chantiers » en réponse au mouvement lycéen : remplacement des absences longues d'enseignants (premier bilan attendu le 16 octobre), état des bâtiments avec les régions (réunion en visioconférence mardi 6…",
+    "chapeau": "Dimanche 4 octobre, le Premier ministre Sébastien Lecornu a adressé à sept ministres une lettre qui fixe « cinq chantiers » en réponse au mouvement lycéen : remplacement des absences longues d'enseignants (premier bilan attendu le 16 octobre), état des bâtiments avec les régions (réunion en visioconférence mardi 6 octobre), emplois du temps, Parcoursup 2027 et suites données à la parole des lycéens.",
     "eclairage": "Qui décide de quoi dans un lycée ?",
     "chiffres": [
      {
@@ -5815,7 +5815,7 @@
      }
     ],
     "apres": "Mardi 6 octobre : journée de mobilisation et réunion avec les présidents de région ; 16 octobre : premier bilan sur les remplacements ; avant fin octobre : premières décisions.",
-    "change": "Deux dossiers avancent en parallèle : des mesures sur les moyens des lycées (remplacement, bâtiments, emplois du temps, Parcoursup) et un projet de loi sur la réparation des dégâts. Le Premier ministre précise qu'il arbitrera en tenant compte des « contraintes…",
+    "change": "Deux dossiers avancent en parallèle : des mesures sur les moyens des lycées (remplacement, bâtiments, emplois du temps, Parcoursup) et un projet de loi sur la réparation des dégâts.",
     "credit": {
      "auteur": "Philippe Alès",
      "licence": "CC BY-SA 3.0",
@@ -5830,7 +5830,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2020-06-28_18-09-33_election-Belfort.jpg/1280px-2020-06-28_18-09-33_election-Belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "2020-06-28 18-09-33 election-Belfort",
-    "chapeau": "Dimanche 4 octobre, les cinq candidats à la primaire de la gauche sociale-démocrate, Raphaël Glucksmann (Place publique), Olivier Faure (PS), Ségolène Royal, Jérôme Guedj (PS) et Emmanuel Maurel (GRS), se sont retrouvés pour un dernier débat sur BFMTV. Le début de soirée a porté sur les relations avec La France…",
+    "chapeau": "Dimanche 4 octobre, les cinq candidats à la primaire de la gauche sociale-démocrate, Raphaël Glucksmann (Place publique), Olivier Faure (PS), Ségolène Royal, Jérôme Guedj (PS) et Emmanuel Maurel (GRS), se sont retrouvés pour un dernier débat sur BFMTV.",
     "eclairage": "Pourquoi cette primaire ?",
     "chiffres": [
      {
@@ -5922,7 +5922,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Assembl%C3%A9e_Nationale_-_H%C3%A9micycle.JPG/1280px-Assembl%C3%A9e_Nationale_-_H%C3%A9micycle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Assemblée Nationale - Hémicycle",
-    "chapeau": "Jeudi 1er octobre, le gouvernement a présenté en Conseil des ministres le projet de loi de finances (PLF) et le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. L'objectif affiché est de ramener le déficit public à 5 % du PIB en 2027, grâce à un effort de redressement de 54 milliards d'euros, dont…",
+    "chapeau": "Jeudi 1er octobre, le gouvernement a présenté en Conseil des ministres le projet de loi de finances (PLF) et le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027.",
     "eclairage": "Comment le budget est-il voté ?",
     "chiffres": [
      {
@@ -6068,7 +6068,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Laboratory_Test_Tubes%3B_from_a_medical_laboratory_in_Abuja%2C_Nigeria.jpg/1280px-Laboratory_Test_Tubes%3B_from_a_medical_laboratory_in_Abuja%2C_Nigeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Laboratory Test Tubes; from a medical laboratory in Abuja, Nigeria",
-    "chapeau": "Le 1er octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai NHS-Galleri, mené en Angleterre auprès de 142 250 personnes de 50 à 77 ans. Elles ont été réparties au hasard en deux groupes : 71 122 ont eu une prise de sang annuelle analysée par le test Galleri, qui recherche dans le sang des…",
+    "chapeau": "Le 1er octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai NHS-Galleri, mené en Angleterre auprès de 142 250 personnes de 50 à 77 ans.",
     "eclairage": "Que mesure un test « multicancer » ?",
     "chiffres": [
      {
@@ -6143,7 +6143,7 @@
      }
     ],
     "apres": "Le suivi de l'essai se poursuit et d'autres analyses sont attendues. Une décision de remboursement par un système public de santé suppose des preuves plus complètes ; aucune échéance n'est annoncée dans les sources consultées.",
-    "change": "Pour les personnes de 50 à 77 ans, le test ne fait pas partie du dépistage organisé et cet essai ne fournit pas la preuve qu'il réduit les cancers avancés. Il ne remplace pas les dépistages existants (sein, côlon, col de l'utérus). La décision de se faire…",
+    "change": "Pour les personnes de 50 à 77 ans, le test ne fait pas partie du dépistage organisé et cet essai ne fournit pas la preuve qu'il réduit les cancers avancés. Il ne remplace pas les dépistages existants (sein, côlon, col de l'utérus).",
     "credit": {
      "auteur": "Frankincense Diala",
      "licence": "CC0",
@@ -6158,7 +6158,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Col._Lovette_receives_81st_MDG_immersion_tour_170616-F-BD983-493.jpg/1280px-Col._Lovette_receives_81st_MDG_immersion_tour_170616-F-BD983-493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Col. Lovette receives 81st MDG immersion tour 170616-F-BD983-493",
-    "chapeau": "Le 1er octobre 2026, le BMJ a publié deux études sur la pose de prothèses de hanche et de genou avec ou sans assistance robotique. L'équipe, menée par Hasan Mohammad (Queen Mary University of London, avec les universités d'Oxford et de Bristol), a analysé le registre national des prothèses du Royaume-Uni entre 2018 et…",
+    "chapeau": "Le 1er octobre 2026, le BMJ a publié deux études sur la pose de prothèses de hanche et de genou avec ou sans assistance robotique.",
     "eclairage": "Comparer sans tirage au sort : ce que cela permet",
     "chiffres": [
      {
@@ -6213,7 +6213,7 @@
      }
     ],
     "apres": "Les auteurs signalent que les essais RACER, qui comparent les résultats fonctionnels rapportés par les patients, apporteront des données complémentaires. Un suivi plus long du registre permettra de juger la durée de vie des prothèses.",
-    "change": "Pour les patients qui doivent être opérés, ces données ne montrent pas, à 2,5 ans, de bénéfice du robot sur la réintervention ou les complications. Le choix de la technique se discute avec le chirurgien. Pour les hôpitaux, la question du coût se pose : les…",
+    "change": "Pour les patients qui doivent être opérés, ces données ne montrent pas, à 2,5 ans, de bénéfice du robot sur la réintervention ou les complications. Le choix de la technique se discute avec le chirurgien.",
     "credit": {
      "auteur": "Kemberly Groue",
      "licence": "Public domain",
@@ -6228,7 +6228,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bone_histomorphometry.jpg/1280px-Bone_histomorphometry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Bone histomorphometry",
-    "chapeau": "Le 28 septembre 2026, The Lancet a publié l'essai de phase 3 OPTIMA, mené dans 18 centres de 16 pays, sur le garetosmab, un anticorps qui neutralise la protéine activine A, impliquée dans la formation d'os à des endroits anormaux. La maladie concernée, la fibrodysplasie ossifiante progressive (FOP), est une maladie…",
+    "chapeau": "Le 28 septembre 2026, The Lancet a publié l'essai de phase 3 OPTIMA, mené dans 18 centres de 16 pays, sur le garetosmab, un anticorps qui neutralise la protéine activine A, impliquée dans la formation d'os à des endroits anormaux.",
     "eclairage": "Une maladie rare, un essai petit : comment lire les chiffres",
     "chiffres": [
      {
@@ -6308,7 +6308,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fight_flu_early_with_vaccine_141020-M-IY869-017.jpg/1280px-Fight_flu_early_with_vaccine_141020-M-IY869-017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Fight flu early with vaccine 141020-M-IY869-017",
-    "chapeau": "Les campagnes de vaccination contre la grippe et le Covid-19 commencent le 13 octobre 2026, en France, à l'exception de Mayotte et de La Réunion. Elles sont recommandées aux personnes de 65 ans et plus et aux personnes à risque de forme grave : femmes enceintes, personnes immunodéprimées, résidents d'établissements…",
+    "chapeau": "Les campagnes de vaccination contre la grippe et le Covid-19 commencent le 13 octobre 2026, en France, à l'exception de Mayotte et de La Réunion.",
     "eclairage": "Pourquoi vacciner à l'automne, et pourquoi pas plus tard ?",
     "chiffres": [
      {
@@ -6419,7 +6419,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/California_State_Capitol_%28top%29%2C_NW_view_up.jpg/1280px-California_State_Capitol_%28top%29%2C_NW_view_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "California State Capitol (top), NW view up",
-    "chapeau": "Le 30 septembre, le procureur général de Californie, Rob Bonta, a signifié à OpenAI une assignation d'enquête (« subpoena » en anglais, une injonction de fournir des informations), annoncée le 1er octobre. Elle s'inscrit dans une enquête formelle ouverte en septembre sur l'incident « Hugging Face » : selon Reuters, des…",
+    "chapeau": "Le 30 septembre, le procureur général de Californie, Rob Bonta, a signifié à OpenAI une assignation d'enquête (« subpoena » en anglais, une injonction de fournir des informations), annoncée le 1er octobre.",
     "eclairage": "Qu'est-ce qu'une assignation d'enquête, et que sait-on ?",
     "chiffres": [
      {
@@ -6621,7 +6621,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dragon_2_hover_test_%2824159153709%29.jpg/1280px-Dragon_2_hover_test_%2824159153709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Dragon 2 hover test",
-    "chapeau": "Jeudi 1er octobre, la start-up spatiale bordelaise HyPrSpace a inauguré au Haillan, en Gironde, un site de production de 7 000 m² surnommé « la Boulangerie », en référence à son lanceur « Baguette One » (Reuters, Zone Militaire). Il comprend deux bâtiments, l'un pour fabriquer les pièces et tester, l'autre pour…",
+    "chapeau": "Jeudi 1er octobre, la start-up spatiale bordelaise HyPrSpace a inauguré au Haillan, en Gironde, un site de production de 7 000 m² surnommé « la Boulangerie », en référence à son lanceur « Baguette One » (Reuters, Zone Militaire).",
     "eclairage": "Comment une start-up de fusées peut-elle gagner de l'argent ?",
     "chiffres": [
      {
@@ -6689,7 +6689,7 @@
      }
     ],
     "apres": "Deux essais au sol doivent précéder le tir de Baguette One, prévu en 2027 depuis Biscarrosse (Reuters). L'entreprise prévoit de se représenter au concours de l'Agence spatiale européenne.",
-    "change": "Pour le secteur, la France compte une entreprise de plus qui prépare une production en série de lanceurs. Pour les salariés, le site réunit développement, fabrication et assemblage ; les 150 salariés actuels y travaillent (Zone Militaire). Pour l'entreprise,…",
+    "change": "Pour le secteur, la France compte une entreprise de plus qui prépare une production en série de lanceurs. Pour les salariés, le site réunit développement, fabrication et assemblage ; les 150 salariés actuels y travaillent (Zone Militaire).",
     "credit": {
      "auteur": "SpaceX Photos",
      "licence": "CC0",
@@ -6704,7 +6704,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pyl%C3%B4ne_ligne_haute_tension_%40_T%C3%AAte_Nord_des_Fours_01.jpg/1280px-Pyl%C3%B4ne_ligne_haute_tension_%40_T%C3%AAte_Nord_des_Fours_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Pylône ligne haute tension @ Tête Nord des Fours",
-    "chapeau": "Selon des données Bloomberg relayées par BFM et reprises par Capital et Orange ces derniers jours, le prix de gros de l'électricité en France a été négatif pendant environ 520 heures entre le 1er janvier et le 27 septembre 2026, soit 22 jours cumulés. Le 1er mai à 13h30, le prix spot est tombé à −498,65 euros le…",
+    "chapeau": "Selon des données Bloomberg relayées par BFM et reprises par Capital et Orange ces derniers jours, le prix de gros de l'électricité en France a été négatif pendant environ 520 heures entre le 1er janvier et le 27 septembre 2026, soit 22 jours cumulés.",
     "eclairage": "Pourquoi un prix négatif, et pourquoi la facture ne baisse pas",
     "chiffres": [
      {
@@ -6780,7 +6780,7 @@
      }
     ],
     "apres": "La suite dépend de l'électrification des usages et de la flexibilité de la consommation, selon RTE et Engie. Les données de fin d'année permettront de comparer 2026 aux années précédentes, dont les totaux publiés divergent.",
-    "change": "Pour les ménages, la facture dépend aussi du réseau et des coûts de capacité : le tarif réglementé a progressé de 2,5 % en moyenne au 1er août (Capital). Pour les producteurs, des heures de vente à perte s'ajoutent. Pour le système, le sujet porte sur la…",
+    "change": "Pour les ménages, la facture dépend aussi du réseau et des coûts de capacité : le tarif réglementé a progressé de 2,5 % en moyenne au 1er août (Capital). Pour les producteurs, des heures de vente à perte s'ajoutent.",
     "credit": {
      "auteur": "Rémih",
      "licence": "CC BY-SA 4.0",
@@ -6877,7 +6877,7 @@
      }
     ],
     "apres": "Des banderoles appellent à une grève générale (Reuters). Des élections anticipées en novembre sont évoquées par les médias espagnols, sans confirmation du gouvernement.",
-    "change": "Pour les locataires, aucune nouvelle mesure n'est en vigueur à ce stade : les deux décrets n'ont pas été validés. Pour les propriétaires et investisseurs immobiliers, le cadre actuel reste inchangé. Pour l'économie, un loyer proche du revenu limite la…",
+    "change": "Pour les locataires, aucune nouvelle mesure n'est en vigueur à ce stade : les deux décrets n'ont pas été validés. Pour les propriétaires et investisseurs immobiliers, le cadre actuel reste inchangé.",
     "credit": {
      "auteur": "Barcex",
      "licence": "CC BY-SA 4.0",
@@ -6980,7 +6980,7 @@
     ],
     "cartes": [],
     "apres": "Versement des acomptes autour de la mi-octobre, puis révision éventuelle des montants d'ici la fin de l'année et en juin 2027.",
-    "change": "Pour une exploitation bio, le niveau d'écorégime à 110 € par hectare est le plus élevé des trois ; le montant versé dépend ensuite des hectares éligibles et des ajustements de fin de campagne. Aucun effet sur les prix en rayon n'est documenté dans les sources…",
+    "change": "Pour une exploitation bio, le niveau d'écorégime à 110 € par hectare est le plus élevé des trois ; le montant versé dépend ensuite des hectares éligibles et des ajustements de fin de campagne.",
     "credit": {
      "auteur": "Tawaye",
      "licence": "CC BY-SA 4.0",
@@ -6995,7 +6995,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Le_Crotoy_%2880-Fr%29%2C_arrachage_de_betteraves_sucri%C3%A8res.jpg/1280px-Le_Crotoy_%2880-Fr%29%2C_arrachage_de_betteraves_sucri%C3%A8res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Le Crotoy (80-Fr), arrachage de betteraves sucrières",
-    "chapeau": "Selon Agreste, cité par La France Agricole, la production de betteraves « s'établirait à 25,4 Mt, un point bas depuis au moins 1980 », en baisse de 29 % sur un an : les surfaces reculent de 6 % et le rendement moyen de 24 % (68,2 t/ha). Réussir, pour la même estimation, indique 26,4 Mt : l'écart n'est pas expliqué dans…",
+    "chapeau": "Selon Agreste, cité par La France Agricole, la production de betteraves « s'établirait à 25,4 Mt, un point bas depuis au moins 1980 », en baisse de 29 % sur un an : les surfaces reculent de 6 % et le rendement moyen de 24 % (68,2 t/ha).",
     "eclairage": "Pourquoi une betterave pourrit-elle sur pied ?",
     "chiffres": [
      {
@@ -7056,7 +7056,7 @@
      }
     ],
     "apres": "Poursuite de la campagne d'arrachage ; résultats attendus des essais de méthanisation ; la CGB demande des aides d'urgence selon Réussir.",
-    "change": "Pour les planteurs, environ 30 % seulement sont assurés selon La France Agricole. Sur les marchés, le sucre brut est passé d'environ 300 $ la tonne cet été à près de 380 $ en septembre à New York, avec un redressement comparable des prix spot européens.…",
+    "change": "Pour les planteurs, environ 30 % seulement sont assurés selon La France Agricole. Sur les marchés, le sucre brut est passé d'environ 300 $ la tonne cet été à près de 380 $ en septembre à New York, avec un redressement comparable des prix spot européens.",
     "credit": {
      "auteur": "APictche",
      "licence": "CC BY-SA 4.0",
@@ -7074,7 +7074,7 @@
    {
     "jour": "FIN",
     "mois": "OCT.",
-    "texte": "Green Farmer's (burgers végétaux) prévoit d'ouvrir un restaurant rue du Faubourg Saint-Antoine, Paris 11e, en seconde quinzaine d'octobre ; date non confirmée…"
+    "texte": "Green Farmer's (burgers végétaux) prévoit d'ouvrir un restaurant rue du Faubourg Saint-Antoine, Paris 11e, en seconde quinzaine d'octobre ; date non confirmée (information d'une seule source, le site de l'enseigne)."
    }
   ],
   "chiffreDuJour": null,
@@ -7109,7 +7109,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Viaduc_d%27Ol%C3%A9ron_-_Vue_a%C3%A9rienne_Sud-Est.jpg/1280px-Viaduc_d%27Ol%C3%A9ron_-_Vue_a%C3%A9rienne_Sud-Est.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Viaduc d'Oléron - Vue aérienne Sud-Est",
-    "chapeau": "Le Département de la Charente-Maritime, propriétaire du pont qui relie l'île d'Oléron au continent depuis 1966, a présenté le 28 septembre les modalités d'une concertation « Avenir pont d'Oléron », ouverte du 9 octobre au 9 novembre 2026. Elle porte sur trois scénarios de mise à niveau des garde-corps, l'aménagement…",
+    "chapeau": "Le Département de la Charente-Maritime, propriétaire du pont qui relie l'île d'Oléron au continent depuis 1966, a présenté le 28 septembre les modalités d'une concertation « Avenir pont d'Oléron », ouverte du 9 octobre au 9 novembre 2026.",
     "eclairage": "Qui décide, et comment ?",
     "chiffres": [
      {
@@ -7187,22 +7187,22 @@
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "Lagord : début de trois mois de travaux sur le réseau d'assainissement (rues Alfred Nobel, Victor Grignard, Fief Nouveau) (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "9",
     "mois": "OCT.",
-    "texte": "Pont d'Oléron : ouverture de la concertation, réunion publique à 18 h 30 à Saint-Pierre-d'Oléron (la.charente-maritime.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "11",
     "mois": "OCT.",
-    "texte": "Journée de la mode responsable : réparation et réemploi des textiles, au Musée Maritime (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle : séance du lundi, à l'Hôtel de Ville (larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "9",
@@ -7238,7 +7238,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Entr%C3%A9e_de_la_piscine.JPG/1280px-Entr%C3%A9e_de_la_piscine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Entrée de la piscine",
-    "chapeau": "Samedi 3 octobre, l'entourage du Premier ministre a indiqué que le gouvernement avance l'examen du projet de loi dit « casseur-payeur » : le texte sera inscrit à l'ordre du jour du Sénat en octobre. Il avait été déposé au Sénat le 16 septembre, en procédure accélérée, par les ministres Laurent Nuñez (Intérieur), Gérald…",
+    "chapeau": "Samedi 3 octobre, l'entourage du Premier ministre a indiqué que le gouvernement avance l'examen du projet de loi dit « casseur-payeur » : le texte sera inscrit à l'ordre du jour du Sénat en octobre.",
     "eclairage": "Que prévoit le texte ?",
     "chiffres": [
      {
@@ -7345,7 +7345,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Social_election_2020_in_Luxembourg%2C_electoral_envelopes.jpg/1280px-Social_election_2020_in_Luxembourg%2C_electoral_envelopes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Social election 2020 in Luxembourg, electoral envelopes",
-    "chapeau": "Vendredi 2 octobre, Le Média, un site proche de la gauche radicale, a diffusé deux extraits d'une conversation privée de l'eurodéputé Place publique Raphaël Glucksmann, candidat à la primaire de la gauche sociale-démocrate. Dans le premier, il parle du débat organisé par le Medef le 27 août, où Marine Le Pen et…",
+    "chapeau": "Vendredi 2 octobre, Le Média, un site proche de la gauche radicale, a diffusé deux extraits d'une conversation privée de l'eurodéputé Place publique Raphaël Glucksmann, candidat à la primaire de la gauche sociale-démocrate.",
     "eclairage": "Comment fonctionne cette primaire ?",
     "chiffres": [
      {
@@ -7431,7 +7431,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Paris_Palais_de_Justice_Gate_02.JPG/1280px-Paris_Palais_de_Justice_Gate_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris Palais de Justice Gate",
-    "chapeau": "Samedi 3 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a déclaré à La Tribune Dimanche maintenir « totalement » sa confiance au président du RN, Jordan Bardella. C'est sa première réaction publique depuis que Mediapart a publié, jeudi 1er octobre, des éléments présentés comme…",
+    "chapeau": "Samedi 3 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a déclaré à La Tribune Dimanche maintenir « totalement » sa confiance au président du RN, Jordan Bardella.",
     "eclairage": "Présomption d'innocence. Il s'agit d'accusations publiées par un média et contestées par la personne visée ; aucune décision de justice n'a été rendue. Les plaintes annoncées permettront à un juge de se prononcer sur l'authenticité des messages.",
     "chiffres": [],
     "passe": "Samedi 3 octobre, Marine Le Pen, candidate du Rassemblement national à la présidentielle, a déclaré à La Tribune Dimanche maintenir « totalement » sa confiance au président du RN, Jordan Bardella. C'est sa première réaction publique depuis que Mediapart a publié, jeudi 1er octobre, des éléments présentés comme authentifiant des messages antisémites de 2013 qu'il lui attribue. Le site avait d'abord diffusé des captures d'écran lundi 28 septembre. Jordan Bardella conteste « formellement » en être l'auteur. Il a annoncé avoir chargé son avocat de déposer plainte pour faux et usage de faux, en plus d'une plainte déjà déposée pour diffamation.",
@@ -7552,7 +7552,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ebola_virus_virion.jpg/1280px-Ebola_virus_virion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Ebola virus virion",
-    "chapeau": "Vendredi 2 octobre 2026, les autorités congolaises ont annoncé 4 018 décès pour 8 300 cas confirmés, dont 2 162 guérisons, soit 48,4 % de décès parmi les cas confirmés. L'épidémie, déclarée le 15 mai dans la province d'Ituri, est due au virus Bundibugyo, une espèce de virus Ebola pour laquelle l'OMS indique qu'il…",
+    "chapeau": "Vendredi 2 octobre 2026, les autorités congolaises ont annoncé 4 018 décès pour 8 300 cas confirmés, dont 2 162 guérisons, soit 48,4 % de décès parmi les cas confirmés.",
     "eclairage": "Qu'est-ce que le virus Bundibugyo ?",
     "chiffres": [
      {
@@ -7617,7 +7617,7 @@
      }
     ],
     "apres": "Des essais cliniques sont en cours : l'essai PARTNERS a inclus plus de 300 cas confirmés au 7 septembre, et Ervebo est utilisé chez des soignants dans des protocoles de recherche (OMS). Aucun produit n'a, à ce jour, démontré son efficacité contre ce virus.",
-    "change": "Pour les habitants des zones touchées, la réponse repose sur l'isolement des malades et le suivi des contacts, faute de vaccin ou de traitement approuvé. Pour le reste du monde, l'OMS évaluait le risque comme faible dans sa dernière évaluation (14 août). En…",
+    "change": "Pour les habitants des zones touchées, la réponse repose sur l'isolement des malades et le suivi des contacts, faute de vaccin ou de traitement approuvé. Pour le reste du monde, l'OMS évaluait le risque comme faible dans sa dernière évaluation (14 août).",
     "credit": {
      "auteur": "CDC/Cynthia Goldsmith",
      "licence": "Public domain",
@@ -7698,7 +7698,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Imagerrrrrr.jpg/1280px-Imagerrrrrr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Une chambre",
-    "chapeau": "Le New England Journal of Medicine a publié, selon l'annonce du fabricant Takeda du 9 septembre 2026, les résultats de deux essais de phase 3 de l'oveporexton dans la narcolepsie de type 1 : FirstLight (168 participants) et RadiantLight (105), sur 12 semaines, contre placebo. La réduction médiane des cataplexies…",
+    "chapeau": "Le New England Journal of Medicine a publié, selon l'annonce du fabricant Takeda du 9 septembre 2026, les résultats de deux essais de phase 3 de l'oveporexton dans la narcolepsie de type 1 : FirstLight (168 participants) et RadiantLight (105), sur 12 semaines, contre placebo.",
     "eclairage": "Comprendre la narcolepsie de type 1",
     "chiffres": [
      {
@@ -7759,7 +7759,7 @@
      }
     ],
     "apres": "Plus de 95 % des participants qui ont terminé les essais ont rejoint les études de prolongation, qui renseigneront sur le long terme (Pharmacy Times).",
-    "change": "Pour les personnes atteintes de narcolepsie de type 1, c'est un premier traitement qui vise le mécanisme de la maladie, déjà autorisé aux États-Unis, au Japon et en Chine pour les adultes (Takeda). Aucune autorisation européenne n'apparaît dans les sources…",
+    "change": "Pour les personnes atteintes de narcolepsie de type 1, c'est un premier traitement qui vise le mécanisme de la maladie, déjà autorisé aux États-Unis, au Japon et en Chine pour les adultes (Takeda).",
     "credit": {
      "auteur": "Juanejacome",
      "licence": "CC BY-SA 3.0",
@@ -7821,7 +7821,7 @@
      }
     ],
     "apres": "Les CDC mettent à jour leurs chiffres chaque semaine.",
-    "change": "Pour les personnes non vaccinées ou dont le statut vaccinal est incertain, le risque est plus élevé : la quasi-totalité des cas américains sont dans ce groupe. En France, le calendrier de vaccination relève des autorités de santé et d'un échange avec le…",
+    "change": "Pour les personnes non vaccinées ou dont le statut vaccinal est incertain, le risque est plus élevé : la quasi-totalité des cas américains sont dans ce groupe.",
     "credit": {
      "auteur": "Dctrzl",
      "licence": "CC BY-SA 4.0",
@@ -7866,7 +7866,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_White_House%2C_Washington%2C_D.C._USA2.jpg/1280px-The_White_House%2C_Washington%2C_D.C._USA2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "The White House, Washington, D.C. USA2",
-    "chapeau": "Le samedi 3 octobre, le Wall Street Journal a rapporté, à partir d'un entretien avec l'intéressé, que Donald Trump avait confié à Jay Clayton, directeur du renseignement national depuis août, la direction d'un nouveau groupe de travail de la Maison-Blanche, appelé « Super Intelligence Force ». Ce groupe a 120 jours…",
+    "chapeau": "Le samedi 3 octobre, le Wall Street Journal a rapporté, à partir d'un entretien avec l'intéressé, que Donald Trump avait confié à Jay Clayton, directeur du renseignement national depuis août, la direction d'un nouveau groupe de travail de la Maison-Blanche, appelé « Super Intelligence Force ».",
     "eclairage": "Qu'est-ce qu'un « tsar » de l'IA, et que peut-il décider ?",
     "chiffres": [
      {
@@ -7933,7 +7933,7 @@
      }
     ],
     "apres": "Le rapport est dû dans 120 jours ; aucune date de réunion publique n'est annoncée dans les sources consultées.",
-    "change": "Pour une entreprise qui développe ou utilise de l'IA aux États-Unis, ce groupe ne crée aucune obligation à ce stade : il prépare un rapport. Pour un utilisateur, rien ne change immédiatement. Horizon : les recommandations sont attendues dans 120 jours, soit…",
+    "change": "Pour une entreprise qui développe ou utilise de l'IA aux États-Unis, ce groupe ne crée aucune obligation à ce stade : il prépare un rapport. Pour un utilisateur, rien ne change immédiatement.",
     "credit": {
      "auteur": "Diego Delso",
      "licence": "CC BY-SA 3.0",
@@ -8005,7 +8005,7 @@
      }
     ],
     "apres": "Le prix de lancement court jusqu'au 31 décembre 2026 ; LiveKit doit ajouter la prise en charge prochainement, selon TestingCatalog.",
-    "change": "Pour un développeur ou une entreprise, ces modèles s'ajoutent aux offres de voix existantes, avec un prix de lancement valable jusqu'à fin 2026. Pour un utilisateur, ils pourraient se retrouver dans des assistants vocaux, sans calendrier annoncé. Les deux…",
+    "change": "Pour un développeur ou une entreprise, ces modèles s'ajoutent aux offres de voix existantes, avec un prix de lancement valable jusqu'à fin 2026. Pour un utilisateur, ils pourraient se retrouver dans des assistants vocaux, sans calendrier annoncé.",
     "credit": {
      "auteur": "Myotus",
      "licence": "CC BY 4.0",
@@ -8077,7 +8077,7 @@
      }
     ],
     "apres": "Aucune date de nouveau test ou de réunion n'est annoncée dans les sources consultées.",
-    "change": "Pour le grand public, rien de concret à court terme : il s'agit d'une annonce militaire non vérifiée. Pour les spécialistes de la défense, la question est de savoir si l'IA citée change réellement la précision ou la capacité d'évasion, ce que les sources ne…",
+    "change": "Pour le grand public, rien de concret à court terme : il s'agit d'une annonce militaire non vérifiée.",
     "credit": {
      "auteur": "Jan Engelhardt",
      "licence": "CC BY-SA 4.0",
@@ -8119,7 +8119,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Brongniart_-_Plans_du_Palais_de_la_Bourse_de_Paris_et_du_cimeti%C3%A8re_Mont-Louis%2C_IV.jpg/1280px-Brongniart_-_Plans_du_Palais_de_la_Bourse_de_Paris_et_du_cimeti%C3%A8re_Mont-Louis%2C_IV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Brongniart - Plans du Palais de la Bourse de Paris et du cimetière Mont-Louis, IV",
-    "chapeau": "Jeudi 1er octobre, le rendement des obligations de l'État français à dix ans (les OAT) a atteint 4,96 % en séance, son plus haut niveau depuis 2002, avant de refluer légèrement après la présentation par le gouvernement du projet de budget 2027, selon Reuters. Ce taux avait terminé le troisième trimestre sur sa hausse…",
+    "chapeau": "Jeudi 1er octobre, le rendement des obligations de l'État français à dix ans (les OAT) a atteint 4,96 % en séance, son plus haut niveau depuis 2002, avant de refluer légèrement après la présentation par le gouvernement du projet de budget 2027, selon Reuters.",
     "eclairage": "Qu'est-ce que le « taux d'emprunt » d'un État ?",
     "chiffres": [
      {
@@ -8216,7 +8216,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Crude_oil_tanker_Eagle_San_Diego.jpg/1280px-Crude_oil_tanker_Eagle_San_Diego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Crude oil tanker Eagle San Diego",
-    "chapeau": "Vendredi 2 octobre, réunis en urgence par Emmanuel Macron, les pays du G7 ont annoncé prélever sur leurs stocks stratégiques « jusqu'à 100 millions de barils » de gazole et de pétrole brut « dans les quatre mois », sans limiter les exportations de produits pétroliers entre eux (AFP). L'opération sera coordonnée par…",
+    "chapeau": "Vendredi 2 octobre, réunis en urgence par Emmanuel Macron, les pays du G7 ont annoncé prélever sur leurs stocks stratégiques « jusqu'à 100 millions de barils » de gazole et de pétrole brut « dans les quatre mois », sans limiter les exportations de produits pétroliers entre eux (AFP).",
     "eclairage": "À quoi servent les réserves stratégiques de pétrole ?",
     "chiffres": [
      {
@@ -8307,7 +8307,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_8.jpg/1280px-Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Frances Perkins Building of the United States Department of Labor in Washington, D.C.",
-    "chapeau": "Vendredi 2 octobre, le département américain du Travail a publié son rapport sur l'emploi de septembre : l'économie des États-Unis a créé 29 000 emplois hors agriculture et le taux de chômage est monté à 4,2 %, contre 4,1 % en août. Les économistes attendaient en moyenne 90 000 créations d'emplois selon l'AP et la…",
+    "chapeau": "Vendredi 2 octobre, le département américain du Travail a publié son rapport sur l'emploi de septembre : l'économie des États-Unis a créé 29 000 emplois hors agriculture et le taux de chômage est monté à 4,2 %, contre 4,1 % en août.",
     "eclairage": "Que mesure le rapport sur l'emploi américain, et pourquoi les marchés l'attendent-ils ?",
     "chiffres": [
      {
@@ -8372,7 +8372,7 @@
      }
     ],
     "apres": "La Fed se réunit les 27 et 28 octobre. Le rapport sur l'emploi d'octobre est attendu le vendredi 6 novembre ; l'AP rappelle que celui de septembre est le dernier avant les élections de mi-mandat du 3 novembre.",
-    "change": "Pour les salariés américains, moins de créations de postes et des salaires qui progressent moins vite réduisent les offres et la marge de négociation. Pour les entreprises et les investisseurs, ces chiffres alimentent le débat sur les prochaines décisions de…",
+    "change": "Pour les salariés américains, moins de créations de postes et des salaires qui progressent moins vite réduisent les offres et la marge de négociation.",
     "credit": {
      "auteur": "US Department of Labor",
      "licence": "CC BY 2.0",
@@ -8543,12 +8543,12 @@
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "France : indice PMI composite de septembre (S&P Global, 9h50). Air Liquide : présentation aux investisseurs. Bonduelle : réunion d'information sur ses résultats…"
+    "texte": "France : indice PMI composite de septembre (S&P Global, 9h50). Air Liquide : présentation aux investisseurs."
    },
    {
     "jour": "6",
     "mois": "OCT.",
-    "texte": "Insee : indice de la production industrielle d'août (8h45). Voyageurs du Monde : chiffres trimestriels (18h). Paramount et Warner Bros. Discovery : clôture…"
+    "texte": "Insee : indice de la production industrielle d'août (8h45). Voyageurs du Monde : chiffres trimestriels (18h). Paramount et Warner Bros."
    },
    {
     "jour": "6-9",
@@ -8654,7 +8654,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sodas.JPG/1280px-Sodas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Sodas",
-    "chapeau": "Le 28 septembre, l'Ania (industries alimentaires) a dénoncé dans un communiqué le projet d'une taxe sur les produits sucrés dans le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 ; l'entourage du Premier ministre a alors refusé de confirmer son existence, selon franceinfo. Le 30 septembre, le…",
+    "chapeau": "Le 28 septembre, l'Ania (industries alimentaires) a dénoncé dans un communiqué le projet d'une taxe sur les produits sucrés dans le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 ; l'entourage du Premier ministre a alors refusé de confirmer son existence, selon franceinfo.",
     "eclairage": "Une taxe de plus ou un nouveau mécanisme ?",
     "chiffres": [
      {
@@ -8734,7 +8734,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ruches_avec_un_apiculteur_en_embuscade_contre_les_frelons.JPG/1280px-Ruches_avec_un_apiculteur_en_embuscade_contre_les_frelons.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Ruches avec un apiculteur en embuscade contre les frelons",
-    "chapeau": "L'Union nationale de l'apiculture française (Unaf) estime la production de miel 2026 entre 18 000 et 20 000 tonnes, contre 23 000 à 25 000 tonnes en 2025. L'interprofession InterApi avance un chiffre nettement plus élevé, environ 33 700 tonnes, soit 5 000 de moins que l'année précédente : les deux organisations ne…",
+    "chapeau": "L'Union nationale de l'apiculture française (Unaf) estime la production de miel 2026 entre 18 000 et 20 000 tonnes, contre 23 000 à 25 000 tonnes en 2025.",
     "eclairage": "Pourquoi la chaleur réduit-elle le miel ?",
     "chiffres": [
      {
@@ -8893,22 +8893,22 @@
    {
     "jour": "3",
     "mois": "OCT.",
-    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel, jusqu'au 18 octobre (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "Lagord : début des travaux d'assainissement, environ trois mois (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "11",
     "mois": "OCT.",
-    "texte": "Journée de la mode responsable : 10 h à 18 h au Musée Maritime, réparation, réemploi et collecte de textiles (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle (larochelle.fr)."
+    "texte": "fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -8939,7 +8939,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/H%C3%B4tel_de_Lassay_1.jpg/1280px-H%C3%B4tel_de_Lassay_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Hôtel de Lassay",
-    "chapeau": "Jeudi 1er octobre, le gouvernement de Sébastien Lecornu a présenté en Conseil des ministres les projets de loi de finances et de financement de la Sécurité sociale pour 2027. L'effort total est de 54 milliards d'euros, dont 43 milliards de mesures nouvelles, pour ramener le déficit public à 5 % du PIB en 2027, contre…",
+    "chapeau": "Jeudi 1er octobre, le gouvernement de Sébastien Lecornu a présenté en Conseil des ministres les projets de loi de finances et de financement de la Sécurité sociale pour 2027.",
     "eclairage": "49.3 et censure : comment ça marche ?",
     "chiffres": [
      {
@@ -9002,7 +9002,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Station-service_Hyper_U_Cusset_2026-04-19.JPG/1280px-Station-service_Hyper_U_Cusset_2026-04-19.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Station-service Hyper U Cusset 2026-04-19",
-    "chapeau": "Vendredi 2 octobre, les dirigeants du G7, réunis à l'initiative d'Emmanuel Macron, ont décidé de libérer des stocks stratégiques de gazole et de pétrole brut, jusqu'à 100 millions de barils en quatre mois, sous la coordination de l'Agence internationale de l'énergie. Des quantités de gazole doivent arriver sur le…",
+    "chapeau": "Vendredi 2 octobre, les dirigeants du G7, réunis à l'initiative d'Emmanuel Macron, ont décidé de libérer des stocks stratégiques de gazole et de pétrole brut, jusqu'à 100 millions de barils en quatre mois, sous la coordination de l'Agence internationale de l'énergie.",
     "eclairage": "À quoi servent les stocks stratégiques ?",
     "chiffres": [
      {
@@ -9160,7 +9160,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pancreas_slide.jpg/1280px-Pancreas_slide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Pancreas slide",
-    "chapeau": "Le 30 septembre 2026, la revue Nature Medicine a publié l'essai VIRAGE, mené chez des adultes atteints d'un cancer du pancréas métastatique découvert récemment. Les patients ont reçu soit la chimiothérapie standard (gemcitabine et nab-paclitaxel), soit cette chimiothérapie plus deux injections intraveineuses de VCN-01,…",
+    "chapeau": "Le 30 septembre 2026, la revue Nature Medicine a publié l'essai VIRAGE, mené chez des adultes atteints d'un cancer du pancréas métastatique découvert récemment.",
     "eclairage": "Pourquoi ce résultat est à lire avec prudence",
     "chiffres": [
      {
@@ -9226,7 +9226,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/MKCH-01_artificial_heart_valve.jpg/1280px-MKCH-01_artificial_heart_valve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "MKCH-01 artificial heart valve",
-    "chapeau": "Le 1er octobre 2026, la FDA a approuvé la valve Autus Size-Adjustable, une valve pulmonaire implantée par chirurgie chez des enfants nés avec une malformation de cette valve. Elle peut être posée à environ 13 millimètres, taille adaptée à un tout-petit, puis élargie plus tard par un ballonnet introduit par cathéter,…",
+    "chapeau": "Le 1er octobre 2026, la FDA a approuvé la valve Autus Size-Adjustable, une valve pulmonaire implantée par chirurgie chez des enfants nés avec une malformation de cette valve.",
     "eclairage": "Comprendre : pourquoi un enfant a besoin de plusieurs opérations",
     "chiffres": [
      {
@@ -9292,7 +9292,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Levothyroxine_3D_ball.png/1280px-Levothyroxine_3D_ball.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Levothyroxine 3D ball",
-    "chapeau": "Le 28 septembre 2026, la FDA a approuvé Emcitate (tiratricol), des comprimés à dissoudre pris une fois par jour, pour traiter l'excès d'hormones thyroïdiennes dans le sang chez les patients atteints du déficit en MCT8, ou syndrome d'Allan-Herndon-Dudley. Cette maladie génétique touche surtout des garçons : le…",
+    "chapeau": "Le 28 septembre 2026, la FDA a approuvé Emcitate (tiratricol), des comprimés à dissoudre pris une fois par jour, pour traiter l'excès d'hormones thyroïdiennes dans le sang chez les patients atteints du déficit en MCT8, ou syndrome d'Allan-Herndon-Dudley.",
     "eclairage": "Ce que ce médicament traite, et ce qu'il ne traite pas",
     "chiffres": [
      {
@@ -9401,7 +9401,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wikimedia_Foundation_Servers-8055_13.jpg/1280px-Wikimedia_Foundation_Servers-8055_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Une salle de serveurs informatiques",
-    "chapeau": "Le 30 septembre, l'ANSSI, l'agence qui protège les systèmes d'information de l'État, a publié le premier point de situation de l'opération REACTIV, lancée à la demande du Premier ministre le 1er septembre. Depuis le 1er août, 99 violations de données touchant des services de l'État lui ont été signalées, dont 67…",
+    "chapeau": "Le 30 septembre, l'ANSSI, l'agence qui protège les systèmes d'information de l'État, a publié le premier point de situation de l'opération REACTIV, lancée à la demande du Premier ministre le 1er septembre.",
     "eclairage": "Pourquoi un mot de passe volé suffit-il ?",
     "chiffres": [
      {
@@ -9548,7 +9548,7 @@
      }
     ],
     "apres": "Aucune date de nouvelle publication n'est annoncée dans les sources consultées.",
-    "change": "Pour une entreprise qui confie des tâches à un agent d'IA, ces études montrent l'intérêt de vérifier les résultats et de limiter les accès accordés à l'agent. Pour un utilisateur, un compte rendu produit par un agent n'est pas une preuve en soi. Horizon : les…",
+    "change": "Pour une entreprise qui confie des tâches à un agent d'IA, ces études montrent l'intérêt de vérifier les résultats et de limiter les accès accordés à l'agent. Pour un utilisateur, un compte rendu produit par un agent n'est pas une preuve en soi.",
     "credit": {
      "auteur": "Markus Spiske markusspiske",
      "licence": "CC0",
@@ -9590,7 +9590,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg/1280px-Photo-du-147-Capgemini-Issy-Les-Moulineaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Le siège de Capgemini, à Issy-les-Moulineaux",
-    "chapeau": "Jeudi 1er octobre, Accenture, géant américain du conseil et des services informatiques, a publié ses résultats du quatrième trimestre de son exercice (clos fin août) : 18,7 milliards de dollars de chiffre d'affaires, en hausse de 7 % en devises locales, et 22,2 milliards de dollars de prises de commandes. Pour son…",
+    "chapeau": "Jeudi 1er octobre, Accenture, géant américain du conseil et des services informatiques, a publié ses résultats du quatrième trimestre de son exercice (clos fin août) : 18,7 milliards de dollars de chiffre d'affaires, en hausse de 7 % en devises locales, et 22,2 milliards de dollars de prises de commandes.",
     "eclairage": "Pourquoi une entreprise américaine fait-elle bouger une entreprise française ?",
     "chiffres": [
      {
@@ -9651,7 +9651,7 @@
      }
     ],
     "apres": "Les prochains résultats trimestriels de Capgemini et des autres sociétés de services informatiques diront si la tendance se confirme.",
-    "change": "Pour un salarié ou un client de ces sociétés, rien ne change à court terme. Pour les investisseurs, la question de fond demeure : l'IA crée-t-elle plus de commandes de conseil qu'elle n'en supprime ? Accenture signale à la fois des commandes en hausse et des…",
+    "change": "Pour un salarié ou un client de ces sociétés, rien ne change à court terme. Pour les investisseurs, la question de fond demeure : l'IA crée-t-elle plus de commandes de conseil qu'elle n'en supprime ?",
     "credit": {
      "auteur": "Rd.capgemini",
      "licence": "CC BY-SA 4.0",
@@ -9741,7 +9741,7 @@
      }
     ],
     "apres": "Les trois autres anticorps doivent entrer en essais cliniques en 2027.",
-    "change": "Pour les patients, rien de disponible à court terme : les anticorps sont au stade de l'essai de phase 1 ou n'ont pas encore commencé les essais. Pour Sanofi, c'est un engagement financier important sur des médicaments encore précoces ; pour Regeneron, une…",
+    "change": "Pour les patients, rien de disponible à court terme : les anticorps sont au stade de l'essai de phase 1 ou n'ont pas encore commencé les essais.",
     "credit": {
      "auteur": "M Joko Apriyo Putro",
      "licence": "CC BY-SA 4.0",
@@ -9756,7 +9756,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Citroen_2_cv_prepared_to_rally_raids_%281967%29_%2850002917217%29.jpg/1280px-Citroen_2_cv_prepared_to_rally_raids_%281967%29_%2850002917217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Citroen 2 cv prepared to rally raids (1967)",
-    "chapeau": "Mardi 29 septembre, Stellantis a annoncé aux représentants du personnel l'arrêt de quatre usines françaises : Sochaux du 23 au 30 octobre, Rennes du 22 au 30, Mulhouse du 15 au 30 et Poissy du 19 au 23. À Sochaux (Peugeot 3008 et 5008) et à Rennes (Citroën C5 Aircross), le constructeur invoque une disponibilité…",
+    "chapeau": "Mardi 29 septembre, Stellantis a annoncé aux représentants du personnel l'arrêt de quatre usines françaises : Sochaux du 23 au 30 octobre, Rennes du 22 au 30, Mulhouse du 15 au 30 et Poissy du 19 au 23.",
     "eclairage": "Comment une demande forte peut-elle arrêter des usines ?",
     "chiffres": [
      {
@@ -9838,7 +9838,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Beffes-FR-18-cimenterie-05.jpg/1280px-Beffes-FR-18-cimenterie-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Beffes-FR-18-cimenterie-05",
-    "chapeau": "Jeudi 1er octobre, le cimentier français Vicat a annoncé être entré en négociations exclusives pour acquérir les activités de béton prêt à l'emploi et de granulats du groupe mexicain Cemex dans le Sud-Est de la France. L'opération porte sur trois filiales (Cemex Granulats Rhône Méditerranée, Cemex Béton Rhône Alpes,…",
+    "chapeau": "Jeudi 1er octobre, le cimentier français Vicat a annoncé être entré en négociations exclusives pour acquérir les activités de béton prêt à l'emploi et de granulats du groupe mexicain Cemex dans le Sud-Est de la France.",
     "eclairage": "Ciment, granulats, béton : qui fait quoi ?",
     "chiffres": [
      {
@@ -9906,7 +9906,7 @@
    {
     "jour": "2",
     "mois": "OCT.",
-    "texte": "Tesla publie ses livraisons du troisième trimestre ; Bonduelle publie ses résultats annuels. Journées du Patrimoine économique jusqu'au 4 octobre : 1 015…"
+    "texte": "Tesla publie ses livraisons du troisième trimestre ; Bonduelle publie ses résultats annuels."
    },
    {
     "jour": "5",
@@ -10034,17 +10034,17 @@
    {
     "jour": "3",
     "mois": "OCT.",
-    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel, jusqu'au 18 octobre (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "5",
     "mois": "OCT.",
-    "texte": "Collecte des déchets : retour à deux collectes par semaine, avec exceptions pour le centre de La Rochelle et Châtelaillon-Plage (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle (larochelle.fr)."
+    "texte": "fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -10075,7 +10075,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Palais_du_Luxembourg%2C_South_View_140116_1.jpg/1280px-Palais_du_Luxembourg%2C_South_View_140116_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Palais du Luxembourg, South View 140116",
-    "chapeau": "Jeudi 1er octobre, le sénateur LR des Yvelines Gérard Larcher a été réélu président du Sénat dès le premier tour, avec 203 voix sur 302 suffrages exprimés. Trois candidats de gauche se présentaient face à lui : le socialiste Patrick Kanner (60 voix), la communiste Cécile Cukierman (22 voix) et l'écologiste Mélanie…",
+    "chapeau": "Jeudi 1er octobre, le sénateur LR des Yvelines Gérard Larcher a été réélu président du Sénat dès le premier tour, avec 203 voix sur 302 suffrages exprimés.",
     "eclairage": "Comment le Sénat choisit-il son président ?",
     "chiffres": [
      {
@@ -10242,7 +10242,7 @@
      }
     ],
     "apres": "Examen en commission puis débat dans l'hémicycle à partir du 13 octobre.",
-    "change": "Le gouvernement n'a pas de majorité absolue à l'Assemblée : il devra négocier ou recourir à des outils comme le 49.3. C'est le dernier budget avant la présidentielle de 2027.",
+    "change": "3. C'est le dernier budget avant la présidentielle de 2027.",
     "credit": {
      "auteur": "Leynadmar",
      "licence": "CC BY-SA 4.0",
@@ -10257,7 +10257,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%B4tel_de_Matignon_2017.jpg/1280px-H%C3%B4tel_de_Matignon_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Hôtel de Matignon",
-    "chapeau": "Jeudi 1er octobre, le mouvement lycéen, rejoint par des étudiants, s'est étendu : selon le ministère de l'Intérieur, 1 027 lycées ont été concernés dont 222 blocages, et 1 949 personnes ont été interpellées, essentiellement pour atteinte aux personnes dépositaires de l'autorité publique, violences et attroupements.…",
+    "chapeau": "Jeudi 1er octobre, le mouvement lycéen, rejoint par des étudiants, s'est étendu : selon le ministère de l'Intérieur, 1 027 lycées ont été concernés dont 222 blocages, et 1 949 personnes ont été interpellées, essentiellement pour atteinte aux personnes dépositaires de l'autorité publique, violences et attroupements.",
     "eclairage": null,
     "chiffres": [
      {
@@ -10463,7 +10463,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Many_colors_in_the_science_under_microscope%21.jpg/1280px-Many_colors_in_the_science_under_microscope%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Many colors in the science under microscope!",
-    "chapeau": "Mardi 29 septembre, à l'hôpital Osaka Keisatsu (Japon), une femme d'une cinquantaine d'années, atteinte d'insuffisance cardiaque sévère diagnostiquée environ quatre ans plus tôt, a reçu trois fines feuilles de cellules de muscle cardiaque fabriquées à partir de cellules souches pluripotentes induites (cellules iPS).…",
+    "chapeau": "Mardi 29 septembre, à l'hôpital Osaka Keisatsu (Japon), une femme d'une cinquantaine d'années, atteinte d'insuffisance cardiaque sévère diagnostiquée environ quatre ans plus tôt, a reçu trois fines feuilles de cellules de muscle cardiaque fabriquées à partir de cellules souches pluripotentes induites (cellules iPS).",
     "eclairage": "Que sont les cellules iPS, et que prouve un essai sur 8 patients ?",
     "chiffres": [
      {
@@ -10524,7 +10524,7 @@
      }
     ],
     "apres": "Étude de confirmation sur 75 patients dans les sept ans, et préparation d'un système de culture en grande quantité pour produire davantage (News On Japan, Alo Japan).",
-    "change": "Le traitement est conçu surtout pour les patients ayant épuisé les autres options (AFP). Il n'est pour l'instant utilisé qu'au Japon ; aucune disponibilité en France n'est annoncée dans les sources consultées. La production, en grande partie manuelle, suffit…",
+    "change": "Le traitement est conçu surtout pour les patients ayant épuisé les autres options (AFP). Il n'est pour l'instant utilisé qu'au Japon ; aucune disponibilité en France n'est annoncée dans les sources consultées.",
     "credit": {
      "auteur": "Ugnezija7",
      "licence": "CC BY-SA 4.0",
@@ -10539,7 +10539,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Double_cone_coil.jpg/1280px-Double_cone_coil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Double cone coil",
-    "chapeau": "Des chercheurs de l'Icahn School of Medicine at Mount Sinai (New York) ont publié le 28 septembre dans Brain Communications un essai pilote sur un casque à champ magnétique de très faible intensité, destiné aux personnes qui gardent des troubles cognitifs (le « brouillard cérébral ») après un Covid long. Trente adultes…",
+    "chapeau": "Des chercheurs de l'Icahn School of Medicine at Mount Sinai (New York) ont publié le 28 septembre dans Brain Communications un essai pilote sur un casque à champ magnétique de très faible intensité, destiné aux personnes qui gardent des troubles cognitifs (le « brouillard cérébral ») après un Covid long.",
     "eclairage": "Que prouve un essai « pilote » ?",
     "chiffres": [
      {
@@ -10605,7 +10605,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Linear_Accelerator_-_Elekta_Compact_model.jpg/1280px-Linear_Accelerator_-_Elekta_Compact_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Linear Accelerator - Elekta Compact model",
-    "chapeau": "Le 27 septembre, lors du congrès annuel de la Société américaine de radiothérapie (ASTRO) à Boston, des chercheurs ont présenté le suivi à long terme d'une étude randomisée sur 292 personnes atteintes d'arthrose symptomatique du genou. Les participants ont reçu soit de la glucosamine et de la chondroïtine seules, soit…",
+    "chapeau": "Le 27 septembre, lors du congrès annuel de la Société américaine de radiothérapie (ASTRO) à Boston, des chercheurs ont présenté le suivi à long terme d'une étude randomisée sur 292 personnes atteintes d'arthrose symptomatique du genou.",
     "eclairage": "Pourquoi ce résultat est un signal, pas une preuve",
     "chiffres": [
      {
@@ -10671,7 +10671,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/1280px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "World Health Organisation headquarters, Geneva, north and west sides",
-    "chapeau": "Le 25 septembre, l'Organisation mondiale de la santé (OMS) a publié sa recommandation de composition des vaccins contre la grippe pour la saison 2027 de l'hémisphère sud, à l'issue de sa consultation de septembre. Pour les vaccins produits sur œufs, elle retient un virus de type A/Missouri/11/2025 (H1N1)pdm09, un virus…",
+    "chapeau": "Le 25 septembre, l'Organisation mondiale de la santé (OMS) a publié sa recommandation de composition des vaccins contre la grippe pour la saison 2027 de l'hémisphère sud, à l'issue de sa consultation de septembre.",
     "eclairage": "Pourquoi change-t-on la composition du vaccin contre la grippe ?",
     "chiffres": [
      {
@@ -10770,7 +10770,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cornell_University_-_The_Mui_Ho_Fine_Arts_Library.jpg/1280px-Cornell_University_-_The_Mui_Ho_Fine_Arts_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Cornell University - The Mui Ho Fine Arts Library",
-    "chapeau": "Le 1er octobre, arXiv, l'archive en ligne où les chercheurs déposent leurs articles avant relecture (des préprints), a annoncé que chaque déposant peut soumettre « up to two submissions per calendar month » (jusqu'à deux textes par mois civil), avec trois dépôts actifs au maximum. Selon arXiv, la plateforme a reçu 40…",
+    "chapeau": "Le 1er octobre, arXiv, l'archive en ligne où les chercheurs déposent leurs articles avant relecture (des préprints), a annoncé que chaque déposant peut soumettre « up to two submissions per calendar month » (jusqu'à deux textes par mois civil), avec trois dépôts actifs au maximum.",
     "eclairage": "Pourquoi un préprint, et pourquoi cela compte",
     "chiffres": [
      {
@@ -10831,7 +10831,7 @@
      }
     ],
     "apres": "Le compteur est remis à zéro chaque mois civil, donc le 1er novembre. Des équipes qui publient plusieurs textes en même temps seront les premières concernées.",
-    "change": "Pour un chercheur, il faut désormais planifier ses dépôts : une erreur de format qui fait refuser un texte consomme une partie du quota du mois. Pour qui lit des préprints (journalistes, entreprises), la mesure vise à garder un flux plus lisible, sans garantir…",
+    "change": "Pour un chercheur, il faut désormais planifier ses dépôts : une erreur de format qui fait refuser un texte consomme une partie du quota du mois.",
     "credit": {
      "auteur": "P. Hughes",
      "licence": "CC BY 4.0",
@@ -10846,7 +10846,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/1280px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Pioneer Building, San Francisco (2019) -1",
-    "chapeau": "Le 29 septembre, lors de sa conférence DevDay, OpenAI a présenté les « dots », des agents d'IA (des programmes qui accomplissent une tâche par étapes, avec des outils) qui, selon l'entreprise, « operate independently in the cloud and continue tasks without user prompts » (fonctionnent seuls dans le cloud et poursuivent…",
+    "chapeau": "Le 29 septembre, lors de sa conférence DevDay, OpenAI a présenté les « dots », des agents d'IA (des programmes qui accomplissent une tâche par étapes, avec des outils) qui, selon l'entreprise, « operate independently in the cloud and continue tasks without user prompts » (fonctionnent seuls dans le cloud et poursuivent leurs tâches sans consigne).",
     "eclairage": "Un assistant qui attend, un agent qui agit",
     "chiffres": [
      {
@@ -10897,7 +10897,7 @@
      }
     ],
     "apres": "OpenAI indique que l'envoi de messages par SMS aux dots, plusieurs dots par utilisateur et l'intégration avec Microsoft Agent 365 restent à venir, sans date.",
-    "change": "Pour un salarié ou une équipe, des tâches de suivi (retours clients, petites corrections, mises à jour de documents) peuvent être déléguées à un agent, à condition de relire le résultat. Pour une entreprise, l'accès de l'agent aux outils internes devient un…",
+    "change": "Pour un salarié ou une équipe, des tâches de suivi (retours clients, petites corrections, mises à jour de documents) peuvent être déléguées à un agent, à condition de relire le résultat.",
     "credit": {
      "auteur": "HaeB",
      "licence": "CC BY-SA 4.0",
@@ -10981,7 +10981,7 @@
     ],
     "cartes": [],
     "apres": "L'Insee publiera les résultats définitifs de septembre le 15 octobre ; la première estimation de la zone euro est attendue le 2 octobre.",
-    "change": "Pour les ménages, c'est le coût du carburant et du chauffage qui pèse le plus. Pour les entreprises, c'est un coût de production plus élevé, qui peut se répercuter sur les prix de vente ou sur les marges. Une inflation plus forte réduit aussi la marge de…",
+    "change": "Pour les ménages, c'est le coût du carburant et du chauffage qui pèse le plus. Pour les entreprises, c'est un coût de production plus élevé, qui peut se répercuter sur les prix de vente ou sur les marges.",
     "credit": {
      "auteur": "Benoît Prieur",
      "licence": "CC0",
@@ -10996,7 +10996,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg/1280px-Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris Palais Brongniart détail",
-    "chapeau": "Mercredi 30 septembre, le CAC 40 a clôturé en baisse de 0,89 %, à 7 964,51 points : c'est la première fois depuis le 20 mai qu'il termine sous les 8 000 points, après sept semaines de repli, selon Zonebourse. Le rendement de l'OAT (l'obligation d'État française) à 10 ans a dépassé 4,8 %, son plus haut niveau depuis…",
+    "chapeau": "Mercredi 30 septembre, le CAC 40 a clôturé en baisse de 0,89 %, à 7 964,51 points : c'est la première fois depuis le 20 mai qu'il termine sous les 8 000 points, après sept semaines de repli, selon Zonebourse.",
     "eclairage": "À quoi sert un taux d'emprunt, et que dit l'écart avec l'Allemagne ?",
     "chiffres": [
      {
@@ -11067,7 +11067,7 @@
      }
     ],
     "apres": "Le gouvernement présente le budget 2027 en Conseil des ministres le 1er octobre, puis l'Assemblée nationale l'examine à partir du 13 octobre (Capital via Yahoo Finance).",
-    "change": "Pour l'État, plus de charge d'intérêts à terme à mesure qu'il refinance sa dette à des taux plus élevés. Pour les épargnants, des cours d'actions et d'obligations qui varient avec ces taux. Pour les entreprises, des conditions de financement liées à…",
+    "change": "Pour l'État, plus de charge d'intérêts à terme à mesure qu'il refinance sa dette à des taux plus élevés. Pour les épargnants, des cours d'actions et d'obligations qui varient avec ces taux.",
     "credit": {
      "auteur": "JLPC",
      "licence": "CC BY-SA 3.0",
@@ -11323,7 +11323,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Clermont-Ferrand-Cathedral-0016.jpg/1280px-Clermont-Ferrand-Cathedral-0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Clermont-Ferrand-Cathedral-0016",
-    "chapeau": "Le 29 septembre, Biotech Open Platform (BIOP) a inauguré son site industriel de biotechnologies dans le parc d'innovation de Michelin, à Cataroux, à Clermont-Ferrand. Créée en 2024 par Danone, Michelin, DMC Biotechnologies, le Crédit Agricole Centre France, Clermont Auvergne Innovation et Greentech, la plateforme a…",
+    "chapeau": "Le 29 septembre, Biotech Open Platform (BIOP) a inauguré son site industriel de biotechnologies dans le parc d'innovation de Michelin, à Cataroux, à Clermont-Ferrand.",
     "eclairage": "Que veut dire « changer d'échelle » ?",
     "chiffres": [
      {
@@ -11385,7 +11385,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Secheresse_en_Haute_Marne_France.jpg/1280px-Secheresse_en_Haute_Marne_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Secheresse en Haute Marne France",
-    "chapeau": "Dans son bulletin du 28 septembre, le Centre commun de recherche (JRC) de la Commission européenne prévoit des rendements bien inférieurs à la moyenne des cinq dernières années pour plusieurs cultures d'été de l'Union : soja -15 %, maïs fourrage -14 %, maïs grain -8 %, pommes de terre -7 %, betterave sucrière -11 %. La…",
+    "chapeau": "Dans son bulletin du 28 septembre, le Centre commun de recherche (JRC) de la Commission européenne prévoit des rendements bien inférieurs à la moyenne des cinq dernières années pour plusieurs cultures d'été de l'Union : soja -15 %, maïs fourrage -14 %, maïs grain -8 %, pommes de terre -7 %, betterave sucrière -11 %.",
     "eclairage": "Que veut dire « moyenne des cinq dernières années » ?",
     "chiffres": [
      {
@@ -11480,7 +11480,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ch%C3%A2teau_d%27eau_de_Bellevue.jpg/1280px-Ch%C3%A2teau_d%27eau_de_Bellevue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Château d'eau de Bellevue",
-    "chapeau": "Réuni le jeudi 17 septembre 2026 sous la présidence du préfet Michel Prosic, le 5e comité de suivi opérationnel de l'étiage a maintenu le niveau « alerte renforcée » pour l'ensemble des prélèvements liés au réseau d'eau potable du département. Selon la préfecture, septembre a cumulé en moyenne 2,6 mm de pluie contre…",
+    "chapeau": "Réuni le jeudi 17 septembre 2026 sous la présidence du préfet Michel Prosic, le 5e comité de suivi opérationnel de l'étiage a maintenu le niveau « alerte renforcée » pour l'ensemble des prélèvements liés au réseau d'eau potable du département.",
     "eclairage": "Qui décide des restrictions d'eau ?",
     "chiffres": [
      {
@@ -11546,7 +11546,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bus_Arr%C3%AAt_Bus_Place_Verdun_Place_Verdun_-_La_Rochelle_%28FR17%29_-_2026-08-03_-_5.jpg/1280px-Bus_Arr%C3%AAt_Bus_Place_Verdun_Place_Verdun_-_La_Rochelle_%28FR17%29_-_2026-08-03_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Bus Arrêt Bus Place Verdun Place Verdun - La Rochelle (FR17) - 2026-08-03",
-    "chapeau": "L'expérimentation des navettes semi-autonomes Yélo Flex, lancée en juillet 2025 dans huit communes de l'est de l'agglomération, s'est achevée le samedi 26 septembre 2026. Depuis le lundi 28 septembre, les anciennes lignes de transport à la demande TAD 30, 31 et 32, ainsi que l'expérimentation, sont remplacées par deux…",
+    "chapeau": "L'expérimentation des navettes semi-autonomes Yélo Flex, lancée en juillet 2025 dans huit communes de l'est de l'agglomération, s'est achevée le samedi 26 septembre 2026.",
     "eclairage": "Le transport à la demande, comment ça marche ?",
     "chiffres": [
      {
@@ -11599,7 +11599,7 @@
    {
     "jour": "3",
     "mois": "OCT.",
-    "texte": "Fête du sol vivant : ateliers de compostage et de jardinage au naturel dans l'agglo, jusqu'au 18 octobre (agglo-larochelle.fr)."
+    "texte": "fr)."
    },
    {
     "jour": "mi",
@@ -11635,7 +11635,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Paris_-_palais_de_l%27%C3%89lys%C3%A9e_~_cour_02.jpg/1280px-Paris_-_palais_de_l%27%C3%89lys%C3%A9e_~_cour_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris - palais de l'Élysée ~ cour",
-    "chapeau": "Lundi 28 septembre, Mediapart a publié des écrits antisémites qu'il attribue à Jordan Bardella, président du Rassemblement national, datant de 2013 selon l'AFP, quand il était jeune militant du Front national. Jordan Bardella conteste ces documents, qu'il qualifie de « faux grossiers », et son avocat a déposé une…",
+    "chapeau": "Lundi 28 septembre, Mediapart a publié des écrits antisémites qu'il attribue à Jordan Bardella, président du Rassemblement national, datant de 2013 selon l'AFP, quand il était jeune militant du Front national.",
     "eclairage": "Plainte en diffamation : que se passe-t-il ensuite ?",
     "chiffres": [
      {
@@ -11725,7 +11725,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg/1280px-Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Rassemblement de retraités à Sens (Yonne), novembre 2025",
-    "chapeau": "Jeudi 1er octobre, quatre ministres, Roland Lescure (Économie), David Amiel (Comptes publics), Jean-Pierre Farandou (Travail) et Stéphanie Rist (Santé), présentent le projet de loi de finances et le projet de loi de financement de la Sécurité sociale pour 2027. Le gouvernement annonce un effort de 54 milliards d'euros…",
+    "chapeau": "Jeudi 1er octobre, quatre ministres, Roland Lescure (Économie), David Amiel (Comptes publics), Jean-Pierre Farandou (Travail) et Stéphanie Rist (Santé), présentent le projet de loi de finances et le projet de loi de financement de la Sécurité sociale pour 2027.",
     "eclairage": "Indexation, sous-indexation : de quoi parle-t-on ?",
     "chiffres": [
      {
@@ -11877,7 +11877,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/S%C3%A9nat%2C_h%C3%A9micycle_et_tribune.jpg/1280px-S%C3%A9nat%2C_h%C3%A9micycle_et_tribune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Sénat, hémicycle et tribune",
-    "chapeau": "Jeudi 1er octobre à 15 heures, le Sénat, renouvelé pour moitié le 27 septembre, tient sa première séance de la session 2026-2027 : elle est consacrée à l'élection de son président, par scrutin secret à la tribune. Gérard Larcher, à ce poste sans interruption depuis douze ans, est candidat à un sixième mandat de…",
+    "chapeau": "Jeudi 1er octobre à 15 heures, le Sénat, renouvelé pour moitié le 27 septembre, tient sa première séance de la session 2026-2027 : elle est consacrée à l'élection de son président, par scrutin secret à la tribune.",
     "eclairage": "Comment s'élit le président du Sénat ?",
     "chiffres": [
      {
@@ -11990,7 +11990,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Feet_on_scale.jpg/1280px-Feet_on_scale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Feet on scale",
-    "chapeau": "Le 29 septembre, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, le laboratoire Eli Lilly a présenté les résultats de l'essai TRIUMPH-2, publiés le même jour dans The Lancet. Cet essai de phase 3, en double aveugle (ni les participants ni les médecins ne savent qui reçoit quoi) et contre…",
+    "chapeau": "Le 29 septembre, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, le laboratoire Eli Lilly a présenté les résultats de l'essai TRIUMPH-2, publiés le même jour dans The Lancet.",
     "eclairage": "Que prouve un essai de phase 3 contre placebo ?",
     "chiffres": [
      {
@@ -12074,7 +12074,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Surgeon_performing_robot-assisted_surgery.jpg/1280px-Surgeon_performing_robot-assisted_surgery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Surgeon performing robot-assisted surgery",
-    "chapeau": "Le 2 septembre, l'école de médecine WashU Medicine et le Barnes-Jewish Transplant Center, à Saint-Louis (Missouri), ont annoncé avoir réalisé une greffe combinée de foie et de rein avec un robot chirurgical, présentée comme la première rapportée au monde. L'opération a eu lieu en mai 2026, menée par les chirurgiens…",
+    "chapeau": "Le 2 septembre, l'école de médecine WashU Medicine et le Barnes-Jewish Transplant Center, à Saint-Louis (Missouri), ont annoncé avoir réalisé une greffe combinée de foie et de rein avec un robot chirurgical, présentée comme la première rapportée au monde.",
     "eclairage": "Qu'est-ce qu'une greffe assistée par robot ?",
     "chiffres": [
      {
@@ -12125,7 +12125,7 @@
      }
     ],
     "apres": "Pour savoir si l'approche réduit la douleur ou accélère la récupération, il faudrait des séries de cas plus larges, puis des comparaisons avec la chirurgie ouverte.",
-    "change": "Pour les patients, rien ne change à ce stade : il s'agit d'un cas isolé, réalisé dans un centre expérimenté qui pratique déjà des greffes robotiques de rein et de foie. L'intérêt, pour l'instant, est de montrer que l'approche est faisable pour des patients…",
+    "change": "Pour les patients, rien ne change à ce stade : il s'agit d'un cas isolé, réalisé dans un centre expérimenté qui pratique déjà des greffes robotiques de rein et de foie.",
     "credit": {
      "auteur": "Navy Medicine",
      "licence": "Public domain",
@@ -12206,7 +12206,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pan_American_Health_Organization_Building.jpg/1280px-Pan_American_Health_Organization_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Pan American Health Organization Building",
-    "chapeau": "Le 29 septembre, l'Organisation panaméricaine de la santé (OPS, bureau régional de l'OMS) a présenté « Health in the Americas 2026 » devant son 63e Conseil directeur. Selon ce rapport, près de 40 % de la charge de maladie de la région pourrait être évitée par une meilleure prévention, un diagnostic et des soins plus…",
+    "chapeau": "Le 29 septembre, l'Organisation panaméricaine de la santé (OPS, bureau régional de l'OMS) a présenté « Health in the Americas 2026 » devant son 63e Conseil directeur.",
     "eclairage": "Que veut dire « charge de maladie évitable » ?",
     "chiffres": [
      {
@@ -12266,12 +12266,12 @@
    {
     "jour": "13",
     "mois": "OCT.",
-    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage. Les deux…"
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage."
    },
    {
     "jour": "23",
     "mois": "OCT.",
-    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un…"
+    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un cancer du poumon."
    }
   ],
   "chiffreDuJour": null,
@@ -12353,7 +12353,7 @@
      }
     ],
     "apres": "Ouverture annoncée par Google, sans date, aux clients payants de l'API et aux abonnés Google AI Ultra ; fin du tarif d'introduction à une date non précisée dans les pages consultées.",
-    "change": "Pour l'instant, seuls des défenseurs informatiques invités y accèdent : les utilisateurs ordinaires et les entreprises doivent attendre l'ouverture annoncée, sans date. Côté coût, le tarif d'introduction est annoncé à un cinquième de celui de GPT-6 Astra…",
+    "change": "Pour l'instant, seuls des défenseurs informatiques invités y accèdent : les utilisateurs ordinaires et les entreprises doivent attendre l'ouverture annoncée, sans date.",
     "credit": {
      "auteur": "Asoundd",
      "licence": "CC BY-SA 4.0",
@@ -12368,7 +12368,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2014-04-04-Federal-Trade-Commission-Building-Washington-DC.jpg/1280px-2014-04-04-Federal-Trade-Commission-Building-Washington-DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "2014-04-04-Federal-Trade-Commission-Building-Washington-DC",
-    "chapeau": "Le 30 septembre, la Federal Trade Commission (FTC), l'autorité américaine de protection des consommateurs, a ouvert une enquête visant OpenAI, Anthropic et METR, un groupe de recherche en sécurité de l'IA, selon des informations d'abord publiées par le New York Post et confirmées à Reuters par un responsable de la FTC.…",
+    "chapeau": "Le 30 septembre, la Federal Trade Commission (FTC), l'autorité américaine de protection des consommateurs, a ouvert une enquête visant OpenAI, Anthropic et METR, un groupe de recherche en sécurité de l'IA, selon des informations d'abord publiées par le New York Post et confirmées à Reuters par un responsable de la FTC.",
     "eclairage": "Pourquoi la FTC, et pourquoi maintenant ?",
     "chiffres": [
      {
@@ -12429,7 +12429,7 @@
      }
     ],
     "apres": "Envoi des demandes d'information aux entreprises, puis auditions éventuelles de dirigeants ; aucune date publiée.",
-    "change": "Pour les entreprises d'IA : un risque de contrôle sur leurs outils d'agents et sur ce qu'elles en disent publiquement. Pour le public : aucune décision à ce stade, seulement une enquête. Horizon : les premières demandes formelles sont attendues dans les…",
+    "change": "Pour les entreprises d'IA : un risque de contrôle sur leurs outils d'agents et sur ce qu'elles en disent publiquement. Pour le public : aucune décision à ce stade, seulement une enquête.",
     "credit": {
      "auteur": "Gunnar Klack",
      "licence": "CC BY-SA 4.0",
@@ -12444,7 +12444,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/TMEM171_Structure_Model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "legende": "TMEM171 Structure Model",
-    "chapeau": "Le 30 septembre, Google DeepMind a présenté SynthID Bio, une famille de méthodes qui insèrent une signature imperceptible dans des protéines conçues par IA, à la fois dans leur séquence d'acides aminés et dans les coordonnées de leur structure 3D prédite. Pour la structure, l'entreprise a ajusté une petite partie du…",
+    "chapeau": "Le 30 septembre, Google DeepMind a présenté SynthID Bio, une famille de méthodes qui insèrent une signature imperceptible dans des protéines conçues par IA, à la fois dans leur séquence d'acides aminés et dans les coordonnées de leur structure 3D prédite.",
     "eclairage": "À quoi sert un filigrane sur une protéine ?",
     "chiffres": [
      {
@@ -12595,7 +12595,7 @@
      }
     ],
     "apres": "Première production visée en 2030. Le montant de 15 milliards est celui de la Maison Blanche ; Mesabi n'a pas détaillé le financement de l'usine.",
-    "change": "Pour l'instant, c'est un projet annoncé : la Maison Blanche promet 1 750 emplois permanents et 6 000 emplois de chantier. Pour les entreprises qui achètent de l'acier, il ne change pas les prix à court terme, puisque les premières tonnes sont attendues en…",
+    "change": "Pour l'instant, c'est un projet annoncé : la Maison Blanche promet 1 750 emplois permanents et 6 000 emplois de chantier.",
     "credit": {
      "auteur": "Marek Ślusarczyk (Tupungato) Photo gallery",
      "licence": "CC BY 3.0",
@@ -12610,7 +12610,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/BASF_Ludwigshafen_part.jpg/1280px-BASF_Ludwigshafen_part.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "BASF Ludwigshafen part",
-    "chapeau": "Lundi 28 septembre, selon des sources proches des discussions citées par Reuters, le groupe chimique allemand Evonik a rejeté une offre de rachat de BASF de 10,3 milliards d'euros (11,7 milliards de dollars), soit environ 22,15 euros par action Evonik, jugée trop basse. Le Financial Times, repris par Zonebourse,…",
+    "chapeau": "Lundi 28 septembre, selon des sources proches des discussions citées par Reuters, le groupe chimique allemand Evonik a rejeté une offre de rachat de BASF de 10,3 milliards d'euros (11,7 milliards de dollars), soit environ 22,15 euros par action Evonik, jugée trop basse.",
     "eclairage": "Comment se passe un rachat non sollicité ?",
     "chiffres": [
      {
@@ -12682,7 +12682,7 @@
     "court": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg",
     "legende": "Les tours Samsung à Séoul",
-    "chapeau": "Mardi 29 septembre, Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance et Samsung Fire & Marine Insurance ont annoncé investir ensemble 1 milliard de dollars dans Helix Digital Infrastructure, société d'infrastructures d'intelligence artificielle créée par le fonds d'investissement KKR…",
+    "chapeau": "Mardi 29 septembre, Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance et Samsung Fire & Marine Insurance ont annoncé investir ensemble 1 milliard de dollars dans Helix Digital Infrastructure, société d'infrastructures d'intelligence artificielle créée par le fonds d'investissement KKR et lancée en juin 2026.",
     "eclairage": "Pourquoi l'électricité est devenue le sujet de l'IA",
     "chiffres": [
      {
@@ -12748,7 +12748,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Yekaterinburg_-_Bessemer_converter_-_2025-07_-_p1.jpg/1280px-Yekaterinburg_-_Bessemer_converter_-_2025-07_-_p1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Yekaterinburg - Bessemer converter - 2025-07 - p1",
-    "chapeau": "Mardi 29 septembre, le britannique Vesuvius a confirmé examiner une proposition de rachat de l'autrichien RHI Magnesita, à 551 pence par action, soit environ 1,37 milliard de livres (1,81 milliard de dollars), selon Reuters. La proposition mêle 470 pence en numéraire et 0,28 nouvelle action RHI pour 10 actions Vesuvius…",
+    "chapeau": "Mardi 29 septembre, le britannique Vesuvius a confirmé examiner une proposition de rachat de l'autrichien RHI Magnesita, à 551 pence par action, soit environ 1,37 milliard de livres (1,81 milliard de dollars), selon Reuters.",
     "eclairage": "Que fabriquent ces deux entreprises ?",
     "chiffres": [
      {
@@ -12818,7 +12818,7 @@
    {
     "jour": "1",
     "mois": "OCT.",
-    "texte": "Zone euro : taux de chômage d'août et PMI manufacturier définitif de septembre. France : immatriculations de septembre. Entreprises : résultats d'Accenture et…"
+    "texte": "Zone euro : taux de chômage d'août et PMI manufacturier définitif de septembre. France : immatriculations de septembre."
    },
    {
     "jour": "2",
@@ -12863,7 +12863,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2020_Corn_Harvest_-_50247531723.jpg/1280px-2020_Corn_Harvest_-_50247531723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "2020 Corn Harvest",
-    "chapeau": "Dans sa note de conjoncture du 15 septembre, le service statistique du ministère de l'Agriculture (Agreste) abaisse à 8,1 millions de tonnes sa prévision de récolte de maïs grain, contre 9 millions en août : ce serait le niveau le plus bas depuis 1980. Le rendement moyen tomberait à 68,2 quintaux par hectare (86,3 en…",
+    "chapeau": "Dans sa note de conjoncture du 15 septembre, le service statistique du ministère de l'Agriculture (Agreste) abaisse à 8,1 millions de tonnes sa prévision de récolte de maïs grain, contre 9 millions en août : ce serait le niveau le plus bas depuis 1980.",
     "eclairage": "Comment lire ces chiffres ?",
     "chiffres": [
      {
@@ -12914,7 +12914,7 @@
      }
     ],
     "apres": "Prochaines estimations d'Agreste dans le bulletin mensuel d'octobre ; les rendements définitifs suivent après la fin des récoltes.",
-    "change": "Les besoins en maïs ne baissent pas avec la récolte : selon La France Agricole, les importations françaises de maïs monteraient à 0,8 million de tonnes, contre 0,48 en moyenne sur cinq ans. Au niveau européen, la production de maïs grain passerait sous 50…",
+    "change": "Les besoins en maïs ne baissent pas avec la récolte : selon La France Agricole, les importations françaises de maïs monteraient à 0,8 million de tonnes, contre 0,48 en moyenne sur cinq ans.",
     "credit": {
      "auteur": "Ark. Agricultural Experiment Station",
      "licence": "CC BY 2.0",
@@ -12929,7 +12929,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg/1280px-Tractor_tracks_%40_Field_%40_Choisy_%2849908338837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Un champ cultivé",
-    "chapeau": "Le 4 septembre, la ministre de l'Agriculture Annie Genevard a annoncé plus d'un milliard d'euros pour les exploitations touchées par les canicules, la sécheresse et les incendies. Le plan comprend 520 millions d'euros d'indemnisation de solidarité nationale (ISN), avec une avance portée de 70 % à 80 % pour les…",
+    "chapeau": "Le 4 septembre, la ministre de l'Agriculture Annie Genevard a annoncé plus d'un milliard d'euros pour les exploitations touchées par les canicules, la sécheresse et les incendies.",
     "eclairage": "Qui indemnise quoi ?",
     "chiffres": [
      {
@@ -12990,7 +12990,7 @@
      }
     ],
     "apres": "La fenêtre initiale de l'aide à l'azote se terminait aujourd'hui, 30 septembre ; elle court désormais jusqu'au 31 décembre 2026.",
-    "change": "Pour une exploitation, l'aide arrive en plusieurs étapes : avance de l'ISN, aides aux intrants via les préfectures, allègements fiscaux et sociaux. Pour les consommateurs, l'effet dépend des filières : maïs et betteraves entrent dans l'alimentation animale, le…",
+    "change": "Pour une exploitation, l'aide arrive en plusieurs étapes : avance de l'ISN, aides aux intrants via les préfectures, allègements fiscaux et sociaux.",
     "credit": {
      "auteur": "Guilhem Vellut from Annecy, France",
      "licence": "CC BY 2.0",
@@ -13122,7 +13122,7 @@
      }
     ],
     "apres": "Les résultats publiés par le ministère de l'Intérieur sont provisoires, dans l'attente d'éventuelles corrections et d'un contrôle judiciaire.",
-    "change": "Le département reste représenté par trois sénateurs qui votent les lois et portent au Parlement les dossiers des communes et du département (eau, littoral, financement des collectivités). Le siège de député de Christophe Plassard change de titulaire : selon…",
+    "change": "Le département reste représenté par trois sénateurs qui votent les lois et portent au Parlement les dossiers des communes et du département (eau, littoral, financement des collectivités).",
     "credit": {
      "auteur": "Patrick Despoix",
      "licence": "CC BY-SA 3.0",
@@ -13140,7 +13140,7 @@
    {
     "jour": "12",
     "mois": "OCT.",
-    "texte": "Conseil municipal de La Rochelle, à l'Hôtel de ville (calendrier publié par larochelle.fr)."
+    "texte": "fr)."
    }
   ],
   "chiffreDuJour": null,
@@ -13171,7 +13171,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg/1280px-Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Le Havre Place Hôtel de Ville R01",
-    "chapeau": "Mardi 29 septembre, Édouard Philippe, ancien Premier ministre et candidat Horizons à la présidentielle, a présenté sa réforme des retraites dans une vidéo d'une vingtaine de minutes. Il propose de reprendre la réforme de 2023, suspendue en 2025, puis de porter progressivement l'âge légal de départ à 65 ans et la durée…",
+    "chapeau": "Mardi 29 septembre, Édouard Philippe, ancien Premier ministre et candidat Horizons à la présidentielle, a présenté sa réforme des retraites dans une vidéo d'une vingtaine de minutes.",
     "eclairage": "Âge légal, annuités, capitalisation : les mots à connaître",
     "chiffres": [
      {
@@ -13251,7 +13251,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palais_du_Luxembourg%2C_S%C3%A9nat%2C_galerie_des_conf%C3%A9rences.jpg/1280px-Palais_du_Luxembourg%2C_S%C3%A9nat%2C_galerie_des_conf%C3%A9rences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Palais du Luxembourg, Sénat, galerie des conférences",
-    "chapeau": "Mardi 29 septembre, le groupe Écologiste – Solidarité et Territoires du Sénat a annoncé qu'il n'accueillerait pas Gabriel Amard, premier sénateur de La France insoumise, faute de « consensus » interne, mais qu'il accueillait Marc Péré, élu divers gauche en Haute-Garonne avec le soutien de LFI et des Écologistes. Le…",
+    "chapeau": "Mardi 29 septembre, le groupe Écologiste – Solidarité et Territoires du Sénat a annoncé qu'il n'accueillerait pas Gabriel Amard, premier sénateur de La France insoumise, faute de « consensus » interne, mais qu'il accueillait Marc Péré, élu divers gauche en Haute-Garonne avec le soutien de LFI et des Écologistes.",
     "eclairage": "À quoi sert un groupe au Sénat ?",
     "chiffres": [
      {
@@ -13341,7 +13341,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Manifestation_du_8_mars_2025_%C3%A0_Paris_%284%29.jpg/1280px-Manifestation_du_8_mars_2025_%C3%A0_Paris_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Manifestation du 8 mars 2025 à Paris",
-    "chapeau": "Mardi 29 septembre, les huit syndicats représentatifs de la fonction publique (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC et FA-FP) ont appelé à la grève et à manifester, dans plus de 170 rassemblements, contre le gel du point d'indice prévu dans le projet de budget 2027 et pour une hausse des salaires. Selon le…",
+    "chapeau": "Mardi 29 septembre, les huit syndicats représentatifs de la fonction publique (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC et FA-FP) ont appelé à la grève et à manifester, dans plus de 170 rassemblements, contre le gel du point d'indice prévu dans le projet de budget 2027 et pour une hausse des salaires.",
     "eclairage": "Le point d'indice, comment ça marche ?",
     "chiffres": [
      {
@@ -13423,7 +13423,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cour_des_comptes_Paris_entr%C3%A9e.JPG/1280px-Cour_des_comptes_Paris_entr%C3%A9e.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Cour des comptes Paris entrée",
-    "chapeau": "Mardi 29 septembre, l'Insee a publié le niveau de la dette publique à la fin du deuxième trimestre 2026 : 3 595,5 milliards d'euros, soit 119,0 % du produit intérieur brut (PIB). Elle a augmenté de 59,6 milliards d'euros en trois mois, dont 53 milliards pour l'État et 8,4 milliards pour la Sécurité sociale, tandis que…",
+    "chapeau": "Mardi 29 septembre, l'Insee a publié le niveau de la dette publique à la fin du deuxième trimestre 2026 : 3 595,5 milliards d'euros, soit 119,0 % du produit intérieur brut (PIB).",
     "eclairage": "Dette et déficit : quelle différence ?",
     "chiffres": [
      {
@@ -13587,7 +13587,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1280px-WhiteHouseSouthFacade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "WhiteHouseSouthFacade",
-    "chapeau": "Mardi 29 septembre, à l'issue d'un déjeuner à la Maison-Blanche, Donald Trump, Dario Amodei (Anthropic), Sundar Pichai (Google), Mark Zuckerberg (Meta), Greg Brockman (OpenAI), Jensen Huang (Nvidia) et Elon Musk (xAI) ont signé un accord volontaire, publié le soir par le président sur son réseau Truth Social. Selon…",
+    "chapeau": "Mardi 29 septembre, à l'issue d'un déjeuner à la Maison-Blanche, Donald Trump, Dario Amodei (Anthropic), Sundar Pichai (Google), Mark Zuckerberg (Meta), Greg Brockman (OpenAI), Jensen Huang (Nvidia) et Elon Musk (xAI) ont signé un accord volontaire, publié le soir par le président sur son réseau Truth Social.",
     "eclairage": "Un accord volontaire, ça change quoi ?",
     "chiffres": [
      {
@@ -13668,7 +13668,7 @@
      }
     ],
     "apres": "Nomination annoncée dans les prochains jours d'un responsable du suivi de l'accord ; composition du comité à confirmer.",
-    "change": "Pour les entreprises, des engagements de procédure sans contrainte légale ; pour le public, aucune nouvelle garantie juridique à ce stade. Selon Donald Trump, les entreprises ont aussi accepté de soutenir davantage les écoles locales ou de réduire les coûts…",
+    "change": "Pour les entreprises, des engagements de procédure sans contrainte légale ; pour le public, aucune nouvelle garantie juridique à ce stade.",
     "credit": {
      "auteur": "This image or media was taken or created by Matt H. Wade. To",
      "licence": "CC BY-SA 3.0",
@@ -13683,7 +13683,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/1280px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Le Pioneer Building, siège d'OpenAI à San Francisco",
-    "chapeau": "1 Astra, un modèle prévu pour octobre, après des tests internes de sécurité. Selon Saachi Jain, responsable des systèmes de sécurité d'OpenAI, citée par The Hacker News, le modèle « didn't quite meet the bar in terms of staying within scope and authorization » (n'a pas tout à fait atteint le niveau attendu pour rester…",
+    "chapeau": "1 Astra, un modèle prévu pour octobre, après des tests internes de sécurité.",
     "eclairage": "Que veut dire « tromperie » pour un modèle ?",
     "chiffres": [
      {
@@ -13749,7 +13749,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/1280px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "2485 Augustine Drive headquarters in Santa Clara, California",
-    "chapeau": "Le 28 septembre, le fabricant de puces AMD a annoncé un accord pour racheter World Labs, laboratoire américain de modèles d'IA fondé par Fei-Fei Li, professeure à Stanford. L'opération, entièrement payée en actions, est valorisée à environ 8,2 milliards de dollars ; sa clôture est attendue d'ici fin 2026, sous réserve…",
+    "chapeau": "Le 28 septembre, le fabricant de puces AMD a annoncé un accord pour racheter World Labs, laboratoire américain de modèles d'IA fondé par Fei-Fei Li, professeure à Stanford.",
     "eclairage": "Pourquoi un fabricant de puces achète-t-il un laboratoire de modèles ?",
     "chiffres": [
      {
@@ -13933,7 +13933,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg/1280px-TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "TotalEnergies Voi service station,",
-    "chapeau": "Lundi 28 septembre, avant sa journée des investisseurs à New York, TotalEnergies a annoncé racheter 2,5 milliards de dollars de ses propres actions au quatrième trimestre 2026, contre 1,5 milliard aux deuxième et troisième trimestres, puis entre 2 et 2,5 milliards au premier trimestre 2027. Le groupe s'engage aussi à…",
+    "chapeau": "Lundi 28 septembre, avant sa journée des investisseurs à New York, TotalEnergies a annoncé racheter 2,5 milliards de dollars de ses propres actions au quatrième trimestre 2026, contre 1,5 milliard aux deuxième et troisième trimestres, puis entre 2 et 2,5 milliards au premier trimestre 2027.",
     "eclairage": "Dividende ou rachat d'actions : deux façons de rendre l'argent",
     "chiffres": [
      {
@@ -14023,7 +14023,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/AMD_Ryzen_9_7900X.jpg/1280px-AMD_Ryzen_9_7900X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "AMD Ryzen 9 7900X",
-    "chapeau": "Lundi 28 septembre, après la clôture de Wall Street, le fabricant américain de puces AMD a annoncé un accord pour racheter World Labs, un laboratoire d'intelligence artificielle de San Francisco fondé en 2024 par la chercheuse Fei-Fei Li. L'opération est valorisée environ 8,2 milliards de dollars et sera payée…",
+    "chapeau": "Lundi 28 septembre, après la clôture de Wall Street, le fabricant américain de puces AMD a annoncé un accord pour racheter World Labs, un laboratoire d'intelligence artificielle de San Francisco fondé en 2024 par la chercheuse Fei-Fei Li.",
     "eclairage": "Pourquoi un fabricant de puces achète un laboratoire de recherche",
     "chiffres": [
      {
@@ -14088,7 +14088,7 @@
      }
     ],
     "apres": "Examen par les autorités de la concurrence, puis finalisation visée avant le 31 décembre 2026. D'ici là, World Labs reste séparé des activités de puces d'AMD.",
-    "change": "La course aux chercheurs en IA se joue désormais à coups de milliards : moins d'un mois plus tôt, Nvidia annonçait le rachat de la plateforme Hugging Face pour 12,9 milliards de dollars. Les grands groupes achètent des équipes entières plutôt que de les…",
+    "change": "La course aux chercheurs en IA se joue désormais à coups de milliards : moins d'un mois plus tôt, Nvidia annonçait le rachat de la plateforme Hugging Face pour 12,9 milliards de dollars.",
     "credit": {
      "auteur": "CristoCalis",
      "licence": "CC BY-SA 4.0",
@@ -14103,7 +14103,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/18650_and_21700_lithium_ion_battery_cell.jpg/1280px-18650_and_21700_lithium_ion_battery_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "18650 and 21700 lithium ion battery cell",
-    "chapeau": "Lundi 28 septembre, Volkswagen, sa filiale de batteries PowerCo et le fabricant chinois Gotion High-tech ont annoncé trois coentreprises pour produire en Europe des batteries LFP (lithium-fer-phosphate) et leurs matériaux. À Valence, en Espagne, l'usine de PowerCo en construction passera dans une coentreprise détenue à…",
+    "chapeau": "Lundi 28 septembre, Volkswagen, sa filiale de batteries PowerCo et le fabricant chinois Gotion High-tech ont annoncé trois coentreprises pour produire en Europe des batteries LFP (lithium-fer-phosphate) et leurs matériaux.",
     "eclairage": "Pourquoi un constructeur européen s'associe à un chinois",
     "chiffres": [
      {
@@ -14168,7 +14168,7 @@
      }
     ],
     "apres": "Le conseil de Gotion a approuvé le projet le 28 septembre. Restent la signature de l'accord d'investissement, le vote des actionnaires de Gotion et les autorisations en Chine et à l'étranger.",
-    "change": "Des batteries moins chères produites en Europe pourraient faire baisser le prix des petites voitures électriques. En échange, un industriel chinois prend une place importante dans une usine présentée comme un pilier de l'autonomie européenne. Electrive relève…",
+    "change": "Des batteries moins chères produites en Europe pourraient faire baisser le prix des petites voitures électriques. En échange, un industriel chinois prend une place importante dans une usine présentée comme un pilier de l'autonomie européenne.",
     "credit": {
      "auteur": "Sevenethics",
      "licence": "CC0",
@@ -14183,7 +14183,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Sunrise_Dam_Gold_Mine_processing_plant_10.jpg/1280px-Sunrise_Dam_Gold_Mine_processing_plant_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Sunrise Dam Gold Mine processing plant",
-    "chapeau": "Lundi 28 septembre, Northern Star Resources, premier producteur d'or australien, a annoncé que son conseil d'administration avait rejeté à l'unanimité une offre de rachat non sollicitée du sud-africain Gold Fields, reçue le 14 septembre. L'offre valorisait l'entreprise à 38,7 milliards de dollars australiens (27,1…",
+    "chapeau": "Lundi 28 septembre, Northern Star Resources, premier producteur d'or australien, a annoncé que son conseil d'administration avait rejeté à l'unanimité une offre de rachat non sollicitée du sud-africain Gold Fields, reçue le 14 septembre.",
     "eclairage": "Comment se joue une offre de rachat",
     "chiffres": [
      {
@@ -14275,7 +14275,7 @@
    {
     "jour": "30",
     "mois": "SEPT.",
-    "texte": "Insee : inflation de septembre (estimation provisoire) et consommation des ménages en août. États-Unis : indice des prix PCE d'août, la mesure d'inflation…"
+    "texte": "Insee : inflation de septembre (estimation provisoire) et consommation des ménages en août."
    },
    {
     "jour": "1er",
@@ -14330,7 +14330,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/NCI_peas_in_pod.jpg/1280px-NCI_peas_in_pod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "NCI peas in pod",
-    "chapeau": "Le 25 septembre, la Commission européenne a publié au Journal officiel de l'UE un règlement qui impose des droits antidumping définitifs sur les protéines de pois importées de Chine : de 40,5 % à 67,1 % du prix à la frontière, selon l'entreprise exportatrice, pour cinq ans. Des droits provisoires, de 40,5 % à 67,4 %,…",
+    "chapeau": "Le 25 septembre, la Commission européenne a publié au Journal officiel de l'UE un règlement qui impose des droits antidumping définitifs sur les protéines de pois importées de Chine : de 40,5 % à 67,1 % du prix à la frontière, selon l'entreprise exportatrice, pour cinq ans.",
     "eclairage": "Un droit antidumping, c'est quoi ?",
     "chiffres": [
      {
@@ -14414,7 +14414,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Juste_Lipse_Bxl._-_02.JPG/1280px-Juste_Lipse_Bxl._-_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Juste Lipse Bxl.",
-    "chapeau": "Lundi 28 et mardi 29 septembre, les ministres de l'Agriculture de l'UE, réunis à Bruxelles sous la présidence de l'Irlandais Martin Heydon, ont débattu de la politique agricole commune (PAC) après 2027. La plupart ont confirmé vouloir adopter une « approche générale partielle », c'est-à-dire une position commune sans…",
+    "chapeau": "Lundi 28 et mardi 29 septembre, les ministres de l'Agriculture de l'UE, réunis à Bruxelles sous la présidence de l'Irlandais Martin Heydon, ont débattu de la politique agricole commune (PAC) après 2027.",
     "eclairage": "Trois mots pour suivre la négociation",
     "chiffres": [
      {
@@ -14570,7 +14570,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Beef_cattle_in_a_feedlot_in_New_Mexico.jpg/1280px-Beef_cattle_in_a_feedlot_in_New_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Beef cattle in a feedlot in New Mexico",
-    "chapeau": "Le 23 septembre, la revue Nature Food a publié une courte étude de chercheurs de l'université Fudan, à Shanghai. En croisant les données de l'enquête alimentaire nationale américaine (NHANES) avec des estimations d'émissions sur tout le cycle de vie des aliments, ils calculent qu'un régime conforme aux recommandations…",
+    "chapeau": "Le 23 septembre, la revue Nature Food a publié une courte étude de chercheurs de l'université Fudan, à Shanghai.",
     "eclairage": "Comment calcule-t-on l'empreinte carbone d'un régime ?",
     "chiffres": [
      {
@@ -14663,7 +14663,7 @@
    {
     "jour": "6-9",
     "mois": "OCT.",
-    "texte": "Sommet de l'élevage à Cournon-d'Auvergne (Puy-de-Dôme). Agro Matin"
+    "texte": "Sommet de l'élevage à Cournon-d'Auvergne (Puy-de-Dôme)."
    }
   ],
   "chiffreDuJour": null,
@@ -14698,7 +14698,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sailly-Flibeaucourt%2C_Somme%2C_Fr%2C_station_de_pompage_eau_potable.jpg/1280px-Sailly-Flibeaucourt%2C_Somme%2C_Fr%2C_station_de_pompage_eau_potable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Sailly-Flibeaucourt, Somme, Fr, station de pompage eau potable",
-    "chapeau": "Le 18 septembre, l'Agence régionale de santé (ARS) a signalé à l'Agglomération une non-conformité en sortie du captage de Fraise, à Vérines. Deux métabolites d'herbicides y ont été mesurés : le flufénacet-ESA à 0,82 µg/L, au-dessus de la limite de qualité de 0,1 µg/L mais sous le seuil de potabilité de 8,8 µg/L, et le…",
+    "chapeau": "Le 18 septembre, l'Agence régionale de santé (ARS) a signalé à l'Agglomération une non-conformité en sortie du captage de Fraise, à Vérines.",
     "eclairage": "Qui surveille l'eau du robinet ?",
     "chiffres": [
      {
@@ -14796,7 +14796,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Al-Quds_College_-_Cafeteria.jpg/1280px-Al-Quds_College_-_Cafeteria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Al-Quds College - Cafeteria",
-    "chapeau": "Depuis le 4 mai 2026, tous les étudiants paient 1 euro leur repas au Crous ; ce tarif était auparavant réservé aux boursiers et aux étudiants en difficulté, les autres payant 3,30 euros. À La Rochelle, l'attente peut atteindre une heure dans les trois restaurants universitaires, malgré 200 tables ajoutées pendant l'été…",
+    "chapeau": "Depuis le 4 mai 2026, tous les étudiants paient 1 euro leur repas au Crous ; ce tarif était auparavant réservé aux boursiers et aux étudiants en difficulté, les autres payant 3,30 euros.",
     "eclairage": "Qui paie le repas à 1 euro ?",
     "chiffres": [
      {
@@ -14886,7 +14886,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Navette_autonome_Vincennes_P1100099.jpg/1280px-Navette_autonome_Vincennes_P1100099.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Navette autonome Vincennes P1100099",
-    "chapeau": "L'expérimentation de navettes électriques semi-autonomes Yélo Flex, lancée en juillet 2025 autour de Saint-Christophe, a pris fin samedi 26 septembre. Depuis lundi 28 septembre, le nom Yélo Flex désigne tout le transport à la demande du réseau Yélo : les anciennes lignes TAD 30, 31 et 32 et l'expérimentation sont…",
+    "chapeau": "L'expérimentation de navettes électriques semi-autonomes Yélo Flex, lancée en juillet 2025 autour de Saint-Christophe, a pris fin samedi 26 septembre.",
     "eclairage": "Qui décide ? L'Agglomération est l'autorité qui organise les transports publics sur ses 28 communes : c'est elle qui fixe les lignes, les horaires et les tarifs du réseau Yélo. Le transport à la demande fonctionne sans itinéraire fixe : le véhicule ne passe que si un trajet a été réservé, ce qui sert surtout les communes périurbaines et rurales, où une ligne de bus régulière circulerait peu remplie. Les correspondances : gare de Châtelaillon-Plage (TER et ligne 20) pour Flex Sud ; gare de La Jarrie (TER), arrêt Fabre d'Églantine (Illico 2) et P+R Saint-Rogatien (ligne 8) pour Flex Est.",
     "chiffres": [
      {
@@ -14937,7 +14937,7 @@
      }
     ],
     "apres": "Aucune date de bilan public de l'expérimentation des navettes n'a été annoncée à ce stade.",
-    "change": "Si vous utilisiez un TAD 30, 31 ou 32, vous pouvez désormais aller d'un village à l'autre de votre zone sans rejoindre un arrêt de correspondance. Le service fonctionne en semaine de 9 h à 16 h ; les titres Yélo habituels restent valables. Réservation jusqu'à…",
+    "change": "Si vous utilisiez un TAD 30, 31 ou 32, vous pouvez désormais aller d'un village à l'autre de votre zone sans rejoindre un arrêt de correspondance. Le service fonctionne en semaine de 9 h à 16 h ; les titres Yélo habituels restent valables.",
     "credit": {
      "auteur": "Roehrensee",
      "licence": "CC BY-SA 4.0",
@@ -15000,7 +15000,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Tribunal_de_Paris_seem_from_behind.jpg/1280px-Tribunal_de_Paris_seem_from_behind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Tribunal de Paris seem from behind",
-    "chapeau": "Lundi 28 septembre, le site d'investigation Mediapart a publié une enquête attribuant au président du Rassemblement national des propos antisémites et complotistes, tenus selon lui dans des conversations écrites privées entre 2013 et 2015, quand il était un jeune militant du Front national. Mediapart affirme avoir…",
+    "chapeau": "Lundi 28 septembre, le site d'investigation Mediapart a publié une enquête attribuant au président du Rassemblement national des propos antisémites et complotistes, tenus selon lui dans des conversations écrites privées entre 2013 et 2015, quand il était un jeune militant du Front national.",
     "eclairage": "Une plainte en diffamation, comment ça marche ?",
     "chiffres": [
      {
@@ -15206,7 +15206,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Paris%2C_Palais_du_Luxembourg_04.jpg/1280px-Paris%2C_Palais_du_Luxembourg_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris, Palais du Luxembourg",
-    "chapeau": "Au lendemain des sénatoriales, qui donnent au RN son premier groupe au Sénat, les groupes de gauche appellent à un « cordon sanitaire » : ne voter ni ses amendements, ni pour ses candidats aux vice-présidences. À droite et au centre, la majorité sénatoriale assure qu'elle ne travaillera pas avec le RN, mais des voix LR…",
+    "chapeau": "Au lendemain des sénatoriales, qui donnent au RN son premier groupe au Sénat, les groupes de gauche appellent à un « cordon sanitaire » : ne voter ni ses amendements, ni pour ses candidats aux vice-présidences.",
     "eclairage": "Membre, apparenté, rattaché, non-inscrit : quelle différence ?",
     "chiffres": [
      {
@@ -15327,7 +15327,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Paris_lePalais_de_la_Cit%C3%A9_%28la_Conciergerie%29_%281%29.jpg/1280px-Paris_lePalais_de_la_Cit%C3%A9_%28la_Conciergerie%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris lePalais de la Cité (la Conciergerie)",
-    "chapeau": "Lundi 28 septembre, devant la cour d'appel de Paris, l'accusation a requis contre l'ancien Premier ministre et président du MoDem deux ans de prison avec sursis, 50 000 euros d'amende et trois ans d'inéligibilité avec sursis. Le dossier porte sur des assistants d'eurodéputés, payés par le Parlement européen, qui…",
+    "chapeau": "Lundi 28 septembre, devant la cour d'appel de Paris, l'accusation a requis contre l'ancien Premier ministre et président du MoDem deux ans de prison avec sursis, 50 000 euros d'amende et trois ans d'inéligibilité avec sursis.",
     "eclairage": "Relaxe puis appel. En février 2024, le tribunal correctionnel a relaxé François Bayrou. Le parquet a fait appel : la cour d'appel rejuge alors l'affaire entière, avec de nouveaux juges. Réquisitions ≠ condamnation. L'accusation propose une peine ; la cour décide. François Bayrou reste présumé innocent. Avec sursis : la peine n'est pas appliquée, sauf nouvelle condamnation dans un délai fixé par la loi.",
     "chiffres": [
      {
@@ -15442,7 +15442,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4275_%2832113493668%29.jpg/1280px-2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4275_%2832113493668%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "2018.11.20 Meningococcal and HPV Vaccines, Washington, DC USA",
-    "chapeau": "Le Centre international de recherche sur le cancer (CIRC), l'agence de l'OMS basée à Lyon, a publié le 29 septembre dans The Lancet Oncology une estimation mondiale des cancers causés par des infections. À partir de la base mondiale GLOBOCAN, ses chercheurs ont calculé la part des nouveaux cas de 2024 attribuable à 12…",
+    "chapeau": "Le Centre international de recherche sur le cancer (CIRC), l'agence de l'OMS basée à Lyon, a publié le 29 septembre dans The Lancet Oncology une estimation mondiale des cancers causés par des infections.",
     "eclairage": "Comment une infection peut-elle mener à un cancer ?",
     "chiffres": [
      {
@@ -15511,7 +15511,7 @@
      }
     ],
     "apres": "Les auteurs estiment que ces chiffres doivent orienter la recherche de nouveaux outils de prévention, en particulier contre le virus d'Epstein-Barr, pour lequel il n'existe pas encore de vaccin autorisé.",
-    "change": "Rien de nouveau à inventer, dès aujourd'hui : les vaccins contre le HPV et l'hépatite B, le dépistage du cancer du col et les traitements des hépatites existent déjà. L'étude mesure l'ampleur de ce qui pourrait être évité s'ils étaient plus utilisés, surtout…",
+    "change": "Rien de nouveau à inventer, dès aujourd'hui : les vaccins contre le HPV et l'hépatite B, le dépistage du cancer du col et les traitements des hépatites existent déjà.",
     "credit": {
      "auteur": "Ted Eytan",
      "licence": "CC BY-SA 2.0",
@@ -15526,7 +15526,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/MRI_brain_tumor.jpg/1280px-MRI_brain_tumor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "MRI brain tumor",
-    "chapeau": "L'essai ROAM/EORTC-1308, coordonné par l'université de Liverpool, a été publié le 25 septembre dans The Lancet et présenté le même jour au congrès de l'Association européenne de neuro-oncologie (EANO) à Rome. Entre 2016 et 2021, 157 patients chez qui le chirurgien avait retiré en totalité un méningiome atypique ont été…",
+    "chapeau": "L'essai ROAM/EORTC-1308, coordonné par l'université de Liverpool, a été publié le 25 septembre dans The Lancet et présenté le même jour au congrès de l'Association européenne de neuro-oncologie (EANO) à Rome.",
     "eclairage": "Un méningiome, c'est quoi ?",
     "chiffres": [
      {
@@ -15591,7 +15591,7 @@
      }
     ],
     "apres": "Selon l'équipe de Liverpool, ces résultats seront intégrés aux recommandations nationales et internationales. Le suivi des patients doit se poursuivre pour mesurer les effets à long terme.",
-    "change": "À court terme : les auteurs concluent que la radiothérapie doit être envisagée après l'ablation complète d'un méningiome atypique quand la prévention de la récidive compte plus que le risque d'effets tardifs. Ils insistent : la décision se prend au cas par…",
+    "change": "À court terme : les auteurs concluent que la radiothérapie doit être envisagée après l'ablation complète d'un méningiome atypique quand la prévention de la récidive compte plus que le risque d'effets tardifs.",
     "credit": {
      "auteur": "Bobjgalindo",
      "licence": "CC BY-SA 4.0",
@@ -15680,7 +15680,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Maui_community_of_Lahaina_burned_by_wildfire_-_53119882503.jpg/1280px-Maui_community_of_Lahaina_burned_by_wildfire_-_53119882503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Maui community of Lahaina burned by wildfire",
-    "chapeau": "En août 2023, des incendies ont ravagé l'île de Maui, à Hawaï, et détruit la ville de Lahaina. Une équipe de l'université d'Hawaï a publié le 28 septembre dans la revue PNAS les analyses de 1 400 adultes examinés 6 à 18 mois après la catastrophe : 24 métaux mesurés dans les urines et un test du souffle (spirométrie)…",
+    "chapeau": "En août 2023, des incendies ont ravagé l'île de Maui, à Hawaï, et détruit la ville de Lahaina.",
     "eclairage": "Associé ne veut pas dire causé",
     "chiffres": [
      {
@@ -15758,12 +15758,12 @@
    {
     "jour": "13",
     "mois": "OCT.",
-    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage. Les deux…"
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19, menées ensemble, pour les personnes à risque de forme grave et leur entourage."
    },
    {
     "jour": "23",
     "mois": "OCT.",
-    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un…"
+    "texte": "Congrès européen de cancérologie ESMO à Madrid, jusqu'au 27 octobre : de nombreux résultats d'essais y seront présentés, dont ceux de l'essai SAFFRON sur un cancer du poumon."
    }
   ],
   "chiffreDuJour": null,
@@ -15932,7 +15932,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Paris_-_Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_%2827734592992%29.jpg/1280px-Paris_-_Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_%2827734592992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris - Ministère de l'Économie et des Finances",
-    "chapeau": "Le 17 septembre, Sébastien Lecornu a présenté les grandes lignes du budget 2027, qui sera déposé au Parlement mercredi 30 septembre : environ 54 milliards d'euros d'effort pour tenir un déficit autour de 5 % du PIB, qui atteindrait 6,5 % sans mesures. Le gouvernement s'appuie sur une prévision de croissance abaissée le…",
+    "chapeau": "Le 17 septembre, Sébastien Lecornu a présenté les grandes lignes du budget 2027, qui sera déposé au Parlement mercredi 30 septembre : environ 54 milliards d'euros d'effort pour tenir un déficit autour de 5 % du PIB, qui atteindrait 6,5 % sans mesures.",
     "eclairage": "Comment se vote un budget ?",
     "chiffres": [
      {
@@ -15983,7 +15983,7 @@
      }
     ],
     "apres": "Dépôt le 30 septembre, examen à l'Assemblée à partir du 13 octobre, votes solennels le 20 octobre (recettes), le 27 octobre (Sécurité sociale) et le 17 novembre (ensemble du budget).",
-    "change": "C'est le dernier budget avant la présidentielle d'avril 2027. Sans majorité absolue à l'Assemblée, le gouvernement devra négocier mesure par mesure, ou utiliser le 49.3 au risque d'une motion de censure.",
+    "change": "C'est le dernier budget avant la présidentielle d'avril 2027. 3 au risque d'une motion de censure.",
     "credit": {
      "auteur": "Fred Romero from Paris, France",
      "licence": "CC BY 2.0",
@@ -16070,7 +16070,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Biblioth%C3%A8que_du_palais_de_l%27%C3%89lys%C3%A9e.jpg/1280px-Biblioth%C3%A8que_du_palais_de_l%27%C3%89lys%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Bibliothèque du palais de l'Élysée",
-    "chapeau": "Le 25 septembre, dans son premier discours en France, prononcé en français à l'Élysée devant Emmanuel Macron, le pape a prôné une « juste laïcité » et dénoncé « l'offre d'une mort programmée », visant la loi sur l'aide à mourir. Il a aussi critiqué « la conviction, erronée, que la possession de l'arme nucléaire serait…",
+    "chapeau": "Le 25 septembre, dans son premier discours en France, prononcé en français à l'Élysée devant Emmanuel Macron, le pape a prôné une « juste laïcité » et dénoncé « l'offre d'une mort programmée », visant la loi sur l'aide à mourir.",
     "eclairage": "Où en est la loi sur l'aide à mourir ?",
     "chiffres": [],
     "passe": "Le 25 septembre, dans son premier discours en France, prononcé en français à l'Élysée devant Emmanuel Macron, le pape a prôné une « juste laïcité » et dénoncé « l'offre d'une mort programmée », visant la loi sur l'aide à mourir. Il a aussi critiqué « la conviction, erronée, que la possession de l'arme nucléaire serait un gage de sécurité », alors que la France fonde sa défense sur la dissuasion. Sa visite de quatre jours s'est achevée dimanche.",
@@ -16140,7 +16140,7 @@
     "court": null,
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Paris-Tribunal_correctionnel-102-Quai_des_Orfevres_34-2017-gje.jpg/1280px-Paris-Tribunal_correctionnel-102-Quai_des_Orfevres_34-2017-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "legende": "Paris-Tribunal correctionnel-102-Quai des Orfevres 34-2017-gje",
-    "chapeau": "Lundi, au dernier jour du procès, le parquet national financier (PNF) a requis contre l'ancienne ministre de la Justice, jugée pour corruption dans l'affaire des 900 000 euros perçus de l'alliance Renault-Nissan : quatre ans de prison dont deux ferme sous bracelet électronique, 450 000 euros d'amende et cinq ans…",
+    "chapeau": "Lundi, au dernier jour du procès, le parquet national financier (PNF) a requis contre l'ancienne ministre de la Justice, jugée pour corruption dans l'affaire des 900 000 euros perçus de l'alliance Renault-Nissan : quatre ans de prison dont deux ferme sous bracelet électronique, 450 000 euros d'amende et cinq ans d'inéligibilité avec exécution provisoire.",
     "eclairage": "Réquisitions ≠ condamnation. Le parquet demande une peine ; ce sont les juges qui décident. Rachida Dati reste présumée innocente. Exécution provisoire : si le tribunal la prononce, l'inéligibilité s'applique dès le jugement, même en cas d'appel. Rachida Dati perdrait alors son mandat de maire du 7e arrondissement de Paris.",
     "chiffres": [
      {

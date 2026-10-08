@@ -13,7 +13,13 @@ const SKIP = new Set(["2026-09-28.html"]); // ancienne maquette « La Revue. »
 
 const ent = (s) => s.replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#39;|&rsquo;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">");
 const strip = (s) => ent(s.replace(/<br\s*\/?>/g, " ").replace(/<\/?(?:b|strong|i|em|a|span|u)\b[^>]*>/g, "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").replace(/ ([,.)])/g, "$1").trim();
-const coupe = (t, n) => (t.length <= n ? t : t.slice(0, t.lastIndexOf(" ", n)) + "…");
+// Raccourcit en phrases entières, jamais de « … » : autant de phrases que la limite le permet, au moins la première
+const coupe = (t, n) => {
+  const p = t.match(/[^.!?]+[.!?]+(?:\s+|$)/g) || [t];
+  let r = p[0];
+  for (const x of p.slice(1)) { if ((r + x).length > n) break; r += x; }
+  return r.trim();
+};
 // Deux premières phrases d'un paragraphe
 const chapeau = (t) => { const p = t.match(/[^.!?]+[.!?]+(\s|$)/g) || [t]; return coupe(p.slice(0, 2).join("").trim(), 320); };
 

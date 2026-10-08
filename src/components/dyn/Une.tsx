@@ -96,7 +96,7 @@ export function UneEtapes({ etapes }: { etapes: { nom: string; titre: string; co
               <Anneau actif={actif} couleur={e.couleur} fond={e.fond} n={k + 1} cle={`d${i}-${tour}`} pause={pause} />
               <span className="min-w-0 flex-1">
                 <span className={`block text-[11.5px] font-extrabold uppercase tracking-[0.06em] ${actif ? "text-white/80" : ""}`} style={actif ? undefined : { color: e.couleur }}>{e.rubrique}</span>
-                <span className="mt-0.5 line-clamp-2 text-[16px] font-bold leading-snug">{e.titre}</span>
+                <span className="mt-0.5 block text-[16px] font-bold leading-snug">{e.titre}</span>
               </span>
             </button>
           );
