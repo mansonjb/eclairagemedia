@@ -220,3 +220,402 @@ Le Haut Conseil des finances publiques juge « pessimiste » la prévision de 
 Réponse : faux. Faux : selon Public Sénat, le HCFP juge cette prévision « optimiste » ; l'OFCE et Rexecode prévoient 0,7 % et la Banque de France 0,9 %.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+jeudi 8 octobre 2026 · 10 min de lecture
+
+1. Taux : l'OAT à 10 ans remonte vers 4,9 %, le CAC 40 perd 1,22 %
+
+MARCHÉS
+
+-1,2 % : CAC 40 le 7 octobre (-1,22 %, 7 769,21 pts)
+
+4,87 % : OAT 10 ans (4,87 à 4,89 % selon source)
+
+101 $ : baril de Brent (100,7 à 101,6 $)
+
+Ce qui s'est passé
+
+Mercredi 7 octobre, la Bourse de Paris a clôturé en baisse. Le CAC 40 a cédé 1,22 % à 7 769,21 points, après 7 865,07 points mardi. Le rendement de l'OAT à 10 ans, le taux auquel l'État français emprunte sur dix ans, est monté à environ 4,87 % selon BFM Bourse et 4,89 % selon JKN, contre moins de 4,75 % la veille selon l'AFP. Société Générale a reculé de 5,01 % et BNP Paribas de 3,88 %. Le Brent, référence du pétrole en Europe, valait entre 100,7 et 101,6 dollars le baril selon les sources et les heures. L'AFP relie la hausse des taux à celle du pétrole, qui alimente les craintes d'inflation, et aux finances publiques françaises (dette à 119 % du PIB, pas de majorité pour le budget 2027). À Wall Street, selon Reuters (chiffres préliminaires), le S&P 500 a fini en baisse de 0,23 % et le Dow Jones de 0,69 %, avec un taux américain à 10 ans autour de 5,3 %.
+
+L'éclairage
+
+Pourquoi un taux qui monte fait baisser une obligation
+
+Une OAT est un prêt à l'État français : il verse un intérêt fixe et rembourse à l'échéance. Le rendement (ou taux) est ce que rapporte l'obligation au prix du jour. Si les investisseurs exigent plus, le prix des obligations déjà émises baisse : prix et taux évoluent en sens inverse. Pour l'État, un taux plus élevé renchérit chaque nouvel emprunt. Pour les actions, il pèse aussi : un placement sans risque qui rapporte davantage rend les bénéfices futurs des entreprises moins attractifs. Les sources consultées ne détaillent pas pourquoi les banques ont reculé plus que le reste de la cote.
+
+Ce qu'ils en disent
+
+« le prix du pétrole demeure un facteur de pression déterminant »
+Andreas Lipkow (Analystes), analyste, CMC Markets
+
+Relie le rebond du pétrole aux attaques iraniennes contre des pétroliers dans le détroit d'Ormuz.
+Deutsche Bank (Analystes)
+
+Une hausse de taux, la première depuis juillet 2023, a été approuvée à l'unanimité, mais le compte rendu montre des divergences sur sa justification : contenir les chocs sur les prix de l'énergie ou freiner l'inflation tirée par la demande.
+Réserve fédérale (Banque centrale), compte rendu de la réunion de septembre
+
+Ce qui change
+
+Pour l'État, chaque point de taux en plus sur ses emprunts se retrouve dans le coût de la dette, donc dans le budget. Pour les entreprises et les ménages, les taux d'emprunt dépendent en partie de ces références.
+
+Et après
+
+Les marchés suivent le pétrole, les taux américains et la discussion du budget 2027. Prochain rendez-vous chiffré : l'enquête mensuelle de conjoncture de la Banque de France, le 12 octobre.
+
+Sources : dépêche AFP via Yahoo Finance · BFM Bourse · JKN · Reuters via Boursorama
+
+2. Paramount finalise le rachat de Warner Bros. Discovery pour 110 Md$
+
+ENTREPRISES
+
+110 Md : dollars, valeur de l'opération
+
+31 $ : par action Warner, en numéraire
+
+SKYD : nouveau symbole boursier (NYSE)
+
+Ce qui s'est passé
+
+Mardi 6 octobre, Paramount Skydance a finalisé le rachat de Warner Bros. Discovery pour 110 milliards de dollars, soit près de 111 milliards dette comprise selon l'AP, à 31 dollars par action en numéraire. Le groupe réunit les studios de Mission: Impossible, Harry Potter et DC Studios et des chaînes comme CBS, CNN, Paramount+ et HBO Max (Reuters). Il s'appelle désormais Skydance et cote à la Bourse de New York sous le symbole SKYD, après avoir quitté le Nasdaq. David Ellison dirige l'ensemble, avec Ynon Kreiz, ancien PDG du fabricant de jouets Mattel, comme co-PDG. Des accords avec une coalition d'États américains et un syndicat de scénaristes ont levé les principaux obstacles juridiques. Aucun chiffre de suppressions de postes n'a été communiqué par l'entreprise dans les articles consultés.
+
+L'éclairage
+
+Pourquoi les fusions promettent des économies
+
+Quand deux groupes fusionnent, les économies viennent surtout des doublons : deux directions, deux équipes techniques, deux plateformes de diffusion. Reuters situe l'opération dans un secteur où les abonnements au câble reculent et où la concurrence pour attirer des abonnés au streaming coûte cher. CBS News rapporte un objectif de 6 Md$ d'économies de coûts (information d'une seule source consultée, à confirmer). La part qui passera par des suppressions d'emplois n'est pas chiffrée.
+
+Ce qu'ils en disent
+
+« Today is a historic day, not just for Skydance but for our entire industry, »
+David Ellison (Entreprise), PDG de Skydance
+
+« Integrating two companies will bring change, including difficult decisions that affect our workforce, »
+Ellison et Ynon Kreiz (Entreprise), courriel aux employés
+
+Ils ont averti que le rapprochement entraînerait « fewer jobs », selon l'AP.
+Signataires d'une lettre ouverte (Autres), critiques de l'opération
+
+Un règlement a levé l'obstacle judiciaire. CBS News détaille des engagements : 30 films par an pendant deux ans, pas de vente ni de fermeture des studios de Los Angeles pendant cinq ans au moins, et un comité éditorial pour CNN et CBS (détail d'une seule source consultée).
+Coalition d'États américains (Régulateur), règlement de la plainte antitrust
+
+Ce qui change
+
+Hollywood passe sous le contrôle d'un seul groupe pour le cinéma, la télévision, le streaming et l'information. Pour les salariés, la direction écrit que l'intégration impliquera « des décisions difficiles » sur l'emploi, sans les chiffrer.
+
+Et après
+
+Intégration des deux groupes, avec les premières annonces d'organisation attendues de la direction. Aucune date publiée dans les sources consultées.
+
+Sources : Reuters via NBC News · CBS News · dépêche AP via NBC DFW
+
+3. Constellation Brands : résultats au-dessus des attentes, achat de SpikedAde
+
+ENTREPRISES
+
++6 % : chiffre d'affaires net (2,63 Md$)
+
+3,74 $ : bénéfice par action comparable (+3 %)
+
+75 M$ : SpikedAde à la clôture (+278 M$ possibles)
+
+Ce qui s'est passé
+
+Mardi 6 octobre après la clôture, Constellation Brands, groupe américain de boissons alcoolisées, a publié ses résultats du deuxième trimestre de son exercice 2027 (clos le 31 août). Le chiffre d'affaires net atteint 2,63 milliards de dollars (+6 %). Le bénéfice par action publié est de 3,32 dollars (+25 %) ; hors éléments exceptionnels (« comparable »), il est de 3,74 dollars (+3 %). Reuters indique que bénéfice et chiffre d'affaires dépassent les attentes. Dans la bière, les ventes nettes montent de 5 % à 2,47 milliards de dollars, pour des expéditions en hausse de 5,5 % ; les dépletions, c'est-à-dire les ventes des distributeurs aux détaillants, reculent de 0,6 %. Le groupe a aussi acquis SpikedAde, une boisson prête à boire à base de vodka : 75 millions de dollars à la clôture, plus jusqu'à 278 millions sur cinq ans selon les performances de la marque. Il confirme sa prévision de bénéfice par action comparable pour l'exercice (11,20 à 11,90 dollars). Le 7 octobre, l'action a évolué de façon contrastée : +3,96 % à 120,25 dollars en début de séance selon Reuters, -0,2 % à 115,4 dollars à un autre moment selon Zonebourse.
+
+L'éclairage
+
+Expéditions contre dépletions : où est la vraie demande ?
+
+Constellation vend sa bière à des distributeurs, qui la revendent aux magasins. Les expéditions mesurent ce que le groupe livre aux distributeurs, donc son chiffre d'affaires. Les dépletions mesurent ce que les distributeurs écoulent vers les détaillants, donc la demande finale. Ici, +5,5 % contre -0,6 % : les distributeurs ont reçu plus de bière qu'ils n'en ont revendu sur la période. Cet écart peut tenir au calendrier des livraisons ; s'il dure, il peut peser sur les commandes suivantes. Autre notion : le BPA comparable retire les éléments exceptionnels, pour suivre l'activité courante.
+
+Ce qu'ils en disent
+
+« SpikedAde has successfully carved out a distinctive position in an emerging segment and built a brand that is clearly connecting with consumers, »
+Nicholas Fink (Entreprise), PDG de Constellation Brands
+
+Selon Reuters, l'opération donne au nouveau PDG, Nick Fink, l'occasion de montrer qu'il sait développer des secteurs de croissance.
+Kevin Grundy (Analystes), BNP Paribas
+
+UBS juge le montant trop faible pour changer à lui seul la santé financière ou la taille de l'entreprise, mais y voit un possible signal sur l'allocation du capital. Piper Sandler juge l'opération intéressante, car elle ouvre l'accès aux boissons prêtes à boire.
+UBS et Piper Sandler (Analystes)
+
+Ce qui change
+
+Pour le groupe, SpikedAde est un premier pas dans les boissons prêtes à boire à base de spiritueux, une catégorie dont les ventes en dollars ont progressé de 25 % en un an selon le communiqué de Constellation, présente surtout dans l'est des États-Unis.
+
+Et après
+
+Dividende trimestriel de 1,03 dollar par action de classe A, payable le 13 novembre 2026.
+
+Sources : Constellation Brands (dépôt SEC) · Reuters via Boursorama · TipRanks · Zonebourse via Boursorama
+
+À venir
+
+- 8 oct. : Allemagne : balance commerciale (8h00), puis inscriptions hebdomadaires au chômage aux États-Unis (14h30) (agenda Zonebourse).
+- 12 oct. : Banque de France : enquête mensuelle de conjoncture de début octobre (calendrier de la Banque de France).
+- 13 oct. : Elis : remboursement anticipé des OCEANEs 2029 restantes (communiqué de la société).
+
+Les mots du jour
+
+OAT
+Obligation assimilable du Trésor : un titre de dette de l'État français. Qui l'achète lui prête de l'argent.
+Rendement obligataire
+Ce que rapporte une obligation chaque année, rapporté à son prix du jour. Quand le prix baisse, le rendement monte.
+Dépletions
+Les ventes d'un distributeur vers les détaillants. Elles mesurent la demande finale, à la différence des expéditions du fabricant vers le distributeur.
+OCEANE
+Obligation convertible ou échangeable en actions nouvelles ou existantes : son détenteur peut la transformer en actions.
+
+Vrai ou faux ?
+
+Paramount Skydance a finalisé mardi le rachat de Warner Bros. Discovery pour 110 milliards de dollars.
+
+Réponse : vrai. Vrai : l'opération a été finalisée le 6 octobre, selon Reuters, CBS News et l'AP. Le groupe s'appelle désormais Skydance et cote sous le symbole SKYD.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+jeudi 8 octobre 2026 · 6 min de lecture
+
+1. Vendange 2026 : près de 35 millions d'hectolitres, revue à la hausse
+
+FILIÈRE
+
+35 Mhl : production estimée au 1er octobre
+
+-2 % : par rapport à 2025
+
+-14 % : par rapport à la moyenne 2021-2025
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, le service statistique du ministère de l'Agriculture (Agreste) a publié son estimation de la production viticole au 1er octobre : près de 35 millions d'hectolitres, contre environ 33,9 millions annoncés un mois plus tôt. Cela représente un recul de 2 % sur 2025, année déjà peu abondante, et de 14 % sur la moyenne 2021-2025. La révision à la hausse vient surtout de rendements meilleurs qu'attendu en Languedoc-Roussillon, où la production progresse de 20 % sur 2025 selon Pleinchamp. Les écarts restent importants entre bassins : Champagne -48 %, Jura -28 %, Bourgogne-Beaujolais -22 %, Charentes -11 %, tandis que le Sud-Ouest (+12 %) et le Bordelais (+11 %) progressent. Les causes citées sont les canicules, la sécheresse estivale et l'arrachage. Selon l'AFP, les vendanges, commencées plus tôt que d'ordinaire, sont presque terminées et se sont déroulées dans un « excellent état sanitaire ».
+
+L'éclairage
+
+Comment est calculée une estimation de vendange ?
+
+Chaque année, Agreste publie plusieurs estimations de récolte, au 1er septembre, au 1er octobre puis au 1er novembre, à partir d'avis d'experts, de déclarations de récolte et de relevés dans les bassins viticoles. Elles sont révisées à mesure que les raisins sont pressés. Un hectolitre (hl) vaut 100 litres : 35 millions d'hectolitres représentent 3,5 milliards de litres. La production dépend de deux facteurs, les surfaces en vigne et le rendement (volume par hectare). Agreste précise que ces prévisions ne tiennent pas compte des événements postérieurs au 1er octobre. Selon l'AFP, l'OIV (Organisation internationale de la vigne et du vin) avait relevé en 2025 la plus faible production française depuis 1957.
+
+Ce qu'ils en disent
+
+Il explique la révision par des rendements meilleurs que prévu en Languedoc-Roussillon et rappelle que sa prévision ne tient pas compte des événements postérieurs au 1er octobre, la répartition entre catégories de vins restant indicative.
+Agreste (Pouvoirs publics), service statistique du ministère de l'Agriculture
+
+Ce qui change
+
+Pour les vignerons, l'écart entre bassins est le fait marquant : une récolte en hausse dans le Sud-Ouest, le Bordelais et le Languedoc-Roussillon, très en baisse en Champagne et dans le Jura. Pour les consommateurs, aucune conséquence de prix n'est établie à…
+
+Et après
+
+Agreste doit publier une nouvelle estimation au 1er novembre ; les déclarations de récolte fixeront ensuite le résultat définitif de la campagne.
+
+Sources : Agreste (estimation de septembre) · Boursorama (avec AFP) · Pleinchamp · La Libre
+
+2. Sécheresse : de nouvelles mesures pour les éleveurs attendues jeudi
+
+AGRICULTURE
+
+1 Md€ : plan d'urgence du 4 septembre
+
+220 M€ : fonds mis à la disposition des préfets
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, dans une allocution depuis Matignon, le Premier ministre Sébastien Lecornu a annoncé que la ministre de l'Agriculture, Annie Genevard, présenterait jeudi 8 octobre de « nouvelles mesures » aux agriculteurs touchés par les canicules, au Sommet de l'élevage de Cournon-d'Auvergne. Cette visite avait été reportée en début de semaine. Le 4 septembre, un plan d'urgence d'environ un milliard d'euros avait été présenté : abondement d'environ 400 millions d'euros du fonds de gestion des risques pour verser l'indemnité de solidarité nationale (ISN), avec un acompte porté de 50 % à 70 %, un fonds de 220 millions d'euros à la disposition des préfets, un dégrèvement de taxe sur le foncier non bâti de 300 millions d'euros et une avance de la PAC portée de 70 % à 75 %. Mardi 6 octobre, les syndicats ont détaillé leurs demandes à Cournon. Le contenu des annonces du 8 octobre n'était pas connu à l'heure de la rédaction.
+
+L'éclairage
+
+Qu'est-ce que l'indemnité de solidarité nationale ?
+
+L'ISN est une aide de l'État versée aux agriculteurs qui subissent des pertes de récolte ou de fourrage liées à un aléa climatique non assurable, au sein du dispositif de gestion des risques. Elle est financée par le fonds national de gestion des risques en agriculture (FNGRA). Un acompte est versé avant le calcul définitif des pertes : le plan du 4 septembre le fait passer de 50 % à 70 %. Pour les prairies, l'évaluation des pertes s'appuie en partie sur des données satellitaires, ce que contestent certaines organisations, qui demandent d'y ajouter des mesures de terrain.
+
+Ce qu'ils en disent
+
+Elle demande une assurance prairie et conteste les données satellitaires, qui montreraient des pertes inférieures de 15 à 20 % à celles mesurées sur le terrain. Elle attend des annonces sur des prêts à taux zéro pour reconstituer les trésoreries.
+FNSEA (Agriculteurs), syndicat agricole majoritaire
+
+« Nous attendons un vrai plan de rebond ambitieux »
+Jeunes Agriculteurs (Agriculteurs), Jocelyn Dubost, président
+
+Il annonce de « nouvelles mesures » pour les agriculteurs, à présenter par la ministre de l'Agriculture jeudi à Cournon-d'Auvergne. Le ministère indique que le « plan de rebond » est « en cours de construction » et sera ajouté au budget par amendement.
+Gouvernement (Pouvoirs publics), Sébastien Lecornu, Premier ministre
+
+Ce qui change
+
+Pour les éleveurs, l'enjeu immédiat est l'alimentation des troupeaux : l'herbe a peu poussé depuis la fin du printemps et les stocks de fourrage d'hiver ont été entamés avant l'hiver. Les annonces de jeudi préciseront les aides de trésorerie et de fourrage.
+
+Et après
+
+Jeudi 8 octobre : annonces d'Annie Genevard à Cournon-d'Auvergne, dernier jour du Sommet de l'élevage le 9. Le plan de rebond doit ensuite être intégré au budget 2027 par amendement.
+
+Sources : Agri Mutuel (avec AFP) · franceinfo · Web-agri · Terres et Territoires
+
+À venir
+
+- 8 oct. : Annonces d'Annie Genevard aux éleveurs au Sommet de l'élevage, à Cournon-d'Auvergne.
+- 1er nov. : Prochaine estimation Agreste de la production viticole 2026.
+
+Les mots du jour
+
+Hectolitre
+Une unité de volume égale à 100 litres, utilisée pour mesurer la production de vin.
+Rendement
+Le volume produit par hectare cultivé : il varie avec le climat, indépendamment des surfaces plantées.
+ISN
+L'indemnité de solidarité nationale, aide de l'État aux exploitants victimes d'un aléa climatique non assurable.
+
+Vrai ou faux ?
+
+Agreste estime la vendange française 2026 à moins de 30 millions d'hectolitres.
+
+Réponse : faux. L'estimation au 1er octobre est de près de 35 millions d'hectolitres, soit 2 % de moins qu'en 2025 et 14 % de moins que la moyenne 2021-2025.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+jeudi 8 octobre 2026 · 11 min de lecture
+
+1. Claude Haiku 5.5 : le million de jetons à 0,10 $ en entrée
+
+MODÈLES
+
+0,10 $ : le million de jetons en entrée (≤ 100 000)
+
+0,50 $ : le million de jetons en sortie (≤ 100 000)
+
+1 M : jetons de contexte, selon la presse
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, Anthropic a lancé Claude Haiku 5.5, le plus petit modèle de sa gamme, qu'elle décrit comme le plus rapide et le moins cher. Pour les requêtes de 100 000 jetons au plus, le prix est de 0,10 $ par million de jetons lus (entrée) et 0,50 $ par million de jetons écrits (sortie) ; au-delà, 0,50 $ et 2,50 $. Haiku 4.5 coûtait 1 $ et 5 $ (VentureBeat). Anthropic estime le coût moyen environ 75 % plus bas, après prise en compte d'un nouveau découpage du texte en jetons qui en produit un peu plus (VentureBeat). Le modèle est proposé dans Claude.ai (y compris en version gratuite), dans Claude Code, sur la plateforme d'Anthropic et chez Amazon Web Services, Google Cloud et Microsoft Foundry. Selon VentureBeat, ses tarifs de base sont identiques à ceux de GPT-6 Luna, d'OpenAI. Les scores diffusés sont ceux d'Anthropic : VentureBeat rapporte 72,4 % au test OSWorld 2.1 (utilisation d'un ordinateur) contre 15,7 % pour Haiku 4.5. Aucune évaluation indépendante n'a été relevée à ce stade.
+
+L'éclairage
+
+Un jeton, c'est quoi, et pourquoi le prix se compte au million ?
+
+Un jeton (token) est un morceau de texte : un mot court ou un fragment de mot. Un modèle lit et écrit en jetons, et l'entreprise facture séparément ceux qu'il lit (entrée) et ceux qu'il écrit (sortie). Un million de jetons représente de l'ordre de plusieurs centaines de milliers de mots, selon la langue. Pourquoi un modèle « petit » ? Plus un modèle est petit, moins il demande de calcul par réponse : il sert aux tâches répétitives ou en grand nombre, quand la vitesse et le coût comptent plus que la finesse. Anthropic recommande, selon VentureBeat, ses modèles plus gros pour les tâches de programmation les plus exigeantes. Démontré ou annoncé ? Les prix sont publiés par l'entreprise. Les performances et le gain de 75 % sont des annonces d'Anthropic, sans mesure indépendante relevée.
+
+Ce qu'ils en disent
+
+« It is also the first Haiku with effort controls, so teams can tune cost against intelligence for each task. »
+Anthropic (Entreprise), page du produit
+
+Selon VentureBeat, GPT-6 Luna est affiché aux mêmes tarifs de base (0,10 $ et 0,50 $ le million de jetons) ; l'article précise qu'une comparaison de prix ne prouve pas des capacités équivalentes.
+OpenAI (Concurrent), GPT-6 Luna
+
+Ce qui change
+
+Pour une entreprise qui traite de gros volumes (tri de courriels, extraction de données, assistants), le coût par tâche peut baisser, sous réserve de la qualité réelle. Un particulier peut sélectionner le modèle dans Claude.ai.
+
+Et après
+
+Les premières évaluations indépendantes diront si les scores annoncés se confirment ; le réglage d'effort modifie à la fois le coût et le résultat (selon VentureBeat, le score à un test de programmation double entre le réglage par défaut et l'effort maximal : information d'une seule source, à confirmer).
+
+Sources : Anthropic (annonce) · VentureBeat · Startup Fortune · MarkTechPost
+
+2. ChatGPT : GPT-6 déployé avec des réponses à boutons, formulaires et graphiques
+
+IA
+
+7 oct. : abonnés payants (GPT-6 Sol)
+
+8 oct. : comptes Free et Go (GPT-6 Luna)
+
+−44 % : temps d'attente, selon OpenAI
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, OpenAI a commencé à déployer GPT-6 dans ChatGPT, avec une fonction baptisée « Intelligent UI » (interface intelligente) : selon la question, la réponse peut comporter des graphiques, des boutons, des formulaires ou des comparaisons côte à côte, au lieu de seulement du texte. L'utilisateur peut aussi faire construire de petits outils dans la conversation, comme une calculatrice d'épargne ou un jeu (The Decoder). Les abonnés Plus, Pro, Business et Enterprise reçoivent GPT-6 Sol le 7 octobre ; les comptes gratuits (Free) et Go reçoivent GPT-6 Luna le lendemain. Le niveau de réflexion Pro, qui repose sur GPT-6 Astra, ne prend pas en charge la fonction, ni les anciennes applications de bureau pour macOS et Windows (Search Engine Journal). OpenAI affirme que GPT-6 peut commencer à répondre pendant qu'il réfléchit, ce qui réduirait d'environ 44 % l'attente moyenne sur les questions avec recherche web par rapport à GPT-5.6 : c'est un chiffre de l'entreprise, sans mesure indépendante relevée. Search Engine Journal note que l'annonce ne précise pas comment les sources seront affichées pour les graphiques et les comparaisons.
+
+L'éclairage
+
+Quand la réponse devient une interface
+
+Jusqu'ici, un assistant comme ChatGPT répondait surtout par du texte. Avec « Intelligent UI », le modèle choisit lui-même la forme de la réponse : tableau, graphique, formulaire ou texte seul, selon TestingCatalog. L'affichage est construit au fil de la génération. Ce que cela change pour qui lit : un graphique est plus facile à lire qu'un paragraphe, mais il présente des données avec une apparence de rigueur. Il faut donc pouvoir vérifier d'où elles viennent. Démontré ou annoncé ? Le déploiement et ses limites sont documentés. La qualité des mises en page choisies par le modèle repose sur les déclarations d'OpenAI ; TestingCatalog rapporte qu'elle reconnaît elle-même que le « design judgment » du modèle doit encore progresser.
+
+Ce qu'ils en disent
+
+L'entreprise présente la fonction comme une réponse adaptée à chaque question et garde le texte quand il convient le mieux. Elle reconnaît, selon TestingCatalog, que « the model's design judgment and the range of experiences it can create still need work ».
+OpenAI (Entreprise), annonce du 7 octobre
+
+Selon The Decoder, Google a introduit en mai une fonction visuelle comparable dans Gemini, appelée « Neural Expressive ».
+Google (Concurrent), Gemini
+
+Ce qui change
+
+Sur le web, un réglage de mise en page et de visuels permet de limiter la fonction, mais certains éléments visuels peuvent rester (Search Engine Journal). Dans une entreprise, l'accès dépend des réglages de l'administrateur.
+
+Et après
+
+Arrivée sur les comptes Free et Go le 8 octobre ; OpenAI indique que le déploiement est progressif sur le web et dans les applications mises à jour.
+
+Sources : OpenAI (annonce) · The Decoder · Search Engine Journal · TestingCatalog
+
+3. OpenAI : un filigrane invisible dans les textes de ChatGPT et Codex en Europe
+
+RÉGULATION
+
+5 oct. : annonce de textGrain
+
+92-95 % : détection à 400 jetons (selon OpenAI)
+
+2 déc. : fin du délai pour les systèmes déjà en ligne
+
+Ce qui s'est passé
+
+Le 5 octobre 2026, OpenAI a annoncé textGrain, un filigrane de texte pour ChatGPT et Codex dans l'Union européenne. Selon le Blog du Modérateur, il « ajoute un signal statistique invisible dans le choix des mots du modèle » : aucun caractère caché n'est ajouté, le texte est seulement orienté vers certains mots. Le déploiement doit commencer dans les prochaines semaines, tous abonnements confondus, et ne sera pas activé par défaut partout (Begeek). OpenAI présente le dispositif comme sa réponse à l'article 50 du règlement européen sur l'IA, applicable depuis le 2 août 2026. Le détecteur est, dans un premier temps, « réservé à des chercheurs et des organisations expertes approuvées ». Les chiffres d'OpenAI : détection d'environ 80 % pour un passage de 200 jetons et de 92 à 95 % pour 400 jetons (les sources donnent l'un ou l'autre) ; si 10 % des mots sont remplacés par des synonymes, elle tombe à environ 66 %. Le dispositif ne couvre que les modèles d'OpenAI et reste fragile face aux réécritures et aux traductions. Les sources divergent sur la portée exacte de l'accès par l'API.
+
+L'éclairage
+
+Que dit l'article 50 du règlement européen sur l'IA ?
+
+La Commission européenne indique que les fournisseurs d'IA générative doivent s'assurer que les contenus générés par IA sont identifiables. Le texte vise le marquage lisible par une machine des contenus produits (textes, images, sons, vidéos). Les dates : l'article 50 s'applique depuis le 2 août 2026 ; selon ActuIA, les fournisseurs dont le système était déjà sur le marché avant cette date ont jusqu'au 2 décembre 2026 pour le marquage. Les manquements sont passibles d'amendes pouvant aller jusqu'à 15 millions d'euros ou 3 % du chiffre d'affaires mondial (ActuIA). Ce qu'un filigrane ne prouve pas : un texte sans filigrane détecté n'est pas forcément écrit par un humain, et un texte réécrit peut échapper à la détection.
+
+Ce qu'ils en disent
+
+Selon le Blog du Modérateur, l'entreprise reconnaît que l'absence de filigrane détecté ne prouve pas qu'un humain a écrit le texte, et que les textes courts, retravaillés ou traduits peuvent échapper à la détection.
+OpenAI (Entreprise), annonce du 5 octobre
+
+« providers of generative AI have to ensure that AI-generated content is identifiable »
+Commission européenne (Régulateur), règlement sur l'IA
+
+Ce qui change
+
+Dans l'Union européenne, des textes produits avec ChatGPT ou Codex pourront porter une marque statistique invisible, que seuls des acteurs approuvés pourront lire pour l'instant. Pour un enseignant, un éditeur ou une agence, ce n'est pas un outil de contrôle…
+
+Et après
+
+Début de l'activation dans les prochaines semaines ; échéance du 2 décembre 2026 pour les systèmes déjà sur le marché. En France, la loi désignant les autorités de contrôle n'était pas adoptée au 6 octobre (ActuIA).
+
+Sources : OpenAI (annonce) · Blog du Modérateur · Begeek · Commission européenne
+
+À venir
+
+- 8 oct. : OpenAI : GPT-6 (Luna) attendu sur les comptes Free et Go (TestingCatalog).
+- 27 oct. : Mistral AI : publication annoncée des poids de Large 4 (mistral.ai).
+- 30 nov. : Australie : rapport final de la commission parlementaire sur l'IA (Reuters).
+- 2 déc. : Union européenne : fin du délai de marquage des contenus pour les systèmes d'IA générative déjà sur le marché (ActuIA).
+
+Les mots du jour
+
+Jeton
+Morceau de texte (mot ou fragment) qui sert d'unité de lecture, d'écriture et de facturation pour un modèle d'IA.
+Fenêtre de contexte
+Quantité maximale de jetons qu'un modèle peut traiter en une fois : question, documents, historique et réponse.
+Filigrane de texte
+Signal statistique invisible, glissé dans le choix des mots, qui permet à un outil de détection de reconnaître un texte produit par un modèle.
+Lean
+Logiciel qui vérifie mécaniquement, étape par étape, qu'une démonstration mathématique est logiquement correcte.
+
+Vrai ou faux ?
+
+Chez Anthropic, Claude Haiku 5.5 coûte 0,10 $ par million de jetons en entrée, quelle que soit la longueur de la requête.
+
+Réponse : faux. Ce tarif ne vaut que pour les requêtes de 100 000 jetons au plus. Au-delà, le prix passe à 0,50 $ en entrée et 2,50 $ en sortie, d'après la page du produit d'Anthropic.
+
+Retrouvez cette édition sur eclairagemedia.com.
