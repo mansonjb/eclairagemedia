@@ -251,7 +251,7 @@ if (fs.existsSync(fCand)) {
         sujets: Array.isArray(d.sujets)
           ? d.sujets.map((x) => ({ rubrique: x.rubrique, n: x.n, titre: index.find((e) => e.rubrique === x.rubrique && e.date === date)?.sujets.find((t) => t.n === x.n)?.titre })).filter((x) => x.titre)
           : ed ? ed.sujets.map((s) => ({ rubrique, n: s.n, titre: s.titre })) : [],
-        transcription: (d.repliques || []).map((r) => ({ qui: r.qui === "Lea" ? "Léa" : r.qui, texte: r.texte })),
+        transcription: (d.repliques || []).map((r) => ({ qui: r.qui === "Lea" ? "Léa" : r.qui, texte: r.texte.replace(/\[[^\]]*\]\s*/g, "") })), // sans les balises de jeu [ton] d'ElevenLabs
       });
     }
   }
