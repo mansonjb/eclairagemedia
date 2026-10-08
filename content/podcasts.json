@@ -1,5 +1,291 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-08",
+  "url": "/podcasts/essentiel-2026-10-08.mp3",
+  "taille": 7626441,
+  "duree": 635,
+  "titre": "Éclairage, l'essentiel du jeudi 8 octobre 2026",
+  "titre_episode": "Grenades dans les lycées, taux d'intérêt, Paramount et Warner : l'essentiel du jeudi 8 octobre",
+  "description": "Ce jeudi 8 octobre, Léa et Paul font le tour de l'actualité : politique, économie, alimentation, IA et tech.\n\n• Politique : lycées, suspension des grenades assourdissantes\n• Politique : allocution de Sébastien Lecornu, gazole et lycées\n• Économie : taux, OAT à dix ans et CAC 40\n• Économie : Paramount finalise le rachat de Warner Bros. Discovery\n• Alimentation : vendange 2026\n• Alimentation : sécheresse et mesures pour les éleveurs\n• Tech : Claude Haiku 5.5\n• Tech : GPT-6 dans ChatGPT\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Lycées : Nuñez suspend les grenades assourdissantes pour le mouvement"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Taux : l'OAT à 10 ans remonte vers 4,9 %, le CAC 40 perd 1,22 %"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Paramount finalise le rachat de Warner Bros. Discovery pour 110 Md$"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Vendange 2026 : près de 35 millions d'hectolitres, revue à la hausse"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Sécheresse : de nouvelles mesures pour les éleveurs attendues jeudi"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Claude Haiku 5.5 : le million de jetons à 0,10 $ en entrée"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "ChatGPT : GPT-6 déployé avec des réponses à boutons, formulaires et graphiques"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le jeudi 8 octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, alimentation, intelligence artificielle et tech. Huit sujets, tous tirés des éditions Éclairage parues ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, avec les lycées. Mercredi sept octobre, le ministre de l'Intérieur, Laurent Nuñez, a annoncé sur RTL la suspension des grenades assourdissantes pour le mouvement lycéen. Paul, qu'est-ce qui s'est passé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi, un lycéen de quinze ans a eu une main arrachée lors d'une manifestation à Lens, dans le Pas-de-Calais. Selon le maire de Wingles, la commune où habite le jeune homme, il a été amputé de la main gauche et a reçu une greffe. Les circonstances restent à déterminer. Mardi, dans un télégramme, le directeur général de la police nationale avait déjà suspendu, à titre conservatoire, la grenade ASSD."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que dit exactement le ministre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Qu'il suspend leur usage pour le mouvement des lycéens, tant que la lumière n'a pas été faite. La mesure vaut uniquement pour ce mouvement. L'IGPN, c'est-à-dire la police des polices, est saisie de dix-huit enquêtes. Elle doit établir si le lycéen a ramassé la grenade ou si elle a atterri sur lui, et si le tir était réglementaire. Aucune responsabilité n'est établie à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Selon l'AFP, le bilan du mouvement est lourd."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui : six mille cinq cent quarante-sept interpellations depuis le début, dont quatre cent quatre-vingt-huit mardi, et plus de sept cents policiers et gendarmes blessés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Du côté des partis ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La gauche réclame une interdiction plus large. Manuel Bompard, de La France insoumise, appelle à bannir toutes les armes de guerre des manifestations. Boris Vallaud, président du groupe socialiste à l'Assemblée, demande d'interdire grenades et lanceurs de balles de défense, les LBD, et rappelle qu'une proposition de loi socialiste sur les armes mutilantes est annoncée. Pour le Rassemblement national, les Écologistes et Les Républicains, aucune réaction n'a été relevée sur ce point. Une nouvelle journée d'action lycéenne a lieu aujourd'hui."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet politique : l'allocution du Premier ministre. Mercredi soir, Sébastien Lecornu s'est exprimé depuis Matignon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a annoncé que dix millions de barils de gazole issus des réserves stratégiques seraient mis à disposition des distributeurs, au prix de revient. Il évalue la baisse à la pompe entre douze et dix-huit centimes par litre. Précision utile : c'est une estimation du gouvernement, pas un résultat mesuré. Il réunira les distributeurs à Matignon dans les tout prochains jours."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Des réserves stratégiques, c'est quoi au juste ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des stocks de produits pétroliers que l'État conserve pour les situations de crise. Selon le Premier ministre, ce gazole a été acheté avant la flambée des cours."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les lycées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a dit que les premières décisions du gouvernement seront présentées à la fin du mois d'octobre. Il fait état de quarante mille contributions sur la plateforme ouverte aux élèves. Il a aussi affirmé que le prix de l'électricité ne devait pas augmenter cet hiver, et redit l'objectif d'un déficit public de cinq pour cent du PIB en deux mille vingt-sept, après cinq virgule quatre pour cent en deux mille vingt-six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les réactions sont partagées."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Marine Le Pen demande la baisse immédiate de la TVA sur les carburants, de vingt à cinq virgule cinq pour cent. Marine Tondelier, pour les Écologistes, dit que la stratégie du gouvernement est de gagner du temps. Et Aurélie Trouvé, de La France insoumise, juge la baisse du gazole insuffisante et défend le blocage des prix et des marges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. Mercredi, la Bourse de Paris a clôturé en baisse."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le CAC quarante a cédé un virgule vingt-deux pour cent, à sept mille sept cent soixante-neuf points. Dans le même temps, l'OAT à dix ans, le taux auquel l'État français emprunte sur dix ans, est montée à environ quatre virgule quatre-vingt-sept pour cent, contre moins de quatre virgule soixante-quinze la veille selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi un taux qui monte fait-il baisser une obligation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que prix et taux évoluent en sens inverse. Si les investisseurs exigent plus, le prix des obligations déjà émises baisse. Pour l'État, un taux plus élevé renchérit chaque nouvel emprunt, donc le coût de la dette et le budget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les banques ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Société Générale a reculé de cinq pour cent et BNP Paribas de près de quatre. Les sources ne détaillent pas pourquoi elles ont reculé plus que le reste de la cote. Le Brent, la référence du pétrole en Europe, valait environ cent un dollars le baril. L'AFP relie la hausse des taux à celle du pétrole, qui alimente les craintes d'inflation, et aux finances publiques françaises : une dette à cent dix-neuf pour cent du PIB et pas de majorité pour le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deutsche Bank, elle, relie le rebond du pétrole à des attaques iraniennes contre des pétroliers dans le détroit d'Ormuz."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Prochain rendez-vous chiffré : l'enquête de conjoncture de la Banque de France, le douze octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet économique : une fusion géante à Hollywood. Mardi six octobre, Paramount Skydance a finalisé le rachat de Warner Bros. Discovery."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour cent dix milliards de dollars, à trente et un dollars par action, en numéraire. Le groupe réunit des studios comme ceux de Harry Potter et de DC, et des chaînes comme CBS, CNN, Paramount plus et HBO Max. Il s'appelle désormais Skydance et cote à New York sous le symbole SKYD. David Ellison dirige l'ensemble, avec Ynon Kreiz, ancien patron de Mattel, comme co-PDG."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui a levé les obstacles juridiques ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des accords avec une coalition d'États américains et avec un syndicat de scénaristes. D'après CBS News, seule source sur ce point, l'accord avec les États prévoit trente films par an pendant deux ans, et pas de vente ni de fermeture des studios de Los Angeles pendant cinq ans au moins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les salariés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans un courriel, les dirigeants écrivent que l'intégration apportera du changement, avec des décisions difficiles qui touchent les équipes. Aucun chiffre de suppressions de postes n'a été communiqué. Des signataires d'une lettre ouverte avaient averti que le rapprochement ferait disparaître des emplois. CBS News rapporte aussi un objectif de six milliards de dollars d'économies, information d'une seule source."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cap sur l'alimentation, avec la vendange deux mille vingt-six. Paul ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi, Agreste, le service statistique du ministère de l'Agriculture, a publié son estimation au premier octobre : près de trente-cinq millions d'hectolitres, contre environ trente-trois virgule neuf annoncés un mois plus tôt. C'est deux pour cent de moins qu'en deux mille vingt-cinq, et quatorze pour cent de moins que la moyenne de deux mille vingt et un à deux mille vingt-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un hectolitre, ça fait combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cent litres. Trente-cinq millions d'hectolitres, cela fait trois virgule cinq milliards de litres."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'où vient la révision à la hausse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Surtout de rendements meilleurs qu'attendu en Languedoc-Roussillon. Mais les écarts entre bassins sont importants : moins quarante-huit pour cent en Champagne, moins vingt-huit dans le Jura, moins vingt-deux en Bourgogne-Beaujolais. À l'inverse, le Sud-Ouest progresse de douze pour cent et le Bordelais de onze. Les causes citées sont les canicules, la sécheresse estivale et l'arrachage."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les vendanges elles-mêmes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AFP, elles ont commencé plus tôt que d'ordinaire, sont presque terminées, et se sont déroulées dans un excellent état sanitaire. Aucune conséquence sur les prix n'est établie à ce stade. Prochaine estimation d'Agreste le premier novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours en alimentation : la sécheresse et les éleveurs. Annie Genevard, ministre de l'Agriculture, doit présenter aujourd'hui de nouvelles mesures au Sommet de l'élevage, à Cournon-d'Auvergne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, c'est Sébastien Lecornu qui l'a annoncé mercredi. Rappel : le quatre septembre, un plan d'urgence d'environ un milliard d'euros avait été présenté. Il comprend l'indemnité de solidarité nationale, avec un acompte porté de cinquante à soixante-dix pour cent, un fonds de deux cent vingt millions d'euros pour les préfets, un dégrèvement de taxe sur le foncier non bâti de trois cents millions, et une avance de la PAC portée de soixante-dix à soixante-quinze pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que demandent les syndicats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FNSEA demande une assurance prairie et conteste les données satellitaires, qui montreraient des pertes inférieures de quinze à vingt pour cent à celles mesurées sur le terrain. Elle attend aussi des prêts à taux zéro. Jocelyn Dubost, pour les Jeunes Agriculteurs, dit attendre un vrai plan de rebond ambitieux. Le ministère indique que ce plan est en cours de construction et sera ajouté au budget par amendement. Le contenu des annonces n'était pas connu à la rédaction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'intelligence artificielle et la tech. Mercredi, Anthropic a lancé Claude Haiku cinq virgule cinq."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le plus petit modèle de sa gamme, décrit comme le plus rapide et le moins cher. Pour les requêtes de cent mille jetons au plus, le prix est de dix centimes de dollar le million de jetons lus, et cinquante centimes le million de jetons écrits. Haiku quatre virgule cinq coûtait un dollar et cinq dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un jeton, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un morceau de texte : un mot court ou un fragment de mot. Le modèle lit et écrit en jetons, et l'entreprise facture séparément les deux. Anthropic estime le coût moyen environ soixante-quinze pour cent plus bas. Le modèle est disponible dans Claude.ai, y compris gratuitement, dans Claude Code, et chez Amazon Web Services, Google Cloud et Microsoft Foundry."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les performances sont-elles confirmées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les scores sont ceux d'Anthropic : soixante-douze virgule quatre pour cent à un test d'utilisation d'un ordinateur, contre quinze virgule sept pour Haiku quatre virgule cinq. Aucune évaluation indépendante n'a été relevée à ce stade. Selon VentureBeat, les tarifs sont identiques à ceux de GPT-6 Luna, d'OpenAI, mais une comparaison de prix ne prouve pas des capacités équivalentes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et justement, OpenAI déploie GPT-6 dans ChatGPT."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Depuis le sept octobre. Une fonction, appelée Intelligent UI, permet à la réponse de comporter des graphiques, des boutons, des formulaires ou des comparaisons côte à côte, au lieu de seulement du texte. On peut aussi faire construire de petits outils dans la conversation, comme une calculatrice d'épargne ou un jeu."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui y a accès, et quand ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les abonnés Plus, Pro, Business et Enterprise ont reçu GPT-6 Sol le sept octobre. Les comptes gratuits et Go reçoivent GPT-6 Luna aujourd'hui. Le déploiement est progressif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "OpenAI parle aussi de rapidité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle affirme que le modèle peut commencer à répondre pendant qu'il réfléchit, ce qui réduirait d'environ quarante-quatre pour cent l'attente moyenne sur les questions avec recherche web. C'est un chiffre de l'entreprise, sans mesure indépendante. Search Engine Journal note que l'annonce ne précise pas comment les sources seront affichées pour les graphiques. Et OpenAI reconnaît elle-même, selon TestingCatalog, que le jugement du modèle en matière de mise en page doit encore progresser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de cette journée. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com. À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-08",
   "url": "/podcasts/politique-2026-10-08.mp3",
