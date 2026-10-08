@@ -511,8 +511,8 @@
     "theme": "ÉDUCATION",
     "titre": "Lycées : Nuñez suspend les grenades assourdissantes pour le mouvement",
     "court": "Lycées : grenades suspendues",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/H%C3%B4tel_de_Beauvau_JP2010_3.jpg/1280px-H%C3%B4tel_de_Beauvau_JP2010_3.jpg",
-    "legende": "Le jardin de l'hôtel de Beauvau, siège du ministère de l'Intérieur (illustration)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_004.jpg/1280px-Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_004.jpg",
+    "legende": "Cortège de la manifestation lycéenne et étudiante du 6 octobre 2026 à Paris",
     "chapeau": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a annoncé sur RTL la suspension de l'usage des grenades assourdissantes « pour le mouvement lycéen », après qu'un lycéen de 15 ans a eu une main arrachée lundi lors d'une manifestation à Lens (Pas-de-Calais), dans des circonstances qui restent à déterminer.…",
     "eclairage": "Que décide, et que ne décide pas, cette suspension ?",
     "chiffres": [
@@ -599,10 +599,10 @@
     "apres": "Poursuite des dix-huit enquêtes de l'IGPN ; journée d'action lycéenne jeudi 8 octobre ; dépôt annoncé d'une proposition de loi socialiste sur les armes mutilantes.",
     "change": "Les grenades assourdissantes ne sont plus utilisées face aux rassemblements lycéens le temps de l'enquête. Les circonstances de la blessure de Lens restent à établir : aucune responsabilité n'est établie à ce stade.",
     "credit": {
-     "auteur": "Croquant",
-     "licence": "CC BY-SA 3.0",
-     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Beauvau_JP2010_3.jpg"
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_004.jpg"
     }
    },
    {
@@ -978,6 +978,177 @@
    "affirmation": "Le Haut Conseil des finances publiques juge « pessimiste » la prévision de croissance de 1 % du gouvernement pour 2027.",
    "reponse": false,
    "explication": "Faux : selon Public Sénat, le HCFP juge cette prévision « optimiste » ; l'OFCE et Rexecode prévoient 0,7 % et la Banque de France 0,9 %."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-08",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "aGLP-1 : l'ANSM alerte sur le mésusage et des interactions",
+    "court": "aGLP-1 : mésusage et interactions",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ozempic%C2%AE_3ml.jpg/1280px-Ozempic%C2%AE_3ml.jpg",
+    "legende": "Stylo injecteur d'Ozempic (sémaglutide), l'un des aGLP-1 suivis par l'ANSM",
+    "chapeau": "Le 7 octobre 2026, l'Agence nationale de sécurité du médicament (ANSM) a publié le troisième rapport de pharmacovigilance sur les analogues du GLP-1 (aGLP-1), des médicaments contre le diabète de type 2 et l'obésité comme Ozempic, Wegovy ou Mounjaro. Le rapport, préparé par le réseau des centres régionaux de…",
+    "eclairage": "Que mesure un rapport de pharmacovigilance ?",
+    "chiffres": [
+     {
+      "valeur": "840 000",
+      "legende": "patients traités en France"
+     },
+     {
+      "valeur": "2 801",
+      "legende": "cas d'effets indésirables dont 515 graves"
+     },
+     {
+      "valeur": "36",
+      "legende": "signalements de mésusage dont 17 graves"
+     }
+    ],
+    "passe": "Le 7 octobre 2026, l'Agence nationale de sécurité du médicament (ANSM) a publié le troisième rapport de pharmacovigilance sur les analogues du GLP-1 (aGLP-1), des médicaments contre le diabète de type 2 et l'obésité comme Ozempic, Wegovy ou Mounjaro. Le rapport, préparé par le réseau des centres régionaux de pharmacovigilance, couvre la période de février 2025 à janvier 2026. Il estime à plus de 840 000 le nombre de patients traités en France et recense 2 801 cas d'effets indésirables, dont 515 graves. Il relève 36 signalements de mésusage pour perdre du poids, dont 17 graves : les personnes concernées sont surtout jeunes, dans deux cas sur trois le médicament a été obtenu hors des circuits officiels (internet, entourage, étranger) et, dans plus de neuf cas sur dix, les doses étaient trop élevées ou augmentées trop vite. Le rapport met aussi en évidence un risque d'interactions avec d'autres médicaments, lié au ralentissement de la vidange de l'estomac, notamment avec des anticoagulants, la metformine (risque d'acidose lactique en cas de déshydratation, deux décès possiblement liés) et les contraceptifs oraux, dont l'Agence européenne des médicaments évalue l'efficacité potentiellement diminuée. L'ANSM confirme un rapport bénéfice/risque favorable lorsque ces médicaments sont utilisés conformément aux recommandations.",
+    "points": [],
+    "explication": "La pharmacovigilance collecte les effets indésirables que des soignants ou des patients signalent après la mise sur le marché d'un médicament. Elle repère des signaux : un effet qui revient, une interaction inattendue. Elle ne mesure pas la fréquence réelle d'un effet, car tout n'est pas signalé, et elle ne prouve pas qu'un médicament est la cause d'un cas : c'est pourquoi l'ANSM parle de décès « possiblement liés ». Les 2 801 cas ne sont donc pas un taux d'accidents parmi les 840 000 patients. Le mésusage désigne un usage qui sort du cadre prévu : sans ordonnance, sans suivi, avec des doses inadaptées. Elle écrit que ces résultats confirment « le rapport bénéfice/risque favorable des aGLP-1 lorsqu'ils sont utilisés conformément aux recommandations » et demande aux professionnels de santé « une vigilance accrue » sur les interactions.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ansm.sante.fr/actualites/3-rapport-de-pharmacovigilance-sur-les-aglp-1-persistance-du-mesusage-associe-a-des-complications-graves-et-mise-en-evidence-du-risque-dinteractions-medicamenteuses",
+      "nom": "ANSM"
+     },
+     {
+      "url": "https://pharmactu.fr/articles/aglp1-3e-rapport-pharmacovigilance-ansm-mesusage-interactions-2026",
+      "nom": "Pharmactu"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "ANSM",
+      "contexte": "agence nationale",
+      "texte": "Elle écrit que ces résultats confirment « le rapport bénéfice/risque favorable des aGLP-1 lorsqu'ils sont utilisés conformément aux recommandations » et demande aux professionnels de santé « une vigilance accrue » sur les interactions.",
+      "url": "https://ansm.sante.fr/actualites/3-rapport-de-pharmacovigilance-sur-les-aglp-1-persistance-du-mesusage-associe-a-des-complications-graves-et-mise-en-evidence-du-risque-dinteractions-medicamenteuses",
+      "source": "ANSM"
+     }
+    ],
+    "apres": "L'Agence européenne des médicaments évalue si les aGLP-1 peuvent réduire l'efficacité des contraceptifs oraux. Aucune date de conclusion n'est annoncée dans les sources consultées.",
+    "change": "Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions. Toute question sur un traitement en cours se règle…",
+    "credit": {
+     "auteur": "HualinXMN",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Ozempic%C2%AE_3ml.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "Optogénétique : un premier essai chez 10 patients atteints de cécité publié",
+    "court": "Optogénétique : essai publié au NEJM",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fundus_of_patient_with_retinitis_pigmentosa%2C_end_stage.jpg",
+    "legende": "Fond d'œil d'une rétinopathie pigmentaire à un stade avancé, la maladie visée par l'essai",
+    "chapeau": "Le 8 octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai PIONEER (« Optogenetic Therapy for Restoring Aspects of Visual Function »), annoncés par l'entreprise GenSight Biologics et par l'hôpital national des 15-20 à Paris. Il s'agit d'un premier essai chez l'humain (phase 1/2), mené sur…",
+    "eclairage": "Pourquoi 10 patients ne prouvent pas l'efficacité",
+    "chiffres": [
+     {
+      "valeur": "10",
+      "legende": "participants au total"
+     },
+     {
+      "valeur": "6 sur 10",
+      "legende": "meilleure sensibilité à la lumière"
+     },
+     {
+      "valeur": "4 sur 8",
+      "legende": "progrès à des tâches visuelles, avec lunettes"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai PIONEER (« Optogenetic Therapy for Restoring Aspects of Visual Function »), annoncés par l'entreprise GenSight Biologics et par l'hôpital national des 15-20 à Paris. Il s'agit d'un premier essai chez l'humain (phase 1/2), mené sur des patients atteints de rétinopathie pigmentaire à un stade avancé, avec une vision nulle ou limitée à la perception de la lumière. Le traitement, appelé GS030, associe une injection unique dans l'œil d'une thérapie génique qui rend certaines cellules de la rétine sensibles à la lumière et des lunettes qui projettent un faisceau lumineux. Trois groupes de trois patients ont reçu l'une de trois doses, plus un patient supplémentaire à la dose la plus élevée. D'après le communiqué, la plupart des effets indésirables oculaires étaient légers ou modérés, un événement sévère a disparu en quelques minutes avec des gouttes et aucun effet indésirable général n'a été rattaché au médicament ou à l'injection. Six participants sur dix ont montré une amélioration de la sensibilité à la lumière jugée cliniquement pertinente, et quatre sur huit ont progressé à certaines tâches (détecter ou localiser un objet) avec les lunettes. Les chiffres sont ceux du communiqué : le texte intégral de l'article n'a pas pu être consulté.",
+    "points": [],
+    "explication": "La rétinopathie pigmentaire est une maladie génétique de la rétine : les cellules qui captent la lumière (les photorécepteurs) disparaissent peu à peu. L'optogénétique contourne le problème : elle rend sensibles à la lumière d'autres cellules de la rétine, restées intactes, qui transmettent l'information au cerveau. Un essai de phase 1/2 vise d'abord à vérifier la sécurité et les doses. Ici, tous les patients savaient qu'ils étaient traités et il n'y avait pas de groupe comparatif : une amélioration peut venir du traitement, mais aussi de l'entraînement ou de l'attente du patient. Les auteurs eux-mêmes parlent de résultats exploratoires. Il déclare : « These results remain exploratory and will need to be confirmed and further investigated » (« Ces résultats restent exploratoires et devront être confirmés et approfondis »). L'entreprise développe GS030. Le communiqué précise que l'étude visait d'abord la sécurité et n'était pas conçue pour établir l'efficacité. Le financement de l'étude n'est pas indiqué dans le communiqué.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2602215",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-8-gensight-biologics-and-the-15-20-national-hospital-announce-nejm-publication-on-gs030-phase-12-trial-results-in-late-stage-retinitis-pigmentosa",
+      "nom": "Communiqué GenSight / hôpital 15-20 (Business Wire)"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/gensight-biologics-publie-dans-le-nejm-des-resultats-de-securite-de-lessai-pion_703879",
+      "nom": "ABC Bourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "José-Alain Sahel",
+      "contexte": "professeur, cité dans le communiqué",
+      "texte": "Il déclare : « These results remain exploratory and will need to be confirmed and further investigated » (« Ces résultats restent exploratoires et devront être confirmés et approfondis »).",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-8-gensight-biologics-and-the-15-20-national-hospital-announce-nejm-publication-on-gs030-phase-12-trial-results-in-late-stage-retinitis-pigmentosa",
+      "source": "Business Wire"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "GenSight Biologics",
+      "contexte": "promoteur de l'essai",
+      "texte": "L'entreprise développe GS030. Le communiqué précise que l'étude visait d'abord la sécurité et n'était pas conçue pour établir l'efficacité. Le financement de l'étude n'est pas indiqué dans le communiqué.",
+      "url": "https://www.abcbourse.com/marches/gensight-biologics-publie-dans-le-nejm-des-resultats-de-securite-de-lessai-pion_703879",
+      "source": "ABC Bourse"
+     }
+    ],
+    "apres": "Il faudrait des essais plus larges, avec un groupe comparatif, avant tout dépôt de dossier auprès des autorités. Aucun calendrier n'est annoncé dans les sources consultées.",
+    "change": "Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité. Les résultats montrent qu'une réponse visuelle mesurable est possible chez certains patients, sans démontrer un bénéfice dans la vie…",
+    "credit": {
+     "auteur": "Christian Hamel",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Fundus_of_patient_with_retinitis_pigmentosa,_end_stage.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Début de la campagne de vaccination contre la grippe en France hexagonale, jusqu'au 31 janvier 2027."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "9 sur 10",
+   "texte": "environ : la part des signalements de mésusage d'aGLP-1 où les doses étaient trop élevées ou augmentées trop vite (plus de neuf cas sur dix, sur 36 signalements)."
+  },
+  "lexique": [
+   {
+    "terme": "Pharmacovigilance",
+    "definition": "La surveillance des effets indésirables des médicaments une fois commercialisés, à partir des signalements de soignants et de patients."
+   },
+   {
+    "terme": "Mésusage",
+    "definition": "Un usage d'un médicament qui sort du cadre prévu : sans ordonnance, hors indication ou avec des doses inadaptées."
+   },
+   {
+    "terme": "Essai de phase 1/2",
+    "definition": "Un premier essai chez l'humain, qui vérifie surtout la sécurité et les doses avant de chercher à mesurer l'efficacité."
+   },
+   {
+    "terme": "Critère exploratoire",
+    "definition": "Une mesure ajoutée pour repérer des pistes : elle ne suffit pas à prouver qu'un traitement fonctionne."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'essai NutriVax publié dans Nature Medicine, distribuer des compléments nutritifs avec la vaccination a réduit le nombre de cas de rougeole au Nigeria.",
+   "reponse": false,
+   "explication": "L'essai a mesuré la couverture vaccinale (1re dose du vaccin rougeole vérifiée sur carte : 20,1 points de plus que dans le groupe témoin), pas le nombre de cas de rougeole."
   }
  },
  {

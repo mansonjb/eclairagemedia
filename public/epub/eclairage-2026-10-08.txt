@@ -376,6 +376,106 @@ Réponse : vrai. Vrai : l'opération a été finalisée le 6 octobre, selon Reu
 
 Retrouvez cette édition sur eclairagemedia.com.
 
+Santé
+
+jeudi 8 octobre 2026 · 8 min de lecture
+
+1. aGLP-1 : l'ANSM alerte sur le mésusage et des interactions
+
+SANTÉ PUBLIQUE
+
+840 000 : patients traités en France
+
+2 801 : cas d'effets indésirables dont 515 graves
+
+36 : signalements de mésusage dont 17 graves
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, l'Agence nationale de sécurité du médicament (ANSM) a publié le troisième rapport de pharmacovigilance sur les analogues du GLP-1 (aGLP-1), des médicaments contre le diabète de type 2 et l'obésité comme Ozempic, Wegovy ou Mounjaro. Le rapport, préparé par le réseau des centres régionaux de pharmacovigilance, couvre la période de février 2025 à janvier 2026. Il estime à plus de 840 000 le nombre de patients traités en France et recense 2 801 cas d'effets indésirables, dont 515 graves. Il relève 36 signalements de mésusage pour perdre du poids, dont 17 graves : les personnes concernées sont surtout jeunes, dans deux cas sur trois le médicament a été obtenu hors des circuits officiels (internet, entourage, étranger) et, dans plus de neuf cas sur dix, les doses étaient trop élevées ou augmentées trop vite. Le rapport met aussi en évidence un risque d'interactions avec d'autres médicaments, lié au ralentissement de la vidange de l'estomac, notamment avec des anticoagulants, la metformine (risque d'acidose lactique en cas de déshydratation, deux décès possiblement liés) et les contraceptifs oraux, dont l'Agence européenne des médicaments évalue l'efficacité potentiellement diminuée. L'ANSM confirme un rapport bénéfice/risque favorable lorsque ces médicaments sont utilisés conformément aux recommandations.
+
+L'éclairage
+
+Que mesure un rapport de pharmacovigilance ?
+
+La pharmacovigilance collecte les effets indésirables que des soignants ou des patients signalent après la mise sur le marché d'un médicament. Elle repère des signaux : un effet qui revient, une interaction inattendue. Elle ne mesure pas la fréquence réelle d'un effet, car tout n'est pas signalé, et elle ne prouve pas qu'un médicament est la cause d'un cas : c'est pourquoi l'ANSM parle de décès « possiblement liés ». Les 2 801 cas ne sont donc pas un taux d'accidents parmi les 840 000 patients. Le mésusage désigne un usage qui sort du cadre prévu : sans ordonnance, sans suivi, avec des doses inadaptées. Elle écrit que ces résultats confirment « le rapport bénéfice/risque favorable des aGLP-1 lorsqu'ils sont utilisés conformément aux recommandations » et demande aux professionnels de santé « une vigilance accrue » sur les interactions.
+
+Ce qu'ils en disent
+
+Elle écrit que ces résultats confirment « le rapport bénéfice/risque favorable des aGLP-1 lorsqu'ils sont utilisés conformément aux recommandations » et demande aux professionnels de santé « une vigilance accrue » sur les interactions.
+ANSM (Autorité de santé), agence nationale
+
+Ce qui change
+
+Pour les patients traités, le rapport rappelle que ces médicaments s'obtiennent sur ordonnance, en pharmacie, jamais sur internet. Pour les soignants, il demande une surveillance renforcée des interactions. Toute question sur un traitement en cours se règle…
+
+Et après
+
+L'Agence européenne des médicaments évalue si les aGLP-1 peuvent réduire l'efficacité des contraceptifs oraux. Aucune date de conclusion n'est annoncée dans les sources consultées.
+
+Sources : ANSM · Pharmactu
+
+2. Optogénétique : un premier essai chez 10 patients atteints de cécité publié
+
+TRAITEMENT
+
+10 : participants au total
+
+6 sur 10 : meilleure sensibilité à la lumière
+
+4 sur 8 : progrès à des tâches visuelles, avec lunettes
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, le New England Journal of Medicine a publié les résultats de l'essai PIONEER (« Optogenetic Therapy for Restoring Aspects of Visual Function »), annoncés par l'entreprise GenSight Biologics et par l'hôpital national des 15-20 à Paris. Il s'agit d'un premier essai chez l'humain (phase 1/2), mené sur des patients atteints de rétinopathie pigmentaire à un stade avancé, avec une vision nulle ou limitée à la perception de la lumière. Le traitement, appelé GS030, associe une injection unique dans l'œil d'une thérapie génique qui rend certaines cellules de la rétine sensibles à la lumière et des lunettes qui projettent un faisceau lumineux. Trois groupes de trois patients ont reçu l'une de trois doses, plus un patient supplémentaire à la dose la plus élevée. D'après le communiqué, la plupart des effets indésirables oculaires étaient légers ou modérés, un événement sévère a disparu en quelques minutes avec des gouttes et aucun effet indésirable général n'a été rattaché au médicament ou à l'injection. Six participants sur dix ont montré une amélioration de la sensibilité à la lumière jugée cliniquement pertinente, et quatre sur huit ont progressé à certaines tâches (détecter ou localiser un objet) avec les lunettes. Les chiffres sont ceux du communiqué : le texte intégral de l'article n'a pas pu être consulté.
+
+L'éclairage
+
+Pourquoi 10 patients ne prouvent pas l'efficacité
+
+La rétinopathie pigmentaire est une maladie génétique de la rétine : les cellules qui captent la lumière (les photorécepteurs) disparaissent peu à peu. L'optogénétique contourne le problème : elle rend sensibles à la lumière d'autres cellules de la rétine, restées intactes, qui transmettent l'information au cerveau. Un essai de phase 1/2 vise d'abord à vérifier la sécurité et les doses. Ici, tous les patients savaient qu'ils étaient traités et il n'y avait pas de groupe comparatif : une amélioration peut venir du traitement, mais aussi de l'entraînement ou de l'attente du patient. Les auteurs eux-mêmes parlent de résultats exploratoires. Il déclare : « These results remain exploratory and will need to be confirmed and further investigated » (« Ces résultats restent exploratoires et devront être confirmés et approfondis »). L'entreprise développe GS030. Le communiqué précise que l'étude visait d'abord la sécurité et n'était pas conçue pour établir l'efficacité. Le financement de l'étude n'est pas indiqué dans le communiqué.
+
+Ce qu'ils en disent
+
+Il déclare : « These results remain exploratory and will need to be confirmed and further investigated » (« Ces résultats restent exploratoires et devront être confirmés et approfondis »).
+José-Alain Sahel (Auteurs), professeur, cité dans le communiqué
+
+L'entreprise développe GS030. Le communiqué précise que l'étude visait d'abord la sécurité et n'était pas conçue pour établir l'efficacité. Le financement de l'étude n'est pas indiqué dans le communiqué.
+GenSight Biologics (Industrie), promoteur de l'essai
+
+Ce qui change
+
+Rien n'est disponible pour les patients : GS030 est un médicament expérimental, qui n'est approuvé par aucune autorité. Les résultats montrent qu'une réponse visuelle mesurable est possible chez certains patients, sans démontrer un bénéfice dans la vie…
+
+Et après
+
+Il faudrait des essais plus larges, avec un groupe comparatif, avant tout dépôt de dossier auprès des autorités. Aucun calendrier n'est annoncé dans les sources consultées.
+
+Sources : NEJM (DOI) · Communiqué GenSight / hôpital 15-20 (Business Wire) · ABC Bourse
+
+À venir
+
+- 13 oct. : Début de la campagne de vaccination contre la grippe en France hexagonale, jusqu'au 31 janvier 2027.
+
+Les mots du jour
+
+Pharmacovigilance
+La surveillance des effets indésirables des médicaments une fois commercialisés, à partir des signalements de soignants et de patients.
+Mésusage
+Un usage d'un médicament qui sort du cadre prévu : sans ordonnance, hors indication ou avec des doses inadaptées.
+Essai de phase 1/2
+Un premier essai chez l'humain, qui vérifie surtout la sécurité et les doses avant de chercher à mesurer l'efficacité.
+Critère exploratoire
+Une mesure ajoutée pour repérer des pistes : elle ne suffit pas à prouver qu'un traitement fonctionne.
+
+Vrai ou faux ?
+
+Selon l'essai NutriVax publié dans Nature Medicine, distribuer des compléments nutritifs avec la vaccination a réduit le nombre de cas de rougeole au Nigeria.
+
+Réponse : faux. L'essai a mesuré la couverture vaccinale (1re dose du vaccin rougeole vérifiée sur carte : 20,1 points de plus que dans le groupe témoin), pas le nombre de cas de rougeole.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
 Food & Bio
 
 jeudi 8 octobre 2026 · 6 min de lecture
