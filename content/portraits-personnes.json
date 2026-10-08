@@ -640,5 +640,48 @@
   "auteur": "US House Office of Photography",
   "licence": "Public domain"
  },
- "Tom Gaitens": null
+ "Tom Gaitens": null,
+ "Boris Vallaud": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Boris_Vallaud_%28cropped%29.jpg/250px-Boris_Vallaud_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Boris_Vallaud_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boris_Vallaud_(cropped).jpg",
+  "auteur": "Noé Herraez",
+  "licence": "Public domain"
+ },
+ "Ayda Hadizadeh": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/20240708-P1010526_Ayda_Hadizadeh_Wikipedia.jpg/250px-20240708-P1010526_Ayda_Hadizadeh_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20240708-P1010526_Ayda_Hadizadeh_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20240708-P1010526_Ayda_Hadizadeh_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY 4.0"
+ },
+ "Aurélie Trouvé": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Meeting_d%27Aur%C3%A9lie_Trouv%C3%A9.jpg/250px-Meeting_d%27Aur%C3%A9lie_Trouv%C3%A9.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Meeting_d'Aurélie_Trouvé.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Meeting_d'Aur%C3%A9lie_Trouv%C3%A9.jpg",
+  "auteur": "Azimuts14",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Christine Lavarde": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Christine_lavarde_portrait.jpg/250px-Christine_lavarde_portrait.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Christine_lavarde_portrait.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Christine_lavarde_portrait.jpg",
+  "auteur": "Unknown authorUnknown author",
+  "licence": "CC0"
+ },
+ "Bernard Delcros": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bernard_Delcros.jpg/250px-Bernard_Delcros.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Bernard_Delcros.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bernard_Delcros.jpg",
+  "auteur": "User:Bernard Delcros",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Amélie de Montchalin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Montchalin_Portrait_2025_%28cropped%29.jpg/250px-Montchalin_Portrait_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Montchalin_Portrait_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Montchalin_Portrait_2025_(cropped).jpg",
+  "auteur": "Ministère de l'Action et des Comptes publics",
+  "licence": "Licence Ouverte"
+ },
+ "Éric Allain": null
 }

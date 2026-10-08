@@ -1,5 +1,484 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-08",
+  "minutes": 15,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : Nuñez suspend les grenades assourdissantes pour le mouvement",
+    "court": "Lycées : grenades suspendues",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/H%C3%B4tel_de_Beauvau_JP2010_3.jpg/1280px-H%C3%B4tel_de_Beauvau_JP2010_3.jpg",
+    "legende": "Le jardin de l'hôtel de Beauvau, siège du ministère de l'Intérieur (illustration)",
+    "chapeau": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a annoncé sur RTL la suspension de l'usage des grenades assourdissantes « pour le mouvement lycéen », après qu'un lycéen de 15 ans a eu une main arrachée lundi lors d'une manifestation à Lens (Pas-de-Calais), dans des circonstances qui restent à déterminer.…",
+    "eclairage": "Que décide, et que ne décide pas, cette suspension ?",
+    "chiffres": [
+     {
+      "valeur": "6 547",
+      "legende": "interpellations depuis le début"
+     },
+     {
+      "valeur": "18",
+      "legende": "enquêtes confiées à l'IGPN"
+     },
+     {
+      "valeur": "700+",
+      "legende": "policiers et gendarmes blessés"
+     }
+    ],
+    "passe": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a annoncé sur RTL la suspension de l'usage des grenades assourdissantes « pour le mouvement lycéen », après qu'un lycéen de 15 ans a eu une main arrachée lundi lors d'une manifestation à Lens (Pas-de-Calais), dans des circonstances qui restent à déterminer. Selon le maire de Wingles, commune où habite le jeune homme, il a été amputé de la main gauche et a reçu une greffe. Dans un télégramme daté de mardi, le directeur général de la police nationale avait déjà suspendu « à titre conservatoire » l'usage de la grenade assourdissante ASSD. L'IGPN, la « police des polices », a été saisie de dix-huit enquêtes, a indiqué le ministre. Selon l'AFP, 6 547 interpellations ont eu lieu depuis le début du mouvement, dont 488 mardi, et plus de 700 policiers et gendarmes ont été blessés.",
+    "points": [],
+    "explication": "La mesure vient du ministre de l'Intérieur : elle vise les grenades assourdissantes, uniquement pour le mouvement lycéen, et « tant que la lumière n'a pas été faite ». Elle ne dit rien de la responsabilité des forces de l'ordre : l'IGPN doit établir si le lycéen a ramassé la grenade ou si elle a atterri sur lui, et si le tir était réglementaire. La gauche réclame une interdiction plus large, grenades et lanceurs de balles de défense (LBD) compris, et le groupe socialiste annonce une proposition de loi contre les armes mutilantes face à des manifestations impliquant des mineurs.",
+    "chronologie": [
+     {
+      "quand": "5 OCT.",
+      "texte": "Un lycéen de 15 ans a une main arrachée à Lens."
+     },
+     {
+      "quand": "6 OCT.",
+      "texte": "Télégramme de la police nationale : la grenade ASSD est suspendue « à titre conservatoire »."
+     },
+     {
+      "quand": "7 OCT.",
+      "texte": "Laurent Nuñez annonce la suspension sur RTL."
+     },
+     {
+      "quand": "8 OCT.",
+      "texte": "Nouvelle journée d'action lycéenne."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.letemps.ch/monde/france/face-au-mouvement-lyceen-en-france-le-ministre-de-l-interieur-laurent-nunez-suspend-l-usage-des-grenades-assourdissantes",
+      "nom": "Le Temps, avec AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/manifestations-lyceennes-sebastien-lecornu-sexprime-ce-soir-laurent-nunez-annonce-la-suspension-de-lusage-des-grenades-assourdissantes",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/lens/blocage-des-lycees-le-ministre-de-l-interieur-suspend-l-usage-des-grenades-assourdissantes-5157400",
+      "nom": "ICI"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur, sur RTL, mercredi 7 octobre",
+      "texte": "« Je suspends leur usage pour le mouvement des lycéens tant que la lumière n’a pas été faite sur ce qui s’est passé dans cette affaire »",
+      "url": "https://www.letemps.ch/monde/france/face-au-mouvement-lyceen-en-france-le-ministre-de-l-interieur-laurent-nunez-suspend-l-usage-des-grenades-assourdissantes",
+      "source": "Le Temps, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur national de LFI",
+      "texte": "« Il aura fallu plusieurs enfants mutilés à vie pour que Nuñez renonce à utiliser des grenades contre des lycéens »",
+      "url": "https://www.letemps.ch/monde/france/face-au-mouvement-lyceen-en-france-le-ministre-de-l-interieur-laurent-nunez-suspend-l-usage-des-grenades-assourdissantes",
+      "source": "Le Temps, avec AFP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Boris Vallaud",
+      "contexte": "président du groupe socialiste à l'Assemblée",
+      "texte": "« ces armes n’ont rien à faire face à une manifestation lycéenne »",
+      "url": "https://www.letemps.ch/monde/france/face-au-mouvement-lyceen-en-france-le-ministre-de-l-interieur-laurent-nunez-suspend-l-usage-des-grenades-assourdissantes",
+      "source": "Le Temps, avec AFP"
+     }
+    ],
+    "apres": "Poursuite des dix-huit enquêtes de l'IGPN ; journée d'action lycéenne jeudi 8 octobre ; dépôt annoncé d'une proposition de loi socialiste sur les armes mutilantes.",
+    "change": "Les grenades assourdissantes ne sont plus utilisées face aux rassemblements lycéens le temps de l'enquête. Les circonstances de la blessure de Lens restent à établir : aucune responsabilité n'est établie à ce stade.",
+    "credit": {
+     "auteur": "Croquant",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Beauvau_JP2010_3.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "GOUVERNEMENT",
+    "titre": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
+    "court": "Lecornu : 10 millions de barils libérés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Facade_%40_Jardin_de_l'H%C3%B4tel_Matignon_%40_Paris_(34261927513).jpg/1280px-Facade_%40_Jardin_de_l'H%C3%B4tel_Matignon_%40_Paris_(34261927513).jpg",
+    "legende": "La façade de l'hôtel de Matignon côté jardin (illustration)",
+    "chapeau": "Mercredi 7 octobre au soir, le Premier ministre Sébastien Lecornu s'est adressé aux Français depuis Matignon, à la veille d'une nouvelle journée d'action lycéenne. Il a annoncé que 10 millions de barils de gazole issus des réserves stratégiques seraient mis à disposition des distributeurs, au prix de revient, pour une…",
+    "eclairage": "Que sont les réserves stratégiques de carburant ?",
+    "chiffres": [
+     {
+      "valeur": "10 M",
+      "legende": "barils de gazole libérés"
+     },
+     {
+      "valeur": "12-18c",
+      "legende": "baisse annoncée par litre"
+     },
+     {
+      "valeur": "40 000",
+      "legende": "contributions des lycéens"
+     }
+    ],
+    "passe": "Mercredi 7 octobre au soir, le Premier ministre Sébastien Lecornu s'est adressé aux Français depuis Matignon, à la veille d'une nouvelle journée d'action lycéenne. Il a annoncé que 10 millions de barils de gazole issus des réserves stratégiques seraient mis à disposition des distributeurs, au prix de revient, pour une baisse à la pompe qu'il évalue entre 12 et 18 centimes par litre ; il réunira les distributeurs à Matignon « dans les tout prochains jours ». Sur les lycées, il a dit que « les premières décisions du gouvernement seront présentées à la fin du mois d'octobre » et fait état de 40 000 contributions sur la plateforme ouverte aux élèves. Il a affirmé que le prix de l'électricité ne devait pas augmenter cet hiver et demandé à EDF de mobiliser au maximum ses capacités de production. Il a redit l'objectif d'un déficit public de 5 % du PIB en 2027, après 5,4 % en 2026.",
+    "points": [],
+    "explication": "Ce sont des stocks de produits pétroliers que l'État conserve pour les situations de crise. Ici, selon le Premier ministre, le gazole concerné a été acheté avant la flambée des cours et est cédé au prix de revient aux distributeurs : la baisse de 12 à 18 centimes par litre est une estimation du gouvernement, pas un résultat mesuré. Une allocution est une prise de parole télévisée du chef du gouvernement, en dehors des séances du Parlement.",
+    "chronologie": [
+     {
+      "quand": "7 OCT.",
+      "texte": "Allocution depuis Matignon."
+     },
+     {
+      "quand": "8 OCT.",
+      "texte": "Nouvelles mesures pour les agriculteurs annoncées au Sommet de l'élevage, à Cournon-d'Auvergne."
+     },
+     {
+      "quand": "23 OCT.",
+      "texte": "Fin de la plateforme de consultation des élèves."
+     },
+     {
+      "quand": "FIN OCT.",
+      "texte": "Premières décisions du gouvernement pour les lycées."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/lyceens-carburant-agriculteurs-sebastien-lecornu-appelle-a-lapaisement-sans-annoncer-de-moyens-supplementaires",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-france-va-liberer-10-mln-de-barils-de-gazole-de-ses-reserves-lecornu-7904f06dce7dcf7f234b8f8e3e3f2b04",
+      "nom": "Reuters via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate du RN à la présidentielle",
+      "texte": "« Comme d'habitude, ils finissent par mettre en œuvre nos propositions après les avoir ridiculisées »",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/liberation-de-10-millions-de-barils-de-gazole-comme-d-habitude-ils-finissent-par-mettre-en-uvre-nos-propositions-apres-les-avoir-ridiculisees-reagit-marine-le-pen_8227372.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale des Écologistes",
+      "texte": "« La stratégie du gouvernement est claire, gagner du temps »",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, allocution du 7 octobre",
+      "texte": "« La colère des jeunes ne vient pas de nulle part »",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Ayda Hadizadeh",
+      "contexte": "députée socialiste",
+      "texte": "« ramener la révolte des lycéens à un problème de démocratie lycéenne »",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Aurélie Trouvé",
+      "contexte": "députée LFI",
+      "texte": "« le blocage des prix et des marges »",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Réunion des distributeurs à Matignon dans les prochains jours ; annonces agricoles jeudi 8 octobre ; premières décisions pour les lycées fin octobre ; décision promise sur le prix de l'électricité.",
+    "change": "Le gouvernement annonce une baisse du gazole à la pompe de 12 à 18 centimes par litre grâce aux réserves, et renvoie à la fin octobre ses décisions pour les lycéens ; les oppositions jugent ces annonces insuffisantes ou en reprise de leurs propositions.",
+    "credit": {
+     "auteur": "Guilhem Vellut",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Facade_@_Jardin_de_l'H%C3%B4tel_Matignon_@_Paris_(34261927513).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : le HCFP juge « optimiste » la croissance de 1 % prévue",
+    "court": "Budget 2027 : une croissance « optimiste »",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Palais_Cambon,_Grand'Chambre_(1).jpg/1280px-Palais_Cambon,_Grand'Chambre_(1).jpg",
+    "legende": "Inscription de l'article 15 de la Déclaration de 1789 au palais Cambon, siège de la Cour des comptes (illustration)",
+    "chapeau": "Mercredi 7 octobre, Amélie de Montchalin, première présidente de la Cour des comptes et présidente de droit du Haut Conseil des finances publiques (HCFP), a présenté aux parlementaires l'avis de l'institution sur le projet de budget 2027, publié le 1er octobre. Le HCFP juge « optimiste » la prévision de croissance de 1…",
+    "eclairage": "À quoi sert le Haut Conseil des finances publiques ?",
+    "chiffres": [
+     {
+      "valeur": "1 %",
+      "legende": "croissance 2027 prévue"
+     },
+     {
+      "valeur": "5,0 %",
+      "legende": "déficit visé en 2027"
+     },
+     {
+      "valeur": "91 Md€",
+      "legende": "charge de la dette en 2027"
+     }
+    ],
+    "passe": "Mercredi 7 octobre, Amélie de Montchalin, première présidente de la Cour des comptes et présidente de droit du Haut Conseil des finances publiques (HCFP), a présenté aux parlementaires l'avis de l'institution sur le projet de budget 2027, publié le 1er octobre. Le HCFP juge « optimiste » la prévision de croissance de 1 % du gouvernement : l'OFCE et Rexecode tablent sur 0,7 % et la Banque de France sur 0,9 %, ce qui porterait le déficit à 5,2 ou 5,3 % du PIB au lieu de 5,0 % (après 5,4 % estimés en 2026). Le HCFP relève un « effort substantiel » d'environ 40 milliards d'euros hors charge de la dette (17 milliards de recettes nouvelles, 23 milliards d'économies), réduit par la hausse des taux d'intérêt. Selon Bercy, la charge de la dette augmenterait de 25 milliards d'euros pour atteindre 91 milliards en 2027. Le ministre de l'Économie Roland Lescure et le ministre des Comptes publics David Amiel ont ensuite défendu le texte devant la commission des finances du Sénat ; une contribution nette de 5,5 milliards d'euros est demandée aux collectivités territoriales en 2027.",
+    "points": [],
+    "explication": "Le HCFP est placé auprès de la Cour des comptes. Il évalue le réalisme du cadrage macroéconomique et budgétaire des textes financiers : il donne un avis, il ne vote pas le budget. Le Parlement a jusqu'à fin décembre pour adopter la loi de finances ; la charge de la dette, c'est-à-dire les intérêts versés chaque année, pèse sur les marges de manœuvre.",
+    "chronologie": [
+     {
+      "quand": "1er OCT.",
+      "texte": "Projet de loi de finances 2027 présenté ; avis du HCFP publié."
+     },
+     {
+      "quand": "7 OCT.",
+      "texte": "Avis présenté aux parlementaires ; audition de MM. Lescure et Amiel au Sénat."
+     },
+     {
+      "quand": "13 OCT.",
+      "texte": "Début de la discussion en séance publique à l'Assemblée."
+     },
+     {
+      "quand": "31 DÉC.",
+      "texte": "Adoption attendue avant la fin de l'année."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-haut-conseil-des-finances-publiques-pointe-des-previsions-optimistes-du-gouvernement",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/economie/collectivites-locales-niveau-de-leffort-ou-encore-fiscalite-les-premiers-signes-de-mecontentement-a-legard-du-budget-2027-se-font-jour-au-senat",
+      "nom": "Public Sénat (audition)"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/02/le-gouvernement-francais-prevoit-1-de-croissance-en-2027-quen-pensent-les-experts",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17B3210.raw",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie, devant la commission des finances du Sénat",
+      "texte": "« est ambitieux, il va même être difficile à atteindre »",
+      "url": "https://www.publicsenat.fr/actualites/economie/collectivites-locales-niveau-de-leffort-ou-encore-fiscalite-les-premiers-signes-de-mecontentement-a-legard-du-budget-2027-se-font-jour-au-senat",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Christine Lavarde",
+      "contexte": "sénatrice LR, rapporteure générale de la commission des finances",
+      "texte": "« J’avoue que je suis stupéfaite par votre optimisme »",
+      "url": "https://www.publicsenat.fr/actualites/economie/collectivites-locales-niveau-de-leffort-ou-encore-fiscalite-les-premiers-signes-de-mecontentement-a-legard-du-budget-2027-se-font-jour-au-senat",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e3f3fd",
+      "couleur": "#2d9cdb",
+      "parti": "CENTRISTES UC",
+      "qui": "Bernard Delcros",
+      "contexte": "sénateur de l'Union centriste",
+      "texte": "« dès lors qu’elle est juste et qu’elle est dans un niveau qui est acceptable »",
+      "url": "https://www.publicsenat.fr/actualites/economie/collectivites-locales-niveau-de-leffort-ou-encore-fiscalite-les-premiers-signes-de-mecontentement-a-legard-du-budget-2027-se-font-jour-au-senat",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "HCFP",
+      "qui": "Amélie de Montchalin",
+      "contexte": "présidente du HCFP, première présidente de la Cour des comptes",
+      "texte": "« Le chiffre de croissance de 1 % est optimiste au regard de l’incertitude géopolitique et financière »",
+      "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-haut-conseil-des-finances-publiques-pointe-des-previsions-optimistes-du-gouvernement",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Début de la discussion en séance publique à l'Assemblée le 13 octobre ; adoption du budget attendue avant fin décembre.",
+    "change": "Le HCFP et les sénateurs de la commission des finances mettent en doute la prévision de croissance de 1 %, sur laquelle repose l'objectif de 5,0 % de déficit ; le gouvernement la maintient.",
+    "credit": {
+     "auteur": "Ibex73",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Palais_Cambon,_Grand'Chambre_(1).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ÉCOLOGIE",
+    "titre": "Transition écologique : la Cour des comptes juge les résultats « insuffisants »",
+    "court": "Transition : la Cour des comptes alerte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Scay-FR-08-%C3%A9oliennes-a1.jpg/1280px-Scay-FR-08-%C3%A9oliennes-a1.jpg",
+    "legende": "Éoliennes dans un paysage agricole en France (illustration)",
+    "chapeau": "Mercredi 7 octobre, la Cour des comptes a publié son rapport public sur la transition écologique, présenté dans la journée à la commission du développement durable de l'Assemblée nationale par sa première présidente, Amélie de Montchalin. Elle juge les résultats « insuffisants » et évalue les besoins d'investissements…",
+    "eclairage": "Que fait la Cour des comptes ?",
+    "chiffres": [
+     {
+      "valeur": "79 Md€",
+      "legende": "investis en 2024 (bas-carbone)"
+     },
+     {
+      "valeur": "82 Md€",
+      "legende": "supplémentaires en 2030"
+     },
+     {
+      "valeur": "1,3 %",
+      "legende": "du PIB mondial : coût si retard"
+     }
+    ],
+    "passe": "Mercredi 7 octobre, la Cour des comptes a publié son rapport public sur la transition écologique, présenté dans la journée à la commission du développement durable de l'Assemblée nationale par sa première présidente, Amélie de Montchalin. Elle juge les résultats « insuffisants » et évalue les besoins d'investissements bas-carbone à 82 milliards d'euros supplémentaires en 2030, par rapport aux 79 milliards investis en 2024 (franceinfo) ; Public Sénat rapporte un financement de 161,4 milliards d'euros à l'horizon 2030 pour les objectifs d'atténuation du changement climatique, dont plus de 80 % concernent d'abord le secteur privé. La Cour critique un « affichage d'objectif ambitieux » sans « programmation financière sur plusieurs années », ainsi que des changements de règles trop fréquents. Elle estime qu'un décalage mondial de trois ans des politiques climatiques coordonnées ferait passer le coût économique de la transition de 0,5 % à 1,3 % du PIB mondial d'ici 2030.",
+    "points": [],
+    "explication": "La Cour des comptes contrôle l'emploi de l'argent public et publie des rapports. Son rapport passe en revue six domaines : émissions de gaz à effet de serre, économie circulaire, biodiversité, eau, pollutions et prévention des risques naturels. Parmi ses recommandations figurent le renforcement du secrétariat général à la planification écologique et une place plus grande donnée à la stratégie de financement de la transition dans les débats budgétaires au Parlement.",
+    "chronologie": [
+     {
+      "quand": "2024",
+      "texte": "79 milliards d'euros investis dans le bas-carbone."
+     },
+     {
+      "quand": "2027",
+      "texte": "Objectif de bon état de toutes les masses d'eau de surface jugé hors d'atteinte."
+     },
+     {
+      "quand": "2030",
+      "texte": "Horizon des besoins d'investissement chiffrés par la Cour."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/environnement/la-cour-des-comptes-appelle-a-mieux-depenser-en-matiere-de-transition-ecologique-et-pointe-des-resultats-insuffisants_8226955.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/environnement/transition-ecologique-la-cour-des-comptes-appelle-le-gouvernement-a-definir-des-trajectoires-credibles-de-financement-pour-respecter-ses-objectifs",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/developpement-durable/actualites/rapport-de-la-cour-des-comptes-sur-la-transition-ecologique-audition-d-amelie-de-montchalin-premiere-presidente-de-la-cour-des-comptes",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COUR DES COMPTES",
+      "qui": "Amélie de Montchalin",
+      "contexte": "première présidente, mercredi 7 octobre",
+      "texte": "« n’est pas inatteignable du moment que nous sommes prêts à faire des choix »",
+      "url": "https://www.franceinfo.fr/environnement/la-cour-des-comptes-appelle-a-mieux-depenser-en-matiere-de-transition-ecologique-et-pointe-des-resultats-insuffisants_8226955.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COUR DES COMPTES",
+      "qui": "Éric Allain",
+      "contexte": "conseiller maître à la Cour des comptes",
+      "texte": "« La réglementation n’est pas un gros mot »",
+      "url": "https://www.publicsenat.fr/actualites/environnement/transition-ecologique-la-cour-des-comptes-appelle-le-gouvernement-a-definir-des-trajectoires-credibles-de-financement-pour-respecter-ses-objectifs",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Audition à l'Assemblée le 7 octobre ; le rapport nourrira les débats sur le projet de loi de finances 2027.",
+    "change": "La Cour fixe un ordre de grandeur des investissements à engager d'ici 2030 et demande une programmation financière pluriannuelle, dans un budget 2027 qui reste à voter.",
+    "credit": {
+     "auteur": "François Goglins",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Scay-FR-08-%C3%A9oliennes-a1.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "8",
+    "mois": "OCT.",
+    "texte": "Lycées : journée d'action (« acte IV ») ; agriculture : annonces de la ministre au Sommet de l'élevage, à Cournon-d'Auvergne."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début de la discussion en séance publique à l'Assemblée ; vote solennel sur la « loi intégrale » contre les violences sexuelles et sexistes."
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Lycées : fin de la plateforme où les élèves exposent leurs difficultés et leurs attentes."
+   },
+   {
+    "jour": "FIN",
+    "mois": "OCT.",
+    "texte": "Lycées : premières décisions du gouvernement."
+   },
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Brésil : second tour de la présidentielle, Flavio Bolsonaro face à Lula."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "HCFP",
+    "definition": "Haut Conseil des finances publiques, placé auprès de la Cour des comptes : il évalue le réalisme des prévisions du budget et rend un avis, sans voter."
+   },
+   {
+    "terme": "IGPN",
+    "definition": "Inspection générale de la police nationale, la « police des polices » : elle enquête sur les faits mettant en cause des policiers."
+   },
+   {
+    "terme": "Réserves stratégiques",
+    "definition": "Stocks de produits pétroliers que l'État conserve pour faire face aux situations de crise."
+   },
+   {
+    "terme": "Charge de la dette",
+    "definition": "Intérêts que l'État verse chaque année sur sa dette ; Bercy prévoit 91 milliards d'euros en 2027."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le Haut Conseil des finances publiques juge « pessimiste » la prévision de croissance de 1 % du gouvernement pour 2027.",
+   "reponse": false,
+   "explication": "Faux : selon Public Sénat, le HCFP juge cette prévision « optimiste » ; l'OFCE et Rexecode prévoient 0,7 % et la Banque de France 0,9 %."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-07",
   "minutes": 10,

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "sondage": {
   "methode": "moyenne",
   "nb": 9,
@@ -61,7 +61,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 146159414.858746,
+ "polymarket_volume": 146606011.809786,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -81,27 +81,40 @@
     "d": 0
    },
    "attention": {
-    "v": 56.4,
-    "d": 12,
+    "v": 80.8,
+    "d": 30.5,
     "parts": {
-     "Wikipedia": 4.5,
      "réseaux": 17,
      "citations": 27.6,
-     "abonnés": 9.5,
-     "YouTube": 3.9
+     "abonnés": 30.3,
+     "YouTube": 2.9
     }
    },
    "polymarket": {
     "v": 43.2,
-    "d": 0.5,
-    "d24": 0.7,
-    "d30": 6.2,
-    "vol": 3348611,
-    "vol7": 513474,
+    "d": 0.1,
+    "d24": null,
+    "d30": 7.4,
+    "vol": 3383194,
+    "vol7": 496395,
     "haut": 45.7,
     "bas": 34.1
    },
    "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "candidate du RN à la présidentielle",
+     "texte": "« Comme d'habitude, ils finissent par mettre en œuvre nos propositions après les avoir ridiculisées »",
+     "url": "https://www.franceinfo.fr/economie/automobile/essence/liberation-de-10-millions-de-barils-de-gazole-comme-d-habitude-ils-finissent-par-mettre-en-uvre-nos-propositions-apres-les-avoir-ridiculisees-reagit-marine-le-pen_8227372.html",
+     "source": "franceinfo",
+     "date": "2026-10-08",
+     "rubrique": "politique",
+     "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
+     "href": "/politique/2026-10-08/2"
+    },
     {
      "fond": "#e4e7f2",
      "couleur": "#0b1f4d",
@@ -145,7 +158,7 @@
      "href": "/politique/2026-10-04/3"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -253,9 +266,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 56
+    "attention": 81
    },
-   "score": 91,
+   "score": 96,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -275,22 +288,22 @@
    },
    "attention": {
     "v": 100,
-    "d": -6.3,
+    "d": -7.2,
     "parts": {
-     "Wikipedia": 11.3,
+     "Wikipedia": 11.8,
      "réseaux": 41.8,
      "citations": 17.7,
-     "abonnés": 17.8,
-     "YouTube": 41.8
+     "abonnés": 16.7,
+     "YouTube": 42.1
     }
    },
    "polymarket": {
     "v": 12.5,
-    "d": -2,
+    "d": -1,
     "d24": null,
-    "d30": null,
-    "vol": 1929917,
-    "vol7": 198900,
+    "d30": 1,
+    "vol": 1948074,
+    "vol7": 194200,
     "haut": 15.5,
     "bas": 11.5
    },
@@ -509,23 +522,23 @@
     "d": -0.8
    },
    "attention": {
-    "v": 16.8,
-    "d": 5.4,
+    "v": 16.5,
+    "d": 4.5,
     "parts": {
-     "Wikipedia": 6.5,
+     "Wikipedia": 6.3,
      "réseaux": 1.2,
      "citations": 10.4,
-     "abonnés": 0.9,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 17.5,
-    "d": -1,
+    "d": -2,
     "d24": null,
-    "d30": -12,
-    "vol": 1964082,
-    "vol7": 159333,
+    "d30": -13,
+    "vol": 1989142,
+    "vol7": 156207,
     "haut": 30.5,
     "bas": 17.5
    },
@@ -688,24 +701,24 @@
     "d": -0.6
    },
    "attention": {
-    "v": 22.2,
-    "d": 4.5,
+    "v": 22.6,
+    "d": 4.4,
     "parts": {
-     "Wikipedia": 4.3,
+     "Wikipedia": 4.7,
      "réseaux": 8.2,
      "citations": 8.9,
-     "abonnés": 1.3,
+     "abonnés": 1.5,
      "YouTube": 0.6
     }
    },
    "polymarket": {
-    "v": 2.1,
-    "d": 0.1,
-    "d24": null,
-    "d30": -0.9,
-    "vol": 2662257,
-    "vol7": 166869,
-    "haut": 3.1,
+    "v": 3,
+    "d": 0.8,
+    "d24": 0.9,
+    "d30": 0.1,
+    "vol": 2719442,
+    "vol7": 201734,
+    "haut": 3,
     "bas": 1.2
    },
    "declarations": [
@@ -845,10 +858,10 @@
    },
    "composantes": {
     "sondage": 31,
-    "polymarket": 5,
-    "attention": 22
+    "polymarket": 7,
+    "attention": 23
    },
-   "score": 21,
+   "score": 22,
    "rangs": {
     "sondage": 4,
     "polymarket": 6
@@ -867,25 +880,25 @@
     "d": -1.9
    },
    "attention": {
-    "v": 22.8,
-    "d": 2.6,
+    "v": 22.5,
+    "d": 2.7,
     "parts": {
-     "Wikipedia": 13.2,
+     "Wikipedia": 12.9,
      "réseaux": 0.6,
      "citations": 12.2,
-     "abonnés": 0.5,
+     "abonnés": 0.2,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.4,
-    "d": -0.3,
-    "d24": -0.1,
-    "d30": -0.7,
-    "vol": 2062151,
-    "vol7": 148235,
+    "v": 1.1,
+    "d": -0.7,
+    "d24": -0.3,
+    "d30": -1,
+    "vol": 2076066,
+    "vol7": 144489,
     "haut": 2.3,
-    "bas": 1.4
+    "bas": 1.1
    },
    "declarations": [
     {
@@ -1030,7 +1043,48 @@
    "score": 21,
    "rangs": {
     "sondage": 5,
-    "polymarket": 7
+    "polymarket": 8
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 93.5,
+    "d": 8.3,
+    "parts": {
+     "Wikipedia": 18.8,
+     "abonnés": 16.5,
+     "YouTube": 47.1
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": 0.1,
+    "d24": 0.1,
+    "d30": 0.1,
+    "vol": 2428452,
+    "vol7": 182720,
+    "haut": 1.7,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 3,
+    "attention": 94
+   },
+   "score": 20,
+   "rangs": {
+    "polymarket": 9
    }
   },
   {
@@ -1043,25 +1097,25 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 54.5,
-    "d": 0.1,
+    "v": 46.9,
+    "d": -13.8,
     "parts": {
-     "Wikipedia": 21.7,
+     "Wikipedia": 23.6,
      "réseaux": 10.4,
      "citations": 1.5,
-     "abonnés": 40.2,
-     "YouTube": 3.4
+     "abonnés": 24.7,
+     "YouTube": 3
     }
    },
    "polymarket": {
-    "v": 12.3,
-    "d": 4.5,
-    "d24": -0.9,
-    "d30": 9.1,
-    "vol": 4033763,
-    "vol7": 1418215,
+    "v": 12.4,
+    "d": 4.8,
+    "d24": 0.1,
+    "d30": 8.5,
+    "vol": 4106924,
+    "vol7": 1313884,
     "haut": 13.2,
-    "bas": 2.9
+    "bas": 3.7
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1165,53 +1219,12 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 28,
-    "attention": 55
-   },
-   "score": 19,
-   "rangs": {
-    "polymarket": 4
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 88.8,
-    "d": 2,
-    "parts": {
-     "Wikipedia": 17.4,
-     "abonnés": 15.9,
-     "YouTube": 45.5
-    }
-   },
-   "polymarket": {
-    "v": 1,
-    "d": 0.1,
-    "d24": 0.1,
-    "d30": 0.1,
-    "vol": 2408848,
-    "vol7": 179237,
-    "haut": 1.7,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 89
+    "polymarket": 29,
+    "attention": 47
    },
    "score": 18,
    "rangs": {
-    "polymarket": 10
+    "polymarket": 4
    }
   },
   {
@@ -1227,23 +1240,23 @@
     "d": 0.3
    },
    "attention": {
-    "v": 19.3,
-    "d": 6.4,
+    "v": 18.6,
+    "d": 5.2,
     "parts": {
      "Wikipedia": 3.5,
      "réseaux": 5.7,
      "citations": 9,
-     "abonnés": 2.4,
+     "abonnés": 1.3,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.2,
-    "d": -0.3,
-    "d24": null,
-    "d30": -0.1,
-    "vol": 2609479,
-    "vol7": 182599,
+    "v": 1.3,
+    "d": 0.1,
+    "d24": 0.1,
+    "d30": null,
+    "vol": 2641515,
+    "vol7": 202170,
     "haut": 2.5,
     "bas": 1.1
    },
@@ -1361,7 +1374,7 @@
    "score": 17,
    "rangs": {
     "sondage": 6,
-    "polymarket": 8
+    "polymarket": 7
    }
   },
   {
@@ -1377,23 +1390,23 @@
     "d": -2.4
    },
    "attention": {
-    "v": 9.2,
-    "d": 0.6,
+    "v": 8.4,
+    "d": -0.6,
     "parts": {
      "Wikipedia": 2.8,
      "réseaux": 1.8,
      "citations": 3.6,
-     "abonnés": 2.8,
+     "abonnés": 1.4,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 3.6,
+    "v": 3.5,
     "d": -1.9,
-    "d24": -1.4,
-    "d30": 0.7,
-    "vol": 2241908,
-    "vol7": 163030,
+    "d24": -0.2,
+    "d30": null,
+    "vol": 2267320,
+    "vol7": 175426,
     "haut": 6.3,
     "bas": 2.8
    },
@@ -1506,7 +1519,7 @@
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
-    "attention": 9
+    "attention": 8
    },
    "score": 14,
    "rangs": {
@@ -1527,23 +1540,23 @@
     "d": 0.8
    },
    "attention": {
-    "v": 15.8,
-    "d": 2.8,
+    "v": 14.9,
+    "d": 1.9,
     "parts": {
-     "Wikipedia": 5,
+     "Wikipedia": 5.2,
      "réseaux": 6,
      "citations": 1.2,
-     "abonnés": 4,
-     "YouTube": 4.2
+     "abonnés": 2.4,
+     "YouTube": 3.8
     }
    },
    "polymarket": {
     "v": 0.9,
     "d": -0.2,
-    "d24": -0.1,
+    "d24": null,
     "d30": 0.3,
-    "vol": 2750178,
-    "vol7": 141784,
+    "vol": 2750490,
+    "vol7": 127867,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -1656,7 +1669,7 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 2,
-    "attention": 16
+    "attention": 15
    },
    "score": 10,
    "rangs": {
@@ -1677,10 +1690,10 @@
     "d": 0.2
    },
    "attention": {
-    "v": 5.6,
-    "d": -30.6,
+    "v": 5.5,
+    "d": -25.8,
     "parts": {
-     "Wikipedia": 2.4,
+     "Wikipedia": 2.3,
      "réseaux": 2.2,
      "citations": 1,
      "abonnés": 0.5,
@@ -1692,12 +1705,26 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4408187,
-    "vol7": 127375,
+    "vol": 4420736,
+    "vol7": 126457,
     "haut": null,
     "bas": null
    },
    "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale des Écologistes",
+     "texte": "« La stratégie du gouvernement est claire, gagner du temps »",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
+     "source": "franceinfo",
+     "date": "2026-10-08",
+     "rubrique": "politique",
+     "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
+     "href": "/politique/2026-10-08/2"
+    },
     {
      "fond": "#e2f7e9",
      "couleur": "#1f9d55",
@@ -1727,7 +1754,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 2,
+   "nbDeclarations": 3,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -1856,13 +1883,13 @@
     "d": -0.2
    },
    "attention": {
-    "v": 5.4,
-    "d": 2,
+    "v": 4.9,
+    "d": 1,
     "parts": {
-     "Wikipedia": 1.2,
+     "Wikipedia": 1.4,
      "réseaux": 1.4,
      "citations": 1.6,
-     "abonnés": 2.5,
+     "abonnés": 1.4,
      "YouTube": 0
     }
    },
@@ -1872,7 +1899,7 @@
     "d24": null,
     "d30": null,
     "vol": 4248945,
-    "vol7": 4652,
+    "vol7": 0,
     "haut": null,
     "bas": null
    },
@@ -2035,23 +2062,23 @@
     "d": -1
    },
    "attention": {
-    "v": 7,
-    "d": -2,
+    "v": 7.3,
+    "d": -1.6,
     "parts": {
-     "Wikipedia": 3.4,
+     "Wikipedia": 3.3,
      "réseaux": 0.3,
      "citations": 3.5,
-     "abonnés": 1.2,
+     "abonnés": 1.9,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.2,
-    "d": 0.8,
-    "d24": 0.7,
-    "d30": -0.2,
-    "vol": 2334171,
-    "vol7": 230956,
+    "v": 1,
+    "d": 0.6,
+    "d24": -0.2,
+    "d30": -0.5,
+    "vol": 2376592,
+    "vol7": 253190,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -2178,13 +2205,13 @@
    },
    "composantes": {
     "sondage": 6,
-    "polymarket": 3,
+    "polymarket": 2,
     "attention": 7
    },
    "score": 5,
    "rangs": {
     "sondage": 11,
-    "polymarket": 9
+    "polymarket": 10
    }
   },
   {
@@ -2197,14 +2224,14 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 7.9,
-    "d": 1.1,
+    "v": 7.8,
+    "d": 1,
     "parts": {
      "Wikipedia": 2.7,
      "réseaux": 3.6,
      "citations": 1.1,
      "abonnés": 0.7,
-     "YouTube": 0.6
+     "YouTube": 0.5
     }
    },
    "polymarket": {
@@ -2212,8 +2239,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4589564,
-    "vol7": 211663,
+    "vol": 4603205,
+    "vol7": 211746,
     "haut": null,
     "bas": null
    },
@@ -2343,9 +2370,10 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1,
-    "d": 0.5,
+    "v": 1.4,
+    "d": 0.3,
     "parts": {
+     "Wikipedia": 0.7,
      "réseaux": 0,
      "citations": 0.8,
      "abonnés": 0,
@@ -2357,8 +2385,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 6153790,
-    "vol7": 1431,
+    "vol": 6153889,
+    "vol7": 1521,
     "haut": null,
     "bas": null
    },
@@ -2584,6 +2612,43 @@
     "Bruno Retailleau": 1.2,
     "Dominique de Villepin": 1.2,
     "Sarah Knafo": 1,
+    "Éric Zemmour": 0.9,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 93.5,
+    "Marine Le Pen": 80.8,
+    "David Lisnard": 46.9,
+    "Gabriel Attal": 22.6,
+    "Raphaël Glucksmann": 22.5,
+    "Bruno Retailleau": 18.6,
+    "Édouard Philippe": 16.5,
+    "Éric Zemmour": 14.9,
+    "François Hollande": 8.4,
+    "François Ruffin": 7.8,
+    "Dominique de Villepin": 7.3,
+    "Marine Tondelier": 5.5,
+    "Fabien Roussel": 4.9,
+    "Xavier Bertrand": 1.4
+   },
+   "polymarket": {
+    "Marine Le Pen": 43.2,
+    "Édouard Philippe": 17.5,
+    "Jean-Luc Mélenchon": 12.5,
+    "David Lisnard": 12.4,
+    "François Hollande": 3.5,
+    "Gabriel Attal": 3,
+    "Bruno Retailleau": 1.3,
+    "Sarah Knafo": 1.1,
+    "Raphaël Glucksmann": 1.1,
+    "Dominique de Villepin": 1,
     "Éric Zemmour": 0.9,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
