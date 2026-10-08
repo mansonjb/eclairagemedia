@@ -1623,8 +1623,8 @@
     "theme": "AGRICULTURE",
     "titre": "Engrais : moins de cadmium d'ici 2030",
     "court": "Engrais : moins de cadmium d'ici 2030",
-    "image": null,
-    "legende": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg/1280px-Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg",
+    "legende": "Épandage d'engrais dans une prairie (illustration)",
     "chapeau": "Le 2 octobre 2026, le ministère de la Transition écologique a publié trois textes (deux arrêtés et un décret) sur la qualité des matières fertilisantes. Ils fixent une trajectoire de baisse de la teneur en cadmium des engrais phosphatés : 60 milligrammes par kilogramme de pentoxyde de phosphore (P₂O₅) au 1er janvier…",
     "eclairage": "Pourquoi du cadmium dans un engrais ?",
     "chiffres": [
@@ -1686,7 +1686,13 @@
      }
     ],
     "apres": "Le décret s'applique au 1er janvier 2027 ; l'objectif de 20 mg/kg de P₂O₅ et de 2 g/ha/an est fixé au 1er janvier 2030.",
-    "change": "Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles. Dans l'assiette, l'effet sur l'exposition se mesurerait sur plusieurs…"
+    "change": "Pour les agriculteurs, les engrais phosphatés devront respecter des limites plus basses de cadmium à partir de 2027, ce qui peut modifier les produits et les pays d'origine disponibles. Dans l'assiette, l'effet sur l'exposition se mesurerait sur plusieurs…",
+    "credit": {
+     "auteur": "David Clark",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg"
+    }
    }
   ],
   "agenda": [
@@ -2273,8 +2279,8 @@
     "theme": "SANTÉ PUBLIQUE",
     "titre": "Rougeole au Nigeria : un supplément nutritif relève la vaccination de 20 points",
     "court": "Nigeria : nutrition et vaccination rougeole",
-    "image": null,
-    "legende": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mothers_registering_their_children_during_immunization_at_primary_health_center_in_Masaka.jpg/1280px-Mothers_registering_their_children_during_immunization_at_primary_health_center_in_Masaka.jpg",
+    "legende": "Mères et enfants à une séance de vaccination dans un centre de santé de Masaka, au Nigeria",
     "chapeau": "Le 2 octobre 2026, une équipe de l'Inserm, de l'IRD, de l'université de Bordeaux et de l'ONG ALIMA a publié dans Nature Medicine un essai mené dans l'État de Yobe, au nord du Nigeria. Vingt zones ont été tirées au sort pour recevoir soit la stratégie NutriVax, soit les services de vaccination habituels.",
     "eclairage": "Que prouve un essai « en grappes » ?",
     "chiffres": [
@@ -2336,7 +2342,13 @@
      }
     ],
     "apres": "Reproduire l'essai dans d'autres contextes et mesurer l'effet sur les cas de maladie. Aucun essai de suivi n'est annoncé dans les sources consultées.",
-    "change": "Dans l'État de Yobe, selon l'IRD, le financement des suppléments figure au budget 2026 après les résultats. Ailleurs, rien n'est décidé dans les sources consultées. L'effet sur le nombre réel de cas de rougeole n'a pas été mesuré."
+    "change": "Dans l'État de Yobe, selon l'IRD, le financement des suppléments figure au budget 2026 après les résultats. Ailleurs, rien n'est décidé dans les sources consultées. L'effet sur le nombre réel de cas de rougeole n'a pas été mesuré.",
+    "credit": {
+     "auteur": "HarunaSylvester",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Mothers_registering_their_children_during_immunization_at_primary_health_center_in_Masaka.jpg"
+    }
    },
    {
     "n": 3,
@@ -4947,7 +4959,13 @@
      }
     ],
     "apres": "Entrée en essais cliniques des trois autres anticorps en 2027.",
-    "change": "Sanofi engage des sommes importantes sur des médicaments encore au stade précoce. Les résultats dépendront des essais cliniques, dont trois n'ont pas encore commencé."
+    "change": "Sanofi engage des sommes importantes sur des médicaments encore au stade précoce. Les résultats dépendront des essais cliniques, dont trois n'ont pas encore commencé.",
+    "credit": {
+     "auteur": "LPLT",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg"
+    }
    }
   ],
   "agenda": [
@@ -12313,7 +12331,13 @@
      }
     ],
     "apres": "Pas de calendrier de projets annoncé dans les articles consultés.",
-    "change": "Pour Samsung, le montant est un placement financier et un accès à un client potentiel pour ses puces, ses batteries et son refroidissement. Pour Helix, 1 milliard de dollars de plus s'ajoute aux plus de 10 milliards déjà engagés."
+    "change": "Pour Samsung, le montant est un placement financier et un accès à un client potentiel pour ses puces, ses batteries et son refroidissement. Pour Helix, 1 milliard de dollars de plus s'ajoute aux plus de 10 milliards déjà engagés.",
+    "credit": {
+     "auteur": "Oskar Alexanderson",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg"
+    }
    },
    {
     "n": 4,

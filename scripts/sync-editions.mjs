@@ -4,6 +4,7 @@
 // Usage : EDITIONS_DIR=../revue-politique/editions npm run sync
 import fs from "node:fs";
 import path from "node:path";
+import { PAR_THEME, hache } from "./illustrations.mjs";
 
 const SRC = process.env.EDITIONS_DIR || path.resolve("../revue-politique/editions");
 const OUT = path.resolve("content/editions");
@@ -92,6 +93,24 @@ async function assezGrande(url) {
   }
   return cacheImg[nom] >= 1000;
 }
+// Banque d'illustrations (content/illustrations.json) et crédits Commons associés, en cache dans images-verifiees.json
+const illustrations = JSON.parse(fs.readFileSync(path.resolve("content/illustrations.json"), "utf8"));
+async function creditCommons(url) {
+  const m = decodeURIComponent(url).match(/commons\/(?:thumb\/)?[0-9a-f]\/[0-9a-f]{2}\/([^/?]+)/);
+  if (!m) return null;
+  const k = `credit:${m[1]}`;
+  if (!(k in cacheImg)) {
+    try {
+      const r = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=extmetadata&titles=File:${encodeURIComponent(m[1])}`,
+        { headers: { "User-Agent": "EclairageBot/1.0 (bonjour@eclairagemedia.com)" } });
+      const x = Object.values((await r.json()).query.pages)[0].imageinfo?.[0]?.extmetadata;
+      const net = (v) => (v || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+      cacheImg[k] = x ? { auteur: net(x.Artist?.value).slice(0, 80), licence: net(x.LicenseShortName?.value), licence_url: x.LicenseUrl?.value || null,
+        page: `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(m[1])}` } : null;
+    } catch { return null; }
+  }
+  return cacheImg[k];
+}
 const index = [];
 for (const file of fs.readdirSync(SRC).sort()) {
   if (!file.endsWith(".html") || SKIP.has(file) || file.startsWith("test")) continue;
@@ -121,6 +140,15 @@ for (const file of fs.readdirSync(SRC).sort()) {
       if (p.auteur) s.credit = { auteur: p.auteur, licence: p.licence, licence_url: p.licence_url, page: p.page };
       break;
     }
+    // Filet de sécurité : jamais de sujet sans photo. Illustration neutre de la banque, selon la rubrique et le thème, créditée.
+    if (!s.image) {
+      const t = PAR_THEME[rubrique] || {}, cles = t[s.theme] || t._ || ["hemicycle"];
+      const cle = cles[hache(s.titre || k) % cles.length], ill = illustrations[cle];
+      if (ill) {
+        s.image = ill.url; s.legende = `${ill.legende} (illustration)`;
+      }
+    }
+    if (s.image && !s.credit) { const c = await creditCommons(s.image); if (c) s.credit = c; }
   }
   // Quiz « Vrai ou faux » inscrit par la routine dans l'édition : <!-- QUIZ {"affirmation","reponse","explication"} -->
   const qz = html.match(/<!-- QUIZ (\{[\s\S]*?\}) -->/);

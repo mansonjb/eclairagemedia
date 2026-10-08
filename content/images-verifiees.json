@@ -164,5 +164,19 @@
  "Nombreuses_grappes_du_vignoble_de_Montmartre_(2015).jpg": 2816,
  "Prairie_de_Pre_Daval_vallee_du_Fossat_2015-08-25.jpg": 4000,
  "Smartphone_in_Hand_(Unsplash).jpg": 2462,
- "Berlaymont_building_in_Brussels.jpg": 1920
+ "Berlaymont_building_in_Brussels.jpg": 1920,
+ "credit:Samsung_headquarters.jpg": {
+  "auteur": "Oskar Alexanderson",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg"
+ },
+ "credit:Siège_Sanofi_à_Gentilly.jpg": {
+  "auteur": "LPLT",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg"
+ },
+ "Fertilizer_spreading_at_Healeycote_farm_-_geograph.org.uk_-_1892878.jpg": 4000,
+ "Mothers_registering_their_children_during_immunization_at_primary_health_center_in_Masaka.jpg": 3840
 }
