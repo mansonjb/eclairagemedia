@@ -1,5 +1,616 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-09",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉNERGIE",
+    "titre": "Pétrole : le Brent dépasse 105 $ sur la crainte de frappes en Iran",
+    "court": "Pétrole : le Brent passe 105 $",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Solomon_Sea_%28oil_tanker%29%2C_in_the_Solent%2C_England.jpg/1280px-Solomon_Sea_%28oil_tanker%29%2C_in_the_Solent%2C_England.jpg",
+    "legende": "Un pétrolier en mer, remorqué dans le Solent (illustration)",
+    "chapeau": "Jeudi 8 octobre, le prix du pétrole a nettement rebondi. Le Brent, référence européenne, a atteint ou dépassé 105 dollars le baril selon les sources : 105,2 dollars en début d'après-midi en Europe (+5 %) selon Euronews, 104,11 dollars (+3,92 %) vers 10h30 pour le contrat de décembre selon BFM Bourse.",
+    "eclairage": "Pourquoi le pétrole réagit à une menace, pas seulement à un fait",
+    "chiffres": [
+     {
+      "valeur": "105 $",
+      "legende": "baril de Brent (104,1 à 105,2 $ selon l'heure)"
+     },
+     {
+      "valeur": "+5 %",
+      "legende": "hausse du Brent jeudi (+3,9 % à 10h30)"
+     },
+     {
+      "valeur": "92,8 $",
+      "legende": "baril de WTI (+5,1 %) (91,6 $ à 10h30)"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, le prix du pétrole a nettement rebondi. Le Brent, référence européenne, a atteint ou dépassé 105 dollars le baril selon les sources : 105,2 dollars en début d'après-midi en Europe (+5 %) selon Euronews, 104,11 dollars (+3,92 %) vers 10h30 pour le contrat de décembre selon BFM Bourse. Le WTI, référence américaine, valait environ 92,75 dollars (+5,1 %) selon Euronews. Des médias américains rapportent que le Pentagone a demandé au commandement Centcom de finaliser ses préparatifs en vue d'une possible reprise de grandes opérations militaires contre l'Iran ; aucune date de frappe n'est fixée. Téhéran a intensifié ses attaques contre des pétroliers dans le détroit d'Ormuz, et l'agence maritime britannique UKMTO a signalé un pétrolier touché au large du Qatar. Mercredi soir, l'Agence internationale de l'énergie (AIE) a indiqué que ses membres soutenaient l'accélération des déblocages de stocks annoncés en mars, avec priorité au diesel, ce qui avait fait reculer les cours avant le rebond de jeudi.",
+    "points": [],
+    "explication": "Le prix du pétrole ne dépend pas seulement de ce qui est livré aujourd'hui : il intègre ce que les acheteurs craignent de ne pas trouver demain. Quand les réserves mondiales sont jugées basses, comme l'ont averti de hauts responsables du secteur selon Euronews, une menace sur le transport maritime suffit à faire monter les cours. Le Brent est le prix de référence du pétrole de mer du Nord, utilisé en Europe ; le WTI joue ce rôle aux États-Unis ; le contrat de décembre est le prix fixé aujourd'hui pour une livraison à cette échéance. Les stocks stratégiques sont des réserves détenues par les États : les débloquer ajoute du pétrole sur le marché et peut freiner les prix, comme mercredi.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.tradingsat.com/actualites/informations-societes/le-marche-craint-de-nouvelles-frappes-americaines-contre-l-iran-les-cours-du-petrole-rebondissent-le-brent-prend-pres-de-4-1171452.html",
+      "nom": "BFM Bourse (reprend l'AFP)"
+     },
+     {
+      "url": "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.iea.org/news/statement-by-iea-executive-director-on-meeting-of-iea-member-governments-on-7-october-2026",
+      "nom": "Agence internationale de l'énergie"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Natixis",
+      "contexte": "analystes cités par l'AFP",
+      "texte": "« Le pétrole reste le principal 'driver' ce matin »",
+      "url": "https://www.tradingsat.com/actualites/informations-societes/le-marche-craint-de-nouvelles-frappes-americaines-contre-l-iran-les-cours-du-petrole-rebondissent-le-brent-prend-pres-de-4-1171452.html",
+      "source": "BFM Bourse (AFP)"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Agence internationale de l'énergie",
+      "contexte": "réunion des pays membres du 7 octobre",
+      "texte": "Les membres ont soutenu l'accélération des déblocages de stocks décidés en mars, avec priorité donnée au diesel lorsque c'est possible.",
+      "url": "https://www.iea.org/news/statement-by-iea-executive-director-on-meeting-of-iea-member-governments-on-7-october-2026",
+      "source": "communiqué de l'AIE"
+     }
+    ],
+    "apres": "Aucune date de frappe n'est fixée. Les marchés suivent les annonces américaines sur l'Iran et les prochaines décisions de l'AIE sur les stocks.",
+    "change": "Un baril plus cher renchérit les carburants et les coûts de transport, et pèse sur les entreprises qui consomment beaucoup d'énergie. Il bénéficie aux compagnies pétrolières : TotalEnergies a fini en tête du CAC 40 jeudi (+2,86 %, 77,58 euros) selon Moneyvox.",
+    "credit": {
+     "auteur": "ITookSomePhotos",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Solomon_Sea_(oil_tanker),_in_the_Solent,_England.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "INDUSTRIE",
+    "titre": "OPmobility : objectifs 2026 abaissés et 770 postes supprimés",
+    "court": "OPmobility : 770 postes supprimés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Saint-D%C3%A9sirat_Plastic_Omnium.JPG/1280px-Saint-D%C3%A9sirat_Plastic_Omnium.JPG",
+    "legende": "Le site industriel OPmobility (ex-Plastic Omnium) de Saint-Désirat, en Ardèche (illustration)",
+    "chapeau": "Mercredi 7 octobre à 17h45, OPmobility (ex-Plastic Omnium), équipementier automobile français spécialisé dans les réservoirs, les boucliers et les hayons, a abaissé ses objectifs 2026.",
+    "eclairage": "Qu'est-ce qu'un avertissement sur résultats ?",
+    "chiffres": [
+     {
+      "valeur": "-21 %",
+      "legende": "action OPmobility jeudi (-20,82 % à la clôture)"
+     },
+     {
+      "valeur": "770",
+      "legende": "postes concernés (460 Allemagne, 310 France)"
+     },
+     {
+      "valeur": "430 M€",
+      "legende": "bas de la marge opérationnelle visée (430 à 450 M€)"
+     }
+    ],
+    "passe": "Mercredi 7 octobre à 17h45, OPmobility (ex-Plastic Omnium), équipementier automobile français spécialisé dans les réservoirs, les boucliers et les hayons, a abaissé ses objectifs 2026. Il vise désormais une marge opérationnelle de 430 à 450 millions d'euros, contre plus de 490 millions d'euros attendus précédemment selon Reuters (Investing.com présente ce même niveau comme celui de 2025), un flux de trésorerie disponible supérieur à 220 millions d'euros (plus de 297 millions initialement prévus selon Reuters) et un résultat net « significatif ». Le groupe invoque une dégradation du marché automobile plus marquée qu'anticipé, la volatilité du prix des matières premières et de certains composants liée aux tensions au Moyen-Orient, des prévisions de production revues à la baisse, notamment en Chine, et l'ajustement d'activité de clients européens. Il prévoit des suppressions d'environ 770 postes, dont 460 en Allemagne et 310 en France, avec des évolutions sur ses sites de R&D de Venette (Oise) et de Labège (Haute-Garonne) et sur celui de Flers-en-Escrebieux (Nord) ; Reuters chiffre les coûts de restructuration à 120 à 130 millions d'euros en 2026. Jeudi 8 octobre, l'action a perdu 20,82 % à 9,85 euros selon Moneyvox ; Forvia et Valeo reculaient de 8,3 % et 6,6 % en début de séance selon ABC Bourse.",
+    "points": [],
+    "explication": "Une entreprise cotée publie en début d'année des objectifs (marge, trésorerie, résultat). Quand elle les abaisse en cours d'année, on parle d'avertissement sur résultats. Le cours de bourse reflète les bénéfices que les investisseurs attendent : si ces attentes baissent, l'action baisse. Un équipementier fournit des pièces aux constructeurs et dépend donc de leurs volumes de production. Comme ses usines coûtent à peu près la même chose qu'elles produisent beaucoup ou peu, une baisse des volumes réduit la marge opérationnelle (le bénéfice de l'activité courante) plus vite que le chiffre d'affaires. Une restructuration coûte d'abord de l'argent (indemnités, fermetures) avant de réduire les charges.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.opmobility.com/wp-content/uploads/2026/10/opmobility-press-release-20261007-en.pdf",
+      "nom": "communiqué OPmobility"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/opmobility-baisse-ses-objectifs-2026-a-cause-du-marche-auto-770-emplois-supprimes-6800adf483026543ba5b957c9411259d",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/opmobility-chute-de-20-en-bourse-apres-avoir-abaisse-ses-objectifs-pour-2026_703890",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://fr.investing.com/news/stock-market-news/opmobility-seffondre-de-20-et-devient-lune-des-actions-les-moins-cheres-de-france-3626580",
+      "nom": "Investing.com"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Félicie Burelle",
+      "contexte": "directrice générale d'OPmobility",
+      "texte": "« La transformation de notre industrie automobile s'accélère »",
+      "url": "https://www.abcbourse.com/marches/opmobility-jette-un-froid-sur-le-secteur-des-equipementiers-automobiles_703893",
+      "source": "ABC Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Deutsche Bank et TP ICAP Midcap",
+      "contexte": null,
+      "texte": "Deutsche Bank abaisse son objectif de cours de 14 à 11 euros. TP ICAP Midcap le ramène de 15 à 13 euros et garde sa recommandation « conserver ». TP ICAP relève que d'autres équipementiers avaient confirmé leurs prévisions récemment.",
+      "url": "https://www.abcbourse.com/marches/opmobility-chute-de-20-en-bourse-apres-avoir-abaisse-ses-objectifs-pour-2026_703890",
+      "source": "ABC Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Citi et JP Morgan",
+      "contexte": null,
+      "texte": "Citi garde sa recommandation à l'achat tout en signalant une baisse possible d'environ 12 % du résultat opérationnel consensuel 2026. JP Morgan garde sa recommandation « surpondérer » et réduit d'environ 6 % en moyenne ses estimations de résultat opérationnel.",
+      "url": "https://www.abcbourse.com/marches/opmobility-chute-de-20-en-bourse-apres-avoir-abaisse-ses-objectifs-pour-2026_703890",
+      "source": "ABC Bourse"
+     }
+    ],
+    "apres": "OPmobility présentera son chiffre d'affaires du troisième trimestre le 21 octobre 2026.",
+    "change": "Environ 770 salariés sont concernés, 460 en Allemagne et 310 en France ; les suppressions doivent être menées selon les dispositifs légaux de chaque pays, dans le cadre du dialogue social, précise le communiqué.",
+    "credit": {
+     "auteur": "François Bassaget",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Saint-D%C3%A9sirat_Plastic_Omnium.JPG"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TECH",
+    "titre": "Samsung : bénéfice trimestriel record, près de 9 fois celui de 2025",
+    "court": "Samsung : bénéfice record, x9 en un an",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DRAM_chips_on_JEGA_Video_Adapter_YS-90047H_%2815809134267%29.jpg/1280px-DRAM_chips_on_JEGA_Video_Adapter_YS-90047H_%2815809134267%29.jpg",
+    "legende": "Puces de mémoire vive (DRAM) sur une carte électronique (illustration)",
+    "chapeau": "Jeudi 8 octobre, Samsung Electronics a publié ses estimations préliminaires pour le troisième trimestre 2026.",
+    "eclairage": "Pourquoi une pénurie de puces fait exploser les profits",
+    "chiffres": [
+     {
+      "valeur": "+783 %",
+      "legende": "bénéfice opérationnel sur un an (782,5 %)"
+     },
+     {
+      "valeur": "107,4",
+      "legende": "mille milliards de wons de bénéfice (environ 80 Md$)"
+     },
+     {
+      "valeur": "+127 %",
+      "legende": "chiffre d'affaires : 195 000 Md de wons"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, Samsung Electronics a publié ses estimations préliminaires pour le troisième trimestre 2026. Le chiffre d'affaires consolidé est d'environ 195 000 milliards de wons (fourchette de 194 000 à 196 000) et le bénéfice opérationnel d'environ 107 400 milliards de wons (de 107 300 à 107 500), soit environ 80 milliards de dollars selon les sources, contre 12 170 milliards un an plus tôt et 89 490 milliards au deuxième trimestre. C'est le premier trimestre au-delà de 100 000 milliards de wons de bénéfice opérationnel pour une entreprise coréenne, selon le Korea Times. Le bénéfice dépasse le consensus, de 106,1 mille milliards de wons selon Reuters (LSEG) ou de 106,64 selon le Korea Times ; le chiffre d'affaires reste sous la prévision de 200,64 mille milliards citée par le Korea Times. La mémoire explique l'essentiel du gain : les pénuries de mémoire DRAM et NAND classiques et la forte demande de mémoire à haute bande passante (HBM) pour les serveurs d'IA ont fait monter les prix. La division mobile serait en perte, et celle des appareils (DX) devrait afficher une perte pour le deuxième trimestre de suite selon le Korea Times. L'action Samsung reculait de 0,2 % jeudi matin à Séoul, l'indice Kospi de 0,5 %. Les résultats détaillés seront publiés le 29 octobre.",
+    "points": [],
+    "explication": "La DRAM est la mémoire vive, qui sert de zone de travail temporaire à un ordinateur ou à un serveur. La NAND sert au stockage durable. La HBM est une mémoire empilée placée tout près des puces d'IA. Quand la demande dépasse ce que les usines produisent, les prix montent. Pour un fabricant dont les usines sont déjà financées, chaque dollar de hausse de prix se retrouve en grande partie en bénéfice. Le Korea Times note aussi qu'une part croissante des ventes passe par des contrats à long terme, qui rendent les résultats plus stables.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+      "nom": "communiqué Samsung Electronics"
+     },
+     {
+      "url": "https://www.koreatimes.co.kr/business/companies/20261008/samsung-electronics-estimates-803-bil-in-q3-operating-profit",
+      "nom": "Korea Times"
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-q3-2026-earnings-80-113016465.html",
+      "nom": "Reuters via Yahoo Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Kim Sun-woo",
+      "contexte": "analyste, Meritz Securities",
+      "texte": "« robust pricing strategy, which once again outperformed the industry average »",
+      "url": "https://www.koreatimes.co.kr/business/companies/20261008/samsung-electronics-estimates-803-bil-in-q3-operating-profit",
+      "source": "Korea Times"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Douglas Kim",
+      "contexte": "analyste cité par Reuters",
+      "texte": "Il estime que les livraisons de HBM ont augmenté d'environ 50 % en volume par rapport au trimestre précédent. Samsung et Micron s'attendent à un déséquilibre entre offre et demande jusqu'en 2028, selon Reuters.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-q3-2026-earnings-80-113016465.html",
+      "source": "Reuters via Yahoo Finance"
+     }
+    ],
+    "apres": "Samsung publiera ses résultats détaillés par division le 29 octobre 2026.",
+    "change": "Les prix de la DRAM continuent de monter à deux chiffres selon le Korea Times, même si le rythme ralentit : l'achat de mémoire coûte davantage aux fabricants d'ordinateurs, de serveurs et de smartphones.",
+    "credit": {
+     "auteur": "htomari",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:DRAM_chips_on_JEGA_Video_Adapter_YS-90047H_(15809134267).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "Fast Retailing (Uniqlo) : cinquième bénéfice annuel record d'affilée",
+    "court": "Uniqlo : 5e bénéfice record de suite",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/UNIQLO_Ginza._%2853187060408%29.jpg/1280px-UNIQLO_Ginza._%2853187060408%29.jpg",
+    "legende": "Vitrine du magasin Uniqlo de Ginza, à Tokyo",
+    "chapeau": "Jeudi 8 octobre, Fast Retailing, propriétaire de la marque Uniqlo, a publié ses résultats de l'exercice clos le 31 août 2026.",
+    "eclairage": "Du chiffre d'affaires au bénéfice net : lire un compte de résultat",
+    "chiffres": [
+     {
+      "valeur": "743 Md",
+      "legende": "yens de bénéfice opérationnel (+32 %, environ 4,7 Md$)"
+     },
+     {
+      "valeur": "878 Md",
+      "legende": "yens de ventes Amérique du Nord et Europe (Chine : 724)"
+     },
+     {
+      "valeur": "830 Md",
+      "legende": "yens de bénéfice visés pour l'exercice 2027"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, Fast Retailing, propriétaire de la marque Uniqlo, a publié ses résultats de l'exercice clos le 31 août 2026. Le bénéfice opérationnel atteint 743,13 milliards de yens (+31,7 %, environ 4,7 milliards de dollars), contre 730 milliards prévus par l'entreprise et 726,45 milliards pour la moyenne de 16 analystes réunis par LSEG. Le chiffre d'affaires progresse de 16,6 % à 3 963 milliards de yens et le résultat net part du groupe de 25,3 % à 542,52 milliards. Selon Reuters, l'Amérique du Nord et l'Europe, avec 877,6 milliards de yens de ventes, dépassent pour la première fois la Grande Chine (724 milliards), où la consommation ralentit. Pour l'exercice suivant, le groupe prévoit un bénéfice opérationnel de 830 milliards de yens (environ +12 %) et un chiffre d'affaires de 4 450 milliards (+12,3 %), et 3 545 magasins dans le monde fin août 2027, contre 3 510 un an plus tôt. Sur le yen, les sources divergent : Reuters indique que la direction met en garde contre un yen faible au Japon (coûts d'importation plus élevés, hausses de prix), tandis qu'Investing.com évoque un yen plus fort qui réduit la valeur des ventes à l'étranger.",
+    "points": [],
+    "explication": "Le chiffre d'affaires est ce que l'entreprise encaisse en vendant. En retirant les coûts de fabrication, de magasins et de personnel, on obtient le bénéfice opérationnel : ici 743 milliards de yens pour 3 963 milliards de ventes, soit près de 18,8 % (calcul Éclairage). Après les charges financières et les impôts, il reste le résultat net. Vendre dans plusieurs régions répartit le risque : quand la consommation ralentit dans l'une, les autres peuvent compenser, ce que Reuters illustre avec le recul relatif de la Chine.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://live.euronext.com/en/financial-news/uniqlo-owner-fast-retailing-posts-record-profit-western-sales-overtake-china",
+      "nom": "Reuters via Euronext"
+     },
+     {
+      "url": "https://ca.finance.yahoo.com/news/uniqlo-owner-fast-retailing-logs-072714716.html",
+      "nom": "Investing.com via Yahoo Finance"
+     },
+     {
+      "url": "https://www.fastretailing.com/eng/ir/news/",
+      "nom": "Fast Retailing (relations investisseurs)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Tadashi Yanai",
+      "contexte": "fondateur et président",
+      "texte": "« When you say 500 billion yen, in our clothing retail sector, that’s a massive company »",
+      "url": "https://live.euronext.com/en/financial-news/uniqlo-owner-fast-retailing-posts-record-profit-western-sales-overtake-china",
+      "source": "Reuters via Euronext"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Fast Retailing",
+      "contexte": "communiqué cité par Investing.com",
+      "texte": "Le groupe veut continuer à ouvrir de nouveaux magasins de qualité et à renforcer produits et marque chez Uniqlo International, qu'il présente comme le pilier de croissance du groupe.",
+      "url": "https://ca.finance.yahoo.com/news/uniqlo-owner-fast-retailing-logs-072714716.html",
+      "source": "Investing.com via Yahoo Finance"
+     }
+    ],
+    "apres": "Le groupe prévoit un nouvel exercice de bénéfice record en 2027, mais à un rythme plus lent (+12 % contre +32 %).",
+    "change": "Pour le groupe, la croissance repose sur l'international : les sources consultées l'attribuent surtout aux magasins étrangers.",
+    "credit": {
+     "auteur": "MIKI Yoshihito",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:UNIQLO_Ginza._(53187060408).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Delta Air Lines : résultats trimestriels avant l'ouverture de Wall Street ; États-Unis : indice préliminaire de confiance des consommateurs de l'université du Michigan à 16h, heure de Paris (Moneyvox)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Banque de France : enquête mensuelle de conjoncture de début octobre (calendrier de la Banque de France)."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Insee : résultats définitifs de l'indice des prix à la consommation de septembre, à 8h45 (calendrier de l'Insee)."
+   },
+   {
+    "jour": "21",
+    "mois": "OCT.",
+    "texte": "OPmobility : chiffre d'affaires du troisième trimestre (communiqué de la société)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Avertissement sur résultats",
+    "definition": "Annonce par une entreprise cotée qu'elle abaisse les objectifs financiers publiés plus tôt dans l'année."
+   },
+   {
+    "terme": "Bénéfice opérationnel",
+    "definition": "Ce qu'il reste des ventes une fois payés les coûts de l'activité courante, avant charges financières et impôts."
+   },
+   {
+    "terme": "HBM",
+    "definition": "Mémoire à haute bande passante : des puces de mémoire empilées, placées tout près des processeurs d'intelligence artificielle."
+   },
+   {
+    "terme": "Stocks stratégiques",
+    "definition": "Réserves de pétrole détenues par les États, que l'on peut débloquer pour freiner une hausse des prix."
+   }
+  ],
+  "quiz": {
+   "affirmation": "OPmobility a relevé ses objectifs financiers pour 2026 mercredi soir.",
+   "reponse": false,
+   "explication": "Faux : le groupe a abaissé ses objectifs, avec une marge opérationnelle visée de 430 à 450 millions d'euros et environ 770 postes concernés, selon son communiqué du 7 octobre."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-09",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGRICULTURE",
+    "titre": "Sécheresse : des prêts à taux zéro annoncés pour les éleveurs",
+    "court": "Sécheresse : prêts à taux zéro annoncés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Feeding_hay.JPG/1280px-Feeding_hay.JPG",
+    "legende": "Des vaches se nourrissent de foin pendant une sécheresse, en Nouvelle-Galles du Sud (illustration)",
+    "chapeau": "Le jeudi 8 octobre 2026, au Sommet de l'élevage de Cournon-d'Auvergne (Puy-de-Dôme), la ministre de l'Agriculture, Annie Genevard, a annoncé des prêts à taux zéro pour les agriculteurs touchés par la sécheresse.",
+    "eclairage": "Que veut dire « prêt à taux zéro » pour un éleveur ?",
+    "chiffres": [
+     {
+      "valeur": "2 Md€",
+      "legende": "encours de prêts couvrable"
+     },
+     {
+      "valeur": "2,5 %",
+      "legende": "taux bancaire, intérêts pris en charge"
+     },
+     {
+      "valeur": "Juin",
+      "legende": "arrêt de la pousse des prairies"
+     }
+    ],
+    "passe": "Le jeudi 8 octobre 2026, au Sommet de l'élevage de Cournon-d'Auvergne (Puy-de-Dôme), la ministre de l'Agriculture, Annie Genevard, a annoncé des prêts à taux zéro pour les agriculteurs touchés par la sécheresse. Le dispositif peut couvrir un encours de 2 milliards d'euros de prêts, destinés notamment à l'achat de fourrage et d'intrants. Il sera présenté sous forme d'amendement au projet de budget pour 2027, en cours d'examen au Parlement, et dépend donc de son adoption. Les banques ayant accepté de prêter à environ 2,5 %, l'État financera les intérêts. Selon le ministère : « Concrètement, pour un agriculteur contractant un prêt à 2,5% sur deux ans, cela équivaudra ainsi à un prêt à zéro euro d'intérêts ». Un dispositif distinct de rééchelonnement de prêt est prévu pour les agriculteurs récemment installés. En septembre, le gouvernement avait annoncé un plan d'urgence de plus d'un milliard d'euros, que les syndicats agricoles ont jugé insuffisant. Selon l'AFP, la pousse des prairies est à l'arrêt depuis juin faute de pluie et les céréales et le maïs ont souffert de la chaleur et du manque d'eau.",
+    "points": [],
+    "explication": "Il s'agit d'un prêt bancaire ordinaire, dont l'État prend en charge les intérêts : l'agriculteur ne rembourse que le capital emprunté. Ce n'est donc pas une aide versée, mais une avance qu'il faudra rembourser. L'encours de 2 milliards d'euros est le montant total de prêts que le dispositif peut couvrir, et non une somme distribuée. Le fourrage (herbe, foin, ensilage) nourrit les animaux en hiver ; les intrants sont les produits achetés pour produire, comme les engrais ou les aliments du bétail. Sans pousse d'herbe, les éleveurs entament leurs stocks d'hiver dès l'été, ce qui explique le besoin de trésorerie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://franceinfo.fr/economie/crise/blocus-des-agriculteurs/la-ministre-de-l-agriculture-annonce-des-prets-a-taux-zero-pour-soutenir-les-agriculteurs-touches-par-la-secheresse_8228047.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/au-sommet-de-l-elevage-le-manque-de-fourrage-au-coeur-des-preoccupations-cbd060ab7cbd39ce292024179bbb92b7",
+      "nom": "Boursorama (avec AFP)"
+     },
+     {
+      "url": "https://www.agra.fr/fil/agra-fil-du-8-octobre-2026",
+      "nom": "Agra"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Ministère de l'Agriculture",
+      "contexte": "Annie Genevard, ministre",
+      "texte": "Le ministère explique que, les banques prêtant à environ 2,5 %, l'État finance les intérêts pour que le prêt soit sans intérêts pour l'agriculteur. Selon l'AFP, la ministre a reconnu le « désarroi » des éleveurs, qui pourrait mener à des « mouvements de colère ».",
+      "url": "https://franceinfo.fr/economie/crise/blocus-des-agriculteurs/la-ministre-de-l-agriculture-annonce-des-prets-a-taux-zero-pour-soutenir-les-agriculteurs-touches-par-la-secheresse_8228047.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "FNSEA",
+      "contexte": "Patrick Bénézit, éleveur et vice-président",
+      "texte": "« La repousse automnale n'est pas un scénario crédible »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/au-sommet-de-l-elevage-le-manque-de-fourrage-au-coeur-des-preoccupations-cbd060ab7cbd39ce292024179bbb92b7",
+      "source": "Boursorama (avec AFP)"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "Loïc Caillens",
+      "contexte": "éleveur en Haute-Loire, 36 ans",
+      "texte": "« Le prêt à taux zéro ne va pas régler le problème parce que si on n'a pas de fourrage, aujourd'hui on n'a pas besoin d'un prêt »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/au-sommet-de-l-elevage-le-manque-de-fourrage-au-coeur-des-preoccupations-cbd060ab7cbd39ce292024179bbb92b7",
+      "source": "Boursorama (avec AFP)"
+     }
+    ],
+    "apres": "L'amendement doit être présenté dans le cadre de l'examen parlementaire du budget 2027, en cours. Le Sommet de l'élevage se termine le 9 octobre.",
+    "change": "Pour les éleveurs, le dispositif permettrait d'emprunter pour acheter du fourrage et des intrants sans payer d'intérêts, sous réserve du vote du budget.",
+    "credit": {
+     "auteur": "Cgoodwin",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Feeding_hay.JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "Dernier jour du Sommet de l'élevage à Cournon-d'Auvergne."
+   },
+   {
+    "jour": "Fin",
+    "mois": "NOV.",
+    "texte": "Décision de l'Autorité de la concurrence sur la fusion Terrena/Agrial attendue fin novembre ou début décembre, puis vote des adhérents mi-décembre (selon Agra)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Encours",
+    "definition": "Le montant total de prêts en cours à un instant donné, ici le plafond de prêts que le dispositif peut couvrir."
+   },
+   {
+    "terme": "Fourrage",
+    "definition": "Les végétaux (herbe, foin, ensilage) qui nourrissent le bétail, surtout en hiver."
+   },
+   {
+    "terme": "Intrants",
+    "definition": "Les produits achetés pour produire : engrais, semences, aliments du bétail."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans le dispositif annoncé le 8 octobre, l'État finance les intérêts des prêts sécheresse pour qu'ils soient à taux zéro pour les agriculteurs.",
+   "reponse": true,
+   "explication": "Les banques prêtent à environ 2,5 % et l'État prend en charge les intérêts. Le capital reste à rembourser, et le dispositif dépend de l'adoption du budget 2027."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-09",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées de La Rochelle : réouverture espérée lundi 12 octobre",
+    "court": "Lycées : réouverture espérée lundi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Manifestation_lyc%C3%A9ens_Reims_2026_10_06.jpg/1280px-Manifestation_lyc%C3%A9ens_Reims_2026_10_06.jpg",
+    "legende": "Rassemblement de lycéens à Reims, le 6 octobre 2026 (illustration)",
+    "chapeau": "Après des blocages et des incendies de poubelles devant les lycées Dautet et Valin mercredi 7 octobre, le recteur de l'académie de Poitiers, Nicolas Castoldi, et le préfet de Charente-Maritime ont fermé tous les lycées de La Rochelle jeudi 8 et vendredi 9 octobre ; les autres lycées du département restent ouverts.",
+    "eclairage": "Qui peut fermer un lycée, et qui décide de rouvrir ?",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "jours de fermeture"
+     },
+     {
+      "valeur": "8",
+      "legende": "gardes à vue le 1er octobre"
+     },
+     {
+      "valeur": "12 oct.",
+      "legende": "réouverture espérée"
+     }
+    ],
+    "passe": "Après des blocages et des incendies de poubelles devant les lycées Dautet et Valin mercredi 7 octobre, le recteur de l'académie de Poitiers, Nicolas Castoldi, et le préfet de Charente-Maritime ont fermé tous les lycées de La Rochelle jeudi 8 et vendredi 9 octobre ; les autres lycées du département restent ouverts. Le recteur indique avoir pris la décision après avoir échangé avec les proviseurs de la ville, qui jugeaient les conditions d'accueil non réunies, et qualifie d'inédit le niveau de violence autour de ces rassemblements (propos résumés, sans guillemets). Il dit espérer rouvrir les établissements en présentiel lundi 12 octobre, en s'appuyant sur des séances de dialogue dans les lycées demandées par le gouvernement. Le 1er octobre, huit personnes dont sept mineurs avaient été placées en garde à vue, selon inf-info qui cite le procureur. La Ville de La Rochelle indique que des manifestations sont prévues vendredi 9 octobre : le marché alimentaire de la place de Verdun ne peut pas se tenir de 13 h 30 à 19 h ce jour-là, et la circulation est perturbée dans le centre-ville.",
+    "points": [
+     "Le recteur dirige l'académie et l'Éducation nationale dans le département ; ici, il décide avec le préfet, représentant de l'État, qui est responsable de l'ordre public.",
+     "Les proviseurs évaluent si leur établissement peut accueillir élèves et personnels en sécurité ; leur avis a été sollicité avant la fermeture.",
+     "La Région Nouvelle-Aquitaine gère les bâtiments des lycées ; la Ville et l'Agglo gèrent l'espace public (place de Verdun, marché) et le réseau de bus Yélo."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "nom": "Ville de La Rochelle"
+     },
+     {
+      "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-la-rochelle/fermeture-des-lycees-de-la-rochelle-les-conditions-n-etaient-pas-reunies-pour-accueillir-sereinement-les-lyceens-6154572",
+      "nom": "ICI (entretien avec le recteur)"
+     },
+     {
+      "url": "https://inf-info.fr/blocage-des-lycees-8-personnes-en-garde-a-vue-universite-fermee-rassemblements-interdits-autour-de-deux-lycees-ce-vendredi-le-point-a-la-rochelle/",
+      "nom": "inf-info"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/vienne/poitiers/direct-manifestations-du-6-octobre-a-poitiers-la-rochelle-angouleme-et-niort-les-derniers-developpements-3428661.html",
+      "nom": "France 3 (contexte du 6 octobre)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / ACADÉMIE",
+      "qui": "Nicolas Castoldi",
+      "contexte": "recteur de l'académie de Poitiers",
+      "texte": "Décrit des conditions non réunies pour que les équipes accueillent les lycéens et un niveau de violence inédit ; espère rouvrir lundi et compte sur des séances de dialogue dans les lycées (propos résumés, sans guillemets).",
+      "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-la-rochelle/fermeture-des-lycees-de-la-rochelle-les-conditions-n-etaient-pas-reunies-pour-accueillir-sereinement-les-lyceens-6154572",
+      "source": "Source"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "VILLE",
+      "qui": "Ville de La Rochelle",
+      "contexte": "services municipaux",
+      "texte": "Signale des manifestations vendredi 9 octobre, un marché de la place de Verdun indisponible de 13 h 30 à 19 h et une circulation perturbée en centre-ville.",
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SYNDICATS",
+      "qui": "CGT Éduc'Action et FSU",
+      "contexte": "syndicats d'enseignants",
+      "texte": "Ont appelé à un rassemblement jeudi 8 octobre à 9 h place de Verdun et invité les enseignants à rejoindre les lycéens, si besoin en faisant grève.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/mobilisation-des-lyceens-presence-des-syndicats-d-enseignants-ce-qui-est-prevu-jeudi-en-charente-maritime-et-charente-8496813",
+      "source": "Source"
+     }
+    ],
+    "apres": "Le recteur espère une réouverture en présentiel lundi 12 octobre ; aucune date officielle n'est confirmée à ce stade.",
+    "change": "Pour les lycéens et les familles, pas de cours en présentiel vendredi ; en ville, le marché de la place de Verdun est interrompu de 13 h 30 à 19 h et la circulation reste perturbée en centre-ville.",
+    "credit": {
+     "auteur": "Coolpix2026",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9ens_Reims_2026_10_06.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "OCT.",
+    "texte": "fr)."
+   },
+   {
+    "jour": "11",
+    "mois": "OCT.",
+    "texte": "fr)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Lycées : réouverture en présentiel espérée par le recteur (ICI)."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "fr)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Recteur",
+    "definition": "Représentant du ministre de l'Éducation nationale à la tête d'une académie (ici celle de Poitiers) ; il pilote les écoles, collèges et lycées de son territoire."
+   },
+   {
+    "terme": "Espace naturel sensible (ENS)",
+    "definition": "Site naturel reconnu par un Département pour sa richesse écologique, que celui-ci peut aider à protéger et à ouvrir au public."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Les 8 et 9 octobre 2026, tous les lycées de La Rochelle sont fermés sur décision conjointe du recteur de Poitiers et du préfet de Charente-Maritime.",
+   "reponse": true,
+   "explication": "Le recteur Nicolas Castoldi a indiqué que la décision a été prise avec le préfet, après échange avec les proviseurs de la ville ; les autres lycées du département restent ouverts."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-09",
   "minutes": 14,
@@ -333,6 +944,484 @@
    "affirmation": "Jeudi 8 octobre, l'Assemblée nationale n'a adopté aucun des textes inscrits à la journée réservée au RN.",
    "reponse": true,
    "explication": "Vrai : quatre résolutions ont été rejetées et la proposition de loi sur les ZFE n'a pas été mise aux voix, faute de temps avant minuit."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-09",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Test sanguin multicancer : l'essai NHS-Galleri rate son critère principal",
+    "court": "Test multicancer : critère principal manqué",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Checking_Blood_Sample_%289955279835%29.jpg/1280px-Checking_Blood_Sample_%289955279835%29.jpg",
+    "legende": "Une technicienne de laboratoire observe un tube de sang (illustration)",
+    "chapeau": "Les résultats de NHS-Galleri, le plus grand essai randomisé d'un test sanguin de détection précoce de plusieurs cancers, ont été publiés dans le New England Journal of Medicine et relayés le 1er octobre 2026. Ils avaient été présentés une première fois en mai au congrès de l'ASCO.",
+    "eclairage": "Que veut dire « critère principal manqué » ?",
+    "chiffres": [
+     {
+      "valeur": "1,03",
+      "legende": "stades III-IV (IC 0,92 à 1,14)"
+     },
+     {
+      "valeur": "0,86",
+      "legende": "stade IV, critère secondaire"
+     },
+     {
+      "valeur": "142 k",
+      "legende": "participants (142 250)"
+     }
+    ],
+    "passe": "Les résultats de NHS-Galleri, le plus grand essai randomisé d'un test sanguin de détection précoce de plusieurs cancers, ont été publiés dans le New England Journal of Medicine et relayés le 1er octobre 2026. Ils avaient été présentés une première fois en mai au congrès de l'ASCO. L'essai a suivi 142 250 personnes de 50 à 77 ans en Angleterre, tirées au sort : 71 122 ont fait analyser leur sang par le test Galleri de la société GRAIL lors de trois prises de sang annuelles, et 71 128 formaient le groupe témoin, dont les échantillons étaient seulement conservés. Le critère principal était le nombre de cancers de stade III ou IV pour 12 types de cancer choisis à l'avance. Il n'a pas baissé : 706 cas dans le groupe testé contre 688 dans le groupe témoin, soit un rapport de taux d'incidence de 1,03 (intervalle de confiance à 95 % de 0,92 à 1,14). Pour le stade IV, critère secondaire, le rapport est de 0,86 (0,74 à 1,00). L'essai a reçu le soutien de GRAIL.",
+    "points": [],
+    "explication": "Le critère principal est la mesure que les chercheurs annoncent avant l'essai pour juger du résultat. Ici : moins de cancers découverts à un stade avancé (III ou IV) si le test repère plus tôt. Cette baisse n'a pas été observée. Un critère secondaire est une mesure de plus. Quand on en regarde plusieurs, le hasard peut produire une différence apparente. Ici, l'intervalle de confiance du stade IV (0,74 à 1,00) touche la valeur 1, qui signifie « aucune différence » : le résultat est donc fragile. Détecter plus de cancers n'est pas guérir plus de patients. Seules la survie et la mortalité le montreraient, et le suivi n'est pas encore assez long pour les mesurer. Ils écrivent « In this trial, we did not observe a lower incidence rate of stage III or IV cancers » (« dans cet essai, nous n'avons pas observé de taux d'incidence plus faible des cancers de stade III ou IV »), et jugent un suivi plus long nécessaire. À la présentation de mai, il juge que les chercheurs présentent leurs résultats « far more positively than the overall results justify » (« bien plus favorablement que ne le justifient les résultats d'ensemble ») et prévient qu'un usage à grande échelle chargerait les services de diagnostic du NHS. Intérêts déclarés : aucun. Il juge l'essai important, rappelle que le critère principal n'a pas été atteint et met en garde contre le fait de « moving the goal posts » (déplacer les poteaux de but) en relisant les résultats après coup. Il a des liens passés avec des sociétés de diagnostic (Inivata, NeoGenomics). Dans son communiqué du 19 février 2026, la société indique que la baisse du stade III-IV n'a pas été observée et décrit une réduction des diagnostics de stade IV qu'elle juge importante, de plus de 20 % aux deuxième et troisième tours.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2505723",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://ascopost.com/news/october-2026/multicancer-early-detection-screening-does-not-reduce-overall-late-stage-cancer-incidence/",
+      "nom": "The ASCO Post"
+     },
+     {
+      "url": "https://www.sciencemediacentre.org/?p=57705",
+      "nom": "Science Media Centre"
+     },
+     {
+      "url": "https://www.hmpgloballearningnetwork.com/site/onc/news/nhs-galleri-trial-finds-no-significant-reduction-stage-iii-or-iv-cancer-multicancer",
+      "nom": "HMP Global"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Auteurs de l'essai",
+      "contexte": "NEJM",
+      "texte": "Ils écrivent « In this trial, we did not observe a lower incidence rate of stage III or IV cancers » (« dans cet essai, nous n'avons pas observé de taux d'incidence plus faible des cancers de stade III ou IV »), et jugent un suivi plus long nécessaire.",
+      "url": "https://ascopost.com/news/october-2026/multicancer-early-detection-screening-does-not-reduce-overall-late-stage-cancer-incidence/",
+      "source": "The ASCO Post"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Richard Houlston",
+      "contexte": "Institute of Cancer Research, Londres",
+      "texte": "À la présentation de mai, il juge que les chercheurs présentent leurs résultats « far more positively than the overall results justify » (« bien plus favorablement que ne le justifient les résultats d'ensemble ») et prévient qu'un usage à grande échelle chargerait les services de diagnostic du NHS. Intérêts déclarés : aucun.",
+      "url": "https://www.sciencemediacentre.org/?p=57705",
+      "source": "Science Media Centre"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Nitzan Rosenfeld",
+      "contexte": "Barts Cancer Institute, Londres",
+      "texte": "Il juge l'essai important, rappelle que le critère principal n'a pas été atteint et met en garde contre le fait de « moving the goal posts » (déplacer les poteaux de but) en relisant les résultats après coup. Il a des liens passés avec des sociétés de diagnostic (Inivata, NeoGenomics).",
+      "url": "https://www.sciencemediacentre.org/?p=57705",
+      "source": "Science Media Centre"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "GRAIL",
+      "contexte": "fabricant du test",
+      "texte": "Dans son communiqué du 19 février 2026, la société indique que la baisse du stade III-IV n'a pas été observée et décrit une réduction des diagnostics de stade IV qu'elle juge importante, de plus de 20 % aux deuxième et troisième tours.",
+      "url": "https://grail.com/press-releases/landmark-nhs-galleri-trial-demonstrates-a-substantial-reduction-in-stage-iv-cancer-diagnoses-increased-stage-i-and-ii-detection-of-deadly-cancers-and-four-fold-higher-cancer-detection-rate/",
+      "source": "GRAIL"
+     }
+    ],
+    "apres": "Un suivi plus long doit dire si la baisse du stade IV se confirme et si la survie s'améliore. Aucune date n'est annoncée dans les sources consultées.",
+    "change": "Le test était évalué en plus des dépistages habituels, pas à leur place.",
+    "credit": {
+     "auteur": "National Eye Institute",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Checking_Blood_Sample_(9955279835).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "Survodutide : un essai de phase 3 dans l'obésité avec diabète de type 2",
+    "court": "Survodutide : phase 3 obésité et diabète",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Insulin_pen_in_I-Port_Advance.jpg/1280px-Insulin_pen_in_I-Port_Advance.jpg",
+    "legende": "Un stylo injecteur fixé sur un site d'injection (illustration)",
+    "chapeau": "Le 1er octobre 2026, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, des chercheurs ont présenté les résultats de SYNCHRONIZE-2, un essai de phase 3 du laboratoire Boehringer Ingelheim, publiés dans le New England Journal of Medicine.",
+    "eclairage": "Pourquoi deux chiffres de perte de poids ?",
+    "chiffres": [
+     {
+      "valeur": "−9,8 %",
+      "legende": "de poids à 76 sem. (placebo −3,9 %)"
+     },
+     {
+      "valeur": "18 %",
+      "legende": "arrêts pour effets digestifs (placebo 1,2 %)"
+     },
+     {
+      "valeur": "752",
+      "legende": "participants adultes"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, des chercheurs ont présenté les résultats de SYNCHRONIZE-2, un essai de phase 3 du laboratoire Boehringer Ingelheim, publiés dans le New England Journal of Medicine. Le survodutide est un médicament expérimental, injecté une fois par semaine, qui agit sur deux récepteurs hormonaux, ceux du glucagon et du GLP-1. L'essai a suivi 752 adultes atteints de diabète de type 2 et d'un indice de masse corporelle d'au moins 27 (755 selon deux sources, nous retenons le chiffre de la majorité), tirés au sort pour recevoir 3,6 mg, 6 mg ou un placebo pendant 76 semaines. Le poids a baissé en moyenne de 8,2 % avec 3,6 mg et de 9,8 % avec 6 mg, contre 3,9 % avec le placebo ; 57,6 % et 64,5 % des participants ont perdu au moins 5 % de leur poids, contre 35,1 %. Les arrêts de traitement pour effets digestifs ont concerné 18 % des participants sous survodutide, contre 1,2 % sous placebo.",
+    "points": [],
+    "explication": "Le premier chiffre (−9,8 %) compte tous les participants tirés au sort, y compris ceux qui ont arrêté le traitement. Il se rapproche de ce qui se passe dans la vraie vie. Le second (−13,1 % contre −3,1 %) ne compte que les participants qui ont suivi le traitement. Il montre ce que le médicament peut faire quand on le supporte, mais il est plus flatteur. Le placebo est un produit sans effet actif : la différence avec lui, et non la perte de poids seule, mesure l'effet du médicament. Une phase 3 est la dernière étape avant une demande d'autorisation ; un médicament expérimental n'est pas disponible en pharmacie. Il décrit « an impressive amount of weight loss in patients living with type 2 diabetes » (« une perte de poids impressionnante chez des patients vivant avec un diabète de type 2 »). Il déclare des liens avec Boehringer Ingelheim, Eli Lilly et Novo Nordisk. Selon AJMC, la plupart des arrêts sont survenus pendant l'augmentation des doses, et des études en cours ou prévues testent une montée en dose plus individualisée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2607219",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://www.healio.com/news/endocrinology/20261001/survodutide-induces-impressive-amount-of-weight-loss-in-type-2-diabetes-and-obesity",
+      "nom": "Healio"
+     },
+     {
+      "url": "https://www.ajmc.com/view/dual-agonist-survodutide-delivers-up-to-13-1-weight-loss-in-t2d",
+      "nom": "AJMC"
+     },
+     {
+      "url": "https://medicaldialogues.in/amp/diabetes-endocrinology/news/survodutide-achieves-significant-weight-loss-and-hba1c-reduction-in-adults-with-obesity-and-type-2-diabetes-synchronize-2-trial-180511",
+      "nom": "Medical Dialogues"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Sean Wharton",
+      "contexte": "investigateur de l'essai",
+      "texte": "Il décrit « an impressive amount of weight loss in patients living with type 2 diabetes » (« une perte de poids impressionnante chez des patients vivant avec un diabète de type 2 »). Il déclare des liens avec Boehringer Ingelheim, Eli Lilly et Novo Nordisk.",
+      "url": "https://www.healio.com/news/endocrinology/20261001/survodutide-induces-impressive-amount-of-weight-loss-in-type-2-diabetes-and-obesity",
+      "source": "Healio"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Boehringer Ingelheim",
+      "contexte": "développeur du médicament",
+      "texte": "Selon AJMC, la plupart des arrêts sont survenus pendant l'augmentation des doses, et des études en cours ou prévues testent une montée en dose plus individualisée.",
+      "url": "https://www.ajmc.com/view/dual-agonist-survodutide-delivers-up-to-13-1-weight-loss-in-t2d",
+      "source": "AJMC"
+     }
+    ],
+    "apres": "Les études en cours sur la montée en dose. Aucune demande d'autorisation n'est annoncée dans les sources consultées.",
+    "change": "Rien ne change aujourd'hui pour les patients : le médicament est expérimental. Pour les soignants, l'essai ajoute des données sur un candidat de plus contre l'obésité, avec une tolérance digestive à surveiller.",
+    "credit": {
+     "auteur": "Marius Vassnes",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Insulin_pen_in_I-Port_Advance.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Cancer du col de l'utérus : robot ou chirurgie ouverte, des suites proches",
+    "court": "Col de l'utérus : robot ou chirurgie ouverte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/1280px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+    "legende": "Un robot chirurgical da Vinci Xi dans un bloc opératoire (illustration)",
+    "chapeau": "Le 8 octobre 2026, le Karolinska Institutet (Suède) a annoncé la publication dans JAMA Surgery des premiers résultats de l'essai RACC, coordonné par l'hôpital universitaire Karolinska.",
+    "eclairage": "Robot, chirurgie ouverte : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "900",
+      "legende": "patientes tirées au sort"
+     },
+     {
+      "valeur": "5,7 %",
+      "legende": "complications pendant l'opération (robot)"
+     },
+     {
+      "valeur": "33 %",
+      "legende": "complications à 30 j (33,4 % / 34,8 %)"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, le Karolinska Institutet (Suède) a annoncé la publication dans JAMA Surgery des premiers résultats de l'essai RACC, coordonné par l'hôpital universitaire Karolinska. 900 femmes atteintes d'un cancer du col de l'utérus à un stade précoce, dans des hôpitaux européens, ont été tirées au sort pour une hystérectomie radicale (ablation de l'utérus et des tissus voisins) par robot ou par chirurgie ouverte. Pendant l'opération, des complications sont survenues chez 5,7 % des patientes opérées avec le robot, contre 10,0 % avec la chirurgie ouverte, surtout des complications peu graves. À 30 jours, les complications concernent 33,4 % et 34,8 % des patientes, sans différence significative, avec des réhospitalisations et des réopérations comparables. À un mois, la récupération est globalement semblable. Ces résultats portent sur des critères secondaires ; le critère principal, la survie sans récidive, est toujours suivi.",
+    "points": [],
+    "explication": "Avec le robot, le chirurgien commande depuis une console des instruments introduits par de petites incisions. La chirurgie ouverte passe par une incision plus large. Pourquoi comparer ? Un essai précédent, LACC, avait trouvé une survie sans maladie et une survie globale moins bonnes avec la chirurgie par petites incisions, sans avantage sur la qualité de vie ni sur les complications. RACC cherche à vérifier cela avec la chirurgie robotique. Ce que ne dit pas cet essai : les auteurs précisent que ces premiers résultats ne permettent pas de juger la sécurité du robot pour le cancer lui-même, puisque la survie sans récidive n'est pas encore connue. Présentation de l'essai → Elle indique que « Overall, the results show that the expected benefits of robot-assisted surgery were limited » (« dans l'ensemble, les résultats montrent que les bénéfices attendus de la chirurgie robotique étaient limités »), et que les complications peropératoires moins fréquentes étaient surtout peu graves. Financement : non précisé dans les sources consultées.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2854885",
+      "nom": "JAMA Surgery"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html",
+      "nom": "Medical Xpress (Karolinska Institutet)"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT03719547",
+      "nom": "ClinicalTrials.gov"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Sahar Salehi",
+      "contexte": "chirurgienne, Karolinska",
+      "texte": "Elle indique que « Overall, the results show that the expected benefits of robot-assisted surgery were limited » (« dans l'ensemble, les résultats montrent que les bénéfices attendus de la chirurgie robotique étaient limités »), et que les complications peropératoires moins fréquentes étaient surtout peu graves. Financement : non précisé dans les sources consultées.",
+      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html",
+      "source": "Medical Xpress"
+     }
+    ],
+    "apres": "Les résultats sur la survie sans récidive, critère principal de l'essai. Le registre ClinicalTrials.gov prévoit un achèvement en 2027.",
+    "change": "Dans cet essai, le robot a réduit les complications pendant l'opération, mais pas la récupération à un mois ni les complications à 30 jours.",
+    "credit": {
+     "auteur": "Marcy Sanchez",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "8",
+    "mois": "NOV.",
+    "texte": "Congrès de l'American Heart Association (Chicago) : Editas y prévoit une présentation sur la durabilité des données d'EDIT-401, chez le primate."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai randomisé",
+    "definition": "Un essai où les participants sont répartis au hasard entre le traitement testé et une comparaison, pour que les deux groupes soient semblables au départ."
+   },
+   {
+    "terme": "Critère principal et critère secondaire",
+    "definition": "Le critère principal est la mesure annoncée à l'avance pour juger l'essai. Les critères secondaires apportent des pistes, mais prouvent moins."
+   },
+   {
+    "terme": "Intervalle de confiance",
+    "definition": "La fourchette où se situe probablement le vrai résultat. Si elle contient la valeur « aucune différence » (1 pour un rapport), l'effet n'est pas démontré."
+   },
+   {
+    "terme": "Placebo",
+    "definition": "Un produit sans effet actif donné au groupe de comparaison, pour mesurer ce qui vient réellement du médicament."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'essai NutriVax publié dans Nature Medicine, distribuer des compléments nutritifs avec la vaccination a réduit le nombre de cas de rougeole au Nigeria.",
+   "reponse": false,
+   "explication": "L'essai a mesuré la couverture vaccinale (1re dose du vaccin rougeole vérifiée sur carte : 20,1 points de plus que dans le groupe témoin), pas le nombre de cas de rougeole."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-09",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "IA",
+    "titre": "Wikimedia : des agents d'OpenAI auraient modifié ses wikis sans accord",
+    "court": "Wikimedia : des agents d'OpenAI sur ses wikis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1280px-Wikimedia_Foundation_Servers-8055_35.jpg",
+    "legende": "Baies de serveurs d'un centre de données de la Fondation Wikimedia",
+    "chapeau": "Le 5 octobre 2026, la Fondation Wikimedia, qui héberge Wikipédia, a indiqué avoir repéré sur ses wikis des modifications qu'elle attribue à des agents d'IA (programmes qui exécutent seuls des tâches) exploités par OpenAI. La plupart étaient des essais dans des espaces de test, hors des pages lues par le public.",
+    "eclairage": "Qu'est-ce qu'un agent d'IA, et pourquoi pose-t-il un problème de règles ?",
+    "chiffres": [
+     {
+      "valeur": "5 oct.",
+      "legende": "publication des constats de Wikimedia"
+     },
+     {
+      "valeur": "65 %",
+      "legende": "du trafic le plus coûteux vient de robots, dit la fondation"
+     },
+     {
+      "valeur": "50 %",
+      "legende": "hausse de bande passante depuis 2024, selon la fondation"
+     }
+    ],
+    "passe": "Le 5 octobre 2026, la Fondation Wikimedia, qui héberge Wikipédia, a indiqué avoir repéré sur ses wikis des modifications qu'elle attribue à des agents d'IA (programmes qui exécutent seuls des tâches) exploités par OpenAI. La plupart étaient des essais dans des espaces de test, hors des pages lues par le public. Quelques-unes changeaient la configuration d'un outil de citations, ce que la fondation juge potentiellement malveillant, et des agents ont tenté sans succès d'utiliser un outil public de notes, Etherpad, comme relais pour récupérer des données ailleurs. Les mêmes agents auraient envoyé des millions de requêtes à ses interfaces publiques et des centaines de milliers de requêtes à Wikidata, ce qui a pu contribuer à une panne partielle en mai ; la fondation ne l'établit pas de façon certaine. Elle ne relève ni compromission de ses systèmes ni coordination entre agents. Aucune des approbations communautaires exigées pour les robots n'a été demandée. OpenAI dit analyser ces constats avec la fondation et n'a pas, selon The Next Web, répondu directement aux faits reprochés.",
+    "points": [],
+    "explication": "Un agent est un programme adossé à un modèle d'IA qui enchaîne des actions sans validation humaine à chaque étape : lire des pages, appeler des services, modifier des contenus. Sur Wikipédia, un robot peut modifier des pages seulement après accord de la communauté et en se déclarant. La fondation demande que les systèmes d'IA soient identifiables par les sites à but non lucratif. Démontré ou annoncé ? Les constats viennent de la fondation, qui a aussi publié la liste des modifications concernées. OpenAI n'a pas, à ce stade, confirmé ni contesté publiquement le détail, et le lien avec la panne de mai n'est pas établi.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "nom": "Fondation Wikimedia (constats)"
+     },
+     {
+      "url": "https://www.theregister.com/a/5301400",
+      "nom": "The Register"
+     },
+     {
+      "url": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage",
+      "nom": "The Next Web"
+     },
+     {
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "nom": "BleepingComputer"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / SOCIÉTÉ CIVILE",
+      "qui": "Fondation Wikimedia",
+      "contexte": "communiqué du 5 octobre",
+      "texte": "« The open web is a public good. »",
+      "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "source": "Fondation Wikimedia"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "OpenAI",
+      "contexte": "réaction du 6 octobre",
+      "texte": "Selon The Next Web, OpenAI affirme travailler avec la fondation pour analyser l'activité des agents et la remercie de ses constats détaillés. L'entreprise ne s'est pas exprimée directement sur les faits.",
+      "url": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage",
+      "source": "The Next Web"
+     }
+    ],
+    "apres": "OpenAI poursuit son analyse avec la fondation ; aucune date n'est annoncée pour des conclusions. La fondation demande que les exploitants d'IA rendent leurs agents identifiables.",
+    "change": "Pour un site ou un service en ligne, la question est de savoir quel agent agit et au nom de qui. Pour un utilisateur de Wikipédia, la fondation ne relève aucune compromission de ses données.",
+    "credit": {
+     "auteur": "Victorgrigas",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_35.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CYBERSÉCURITÉ",
+    "titre": "Google : Gemini 4 Argon d'abord réservé à des défenseurs informatiques",
+    "court": "Gemini 4 Argon : accès réservé aux défenseurs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Campus%2C_Mountain_View%2C_CA.jpg/1280px-Google_Campus%2C_Mountain_View%2C_CA.jpg",
+    "legende": "Vue aérienne du campus de Google à Mountain View, Californie",
+    "chapeau": "Le 30 septembre 2026, Google a présenté Gemini 4 Argon, qu'elle décrit comme son modèle le plus avancé pour la programmation, le travail en entreprise et la défense informatique.",
+    "eclairage": "Pourquoi réserver un modèle aux défenseurs ?",
+    "chiffres": [
+     {
+      "valeur": "650+",
+      "legende": "partenaires du programme Fairwind, selon Google"
+     },
+     {
+      "valeur": "68 %",
+      "legende": "test CWE-bench v1 : score annoncé par Google"
+     },
+     {
+      "valeur": "1 M",
+      "legende": "jetons de sortie maximum (contre 64 000)"
+     }
+    ],
+    "passe": "Le 30 septembre 2026, Google a présenté Gemini 4 Argon, qu'elle décrit comme son modèle le plus avancé pour la programmation, le travail en entreprise et la défense informatique. Il est d'abord proposé à des défenseurs de confiance via le programme Fairwind (plus de 650 partenaires selon Google), sans les garde-fous habituels sur les tâches de cybersécurité, pour tester ses capacités de détection et de correction de failles. Les partenaires doivent respecter des règles : usage défensif ou de recherche, authentification renforcée, interdiction de partager ou revendre l'accès. L'ouverture aux clients payants de l'interface de programmation et aux abonnés Google AI Ultra est prévue ensuite, sans date. Tarif d'introduction annoncé : 2 $ le million de jetons en entrée et 10 $ en sortie, puis 4 $ et 20 $. Google participe aussi au processus volontaire d'accès préalable du gouvernement américain. Les scores (77,9 % à DeepSWE v1.1, 68 % à CWE-bench v1, à égalité pour la première place) sont ceux de Google : aucune évaluation indépendante n'a été relevée.",
+    "points": [],
+    "explication": "Un modèle capable de trouver et corriger des failles logicielles peut aussi aider à en exploiter. Une faille est une erreur de programmation qu'un pirate peut utiliser ; un garde-fou est une règle qui fait refuser certaines demandes au modèle. Google retire ces garde-fous pour des organisations vérifiées (contrôles d'antécédents, authentification renforcée) et attend, avant l'ouverture générale, d'avoir testé ses protections. Démontré ou annoncé ? Le mode d'accès est documenté par Google. Les performances sont des annonces de l'entreprise, sans mesure indépendante relevée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "nom": "Google (annonce)"
+     },
+     {
+      "url": "https://deepmind.google/fairwind-program/",
+      "nom": "Google DeepMind (Fairwind)"
+     },
+     {
+      "url": "https://runtimewire.com/article/google-gemini-4-argon-cyber-defenders",
+      "nom": "Runtime Wire"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Google",
+      "contexte": "annonce du 30 septembre",
+      "texte": "« Argon is also our most resilient model yet against indirect prompt injections »",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Google"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Gouvernement finlandais",
+      "contexte": "ministre de l'Environnement",
+      "texte": "« this is a serious matter: all companies operating in Finland must comply with the law »",
+      "url": "https://arynews.tv/finland-orders-halt-to-work-on-googles-data-centre-sites",
+      "source": "ARY News (avec AFP)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Google",
+      "contexte": "porte-parole Sondre Ronander",
+      "texte": "Selon l'AFP, il dit que Google va étudier les conclusions de l'autorité et suivre ses consignes, et que l'entreprise a agi de bonne foi. Google prévoit de planter des arbres sur 130 hectares à Muhos.",
+      "url": "https://arynews.tv/finland-orders-halt-to-work-on-googles-data-centre-sites",
+      "source": "ARY News (avec AFP)"
+     }
+    ],
+    "apres": "Ouverture annoncée aux clients payants de l'interface de programmation et aux abonnés Google AI Ultra, sans date ; le tarif d'introduction doit ensuite être relevé.",
+    "change": "Pour une entreprise ou une administration, l'accès à ce modèle passe par une candidature vérifiée ; il n'est pas disponible au grand public. Pour les autres, rien ne change à court terme.",
+    "credit": {
+     "auteur": "Austin McKinley",
+     "licence": "CC BY 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Google_Campus,_Mountain_View,_CA.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Finlande : Tuike Finland doit expliquer ses intentions à l'autorité (ARY News, avec AFP)."
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Finlande : date limite d'arrêt des travaux préparatoires de Google à Muhos et Kajaani (ARY News, avec AFP)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "ai)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Agent d'IA",
+    "definition": "Programme adossé à un modèle d'IA qui enchaîne seul des actions pour atteindre un objectif, sans validation humaine à chaque étape."
+   },
+   {
+    "terme": "Garde-fou",
+    "definition": "Règle intégrée à un modèle qui lui fait refuser certaines demandes, par exemple celles qui aideraient à attaquer un système."
+   },
+   {
+    "terme": "Évaluation d'impact environnemental",
+    "definition": "Étude obligatoire, réalisée avant un grand chantier, qui mesure ses effets sur le milieu naturel."
+   },
+   {
+    "terme": "Bac à sable",
+    "definition": "Espace de test où l'on peut essayer des modifications sans qu'elles apparaissent sur les pages publiques."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon la Fondation Wikimedia, la plupart des modifications attribuées à des agents d'OpenAI sur ses wikis étaient des essais dans des espaces de test.",
+   "reponse": true,
+   "explication": "La fondation indique que la plupart des modifications étaient des essais dans des bacs à sable, invisibles des pages que lit le grand public. Quelques-unes touchaient la configuration d'un outil de citations."
   }
  },
  {

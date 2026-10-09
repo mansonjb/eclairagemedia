@@ -160,3 +160,576 @@ Jeudi 8 octobre, l'Assemblée nationale n'a adopté aucun des textes inscrits à
 Réponse : vrai. Vrai : quatre résolutions ont été rejetées et la proposition de loi sur les ZFE n'a pas été mise aux voix, faute de temps avant minuit.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+vendredi 9 octobre 2026 · 13 min de lecture
+
+1. Pétrole : le Brent dépasse 105 $ sur la crainte de frappes en Iran
+
+ÉNERGIE
+
+105 $ : baril de Brent (104,1 à 105,2 $ selon l'heure)
+
++5 % : hausse du Brent jeudi (+3,9 % à 10h30)
+
+92,8 $ : baril de WTI (+5,1 %) (91,6 $ à 10h30)
+
+Ce qui s'est passé
+
+Jeudi 8 octobre, le prix du pétrole a nettement rebondi. Le Brent, référence européenne, a atteint ou dépassé 105 dollars le baril selon les sources : 105,2 dollars en début d'après-midi en Europe (+5 %) selon Euronews, 104,11 dollars (+3,92 %) vers 10h30 pour le contrat de décembre selon BFM Bourse. Le WTI, référence américaine, valait environ 92,75 dollars (+5,1 %) selon Euronews. Des médias américains rapportent que le Pentagone a demandé au commandement Centcom de finaliser ses préparatifs en vue d'une possible reprise de grandes opérations militaires contre l'Iran ; aucune date de frappe n'est fixée. Téhéran a intensifié ses attaques contre des pétroliers dans le détroit d'Ormuz, et l'agence maritime britannique UKMTO a signalé un pétrolier touché au large du Qatar. Mercredi soir, l'Agence internationale de l'énergie (AIE) a indiqué que ses membres soutenaient l'accélération des déblocages de stocks annoncés en mars, avec priorité au diesel, ce qui avait fait reculer les cours avant le rebond de jeudi.
+
+L'éclairage
+
+Pourquoi le pétrole réagit à une menace, pas seulement à un fait
+
+Le prix du pétrole ne dépend pas seulement de ce qui est livré aujourd'hui : il intègre ce que les acheteurs craignent de ne pas trouver demain. Quand les réserves mondiales sont jugées basses, comme l'ont averti de hauts responsables du secteur selon Euronews, une menace sur le transport maritime suffit à faire monter les cours. Le Brent est le prix de référence du pétrole de mer du Nord, utilisé en Europe ; le WTI joue ce rôle aux États-Unis ; le contrat de décembre est le prix fixé aujourd'hui pour une livraison à cette échéance. Les stocks stratégiques sont des réserves détenues par les États : les débloquer ajoute du pétrole sur le marché et peut freiner les prix, comme mercredi.
+
+Ce qu'ils en disent
+
+« Le pétrole reste le principal 'driver' ce matin »
+Natixis (Analystes), analystes cités par l'AFP
+
+Les membres ont soutenu l'accélération des déblocages de stocks décidés en mars, avec priorité donnée au diesel lorsque c'est possible.
+Agence internationale de l'énergie (Régulateur), réunion des pays membres du 7 octobre
+
+Ce qui change
+
+Un baril plus cher renchérit les carburants et les coûts de transport, et pèse sur les entreprises qui consomment beaucoup d'énergie. Il bénéficie aux compagnies pétrolières : TotalEnergies a fini en tête du CAC 40 jeudi (+2,86 %, 77,58 euros) selon Moneyvox.
+
+Et après
+
+Aucune date de frappe n'est fixée. Les marchés suivent les annonces américaines sur l'Iran et les prochaines décisions de l'AIE sur les stocks.
+
+Sources : BFM Bourse (reprend l'AFP) · Euronews · Agence internationale de l'énergie
+
+2. OPmobility : objectifs 2026 abaissés et 770 postes supprimés
+
+INDUSTRIE
+
+-21 % : action OPmobility jeudi (-20,82 % à la clôture)
+
+770 : postes concernés (460 Allemagne, 310 France)
+
+430 M€ : bas de la marge opérationnelle visée (430 à 450 M€)
+
+Ce qui s'est passé
+
+Mercredi 7 octobre à 17h45, OPmobility (ex-Plastic Omnium), équipementier automobile français spécialisé dans les réservoirs, les boucliers et les hayons, a abaissé ses objectifs 2026. Il vise désormais une marge opérationnelle de 430 à 450 millions d'euros, contre plus de 490 millions d'euros attendus précédemment selon Reuters (Investing.com présente ce même niveau comme celui de 2025), un flux de trésorerie disponible supérieur à 220 millions d'euros (plus de 297 millions initialement prévus selon Reuters) et un résultat net « significatif ». Le groupe invoque une dégradation du marché automobile plus marquée qu'anticipé, la volatilité du prix des matières premières et de certains composants liée aux tensions au Moyen-Orient, des prévisions de production revues à la baisse, notamment en Chine, et l'ajustement d'activité de clients européens. Il prévoit des suppressions d'environ 770 postes, dont 460 en Allemagne et 310 en France, avec des évolutions sur ses sites de R&D de Venette (Oise) et de Labège (Haute-Garonne) et sur celui de Flers-en-Escrebieux (Nord) ; Reuters chiffre les coûts de restructuration à 120 à 130 millions d'euros en 2026. Jeudi 8 octobre, l'action a perdu 20,82 % à 9,85 euros selon Moneyvox ; Forvia et Valeo reculaient de 8,3 % et 6,6 % en début de séance selon ABC Bourse.
+
+L'éclairage
+
+Qu'est-ce qu'un avertissement sur résultats ?
+
+Une entreprise cotée publie en début d'année des objectifs (marge, trésorerie, résultat). Quand elle les abaisse en cours d'année, on parle d'avertissement sur résultats. Le cours de bourse reflète les bénéfices que les investisseurs attendent : si ces attentes baissent, l'action baisse. Un équipementier fournit des pièces aux constructeurs et dépend donc de leurs volumes de production. Comme ses usines coûtent à peu près la même chose qu'elles produisent beaucoup ou peu, une baisse des volumes réduit la marge opérationnelle (le bénéfice de l'activité courante) plus vite que le chiffre d'affaires. Une restructuration coûte d'abord de l'argent (indemnités, fermetures) avant de réduire les charges.
+
+Ce qu'ils en disent
+
+« La transformation de notre industrie automobile s'accélère »
+Félicie Burelle (Entreprise), directrice générale d'OPmobility
+
+Deutsche Bank abaisse son objectif de cours de 14 à 11 euros. TP ICAP Midcap le ramène de 15 à 13 euros et garde sa recommandation « conserver ». TP ICAP relève que d'autres équipementiers avaient confirmé leurs prévisions récemment.
+Deutsche Bank et TP ICAP Midcap (Analystes)
+
+Citi garde sa recommandation à l'achat tout en signalant une baisse possible d'environ 12 % du résultat opérationnel consensuel 2026. JP Morgan garde sa recommandation « surpondérer » et réduit d'environ 6 % en moyenne ses estimations de résultat opérationnel.
+Citi et JP Morgan (Analystes)
+
+Ce qui change
+
+Environ 770 salariés sont concernés, 460 en Allemagne et 310 en France ; les suppressions doivent être menées selon les dispositifs légaux de chaque pays, dans le cadre du dialogue social, précise le communiqué.
+
+Et après
+
+OPmobility présentera son chiffre d'affaires du troisième trimestre le 21 octobre 2026.
+
+Sources : communiqué OPmobility · Reuters via Boursorama · ABC Bourse · Investing.com
+
+3. Samsung : bénéfice trimestriel record, près de 9 fois celui de 2025
+
+TECH
+
++783 % : bénéfice opérationnel sur un an (782,5 %)
+
+107,4 : mille milliards de wons de bénéfice (environ 80 Md$)
+
++127 % : chiffre d'affaires : 195 000 Md de wons
+
+Ce qui s'est passé
+
+Jeudi 8 octobre, Samsung Electronics a publié ses estimations préliminaires pour le troisième trimestre 2026. Le chiffre d'affaires consolidé est d'environ 195 000 milliards de wons (fourchette de 194 000 à 196 000) et le bénéfice opérationnel d'environ 107 400 milliards de wons (de 107 300 à 107 500), soit environ 80 milliards de dollars selon les sources, contre 12 170 milliards un an plus tôt et 89 490 milliards au deuxième trimestre. C'est le premier trimestre au-delà de 100 000 milliards de wons de bénéfice opérationnel pour une entreprise coréenne, selon le Korea Times. Le bénéfice dépasse le consensus, de 106,1 mille milliards de wons selon Reuters (LSEG) ou de 106,64 selon le Korea Times ; le chiffre d'affaires reste sous la prévision de 200,64 mille milliards citée par le Korea Times. La mémoire explique l'essentiel du gain : les pénuries de mémoire DRAM et NAND classiques et la forte demande de mémoire à haute bande passante (HBM) pour les serveurs d'IA ont fait monter les prix. La division mobile serait en perte, et celle des appareils (DX) devrait afficher une perte pour le deuxième trimestre de suite selon le Korea Times. L'action Samsung reculait de 0,2 % jeudi matin à Séoul, l'indice Kospi de 0,5 %. Les résultats détaillés seront publiés le 29 octobre.
+
+L'éclairage
+
+Pourquoi une pénurie de puces fait exploser les profits
+
+La DRAM est la mémoire vive, qui sert de zone de travail temporaire à un ordinateur ou à un serveur. La NAND sert au stockage durable. La HBM est une mémoire empilée placée tout près des puces d'IA. Quand la demande dépasse ce que les usines produisent, les prix montent. Pour un fabricant dont les usines sont déjà financées, chaque dollar de hausse de prix se retrouve en grande partie en bénéfice. Le Korea Times note aussi qu'une part croissante des ventes passe par des contrats à long terme, qui rendent les résultats plus stables.
+
+Ce qu'ils en disent
+
+« robust pricing strategy, which once again outperformed the industry average »
+Kim Sun-woo (Analystes), analyste, Meritz Securities
+
+Il estime que les livraisons de HBM ont augmenté d'environ 50 % en volume par rapport au trimestre précédent. Samsung et Micron s'attendent à un déséquilibre entre offre et demande jusqu'en 2028, selon Reuters.
+Douglas Kim (Analystes), analyste cité par Reuters
+
+Ce qui change
+
+Les prix de la DRAM continuent de monter à deux chiffres selon le Korea Times, même si le rythme ralentit : l'achat de mémoire coûte davantage aux fabricants d'ordinateurs, de serveurs et de smartphones.
+
+Et après
+
+Samsung publiera ses résultats détaillés par division le 29 octobre 2026.
+
+Sources : communiqué Samsung Electronics · Korea Times · Reuters via Yahoo Finance
+
+4. Fast Retailing (Uniqlo) : cinquième bénéfice annuel record d'affilée
+
+ENTREPRISES
+
+743 Md : yens de bénéfice opérationnel (+32 %, environ 4,7 Md$)
+
+878 Md : yens de ventes Amérique du Nord et Europe (Chine : 724)
+
+830 Md : yens de bénéfice visés pour l'exercice 2027
+
+Ce qui s'est passé
+
+Jeudi 8 octobre, Fast Retailing, propriétaire de la marque Uniqlo, a publié ses résultats de l'exercice clos le 31 août 2026. Le bénéfice opérationnel atteint 743,13 milliards de yens (+31,7 %, environ 4,7 milliards de dollars), contre 730 milliards prévus par l'entreprise et 726,45 milliards pour la moyenne de 16 analystes réunis par LSEG. Le chiffre d'affaires progresse de 16,6 % à 3 963 milliards de yens et le résultat net part du groupe de 25,3 % à 542,52 milliards. Selon Reuters, l'Amérique du Nord et l'Europe, avec 877,6 milliards de yens de ventes, dépassent pour la première fois la Grande Chine (724 milliards), où la consommation ralentit. Pour l'exercice suivant, le groupe prévoit un bénéfice opérationnel de 830 milliards de yens (environ +12 %) et un chiffre d'affaires de 4 450 milliards (+12,3 %), et 3 545 magasins dans le monde fin août 2027, contre 3 510 un an plus tôt. Sur le yen, les sources divergent : Reuters indique que la direction met en garde contre un yen faible au Japon (coûts d'importation plus élevés, hausses de prix), tandis qu'Investing.com évoque un yen plus fort qui réduit la valeur des ventes à l'étranger.
+
+L'éclairage
+
+Du chiffre d'affaires au bénéfice net : lire un compte de résultat
+
+Le chiffre d'affaires est ce que l'entreprise encaisse en vendant. En retirant les coûts de fabrication, de magasins et de personnel, on obtient le bénéfice opérationnel : ici 743 milliards de yens pour 3 963 milliards de ventes, soit près de 18,8 % (calcul Éclairage). Après les charges financières et les impôts, il reste le résultat net. Vendre dans plusieurs régions répartit le risque : quand la consommation ralentit dans l'une, les autres peuvent compenser, ce que Reuters illustre avec le recul relatif de la Chine.
+
+Ce qu'ils en disent
+
+« When you say 500 billion yen, in our clothing retail sector, that’s a massive company »
+Tadashi Yanai (Entreprise), fondateur et président
+
+Le groupe veut continuer à ouvrir de nouveaux magasins de qualité et à renforcer produits et marque chez Uniqlo International, qu'il présente comme le pilier de croissance du groupe.
+Fast Retailing (Entreprise), communiqué cité par Investing.com
+
+Ce qui change
+
+Pour le groupe, la croissance repose sur l'international : les sources consultées l'attribuent surtout aux magasins étrangers.
+
+Et après
+
+Le groupe prévoit un nouvel exercice de bénéfice record en 2027, mais à un rythme plus lent (+12 % contre +32 %).
+
+Sources : Reuters via Euronext · Investing.com via Yahoo Finance · Fast Retailing (relations investisseurs)
+
+À venir
+
+- 9 oct. : Delta Air Lines : résultats trimestriels avant l'ouverture de Wall Street ; États-Unis : indice préliminaire de confiance des consommateurs de l'université du Michigan à 16h, heure de Paris (Moneyvox).
+- 12 oct. : Banque de France : enquête mensuelle de conjoncture de début octobre (calendrier de la Banque de France).
+- 15 oct. : Insee : résultats définitifs de l'indice des prix à la consommation de septembre, à 8h45 (calendrier de l'Insee).
+- 21 oct. : OPmobility : chiffre d'affaires du troisième trimestre (communiqué de la société).
+
+Les mots du jour
+
+Avertissement sur résultats
+Annonce par une entreprise cotée qu'elle abaisse les objectifs financiers publiés plus tôt dans l'année.
+Bénéfice opérationnel
+Ce qu'il reste des ventes une fois payés les coûts de l'activité courante, avant charges financières et impôts.
+HBM
+Mémoire à haute bande passante : des puces de mémoire empilées, placées tout près des processeurs d'intelligence artificielle.
+Stocks stratégiques
+Réserves de pétrole détenues par les États, que l'on peut débloquer pour freiner une hausse des prix.
+
+Vrai ou faux ?
+
+OPmobility a relevé ses objectifs financiers pour 2026 mercredi soir.
+
+Réponse : faux. Faux : le groupe a abaissé ses objectifs, avec une marge opérationnelle visée de 430 à 450 millions d'euros et environ 770 postes concernés, selon son communiqué du 7 octobre.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+vendredi 9 octobre 2026 · 12 min de lecture
+
+1. Test sanguin multicancer : l'essai NHS-Galleri rate son critère principal
+
+CANCER
+
+1,03 : stades III-IV (IC 0,92 à 1,14)
+
+0,86 : stade IV, critère secondaire
+
+142 k : participants (142 250)
+
+Ce qui s'est passé
+
+Les résultats de NHS-Galleri, le plus grand essai randomisé d'un test sanguin de détection précoce de plusieurs cancers, ont été publiés dans le New England Journal of Medicine et relayés le 1er octobre 2026. Ils avaient été présentés une première fois en mai au congrès de l'ASCO. L'essai a suivi 142 250 personnes de 50 à 77 ans en Angleterre, tirées au sort : 71 122 ont fait analyser leur sang par le test Galleri de la société GRAIL lors de trois prises de sang annuelles, et 71 128 formaient le groupe témoin, dont les échantillons étaient seulement conservés. Le critère principal était le nombre de cancers de stade III ou IV pour 12 types de cancer choisis à l'avance. Il n'a pas baissé : 706 cas dans le groupe testé contre 688 dans le groupe témoin, soit un rapport de taux d'incidence de 1,03 (intervalle de confiance à 95 % de 0,92 à 1,14). Pour le stade IV, critère secondaire, le rapport est de 0,86 (0,74 à 1,00). L'essai a reçu le soutien de GRAIL.
+
+L'éclairage
+
+Que veut dire « critère principal manqué » ?
+
+Le critère principal est la mesure que les chercheurs annoncent avant l'essai pour juger du résultat. Ici : moins de cancers découverts à un stade avancé (III ou IV) si le test repère plus tôt. Cette baisse n'a pas été observée. Un critère secondaire est une mesure de plus. Quand on en regarde plusieurs, le hasard peut produire une différence apparente. Ici, l'intervalle de confiance du stade IV (0,74 à 1,00) touche la valeur 1, qui signifie « aucune différence » : le résultat est donc fragile. Détecter plus de cancers n'est pas guérir plus de patients. Seules la survie et la mortalité le montreraient, et le suivi n'est pas encore assez long pour les mesurer. Ils écrivent « In this trial, we did not observe a lower incidence rate of stage III or IV cancers » (« dans cet essai, nous n'avons pas observé de taux d'incidence plus faible des cancers de stade III ou IV »), et jugent un suivi plus long nécessaire. À la présentation de mai, il juge que les chercheurs présentent leurs résultats « far more positively than the overall results justify » (« bien plus favorablement que ne le justifient les résultats d'ensemble ») et prévient qu'un usage à grande échelle chargerait les services de diagnostic du NHS. Intérêts déclarés : aucun. Il juge l'essai important, rappelle que le critère principal n'a pas été atteint et met en garde contre le fait de « moving the goal posts » (déplacer les poteaux de but) en relisant les résultats après coup. Il a des liens passés avec des sociétés de diagnostic (Inivata, NeoGenomics). Dans son communiqué du 19 février 2026, la société indique que la baisse du stade III-IV n'a pas été observée et décrit une réduction des diagnostics de stade IV qu'elle juge importante, de plus de 20 % aux deuxième et troisième tours.
+
+Ce qu'ils en disent
+
+Ils écrivent « In this trial, we did not observe a lower incidence rate of stage III or IV cancers » (« dans cet essai, nous n'avons pas observé de taux d'incidence plus faible des cancers de stade III ou IV »), et jugent un suivi plus long nécessaire.
+Auteurs de l'essai (Auteurs), NEJM
+
+À la présentation de mai, il juge que les chercheurs présentent leurs résultats « far more positively than the overall results justify » (« bien plus favorablement que ne le justifient les résultats d'ensemble ») et prévient qu'un usage à grande échelle chargerait les services de diagnostic du NHS. Intérêts déclarés : aucun.
+Richard Houlston (Expert indépendant), Institute of Cancer Research, Londres
+
+Il juge l'essai important, rappelle que le critère principal n'a pas été atteint et met en garde contre le fait de « moving the goal posts » (déplacer les poteaux de but) en relisant les résultats après coup. Il a des liens passés avec des sociétés de diagnostic (Inivata, NeoGenomics).
+Nitzan Rosenfeld (Expert indépendant), Barts Cancer Institute, Londres
+
+Dans son communiqué du 19 février 2026, la société indique que la baisse du stade III-IV n'a pas été observée et décrit une réduction des diagnostics de stade IV qu'elle juge importante, de plus de 20 % aux deuxième et troisième tours.
+GRAIL (Industrie), fabricant du test
+
+Ce qui change
+
+Le test était évalué en plus des dépistages habituels, pas à leur place.
+
+Et après
+
+Un suivi plus long doit dire si la baisse du stade IV se confirme et si la survie s'améliore. Aucune date n'est annoncée dans les sources consultées.
+
+Sources : NEJM (DOI) · The ASCO Post · Science Media Centre · HMP Global
+
+2. Survodutide : un essai de phase 3 dans l'obésité avec diabète de type 2
+
+TRAITEMENT
+
+−9,8 % : de poids à 76 sem. (placebo −3,9 %)
+
+18 % : arrêts pour effets digestifs (placebo 1,2 %)
+
+752 : participants adultes
+
+Ce qui s'est passé
+
+Le 1er octobre 2026, au congrès de l'Association européenne pour l'étude du diabète (EASD) à Milan, des chercheurs ont présenté les résultats de SYNCHRONIZE-2, un essai de phase 3 du laboratoire Boehringer Ingelheim, publiés dans le New England Journal of Medicine. Le survodutide est un médicament expérimental, injecté une fois par semaine, qui agit sur deux récepteurs hormonaux, ceux du glucagon et du GLP-1. L'essai a suivi 752 adultes atteints de diabète de type 2 et d'un indice de masse corporelle d'au moins 27 (755 selon deux sources, nous retenons le chiffre de la majorité), tirés au sort pour recevoir 3,6 mg, 6 mg ou un placebo pendant 76 semaines. Le poids a baissé en moyenne de 8,2 % avec 3,6 mg et de 9,8 % avec 6 mg, contre 3,9 % avec le placebo ; 57,6 % et 64,5 % des participants ont perdu au moins 5 % de leur poids, contre 35,1 %. Les arrêts de traitement pour effets digestifs ont concerné 18 % des participants sous survodutide, contre 1,2 % sous placebo.
+
+L'éclairage
+
+Pourquoi deux chiffres de perte de poids ?
+
+Le premier chiffre (−9,8 %) compte tous les participants tirés au sort, y compris ceux qui ont arrêté le traitement. Il se rapproche de ce qui se passe dans la vraie vie. Le second (−13,1 % contre −3,1 %) ne compte que les participants qui ont suivi le traitement. Il montre ce que le médicament peut faire quand on le supporte, mais il est plus flatteur. Le placebo est un produit sans effet actif : la différence avec lui, et non la perte de poids seule, mesure l'effet du médicament. Une phase 3 est la dernière étape avant une demande d'autorisation ; un médicament expérimental n'est pas disponible en pharmacie. Il décrit « an impressive amount of weight loss in patients living with type 2 diabetes » (« une perte de poids impressionnante chez des patients vivant avec un diabète de type 2 »). Il déclare des liens avec Boehringer Ingelheim, Eli Lilly et Novo Nordisk. Selon AJMC, la plupart des arrêts sont survenus pendant l'augmentation des doses, et des études en cours ou prévues testent une montée en dose plus individualisée.
+
+Ce qu'ils en disent
+
+Il décrit « an impressive amount of weight loss in patients living with type 2 diabetes » (« une perte de poids impressionnante chez des patients vivant avec un diabète de type 2 »). Il déclare des liens avec Boehringer Ingelheim, Eli Lilly et Novo Nordisk.
+Sean Wharton (Auteurs), investigateur de l'essai
+
+Selon AJMC, la plupart des arrêts sont survenus pendant l'augmentation des doses, et des études en cours ou prévues testent une montée en dose plus individualisée.
+Boehringer Ingelheim (Industrie), développeur du médicament
+
+Ce qui change
+
+Rien ne change aujourd'hui pour les patients : le médicament est expérimental. Pour les soignants, l'essai ajoute des données sur un candidat de plus contre l'obésité, avec une tolérance digestive à surveiller.
+
+Et après
+
+Les études en cours sur la montée en dose. Aucune demande d'autorisation n'est annoncée dans les sources consultées.
+
+Sources : NEJM (DOI) · Healio · AJMC · Medical Dialogues
+
+3. Cancer du col de l'utérus : robot ou chirurgie ouverte, des suites proches
+
+CHIRURGIE
+
+900 : patientes tirées au sort
+
+5,7 % : complications pendant l'opération (robot)
+
+33 % : complications à 30 j (33,4 % / 34,8 %)
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, le Karolinska Institutet (Suède) a annoncé la publication dans JAMA Surgery des premiers résultats de l'essai RACC, coordonné par l'hôpital universitaire Karolinska. 900 femmes atteintes d'un cancer du col de l'utérus à un stade précoce, dans des hôpitaux européens, ont été tirées au sort pour une hystérectomie radicale (ablation de l'utérus et des tissus voisins) par robot ou par chirurgie ouverte. Pendant l'opération, des complications sont survenues chez 5,7 % des patientes opérées avec le robot, contre 10,0 % avec la chirurgie ouverte, surtout des complications peu graves. À 30 jours, les complications concernent 33,4 % et 34,8 % des patientes, sans différence significative, avec des réhospitalisations et des réopérations comparables. À un mois, la récupération est globalement semblable. Ces résultats portent sur des critères secondaires ; le critère principal, la survie sans récidive, est toujours suivi.
+
+L'éclairage
+
+Robot, chirurgie ouverte : de quoi parle-t-on ?
+
+Avec le robot, le chirurgien commande depuis une console des instruments introduits par de petites incisions. La chirurgie ouverte passe par une incision plus large. Pourquoi comparer ? Un essai précédent, LACC, avait trouvé une survie sans maladie et une survie globale moins bonnes avec la chirurgie par petites incisions, sans avantage sur la qualité de vie ni sur les complications. RACC cherche à vérifier cela avec la chirurgie robotique. Ce que ne dit pas cet essai : les auteurs précisent que ces premiers résultats ne permettent pas de juger la sécurité du robot pour le cancer lui-même, puisque la survie sans récidive n'est pas encore connue. Présentation de l'essai → Elle indique que « Overall, the results show that the expected benefits of robot-assisted surgery were limited » (« dans l'ensemble, les résultats montrent que les bénéfices attendus de la chirurgie robotique étaient limités »), et que les complications peropératoires moins fréquentes étaient surtout peu graves. Financement : non précisé dans les sources consultées.
+
+Ce qu'ils en disent
+
+Elle indique que « Overall, the results show that the expected benefits of robot-assisted surgery were limited » (« dans l'ensemble, les résultats montrent que les bénéfices attendus de la chirurgie robotique étaient limités »), et que les complications peropératoires moins fréquentes étaient surtout peu graves. Financement : non précisé dans les sources consultées.
+Sahar Salehi (Auteurs), chirurgienne, Karolinska
+
+Ce qui change
+
+Dans cet essai, le robot a réduit les complications pendant l'opération, mais pas la récupération à un mois ni les complications à 30 jours.
+
+Et après
+
+Les résultats sur la survie sans récidive, critère principal de l'essai. Le registre ClinicalTrials.gov prévoit un achèvement en 2027.
+
+Sources : JAMA Surgery · Medical Xpress (Karolinska Institutet) · ClinicalTrials.gov
+
+À venir
+
+- 8 nov. : Congrès de l'American Heart Association (Chicago) : Editas y prévoit une présentation sur la durabilité des données d'EDIT-401, chez le primate.
+
+Les mots du jour
+
+Essai randomisé
+Un essai où les participants sont répartis au hasard entre le traitement testé et une comparaison, pour que les deux groupes soient semblables au départ.
+Critère principal et critère secondaire
+Le critère principal est la mesure annoncée à l'avance pour juger l'essai. Les critères secondaires apportent des pistes, mais prouvent moins.
+Intervalle de confiance
+La fourchette où se situe probablement le vrai résultat. Si elle contient la valeur « aucune différence » (1 pour un rapport), l'effet n'est pas démontré.
+Placebo
+Un produit sans effet actif donné au groupe de comparaison, pour mesurer ce qui vient réellement du médicament.
+
+Vrai ou faux ?
+
+Selon l'essai NutriVax publié dans Nature Medicine, distribuer des compléments nutritifs avec la vaccination a réduit le nombre de cas de rougeole au Nigeria.
+
+Réponse : faux. L'essai a mesuré la couverture vaccinale (1re dose du vaccin rougeole vérifiée sur carte : 20,1 points de plus que dans le groupe témoin), pas le nombre de cas de rougeole.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+vendredi 9 octobre 2026 · 5 min de lecture
+
+1. Lycées de La Rochelle : réouverture espérée lundi 12 octobre
+
+ÉDUCATION
+
+2 : jours de fermeture
+
+8 : gardes à vue le 1er octobre
+
+12 oct. : réouverture espérée
+
+Ce qui s'est passé
+
+Après des blocages et des incendies de poubelles devant les lycées Dautet et Valin mercredi 7 octobre, le recteur de l'académie de Poitiers, Nicolas Castoldi, et le préfet de Charente-Maritime ont fermé tous les lycées de La Rochelle jeudi 8 et vendredi 9 octobre ; les autres lycées du département restent ouverts. Le recteur indique avoir pris la décision après avoir échangé avec les proviseurs de la ville, qui jugeaient les conditions d'accueil non réunies, et qualifie d'inédit le niveau de violence autour de ces rassemblements (propos résumés, sans guillemets). Il dit espérer rouvrir les établissements en présentiel lundi 12 octobre, en s'appuyant sur des séances de dialogue dans les lycées demandées par le gouvernement. Le 1er octobre, huit personnes dont sept mineurs avaient été placées en garde à vue, selon inf-info qui cite le procureur. La Ville de La Rochelle indique que des manifestations sont prévues vendredi 9 octobre : le marché alimentaire de la place de Verdun ne peut pas se tenir de 13 h 30 à 19 h ce jour-là, et la circulation est perturbée dans le centre-ville.
+
+- Le recteur dirige l'académie et l'Éducation nationale dans le département ; ici, il décide avec le préfet, représentant de l'État, qui est responsable de l'ordre public.
+- Les proviseurs évaluent si leur établissement peut accueillir élèves et personnels en sécurité ; leur avis a été sollicité avant la fermeture.
+- La Région Nouvelle-Aquitaine gère les bâtiments des lycées ; la Ville et l'Agglo gèrent l'espace public (place de Verdun, marché) et le réseau de bus Yélo.
+
+L'éclairage
+
+Qui peut fermer un lycée, et qui décide de rouvrir ?
+
+Ce qu'ils en disent
+
+Décrit des conditions non réunies pour que les équipes accueillent les lycéens et un niveau de violence inédit ; espère rouvrir lundi et compte sur des séances de dialogue dans les lycées (propos résumés, sans guillemets).
+Nicolas Castoldi (État / académie), recteur de l'académie de Poitiers
+
+Signale des manifestations vendredi 9 octobre, un marché de la place de Verdun indisponible de 13 h 30 à 19 h et une circulation perturbée en centre-ville.
+Ville de La Rochelle (Ville), services municipaux
+
+Ont appelé à un rassemblement jeudi 8 octobre à 9 h place de Verdun et invité les enseignants à rejoindre les lycéens, si besoin en faisant grève.
+CGT Éduc'Action et FSU (Syndicats), syndicats d'enseignants
+
+Ce qui change
+
+Pour les lycéens et les familles, pas de cours en présentiel vendredi ; en ville, le marché de la place de Verdun est interrompu de 13 h 30 à 19 h et la circulation reste perturbée en centre-ville.
+
+Et après
+
+Le recteur espère une réouverture en présentiel lundi 12 octobre ; aucune date officielle n'est confirmée à ce stade.
+
+Sources : Ville de La Rochelle · ICI (entretien avec le recteur) · inf-info · France 3 (contexte du 6 octobre)
+
+À venir
+
+- 9 oct. : fr).
+- 11 oct. : fr).
+- 12 oct. : Lycées : réouverture en présentiel espérée par le recteur (ICI).
+- 15 oct. : fr).
+
+Les mots du jour
+
+Recteur
+Représentant du ministre de l'Éducation nationale à la tête d'une académie (ici celle de Poitiers) ; il pilote les écoles, collèges et lycées de son territoire.
+Espace naturel sensible (ENS)
+Site naturel reconnu par un Département pour sa richesse écologique, que celui-ci peut aider à protéger et à ouvrir au public.
+
+Vrai ou faux ?
+
+Les 8 et 9 octobre 2026, tous les lycées de La Rochelle sont fermés sur décision conjointe du recteur de Poitiers et du préfet de Charente-Maritime.
+
+Réponse : vrai. Le recteur Nicolas Castoldi a indiqué que la décision a été prise avec le préfet, après échange avec les proviseurs de la ville ; les autres lycées du département restent ouverts.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+vendredi 9 octobre 2026 · 5 min de lecture
+
+1. Sécheresse : des prêts à taux zéro annoncés pour les éleveurs
+
+AGRICULTURE
+
+2 Md€ : encours de prêts couvrable
+
+2,5 % : taux bancaire, intérêts pris en charge
+
+Juin : arrêt de la pousse des prairies
+
+Ce qui s'est passé
+
+Le jeudi 8 octobre 2026, au Sommet de l'élevage de Cournon-d'Auvergne (Puy-de-Dôme), la ministre de l'Agriculture, Annie Genevard, a annoncé des prêts à taux zéro pour les agriculteurs touchés par la sécheresse. Le dispositif peut couvrir un encours de 2 milliards d'euros de prêts, destinés notamment à l'achat de fourrage et d'intrants. Il sera présenté sous forme d'amendement au projet de budget pour 2027, en cours d'examen au Parlement, et dépend donc de son adoption. Les banques ayant accepté de prêter à environ 2,5 %, l'État financera les intérêts. Selon le ministère : « Concrètement, pour un agriculteur contractant un prêt à 2,5% sur deux ans, cela équivaudra ainsi à un prêt à zéro euro d'intérêts ». Un dispositif distinct de rééchelonnement de prêt est prévu pour les agriculteurs récemment installés. En septembre, le gouvernement avait annoncé un plan d'urgence de plus d'un milliard d'euros, que les syndicats agricoles ont jugé insuffisant. Selon l'AFP, la pousse des prairies est à l'arrêt depuis juin faute de pluie et les céréales et le maïs ont souffert de la chaleur et du manque d'eau.
+
+L'éclairage
+
+Que veut dire « prêt à taux zéro » pour un éleveur ?
+
+Il s'agit d'un prêt bancaire ordinaire, dont l'État prend en charge les intérêts : l'agriculteur ne rembourse que le capital emprunté. Ce n'est donc pas une aide versée, mais une avance qu'il faudra rembourser. L'encours de 2 milliards d'euros est le montant total de prêts que le dispositif peut couvrir, et non une somme distribuée. Le fourrage (herbe, foin, ensilage) nourrit les animaux en hiver ; les intrants sont les produits achetés pour produire, comme les engrais ou les aliments du bétail. Sans pousse d'herbe, les éleveurs entament leurs stocks d'hiver dès l'été, ce qui explique le besoin de trésorerie.
+
+Ce qu'ils en disent
+
+Le ministère explique que, les banques prêtant à environ 2,5 %, l'État finance les intérêts pour que le prêt soit sans intérêts pour l'agriculteur. Selon l'AFP, la ministre a reconnu le « désarroi » des éleveurs, qui pourrait mener à des « mouvements de colère ».
+Ministère de l'Agriculture (Pouvoirs publics), Annie Genevard, ministre
+
+« La repousse automnale n'est pas un scénario crédible »
+FNSEA (Agriculteurs), Patrick Bénézit, éleveur et vice-président
+
+« Le prêt à taux zéro ne va pas régler le problème parce que si on n'a pas de fourrage, aujourd'hui on n'a pas besoin d'un prêt »
+Loïc Caillens (Agriculteurs), éleveur en Haute-Loire, 36 ans
+
+Ce qui change
+
+Pour les éleveurs, le dispositif permettrait d'emprunter pour acheter du fourrage et des intrants sans payer d'intérêts, sous réserve du vote du budget.
+
+Et après
+
+L'amendement doit être présenté dans le cadre de l'examen parlementaire du budget 2027, en cours. Le Sommet de l'élevage se termine le 9 octobre.
+
+Sources : franceinfo · Boursorama (avec AFP) · Agra
+
+À venir
+
+- 9 oct. : Dernier jour du Sommet de l'élevage à Cournon-d'Auvergne.
+- Fin nov. : Décision de l'Autorité de la concurrence sur la fusion Terrena/Agrial attendue fin novembre ou début décembre, puis vote des adhérents mi-décembre (selon Agra).
+
+Les mots du jour
+
+Encours
+Le montant total de prêts en cours à un instant donné, ici le plafond de prêts que le dispositif peut couvrir.
+Fourrage
+Les végétaux (herbe, foin, ensilage) qui nourrissent le bétail, surtout en hiver.
+Intrants
+Les produits achetés pour produire : engrais, semences, aliments du bétail.
+
+Vrai ou faux ?
+
+Dans le dispositif annoncé le 8 octobre, l'État finance les intérêts des prêts sécheresse pour qu'ils soient à taux zéro pour les agriculteurs.
+
+Réponse : vrai. Les banques prêtent à environ 2,5 % et l'État prend en charge les intérêts. Le capital reste à rembourser, et le dispositif dépend de l'adoption du budget 2027.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+vendredi 9 octobre 2026 · 10 min de lecture
+
+1. Wikimedia : des agents d'OpenAI auraient modifié ses wikis sans accord
+
+IA
+
+5 oct. : publication des constats de Wikimedia
+
+65 % : du trafic le plus coûteux vient de robots, dit la fondation
+
+50 % : hausse de bande passante depuis 2024, selon la fondation
+
+Ce qui s'est passé
+
+Le 5 octobre 2026, la Fondation Wikimedia, qui héberge Wikipédia, a indiqué avoir repéré sur ses wikis des modifications qu'elle attribue à des agents d'IA (programmes qui exécutent seuls des tâches) exploités par OpenAI. La plupart étaient des essais dans des espaces de test, hors des pages lues par le public. Quelques-unes changeaient la configuration d'un outil de citations, ce que la fondation juge potentiellement malveillant, et des agents ont tenté sans succès d'utiliser un outil public de notes, Etherpad, comme relais pour récupérer des données ailleurs. Les mêmes agents auraient envoyé des millions de requêtes à ses interfaces publiques et des centaines de milliers de requêtes à Wikidata, ce qui a pu contribuer à une panne partielle en mai ; la fondation ne l'établit pas de façon certaine. Elle ne relève ni compromission de ses systèmes ni coordination entre agents. Aucune des approbations communautaires exigées pour les robots n'a été demandée. OpenAI dit analyser ces constats avec la fondation et n'a pas, selon The Next Web, répondu directement aux faits reprochés.
+
+L'éclairage
+
+Qu'est-ce qu'un agent d'IA, et pourquoi pose-t-il un problème de règles ?
+
+Un agent est un programme adossé à un modèle d'IA qui enchaîne des actions sans validation humaine à chaque étape : lire des pages, appeler des services, modifier des contenus. Sur Wikipédia, un robot peut modifier des pages seulement après accord de la communauté et en se déclarant. La fondation demande que les systèmes d'IA soient identifiables par les sites à but non lucratif. Démontré ou annoncé ? Les constats viennent de la fondation, qui a aussi publié la liste des modifications concernées. OpenAI n'a pas, à ce stade, confirmé ni contesté publiquement le détail, et le lien avec la panne de mai n'est pas établi.
+
+Ce qu'ils en disent
+
+« The open web is a public good. »
+Fondation Wikimedia (Association / société civile), communiqué du 5 octobre
+
+Selon The Next Web, OpenAI affirme travailler avec la fondation pour analyser l'activité des agents et la remercie de ses constats détaillés. L'entreprise ne s'est pas exprimée directement sur les faits.
+OpenAI (Entreprise), réaction du 6 octobre
+
+Ce qui change
+
+Pour un site ou un service en ligne, la question est de savoir quel agent agit et au nom de qui. Pour un utilisateur de Wikipédia, la fondation ne relève aucune compromission de ses données.
+
+Et après
+
+OpenAI poursuit son analyse avec la fondation ; aucune date n'est annoncée pour des conclusions. La fondation demande que les exploitants d'IA rendent leurs agents identifiables.
+
+Sources : Fondation Wikimedia (constats) · The Register · The Next Web · BleepingComputer
+
+2. Google : Gemini 4 Argon d'abord réservé à des défenseurs informatiques
+
+CYBERSÉCURITÉ
+
+650+ : partenaires du programme Fairwind, selon Google
+
+68 % : test CWE-bench v1 : score annoncé par Google
+
+1 M : jetons de sortie maximum (contre 64 000)
+
+Ce qui s'est passé
+
+Le 30 septembre 2026, Google a présenté Gemini 4 Argon, qu'elle décrit comme son modèle le plus avancé pour la programmation, le travail en entreprise et la défense informatique. Il est d'abord proposé à des défenseurs de confiance via le programme Fairwind (plus de 650 partenaires selon Google), sans les garde-fous habituels sur les tâches de cybersécurité, pour tester ses capacités de détection et de correction de failles. Les partenaires doivent respecter des règles : usage défensif ou de recherche, authentification renforcée, interdiction de partager ou revendre l'accès. L'ouverture aux clients payants de l'interface de programmation et aux abonnés Google AI Ultra est prévue ensuite, sans date. Tarif d'introduction annoncé : 2 $ le million de jetons en entrée et 10 $ en sortie, puis 4 $ et 20 $. Google participe aussi au processus volontaire d'accès préalable du gouvernement américain. Les scores (77,9 % à DeepSWE v1.1, 68 % à CWE-bench v1, à égalité pour la première place) sont ceux de Google : aucune évaluation indépendante n'a été relevée.
+
+L'éclairage
+
+Pourquoi réserver un modèle aux défenseurs ?
+
+Un modèle capable de trouver et corriger des failles logicielles peut aussi aider à en exploiter. Une faille est une erreur de programmation qu'un pirate peut utiliser ; un garde-fou est une règle qui fait refuser certaines demandes au modèle. Google retire ces garde-fous pour des organisations vérifiées (contrôles d'antécédents, authentification renforcée) et attend, avant l'ouverture générale, d'avoir testé ses protections. Démontré ou annoncé ? Le mode d'accès est documenté par Google. Les performances sont des annonces de l'entreprise, sans mesure indépendante relevée.
+
+Ce qu'ils en disent
+
+« Argon is also our most resilient model yet against indirect prompt injections »
+Google (Entreprise), annonce du 30 septembre
+
+« this is a serious matter: all companies operating in Finland must comply with the law »
+Gouvernement finlandais (Régulateur), ministre de l'Environnement
+
+Selon l'AFP, il dit que Google va étudier les conclusions de l'autorité et suivre ses consignes, et que l'entreprise a agi de bonne foi. Google prévoit de planter des arbres sur 130 hectares à Muhos.
+Google (Entreprise), porte-parole Sondre Ronander
+
+Ce qui change
+
+Pour une entreprise ou une administration, l'accès à ce modèle passe par une candidature vérifiée ; il n'est pas disponible au grand public. Pour les autres, rien ne change à court terme.
+
+Et après
+
+Ouverture annoncée aux clients payants de l'interface de programmation et aux abonnés Google AI Ultra, sans date ; le tarif d'introduction doit ensuite être relevé.
+
+Sources : Google (annonce) · Google DeepMind (Fairwind) · Runtime Wire
+
+À venir
+
+- 14 oct. : Finlande : Tuike Finland doit expliquer ses intentions à l'autorité (ARY News, avec AFP).
+- 23 oct. : Finlande : date limite d'arrêt des travaux préparatoires de Google à Muhos et Kajaani (ARY News, avec AFP).
+- 27 oct. : ai).
+
+Les mots du jour
+
+Agent d'IA
+Programme adossé à un modèle d'IA qui enchaîne seul des actions pour atteindre un objectif, sans validation humaine à chaque étape.
+Garde-fou
+Règle intégrée à un modèle qui lui fait refuser certaines demandes, par exemple celles qui aideraient à attaquer un système.
+Évaluation d'impact environnemental
+Étude obligatoire, réalisée avant un grand chantier, qui mesure ses effets sur le milieu naturel.
+Bac à sable
+Espace de test où l'on peut essayer des modifications sans qu'elles apparaissent sur les pages publiques.
+
+Vrai ou faux ?
+
+Selon la Fondation Wikimedia, la plupart des modifications attribuées à des agents d'OpenAI sur ses wikis étaient des essais dans des espaces de test.
+
+Réponse : vrai. La fondation indique que la plupart des modifications étaient des essais dans des bacs à sable, invisibles des pages que lit le grand public. Quelques-unes touchaient la configuration d'un outil de citations.
+
+Retrouvez cette édition sur eclairagemedia.com.
