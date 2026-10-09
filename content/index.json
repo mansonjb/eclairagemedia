@@ -1,5 +1,341 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-09",
+  "minutes": 14,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : le gouvernement annonce 3 000 professeurs remplaçants",
+    "court": "Lycées : 3 000 professeurs remplaçants",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_09.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_09.jpg",
+    "legende": "Manifestation de lycéens et d'étudiants à Perpignan",
+    "chapeau": "Jeudi 8 octobre, après la quatrième journée d'action lycéenne, le ministre de l'Éducation nationale Édouard Geffray a annoncé sur TF1 un plan d'urgence contre le non-remplacement des professeurs absents : 3 000 professeurs non affectés doivent être mobilisés « dans les heures et les jours qui viennent », dès vendredi 9 octobre.",
+    "eclairage": "Remplacer un professeur absent : qui décide ?",
+    "chiffres": [
+     {
+      "valeur": "3 000",
+      "legende": "professeurs déployés"
+     },
+     {
+      "valeur": "114",
+      "legende": "lycées classés « rouges »"
+     },
+     {
+      "valeur": "66 000",
+      "legende": "lycéens ont répondu"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, après la quatrième journée d'action lycéenne, le ministre de l'Éducation nationale Édouard Geffray a annoncé sur TF1 un plan d'urgence contre le non-remplacement des professeurs absents : 3 000 professeurs non affectés doivent être mobilisés « dans les heures et les jours qui viennent », dès vendredi 9 octobre. Un logiciel, demandé un an plus tôt, a permis de classer 114 lycées en situation critique (« rouges ») et 400 autres en situation prioritaire (« oranges »). Les recteurs pourront recruter au-delà de leurs autorisations actuelles, soit quelques centaines de professeurs, et plusieurs centaines de milliers d'heures supplémentaires seront attribuées aux proviseurs. Le ministre dit que 66 000 lycéens ont répondu à la consultation ouverte par le gouvernement et que des réponses seront apportées « établissement par établissement ». Une nouvelle journée d'action est annoncée pour mardi 13 octobre.",
+    "points": [],
+    "explication": "Un recteur dirige une académie, l'échelon régional de l'Éducation nationale : c'est lui qui affecte les professeurs remplaçants dans les établissements. Le pacte enseignant permet de rémunérer des heures supplémentaires ; ici, elles serviraient à des remplacements de courte durée par des professeurs déjà présents dans l'établissement. Selon LCP, le ministre dit n'avoir pas eu plus tôt « les outils de pilotage » pour repérer les lycées les plus touchés.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/144-lycees-en-situation-tres-problematique-edouard-geffray-annonce-le-deploiement-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.ici.fr/infos/societe/colere-des-lyceens-le-ministre-de-l-education-nationale-annonce-l-arrivee-de-3-000-professeurs-remplacants-6078016",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://www.24heures.ch/france-geffray-annonce-3000-professeurs-remplacants-dans-les-lycees-216656042232",
+      "nom": "24 heures"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LES LYCÉENS",
+      "qui": "Pierre Sourzat",
+      "contexte": "président de l'association",
+      "texte": "Une « première annonce concrète »",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Paul Vannier",
+      "contexte": "député",
+      "texte": "« Un réquisitoire hypocrite contre dix années de macronisme éducatif »",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION ÉTUDIANTE",
+      "qui": "Sabrine Kharbach",
+      "contexte": "porte-parole",
+      "texte": "« Tant qu'on n'aura pas 10 milliards sur la table, on continuera à se mobiliser »",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale",
+      "texte": "Sur le retard : « Nous n'avions pas les outils de pilotage »",
+      "url": "https://lcp.fr/actualites/144-lycees-en-situation-tres-problematique-edouard-geffray-annonce-le-deploiement-de",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Déplacement du ministre vendredi 9 octobre dans un lycée du Val-de-Marne ; nouvelle journée d'action mardi 13 octobre ; amendements du gouvernement au budget 2027 annoncés.",
+    "change": "Les remplacements sont ciblés d'abord sur les 114 lycées « rouges » et les 400 « oranges ». Le gouvernement n'a pas annoncé de hausse du budget de l'Éducation nationale par rapport au projet déjà présenté, selon LCP.",
+    "credit": {
+     "auteur": "Aurelio Cárdenas",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_(Acte_III)_09.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ASSEMBLÉE",
+    "titre": "Niche du RN : aucun texte adopté, la suppression des ZFE non votée",
+    "court": "Niche RN : aucun texte adopté",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lyon_5e_-_Rue_S%C5%93ur_Bouvier_-_Panneau_entr%C3%A9e_zone_%C3%A0_faibles_%C3%A9missions_%28ZFE%29_%28f%C3%A9v_2025%29.jpg/1280px-Lyon_5e_-_Rue_S%C5%93ur_Bouvier_-_Panneau_entr%C3%A9e_zone_%C3%A0_faibles_%C3%A9missions_%28ZFE%29_%28f%C3%A9v_2025%29.jpg",
+    "legende": "Panneau d'entrée d'une zone à faibles émissions à Lyon (illustration)",
+    "chapeau": "Jeudi 8 octobre, le RN disposait d'une journée réservée à l'Assemblée nationale, la « niche » du groupe.",
+    "eclairage": "Qu'est-ce qu'une niche parlementaire, et une ZFE ?",
+    "chiffres": [
+     {
+      "valeur": "0",
+      "legende": "texte adopté pour la journée du RN"
+     },
+     {
+      "valeur": "164-49",
+      "legende": "amendement de suppression rejeté"
+     },
+     {
+      "valeur": "21-19",
+      "legende": "vote du texte ZFE en commission"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, le RN disposait d'une journée réservée à l'Assemblée nationale, la « niche » du groupe. Quatre résolutions, sans valeur contraignante, ont été rejetées : l'eau potable en outre-mer (160 voix contre 156), la panthéonisation d'Olympe de Gouges, de Charles-Michel de l'Épée et de Zéna M'Déré (133 voix pour, 158 contre), la « priorité nationale » dans la commande publique (151 pour, 187 contre) et la refondation de l'espace Schengen (144 pour, 199 contre). La proposition de loi du rapporteur RN Pierre Meurin, qui abroge les zones à faibles émissions (ZFE), n'a pas été mise aux voix : un amendement de suppression de son article unique, défendu par l'écologiste Lisa Belluco, a été rejeté par 164 voix contre 49, puis le débat s'est arrêté à minuit, heure limite d'une niche. Le texte avait été rejeté en commission le 30 septembre par 21 voix contre 19.",
+    "points": [],
+    "explication": "Chaque groupe d'opposition ou minoritaire dispose, une fois par session, d'une journée réservée où il choisit les textes à l'ordre du jour. Elle s'arrête à minuit : un texte non voté d'ici là reste sans vote d'ensemble. Une ZFE est une zone urbaine où les véhicules les plus polluants sont restreints. Une première suppression des ZFE, votée dans une loi de simplification, avait été invalidée par le Conseil constitutionnel comme « cavalier législatif », c'est-à-dire sans lien suffisant avec le texte.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-perd-son-pari-a-l-assemblee-sans-aucun-texte-adopte-pour-sa-journee-reservee-7d71764736bebf93f7963924eefd287b",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://lesinguliersete.fr/le-rassemblement-national-rate-sa-journee-a-lassemblee-bloque-par-la-gauche-et-le-centre/",
+      "nom": "Le Singulier, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "nom": "LCP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "LES DÉMOCRATES",
+      "qui": "Jimmy Pahun",
+      "contexte": "député",
+      "texte": "« L'extrême droite ne corrige pas, elle abroge »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Alexandre Portier",
+      "contexte": "député",
+      "texte": "Il qualifie les ZFE de « symbole de l'absurdité démocratique »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "ENSEMBLE POUR LA RÉPUBLIQUE",
+      "qui": "Sandrine Le Feur",
+      "contexte": "présidente de la commission du développement durable",
+      "texte": "Elle reconnaît des difficultés réelles et dénonce une « politique de l'abandon »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Pierre Meurin",
+      "contexte": "rapporteur",
+      "texte": "« geste de réparation républicaine à l'égard des millions d'automobilistes que vous voulez exclure des centre-villes »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Mathilde Panot",
+      "contexte": "présidente du groupe",
+      "texte": "Sur son vote contre l'amendement écologiste : « ça n'a rien à voir avec le RN »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "SOCIALISTES",
+      "qui": "Gérard Leseul",
+      "contexte": "député",
+      "texte": "« La suppression pure et simple du dispositif est une impasse »",
+      "url": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Édouard Philippe",
+      "contexte": "candidat à la présidentielle",
+      "texte": "« un président doit présider et non gouverner »",
+      "url": "https://www.france24.com/fr/info-en-continu/20261008-a-l-heure-de-v%C3%A9rit%C3%A9-philippe-%C3%A9bauche-une-france-%C3%A0-nouveau-command%C3%A9e-et-gouvern%C3%A9e",
+      "source": "France 24 (AFP)"
+     }
+    ],
+    "apres": "Pierre Meurin ne compte pas abandonner le sujet ; aucune nouvelle date d'examen n'est fixée à ce stade.",
+    "change": "Les ZFE restent en vigueur : aucun texte n'a modifié la loi jeudi.",
+    "credit": {
+     "auteur": "Sebleouf",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue_S%C5%93ur_Bouvier_-_Panneau_entr%C3%A9e_zone_%C3%A0_faibles_%C3%A9missions_(ZFE)_(f%C3%A9v_2025).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ÉLECTIONS",
+    "titre": "Évreux : le tribunal annule les municipales, le maire saisit le Conseil d'État",
+    "court": "Évreux : municipales annulées",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2019-05-26_18-14-52_depouillement-belfort.jpg/1280px-2019-05-26_18-14-52_depouillement-belfort.jpg",
+    "legende": "Urne et bulletins de vote lors d'un dépouillement (illustration)",
+    "chapeau": "Jeudi 8 octobre, le tribunal administratif de Rouen a annulé les élections municipales des 15 et 22 mars à Évreux (Eure).",
+    "eclairage": "Comment annule-t-on une élection ?",
+    "chiffres": [
+     {
+      "valeur": "34,58%",
+      "legende": "score de la liste Lefrand au 2e tour"
+     },
+     {
+      "valeur": "~100",
+      "legende": "bulletins sortis de la vue du bureau"
+     },
+     {
+      "valeur": "2/4",
+      "legende": "simulations qui changent 2 sièges"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, le tribunal administratif de Rouen a annulé les élections municipales des 15 et 22 mars à Évreux (Eure). Saisi par Samuel Brigantino, arrivé deuxième, il constate qu'au second tour une enveloppe contenant une centaine de bulletins est sortie de la vue des membres du bureau de vote n° 205 et des électeurs pendant une durée indéterminée. Le tribunal estime que cela crée une incertitude sur le résultat, sans y voir une manœuvre. Pour le vérifier, il a retiré 100 voix à chacune des quatre listes : dans deux cas, la répartition des deux derniers sièges du conseil municipal aurait été différente. Le maire sortant Guy Lefrand (divers droite), réélu avec 34,58 % des voix, a saisi le Conseil d'État.",
+    "points": [],
+    "explication": "Après une élection municipale, un candidat peut contester le résultat devant le tribunal administratif. Le juge cherche si une irrégularité a pu modifier le résultat ; ici, il a simulé le retrait de 100 voix. Sa décision peut être contestée devant le Conseil d'État. En matière municipale, ce recours est en principe suspensif : l'équipe en place reste en fonction en attendant, et aucune date de nouveau scrutin n'est fixée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/elections/essentiel-election/le-tribunal-administratif-de-rouen-annule-les-elections-municipales-a-evreux-dans-l-eure_8228032.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/normandie/eure/evreux/la-justice-administrative-annule-l-election-municipale-2026-a-evreux-guy-lefrand-saisit-le-conseil-d-etat-3429804.html",
+      "nom": "France 3 Normandie"
+     },
+     {
+      "url": "https://entrevue.fr/justice-et-scandales/evreux-les-municipales-annulees-apres-une-irregularite-lors-du-depouillement/",
+      "nom": "Entrevue"
+     },
+     {
+      "url": "https://stephanelarue.com/evreux-municipales-annulees-tribunal-rouen-lefrand/",
+      "nom": "Stéphane Larue"
+     },
+     {
+      "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/28/27/27229/index.html",
+      "nom": "ministère de l'Intérieur (résultats)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "MAIRE D'ÉVREUX",
+      "qui": "Guy Lefrand",
+      "contexte": "divers droite",
+      "texte": "Il se dit « convaincu de la légitimité du résultat issu des urnes »",
+      "url": "https://france3-regions.franceinfo.fr/normandie/eure/evreux/la-justice-administrative-annule-l-election-municipale-2026-a-evreux-guy-lefrand-saisit-le-conseil-d-etat-3429804.html",
+      "source": "France 3 Normandie"
+     }
+    ],
+    "apres": "Décision du Conseil d'État ; si l'annulation était confirmée, les électeurs d'Évreux voteraient de nouveau.",
+    "change": "Tant que le Conseil d'État n'a pas tranché, la situation à la mairie reste en l'état.",
+    "credit": {
+     "auteur": "Thomas Bresson",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2019-05-26_18-14-52_depouillement-belfort.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "11",
+    "mois": "OCT.",
+    "texte": "Slovénie : référendums sur quatre sujets institutionnels et sociaux."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Nouvelle journée d'action lycéenne annoncée."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Élections de mi-mandat aux États-Unis."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Niche parlementaire",
+    "definition": "Journée où un groupe choisit les textes examinés à l'Assemblée. Elle s'arrête à minuit."
+   },
+   {
+    "terme": "ZFE",
+    "definition": "Zone à faibles émissions : un périmètre urbain où les véhicules les plus polluants sont restreints."
+   },
+   {
+    "terme": "Majorité qualifiée",
+    "definition": "Un seuil de vote qui permet de décider sans l'accord de tous les États de l'UE."
+   },
+   {
+    "terme": "Effet suspensif",
+    "definition": "Un recours qui suspend l'application d'une décision de justice le temps du jugement."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Jeudi 8 octobre, l'Assemblée nationale n'a adopté aucun des textes inscrits à la journée réservée au RN.",
+   "reponse": true,
+   "explication": "Vrai : quatre résolutions ont été rejetées et la proposition de loi sur les ZFE n'a pas été mise aux voix, faute de temps avant minuit."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-08",
   "minutes": 10,

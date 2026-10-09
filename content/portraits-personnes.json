@@ -701,5 +701,50 @@
  "CGT Éduc'Action et FSU": null,
  "Préfecture de Charente-Maritime": null,
  "Association Le Grand Repas": null,
- "Damien Chomont": null
+ "Damien Chomont": null,
+ "Pierre Sourzat": null,
+ "Paul Vannier": null,
+ "Sabrine Kharbach": null,
+ "Jimmy Pahun": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/FIL_2017_-_Jimmy_Pahun_-_8451.jpg/250px-FIL_2017_-_Jimmy_Pahun_-_8451.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "FIL_2017_-_Jimmy_Pahun_-_8451.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:FIL_2017_-_Jimmy_Pahun_-_8451.jpg",
+  "auteur": "XIIIfromTOKYO",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Alexandre Portier": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Alexandre_Portier_Ministre.jpg/250px-Alexandre_Portier_Ministre.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Alexandre_Portier_Ministre.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alexandre_Portier_Ministre.jpg",
+  "auteur": "Bessam&amp;Mucho",
+  "licence": "CC0"
+ },
+ "Sandrine Le Feur": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sandrine_Le_Feur_-_2025_%28cropped%29.jpg/250px-Sandrine_Le_Feur_-_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Sandrine_Le_Feur_-_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sandrine_Le_Feur_-_2025_(cropped).jpg",
+  "auteur": "Thomas Padilla / European Union, 2025 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Pierre Meurin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/20260217-P1370821_Meurin_Pierre_Wikipedia.jpg/250px-20260217-P1370821_Meurin_Pierre_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20260217-P1370821_Meurin_Pierre_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20260217-P1370821_Meurin_Pierre_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Gérard Leseul": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gerard_Leseul_-_Portrait.jpg/250px-Gerard_Leseul_-_Portrait.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Gerard_Leseul_-_Portrait.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gerard_Leseul_-_Portrait.jpg",
+  "auteur": "Guillaume.seris",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Guy Lefrand": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Guy_Lefrand_en_2017.jpg/250px-Guy_Lefrand_en_2017.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Guy_Lefrand_en_2017.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Guy_Lefrand_en_2017.jpg",
+  "auteur": "Deslhome",
+  "licence": "CC BY-SA 4.0"
+ }
 }
