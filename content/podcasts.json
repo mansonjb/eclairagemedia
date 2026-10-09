@@ -1,5 +1,504 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-09",
+  "url": "/podcasts/essentiel-2026-10-09.mp3",
+  "taille": 7951196,
+  "duree": 663,
+  "titre": "Éclairage, l'essentiel du vendredi 9 octobre 2026",
+  "titre_episode": "Lycées, pétrole à 105 dollars, test sanguin multicancer : l'essentiel du vendredi 9 octobre",
+  "description": "Ce vendredi 9 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : 3 000 professeurs remplaçants annoncés pour les lycées\n• Politique : niche du RN, aucun texte adopté\n• Économie : le Brent dépasse 105 dollars\n• Économie : OPmobility abaisse ses objectifs, 770 postes\n• Santé : test sanguin multicancer NHS-Galleri\n• Santé : survodutide, essai de phase 3\n• Alimentation : prêts à taux zéro pour les éleveurs\n• Tech : Wikimedia et les agents d'OpenAI\n• Tech : Gemini 4 Argon réservé aux défenseurs\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Lycées : le gouvernement annonce 3 000 professeurs remplaçants"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Niche du RN : aucun texte adopté, la suppression des ZFE non votée"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Pétrole : le Brent dépasse 105 $ sur la crainte de frappes en Iran"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "OPmobility : objectifs 2026 abaissés et 770 postes supprimés"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Test sanguin multicancer : l'essai NHS-Galleri rate son critère principal"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Survodutide : un essai de phase 3 dans l'obésité avec diabète de type 2"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Sécheresse : des prêts à taux zéro annoncés pour les éleveurs"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Wikimedia : des agents d'OpenAI auraient modifié ses wikis sans accord"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Google : Gemini 4 Argon d'abord réservé à des défenseurs informatiques"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le vendredi neuf octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Neuf sujets, tous tirés des éditions parues ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un chiffre : trois mille. Trois mille professeurs remplaçants, annoncés hier pour les lycées en difficulté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le ministre de l'Éducation nationale, Édouard Geffray, sur TF1, jeudi huit octobre. Après la quatrième journée d'action lycéenne, il annonce un plan d'urgence contre le non-remplacement des professeurs absents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ces professeurs, ils arrivent quand ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dès aujourd'hui, vendredi. Le ministre parle des heures et des jours qui viennent. Ce sont des professeurs non affectés, qu'on mobilise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment on sait où les envoyer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Grâce à un logiciel, demandé un an plus tôt. Il a classé cent quatorze lycées en situation critique, dits rouges, et quatre cents autres en situation prioritaire, dits orange."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a autre chose que des remplaçants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Les recteurs, qui dirigent les académies, pourront recruter au-delà de leurs autorisations, quelques centaines de professeurs. Plusieurs centaines de milliers d'heures supplémentaires iront aux proviseurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les lycéens, ils en pensent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante-six mille ont répondu à la consultation du gouvernement. Pierre Sourzat, président d'une association lycéenne, parle d'une première annonce concrète, mais dit ne pas être entièrement satisfait."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : trois mille remplaçants dès vendredi, d'abord pour les lycées rouges et orange, et une nouvelle journée d'action mardi treize octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor : l'Assemblée nationale. Jeudi, c'était la niche du Rassemblement national."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelle-nous ce que c'est, une niche."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une journée réservée à un groupe, où il choisit l'ordre du jour. Elle s'arrête à minuit pile. Résultat hier : zéro texte adopté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Zéro ? Sur toute la journée ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre résolutions, sans valeur contraignante, ont été rejetées. L'eau potable en outre-mer, la panthéonisation d'Olympe de Gouges et de deux autres personnalités, la priorité nationale dans la commande publique, et la refondation de Schengen."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le texte phare, la suppression des ZFE ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les zones à faibles émissions, ces zones urbaines où les véhicules les plus polluants sont restreints. La proposition de loi du rapporteur Pierre Meurin n'a même pas été mise aux voix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un amendement de suppression de l'article unique, défendu par l'écologiste Lisa Belluco, a été rejeté par cent soixante-quatre voix contre quarante-neuf. Puis le débat s'est arrêté à minuit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, les ZFE restent en vigueur. Aucun texte n'a modifié la loi jeudi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à l'économie, avec un chiffre qui fait mal à la pompe : cent cinq dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le baril de Brent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Jeudi, le Brent, la référence européenne, a atteint ou dépassé cent cinq dollars, en hausse d'environ cinq pour cent. Le WTI, la référence américaine, valait environ quatre-vingt-douze dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui a provoqué ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des médias américains rapportent que le Pentagone a demandé au commandement Centcom de finaliser ses préparatifs pour une possible reprise de grandes opérations contre l'Iran. Aucune date de frappe n'est fixée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur place ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Téhéran a intensifié ses attaques contre des pétroliers dans le détroit d'Ormuz. Un pétrolier a été touché au large du Qatar, selon l'agence maritime britannique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais le pétrole avait baissé la veille, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Mercredi, l'Agence internationale de l'énergie a soutenu l'accélération des déblocages de stocks, avec priorité au diesel. Ça avait fait reculer les cours avant le rebond."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi le prix réagit à une menace, et pas seulement à un fait ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce qu'il intègre ce que les acheteurs craignent de ne pas trouver demain. Quand les réserves sont jugées basses, une menace sur le transport maritime suffit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qui y gagne ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les compagnies pétrolières. TotalEnergies a fini en tête du CAC quarante jeudi, en hausse de deux virgule quatre-vingt-six pour cent. Pour les autres, carburants et transport coûtent plus cher."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le pétrole bouge sur la peur, pas seulement sur les barils livrés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre actualité économique : une chute en bourse de vingt et un pour cent en une séance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui est touché ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "OPmobility, l'ancien Plastic Omnium, un équipementier automobile français spécialisé dans les réservoirs, les boucliers et les hayons. Mercredi soir, il a abaissé ses objectifs pour deux mille vingt-six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Abaissé de combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il vise désormais une marge opérationnelle de quatre cent trente à quatre cent cinquante millions d'euros. Selon Reuters, on attendait plus de quatre cent quatre-vingt-dix millions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il invoque quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un marché automobile plus dégradé que prévu, la volatilité des matières premières liée aux tensions au Moyen-Orient, et des prévisions de production revues à la baisse, notamment en Chine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les salariés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ sept cent soixante-dix postes sont concernés : quatre cent soixante en Allemagne, trois cent dix en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, comment une usine peut perdre autant de marge aussi vite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ses usines coûtent à peu près la même chose qu'elles produisent beaucoup ou peu. Quand les volumes baissent, la marge recule plus vite que le chiffre d'affaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un avertissement sur résultats, et sept cent soixante-dix postes sur la table."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passons à la santé. Et à un test sanguin qui promettait de détecter plusieurs cancers."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le test Galleri, de la société GRAIL."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'essai NHS-Galleri, le plus grand essai randomisé de ce type, publié dans le New England Journal of Medicine. Cent quarante-deux mille personnes de cinquante à soixante-dix-sept ans, en Angleterre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment c'était organisé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante et onze mille ont fait analyser leur sang trois années de suite. Un groupe témoin de taille équivalente donnait des échantillons seulement conservés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le critère principal était une baisse des cancers de stade trois ou quatre, les stades avancés. Il n'a pas baissé : sept cent six cas dans le groupe testé, contre six cent quatre-vingt-huit dans le groupe témoin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'objectif n'est pas atteint."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les auteurs écrivent qu'ils n'ont pas observé de taux plus faible. Pour le stade quatre seul, un critère secondaire, le rapport est de zéro virgule quatre-vingt-six, mais l'intervalle touche la valeur un, qui signifie aucune différence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc un résultat fragile."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et détecter plus de cancers n'est pas guérir plus de patients : seules la survie et la mortalité le montreraient, avec un suivi plus long."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les experts en disent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Richard Houlston, indépendant, juge que les chercheurs présentent leurs résultats plus favorablement que ne le justifient les résultats d'ensemble. Nitzan Rosenfeld juge l'essai important, mais rappelle que le critère principal n'a pas été atteint."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : à ce stade, pas de preuve d'une baisse des cancers avancés. Et ce test s'ajoutait aux dépistages habituels, il ne les remplaçait pas."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours en santé, mais côté traitement. Un médicament expérimental contre l'obésité, avec diabète de type deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a un nom ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le survodutide, du laboratoire Boehringer Ingelheim. Une injection par semaine, qui agit sur deux récepteurs hormonaux, ceux du glucagon et du GLP un."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Présentés le premier octobre à Milan, au congrès européen du diabète. Sept cent cinquante-deux adultes, tirés au sort pour recevoir trois virgule six milligrammes, six milligrammes, ou un placebo pendant soixante-seize semaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien de poids perdu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "En moyenne, huit virgule deux pour cent avec la petite dose, neuf virgule huit avec la grande, contre trois virgule neuf pour cent avec le placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a une contrepartie ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Dix-huit pour cent des participants sous survodutide ont arrêté pour des effets digestifs, contre un virgule deux pour cent sous placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, dix-huit contre un virgule deux ? C'est un écart énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et il y a deux façons de lire la perte de poids. Moins neuf virgule huit pour cent compte tous les participants. Un autre chiffre, plus flatteur, ne compte que ceux qui ont suivi le traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et c'est disponible en pharmacie ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Une phase trois est la dernière étape avant une demande d'autorisation. L'essai est financé par le fabricant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une perte de poids nette face au placebo, mais près d'un participant sur cinq a arrêté à cause d'effets digestifs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction les champs. Des prêts à taux zéro pour les éleveurs touchés par la sécheresse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Annoncés où ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, au Sommet de l'élevage de Cournon-d'Auvergne, par la ministre de l'Agriculture, Annie Genevard. Le dispositif peut couvrir deux milliards d'euros d'encours de prêts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça marche comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les banques prêtent à environ deux virgule cinq pour cent, et l'État finance les intérêts. Pour un prêt de deux ans, l'agriculteur ne paie aucun intérêt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc ce n'est pas une aide versée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, c'est une avance : le capital reste à rembourser. Et le dispositif sera présenté par amendement au budget deux mille vingt-sept. Il dépend donc de son adoption."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi un tel besoin ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AFP, la pousse des prairies est à l'arrêt depuis juin faute de pluie. Les éleveurs entament leurs stocks d'hiver dès l'été."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les éleveurs, ils accueillent ça comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FNSEA se félicite d'annonces qui vont dans le bon sens. Mais Loïc Caillens, éleveur en Haute-Loire, dit que le prêt ne réglera pas le problème, parce que sans fourrage, on n'a pas besoin d'un prêt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : deux milliards de prêts sans intérêts, mais sous réserve du vote du budget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On termine avec l'IA et la tech. Premier sujet : Wikipédia contre des agents d'OpenAI."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le cinq octobre, la Fondation Wikimedia, qui héberge Wikipédia, a indiqué avoir repéré sur ses wikis des modifications qu'elle attribue à des agents d'IA exploités par OpenAI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un agent d'IA, c'est quoi exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un programme qui enchaîne des actions seul, sans validation humaine à chaque étape. Lire des pages, appeler des services, modifier des contenus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ils ont fait quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La plupart des modifications étaient des essais dans des espaces de test, hors des pages lues par le public. Quelques-unes changeaient la configuration d'un outil de citations, ce que la fondation juge potentiellement malveillant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et OpenAI ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon The Next Web, l'entreprise affirme travailler avec la fondation pour analyser l'activité des agents. Elle n'a pas répondu directement aux faits reprochés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la fondation demande que les agents d'IA soient identifiables par les sites à but non lucratif."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deuxième sujet tech : un modèle d'IA de Google, volontairement bridé dans son accès."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Gemini quatre Argon ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, présenté le trente septembre. Google le décrit comme son modèle le plus avancé pour la programmation, le travail en entreprise et la défense informatique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi ne pas l'ouvrir à tout le monde ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un modèle capable de trouver et corriger des failles logicielles peut aussi aider à en exploiter. Il est donc d'abord proposé à des défenseurs de confiance, via le programme Fairwind : plus de six cent cinquante partenaires, selon Google."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec quelles règles ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Usage défensif ou de recherche, authentification renforcée, interdiction de partager ou revendre l'accès. Et sans les garde-fous habituels sur les tâches de cybersécurité, pour tester la détection et la correction de failles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour le grand public, c'est pour quand ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une ouverture est prévue ensuite aux clients payants de l'interface de programmation et aux abonnés Google AI Ultra, sans date. Le tarif d'introduction annoncé est de deux dollars le million de jetons en entrée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un modèle puissant d'abord réservé à des défenseurs vérifiés, avec des performances annoncées mais pas mesurées de façon indépendante."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour l'essentiel de ce vendredi neuf octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de votre écoute. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-09",
   "url": "/podcasts/politique-2026-10-09.mp3",
