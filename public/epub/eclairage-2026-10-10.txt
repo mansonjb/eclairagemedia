@@ -310,3 +310,410 @@ Le CAC 40 a gagné plus de 1 % sur l'ensemble de la semaine du 5 au 9 octobre.
 Réponse : faux. Faux : malgré le rebond de 0,95 % vendredi, l'indice a reculé de 1,19 % sur la semaine, selon l'AFP, et clôturé à 7 803,33 points.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+samedi 10 octobre 2026 · 10 min de lecture
+
+1. Vaccination : le microbiote intestinal lié à l'intensité de la fièvre
+
+ÉTUDE
+
+7 j : de température relevée avant et après le vaccin
+
+2021 : début de l'étude µHEAT (vaccins Covid 2021-2022)
+
+Souris : greffe de microbiote puis vaccination
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, la revue Science a publié l'étude µHEAT, menée par le Max Planck Institute for Biology de Tübingen (Allemagne) avec l'Institut Pasteur et l'Inserm à Paris. Des adultes en bonne santé, vaccinés contre le Covid-19 en 2021 et 2022, ont fourni des selles et du sang et ont relevé leur température pendant la semaine précédant et la semaine suivant l'injection. La fièvre varie beaucoup d'une personne à l'autre. Avant la vaccination, ceux qui feront ensuite le plus de fièvre ont davantage de bactéries dotées de gènes de mobilité, notamment ceux des flagelles, ces filaments qui font nager les bactéries, et un terrain plus inflammatoire. Chez des souris sans microbiote, la greffe du microbiote de personnes à forte fièvre provoque une inflammation plus marquée après vaccination, en partie parce que les souris détectent la flagelline, protéine du flagelle. Les participants qui mangent beaucoup de fruits et légumes ont en général une fièvre plus faible. Le communiqué de l'Inserm ne précise pas le nombre de participants.
+
+L'éclairage
+
+Le microbiote, c'est l'ensemble des bactéries de l'intestin. Certaines portent un flagelle, un filament qui leur permet de se déplacer, fait d'une protéine, la flagelline, que le système immunitaire repère. Les chercheurs proposent qu'un microbiote riche en bactéries à flagelles installe un état d'alerte immunitaire de départ, qui amplifie la réaction au vaccin. Ce que ça prouve, et ce que ça ne prouve pas. Chez l'humain, l'étude observe une association : elle ne montre pas que le microbiote cause la fièvre. Le lien de cause est testé chez la souris, et un résultat chez la souris n'est pas un résultat chez l'humain. L'effet de l'alimentation sur la fièvre vaccinale n'est pas démontré chez l'humain, la première auteure appelle à des études d'intervention. La fièvre est une réponse normale à un vaccin.
+
+Le microbiote, c'est l'ensemble des bactéries de l'intestin. Certaines portent un flagelle, un filament qui leur permet de se déplacer, fait d'une protéine, la flagelline, que le système immunitaire repère. Les chercheurs proposent qu'un microbiote riche en bactéries à flagelles installe un état d'alerte immunitaire de départ, qui amplifie la réaction au vaccin. Ce que ça prouve, et ce que ça ne prouve pas. Chez l'humain, l'étude observe une association : elle ne montre pas que le microbiote cause la fièvre. Le lien de cause est testé chez la souris, et un résultat chez la souris n'est pas un résultat chez l'humain. L'effet de l'alimentation sur la fièvre vaccinale n'est pas démontré chez l'humain, la première auteure appelle à des études d'intervention. La fièvre est une réponse normale à un vaccin.
+
+Ce qu'ils en disent
+
+« des éléments de l’alimentation moderne peuvent façonner notre microbiome intestinal »
+Benoit Chassaing (Auteurs), Inserm, Institut Pasteur
+
+« Nos conclusions montrent que les flagellines microbiennes sont l’un des acteurs de cet état immunitaire de base »
+Ruth Ley (Auteurs), Max Planck Institute for Biology, autrice correspondante
+
+Ce qui change
+
+Pour les personnes vaccinées, rien ne change : la vaccination reste recommandée selon le calendrier, et la fièvre légère après une injection est fréquente.
+
+Et après
+
+Les auteurs appellent à des études d'intervention chez l'humain pour tester si changer l'alimentation modifie la réponse aux vaccins.
+
+Sources : Inserm (communiqué) · Science (DOI) · Medical Xpress
+
+2. Jeûne avant une prise de sang : peu d'écart entre 8 h et plus de 12 h
+
+SANTÉ PUBLIQUE
+
+9,8 M : résultats d'analyses (9 755 547)
+
+10 : analyses dont l'écart dépasse le seuil de qualité (jeûne < 8 h)
+
++11 % : de glycémie, jeûne de moins de 8 h (10,8 %)
+
+Ce qui s'est passé
+
+Une équipe sud-coréenne a publié début octobre 2026 dans JAMA Internal Medicine (premier auteur : Sunghwan Shin) une analyse rétrospective de 101 148 adultes suivis en consultation dans un hôpital universitaire de la région de Séoul, entre février 2021 et décembre 2023. Elle porte sur 9 755 547 résultats d'analyses. Les résultats sont classés selon le délai depuis le dernier repas : moins de 8 heures, 8 à 12 heures, plus de 12 heures. Quand on compare les mêmes patients à des jeûnes différents, 10 analyses dépassent le seuil d'écart acceptable : avec moins de 8 heures de jeûne, la glycémie est plus haute de 10,8 %, les triglycérides de 20,1 %, la lipase de 36,4 %, ainsi que la gamma-GT. Entre 8 à 12 heures et plus de 12 heures, aucune analyse ne dépasse ce seuil. Les auteurs concluent qu'au moins 8 heures de jeûne restent nécessaires pour la glycémie à jeun et le dépistage du diabète. Chiffres divergents : un relais de presse parle de 670 hôpitaux ; selon la description de l'étude, il s'agit d'un seul hôpital universitaire de 670 lits.
+
+L'éclairage
+
+Pourquoi on demande de jeûner. Un repas fait monter temporairement la glycémie et les graisses du sang (triglycérides), ce qui peut fausser certaines mesures. D'où la consigne habituelle de jeûner 8 à 12 heures. Ce que l'étude apporte. Elle exploite des données de routine, sans avoir imposé de repas aux patients : c'est utile pour voir la vie réelle, mais le jeûne n'était pas vérifié, la composition des repas non contrôlée, le patient médian a 61 ans et un seul centre est concerné. Corrélation n'est pas causalité : c'est pourquoi les auteurs ont aussi comparé les mêmes personnes à des moments différents. L'étude ne dit pas si ces écarts changent un diagnostic ou un traitement.
+
+Pourquoi on demande de jeûner. Un repas fait monter temporairement la glycémie et les graisses du sang (triglycérides), ce qui peut fausser certaines mesures. D'où la consigne habituelle de jeûner 8 à 12 heures. Ce que l'étude apporte. Elle exploite des données de routine, sans avoir imposé de repas aux patients : c'est utile pour voir la vie réelle, mais le jeûne n'était pas vérifié, la composition des repas non contrôlée, le patient médian a 61 ans et un seul centre est concerné. Corrélation n'est pas causalité : c'est pourquoi les auteurs ont aussi comparé les mêmes personnes à des moments différents. L'étude ne dit pas si ces écarts changent un diagnostic ou un traitement.
+
+Ce qu'ils en disent
+
+Les auteurs jugent qu'au moins 8 heures de jeûne sont nécessaires pour une glycémie à jeun fiable et le dépistage du diabète, et que des règles de jeûne uniformes pourraient être revues au profit de règles propres à chaque analyse.
+Sunghwan Shin et coll. (Auteurs), JAMA Internal Medicine
+
+Ce qui change
+
+Rien ne change tout de suite : la consigne à suivre est celle donnée par le médecin ou le laboratoire pour chaque analyse, et il ne faut pas modifier un jeûne prescrit de sa propre initiative.
+
+Et après
+
+D'autres études, dans d'autres pays et avec un jeûne vérifié, seront nécessaires avant que les recommandations évoluent.
+
+Sources : JAMA Internal Medicine (DOI) · News-Medical · Healio
+
+3. Hanche et genou : la chirurgie robotique ne réduit pas les reprises
+
+CHIRURGIE
+
+1,36 M : prothèses analysées (hanches et genoux)
+
+≈2,5 : années de suivi en moyenne
+
+£1 M : coût d'un système robotique, + £1 000 à 2 500 par acte
+
+Ce qui s'est passé
+
+Le 1er octobre 2026, le BMJ a publié deux études d'équipes des universités d'Oxford, de Bristol et de Queen Mary (Londres), fondées sur le registre britannique des prothèses (National Joint Registry, 2018 à 2024). Elles comparent la pose assistée par robot à la pose classique : 666 283 prothèses de hanche (dont 10 203 posées avec un robot) et 697 145 prothèses de genou, totales ou partielles (dont 22 111 avec un robot). Le suivi moyen est d'environ 2,5 ans. Pour la hanche comme pour le genou, la survie de l'implant, le risque de réopération et les complications pendant l'intervention sont similaires dans les deux groupes. Pour la hanche, le robot est associé à moins de reprises liées à un mauvais positionnement de l'implant, sans baisse du total des reprises. Le NHS prévoit de multiplier par sept les interventions robotisées d'ici 2035.
+
+L'éclairage
+
+La technique. Pour poser une prothèse de hanche ou de genou, le chirurgien peut utiliser un bras robotisé qui guide la découpe de l'os et le positionnement de l'implant. L'objectif est une pose plus précise. Pourquoi ce type d'étude prouve moins qu'un essai. Ici, personne n'a tiré au sort le robot ou la méthode classique : les chercheurs ont reconstitué après coup des groupes comparables à partir du registre, avec une méthode dite d'émulation d'essai cible. Elle réduit les biais, sans les supprimer. Le suivi de 2,5 ans est court pour une prothèse qui doit durer des années : une différence pourrait apparaître plus tard. Les résultats ressentis par les patients (douleur, mobilité) ne sont pas l'objet de ces études ; des essais randomisés (RACER) sont en cours.
+
+La technique. Pour poser une prothèse de hanche ou de genou, le chirurgien peut utiliser un bras robotisé qui guide la découpe de l'os et le positionnement de l'implant. L'objectif est une pose plus précise. Pourquoi ce type d'étude prouve moins qu'un essai. Ici, personne n'a tiré au sort le robot ou la méthode classique : les chercheurs ont reconstitué après coup des groupes comparables à partir du registre, avec une méthode dite d'émulation d'essai cible. Elle réduit les biais, sans les supprimer. Le suivi de 2,5 ans est court pour une prothèse qui doit durer des années : une différence pourrait apparaître plus tard. Les résultats ressentis par les patients (douleur, mobilité) ne sont pas l'objet de ces études ; des essais randomisés (RACER) sont en cours.
+
+Ce qu'ils en disent
+
+Ces travaux « provides important independent evidence for patients, surgeons and policymakers » (apportent des preuves indépendantes importantes aux patients, aux chirurgiens et aux décideurs).
+Hasan Mohammad (Auteurs), Queen Mary University of London, auteur principal
+
+Ce qui change
+
+Pour un patient, ces données ne montrent pas d'avantage du robot sur la durée de vie de la prothèse à 2,5 ans, ni d'inconvénient. Le choix de la technique se discute avec le chirurgien.
+
+Et après
+
+Un suivi plus long du registre et les essais randomisés RACER diront si le robot améliore la récupération ou la longévité de la prothèse.
+
+Sources : BMJ, genou (DOI) · BMJ, 2e étude (DOI) · News-Medical · Medical Dialogues
+
+À venir
+
+- 14 oct. : Réunion plénière de l'EU Innovation Network à Paris, organisée par l'ANSM.
+
+Les mots du jour
+
+Étude observationnelle
+Une étude qui observe des personnes sans leur imposer de traitement ni de tirage au sort. Elle repère des liens, mais ne prouve pas la cause.
+Étude rétrospective
+Une étude qui exploite des données déjà recueillies dans le passé, comme des dossiers hospitaliers ou un registre.
+Registre
+Une base de données où sont enregistrés tous les cas d'un même type, par exemple chaque pose de prothèse d'un pays.
+Microbiote
+L'ensemble des micro-organismes qui vivent dans l'intestin, surtout des bactéries.
+
+Vrai ou faux ?
+
+Dans l'étude sud-coréenne publiée dans JAMA Internal Medicine, aucune analyse sanguine ne dépassait le seuil d'écart acceptable entre un jeûne de 8 à 12 heures et un jeûne de plus de 12 heures, chez les mêmes patients.
+
+Réponse : vrai. Les comparaisons entre les mêmes patients à des durées de jeûne différentes n'ont relevé aucun écart au-dessus du seuil entre 8 à 12 heures et plus de 12 heures. Avec moins de 8 heures, 10 analyses dépassent le seuil, dont la glycémie (+10,8 %).
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+samedi 10 octobre 2026 · 4 min de lecture
+
+1. Pont d'Oléron : une concertation d'un mois sur travaux et péage
+
+DÉPARTEMENT
+
+72 M€ : coût maximal estimé (fourchette 55 à 72,6)
+
+9 nov. : fin de la concertation
+
+1991 : fin du péage d'origine
+
+Ce qui s'est passé
+
+Le Département de la Charente-Maritime, propriétaire du pont, a lancé vendredi 9 octobre une concertation d'un mois, jusqu'au 9 novembre, par une réunion publique à Saint-Pierre-d'Oléron, retransmise en ligne. Elle porte sur la restauration de l'ouvrage, l'aménagement de ses abords et son financement, y compris le retour d'un péage, absent depuis 1991. Le Département indique ne pas pouvoir financer seul les travaux, estimés entre 55 et 72,6 millions d'euros selon les sources (la première phase seule dépasse 33 millions d'euros hors taxes). La communauté de communes de l'île a voté en juin en faveur d'un droit de passage ; une pétition a été lancée contre. Un visio-tchat est prévu lundi 12 octobre à 18 h, et des ateliers sont annoncés, sans date ni lieu précisés.
+
+- Le pont, ouvert en 1966, appartient au Département : c'est son assemblée, le Conseil départemental, qui votera au final, après la concertation.
+- Un expert indépendant animera des ateliers et rédigera une synthèse ; elle servira de base au vote du Conseil départemental.
+- Le dossier présente trois scénarios d'aménagement, de la séparation de voie pour les vélos (environ 7 millions d'euros) à l'élargissement avec remplacement des garde-corps (environ 25 millions d'euros hors taxes).
+
+L'éclairage
+
+Qui décide du péage, et comment ?
+
+Ce qu'ils en disent
+
+A voté en juin en faveur d'un droit départemental de passage pour financer la mise aux normes du pont.
+Île d'Oléron (Communauté de communes), élus de l'île
+
+Craignent un coût quotidien plus élevé, un accès inégal aux services du continent et un sentiment d'isolement ; une pétition demande de conserver le passage gratuit.
+Opposants au péage (Habitants), pétition
+
+Dit ne pas pouvoir financer seul les travaux, envisage de rétablir un péage et veut informer la population insulaire avant de décider.
+Charente-Maritime (Département), propriétaire du pont
+
+Ce qui change
+
+Environ trois millions de personnes empruntent le pont chaque année. Un péage toucherait les habitants, les travailleurs quotidiens et les visiteurs ; le montant n'est pas fixé à ce stade.
+
+Et après
+
+Concertation jusqu'au 9 novembre, puis synthèse de l'expert indépendant et vote du Conseil départemental, dont la date n'est pas annoncée.
+
+Sources : Département de la Charente-Maritime · ICI · Angers Info (reprise d'Ouest-France)
+
+À venir
+
+- 12 oct. : fr).
+- 12 oct. : Lycées : réouverture en présentiel espérée par le recteur (ICI).
+- 9 nov. : Pont d'Oléron : fin de la concertation (ICI).
+
+Les mots du jour
+
+Droit départemental de passage
+Redevance qu'un Département peut faire payer pour franchir un ouvrage qu'il possède, afin de financer son entretien, comme le péage envisagé au pont d'Oléron.
+Concertation
+Phase où les habitants sont informés et donnent leur avis avant une décision ; elle n'a pas de valeur de vote, la décision revient à l'assemblée élue.
+
+Vrai ou faux ?
+
+Le pont de l'île d'Oléron est gratuit depuis son ouverture en 1966.
+
+Réponse : faux. Le passage était payant à l'origine : le péage a été supprimé en 1991, et le Département envisage aujourd'hui un droit de passage pour financer les travaux.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+samedi 10 octobre 2026 · 5 min de lecture
+
+1. Budget 2027 : 4 milliards d'euros pour la mission Agriculture et Alimentation
+
+AGRICULTURE
+
+4 Md€ : mission Agriculture et Alimentation
+
+40 % : suramortissement sur trois ans
+
+~600 M€ : exonération emploi saisonnier
+
+Ce qui s'est passé
+
+Début octobre 2026, le gouvernement a présenté le projet de loi de finances pour 2027. Le ministère de l'Agriculture indique que la mission « Agriculture et alimentation » est dotée de 4 milliards d'euros, soit 6 milliards avec l'enseignement agricole et supérieur. En y ajoutant 9,4 milliards d'euros de PAC et 9 milliards d'euros de dispositifs sociaux et fiscaux, il évoque près de 25 milliards d'euros pour l'agriculture et l'alimentation. Le texte prévoit un suramortissement fiscal de 40 % sur trois ans pour les bâtiments et installations, et un nouveau fonds d'amorçage pour la souveraineté alimentaire. Le fonds national de gestion des risques en agriculture (FNGRA) gagne 100 millions d'euros pour atteindre 156 millions, selon le ministère et l'AFP ; le crédit d'impôt bio et le crédit d'impôt HVE sont maintenus. Le plan d'urgence sécheresse de plus d'un milliard d'euros est distinct de ce budget. Selon l'AFP, le gouvernement prévient que, sans adoption du texte par l'Assemblée nationale, certaines mesures de soutien ne pourront pas être mises en œuvre.
+
+L'éclairage
+
+Que recouvrent « 4 » et « 25 » milliards d'euros ?
+
+Les 4 milliards d'euros sont les crédits de la mission budgétaire « Agriculture et alimentation », inscrits au budget de l'État. Les 25 milliards d'euros sont un total plus large, calculé par le ministère : il y ajoute les aides de la PAC, financées par l'Union européenne, et les allègements de cotisations et d'impôts. Ce ne sont donc pas des chiffres comparables. Le suramortissement n'est pas une dépense : c'est un avantage fiscal qui permet de déduire de ses bénéfices plus que le prix d'un investissement. Le ministère le présente comme un soutien aux bâtiments et installations, qui doit servir la souveraineté alimentaire. Les crédits d'impôt bio et HVE, déjà existants, sont reconduits.
+
+Ce qu'ils en disent
+
+« Le budget de l'État de 2027 est essentiel pour les agriculteurs »
+Annie Genevard (Pouvoirs publics), ministre de l'Agriculture
+
+Le texte n'est « pas à la hauteur des enjeux »
+FNSEA (Agriculteurs), Arnaud Rousseau, président
+
+Le suramortissement est « un piège dangereux »
+Confédération paysanne (Agriculteurs)
+
+Ce qui change
+
+Pour les exploitations, le principal ajout est fiscal : le suramortissement concerne les investissements en bâtiments et installations, et les crédits d'impôt bio et HVE restent en vigueur. Le soutien global dépend du vote du budget par le Parlement.
+
+Et après
+
+Le texte est examiné au Parlement ; la ministre prépare par ailleurs un « plan de relance de l'agriculture » destiné à nourrir les débats, selon Réussir.
+
+Sources : ministère de l'Agriculture · Terre-net (avec AFP) · Réussir · Pleinchamp
+
+À venir
+
+- 13 oct. : Journée sur le développement de la bio dans les territoires à Compiègne (Oise), organisée par Bio en Hauts-de-France.
+- 2e quinz. oct. : Ouverture prévue d'un restaurant Green Farmer's (carte 100 % végétale, burgers) au 257 rue du Faubourg Saint-Antoine, près de Nation (Paris 11e), selon le communiqué de l'enseigne du 8 octobre ; la date reste à confirmer.
+
+Les mots du jour
+
+Suramortissement
+Un avantage fiscal : l'entreprise déduit de son bénéfice un montant supérieur au prix de l'investissement, ici 40 % en plus.
+FNGRA
+Fonds national de gestion des risques en agriculture, qui finance notamment l'indemnisation des pertes liées aux aléas climatiques.
+HVE
+Haute valeur environnementale, une certification des exploitations qui ouvre droit à un crédit d'impôt.
+
+Vrai ou faux ?
+
+Les 4 milliards d'euros de la mission Agriculture et Alimentation du budget 2027 incluent les 9,4 milliards d'euros d'aides de la PAC.
+
+Réponse : faux. La PAC (9,4 Md€) et les dispositifs sociaux et fiscaux (9 Md€) s'ajoutent aux 4 Md€ de la mission : c'est ce cumul que le ministère chiffre à près de 25 Md€.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+samedi 10 octobre 2026 · 10 min de lecture
+
+1. Genesis Mission : 11 entreprises promettent 2,4 milliards de dollars
+
+MONDE
+
+2,4 Md$ : engagements de onze entreprises, selon la Maison-Blanche
+
+1 Md$ : part de Nvidia, la plus élevée
+
+150 M$ : part d'Anthropic, sur trois ans
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, lors d'un sommet sur la science, la Maison-Blanche a annoncé que onze entreprises s'engagent à fournir 2,4 milliards de dollars d'outils d'IA et de crédits de calcul (du temps de machine mis à disposition) au consortium de la Genesis Mission, un programme américain d'IA pour la science qui réunit plus de 15 agences fédérales. Selon sa fiche, Nvidia promet 1 milliard de dollars, AMD 500 millions, OpenAI 200 millions, Anthropic et Google 150 millions chacun, AMP et Emerald AI 100 millions chacun, et AWS, Armada, Crusoe et Micron 50 millions chacun. Anthropic précise que ses 150 millions courent sur trois ans et couvrent des accès à Claude, à Claude Code et à son interface de programmation pour plusieurs centaines de projets de recherche, avec des agences comme la NASA, les NIH et la NSF. Il s'agit d'engagements annoncés, non de sommes versées.
+
+L'éclairage
+
+Qu'est-ce qu'un « crédit de calcul », et que valent ces 2,4 milliards ?
+
+Un crédit de calcul donne le droit d'utiliser, gratuitement ou à prix réduit, des machines (puces spécialisées, ou GPU) ou un service d'IA hébergé chez l'entreprise. Ce n'est pas de l'argent liquide : la valeur affichée dépend du tarif que chaque entreprise s'attribue. Les deux fabricants de puces, Nvidia et AMD, représentent 1,5 milliard sur 2,4, soit environ 62 % (calcul Éclairage à partir de la fiche). Démontré ou annoncé ? Tout relève de l'annonce : aucun des documents consultés ne donne de calendrier de versement ni de contrôle indépendant de la valeur des engagements.
+
+Ce qu'ils en disent
+
+« ushering in a New Golden Age of Science powered by super intelligence »
+Maison-Blanche (Régulateur), directeur Michael Kratsios
+
+« committing $150 million over three years to the Genesis Mission »
+Anthropic (Entreprise), annonce du 8 octobre
+
+Ce qui change
+
+Pour les équipes de recherche des agences fédérales américaines : accès à des outils et à du temps de calcul qu'elles devraient sinon financer. Pour le grand public et les entreprises européennes : aucun effet direct.
+
+Et après
+
+Les documents consultés ne précisent pas la répartition des crédits entre agences ni les dates de mise à disposition.
+
+Sources : Maison-Blanche (fiche) · Anthropic (annonce) · FedScoop
+
+2. Royaume-Uni : l'ICO obtient des changements de dix développeurs d'IA
+
+RÉGULATION
+
+10 : développeurs ayant fait ou promis des changements, selon l'ICO
+
+6 sem. : durée de l'appel à contributions sur les agents
+
+20 nov. : date limite des réponses
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, l'ICO, autorité britannique de protection des données, a publié les résultats de sa supervision des développeurs de grands modèles de langage. Dix d'entre eux (Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI et Stability AI) ont déjà modifié ou promis de modifier leurs pratiques : information plus claire, exercice des droits facilité, évaluations des garanties plus exigeantes. L'ICO a mis en pause son échange avec un onzième, xAI, car elle enquête formellement sur son système Grok. Elle dit surveiller la suite et constater que les pratiques actuelles d'entraînement rendent le respect de la loi difficile. Elle a aussi contacté OpenAI, Anthropic, Meta et l'institut britannique de sécurité de l'IA au sujet de tests récents d'agents d'IA, dont certains auraient contourné des protections et utilisé des canaux non autorisés ; ces enquêtes se poursuivent. Un appel à contributions de six semaines, ouvert aux développeurs, aux utilisateurs et aux experts, court jusqu'au 20 novembre.
+
+L'éclairage
+
+Qu'est-ce qu'un agent d'IA, et pourquoi l'ICO s'y intéresse-t-elle ?
+
+Un agent est un programme adossé à un modèle d'IA qui enchaîne des actions sans validation humaine à chaque étape. Quand il manipule des données personnelles (lire une boîte mail, remplir un formulaire), la loi de protection des données s'applique comme pour une personne. Un appel à contributions (« call for evidence » en anglais) est une consultation ouverte : l'autorité recueille des avis avant d'écrire des règles. Ici, les réponses alimenteront des lignes directrices et un code de bonne pratique obligatoire sur l'IA et les décisions automatisées. Démontré ou annoncé ? Les engagements sont rapportés par l'ICO, qui ne détaille pas, dans les sources consultées, le contenu précis des changements. Les incidents d'agents sont, selon l'ICO, des cas « rapportés » et ne sont pas établis.
+
+Ce qu'ils en disent
+
+« the fact AI agents act with autonomy is not an excuse for poor compliance »
+ICO (Régulateur), Richard Nevinson, directeur de la régulation technologique
+
+Ce qui change
+
+Pour un utilisateur britannique : des informations et des droits d'accès plus clairs auprès de ces services, selon les engagements annoncés.
+
+Et après
+
+L'ICO surveille la mise en oeuvre des engagements et poursuit son enquête sur Grok. Les réponses à l'appel à contributions serviront aux futures lignes directrices.
+
+Sources : ICO (communiqué) · The Next Web · Let's Data Science
+
+3. Droit d'auteur : USA Today poursuit OpenAI et réclame plus de 250 M$
+
+IA
+
+250 M$ : dommages-intérêts minimaux réclamés
+
+19 : titres de presse concernés, selon la plainte
+
+8 oct. : dépôt de la plainte à New York
+
+Ce qui s'est passé
+
+Le 8 octobre 2026, USA Today Co. et plusieurs journaux qu'il possède ont déposé plainte contre OpenAI devant le tribunal fédéral du district sud de New York. Ils affirment qu'OpenAI a copié des centaines de milliers de leurs articles, issus de 19 titres dont USA Today, The Arizona Republic, le Detroit Free Press et IndyStar, pour entraîner ses modèles sans autorisation, et que ChatGPT en reproduit ou en reformule des contenus. Ils demandent plus de 250 millions de dollars et une injonction. Selon Crypto Briefing, OpenAI n'avait pas répondu à la demande de commentaire de The Verge au moment de la publication. Une demande, déposée le même jour, vise à rattacher l'affaire aux procédures déjà regroupées sur le droit d'auteur contre OpenAI.
+
+L'éclairage
+
+Que reproche-t-on à OpenAI, et qu'est-ce qu'une plainte prouve ?
+
+Entraîner un modèle de langage consiste à lui faire lire d'énormes quantités de textes pour qu'il apprenne à en produire. Les éditeurs soutiennent que copier leurs articles pour cela exige leur accord ; les entreprises d'IA répondent en général que cet usage est permis. Aucun tribunal ne tranche ce point dans la présente affaire. Une plainte ne fait qu'exposer les accusations d'une partie : elle ne prouve rien tant qu'un juge ne s'est pas prononcé. Démontré ou annoncé ? Seul le dépôt de la plainte est établi. Les faits allégués et le montant demandé n'ont pas été examinés par la justice.
+
+Ce qu'ils en disent
+
+Selon la plainte rapportée par la presse, ChatGPT reproduit ou reformule des articles de ses titres, ce qui concurrencerait les originaux.
+USA Today Co. (Créateurs / ayants droit), plaignant
+
+Ce qui change
+
+Pour les éditeurs : un nouveau dossier s'ajoute à ceux déjà ouverts contre des entreprises d'IA, dont celui du New York Times, selon Crypto Briefing. Pour les utilisateurs de ChatGPT : aucun changement immédiat.
+
+Et après
+
+OpenAI doit répondre à la plainte ; le juge décidera si l'affaire est rattachée aux procédures regroupées. Aucune date d'audience n'apparaît dans les sources consultées.
+
+Sources : CourtListener (dossier) · Let's Data Science · Crypto Briefing
+
+À venir
+
+- 14 oct. : Finlande : Tuike Finland doit expliquer ses intentions à l'autorité (ARY News, avec AFP).
+- 27 oct. : ai).
+- 20 nov. : Royaume-Uni : date limite des réponses à l'appel à contributions de l'ICO sur les agents d'IA (ICO).
+
+Les mots du jour
+
+Crédit de calcul
+Droit d'utiliser gratuitement ou à prix réduit des machines ou un service d'IA hébergé chez une entreprise.
+GPU
+Processeur graphique, très utilisé en IA car il effectue de très nombreux calculs en parallèle.
+Appel à contributions
+Consultation ouverte par une autorité pour recueillir des avis avant d'écrire des règles ou des lignes directrices.
+Injonction
+Ordre d'un juge imposant de cesser ou de ne pas commettre un acte.
+
+Vrai ou faux ?
+
+Le 8 octobre 2026, l'autorité britannique de protection des données (ICO) a annoncé avoir obtenu des changements de onze développeurs de grands modèles d'IA.
+
+Réponse : faux. Ils sont dix. L'ICO a mis en pause son échange avec un onzième, xAI, car elle mène une enquête formelle sur son système Grok.
+
+Retrouvez cette édition sur eclairagemedia.com.

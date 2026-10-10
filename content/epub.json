@@ -3,13 +3,17 @@
   "date": "2026-10-10",
   "url": "/epub/eclairage-2026-10-10.epub",
   "txt": "/epub/eclairage-2026-10-10.txt",
-  "taille": 186895,
+  "taille": 203143,
   "rubriques": [
    "politique",
-   "economie"
+   "economie",
+   "sante",
+   "local",
+   "food",
+   "tech"
   ],
-  "sujets": 6,
-  "empreinte": "5ab9a38767cb"
+  "sujets": 14,
+  "empreinte": "74813d3c82bf"
  },
  {
   "date": "2026-10-09",
