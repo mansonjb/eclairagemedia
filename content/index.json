@@ -1,6 +1,642 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-10",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MARCHÉS",
+    "titre": "CAC 40 : rebond de 0,95 % vendredi, recul de 1,19 % sur la semaine",
+    "court": "CAC 40 : +0,95 % vendredi, -1,2 % en semaine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Exchange_Financial_markets_Centrum_Pieniadza_NBP_AB.jpg/1280px-Exchange_Financial_markets_Centrum_Pieniadza_NBP_AB.jpg",
+    "legende": "Écrans et bandeaux de cours boursiers dans une salle de marché à Varsovie (illustration)",
+    "chapeau": "Vendredi 9 octobre, le CAC 40 a clôturé à 7 803,33 points, en hausse de 0,95 % (+73,64 points), après une baisse de 1,22 % jeudi. Sur la semaine, l'indice recule de 1,19 % selon l'AFP et de 1,2 % selon BFM Bourse.",
+    "eclairage": "Pourquoi le pétrole et les taux font bouger la Bourse",
+    "chiffres": [
+     {
+      "valeur": "7 803",
+      "legende": "points à la clôture du CAC 40"
+     },
+     {
+      "valeur": "+0,95%",
+      "legende": "séance de vendredi (-1,22 % jeudi)"
+     },
+     {
+      "valeur": "4,85 %",
+      "legende": "OAT à 10 ans (4,85 à 4,87 % selon les sources)"
+     }
+    ],
+    "passe": "Vendredi 9 octobre, le CAC 40 a clôturé à 7 803,33 points, en hausse de 0,95 % (+73,64 points), après une baisse de 1,22 % jeudi. Sur la semaine, l'indice recule de 1,19 % selon l'AFP et de 1,2 % selon BFM Bourse. Les cours du pétrole ont baissé pendant l'essentiel de la séance, après que Donald Trump a affirmé que Washington n'attaquerait pas l'Iran avant les élections de mi-mandat du 3 novembre ; le Brent s'échangeait autour de 104,7 dollars le baril (104,69 dollars selon BFM Bourse, 104,71 dollars selon Reuters). Le taux de l'OAT à 10 ans, l'emprunt de l'État français, est revenu à 4,85 % selon l'AFP (4,86 % selon Reuters, 4,87 % selon Zonebourse), contre 4,89 % la veille, et celui du Bund allemand à 3,48 %. Le Dax a gagné 1,19 % et le FTSE 100 1,06 %. ArcelorMittal a fini en tête du CAC 40, avec une hausse de 5,64 % à 57,28 euros selon l'AFP (+5,9 % selon BFM Bourse), après un relèvement de recommandation par UBS. Reuters note que la situation budgétaire française reste sous surveillance des marchés.",
+    "points": [],
+    "explication": "Un taux d'emprunt est le prix auquel un État emprunte : l'OAT à 10 ans est le taux de la dette française à dix ans. Quand ce taux monte, emprunter coûte plus cher à l'État, aux entreprises et aux ménages, et les profits futurs des sociétés cotées valent moins aujourd'hui : les actions ont tendance à baisser. Le pétrole joue par un autre canal : un baril plus cher alimente l'inflation, ce qui pousse les taux à la hausse. D'où le schéma de vendredi : le baril recule, les taux se détendent, la Bourse rebondit. Une recommandation d'analyste (« acheter », « neutre ») est l'avis d'une banque sur une action ; elle peut déplacer le cours d'un titre le jour de sa publication, sans que l'entreprise ait rien annoncé.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-rebond-mais-recul-sur-la-semaine-6e346e4ec2515e224dfaa5b6263084ce",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-le-cac-40-penalise-par-l-incertitude-budgetaire-e90e2ed2b6c4d28320356ddd8de3f220",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-termine-en-hausse-profitant-d-un-repit-sur-les-taux-et-le-petrole-ce785ddcd881f322",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-un-vendredi-sous-le-signe-du-rebond-pour-le-cac-40-qui-recule-toutefois-de-12-sur-la-semaine-1171546.html",
+      "nom": "BFM Bourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Donald Trump",
+      "contexte": "président des États-Unis",
+      "texte": "A affirmé que Washington n'attaquerait pas l'Iran avant les élections de mi-mandat du 3 novembre, selon l'AFP.",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-rebond-mais-recul-sur-la-semaine-6e346e4ec2515e224dfaa5b6263084ce",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "UBS",
+      "contexte": "banque",
+      "texte": "A relevé sa recommandation sur ArcelorMittal de « neutre » à « à acheter », selon l'AFP et BFM Bourse.",
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-un-vendredi-sous-le-signe-du-rebond-pour-le-cac-40-qui-recule-toutefois-de-12-sur-la-semaine-1171546.html",
+      "source": "BFM Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Reuters",
+      "contexte": "revue de marché",
+      "texte": "La situation budgétaire française reste sous vigilance et pèse sur l'indice parisien.",
+      "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-le-cac-40-penalise-par-l-incertitude-budgetaire-e90e2ed2b6c4d28320356ddd8de3f220",
+      "source": "Reuters via Boursorama"
+     }
+    ],
+    "apres": "Les marchés suivent l'évolution du Brent, les annonces américaines sur l'Iran et l'examen du budget 2027 à l'Assemblée à partir du 13 octobre. L'Insee publie les résultats définitifs de l'inflation de septembre le 15 octobre.",
+    "change": "Les taux auxquels l'État emprunte conditionnent le coût du crédit pour les entreprises et les ménages (immobilier, investissement). Un recul de l'OAT de 4,89 % à 4,85 % reste un mouvement d'ampleur limitée.",
+    "credit": {
+     "auteur": "Andrzej Barabasz",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Exchange_Financial_markets_Centrum_Pieniadza_NBP_AB.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CONJONCTURE",
+    "titre": "Budget 2027 : la commission rejette les recettes, déficit à 5,4 % du PIB",
+    "court": "Budget 2027 : recettes rejetées en commission",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vote_solennel_loi_mariage_23042013_25.jpg/1280px-Vote_solennel_loi_mariage_23042013_25.jpg",
+    "legende": "Des députés applaudissent debout dans l'hémicycle de l'Assemblée nationale (archive 2013, illustration)",
+    "chapeau": "Vendredi 9 octobre au soir, la commission des finances de l'Assemblée nationale a rejeté la partie « recettes » du projet de loi de finances 2027, selon l'AFP à la quasi-unanimité et selon LCP par 31 voix contre, 3 pour et 2 abstentions, seul le groupe Ensemble pour la République ayant voté pour.",
+    "eclairage": "Que veut dire « rejeter les recettes » en commission ?",
+    "chiffres": [
+     {
+      "valeur": "31",
+      "legende": "voix contre, 3 pour, 2 abstentions"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "déficit en plus, estimé par le rapporteur général"
+     },
+     {
+      "valeur": "5,4 %",
+      "legende": "du PIB, contre 5 % visé par le gouvernement"
+     }
+    ],
+    "passe": "Vendredi 9 octobre au soir, la commission des finances de l'Assemblée nationale a rejeté la partie « recettes » du projet de loi de finances 2027, selon l'AFP à la quasi-unanimité et selon LCP par 31 voix contre, 3 pour et 2 abstentions, seul le groupe Ensemble pour la République ayant voté pour. Ce vote est consultatif : le texte arrive dans l'hémicycle le mardi 13 octobre, dans la version initiale du gouvernement. Le gouvernement de Sébastien Lecornu vise un déficit public de 5 % du PIB en 2027, avec un effort de redressement de 54 milliards d'euros dont 43 milliards de mesures nouvelles selon Toute l'Europe. Selon LCP (information d'une seule source, à confirmer), le rapporteur général Philippe Juvin estime que les mesures adoptées ou rejetées en commission augmenteraient le déficit d'environ 10 milliards d'euros, soit 5,35 à 5,4 % du PIB, notamment parce que les députés ont supprimé la baisse de l'abattement fiscal des retraités, dont le gouvernement attendait 1,4 milliard d'euros d'économies. Ce plafond devait passer de 4 439 à 3 000 euros.",
+    "points": [],
+    "explication": "Le budget de l'État est examiné en deux parties : les recettes (impôts et taxes) puis les dépenses. La commission des finances examine le texte avant la séance publique, mais son vote ne l'arrête pas : les députés repartent du texte du gouvernement dans l'hémicycle. Le déficit public est l'écart entre ce que l'État, la Sécurité sociale et les collectivités dépensent et ce qu'ils encaissent, exprimé en pourcentage du PIB, la richesse produite en un an. Chaque dixième de point de PIB représente environ 3 milliards d'euros : un déficit à 5,4 % au lieu de 5 % veut dire plus de dette à financer, donc plus d'emprunts sur les marchés.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-rebond-mais-recul-sur-la-semaine-6e346e4ec2515e224dfaa5b6263084ce",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.moneyvox.fr/impot/actualites/110682/budget-2027-coup-envoi-des-debats-ce-mercredi-7-octobre-a-assemblee-nationale",
+      "nom": "MoneyVox (AFP)"
+     },
+     {
+      "url": "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/",
+      "nom": "Toute l'Europe"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Philippe Juvin",
+      "contexte": "rapporteur général du budget",
+      "texte": "Juge la copie « qui n'est pas satisfaisante » à l'issue de ce premier tour de chauffe.",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "Défend environ 45 milliards d'euros d'économies nouvelles, selon MoneyVox (AFP) ; Toute l'Europe cite 43 milliards de mesures nouvelles.",
+      "url": "https://www.moneyvox.fr/impot/actualites/110682/budget-2027-coup-envoi-des-debats-ce-mercredi-7-octobre-a-assemblee-nationale",
+      "source": "MoneyVox (AFP)"
+     }
+    ],
+    "apres": "Séance publique à l'Assemblée à partir du mardi 13 octobre. Faute de majorité absolue, l'exécutif pourrait recourir à l'article 49.3, aux ordonnances budgétaires ou à une loi spéciale, selon MoneyVox et Toute l'Europe.",
+    "change": "Le texte détermine les impôts et taxes des entreprises (contribution exceptionnelle sur les grandes entreprises réduite de 30 % dans la version du gouvernement), la TVA sur certains produits et le niveau des dépenses publiques, donc les commandes et les aides aux secteurs concernés.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_25.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Boots : la famille Weston rachète la chaîne pour 8,9 Md$",
+    "court": "Boots : les Weston rachètent pour 8,9 Md$",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boots%2C_Stranraer_-_geograph.org.uk_-_5593782.jpg/1280px-Boots%2C_Stranraer_-_geograph.org.uk_-_5593782.jpg",
+    "legende": "La devanture éclairée d'un magasin Boots à Stranraer, en Écosse",
+    "chapeau": "Mercredi 7 octobre, Wittington Investments, la holding de la famille Weston (Canada), a annoncé un accord pour acquérir The Boots Group auprès du fonds américain Sycamore Partners et de Stefano Pessina et sa famille, avec Fairfax Financial Holdings (Toronto) comme partenaire.",
+    "eclairage": "Comment se paie un rachat « dette comprise »",
+    "chiffres": [
+     {
+      "valeur": "8,9 Md",
+      "legende": "dollars US, dette reprise comprise (≈ 6,7 Md£)"
+     },
+     {
+      "valeur": "1 800",
+      "legende": "magasins au Royaume-Uni"
+     },
+     {
+      "valeur": "2027",
+      "legende": "clôture prévue au 1er trimestre"
+     }
+    ],
+    "passe": "Mercredi 7 octobre, Wittington Investments, la holding de la famille Weston (Canada), a annoncé un accord pour acquérir The Boots Group auprès du fonds américain Sycamore Partners et de Stefano Pessina et sa famille, avec Fairfax Financial Holdings (Toronto) comme partenaire. Le prix est de 8,9 milliards de dollars américains, dette reprise comprise, soit environ 6,7 milliards de livres. L'opération couvre les magasins Boots du Royaume-Uni et d'Irlande (plus de 1 800 au Royaume-Uni), Boots Opticians, No7 Beauty Company, les activités en Thaïlande et les franchises. Les participations dans Farmacias Benavides (Mexique) et Alliance Healthcare Deutschland (Allemagne) restent aux vendeurs. Wittington aura le contrôle opérationnel et Galen Weston deviendra président de Boots à la clôture, prévue au premier trimestre 2027 sous réserve d'approbations réglementaires. Wittington prévoit de moderniser les magasins, le site en ligne et d'étendre les services de santé.",
+    "points": [],
+    "explication": "Le prix d'une entreprise s'exprime souvent en valeur d'entreprise : le prix payé aux actionnaires plus les dettes que l'acheteur reprend. Ici, 8,9 milliards de dollars ne sont donc pas tous versés aux vendeurs en numéraire. Un fonds de capital-investissement comme Sycamore achète des sociétés, les gère quelques années puis les revend. Une holding comme Wittington détient des participations dans d'autres sociétés : elle est la maison mère de la famille Weston, qui contrôle aussi des enseignes de distribution au Canada. Boots gagne de l'argent en vendant des médicaments sur ordonnance, des produits de santé et des cosmétiques en magasin et en ligne.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ajbell.co.uk/news/articles/boots-be-bought-canadas-weston-family-gbp67-billion",
+      "nom": "dépêche PA via AJ Bell"
+     },
+     {
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/07/westons-to-buy-uk-pharmacy-chain-boots-for-us89b",
+      "nom": "BNN Bloomberg"
+     },
+     {
+      "url": "https://www.premiumbeautynews.com/en/boots-sold-to-canada-s-wittington,28312",
+      "nom": "Premium Beauty News"
+     },
+     {
+      "url": "https://www.personalcareinsights.com/news/boots-sold-wittington-investments.html",
+      "nom": "Personal Care Insights"
+     },
+     {
+      "url": "https://www.skadden.com/about/news-and-rankings/news/2026/10/wittington-investments-limited-to-acquire-the-boots-group",
+      "nom": "Skadden (conseil de l'acheteur)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Galen Weston",
+      "contexte": "président de Wittington, futur président de Boots",
+      "texte": "« Boots is one of Britain's most enduring businesses »",
+      "url": "https://theedgemalaysia.com/node/820944",
+      "source": "The Edge Malaysia"
+     }
+    ],
+    "apres": "Clôture attendue au premier trimestre 2027, après les approbations des régulateurs.",
+    "change": "Pour les clients et les salariés, rien ne change à court terme : l'accord n'est pas finalisé et reste soumis à des approbations réglementaires. Il change le propriétaire d'une chaîne de plus de 1 800 magasins britanniques.",
+    "credit": {
+     "auteur": "Billy McCrorie",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Boots,_Stranraer_-_geograph.org.uk_-_5593782.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 : début de l'examen de la partie recettes dans l'hémicycle de l'Assemblée (LCP)."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Insee : résultats définitifs de l'inflation de septembre (Insee)."
+   },
+   {
+    "jour": "22",
+    "mois": "OCT.",
+    "texte": "Insee : climat des affaires d'octobre (Insee)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Insee : confiance des ménages d'octobre (Insee)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "137 points",
+   "texte": "C'est l'écart entre le taux français à 10 ans (OAT, 4,86 %) et le taux allemand (Bund, 3,49 %) selon Reuters : 1,37 point de pourcentage. Plus il est large, plus les investisseurs demandent à la France une prime pour lui prêter plutôt qu'à l'Allemagne. Reuters indique qu'il avait dépassé 150 points la semaine précédente, une première depuis 2011 (information d'une seule source)."
+  },
+  "lexique": [
+   {
+    "terme": "OAT",
+    "definition": "Obligation assimilable du Trésor : un titre de dette de l'État français ; son taux est ce que l'État paie pour emprunter."
+   },
+   {
+    "terme": "Écart de taux (spread)",
+    "definition": "Différence entre les taux de deux pays, ici France et Allemagne, qui mesure la prime demandée pour prêter à l'un plutôt qu'à l'autre."
+   },
+   {
+    "terme": "Valeur d'entreprise",
+    "definition": "Prix d'une société : ce que reçoivent les actionnaires, plus les dettes reprises par l'acheteur."
+   },
+   {
+    "terme": "Déficit public",
+    "definition": "Écart entre les dépenses et les recettes des administrations publiques, exprimé en pourcentage du PIB."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le CAC 40 a gagné plus de 1 % sur l'ensemble de la semaine du 5 au 9 octobre.",
+   "reponse": false,
+   "explication": "Faux : malgré le rebond de 0,95 % vendredi, l'indice a reculé de 1,19 % sur la semaine, selon l'AFP, et clôturé à 7 803,33 points."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-10",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉLECTIONS",
+    "titre": "Primaire de la gauche : cyberattaque, le vote prolongé jusqu'à dimanche",
+    "court": "Primaire de la gauche : vote prolongé",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hand-laptop-notebook-typing_%2823698140194%29.jpg/1280px-Hand-laptop-notebook-typing_%2823698140194%29.jpg",
+    "legende": "Une main sur le clavier d'un ordinateur portable (illustration)",
+    "chapeau": "Le premier tour de la primaire de la gauche sociale-démocrate, organisée par le Parti socialiste et Place publique, s'est ouvert vendredi 9 octobre à 8 heures. Le vote se déroule uniquement en ligne.",
+    "eclairage": "Une primaire en ligne, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "20 000",
+      "legende": "électeurs ont voté vendredi 19 h"
+     },
+     {
+      "valeur": "140 k",
+      "legende": "inscrits au scrutin"
+     },
+     {
+      "valeur": "18 h",
+      "legende": "fin du vote dimanche 11"
+     }
+    ],
+    "passe": "Le premier tour de la primaire de la gauche sociale-démocrate, organisée par le Parti socialiste et Place publique, s'est ouvert vendredi 9 octobre à 8 heures. Le vote se déroule uniquement en ligne. La plateforme e-votez, prestataire du scrutin, a été visée dès l'ouverture par une cyberattaque : selon la commission d'organisation, elle consiste à « porter à son maximum le nombre de connexions simultanées par le biais de bots », ce qui a empêché une partie des électeurs de voter. Vendredi à 19 heures, 20 000 personnes avaient voté, sur 140 000 inscrits. Le soir même, la commission a prolongé le scrutin : prévu jusqu'à samedi 20 heures, il se termine dimanche 11 octobre à 18 heures. Les organisateurs affirment que des experts techniques ont confirmé « l'absence d'altération de la sincérité du scrutin » ; cette affirmation n'a pas été vérifiée de façon indépendante à ce stade. L'origine de l'attaque n'est pas connue : une plainte a été déposée et l'Anssi, l'agence nationale de cybersécurité, a été saisie.",
+    "points": [],
+    "explication": "Une primaire sert à désigner, avant l'élection présidentielle de 2027, le candidat d'un camp politique. Ici, cinq prétendants sont en lice : Olivier Faure, Jérôme Guedj, Emmanuel Maurel, Raphaël Glucksmann et Ségolène Royal. Le vote est électronique, et un second tour est prévu les 16 et 17 octobre si personne ne dépasse 50 % au premier. Saturer une plateforme de connexions simultanées vise à la ralentir ou à la bloquer. Les organisateurs distinguent le ralentissement, qu'ils reconnaissent, de l'altération des votes déjà enregistrés, qu'ils excluent.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html",
+      "nom": "franceinfo, qui cite l'AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-ciblee-par-une-cyberattaque",
+      "nom": "Euronews, avec AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COMMISSION D'ORGANISATION",
+      "qui": "Patrick Mennucci",
+      "contexte": "président",
+      "texte": "« Des gens votent, mais beaucoup n'y arrivent pas »",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Matignon",
+      "contexte": "source citée par franceinfo",
+      "texte": "« Le Premier ministre a demandé à l'Anssi de se mettre à disposition de l'organisateur »",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS, PLACE PUBLIQUE, GRS",
+      "qui": "Formations organisatrices",
+      "contexte": null,
+      "texte": "Elles ont saisi la justice",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Fin du vote dimanche à 18 heures ; résultats du premier tour ; enquête sur l'origine de l'attaque, avec l'appui de l'Anssi.",
+    "change": "Le vote reste ouvert jusqu'à dimanche 11 octobre à 18 heures. Les résultats du premier tour sont attendus après la clôture, et un second tour aura lieu les 16 et 17 octobre si aucun candidat n'obtient la majorité absolue.",
+    "credit": {
+     "auteur": "www.Pixel.la Free Stock Photos",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Hand-laptop-notebook-typing_(23698140194).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : la commission des finances rejette la partie « recettes »",
+    "court": "Budget 2027 : les recettes rejetées",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/North_facade_of_the_Palais_Bourbon%2C_Paris_30_July_2016.jpg/1280px-North_facade_of_the_Palais_Bourbon%2C_Paris_30_July_2016.jpg",
+    "legende": "La façade de l'Assemblée nationale, au Palais Bourbon à Paris",
+    "chapeau": "Vendredi 9 octobre, la commission des finances de l'Assemblée nationale a rejeté la première partie, dite « recettes », du projet de loi de finances (PLF) pour 2027, par 31 voix contre, 3 pour et 2 abstentions. Seul le groupe Ensemble pour la République a voté pour.",
+    "eclairage": "Pourquoi les « recettes » comptent en premier",
+    "chiffres": [
+     {
+      "valeur": "31-3",
+      "legende": "voix contre / pour (2 abstentions)"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "d'aggravation du déficit, selon le rapporteur"
+     },
+     {
+      "valeur": "5,35 %",
+      "legende": "déficit de la version commission (objectif : 5 %)"
+     }
+    ],
+    "passe": "Vendredi 9 octobre, la commission des finances de l'Assemblée nationale a rejeté la première partie, dite « recettes », du projet de loi de finances (PLF) pour 2027, par 31 voix contre, 3 pour et 2 abstentions. Seul le groupe Ensemble pour la République a voté pour. La commission examinait cette partie depuis mercredi 7 octobre. Elle avait notamment supprimé une baisse de l'abattement fiscal des retraités, dont le gouvernement attendait 1,4 milliard d'euros d'économies. Selon le rapporteur général Philippe Juvin (Droite républicaine), les mesures adoptées ou rejetées aggraveraient le déficit public d'environ 10 milliards d'euros, un chiffre qui peut encore changer : la version de la commission le porterait à 5,35-5,4 % du produit intérieur brut, contre un objectif de 5 % pour 2027. Ce vote n'a pas d'effet immédiat : le texte arrive dans l'hémicycle mardi 13 octobre dans sa version initiale, celle du gouvernement.",
+    "points": [],
+    "explication": "Le projet de loi de finances se vote en deux parties : d'abord les recettes (impôts, déficit visé), puis les dépenses. Si les députés rejettent la première partie en séance, le texte entier tombe sans que les dépenses soient examinées. Le gouvernement pourrait aussi recourir aux ordonnances budgétaires, un procédé jamais utilisé qui permettrait de faire passer le budget sans aucun vote, selon franceinfo avec l'AFP. Le vote de la commission est une étape préparatoire : la séance publique repart du texte du gouvernement.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plf-pour-2027-examen-de-la-premiere-partie-en-commission-des-finances",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "ENSEMBLE POUR LA RÉPUBLIQUE",
+      "qui": "Paul Midy",
+      "contexte": "député",
+      "texte": "« mieux un mauvais budget que pas de budget »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jean-Philippe Tanguy",
+      "contexte": "député",
+      "texte": "« Hors de question de voter des hausses d'impôts »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Philippe Juvin",
+      "contexte": "rapporteur général",
+      "texte": "Une « copie qui n'est pas satisfaisante à l'issue de ce premier tour de chauffe »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "SOCIALISTES",
+      "qui": "Estelle Mercier",
+      "contexte": "députée",
+      "texte": "Elle dénonce « l'alliance du bloc central et du RN »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Éric Coquerel",
+      "contexte": "président de la commission",
+      "texte": "Il dénonce une « aggravation » du texte",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Mardi 13 octobre : ouverture du débat dans l'hémicycle sur la partie recettes.",
+    "change": "Les députés repartent du projet du gouvernement en séance publique, et un rejet des recettes vaudrait rejet de tout le texte. Selon franceinfo avec l'AFP, l'adoption définitive n'est pas attendue avant le 18 décembre.",
+    "credit": {
+     "auteur": "Guilhem Vellut from Paris, France",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:North_facade_of_the_Palais_Bourbon,_Paris_30_July_2016.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SOCIÉTÉ",
+    "titre": "Loi intégrale : fin de l'examen à l'Assemblée, vote solennel mardi",
+    "court": "Loi intégrale : vote solennel mardi",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes%2C_sexuelles_et_de_genre_%E2%80%94_197.jpg/1280px-Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes%2C_sexuelles_et_de_genre_%E2%80%94_197.jpg",
+    "legende": "Des pancartes violettes contre les violences sexistes et sexuelles lors d'une manifestation à Paris, en novembre 2025 (illustration)",
+    "chapeau": "Vendredi 9 octobre, l'Assemblée nationale a terminé l'examen en séance de la proposition de loi « apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants », ainsi que de la proposition de loi organique qui l'accompagne.",
+    "eclairage": "Vote solennel, nouvelle délibération : le parcours du texte",
+    "chiffres": [
+     {
+      "valeur": "13/10",
+      "legende": "vote solennel à 16 h 30"
+     },
+     {
+      "valeur": "121-77",
+      "legende": "suppression de l'article sur les OQTF"
+     },
+     {
+      "valeur": "3-4",
+      "legende": "Md€ de coût à terme selon l'exécutif"
+     }
+    ],
+    "passe": "Vendredi 9 octobre, l'Assemblée nationale a terminé l'examen en séance de la proposition de loi « apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants », ainsi que de la proposition de loi organique qui l'accompagne. Les votes solennels auront lieu mardi 13 octobre à 16 h 30. Le dernier jour, les députés ont adopté par 121 voix contre 77 des amendements supprimant l'article 62, qui interdisait de prononcer une obligation de quitter le territoire français (OQTF) contre un étranger ayant porté plainte pour violences sexuelles tant que la procédure pénale n'était pas achevée. Ils ont aussi rejeté, par 77 voix contre 74, la création d'un congé pour les salariés victimes de violences sexuelles ; le gouvernement a demandé un nouveau vote mardi, avant celui sur l'ensemble du texte. Pendant l'examen, les cours criminelles départementales ont été rétablies pour juger les viols, sauf pour les crimes punis d'au moins vingt ans de prison, jugés par une cour d'assises spécialisée. Une infraction d'inceste a été créée et l'envoi de photos intimes non sollicitées est puni d'un an de prison et de 15 000 euros d'amende. L'exécutif estime le coût à « 3 à 4 milliards d'euros » à terme.",
+    "points": [],
+    "explication": "Une proposition de loi est un texte déposé par des parlementaires, à la différence d'un projet de loi, déposé par le gouvernement. Le vote solennel est le vote de l'ensemble du texte, à une date fixée à l'avance, après les questions au gouvernement. Une nouvelle délibération est un nouveau vote sur un article déjà voté : le gouvernement l'a demandée pour le congé. Après l'Assemblée, le texte passera au Sénat, où son examen est prévu en janvier, avant une commission mixte paritaire chargée de chercher un texte commun.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-l-assemblee-a-termine-l-examen-du-texte-le",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/au-dernier-jour-d-examen-de-la-loi-integrale-le-rassemblement-national-fait-tomber-plusieurs-mesures_8230735.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/loi-integrale-contre-les-violences-sexuelles-et-sexistes-examen-des-propositions-de-loi",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Aurore Bergé",
+      "contexte": "ministre déléguée chargée de l'Égalité",
+      "texte": "Sur l'OQTF : « Il y a un risque de contournement évident »",
+      "url": "https://lcp.fr/actualites/loi-integrale-les-deputes-rejettent-l-interdiction-de-prononcer-une-oqtf-contre-une",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Thomas Ménagé",
+      "contexte": "député",
+      "texte": "« Dix minutes de guichet, puis des mois, voire des années de tranquillité »",
+      "url": "https://lcp.fr/actualites/loi-integrale-les-deputes-rejettent-l-interdiction-de-prononcer-une-oqtf-contre-une",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "GDR",
+      "qui": "Elsa Faucillon",
+      "contexte": "rapporteure spécifique",
+      "texte": "« Quand vous entendez femme étrangère, vous entendez \"étrangère\" et pas \"femme\" d'abord »",
+      "url": "https://lcp.fr/actualites/loi-integrale-les-deputes-rejettent-l-interdiction-de-prononcer-une-oqtf-contre-une",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Emilie Bonnivard",
+      "contexte": "députée",
+      "texte": "Elle dénonce « une OPA sur ce texte, avec une politique migratoire qui n'a rien à y faire »",
+      "url": "https://lcp.fr/actualites/loi-integrale-les-deputes-rejettent-l-interdiction-de-prononcer-une-oqtf-contre-une",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "SOCIALISTES",
+      "qui": "Céline Thiébault-Martinez",
+      "contexte": "rapporteure générale",
+      "texte": "« Essayons de voir si une voie est possible »",
+      "url": "https://lcp.fr/actualites/loi-integrale-les-deputes-rejettent-l-interdiction-de-prononcer-une-oqtf-contre-une",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Sarah Legrain",
+      "contexte": "députée",
+      "texte": "Le chiffrage de l'article 68 « n'engage absolument à rien »",
+      "url": "https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-l-assemblee-a-termine-l-examen-du-texte-le",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Mardi 13 octobre : nouveau vote sur le congé, puis votes solennels ; examen au Sénat prévu en janvier.",
+    "change": "Si le vote solennel adopte le texte, il part au Sénat.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes,_sexuelles_et_de_genre_%E2%80%94_197.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Union européenne : Conseil des affaires étrangères."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Assemblée : ouverture du débat sur le budget 2027 en séance et votes solennels sur la loi intégrale ; nouvelle journée d'action lycéenne."
+   },
+   {
+    "jour": "29",
+    "mois": "OCT.",
+    "texte": "Assemblée : journée réservée au groupe LFI."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Primaire",
+    "definition": "Vote organisé par un camp politique pour choisir son candidat à l'élection présidentielle."
+   },
+   {
+    "terme": "Anssi",
+    "definition": "Agence nationale de la sécurité des systèmes d'information, l'autorité française en matière de cybersécurité."
+   },
+   {
+    "terme": "Vote solennel",
+    "definition": "Vote sur l'ensemble d'un texte, à une date fixée à l'avance, avec tous les députés."
+   },
+   {
+    "terme": "Nouvelle délibération",
+    "definition": "Nouveau vote sur un article déjà voté, demandé ici par le gouvernement."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 9 octobre, seul le groupe Ensemble pour la République a voté contre la partie « recettes » du budget 2027 en commission des finances.",
+   "reponse": false,
+   "explication": "Faux : c'est le seul groupe à avoir voté pour. La partie recettes a été rejetée par 31 voix contre, 3 pour et 2 abstentions."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-09",
   "minutes": 13,
   "sujets": [

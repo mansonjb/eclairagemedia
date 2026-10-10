@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "sondage": {
   "methode": "moyenne",
   "nb": 9,
@@ -59,10 +59,9 @@
   "Wikipedia",
   "réseaux",
   "citations",
-  "abonnés",
-  "YouTube"
+  "abonnés"
  ],
- "polymarket_volume": 147497777.52786,
+ "polymarket_volume": 148104931.070658,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -82,23 +81,22 @@
     "d": 0
    },
    "attention": {
-    "v": 68,
-    "d": 21.5,
+    "v": 76.3,
+    "d": 26.6,
     "parts": {
-     "Wikipedia": 3.8,
+     "Wikipedia": 4,
      "réseaux": 17,
      "citations": 27.6,
-     "abonnés": 29.3,
-     "YouTube": 3.9
+     "abonnés": 30
     }
    },
    "polymarket": {
-    "v": 41.2,
-    "d": -3.3,
-    "d24": -2,
-    "d30": 5.6,
-    "vol": 3440035,
-    "vol7": 482004,
+    "v": 40.8,
+    "d": -4.8,
+    "d24": -0.4,
+    "d30": 3.3,
+    "vol": 3472693,
+    "vol7": 456992,
     "haut": 45.7,
     "bas": 34.1
    },
@@ -172,27 +170,27 @@
      {
       "rang": 10,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 793 posts"
+      "valeur": "2 787 posts"
      },
      {
       "rang": 3,
       "libelle": "sur 34 en engagement",
-      "valeur": "35 790 666"
+      "valeur": "35 476 061"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "12 814"
+      "valeur": "12 729"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "603 317 339"
+      "valeur": "597 818 529"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "5 574 268 abonnés"
+      "valeur": "5 550 802 abonnés"
      }
     ],
     "posts": [
@@ -217,12 +215,12 @@
     ],
     "citations": [
      {
-      "valeur": "12 806",
+      "valeur": "12 682",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "733",
+      "valeur": "719",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -232,19 +230,19 @@
       "detail": ""
      },
      {
-      "valeur": "542",
+      "valeur": "551",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "8 987",
+      "valeur": "8 872",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 775 politiques"
+      "detail": "par 778 politiques"
      },
      {
-      "valeur": "235",
+      "valeur": "231",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 65 organisations"
+      "detail": "par 66 organisations"
      }
     ],
     "journalistes": [
@@ -256,21 +254,21 @@
      {
       "nom": "Anthony",
       "role": "Journaliste",
-      "posts": "138 posts"
+      "posts": "137 posts"
      },
      {
       "nom": "Nils Wilcke",
       "role": "Journaliste",
-      "posts": "94 posts"
+      "posts": "92 posts"
      }
     ]
    },
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 68
+    "attention": 76
    },
-   "score": 94,
+   "score": 95,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -289,14 +287,13 @@
     "d": 0.4
    },
    "attention": {
-    "v": 99.9,
-    "d": -5.2,
+    "v": 100,
+    "d": -3.7,
     "parts": {
-     "Wikipedia": 11,
+     "Wikipedia": 12.2,
      "réseaux": 41.8,
      "citations": 17.7,
-     "abonnés": 20,
-     "YouTube": 36.5
+     "abonnés": 21.8
     }
    },
    "polymarket": {
@@ -304,8 +301,8 @@
     "d": 0,
     "d24": null,
     "d30": 1,
-    "vol": 1994874,
-    "vol7": 213043,
+    "vol": 2030294,
+    "vol7": 234364,
     "haut": 15.5,
     "bas": 11.5
    },
@@ -407,27 +404,27 @@
      {
       "rang": 4,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "3 946 posts"
+      "valeur": "3 798 posts"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en engagement",
-      "valeur": "37 637 206"
+      "valeur": "36 143 361"
      },
      {
       "rang": 3,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "9 538"
+      "valeur": "9 516"
      },
      {
       "rang": 2,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "546 837 213"
+      "valeur": "537 047 125"
      },
      {
       "rang": 1,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "8 098 193 abonnés"
+      "valeur": "8 042 523 abonnés"
      }
     ],
     "posts": [
@@ -452,12 +449,12 @@
     ],
     "citations": [
      {
-      "valeur": "10 221",
+      "valeur": "10 089",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "593",
+      "valeur": "588",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -467,17 +464,17 @@
       "detail": ""
      },
      {
-      "valeur": "347",
+      "valeur": "304",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "6 646",
+      "valeur": "6 523",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 633 politiques"
+      "detail": "par 621 politiques"
      },
      {
-      "valeur": "144",
+      "valeur": "143",
       "libelle": "posts de lobbies et organisations sur 12 mois",
       "detail": "par 45 organisations"
      }
@@ -486,23 +483,23 @@
      {
       "nom": "Jérôme Godefroy",
       "role": "Journaliste",
-      "posts": "217 posts"
+      "posts": "221 posts"
      },
      {
       "nom": "Haziza Frédéric",
       "role": "Journaliste",
-      "posts": "209 posts"
+      "posts": "212 posts"
      },
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "153 posts"
+      "posts": "148 posts"
      }
     ]
    },
    "composantes": {
     "sondage": 50,
-    "polymarket": 30,
+    "polymarket": 31,
     "attention": 100
    },
    "score": 54,
@@ -524,23 +521,21 @@
     "d": -0.8
    },
    "attention": {
-    "v": 19.9,
-    "d": 7.6,
+    "v": 17.1,
+    "d": 3.5,
     "parts": {
-     "Wikipedia": 10.5,
      "réseaux": 1.2,
      "citations": 10.4,
-     "abonnés": 0.5,
-     "YouTube": 0
+     "abonnés": 0.3
     }
    },
    "polymarket": {
-    "v": 21.5,
-    "d": 2,
-    "d24": 4,
-    "d30": -9,
-    "vol": 2055013,
-    "vol7": 195666,
+    "v": 22.5,
+    "d": 4,
+    "d24": 1,
+    "d30": -7,
+    "vol": 2094605,
+    "vol7": 218720,
     "haut": 30.5,
     "bas": 17.5
    },
@@ -695,8 +690,8 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 52,
-    "attention": 20
+    "polymarket": 55,
+    "attention": 17
    },
    "score": 44,
    "rangs": {
@@ -717,23 +712,22 @@
     "d": -0.6
    },
    "attention": {
-    "v": 22.8,
-    "d": 4.8,
+    "v": 26.4,
+    "d": 5.5,
     "parts": {
-     "Wikipedia": 4.7,
+     "Wikipedia": 5.5,
      "réseaux": 8.2,
      "citations": 8.9,
-     "abonnés": 1.5,
-     "YouTube": 0.5
+     "abonnés": 1.5
     }
    },
    "polymarket": {
-    "v": 1.9,
-    "d": -0.3,
-    "d24": -1.1,
-    "d30": -0.3,
-    "vol": 2754934,
-    "vol7": 204627,
+    "v": 1.8,
+    "d": -0.4,
+    "d24": -0.1,
+    "d30": null,
+    "vol": 2774315,
+    "vol7": 193187,
     "haut": 3,
     "bas": 1.2
    },
@@ -874,8 +868,8 @@
    },
    "composantes": {
     "sondage": 31,
-    "polymarket": 5,
-    "attention": 23
+    "polymarket": 4,
+    "attention": 26
    },
    "score": 22,
    "rangs": {
@@ -896,23 +890,22 @@
     "d": -1.9
    },
    "attention": {
-    "v": 20,
-    "d": -0.5,
+    "v": 23.5,
+    "d": -0.2,
     "parts": {
-     "Wikipedia": 9.5,
+     "Wikipedia": 10.4,
      "réseaux": 0.6,
      "citations": 12.2,
-     "abonnés": 0.2,
-     "YouTube": 0
+     "abonnés": 0
     }
    },
    "polymarket": {
-    "v": 1.6,
-    "d": -0.1,
-    "d24": 0.5,
-    "d30": -0.3,
-    "vol": 2142693,
-    "vol7": 187326,
+    "v": 1.1,
+    "d": -0.5,
+    "d24": -0.5,
+    "d30": -0.8,
+    "vol": 2153448,
+    "vol7": 157947,
     "haut": 2.3,
     "bas": 0.9
    },
@@ -1053,54 +1046,13 @@
    },
    "composantes": {
     "sondage": 31,
-    "polymarket": 4,
-    "attention": 20
+    "polymarket": 3,
+    "attention": 24
    },
    "score": 21,
    "rangs": {
     "sondage": 5,
     "polymarket": 7
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 100,
-    "d": 14.6,
-    "parts": {
-     "Wikipedia": 18,
-     "abonnés": 18.1,
-     "YouTube": 53
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": -0.1,
-    "d24": -0.2,
-    "d30": 0.1,
-    "vol": 2448124,
-    "vol7": 147695,
-    "haut": 1.7,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 100
-   },
-   "score": 21,
-   "rangs": {
-    "polymarket": 10
    }
   },
   {
@@ -1113,25 +1065,24 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 46.2,
-    "d": -16.5,
+    "v": 54.1,
+    "d": -15.9,
     "parts": {
-     "Wikipedia": 23.3,
+     "Wikipedia": 27.5,
      "réseaux": 10.4,
      "citations": 1.5,
-     "abonnés": 22.3,
-     "YouTube": 4.3
+     "abonnés": 21.7
     }
    },
    "polymarket": {
-    "v": 12.8,
-    "d": 4.8,
-    "d24": 0.3,
-    "d30": 8.6,
-    "vol": 4254610,
-    "vol7": 1421115,
+    "v": 12.6,
+    "d": 4.6,
+    "d24": -0.2,
+    "d30": 6.5,
+    "vol": 4385854,
+    "vol7": 1337408,
     "haut": 13.2,
-    "bas": 3.7
+    "bas": 4.4
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1146,27 +1097,27 @@
      {
       "rang": 13,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 183 posts"
+      "valeur": "2 165 posts"
      },
      {
       "rang": 10,
       "libelle": "sur 34 en engagement",
-      "valeur": "6 278 606"
+      "valeur": "6 061 992"
      },
      {
       "rang": 10,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "2 876"
+      "valeur": "2 800"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "112 253 568"
+      "valeur": "109 458 738"
      },
      {
       "rang": 20,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "321 566 abonnés"
+      "valeur": "360 508 abonnés"
      }
     ],
     "posts": [
@@ -1185,12 +1136,12 @@
     ],
     "citations": [
      {
-      "valeur": "1 236",
+      "valeur": "1 227",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "219",
+      "valeur": "215",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1200,19 +1151,19 @@
       "detail": ""
      },
      {
-      "valeur": "30",
+      "valeur": "29",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "1 889",
+      "valeur": "1 860",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 242 politiques"
      },
      {
-      "valeur": "113",
+      "valeur": "111",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 48 organisations"
+      "detail": "par 46 organisations"
      }
     ],
     "journalistes": [
@@ -1236,9 +1187,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 31,
-    "attention": 46
+    "attention": 54
    },
-   "score": 19,
+   "score": 20,
    "rangs": {
     "polymarket": 3
    }
@@ -1256,23 +1207,22 @@
     "d": 0.3
    },
    "attention": {
-    "v": 18.3,
-    "d": 4.3,
+    "v": 20.8,
+    "d": 4.1,
     "parts": {
-     "Wikipedia": 3,
+     "Wikipedia": 3.2,
      "réseaux": 5.7,
      "citations": 9,
-     "abonnés": 1.1,
-     "YouTube": 0
+     "abonnés": 0.8
     }
    },
    "polymarket": {
-    "v": 1.2,
-    "d": -0.2,
+    "v": 1.1,
+    "d": -0.4,
     "d24": -0.1,
-    "d30": -0.1,
-    "vol": 2682162,
-    "vol7": 207071,
+    "d30": -0.3,
+    "vol": 2697904,
+    "vol7": 202789,
     "haut": 2.5,
     "bas": 1.1
    },
@@ -1385,12 +1335,52 @@
    "composantes": {
     "sondage": 24,
     "polymarket": 3,
-    "attention": 18
+    "attention": 21
    },
    "score": 17,
    "rangs": {
     "sondage": 6,
     "polymarket": 8
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 74.1,
+    "d": 16.1,
+    "parts": {
+     "Wikipedia": 19.3,
+     "abonnés": 17.8
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": -0.1,
+    "d24": -0.1,
+    "d30": null,
+    "vol": 2490877,
+    "vol7": 175546,
+    "haut": 1.7,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 74
+   },
+   "score": 15,
+   "rangs": {
+    "polymarket": 9
    }
   },
   {
@@ -1406,25 +1396,24 @@
     "d": -2.4
    },
    "attention": {
-    "v": 8.2,
+    "v": 9.5,
     "d": -0.3,
     "parts": {
-     "Wikipedia": 2.4,
+     "Wikipedia": 2.8,
      "réseaux": 1.8,
      "citations": 3.6,
-     "abonnés": 1.4,
-     "YouTube": 0
+     "abonnés": 1.1
     }
    },
    "polymarket": {
-    "v": 2.9,
-    "d": -2.6,
-    "d24": -0.6,
-    "d30": -0.1,
-    "vol": 2293532,
-    "vol7": 154102,
+    "v": 3.3,
+    "d": -1.6,
+    "d24": 0.4,
+    "d30": 0.4,
+    "vol": 2341134,
+    "vol7": 193690,
     "haut": 6.3,
-    "bas": 2.8
+    "bas": 2.3
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1439,27 +1428,27 @@
      {
       "rang": 26,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "504 posts"
+      "valeur": "490 posts"
      },
      {
       "rang": 17,
       "libelle": "sur 34 en engagement",
-      "valeur": "1 935 278"
+      "valeur": "1 864 493"
      },
      {
       "rang": 7,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 840"
+      "valeur": "3 805"
      },
      {
       "rang": 15,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "74 225 768"
+      "valeur": "73 566 553"
      },
      {
       "rang": 4,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "2 295 941 abonnés"
+      "valeur": "2 295 521 abonnés"
      }
     ],
     "posts": [
@@ -1484,12 +1473,12 @@
     ],
     "citations": [
      {
-      "valeur": "2 399",
+      "valeur": "2 348",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "369",
+      "valeur": "367",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1499,26 +1488,26 @@
       "detail": ""
      },
      {
-      "valeur": "70",
+      "valeur": "24",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "627",
+      "valeur": "622",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 269 politiques"
+      "detail": "par 270 politiques"
      },
      {
-      "valeur": "101",
+      "valeur": "97",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 48 organisations"
+      "detail": "par 46 organisations"
      }
     ],
     "journalistes": [
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "72 posts"
+      "posts": "71 posts"
      },
      {
       "nom": "Françoise Degois",
@@ -1534,8 +1523,8 @@
    },
    "composantes": {
     "sondage": 20,
-    "polymarket": 7,
-    "attention": 8
+    "polymarket": 8,
+    "attention": 10
    },
    "score": 14,
    "rangs": {
@@ -1556,23 +1545,22 @@
     "d": 0.8
    },
    "attention": {
-    "v": 13.5,
-    "d": 1.4,
+    "v": 14.6,
+    "d": 0.6,
     "parts": {
-     "Wikipedia": 4.9,
+     "Wikipedia": 5.3,
      "réseaux": 6,
      "citations": 1.2,
-     "abonnés": 1.9,
-     "YouTube": 1.5
+     "abonnés": 1
     }
    },
    "polymarket": {
-    "v": 0.7,
+    "v": 0.5,
     "d": -0.4,
-    "d24": -0.2,
-    "d30": 0.2,
-    "vol": 2789990,
-    "vol7": 141919,
+    "d24": -0.1,
+    "d30": 0.1,
+    "vol": 2814777,
+    "vol7": 152985,
     "haut": 1.9,
     "bas": 0.2
    },
@@ -1684,8 +1672,8 @@
    },
    "composantes": {
     "sondage": 12,
-    "polymarket": 2,
-    "attention": 14
+    "polymarket": 1,
+    "attention": 15
    },
    "score": 9,
    "rangs": {
@@ -1706,14 +1694,13 @@
     "d": 0.2
    },
    "attention": {
-    "v": 5.3,
-    "d": -24.6,
+    "v": 6.2,
+    "d": -26.9,
     "parts": {
-     "Wikipedia": 2,
+     "Wikipedia": 2.1,
      "réseaux": 2.2,
      "citations": 1,
-     "abonnés": 0.5,
-     "YouTube": 0
+     "abonnés": 0.5
     }
    },
    "polymarket": {
@@ -1721,8 +1708,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4452194,
-    "vol7": 133013,
+    "vol": 4470233,
+    "vol7": 136969,
     "haut": null,
     "bas": null
    },
@@ -1878,7 +1865,7 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
    "score": 7,
    "rangs": {
@@ -1899,14 +1886,13 @@
     "d": -0.2
    },
    "attention": {
-    "v": 4.8,
-    "d": 0.7,
+    "v": 5.5,
+    "d": 0.5,
     "parts": {
-     "Wikipedia": 1.2,
+     "Wikipedia": 1.4,
      "réseaux": 1.4,
      "citations": 1.6,
-     "abonnés": 1.2,
-     "YouTube": 0
+     "abonnés": 1
     }
    },
    "polymarket": {
@@ -1914,8 +1900,8 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4248945,
-    "vol7": 0,
+    "vol": 4258945,
+    "vol7": 14650,
     "haut": null,
     "bas": null
    },
@@ -2057,7 +2043,7 @@
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
    "score": 5,
    "rangs": {
@@ -2078,24 +2064,23 @@
     "d": -1
    },
    "attention": {
-    "v": 6.9,
-    "d": -0.5,
+    "v": 8.5,
+    "d": 0.4,
     "parts": {
-     "Wikipedia": 3.1,
+     "Wikipedia": 3.4,
      "réseaux": 0.3,
      "citations": 3.5,
-     "abonnés": 1.4,
-     "YouTube": 0
+     "abonnés": 1.8
     }
    },
    "polymarket": {
-    "v": 1.1,
-    "d": 0.7,
-    "d24": 0.1,
-    "d30": -0.4,
-    "vol": 2425062,
-    "vol7": 271410,
-    "haut": 1.9,
+    "v": 0.7,
+    "d": 0.3,
+    "d24": -0.4,
+    "d30": -0.6,
+    "vol": 2435126,
+    "vol7": 269652,
+    "haut": 1.8,
     "bas": 0.2
    },
    "declarations": [
@@ -2221,13 +2206,13 @@
    },
    "composantes": {
     "sondage": 6,
-    "polymarket": 3,
-    "attention": 7
+    "polymarket": 2,
+    "attention": 9
    },
    "score": 5,
    "rangs": {
     "sondage": 11,
-    "polymarket": 9
+    "polymarket": 10
    }
   },
   {
@@ -2240,14 +2225,13 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 7.3,
-    "d": 0.2,
+    "v": 8.4,
+    "d": 0,
     "parts": {
-     "Wikipedia": 1.9,
+     "Wikipedia": 2.1,
      "réseaux": 3.6,
      "citations": 1.1,
-     "abonnés": 0.7,
-     "YouTube": 0.4
+     "abonnés": 0.8
     }
    },
    "polymarket": {
@@ -2255,8 +2239,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4635124,
-    "vol7": 149480,
+    "vol": 4653173,
+    "vol7": 153692,
     "haut": null,
     "bas": null
    },
@@ -2369,9 +2353,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 7
+    "attention": 8
    },
-   "score": 1,
+   "score": 2,
    "rangs": {
     "polymarket": 14
    }
@@ -2386,23 +2370,22 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.4,
-    "d": 0.4,
+    "v": 1.6,
+    "d": 0.5,
     "parts": {
-     "Wikipedia": 0.7,
+     "Wikipedia": 0.8,
      "réseaux": 0,
      "citations": 0.8,
-     "abonnés": 0,
-     "YouTube": 0
+     "abonnés": 0
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
     "d24": null,
-    "d30": -0.1,
-    "vol": 6153892,
-    "vol7": 1492,
+    "d30": null,
+    "vol": 6154762,
+    "vol7": 2344,
     "haut": null,
     "bas": null
    },
@@ -2515,7 +2498,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 1
+    "attention": 2
    },
    "score": 0,
    "rangs": {
@@ -2703,6 +2686,43 @@
     "Dominique de Villepin": 1.1,
     "Sarah Knafo": 0.9,
     "Éric Zemmour": 0.7,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-10",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Marine Le Pen": 76.3,
+    "Sarah Knafo": 74.1,
+    "David Lisnard": 54.1,
+    "Gabriel Attal": 26.4,
+    "Raphaël Glucksmann": 23.5,
+    "Bruno Retailleau": 20.8,
+    "Édouard Philippe": 17.1,
+    "Éric Zemmour": 14.6,
+    "François Hollande": 9.5,
+    "Dominique de Villepin": 8.5,
+    "François Ruffin": 8.4,
+    "Marine Tondelier": 6.2,
+    "Fabien Roussel": 5.5,
+    "Xavier Bertrand": 1.6
+   },
+   "polymarket": {
+    "Marine Le Pen": 40.8,
+    "Édouard Philippe": 22.5,
+    "David Lisnard": 12.6,
+    "Jean-Luc Mélenchon": 12.5,
+    "François Hollande": 3.3,
+    "Gabriel Attal": 1.8,
+    "Bruno Retailleau": 1.1,
+    "Raphaël Glucksmann": 1.1,
+    "Sarah Knafo": 0.9,
+    "Dominique de Villepin": 0.7,
+    "Éric Zemmour": 0.5,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
     "Xavier Bertrand": 0.1,

@@ -1,5 +1,214 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-10",
+  "url": "/podcasts/politique-2026-10-10.mp3",
+  "taille": 3398993,
+  "duree": 283,
+  "titre": "Éclairage politique, samedi 10 octobre 2026",
+  "titre_episode": "Primaire attaquée, budget rejeté, loi intégrale : l'essentiel du samedi 10 octobre",
+  "description": "Ce samedi 10 octobre, Léa et Paul reprennent 3 sujets.\n• Primaire de la gauche : la plateforme de vote visée par une cyberattaque, scrutin prolongé jusqu'à dimanche 18 h, et ce que disent les organisateurs.\n• Budget 2027 : la partie recettes rejetée en commission des finances, et ce que cela change avant le débat en séance.\n• Loi intégrale : fin de l'examen à l'Assemblée, votes sur l'OQTF et le congé, vote solennel mardi.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Primaire de la gauche : cyberattaque, le vote prolongé jusqu'à dimanche"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget 2027 : la commission des finances rejette la partie « recettes »"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Loi intégrale : fin de l'examen à l'Assemblée, vote solennel mardi"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Éclairage politique, ce samedi dix octobre. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : une primaire de la gauche attaquée par des robots, un budget rejeté en commission, et une grande loi sur les violences sexuelles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par la primaire. Vendredi à huit heures, le vote en ligne s'ouvre. Et tout de suite, ça coince."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La plateforme de vote, e-votez, a été visée par une cyberattaque. Selon la commission d'organisation, des robots saturent le site avec des connexions simultanées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça veut dire quoi pour un électeur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Que beaucoup n'arrivent pas à voter. Le président de la commission, Patrick Mennucci, le résume ainsi : des gens votent, mais beaucoup n'y arrivent pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté chiffres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi à dix-neuf heures, vingt mille personnes avaient voté, sur cent quarante mille inscrits."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, vingt mille sur cent quarante mille ? Ça fait peu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que disent les organisateurs. Du coup, ils prolongent le scrutin. Il devait finir samedi à vingt heures, il se termine dimanche onze octobre à dix-huit heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le vote lui-même, est-ce qu'il est fiable ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les organisateurs affirment que des experts ont confirmé l'absence d'altération du scrutin. Mais attention, c'est leur affirmation, pas une vérification indépendante à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'origine de l'attaque ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle n'est pas connue. Une plainte a été déposée, et l'Anssi, l'agence nationale de cybersécurité, a été saisie. Matignon a confirmé que le Premier ministre lui a demandé de se mettre à disposition de l'organisateur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Les organisateurs reconnaissent le ralentissement, et excluent l'altération des votes. À retenir : le premier tour finit dimanche à dix-huit heures, et un second tour est prévu les seize et dix-sept octobre si personne n'a la majorité absolue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. À l'Assemblée nationale, cette fois, avec le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi, la commission des finances a rejeté la partie recettes du projet de loi de finances. Trente et une voix contre, trois pour, deux abstentions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trois pour seulement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Seul le groupe Ensemble pour la République a voté pour. Les oppositions, de La France insoumise au Rassemblement national, ont voté contre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, et c'est là que ça devient intéressant. Ce vote n'a pas d'effet immédiat. Mardi treize octobre, les députés repartent en séance du texte initial, celui du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le travail de la commission ne compte pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il pèse sur le débat, mais ne s'impose pas. Le rapporteur général, Philippe Juvin, estime que les mesures adoptées ou rejetées aggraveraient le déficit d'environ dix milliards d'euros. Un chiffre qui peut encore changer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dix milliards d'euros. Et par rapport à l'objectif ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La version de la commission porterait le déficit à environ cinq virgule trois cinq pour cent du PIB, contre cinq pour cent visés pour deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi la partie recettes est-elle si décisive ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que si les députés la rejettent en séance, tout le texte tombe, sans même examiner les dépenses. Le rapporteur parle d'une copie qui n'est pas satisfaisante à l'issue de ce premier tour de chauffe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un budget qui se joue donc dès mardi. Passons à notre troisième sujet : la loi intégrale contre les violences sexuelles et sexistes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi, l'Assemblée a terminé son examen. Les votes solennels sont fixés à mardi treize octobre, à seize heures trente."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que s'est-il passé le dernier jour ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux votes très suivis. D'abord, les députés ont supprimé, par cent vingt et une voix contre soixante-dix-sept, un article qui interdisait de prononcer une obligation de quitter le territoire contre un étranger ayant porté plainte pour violences sexuelles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui était pour la suppression ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des amendements du RN, de la Droite républicaine, d'Horizons, d'Ensemble pour la République et de Liot, soutenus par la ministre Aurore Bergé, qui évoque un risque de contournement évident."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ceux qui défendaient l'article ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La rapporteure spécifique, Elsa Faucillon, regrette qu'on entende « étrangère » avant « femme »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième vote ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le congé pour les salariés victimes de violences sexuelles. Il a été rejeté, soixante-dix-sept voix contre soixante-quatorze."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, soixante-dix-sept contre soixante-quatorze ? C'est serré."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Très serré. Du coup, le gouvernement a demandé un nouveau vote mardi, avant celui sur l'ensemble du texte. On appelle ça une nouvelle délibération."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce qui a été retenu dans la loi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les cours criminelles départementales sont rétablies pour juger les viols, sauf pour les crimes punis d'au moins vingt ans de prison. Une infraction d'inceste est créée. Et l'envoi de photos intimes non sollicitées est puni d'un an de prison et quinze mille euros d'amende."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le coût ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'exécutif l'estime entre trois et quatre milliards d'euros à terme. Les associations féministes jugent qu'il faut au moins trois milliards tout de suite."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et après l'Assemblée ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le texte passera au Sénat, où son examen est prévu en janvier. À retenir : mardi, un nouveau vote sur le congé, puis les votes solennels."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-09",
   "url": "/podcasts/essentiel-2026-10-09.mp3",
