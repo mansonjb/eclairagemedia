@@ -1,5 +1,452 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-10",
+  "url": "/podcasts/essentiel-2026-10-10.mp3",
+  "taille": 6817690,
+  "duree": 568,
+  "titre": "Éclairage, l'essentiel du samedi 10 octobre 2026",
+  "titre_episode": "Primaire de la gauche, budget 2027, Genesis Mission : l'essentiel du samedi 10 octobre",
+  "description": "Ce samedi 10 octobre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : primaire de la gauche, cyberattaque et vote prolongé\n• Politique : budget 2027, la commission rejette les recettes\n• Économie : CAC 40, rebond de 0,95 % vendredi\n• Économie : budget 2027, déficit visé à 5 % du PIB\n• Santé : microbiote intestinal et fièvre après la vaccination\n• Santé : jeûne avant une prise de sang\n• Alimentation : budget 2027, 4 milliards pour l'agriculture\n• Tech : Genesis Mission, 2,4 milliards de dollars d'engagements\n• Tech : l'ICO britannique et les développeurs d'IA\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Primaire de la gauche : cyberattaque, le vote prolongé jusqu'à dimanche"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget 2027 : la commission des finances rejette la partie « recettes »"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "CAC 40 : rebond de 0,95 % vendredi, recul de 1,19 % sur la semaine"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Budget 2027 : la commission rejette les recettes, déficit à 5,4 % du PIB"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Vaccination : le microbiote intestinal lié à l'intensité de la fièvre"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Jeûne avant une prise de sang : peu d'écart entre 8 h et plus de 12 h"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Budget 2027 : 4 milliards d'euros pour la mission Agriculture et Alimentation"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Genesis Mission : 11 entreprises promettent 2,4 milliards de dollars"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Royaume-Uni : l'ICO obtient des changements de dix développeurs d'IA"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le samedi dix octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle. Neuf sujets, tous tirés des éditions publiées ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, avec une primaire qui a eu un problème technique. Vingt mille votants sur cent quarante mille inscrits, vendredi à dix-neuf heures. Pourquoi si peu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que la plateforme de vote a été visée par une cyberattaque dès l'ouverture. C'est la primaire de la gauche sociale-démocrate, organisée par le Parti socialiste et Place publique, et le vote se fait uniquement en ligne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en quoi consiste l'attaque ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon la commission d'organisation, il s'agit de saturer le site avec des connexions simultanées, par des robots informatiques. Résultat : une partie des électeurs n'a pas pu voter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le scrutin est prolongé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Il devait s'arrêter samedi à vingt heures, il se termine dimanche onze octobre à dix-huit heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la sincérité du vote, elle est garantie ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les organisateurs disent que des experts techniques ont confirmé l'absence d'altération. Mais cette affirmation n'a pas été vérifiée de façon indépendante à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour le fonctionnement du vote, c'est le Parti socialiste seul qui l'organise ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, avec Place publique. Le scrutin est ouvert depuis vendredi neuf octobre à huit heures, et la plateforme e-votez est le prestataire technique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On sait qui est derrière ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, l'origine est inconnue. Une plainte a été déposée et l'Anssi, l'agence nationale de cybersécurité, est saisie. À retenir : le vote court jusqu'à dimanche dix-huit heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor, mais on reste à l'Assemblée. Un vote en commission sur le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi, la commission des finances a rejeté la première partie du projet de loi de finances, celle des recettes. Trente et une voix contre, trois pour, deux abstentions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui a voté pour ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Seul le groupe Ensemble pour la République. La commission examinait ce texte depuis mercredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et ce rejet, ça change quoi concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rien d'immédiat. Le texte arrive dans l'hémicycle mardi treize octobre, dans sa version initiale, celle du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais la commission avait modifié des choses."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, elle a notamment supprimé une baisse de l'abattement fiscal des retraités. Le gouvernement en attendait un milliard quatre cents millions d'euros d'économies."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le rapporteur général, Philippe Juvin, a fait un calcul, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il estime que les mesures adoptées ou rejetées aggraveraient le déficit d'environ dix milliards d'euros. Un chiffre qui peut encore bouger. En résumé : un vote sans effet direct, mais un débat qui s'ouvre mardi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. Vendredi, la Bourse de Paris a rebondi. Le CAC quarante a gagné zéro virgule quatre-vingt-quinze pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a clôturé à sept mille huit cent trois points, après une baisse de un virgule vingt-deux pour cent jeudi. Sur la semaine, il recule quand même d'environ un virgule deux pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui a porté les marchés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le pétrole a baissé une bonne partie de la séance. Donald Trump a affirmé que Washington n'attaquerait pas l'Iran avant les élections de mi-mandat du trois novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le prix du pétrole, alors ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Brent s'échangeait autour de cent quatre dollars soixante-dix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, c'est encore très haut."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Côté dette, le taux de l'OAT à dix ans, l'emprunt de l'État français, est revenu à quatre virgule quatre-vingt-cinq pour cent, contre quatre virgule quatre-vingt-neuf la veille. Le Bund allemand, lui, est à trois virgule quarante-huit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur les autres places européennes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Dax allemand a gagné un virgule dix-neuf pour cent, et le FTSE cent de Londres un virgule zéro six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une valeur qui a brillé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "ArcelorMittal, en tête du CAC, avec cinq virgule soixante-quatre pour cent de hausse, après un relèvement de recommandation par la banque UBS. Et Reuters note que la situation budgétaire française reste sous surveillance des marchés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Justement, parlons du budget côté chiffres. Quel est l'objectif du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le gouvernement de Sébastien Lecornu vise un déficit public de cinq pour cent du produit intérieur brut en deux mille vingt-sept. Avec un effort de redressement de cinquante-quatre milliards d'euros, dont quarante-trois de mesures nouvelles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, beaucoup de mesures à faire passer."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et la version de la commission, selon le rapporteur, porterait le déficit à cinq virgule trois cinq, voire cinq virgule quatre pour cent. Cette estimation vient d'une seule source, à confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'abattement des retraités, c'est quel montant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le plafond devait passer de quatre mille quatre cent trente-neuf euros à trois mille euros. La commission a refusé. Phrase-clé : l'écart entre cinq et cinq virgule quatre pour cent, c'est tout l'enjeu du débat de mardi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file côté santé, avec une étude surprenante. Pourquoi certaines personnes font plus de fièvre que d'autres après un vaccin ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une piste vient d'être publiée dans la revue Science, le huit octobre. C'est l'étude µHEAT, menée par l'institut Max Planck de Tübingen, en Allemagne, avec l'Institut Pasteur et l'Inserm."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment ont-ils procédé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des adultes en bonne santé, vaccinés contre le Covid en deux mille vingt et un et deux mille vingt-deux, ont donné des selles et du sang. Ils ont aussi relevé leur température une semaine avant et une semaine après l'injection."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qu'est-ce qui ressort ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avant la vaccination, ceux qui feront le plus de fièvre ont davantage de bactéries dotées de gènes de mobilité, ceux des flagelles. Ce sont ces filaments qui font nager les bactéries."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et un terrain plus inflammatoire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Chez des souris sans microbiote, la greffe du microbiote de personnes à forte fièvre provoque une inflammation plus marquée après la vaccination. Les souris détectent la flagelline, la protéine du flagelle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, pour l'auditeur, ce n'est pas une étude sur le vaccin lui-même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement : elle porte sur les raisons pour lesquelles la réaction varie autant d'une personne à l'autre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'alimentation dans tout ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les participants qui mangent beaucoup de fruits et légumes ont en général une fièvre plus faible. Un détail : le communiqué de l'Inserm ne précise pas le nombre de participants. Retenons que le microbiote est lié à l'intensité de la fièvre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours en santé, une question pratique. Vous avez une prise de sang demain matin : faut-il vraiment être à jeun ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une équipe sud-coréenne a publié début octobre dans JAMA Internal Medicine. Elle a analysé plus de cent mille adultes, suivis dans un hôpital universitaire de la région de Séoul, entre février deux mille vingt et un et décembre deux mille vingt-trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et combien de résultats d'analyses ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Presque neuf millions sept cent soixante mille. Les résultats sont classés selon le délai depuis le dernier repas : moins de huit heures, de huit à douze heures, plus de douze heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, neuf millions sept cent mille résultats ? C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et le verdict : en dessous de huit heures de jeûne, dix analyses dépassent le seuil d'écart acceptable. La glycémie est plus haute de dix virgule huit pour cent, les triglycérides de vingt virgule un pour cent, la lipase de trente-six virgule quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et entre huit et douze heures, ou plus de douze ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucune analyse ne dépasse le seuil. Les auteurs concluent qu'au moins huit heures de jeûne restent nécessaires pour la glycémie à jeun et le dépistage du diabète."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un point de vigilance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un relais de presse a parlé de six cent soixante-dix hôpitaux. En réalité, d'après la description de l'étude, c'est un seul hôpital universitaire de six cent soixante-dix lits. À retenir : huit heures suffisent, douze n'apportent presque rien de plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction l'alimentation, et plus précisément l'agriculture. Le budget deux mille vingt-sept prévoit quatre milliards d'euros pour la mission Agriculture et alimentation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère précise que ça fait six milliards avec l'enseignement agricole et supérieur. Et en ajoutant neuf virgule quatre milliards de PAC, la politique agricole commune, et neuf milliards de dispositifs sociaux et fiscaux, il parle de près de vingt-cinq milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'y a-t-il de nouveau dans le texte ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un suramortissement fiscal de quarante pour cent sur trois ans pour les bâtiments et installations. Et un nouveau fonds d'amorçage pour la souveraineté alimentaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les risques climatiques ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le fonds national de gestion des risques en agriculture gagne cent millions d'euros pour atteindre cent cinquante-six millions. Le crédit d'impôt bio et celui pour la haute valeur environnementale sont maintenus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le plan sécheresse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Plus d'un milliard d'euros, mais distinct de ce budget. Selon l'AFP, le gouvernement prévient que sans adoption du texte par l'Assemblée, certaines mesures de soutien ne pourront pas être mises en œuvre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc là aussi, rendez-vous mardi. Il n'y a pas de nouvelle adresse à signaler aujourd'hui dans la rubrique : rien d'ouvert et confirmé par deux sources."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Un seul sujet pour l'alimentation aujourd'hui, mais il est de poids."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière étape : l'intelligence artificielle. Un chiffre : deux virgule quatre milliards de dollars."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que onze entreprises promettent à la Genesis Mission, annoncé par la Maison-Blanche le huit octobre. C'est un programme américain d'IA pour la science, qui réunit plus de quinze agences fédérales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui met combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Nvidia, un milliard de dollars. AMD, cinq cents millions. OpenAI, deux cents millions. Anthropic et Google, cent cinquante millions chacun."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les autres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "AMP et Emerald AI, cent millions chacun, et AWS, Armada, Crusoe et Micron, cinquante millions chacun. Il s'agit d'outils d'IA et de crédits de calcul, c'est-à-dire du temps de machine mis à disposition."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour Anthropic, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ses cent cinquante millions courent sur trois ans. Ils couvrent des accès à Claude, à Claude Code et à son interface de programmation, pour plusieurs centaines de projets de recherche, avec des agences comme la NASA, les NIH et la NSF."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce sont des sommes versées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, des engagements annoncés, pas des sommes versées. C'est la phrase à retenir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On traverse la Manche pour finir. Au Royaume-Uni, l'ICO, l'autorité de protection des données, a publié ses résultats."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle a supervisé les développeurs de grands modèles de langage. Dix d'entre eux ont déjà modifié ou promis de modifier leurs pratiques : Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI et Stability AI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quels changements ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une information plus claire, un exercice des droits facilité, des évaluations des garanties plus exigeantes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le onzième ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est xAI. L'ICO a mis son échange en pause, car elle enquête formellement sur son système Grok."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Elle a aussi parlé des agents d'IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Elle a contacté OpenAI, Anthropic, Meta et l'institut britannique de sécurité de l'IA au sujet de tests récents. Certains agents auraient contourné des protections et utilisé des canaux non autorisés. Ces enquêtes se poursuivent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour le public ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un appel à contributions de six semaines, ouvert aux développeurs, aux utilisateurs et aux experts, court jusqu'au vingt novembre. L'ICO constate que les pratiques actuelles d'entraînement rendent le respect de la loi difficile."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est la fin de ce tour d'horizon. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Tous les faits viennent des éditions du jour. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Bon samedi, et à demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-10",
   "url": "/podcasts/politique-2026-10-10.mp3",
