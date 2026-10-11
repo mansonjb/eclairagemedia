@@ -833,5 +833,48 @@
  "Laurent Hottiaux": null,
  "Sophie Vénétitay": null,
  "Sarine Kharbach": null,
- "Les cinq candidats": null
+ "Les cinq candidats": null,
+ "Patrice Geoffron": null,
+ "Kirill Dmitriev": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirill_Dmitriev_2025-05-13_%28cropped%29.jpg/250px-Kirill_Dmitriev_2025-05-13_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Kirill_Dmitriev_2025-05-13_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kirill_Dmitriev_2025-05-13_(cropped).jpg",
+  "auteur": "kremlin.ru",
+  "licence": "CC BY 4.0"
+ },
+ "Volodymyr Zelensky": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/250px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Volodymyr_Zelensky_2022_official_portrait_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_2022_official_portrait_(cropped).jpg",
+  "auteur": "Press Service of the President of Ukraine",
+  "licence": "CC BY 4.0"
+ },
+ "Kaja Kallas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kallas_portrait_2024_%28cropped%29.jpg/250px-Kallas_portrait_2024_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Kallas_portrait_2024_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kallas_portrait_2024_(cropped).jpg",
+  "auteur": "Aurore Martignoni / European Union",
+  "licence": "CC BY 4.0"
+ },
+ "Valérie Hayer": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Val%C3%A9rie_Hayer_at_a_Renew_Europe_meeting_in_European_Parliament_-_2024_%28P064202-298895%29_%28cropped%29.jpg/250px-Val%C3%A9rie_Hayer_at_a_Renew_Europe_meeting_in_European_Parliament_-_2024_%28P064202-298895%29_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Valérie_Hayer_at_a_Renew_Europe_meeting_in_European_Parliament_-_2024_(P064202-298895)_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Val%C3%A9rie_Hayer_at_a_Renew_Europe_meeting_in_European_Parliament_-_2024_(P064202-298895)_(cropped).jpg",
+  "auteur": "Christophe Licoppe / European Union",
+  "licence": "CC BY 4.0"
+ },
+ "BCE": null,
+ "Luz María De Regil": null,
+ "Justin Ryder": null,
+ "Christopher Murray": null,
+ "Natalia Kanem": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dr._Natalia_Kanem.jpg/250px-Dr._Natalia_Kanem.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Dr._Natalia_Kanem.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dr._Natalia_Kanem.jpg",
+  "auteur": "Globalbookends",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Police de Philadelphie": null,
+ "Ryan Dahl": null,
+ "Kenton Varda": null
 }
