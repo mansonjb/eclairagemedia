@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "sondage": {
   "methode": "moyenne",
   "nb": 9,
@@ -62,7 +62,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 148104931.070658,
+ "polymarket_volume": 148567643.309872,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -82,23 +82,23 @@
     "d": 0
    },
    "attention": {
-    "v": 68.8,
-    "d": 23.3,
+    "v": 69.6,
+    "d": -4.2,
     "parts": {
-     "Wikipedia": 3.5,
-     "réseaux": 17,
-     "citations": 27.6,
-     "abonnés": 30,
-     "YouTube": 4.8
+     "Wikipedia": 3.8,
+     "réseaux": 18.7,
+     "citations": 32.5,
+     "abonnés": 30.1,
+     "YouTube": 5.3
     }
    },
    "polymarket": {
-    "v": 40.8,
-    "d": -4.8,
-    "d24": -0.4,
-    "d30": 3.3,
-    "vol": 3472693,
-    "vol7": 456992,
+    "v": 39.5,
+    "d": -5.8,
+    "d24": -1.4,
+    "d30": 5,
+    "vol": 3484618,
+    "vol7": 446419,
     "haut": 45.7,
     "bas": 34.1
    },
@@ -268,7 +268,7 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 69
+    "attention": 70
    },
    "score": 94,
    "rangs": {
@@ -289,27 +289,40 @@
     "d": 0.4
    },
    "attention": {
-    "v": 99.6,
-    "d": -3.9,
+    "v": 100,
+    "d": 30.1,
     "parts": {
-     "Wikipedia": 10.8,
-     "réseaux": 41.8,
-     "citations": 17.7,
-     "abonnés": 21.8,
-     "YouTube": 32.3
+     "réseaux": 37.7,
+     "citations": 17.9,
+     "abonnés": 22.1,
+     "YouTube": 33.6
     }
    },
    "polymarket": {
-    "v": 12.5,
-    "d": 0,
-    "d24": null,
-    "d30": 1,
-    "vol": 2030294,
-    "vol7": 234364,
+    "v": 11.5,
+    "d": -1,
+    "d24": -1,
+    "d30": null,
+    "vol": 2044163,
+    "vol7": 213482,
     "haut": 15.5,
     "bas": 11.5
    },
    "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat",
+     "texte": "Il juge Gabriel Attal « personnellement responsable » d'une partie de la révolte lycéenne",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-gabriel-attal-jean-luc-melenchon-la-mobilisation-lyceenne-et-la-jeunesse-au-programme-des-grands-meetings-politiques-du-week-end_8231161.html",
+     "source": "franceinfo",
+     "date": "2026-10-11",
+     "rubrique": "politique",
+     "sujet": "Jeunesse : Attal à Lyon samedi, Mélenchon à Clermont-Ferrand dimanche",
+     "href": "/politique/2026-10-11/2"
+    },
     {
      "fond": "#ffe9e6",
      "couleur": "#d7263d",
@@ -379,23 +392,9 @@
      "rubrique": "economie",
      "sujet": "TotalEnergies augmente ce qu'il reverse à ses actionnaires",
      "href": "/economie/2026-09-29/2"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": null,
-     "texte": "« Le gouvernement Lecornu a ordonné la répression »",
-     "url": "https://www.franceinfo.fr/societe/education/surenchere-irresponsable-d-un-cote-repression-de-la-jeunesse-de-l-autre-le-gouvernement-et-les-elus-lfi-s-echarpent-sur-le-mouvement-de-blocus-dans-les-lycees_8213252.html",
-     "source": "franceinfo",
-     "date": "2026-09-28",
-     "rubrique": "politique",
-     "sujet": "Blocus des lycées : le gouvernement et LFI s'accusent mutuellement",
-     "href": "/politique/2026-09-28/3"
     }
    ],
-   "nbDeclarations": 7,
+   "nbDeclarations": 8,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -502,7 +501,7 @@
    },
    "composantes": {
     "sondage": 50,
-    "polymarket": 31,
+    "polymarket": 29,
     "attention": 100
    },
    "score": 54,
@@ -524,24 +523,24 @@
     "d": -0.8
    },
    "attention": {
-    "v": 20.7,
-    "d": 8.1,
+    "v": 21.8,
+    "d": 10.5,
     "parts": {
-     "Wikipedia": 11.6,
-     "réseaux": 1.2,
-     "citations": 10.4,
-     "abonnés": 0.3,
+     "Wikipedia": 13.1,
+     "réseaux": 1.3,
+     "citations": 12.1,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 22.5,
+    "v": 21.5,
     "d": 4,
-    "d24": 1,
-    "d30": -7,
-    "vol": 2094605,
-    "vol7": 218720,
-    "haut": 30.5,
+    "d24": -1,
+    "d30": -8,
+    "vol": 2104092,
+    "vol7": 211383,
+    "haut": 29.5,
     "bas": 17.5
    },
    "declarations": [
@@ -600,27 +599,27 @@
      {
       "rang": 27,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "366 posts"
+      "valeur": "360 posts"
      },
      {
-      "rang": 21,
+      "rang": 22,
       "libelle": "sur 34 en engagement",
-      "valeur": "723 806"
+      "valeur": "702 435"
      },
      {
       "rang": 13,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 978"
+      "valeur": "1 951"
      },
      {
-      "rang": 20,
+      "rang": 21,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "31 997 518"
+      "valeur": "31 506 410"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 162 957 abonnés"
+      "valeur": "1 162 263 abonnés"
      }
     ],
     "posts": [
@@ -645,12 +644,12 @@
     ],
     "citations": [
      {
-      "valeur": "5 211",
+      "valeur": "5 175",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "455",
+      "valeur": "450",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -665,14 +664,14 @@
       "detail": ""
      },
      {
-      "valeur": "2 999",
+      "valeur": "2 952",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 479 politiques"
+      "detail": "par 476 politiques"
      },
      {
-      "valeur": "120",
+      "valeur": "114",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 65 organisations"
+      "detail": "par 64 organisations"
      }
     ],
     "journalistes": [
@@ -695,412 +694,13 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 55,
-    "attention": 21
+    "polymarket": 54,
+    "attention": 22
    },
    "score": 45,
    "rangs": {
     "sondage": 3,
     "polymarket": 2
-   }
-  },
-  {
-   "nom": "Gabriel Attal",
-   "wiki": "Gabriel_Attal",
-   "etiquette": "Renaissance",
-   "couleur": "#f2a900",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": {
-    "v": 10.4,
-    "d": -0.6
-   },
-   "attention": {
-    "v": 23,
-    "d": 4.5,
-    "parts": {
-     "Wikipedia": 4.8,
-     "réseaux": 8.2,
-     "citations": 8.9,
-     "abonnés": 1.5,
-     "YouTube": 0.6
-    }
-   },
-   "polymarket": {
-    "v": 1.8,
-    "d": -0.4,
-    "d24": -0.1,
-    "d30": null,
-    "vol": 2774315,
-    "vol7": 193187,
-    "haut": 3,
-    "bas": 1.2
-   },
-   "declarations": [
-    {
-     "fond": "#fff5d6",
-     "couleur": "#f2a900",
-     "parti": "RENAISSANCE",
-     "qui": "Gabriel Attal",
-     "contexte": null,
-     "texte": "« Il faut que Mediapart produise des preuves »",
-     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
-     "source": "CNews",
-     "date": "2026-10-02",
-     "rubrique": "politique",
-     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
-     "href": "/politique/2026-10-02/4"
-    },
-    {
-     "fond": "#fff5d6",
-     "couleur": "#f2a900",
-     "parti": "RENAISSANCE",
-     "qui": "Gabriel Attal",
-     "contexte": "dirigeant de Renaissance",
-     "texte": "Il défend la suppression de l'âge légal et veut faire de la durée de cotisation le principal critère de départ, avec décote et surcote. Il s'oppose à la suspension de la réforme de 2023. Positions antérieures, pas de réaction relevée ce mardi.",
-     "url": "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans",
-     "source": "Public Sénat",
-     "date": "2026-09-30",
-     "rubrique": "politique",
-     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
-     "href": "/politique/2026-09-30/1"
-    }
-   ],
-   "nbDeclarations": 2,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
-    "phase": {
-     "note": "67 %",
-     "libelle": "en phase · Décalé",
-     "texte": "Ses publications parlent d'abord de défense (34 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 15,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 582 posts"
-     },
-     {
-      "rang": 5,
-      "libelle": "sur 34 en engagement",
-      "valeur": "12 174 578"
-     },
-     {
-      "rang": 4,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "7 696"
-     },
-     {
-      "rang": 5,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "206 146 496"
-     },
-     {
-      "rang": 6,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 451 075 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "27 novembre 2025 · TikTok",
-      "texte": "Ici c’est Gabriel Décrypte",
-      "chiffres": "820 212 j'aime · 15 344 commentaires · 78 845 partages · 6 452 395 vues",
-      "url": "https://tiktok.com/@gabriel_attal/video/7577458011048873238"
-     },
-     {
-      "quand": "25 novembre 2025 · TikTok",
-      "texte": "Robot du 9.1 pouloulou 🦾",
-      "chiffres": "581 660 j'aime · 1 911 commentaires · 92 714 partages · 4 559 277 vues",
-      "url": "https://tiktok.com/@gabriel_attal/video/7576731497240005910"
-     },
-     {
-      "quand": "7 janvier 2026 · TikTok",
-      "texte": "Je peux rien dire de plus 😔 Idée originale : @Chachou 🪼",
-      "chiffres": "496 807 j'aime · 9 119 commentaires · 18 199 partages · 4 266 588 vues",
-      "url": "https://tiktok.com/@gabriel_attal/video/7592674077047917846"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "5 479",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "529",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "5",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "174",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "3 605",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 586 politiques"
-     },
-     {
-      "valeur": "233",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 103 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Nils Wilcke",
-      "role": "Journaliste",
-      "posts": "84 posts"
-     },
-     {
-      "nom": "Alexis Poulin",
-      "role": "Journaliste",
-      "posts": "80 posts"
-     },
-     {
-      "nom": "Jean-Marc Morandini",
-      "role": "Journaliste",
-      "posts": "46 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 31,
-    "polymarket": 4,
-    "attention": 23
-   },
-   "score": 21,
-   "rangs": {
-    "sondage": 4,
-    "polymarket": 6
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 100,
-    "d": 9.6,
-    "parts": {
-     "Wikipedia": 17,
-     "abonnés": 17.8,
-     "YouTube": 54.8
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": -0.1,
-    "d24": -0.1,
-    "d30": null,
-    "vol": 2490877,
-    "vol7": 175546,
-    "haut": 1.7,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 100
-   },
-   "score": 21,
-   "rangs": {
-    "polymarket": 9
-   }
-  },
-  {
-   "nom": "Raphaël Glucksmann",
-   "wiki": "Raphaël_Glucksmann",
-   "etiquette": "Place publique",
-   "couleur": "#e0457b",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": {
-    "v": 10.4,
-    "d": -1.9
-   },
-   "attention": {
-    "v": 19.8,
-    "d": -0.7,
-    "parts": {
-     "Wikipedia": 9.2,
-     "réseaux": 0.6,
-     "citations": 12.2,
-     "abonnés": 0,
-     "YouTube": 0
-    }
-   },
-   "polymarket": {
-    "v": 1.1,
-    "d": -0.5,
-    "d24": -0.5,
-    "d30": -0.8,
-    "vol": 2153448,
-    "vol7": 157947,
-    "haut": 2.3,
-    "bas": 0.9
-   },
-   "declarations": [
-    {
-     "fond": "#efe8ff",
-     "couleur": "#7e57c2",
-     "parti": "PLACE PUBLIQUE",
-     "qui": "Raphaël Glucksmann",
-     "contexte": "eurodéputé, candidat",
-     "texte": "« Je n'ai aucune intention de diluer la famille sociale-démocrate, ni dans le mélenchonisme, ni dans la droite. »",
-     "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
-     "source": "LCP",
-     "date": "2026-10-05",
-     "rubrique": "politique",
-     "sujet": "Primaire de la gauche : dernier débat avant le premier tour",
-     "href": "/politique/2026-10-05/2"
-    },
-    {
-     "fond": "#efe8ff",
-     "couleur": "#7e57c2",
-     "parti": "PLACE PUBLIQUE",
-     "qui": "Raphaël Glucksmann",
-     "contexte": "dans une conversation privée diffusée par Le Média",
-     "texte": "« On va pas rentrer dedans, on leur pisse dessus »",
-     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html",
-     "source": "franceinfo",
-     "date": "2026-10-04",
-     "rubrique": "politique",
-     "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
-     "href": "/politique/2026-10-04/2"
-    }
-   ],
-   "nbDeclarations": 2,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
-    "phase": {
-     "note": "39 %",
-     "libelle": "en phase · Très décalé",
-     "texte": "Ses publications parlent d'abord de défense (64 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 22,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "646 posts"
-     },
-     {
-      "rang": 16,
-      "libelle": "sur 34 en engagement",
-      "valeur": "2 077 829"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 216"
-     },
-     {
-      "rang": 16,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "51 273 525"
-     },
-     {
-      "rang": 10,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "947 175 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "18 novembre 2025 · Instagram",
-      "texte": "Monsieur Zemmour, comme ses amis, sont profondément étrangers à tout ce qui fait la grandeur de la France.",
-      "chiffres": "40 317 j'aime · 1 295 commentaires · 0 partages · 1 188 347 vues",
-      "url": "https://instagram.com/p/DRNxlecCIJJ"
-     },
-     {
-      "quand": "23 août 2026 · Instagram",
-      "texte": "J’ai quelque chose à vous dire. Je suis candidat à l’élection présidentielle pour apporter quelque chose de nouveau, pour que la France redevienne libre et juste, pour que les…",
-      "chiffres": "32 456 engagements",
-      "url": "https://www.instagram.com/p/DcZUBvvIKSW"
-     },
-     {
-      "quand": "9 janvier 2026 · Instagram",
-      "texte": "L’Iran sera libre ! La bravoure du peuple iranien aura raison de la dictature des mollahs. C’est écrit. Nul ne peut indéfiniment arrêter un peuple prêt à mourir pour être libre.…",
-      "chiffres": "28 631 j'aime · 1 913 commentaires · 0 partages",
-      "url": "https://instagram.com/p/DTSoGOCiOxP"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "3 797",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "396",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "8",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "240",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "1 225",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 296 politiques"
-     },
-     {
-      "valeur": "83",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 43 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Antoine Oberdorff",
-      "role": "Journaliste",
-      "posts": "132 posts"
-     },
-     {
-      "nom": "Françoise Degois",
-      "role": "Journaliste",
-      "posts": "76 posts"
-     },
-     {
-      "nom": "Alexis Poulin",
-      "role": "Journaliste",
-      "posts": "52 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 31,
-    "polymarket": 3,
-    "attention": 20
-   },
-   "score": 20,
-   "rangs": {
-    "sondage": 5,
-    "polymarket": 7
    }
   },
   {
@@ -1113,25 +713,25 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 47.2,
-    "d": -15.8,
+    "v": 51.7,
+    "d": -0.9,
     "parts": {
-     "Wikipedia": 24.3,
-     "réseaux": 10.4,
-     "citations": 1.5,
-     "abonnés": 21.7,
-     "YouTube": 5.2
+     "Wikipedia": 29.3,
+     "réseaux": 14.7,
+     "citations": 1.7,
+     "abonnés": 21.3,
+     "YouTube": 6.1
     }
    },
    "polymarket": {
-    "v": 12.6,
-    "d": 4.6,
-    "d24": -0.2,
-    "d30": 6.5,
-    "vol": 4385854,
-    "vol7": 1337408,
-    "haut": 13.2,
-    "bas": 4.4
+    "v": 14.5,
+    "d": 4.8,
+    "d24": 2,
+    "d30": 8.7,
+    "vol": 4450440,
+    "vol7": 1186816,
+    "haut": 14.5,
+    "bas": 5.1
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1235,12 +835,425 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 31,
-    "attention": 47
+    "polymarket": 37,
+    "attention": 52
+   },
+   "score": 22,
+   "rangs": {
+    "polymarket": 3
+   }
+  },
+  {
+   "nom": "Gabriel Attal",
+   "wiki": "Gabriel_Attal",
+   "etiquette": "Renaissance",
+   "couleur": "#f2a900",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": {
+    "v": 10.4,
+    "d": -0.6
+   },
+   "attention": {
+    "v": 19.6,
+    "d": 1.1,
+    "parts": {
+     "Wikipedia": 6.4,
+     "réseaux": 4.7,
+     "citations": 10,
+     "abonnés": 1.5,
+     "YouTube": 0.9
+    }
+   },
+   "polymarket": {
+    "v": 2.4,
+    "d": 0.2,
+    "d24": 0.5,
+    "d30": 1.1,
+    "vol": 2891233,
+    "vol7": 298207,
+    "haut": 3,
+    "bas": 1.1
+   },
+   "declarations": [
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": "candidat",
+     "texte": "« Je veux être le président qui parlera à la jeunesse parce qu'il la comprend »",
+     "url": "https://www.blick.ch/fr/monde/france/gabriel-attal-son-pacte-jeunesse-devoile-a-lyon/45k1tv6",
+     "source": "Blick, avec AFP",
+     "date": "2026-10-11",
+     "rubrique": "politique",
+     "sujet": "Jeunesse : Attal à Lyon samedi, Mélenchon à Clermont-Ferrand dimanche",
+     "href": "/politique/2026-10-11/2"
+    },
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": null,
+     "texte": "« Il faut que Mediapart produise des preuves »",
+     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
+     "source": "CNews",
+     "date": "2026-10-02",
+     "rubrique": "politique",
+     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
+     "href": "/politique/2026-10-02/4"
+    },
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": "dirigeant de Renaissance",
+     "texte": "Il défend la suppression de l'âge légal et veut faire de la durée de cotisation le principal critère de départ, avec décote et surcote. Il s'oppose à la suspension de la réforme de 2023. Positions antérieures, pas de réaction relevée ce mardi.",
+     "url": "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans",
+     "source": "Public Sénat",
+     "date": "2026-09-30",
+     "rubrique": "politique",
+     "sujet": "Retraites : Édouard Philippe propose 65 ans et 45 annuités",
+     "href": "/politique/2026-09-30/1"
+    }
+   ],
+   "nbDeclarations": 3,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
+    "phase": {
+     "note": "67 %",
+     "libelle": "en phase · Décalé",
+     "texte": "Ses publications parlent d'abord de défense (34 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 15,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "1 554 posts"
+     },
+     {
+      "rang": 5,
+      "libelle": "sur 34 en engagement",
+      "valeur": "12 076 327"
+     },
+     {
+      "rang": 4,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "7 771"
+     },
+     {
+      "rang": 5,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "203 073 618"
+     },
+     {
+      "rang": 7,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 450 276 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "27 novembre 2025 · TikTok",
+      "texte": "Ici c’est Gabriel Décrypte",
+      "chiffres": "820 212 j'aime · 15 344 commentaires · 78 845 partages · 6 452 395 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7577458011048873238"
+     },
+     {
+      "quand": "25 novembre 2025 · TikTok",
+      "texte": "Robot du 9.1 pouloulou 🦾",
+      "chiffres": "581 660 j'aime · 1 911 commentaires · 92 714 partages · 4 559 277 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7576731497240005910"
+     },
+     {
+      "quand": "7 janvier 2026 · TikTok",
+      "texte": "Je peux rien dire de plus 😔 Idée originale : @Chachou 🪼",
+      "chiffres": "496 807 j'aime · 9 119 commentaires · 18 199 partages · 4 266 588 vues",
+      "url": "https://tiktok.com/@gabriel_attal/video/7592674077047917846"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "5 428",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "527",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "5",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "169",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "3 545",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 581 politiques"
+     },
+     {
+      "valeur": "229",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 102 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Nils Wilcke",
+      "role": "Journaliste",
+      "posts": "84 posts"
+     },
+     {
+      "nom": "Alexis Poulin",
+      "role": "Journaliste",
+      "posts": "79 posts"
+     },
+     {
+      "nom": "Jean-Marc Morandini",
+      "role": "Journaliste",
+      "posts": "45 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 31,
+    "polymarket": 6,
+    "attention": 20
+   },
+   "score": 21,
+   "rangs": {
+    "sondage": 4,
+    "polymarket": 6
+   }
+  },
+  {
+   "nom": "Raphaël Glucksmann",
+   "wiki": "Raphaël_Glucksmann",
+   "etiquette": "Place publique",
+   "couleur": "#e0457b",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": {
+    "v": 10.4,
+    "d": -1.9
+   },
+   "attention": {
+    "v": 13.3,
+    "d": -11.9,
+    "parts": {
+     "Wikipedia": 10.2,
+     "réseaux": 0.6,
+     "citations": 6,
+     "abonnés": 0,
+     "YouTube": 0
+    }
+   },
+   "polymarket": {
+    "v": 1.7,
+    "d": 0,
+    "d24": 0.6,
+    "d30": null,
+    "vol": 2187850,
+    "vol7": 187927,
+    "haut": 2.3,
+    "bas": 0.9
+   },
+   "declarations": [
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "PLACE PUBLIQUE",
+     "qui": "Raphaël Glucksmann",
+     "contexte": "eurodéputé, candidat",
+     "texte": "« Je n'ai aucune intention de diluer la famille sociale-démocrate, ni dans le mélenchonisme, ni dans la droite. »",
+     "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+     "source": "LCP",
+     "date": "2026-10-05",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : dernier débat avant le premier tour",
+     "href": "/politique/2026-10-05/2"
+    },
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "PLACE PUBLIQUE",
+     "qui": "Raphaël Glucksmann",
+     "contexte": "dans une conversation privée diffusée par Le Média",
+     "texte": "« On va pas rentrer dedans, on leur pisse dessus »",
+     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html",
+     "source": "franceinfo",
+     "date": "2026-10-04",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
+     "href": "/politique/2026-10-04/2"
+    }
+   ],
+   "nbDeclarations": 2,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
+    "phase": {
+     "note": "39 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (64 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 23,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "617 posts"
+     },
+     {
+      "rang": 16,
+      "libelle": "sur 34 en engagement",
+      "valeur": "2 054 075"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 329"
+     },
+     {
+      "rang": 16,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "50 204 260"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "949 407 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "18 novembre 2025 · Instagram",
+      "texte": "Monsieur Zemmour, comme ses amis, sont profondément étrangers à tout ce qui fait la grandeur de la France.",
+      "chiffres": "40 317 j'aime · 1 295 commentaires · 0 partages · 1 188 347 vues",
+      "url": "https://instagram.com/p/DRNxlecCIJJ"
+     },
+     {
+      "quand": "23 août 2026 · Instagram",
+      "texte": "J’ai quelque chose à vous dire. Je suis candidat à l’élection présidentielle pour apporter quelque chose de nouveau, pour que la France redevienne libre et juste, pour que les…",
+      "chiffres": "32 456 engagements",
+      "url": "https://www.instagram.com/p/DcZUBvvIKSW"
+     },
+     {
+      "quand": "9 janvier 2026 · Instagram",
+      "texte": "L’Iran sera libre ! La bravoure du peuple iranien aura raison de la dictature des mollahs. C’est écrit. Nul ne peut indéfiniment arrêter un peuple prêt à mourir pour être libre.…",
+      "chiffres": "28 631 j'aime · 1 913 commentaires · 0 partages",
+      "url": "https://instagram.com/p/DTSoGOCiOxP"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "3 675",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "392",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "8",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "102",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "1 175",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 290 politiques"
+     },
+     {
+      "valeur": "82",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 43 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "132 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "67 posts"
+     },
+     {
+      "nom": "Alexis Poulin",
+      "role": "Journaliste",
+      "posts": "53 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 31,
+    "polymarket": 4,
+    "attention": 13
    },
    "score": 19,
    "rangs": {
-    "polymarket": 3
+    "sondage": 5,
+    "polymarket": 7
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 88.4,
+    "d": 0.5,
+    "parts": {
+     "Wikipedia": 17.5,
+     "abonnés": 16.8,
+     "YouTube": 51.5
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": -0.1,
+    "d24": 0.1,
+    "d30": -0.3,
+    "vol": 2494924,
+    "vol7": 168827,
+    "haut": 1.7,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 88
+   },
+   "score": 18,
+   "rangs": {
+    "polymarket": 10
    }
   },
   {
@@ -1256,23 +1269,23 @@
     "d": 0.3
    },
    "attention": {
-    "v": 18.1,
-    "d": 3.5,
+    "v": 17,
+    "d": 5.2,
     "parts": {
-     "Wikipedia": 2.8,
-     "réseaux": 5.7,
-     "citations": 9,
-     "abonnés": 0.8,
+     "Wikipedia": 3.2,
+     "réseaux": 5,
+     "citations": 10.2,
+     "abonnés": 0.7,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.1,
-    "d": -0.4,
-    "d24": -0.1,
-    "d30": -0.3,
-    "vol": 2697904,
-    "vol7": 202789,
+    "v": 1.2,
+    "d": -0.1,
+    "d24": 0.2,
+    "d30": -0.6,
+    "vol": 2748689,
+    "vol7": 249476,
     "haut": 2.5,
     "bas": 1.1
    },
@@ -1289,27 +1302,27 @@
      {
       "rang": 17,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 293 posts"
+      "valeur": "1 280 posts"
      },
      {
       "rang": 13,
       "libelle": "sur 34 en engagement",
-      "valeur": "2 983 478"
+      "valeur": "2 858 779"
      },
      {
-      "rang": 11,
+      "rang": 12,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "2 307"
+      "valeur": "2 233"
      },
      {
       "rang": 11,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "86 245 497"
+      "valeur": "88 974 284"
      },
      {
       "rang": 18,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "414 124 abonnés"
+      "valeur": "406 183 abonnés"
      }
     ],
     "posts": [
@@ -1334,12 +1347,12 @@
     ],
     "citations": [
      {
-      "valeur": "5 825",
+      "valeur": "6 025",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "511",
+      "valeur": "509",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1349,45 +1362,45 @@
       "detail": ""
      },
      {
-      "valeur": "176",
+      "valeur": "172",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "3 359",
+      "valeur": "3 401",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 577 politiques"
+      "detail": "par 590 politiques"
      },
      {
-      "valeur": "160",
+      "valeur": "161",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 82 organisations"
+      "detail": "par 81 organisations"
      }
     ],
     "journalistes": [
      {
       "nom": "Nils Wilcke",
       "role": "Journaliste",
-      "posts": "51 posts"
+      "posts": "53 posts"
      },
      {
       "nom": "Jean-Marc Morandini",
       "role": "Journaliste",
-      "posts": "40 posts"
+      "posts": "46 posts"
      },
      {
       "nom": "Marie-Cécile Renault",
       "role": "Journaliste",
-      "posts": "34 posts"
+      "posts": "35 posts"
      }
     ]
    },
    "composantes": {
     "sondage": 24,
     "polymarket": 3,
-    "attention": 18
+    "attention": 17
    },
-   "score": 17,
+   "score": 16,
    "rangs": {
     "sondage": 6,
     "polymarket": 8
@@ -1406,23 +1419,23 @@
     "d": -2.4
    },
    "attention": {
-    "v": 8.1,
-    "d": -0.4,
+    "v": 4.7,
+    "d": -3.3,
     "parts": {
-     "Wikipedia": 2.5,
-     "réseaux": 1.8,
-     "citations": 3.6,
-     "abonnés": 1.1,
+     "Wikipedia": 2.6,
+     "réseaux": 1,
+     "citations": 1.4,
+     "abonnés": 0.9,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 3.3,
+    "v": 3.2,
     "d": -1.6,
-    "d24": 0.4,
-    "d30": 0.4,
-    "vol": 2341134,
-    "vol7": 193690,
+    "d24": -0.1,
+    "d30": 0.3,
+    "vol": 2345473,
+    "vol7": 177279,
     "haut": 6.3,
     "bas": 2.3
    },
@@ -1535,9 +1548,9 @@
    "composantes": {
     "sondage": 20,
     "polymarket": 8,
-    "attention": 8
+    "attention": 5
    },
-   "score": 14,
+   "score": 13,
    "rangs": {
     "sondage": 7,
     "polymarket": 5
@@ -1556,25 +1569,25 @@
     "d": 0.8
    },
    "attention": {
-    "v": 13.1,
-    "d": 0.2,
+    "v": 12.2,
+    "d": -8,
     "parts": {
-     "Wikipedia": 4.7,
-     "réseaux": 6,
-     "citations": 1.2,
-     "abonnés": 1,
-     "YouTube": 1.9
+     "Wikipedia": 4.9,
+     "réseaux": 5.5,
+     "citations": 1.6,
+     "abonnés": 1.2,
+     "YouTube": 2.2
     }
    },
    "polymarket": {
-    "v": 0.5,
-    "d": -0.4,
-    "d24": -0.1,
-    "d30": 0.1,
-    "vol": 2814777,
-    "vol7": 152985,
+    "v": 0.6,
+    "d": -0.3,
+    "d24": 0.1,
+    "d30": -0.2,
+    "vol": 2820185,
+    "vol7": 140761,
     "haut": 1.9,
-    "bas": 0.2
+    "bas": 0.5
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1589,27 +1602,27 @@
      {
       "rang": 12,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 198 posts"
+      "valeur": "2 202 posts"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en engagement",
-      "valeur": "9 848 851"
+      "valeur": "9 728 283"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "4 481"
+      "valeur": "4 418"
      },
      {
       "rang": 7,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "140 254 023"
+      "valeur": "139 893 992"
      },
      {
-      "rang": 7,
+      "rang": 5,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 363 496 abonnés"
+      "valeur": "1 725 962 abonnés"
      }
     ],
     "posts": [
@@ -1639,7 +1652,7 @@
       "detail": ""
      },
      {
-      "valeur": "318",
+      "valeur": "317",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1649,17 +1662,17 @@
       "detail": ""
      },
      {
-      "valeur": "23",
+      "valeur": "27",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "648",
+      "valeur": "645",
       "libelle": "posts de politiques qui le citent sur 12 mois",
       "detail": "par 199 politiques"
      },
      {
-      "valeur": "117",
+      "valeur": "116",
       "libelle": "posts de lobbies et organisations sur 12 mois",
       "detail": "par 30 organisations"
      }
@@ -1673,7 +1686,7 @@
      {
       "nom": "Nassira El Moaddem",
       "role": "Journaliste",
-      "posts": "33 posts"
+      "posts": "32 posts"
      },
      {
       "nom": "Alexandre Devecchio",
@@ -1684,8 +1697,8 @@
    },
    "composantes": {
     "sondage": 12,
-    "polymarket": 1,
-    "attention": 13
+    "polymarket": 2,
+    "attention": 12
    },
    "score": 9,
    "rangs": {
@@ -1706,13 +1719,13 @@
     "d": 0.2
    },
    "attention": {
-    "v": 5.3,
-    "d": -23.8,
+    "v": 9.7,
+    "d": -9.7,
     "parts": {
-     "Wikipedia": 1.9,
-     "réseaux": 2.2,
-     "citations": 1,
-     "abonnés": 0.5,
+     "Wikipedia": 2.1,
+     "réseaux": 5.2,
+     "citations": 2.6,
+     "abonnés": 0.6,
      "YouTube": 0
     }
    },
@@ -1721,8 +1734,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4470233,
-    "vol7": 136969,
+    "vol": 4475243,
+    "vol7": 126283,
     "haut": null,
     "bas": null
    },
@@ -1780,29 +1793,29 @@
     },
     "rangs": [
      {
-      "rang": 3,
+      "rang": 2,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 372 posts"
+      "valeur": "4 409 posts"
      },
      {
       "rang": 9,
       "libelle": "sur 34 en engagement",
-      "valeur": "6 657 277"
+      "valeur": "6 770 379"
      },
      {
-      "rang": 17,
+      "rang": 18,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 523"
+      "valeur": "1 536"
      },
      {
       "rang": 6,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "194 562 423"
+      "valeur": "197 888 145"
      },
      {
       "rang": 15,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "641 000 abonnés"
+      "valeur": "640 050 abonnés"
      }
     ],
     "posts": [
@@ -1827,12 +1840,12 @@
     ],
     "citations": [
      {
-      "valeur": "2 648",
+      "valeur": "2 733",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "344",
+      "valeur": "346",
       "libelle": "auteurs distincts",
       "detail": ""
      },
@@ -1842,26 +1855,26 @@
       "detail": ""
      },
      {
-      "valeur": "19",
+      "valeur": "44",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "824",
+      "valeur": "831",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 307 politiques"
+      "detail": "par 308 politiques"
      },
      {
       "valeur": "74",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 45 organisations"
+      "detail": "par 46 organisations"
      }
     ],
     "journalistes": [
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "89 posts"
+      "posts": "91 posts"
      },
      {
       "nom": "Nils Wilcke",
@@ -1878,12 +1891,177 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 0,
-    "attention": 5
+    "attention": 10
    },
-   "score": 7,
+   "score": 8,
    "rangs": {
     "sondage": 9,
     "polymarket": 12
+   }
+  },
+  {
+   "nom": "Dominique de Villepin",
+   "wiki": "Dominique_de_Villepin",
+   "etiquette": "La France humaniste",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": {
+    "v": 2,
+    "d": -1
+   },
+   "attention": {
+    "v": 6.3,
+    "d": -0.9,
+    "parts": {
+     "Wikipedia": 4.1,
+     "réseaux": 0.3,
+     "citations": 1.9,
+     "abonnés": 2.5,
+     "YouTube": 0
+    }
+   },
+   "polymarket": {
+    "v": 1.1,
+    "d": 0.8,
+    "d24": 0.4,
+    "d30": -0.1,
+    "vol": 2461610,
+    "vol7": 280367,
+    "haut": 1.8,
+    "bas": 0.2
+   },
+   "declarations": [
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "LA FRANCE HUMANISTE",
+     "qui": "Dominique de Villepin",
+     "contexte": "ancien Premier ministre",
+     "texte": "« Si ces propos ont été tenus, ils sont inacceptables »",
+     "url": "https://www.franceinfo.fr/politique/si-ces-propos-ont-ete-tenus-ils-sont-inacceptables-denonce-dominique-de-villepin-apres-les-propos-antisemites-attribues-a-jordan-bardella_8214470.html",
+     "source": "franceinfo",
+     "date": "2026-09-29",
+     "rubrique": "politique",
+     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
+     "href": "/politique/2026-09-29/1"
+    }
+   ],
+   "nbDeclarations": 1,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/dominique-de-villepin/",
+    "phase": {
+     "note": "48 %",
+     "libelle": "en phase · Très décalé",
+     "texte": "Ses publications parlent d'abord de défense (52 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 21,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "713 posts"
+     },
+     {
+      "rang": 14,
+      "libelle": "sur 34 en engagement",
+      "valeur": "2 282 776"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 202"
+     },
+     {
+      "rang": 18,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "38 593 282"
+     },
+     {
+      "rang": 26,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "223 838 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "11 août 2026 · Facebook",
+      "texte": "[Extraits 12.09.24 - Entretien avec France Inter]",
+      "chiffres": "126 354 engagements",
+      "url": "https://facebook.com/551584571372169_122186357504768481"
+     },
+     {
+      "quand": "4 janvier 2026 · Instagram",
+      "texte": "Personne ne regrettera Nicolás Maduro. Il a mis son pays en faillite et en ruine, avec huit millions d’exilés. Mais cela ne justifie pas que les États-Unis remettent…",
+      "chiffres": "91 532 j'aime · 4 595 commentaires · 0 partages · 4 383 048 vues",
+      "url": "https://instagram.com/p/DTF8PHSiMhq"
+     },
+     {
+      "quand": "14 février 2026 · TikTok",
+      "texte": "Dostoievski est un écrivain rare parce qu'il déterre ce que nous avons de plus fragile pour en faire une vérité universelle. Dans les Carnets du sous-sol, il nous tend un miroir…",
+      "chiffres": "76 496 j'aime · 2 533 commentaires · 15 668 partages · 1 082 835 vues",
+      "url": "https://tiktok.com/@dominiquedevillepin/video/7606865246417964310"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 385",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "263",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "13",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "33",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "251",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 89 politiques"
+     },
+     {
+      "valeur": "52",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 28 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Edwy Plenel",
+      "role": "Journaliste",
+      "posts": "14 posts"
+     },
+     {
+      "nom": "Pierre Haski",
+      "role": "Journaliste",
+      "posts": "13 posts"
+     },
+     {
+      "nom": "Antoine Comte",
+      "role": "Journaliste",
+      "posts": "12 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 6,
+    "polymarket": 3,
+    "attention": 6
+   },
+   "score": 5,
+   "rangs": {
+    "sondage": 11,
+    "polymarket": 9
    }
   },
   {
@@ -1899,12 +2077,11 @@
     "d": -0.2
    },
    "attention": {
-    "v": 4.7,
-    "d": 0.3,
+    "v": 3.5,
+    "d": -3.1,
     "parts": {
-     "Wikipedia": 1.2,
-     "réseaux": 1.4,
-     "citations": 1.6,
+     "réseaux": 1.6,
+     "citations": 0.6,
      "abonnés": 1,
      "YouTube": 0
     }
@@ -1914,8 +2091,8 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4258945,
-    "vol7": 14650,
+    "vol": 4264160,
+    "vol7": 15217,
     "haut": null,
     "bas": null
    },
@@ -1961,35 +2138,35 @@
      {
       "rang": 18,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "1 101 posts"
+      "valeur": "1 091 posts"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en engagement",
-      "valeur": "454 995"
+      "valeur": "436 060"
      },
      {
-      "rang": 28,
+      "rang": 30,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "413"
+      "valeur": "400"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "18 838 203"
+      "valeur": "18 722 676"
      },
      {
       "rang": 27,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "160 421 abonnés"
+      "valeur": "158 447 abonnés"
      }
     ],
     "posts": [
      {
       "quand": "30 septembre 2026 · TikTok",
       "texte": "Avec ce que vivent nos concitoyens, ils n'auraient pas le droit de manifester, d'exprimer leurs colères ? On veut que cela change maintenant ! Pas dans 8 mois !",
-      "chiffres": "53 118 engagements",
-      "url": "https://www.tiktok.com/@fabien_roussel/video/7691316170670247201?_r=1&u_code=f0m20c91456ddi&preview_pb=0&sharer_language=en&_d=f0m8i98fmki8fg&share_item_id=7691316170670247201&source=h5_m"
+      "chiffres": "43 069 engagements",
+      "url": "https://www.tiktok.com/@fabien_roussel/video/7691316170670247201?_r=1&u_code=f11i36fgmfg30j&preview_pb=0&sharer_language=en&_d=f11i27706h6fhi&share_item_id=7691316170670247201&source=h5_m"
      },
      {
       "quand": "14 avril 2026 · X",
@@ -2006,7 +2183,7 @@
     ],
     "citations": [
      {
-      "valeur": "782",
+      "valeur": "789",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -2021,14 +2198,14 @@
       "detail": ""
      },
      {
-      "valeur": "31",
+      "valeur": "10",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "149",
+      "valeur": "147",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 92 politiques"
+      "detail": "par 91 politiques"
      },
      {
       "valeur": "14",
@@ -2050,184 +2227,19 @@
      {
       "nom": "Antoine Oberdorff",
       "role": "Journaliste",
-      "posts": "10 posts"
+      "posts": "9 posts"
      }
     ]
    },
    "composantes": {
     "sondage": 7,
     "polymarket": 0,
-    "attention": 5
+    "attention": 4
    },
-   "score": 5,
+   "score": 4,
    "rangs": {
     "sondage": 10,
     "polymarket": 13
-   }
-  },
-  {
-   "nom": "Dominique de Villepin",
-   "wiki": "Dominique_de_Villepin",
-   "etiquette": "La France humaniste",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": {
-    "v": 2,
-    "d": -1
-   },
-   "attention": {
-    "v": 7.1,
-    "d": 0.2,
-    "parts": {
-     "Wikipedia": 3,
-     "réseaux": 0.3,
-     "citations": 3.5,
-     "abonnés": 1.8,
-     "YouTube": 0
-    }
-   },
-   "polymarket": {
-    "v": 0.8,
-    "d": 0.5,
-    "d24": -0.2,
-    "d30": -0.4,
-    "vol": 2435126,
-    "vol7": 269652,
-    "haut": 1.8,
-    "bas": 0.2
-   },
-   "declarations": [
-    {
-     "fond": "#efe8ff",
-     "couleur": "#7e57c2",
-     "parti": "LA FRANCE HUMANISTE",
-     "qui": "Dominique de Villepin",
-     "contexte": "ancien Premier ministre",
-     "texte": "« Si ces propos ont été tenus, ils sont inacceptables »",
-     "url": "https://www.franceinfo.fr/politique/si-ces-propos-ont-ete-tenus-ils-sont-inacceptables-denonce-dominique-de-villepin-apres-les-propos-antisemites-attribues-a-jordan-bardella_8214470.html",
-     "source": "franceinfo",
-     "date": "2026-09-29",
-     "rubrique": "politique",
-     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
-     "href": "/politique/2026-09-29/1"
-    }
-   ],
-   "nbDeclarations": 1,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/dominique-de-villepin/",
-    "phase": {
-     "note": "48 %",
-     "libelle": "en phase · Très décalé",
-     "texte": "Ses publications parlent d'abord de défense (52 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 21,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "714 posts"
-     },
-     {
-      "rang": 14,
-      "libelle": "sur 34 en engagement",
-      "valeur": "2 278 025"
-     },
-     {
-      "rang": 9,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 191"
-     },
-     {
-      "rang": 17,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "38 472 694"
-     },
-     {
-      "rang": 26,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "223 838 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "11 août 2026 · Facebook",
-      "texte": "[Extraits 12.09.24 - Entretien avec France Inter]",
-      "chiffres": "126 354 engagements",
-      "url": "https://facebook.com/551584571372169_122186357504768481"
-     },
-     {
-      "quand": "4 janvier 2026 · Instagram",
-      "texte": "Personne ne regrettera Nicolás Maduro. Il a mis son pays en faillite et en ruine, avec huit millions d’exilés. Mais cela ne justifie pas que les États-Unis remettent…",
-      "chiffres": "91 532 j'aime · 4 595 commentaires · 0 partages · 4 383 048 vues",
-      "url": "https://instagram.com/p/DTF8PHSiMhq"
-     },
-     {
-      "quand": "14 février 2026 · TikTok",
-      "texte": "Dostoievski est un écrivain rare parce qu'il déterre ce que nous avons de plus fragile pour en faire une vérité universelle. Dans les Carnets du sous-sol, il nous tend un miroir…",
-      "chiffres": "76 496 j'aime · 2 533 commentaires · 15 668 partages · 1 082 835 vues",
-      "url": "https://tiktok.com/@dominiquedevillepin/video/7606865246417964310"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "1 436",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "265",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "13",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "68",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "260",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 91 politiques"
-     },
-     {
-      "valeur": "53",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 28 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Edwy Plenel",
-      "role": "Journaliste",
-      "posts": "16 posts"
-     },
-     {
-      "nom": "Pierre Haski",
-      "role": "Journaliste",
-      "posts": "13 posts"
-     },
-     {
-      "nom": "Antoine Comte",
-      "role": "Journaliste",
-      "posts": "12 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 6,
-    "polymarket": 2,
-    "attention": 7
-   },
-   "score": 5,
-   "rangs": {
-    "sondage": 11,
-    "polymarket": 10
    }
   },
   {
@@ -2240,13 +2252,13 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 7.3,
-    "d": -0.1,
+    "v": 6.8,
+    "d": -0.2,
     "parts": {
-     "Wikipedia": 1.9,
-     "réseaux": 3.6,
-     "citations": 1.1,
-     "abonnés": 0.8,
+     "Wikipedia": 2,
+     "réseaux": 3.7,
+     "citations": 0.9,
+     "abonnés": 0.7,
      "YouTube": 0.4
     }
    },
@@ -2255,8 +2267,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 4653173,
-    "vol7": 153692,
+    "vol": 4668274,
+    "vol7": 137945,
     "haut": null,
     "bas": null
    },
@@ -2271,29 +2283,29 @@
     },
     "rangs": [
      {
-      "rang": 2,
+      "rang": 3,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 638 posts"
+      "valeur": "4 296 posts"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en engagement",
-      "valeur": "7 041 011"
+      "valeur": "6 991 364"
      },
      {
-      "rang": 18,
+      "rang": 14,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 518"
+      "valeur": "1 627"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "126 842 136"
+      "valeur": "127 776 526"
      },
      {
       "rang": 8,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 353 913 abonnés"
+      "valeur": "1 353 493 abonnés"
      }
     ],
     "posts": [
@@ -2318,7 +2330,7 @@
     ],
     "citations": [
      {
-      "valeur": "1 380",
+      "valeur": "1 379",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
@@ -2333,19 +2345,19 @@
       "detail": ""
      },
      {
-      "valeur": "22",
+      "valeur": "16",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "382",
+      "valeur": "376",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 157 politiques"
+      "detail": "par 156 politiques"
      },
      {
       "valeur": "77",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 37 organisations"
+      "detail": "par 36 organisations"
      }
     ],
     "journalistes": [
@@ -2386,12 +2398,12 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.3,
-    "d": 0.4,
+    "v": 1,
+    "d": 0.3,
     "parts": {
      "Wikipedia": 0.7,
-     "réseaux": 0,
-     "citations": 0.8,
+     "réseaux": 0.1,
+     "citations": 0.5,
      "abonnés": 0,
      "YouTube": 0
     }
@@ -2402,7 +2414,7 @@
     "d24": null,
     "d30": null,
     "vol": 6154762,
-    "vol7": 2344,
+    "vol7": 0,
     "haut": null,
     "bas": null
    },
@@ -2419,27 +2431,27 @@
      {
       "rang": 20,
       "libelle": "sur 34 en nombre de posts",
-      "valeur": "824 posts"
+      "valeur": "829 posts"
      },
      {
       "rang": 23,
       "libelle": "sur 34 en engagement",
-      "valeur": "566 237"
+      "valeur": "568 448"
      },
      {
       "rang": 23,
       "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "687"
+      "valeur": "686"
      },
      {
       "rang": 26,
       "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "14 419 961"
+      "valeur": "14 455 298"
      },
      {
       "rang": 24,
       "libelle": "sur 34 en abonnés relevés",
-      "valeur": "236 641 abonnés"
+      "valeur": "236 646 abonnés"
      }
     ],
     "posts": [
@@ -2464,34 +2476,34 @@
     ],
     "citations": [
      {
-      "valeur": "607",
+      "valeur": "598",
       "libelle": "posts qui le citent sur 12 mois",
       "detail": ""
      },
      {
-      "valeur": "171",
+      "valeur": "168",
       "libelle": "auteurs distincts",
       "detail": ""
      },
      {
-      "valeur": "23",
+      "valeur": "24",
       "libelle": "sur 34 candidats les plus cités",
       "detail": ""
      },
      {
-      "valeur": "16",
+      "valeur": "8",
       "libelle": "posts sur les 7 derniers jours",
       "detail": ""
      },
      {
-      "valeur": "858",
+      "valeur": "866",
       "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 211 politiques"
+      "detail": "par 207 politiques"
      },
      {
-      "valeur": "734",
+      "valeur": "730",
       "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 56 organisations"
+      "detail": "par 54 organisations"
      }
     ],
     "journalistes": [
@@ -2740,6 +2752,43 @@
     "Sarah Knafo": 0.9,
     "Dominique de Villepin": 0.8,
     "Éric Zemmour": 0.5,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 88.4,
+    "Marine Le Pen": 69.6,
+    "David Lisnard": 51.7,
+    "Édouard Philippe": 21.8,
+    "Gabriel Attal": 19.6,
+    "Bruno Retailleau": 17,
+    "Raphaël Glucksmann": 13.3,
+    "Éric Zemmour": 12.2,
+    "Marine Tondelier": 9.7,
+    "François Ruffin": 6.8,
+    "Dominique de Villepin": 6.3,
+    "François Hollande": 4.7,
+    "Fabien Roussel": 3.5,
+    "Xavier Bertrand": 1
+   },
+   "polymarket": {
+    "Marine Le Pen": 39.5,
+    "Édouard Philippe": 21.5,
+    "David Lisnard": 14.5,
+    "Jean-Luc Mélenchon": 11.5,
+    "François Hollande": 3.2,
+    "Gabriel Attal": 2.4,
+    "Raphaël Glucksmann": 1.7,
+    "Bruno Retailleau": 1.2,
+    "Dominique de Villepin": 1.1,
+    "Sarah Knafo": 0.9,
+    "Éric Zemmour": 0.6,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
     "Xavier Bertrand": 0.1,

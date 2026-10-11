@@ -1,5 +1,190 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-11",
+  "url": "/podcasts/politique-2026-10-11.mp3",
+  "taille": 2537266,
+  "duree": 211,
+  "titre": "Éclairage politique, dimanche 11 octobre 2026",
+  "titre_episode": "Lycéens, Attal contre Mélenchon, primaire de la gauche : l'essentiel du dimanche 11 octobre",
+  "description": "Ce dimanche 11 octobre, Léa et Paul reprennent 3 sujets.\n• Mouvement lycéen : un bâtiment de l'université de Nantes évacué, quatre interpellations, et la nouvelle journée de grève du mardi 13 octobre.\n• Jeunesse : le meeting de Gabriel Attal à Lyon, celui de Jean-Luc Mélenchon à Clermont-Ferrand, et le rôle de Parcoursup dans le débat.\n• Primaire de la gauche : plus de 100 000 votants, clôture à 18 h, et ce qui se passe en cas de second tour.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Mouvement lycéen : un bâtiment de l'université de Nantes évacué"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Jeunesse : Attal à Lyon samedi, Mélenchon à Clermont-Ferrand dimanche"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Primaire de la gauche : plus de 100 000 votants, clôture ce dimanche à 18 h"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Léa. Nous sommes dimanche onze octobre, et voici l'essentiel de l'actualité politique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour, c'est Paul. Au programme : le mouvement lycéen, deux meetings sur la jeunesse, et la fin de la primaire de la gauche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par Nantes. Samedi matin, la police a évacué un bâtiment de l'université. Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le bâtiment Censive était occupé depuis le mercredi sept octobre, par des manifestants qui soutenaient le mouvement lycéen. La présidence de l'université a demandé l'intervention, et c'est le préfet de Loire-Atlantique qui l'a décidée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et comment ça s'est passé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon la préfecture, dans le calme. Quatre personnes ont été interpellées. La préfecture condamne fermement des dégradations qu'elle juge très importantes, et la présidente de l'université a déposé plainte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce mouvement, il vient d'où, au départ ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il est parti le vingt et un septembre à Créteil. Il en est à sa troisième semaine. Vendredi, cent quarante et un lycées étaient fermés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et le gouvernement a répondu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Éducation nationale, Édouard Geffray, a annoncé trois mille enseignants remplaçants, entre vendredi et mardi. Pour la secrétaire générale du Snes-FSU, Sophie Vénétitay, c'est une « copie bâclée »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc la suite, c'est mardi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'intersyndicale appelle à une nouvelle journée de grève et de manifestations mardi treize octobre. À retenir : la mobilisation continue, et mardi est la prochaine date."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Même sujet, la jeunesse, mais côté campagne présidentielle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Samedi, Gabriel Attal a tenu à Lyon son premier meeting régional. Environ deux mille personnes, selon son équipe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'a-t-il proposé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un pacte pour la jeunesse. Moins d'élèves par classe, une hausse de deux cents à cinq cents euros nets du salaire des enseignants en milieu de carrière, le sport et la culture à partir de quinze heures. Et une convention de cent cinquante jeunes tirés au sort."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il s'adresse aussi à ses adversaires, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Il résume le projet de Jean-Luc Mélenchon pour la jeunesse par « sélection par l'échec »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Jean-Luc Mélenchon répond quand ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dimanche, aujourd'hui, au Zénith d'Auvergne, à Clermont-Ferrand. La France insoumise annonce des voix lycéennes, et table sur cinq à dix mille personnes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a déjà réagi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans un entretien publié samedi, il tient Gabriel Attal pour « personnellement responsable » d'une partie de la révolte lycéenne. La raison : Attal a été rapporteur de la loi qui a créé Parcoursup."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Parcoursup, c'est la plateforme où les lycéens formulent leurs vœux d'études supérieures."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et Mélenchon veut en faire un marqueur de l'élection présidentielle. Le scrutin est dans plus de six mois, donc les deux camps parlent d'une campagne de long terme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file maintenant vers la primaire de la gauche. Elle se termine aujourd'hui."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À dix-huit heures. Samedi à dix-huit heures, le seuil de cent mille votants a été franchi. À vingt-deux heures, cent sept mille trois cent cinquante-six personnes avaient voté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur combien d'inscrits ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ cent quarante mille. Cela fait soixante-seize virgule cinq pour cent de participation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelons que le vote en ligne a été visé par une cyberattaque."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, dès l'ouverture, vendredi neuf octobre. Les organisateurs parlent d'une attaque par déni de service, qui sature le site de connexions. La justice a été saisie, l'Anssi, l'agence nationale de cybersécurité, a été sollicitée, et les auteurs ne sont pas identifiés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des organisateurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Patrick Mennucci, président de la commission d'organisation, a dit samedi sur franceinfo : « Il y a un retour à la normale, mais nous sommes vigilants »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq candidats sont en lice. Un second tour est-il possible ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Si personne n'obtient la majorité absolue, c'est-à-dire plus de la moitié des voix, un second tour aurait lieu vendredi seize et samedi dix-sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats du premier tour ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Attendus vers dix-huit heures vingt-cinq. À retenir : le vote ferme à dix-huit heures, et les résultats suivent dans la foulée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un dernier mot sur la semaine qui s'ouvre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi treize octobre sera chargé : journée de grève lycéenne, ouverture du débat sur le budget à l'Assemblée, et audition du ministre de l'Intérieur par le Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci Paul. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-10",
   "url": "/podcasts/essentiel-2026-10-10.mp3",
