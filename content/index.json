@@ -1,5 +1,346 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-12",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉLECTIONS",
+    "titre": "Primaire de la gauche : Glucksmann désigné dès le premier tour",
+    "court": "Primaire de la gauche : Glucksmann l'emporte",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Rapha%C3%ABl_Glucksmann-1040795.jpg/1280px-Rapha%C3%ABl_Glucksmann-1040795.jpg",
+    "legende": "Portrait de Raphaël Glucksmann",
+    "chapeau": "Dimanche 11 octobre, l'eurodéputé Raphaël Glucksmann (Place publique) a été désigné dès le premier tour candidat de la gauche sociale-démocrate à l'élection présidentielle, avec 66,17 % des voix (79 613 voix) selon les organisateurs relayés par l'AFP ; franceinfo donne 66,13 %.",
+    "eclairage": "Une primaire, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "66 %",
+      "legende": "des voix pour Raphaël Glucksmann"
+     },
+     {
+      "valeur": "~121 k",
+      "legende": "votants (120 587 à 120 787)"
+     },
+     {
+      "valeur": "14 %",
+      "legende": "pour Olivier Faure, deuxième"
+     }
+    ],
+    "passe": "Dimanche 11 octobre, l'eurodéputé Raphaël Glucksmann (Place publique) a été désigné dès le premier tour candidat de la gauche sociale-démocrate à l'élection présidentielle, avec 66,17 % des voix (79 613 voix) selon les organisateurs relayés par l'AFP ; franceinfo donne 66,13 %. Il devance le premier secrétaire du PS Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (GRS, 5,92 %) et Jérôme Guedj (5,83 %, 5,80 % selon Toute l'Europe). Le nombre de votants varie selon les sources : 120 787 pour l'AFP et Public Sénat, 120 587 pour Toute l'Europe. Le vote, ouvert vendredi 9 octobre, a été prolongé jusqu'à dimanche 18 heures après une cyberattaque qui a saturé le site de fausses connexions. La participation reste loin des 2 millions d'électeurs de la primaire de 2017 qui avait désigné Benoît Hamon, selon Public Sénat.",
+    "points": [],
+    "explication": "Une primaire est un vote interne à un camp pour désigner un candidat commun avant la présidentielle. Celle-ci était organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste (GRS) : les votants devaient être adhérents de l'un de ces partis ou cotiser à l'association de financement de la primaire, pour 15 euros (10 euros au tarif social), selon Toute l'Europe. Environ 140 000 personnes étaient inscrites. La France insoumise n'y participait pas : Jean-Luc Mélenchon tenait le même jour un meeting à Clermont-Ferrand. Le premier tour de la présidentielle est prévu le 18 avril 2027, le second le 2 mai.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/presidentielle-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-l-eurodepute-raphael-glucksmann-remporte-largement-la-primaire-de-la-gauche-sociale-democrate/",
+      "nom": "Toute l'Europe"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+      "nom": "franceinfo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PLACE PUBLIQUE",
+      "qui": "Raphaël Glucksmann",
+      "contexte": "candidat désigné",
+      "texte": "« Il n'y aura pas d'accord avec la France insoumise »",
+      "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Olivier Faure",
+      "contexte": "premier secrétaire",
+      "texte": "« Tu as su convaincre une majorité de votants »",
+      "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CANDIDATE",
+      "qui": "Ségolène Royal",
+      "contexte": "ancienne candidate à la présidentielle",
+      "texte": "Elle se dit « très déçue mais sans regrets »",
+      "url": "https://www.sudradio.fr/societe/presidentielle-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale",
+      "texte": "Elle déplore la victoire de « celui qui fait le choix du repli »",
+      "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Le sénateur écologiste Yannick Jadot, déjà rallié, doit bientôt présenter les 100 premiers jours de la « révolution écologiste » promise par le candidat. L'équipe de campagne veut ensuite s'élargir au reste de la gauche démocratique.",
+    "change": "Raphaël Glucksmann devient le candidat désigné de la gauche sociale-démocrate. Il écarte tout accord avec LFI, alors qu'Olivier Faure a rappelé que le Parti socialiste déciderait « seul » le moment venu de sa stratégie aux législatives, selon l'AFP.",
+    "credit": {
+     "auteur": "Harald Krichel",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_Glucksmann-1040795.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉDUCATION",
+    "titre": "Mouvement lycéen : nouvelle journée de grève et de manifestations mardi",
+    "court": "Lycéens : nouvelle journée d'action mardi",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg",
+    "legende": "Des lycéens défilent derrière un drapeau tricolore dans une rue de Perpignan lors de la journée du 6 octobre 2026",
+    "chapeau": "Jeudi 8 octobre, la mobilisation lycéenne a réuni 71 500 manifestants en France, dont 24 500 à Paris, selon le ministère de l'Intérieur, qui compte aussi 504 interpellations et 48 policiers et gendarmes blessés.",
+    "eclairage": "« Acte V », que veut dire ce numéro ?",
+    "chiffres": [
+     {
+      "valeur": "71,5 k",
+      "legende": "manifestants jeudi 8, selon l'Intérieur"
+     },
+     {
+      "valeur": "141",
+      "legende": "lycées fermés vendredi 9 sur 3 700"
+     },
+     {
+      "valeur": "13/10",
+      "legende": "« acte V » appelé par l'intersyndicale"
+     }
+    ],
+    "passe": "Jeudi 8 octobre, la mobilisation lycéenne a réuni 71 500 manifestants en France, dont 24 500 à Paris, selon le ministère de l'Intérieur, qui compte aussi 504 interpellations et 48 policiers et gendarmes blessés. Le même jour, le ministre de l'Éducation nationale Édouard Geffray a annoncé sur TF1 l'arrivée de 3 000 professeurs remplaçants « dans les heures qui viennent » dans les lycées les plus en difficulté, et affirmé qu'aucune suppression de poste n'était prévue en lycée en 2027. Vendredi 9, selon le ministère, plus de 96 % des lycées étaient ouverts : 141 étaient fermés sur 3 700, contre 157 la veille ; une source de l'exécutif parle d'une « nette décélération ». L'intersyndicale étudiante et professionnelle et les organisations lycéennes maintiennent un « acte V » mardi 13 octobre, jugeant les annonces insuffisantes. Les ministres doivent retrouver les organisations lundi 12 octobre, notamment sur la transparence de Parcoursup et les capacités d'accueil dans le supérieur.",
+    "points": [],
+    "explication": "Les organisateurs numérotent leurs journées nationales : l'acte III a eu lieu mardi 6 octobre, l'acte IV jeudi 8, l'acte V est appelé mardi 13. Les chiffres viennent surtout du ministère : 71 500 manifestants jeudi selon l'Intérieur, plus de 96 % de lycées ouverts vendredi selon l'Éducation nationale, tandis que les organisations lycéennes jugent la mobilisation intacte. Les professeurs remplaçants annoncés sont « essentiellement des TZR », c'est-à-dire des titulaires sur zone de remplacement, selon le ministre de l'Enseignement supérieur Philippe Baptiste. Parcoursup est la plateforme de vœux d'études supérieures.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/avant-lacte-v-lincertitude-plane-sur-la-suite-du-mouvement-lyceen",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.sudradio.fr/societe/mouvement-des-lyceens-les-derniers-developpements-3",
+      "nom": "Sud Radio, avec AFP (derniers développements)"
+     },
+     {
+      "url": "https://www.24matins.fr/mobilisation-lyceenne-ce-qui-peut-encore-se-jouer-mardi-13-octobre-1422073",
+      "nom": "24matins"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/141-lycees-fermes-ce-vendredi-les-lyceens-continuent-de-se-mobiliser-pour-denoncer-leurs-conditions-dapprentissage",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale",
+      "texte": "Il annonce 3 000 professeurs remplaçants",
+      "url": "https://www.24matins.fr/mobilisation-lyceenne-ce-qui-peut-encore-se-jouer-mardi-13-octobre-1422073",
+      "source": "24matins"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CFDT",
+      "qui": "Marylise Léon",
+      "contexte": "secrétaire générale",
+      "texte": "Elle juge la « première réponse » du gouvernement « largement en deçà de ce qui est attendu »",
+      "url": "https://www.sudradio.fr/societe/avant-lacte-v-lincertitude-plane-sur-la-suite-du-mouvement-lyceen",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION SYNDICALE LYCÉENNE",
+      "qui": "Marius Mesnil",
+      "contexte": "représentant",
+      "texte": "Il dénonce « quelques miettes »",
+      "url": "https://www.24matins.fr/mobilisation-lyceenne-ce-qui-peut-encore-se-jouer-mardi-13-octobre-1422073",
+      "source": "24matins"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION ÉTUDIANTE",
+      "qui": "Sabrine Kharbach",
+      "contexte": "porte-parole",
+      "texte": "« Tant qu'on n'aura pas 10 milliards sur la table, on continuera à se mobiliser »",
+      "url": "https://www.sudradio.fr/societe/mouvement-des-lyceens-les-derniers-developpements-3",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Lundi 12 octobre : nouvelles discussions entre les ministres et les organisations. Mardi 13 octobre : journée de grève et de manifestations (« acte V »).",
+    "change": "Le mouvement, parti à la mi-septembre de la région parisienne, garde un calendrier propre pendant les discussions : l'exécutif y voit une dynamique « très localisée », les organisations lycéennes une mobilisation qui n'est pas levée.",
+    "credit": {
+     "auteur": "Aurelio Cárdenas",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : le texte arrive dans l'hémicycle après un rejet en commission",
+    "court": "Budget 2027 : débat dans l'hémicycle mardi",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tribune_hemicycle_palais_bourbon.jpg/1280px-Tribune_hemicycle_palais_bourbon.jpg",
+    "legende": "La tribune du président dans l'hémicycle du Palais Bourbon (illustration)",
+    "chapeau": "Le projet de loi de finances (PLF) pour 2027, déposé à l'Assemblée nationale le 1er octobre (n° 3210), vise un déficit public de 5 % du PIB. La commission des finances l'a examiné de mercredi 7 à vendredi 9 octobre.",
+    "eclairage": "Rejet, 49.3, ordonnances : que peut-il se passer ?",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "déficit public visé en 2027 (du PIB)"
+     },
+     {
+      "valeur": "+8 Md€",
+      "legende": "dépassement du texte amendé, selon Lescure"
+     },
+     {
+      "valeur": "18/12",
+      "legende": "date la plus précoce pour des ordonnances"
+     }
+    ],
+    "passe": "Le projet de loi de finances (PLF) pour 2027, déposé à l'Assemblée nationale le 1er octobre (n° 3210), vise un déficit public de 5 % du PIB. La commission des finances l'a examiné de mercredi 7 à vendredi 9 octobre. Elle a notamment conservé le plafond de l'abattement de 10 % dont bénéficient les retraités pour l'impôt sur le revenu (4 439 euros, que le gouvernement voulait ramener à 3 000 euros pour 1,4 milliard d'euros d'économies) et relevé le plafond du livret A de 22 950 à 30 000 euros. Vendredi soir, elle a rejeté à la quasi-unanimité la partie « recettes » ainsi amendée : seuls les députés Renaissance ont voté pour, les MoDem se sont abstenus, LR, Horizons et les oppositions de LFI au RN ont voté contre. Ce vote reste sans conséquence immédiate, car les débats dans l'hémicycle, à partir de mardi 13 octobre, repartent de la version initiale du gouvernement. Dimanche 11, le ministre de l'Économie Roland Lescure a dit qu'il « préférerait éviter » le recours aux ordonnances budgétaires.",
+    "points": [],
+    "explication": "Le budget se vote en deux parties : d'abord les recettes, puis les dépenses. Si les recettes sont rejetées dans l'hémicycle, c'est tout le texte qui tombe, sans examen des dépenses, selon franceinfo. Sans majorité à l'Assemblée, le Premier ministre Sébastien Lecornu pourrait recourir à l'article 49, alinéa 3, de la Constitution, qui permet d'adopter un texte sans vote ; cette voie suppose que le PS ou le RN s'abstiennent de le censurer, selon l'AFP. Il pourrait aussi passer par des ordonnances budgétaires, jamais utilisées sous la Ve République, mais il faudrait attendre le 18 décembre, après 70 jours d'examen.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.sudradio.fr/societe/budget-lescure-prefererait-eviter-le-recours-aux-ordonnances-glissiere-de-securite",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/livret-a-retraites-geants-du-numerique-comment-les-deputes-ont-modifie-en-commission-le-volet-recettes-du-projet-de-budget-pour-2027_8229916.html",
+      "nom": "franceinfo (détail des votes)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie",
+      "texte": "Il parle des ordonnances comme d'une « glissière de sécurité de l'autoroute budgétaire »",
+      "url": "https://www.sudradio.fr/societe/budget-lescure-prefererait-eviter-le-recours-aux-ordonnances-glissiere-de-securite",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Députés",
+      "contexte": "vote en commission",
+      "texte": "Seuls à voter pour le volet recettes amendé",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR · HORIZONS",
+      "qui": "Députés",
+      "contexte": "vote en commission",
+      "texte": "Ils votent contre la copie amendée",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI · RN",
+      "qui": "Députés",
+      "contexte": "vote en commission",
+      "texte": "Les oppositions, de LFI au RN, votent contre",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html",
+      "source": "franceinfo, avec AFP"
+     }
+    ],
+    "apres": "Mardi 13 octobre : début des débats en séance publique sur la partie recettes. Le recours à des ordonnances budgétaires ne serait possible qu'à partir du 18 décembre.",
+    "change": "Mardi, les députés repartent du texte initial du gouvernement. Un rejet des recettes dans l'hémicycle vaudrait rejet de tout le projet de budget, sans examen des dépenses.",
+    "credit": {
+     "auteur": "NonOmnisMoriar",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Tribune_hemicycle_palais_bourbon.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "Lycéens : discussions entre les ministres et les organisations sur Parcoursup et les capacités d'accueil dans le supérieur."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Lycéens : « acte V », journée de grève et de manifestations ; Assemblée : début des débats en séance sur la partie recettes du budget 2027."
+   },
+   {
+    "jour": "18",
+    "mois": "DÉC.",
+    "texte": "Budget : date la plus précoce pour d'éventuelles ordonnances budgétaires, après 70 jours d'examen."
+   },
+   {
+    "jour": "18",
+    "mois": "AVR. 2027",
+    "texte": "Présidentielle : premier tour ; second tour le 2 mai."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Primaire",
+    "definition": "Vote interne à un camp politique pour désigner un candidat commun à une élection."
+   },
+   {
+    "terme": "Ordonnance budgétaire",
+    "definition": "Procédure qui permettrait au gouvernement d'adopter le budget sans vote du Parlement, jamais utilisée sous la Ve République."
+   },
+   {
+    "terme": "Ecofin",
+    "definition": "Réunion du Conseil de l'UE des ministres de l'Économie et des Finances des 27 États membres."
+   },
+   {
+    "terme": "TZR",
+    "definition": "Titulaire sur zone de remplacement : professeur titulaire envoyé remplacer un collègue absent."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dimanche 11 octobre, Raphaël Glucksmann a dû disputer un second tour pour remporter la primaire de la gauche sociale-démocrate.",
+   "reponse": false,
+   "explication": "Faux : il l'a emporté dès le premier tour, avec 66,17 % des voix selon les organisateurs relayés par l'AFP. Un second tour était prévu les 16 et 17 octobre, seulement si nécessaire."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-11",
   "minutes": 10,

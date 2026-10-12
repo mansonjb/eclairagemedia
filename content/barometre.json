@@ -1075,6 +1075,20 @@
      "couleur": "#7e57c2",
      "parti": "PLACE PUBLIQUE",
      "qui": "Raphaël Glucksmann",
+     "contexte": "candidat désigné",
+     "texte": "« Il n'y aura pas d'accord avec la France insoumise »",
+     "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
+     "source": "Sud Radio, avec AFP",
+     "date": "2026-10-12",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : Glucksmann désigné dès le premier tour",
+     "href": "/politique/2026-10-12/1"
+    },
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "PLACE PUBLIQUE",
+     "qui": "Raphaël Glucksmann",
      "contexte": "eurodéputé, candidat",
      "texte": "« Je n'ai aucune intention de diluer la famille sociale-démocrate, ni dans le mélenchonisme, ni dans la droite. »",
      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
@@ -1099,7 +1113,7 @@
      "href": "/politique/2026-10-04/2"
     }
    ],
-   "nbDeclarations": 2,
+   "nbDeclarations": 3,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
     "phase": {
@@ -1745,6 +1759,20 @@
      "couleur": "#1f9d55",
      "parti": "ÉCOLOGISTES",
      "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
+     "texte": "Elle déplore la victoire de « celui qui fait le choix du repli »",
+     "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
+     "source": "Sud Radio, avec AFP",
+     "date": "2026-10-12",
+     "rubrique": "politique",
+     "sujet": "Primaire de la gauche : Glucksmann désigné dès le premier tour",
+     "href": "/politique/2026-10-12/1"
+    },
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
      "contexte": "secrétaire nationale des Écologistes",
      "texte": "« La stratégie du gouvernement est claire, gagner du temps »",
      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
@@ -1783,7 +1811,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
