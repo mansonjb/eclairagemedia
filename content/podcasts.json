@@ -1,5 +1,491 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-12",
+  "url": "/podcasts/essentiel-2026-10-12.mp3",
+  "taille": 7812015,
+  "duree": 651,
+  "titre": "Éclairage, l'essentiel du lundi 12 octobre 2026",
+  "titre_episode": "Glucksmann désigné, FMI à Bangkok, cancer du côlon : l'essentiel du lundi 12 octobre",
+  "description": "Ce lundi 12 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : primaire de la gauche, Glucksmann désigné dès le premier tour\n• Politique : mouvement lycéen, acte V mardi\n• Économie : FMI à Bangkok, taux en hausse et dettes sous tension\n• Économie : budget 2027, Lescure veut éviter les ordonnances\n• Santé : cancer du côlon, la FDA approuve l'atézolizumab après l'opération\n• Santé : prostate, opération ou radiothérapie en 5 séances\n• Alimentation : un premier Label Rouge pour le pois chiche\n• Tech : Google présente un agent Gemini pour l'entreprise\n• Tech : OpenAI, près de 50 milliards de dollars annualisés, pas 70\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Primaire de la gauche : Glucksmann désigné dès le premier tour"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Mouvement lycéen : nouvelle journée de grève et de manifestations mardi"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "FMI à Bangkok : taux en hausse, dettes sous tension"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Budget 2027 : Lescure veut éviter les ordonnances et tenir 5 % de déficit"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Cancer du côlon : la FDA approuve l'atézolizumab après l'opération"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Prostate : opération ou radiothérapie en 5 séances, 8 ans de suivi"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Google : un « agent Gemini » universel pour le travail en entreprise"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "OpenAI : près de 50 milliards de dollars annualisés, pas 70"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le lundi douze octobre deux mille vingt-six, et avec Paul, on fait le tour de l'actualité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa, bonjour à tous. Politique, économie, santé, alimentation, IA : neuf sujets au programme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique. Soixante-six pour cent des voix, dès le premier tour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le score de Raphaël Glucksmann à la primaire de la gauche, dimanche. Il est désigné candidat de la gauche sociale-démocrate à la présidentielle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et derrière lui ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Olivier Faure, premier secrétaire du Parti socialiste, arrive deuxième avec quatorze pour cent. Puis Ségolène Royal, Emmanuel Maurel et Jérôme Guedj, tous sous les dix pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a eu un incident pendant le vote, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Une cyberattaque a saturé le site de fausses connexions. Le vote, ouvert vendredi, a été prolongé jusqu'à dimanche dix-huit heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la participation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ cent vingt et un mille votants. Public Sénat rappelle que la primaire de deux mille dix-sept, celle de Benoît Hamon, avait réuni deux millions d'électeurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et l'après ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Glucksmann a dit sur France 2 qu'il n'y aurait pas d'accord avec la France insoumise. Olivier Faure répond que le Parti socialiste décidera seul de sa stratégie pour les législatives."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les quatre autres candidats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils ont renouvelé leur engagement de soutenir le vainqueur. À retenir : la gauche sociale-démocrate a son candidat, avec une participation bien plus faible qu'en deux mille dix-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Du côté des écologistes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Marine Tondelier déplore la victoire de celui qui fait le choix du repli. Le camp Glucksmann assure vouloir convaincre les écologistes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : les lycées. Mardi, c'est l'acte cinq."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'acte cinq, c'est le numéro de la prochaine journée nationale de grève et de manifestations. L'acte quatre, jeudi huit octobre, a réuni soixante et onze mille cinq cents manifestants selon l'Intérieur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec des interpellations et des blessés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq cent quatre interpellations, et quarante-huit policiers et gendarmes blessés, selon le ministère. Le même jour, le ministre de l'Éducation, Édouard Geffray, a annoncé trois mille professeurs remplaçants dans les lycées en difficulté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il a promis autre chose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Qu'aucune suppression de poste n'est prévue en lycée en deux mille vingt-sept. Vendredi, selon le ministère, cent quarante et un lycées étaient fermés sur trois mille sept cents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc plus de quatre-vingt-seize pour cent ouverts. Mais les organisations ne lâchent pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, elles jugent les annonces insuffisantes. Marylise Léon, de la CFDT, parle d'une réponse largement en deçà de ce qui est attendu. Les ministres les reçoivent lundi, notamment sur Parcoursup, la plateforme de vœux d'études supérieures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : discussions lundi, manifestations mardi, et chacun lit la mobilisation à sa façon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. L'exécutif parle d'une dynamique très localisée, les organisations d'une mobilisation qui n'est pas levée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. À Bangkok, s'ouvrent les assemblées annuelles du FMI et de la Banque mondiale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Fonds monétaire international. Et le décor est tendu : le baril de pétrole tourne autour de cent dollars à cause de la guerre au Moyen-Orient, selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les taux montent partout."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les États-Unis, le Japon, la zone euro, l'Inde et l'Australie ont relevé leurs taux directeurs. Le taux à dix ans de la France approche cinq pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça veut dire quoi, cinq pour cent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne question. À cinq pour cent, cent milliards d'euros empruntés coûtent cinq milliards d'intérêts par an. Quand le pétrole est cher, les prix montent, les banques centrales relèvent leurs taux, et les dettes coûtent plus cher."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un engrenage. Qu'en dit la patronne du FMI ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Kristalina Georgieva décrit une économie tiraillée entre un choc négatif sur l'énergie et un choc positif de demande lié à l'intelligence artificielle. Elle avertit qu'un resserrement trop brutal peut casser l'activité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'Europe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une analyste d'Allianz Trade juge la zone euro plus exposée si la crise énergétique dure, à cause de ses niveaux de dette plus élevés. Les prévisions du FMI tombent mardi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les familles ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Alexander De Croo, du programme des Nations unies pour le développement, dit que la hausse des prix de l'énergie et de l'alimentation ne laisse aucune marge de sécurité à des millions de familles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On reste dans l'économie, mais cette fois en France : le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Économie, Roland Lescure, a dit dimanche qu'il préférerait éviter les ordonnances. Ce serait une première sous la Cinquième République, selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelons les trois voies pour adopter un budget."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le vote, le quarante-neuf trois, et les ordonnances, où le gouvernement met lui-même le budget en vigueur sans vote final du Parlement. Lescure appelle le vote la voie naturelle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le déficit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il vise cinq pour cent du PIB et dit qu'il ne dépassera pas ce seuil. Mais vendredi, la commission des finances a rejeté la partie recettes par trente et une voix contre trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, trente et une contre trois ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avec deux abstentions. Le rapporteur général, Philippe Juvin, estime que les amendements creuseraient le déficit d'environ dix milliards d'euros, à cinq virgule trois cinq, cinq virgule quatre pour cent du PIB."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le texte arrive quand dans l'hémicycle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, dans la version initiale du gouvernement. À retenir : sans majorité, l'issue dépend du vote, du quarante-neuf trois ou des ordonnances."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction la santé, avec une première pour le cancer du côlon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le huit octobre, l'agence américaine des médicaments, la FDA, a approuvé l'atézolizumab, une immunothérapie, associé à une chimiothérapie, après l'opération d'un cancer du côlon de stade trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour tous les patients ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, pour un type précis de tumeur, avec déficit du système de réparation de l'ADN. Roche dit que c'est la première immunothérapie approuvée dans cette situation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce que l'essai a montré ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essai ATOMIC, publié dans le New England Journal of Medicine, réduit de moitié le risque de récidive ou de décès. À trois ans, quatre-vingt-six pour cent des patients sous atézolizumab sont sans récidive, contre soixante-seize avec la chimiothérapie seule."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est énorme. Mais il y a des limites ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La survie globale n'est pas encore différente entre les groupes, et les effets indésirables graves sont plus fréquents : quatre-vingt-quatre pour cent contre soixante-douze."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas de décision relevée. Roche poursuit des démarches, dont auprès de l'Agence européenne des médicaments. À retenir : un net gain sur la récidive, pas encore sur la durée de vie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qui a financé l'essai ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il est parrainé par l'Institut national du cancer américain, avec le soutien de Genentech, filiale de Roche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre cancer, autre débat : la prostate. Opération ou radiothérapie en cinq séances ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est l'essai PACE-A, présenté fin septembre à Boston au congrès de la société américaine de radiothérapie. Cent vingt-trois hommes, tirés au sort, huit ans de suivi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté rechutes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Treize en tout : cinq après radiothérapie, huit après opération. Pas de différence significative, et aucun décès par cancer de la prostate."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Où est la différence, alors ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans les séquelles. À cinq ans, huit pour cent des hommes irradiés portaient une protection urinaire, contre quarante-huit pour cent des hommes opérés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, quarante-huit ? C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais prudence. Treize rechutes, c'est trop peu pour dire qu'une méthode contrôle mieux le cancer. Et ce sont des résultats de congrès, pas encore relus par des pairs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une précision sur les financements ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'investigateur principal déclare des financements de fabricants d'appareils de radiothérapie, Accuray et Varian."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pas de conclusion hâtive, donc."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. À retenir : le choix se discute avec l'urologue et le radiothérapeute."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et maintenant, dans l'assiette : un premier Label Rouge français pour le pois chiche."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Journal officiel du onze décembre deux mille vingt-cinq a reconnu ce label pour la coopérative vendéenne Cavac. C'est une première pour un légume sec destiné à l'alimentation humaine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que garantit un Label Rouge ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un signe officiel de qualité supérieure, avec un cahier des charges et des contrôles indépendants. Attention, ce n'est pas du bio : ce sont deux labels distincts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les légumineuses en France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elles couvrent vingt-sept mille cinq cents hectares en deux mille vingt-quatre, contre mille cinq cents en deux mille trois. Mais seulement quatre pour cent de la surface agricole, selon l'INRAE."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et dans nos assiettes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La consommation de légumes secs a été divisée par quatre en vingt ans, à deux kilos par personne et par an en deux mille vingt et un, selon l'Anses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la stratégie nationale ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle vise à doubler ces surfaces, pour atteindre deux millions d'hectares, soit huit pour cent de la surface agricole."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les sachets sont déjà en rayon ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils devaient arriver à partir de septembre, mais l'édition n'a pas trouvé de confirmation de leur mise en vente. À retenir : un premier label, mais la filière démarre sur une surface volontairement maîtrisée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'IA et la tech. Google présente un agent Gemini pour le travail en entreprise."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le huit octobre, Thomas Kurian, patron de Google Cloud, a présenté un assistant unique qui exécute des tâches en plusieurs étapes dans Google Workspace, Microsoft trois six cinq, Slack, et sur le web."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un agent, ce n'est pas juste un chatbot ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Un chatbot répond à une question. Un agent reçoit un objectif et enchaîne seul des actions dans plusieurs applications."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et quels modèles font tourner ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Google, la famille Gemini et, aujourd'hui, les modèles Claude d'Anthropic. Chaque agent a sa propre identité, ses droits, ses actions sont journalisées, et un administrateur peut plafonner les dépenses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Est-ce déjà disponible ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas vraiment. Un nombre limité d'entreprises y a accès, et les chiffres d'usage, près de quatre-vingt-dix pour cent du Fortune cent, viennent de Google, sans vérification indépendante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un analyste y voit un enjeu de contrôle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Carmi Levy, cité par Computerworld, estime que l'argument de vente principal tient aux contrôles. Selon les analystes, le vrai test viendra de l'usage à grande échelle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : des fonctions annoncées, une préversion limitée, et une question de gouvernance avant la question technique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et on reste dans l'IA, avec une affaire de chiffres. OpenAI : près de cinquante milliards de dollars annualisés, pas soixante-dix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, vingt milliards d'écart ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le Financial Times, OpenAI a indiqué à ses investisseurs un revenu annualisé proche de cinquante milliards fin septembre, contre environ soixante-dix évoqués plus tôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'où vient l'écart ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Reuters, qui n'a pas pu vérifier l'information, l'explique surtout par une comparaison avec Anthropic. Celle-ci compte les ventes passées par ses partenaires cloud, comme AWS et Google Cloud, et leur reverse environ seize pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il faut rappeler ce que veut dire annualisé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On prend le revenu d'une période courte, souvent un mois, et on le multiplie pour obtenir un an. C'est un indicateur de rythme, pas un chiffre comptable."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et au deuxième trimestre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Anthropic a déclaré onze virgule cinq milliards de dollars de revenu trimestriel, contre six virgule sept pour OpenAI. OpenAI n'a pas répondu à Reuters."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Aucun de ces chiffres n'est audité, c'est ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Les deux entreprises préparent, selon Reuters, une introduction en Bourse, qui les obligerait à publier des comptes. À retenir : un chiffre annualisé dépend de la méthode."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Merci d'avoir écouté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-12",
   "url": "/podcasts/politique-2026-10-12.mp3",
