@@ -13,7 +13,8 @@ export default async function Rubrique({ params }: { params: Promise<{ rubrique:
   const { rubrique } = await params;
   const R = RUBRIQUES[rubrique];
   if (!R) notFound();
-  const [derniere, ...autres] = parRubrique(rubrique);
+  // une édition sans sujet lisible (format inattendu) ne doit jamais laisser « La dernière édition » vide
+  const [derniere, ...autres] = parRubrique(rubrique).filter((e) => e.sujets.length);
   return (
     <main className="flex flex-col gap-5 pt-6">
       <section className="rounded-[28px] p-7 sm:p-10" style={{ backgroundColor: R.couleur }}>

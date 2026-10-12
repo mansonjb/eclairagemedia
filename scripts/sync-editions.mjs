@@ -24,7 +24,8 @@ const coupe = (t, n) => {
 const chapeau = (t) => { const p = t.match(/[^.!?]+[.!?]+(\s|$)/g) || [t]; return coupe(p.slice(0, 2).join("").trim(), 320); };
 
 function extraire(html) {
-  const tetes = [...html.matchAll(/(\d) · ([A-ZÉÈÊÀÂÎÔÛÇ&;' \-]+)<\/div>\s*<div[^>]*>([\s\S]{3,400}?)<\/div>/g)];
+  // le thème peut porter un suffixe (« NOUVELLES CULTURES · DÉCRYPTAGE ») : on accepte le point médian
+  const tetes = [...html.matchAll(/(\d) · ([A-ZÉÈÊÀÂÎÔÛÇ&;'· \-]+)<\/div>\s*<div[^>]*>([\s\S]{3,400}?)<\/div>/g)];
   const vus = new Set();
   const sujets = [];
   tetes.forEach((m, i) => {
@@ -43,7 +44,7 @@ function extraire(html) {
     const chiffres = [...bloc.matchAll(/font-size:24px;font-weight:900[^>]*>([^<]{1,12})<\/div>\s*<div[^>]*>([\s\S]*?)<\/div>/g)]
       .slice(0, 3).map((c) => ({ valeur: strip(c[1]), legende: strip(c[2]) }));
     sujets.push({
-      n, theme: strip(m[2]), titre: strip(m[3]), court: (bloc.match(/<!--\s*court\s*:\s*([^>]*?)\s*-->/) || [])[1] || null,
+      n, theme: strip(m[2]).split(" · ")[0], titre: strip(m[3]), court: (bloc.match(/<!--\s*court\s*:\s*([^>]*?)\s*-->/) || [])[1] || null,
       image: img ? img[1] : null, legende: img && img[2] ? ent(img[2]) : null,
       chapeau: passe ? chapeau(strip(passe[1])) : null,
       eclairage: ecl ? strip(ecl[1]) : null,

@@ -435,7 +435,80 @@
   "rubrique": "food",
   "date": "2026-10-12",
   "minutes": 5,
-  "sujets": [],
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "NOUVELLES CULTURES",
+    "titre": "Pois chiche : un premier Label Rouge français",
+    "court": "Pois chiche : un premier Label Rouge",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ordinary_chickpeas_in_a_ceramic_bowl.jpg/1280px-Ordinary_chickpeas_in_a_ceramic_bowl.jpg",
+    "legende": "Des pois chiches secs dans un bol en céramique (illustration)",
+    "chapeau": "Le Journal officiel du 11 décembre 2025 a publié l'avis de reconnaissance d'un Label Rouge pour le pois chiche de la coopérative vendéenne Cavac, une première en France pour ce légume sec destiné à l'alimentation humaine.",
+    "eclairage": "Que garantit un Label Rouge, et pourquoi si peu de légumineuses ?",
+    "chiffres": [
+     {
+      "valeur": "27 500",
+      "legende": "hectares de légumes secs en 2024"
+     },
+     {
+      "valeur": "12 %",
+      "legende": "de la production de légumes secs : la Cavac"
+     },
+     {
+      "valeur": "4 %",
+      "legende": "de la surface agricole en légumineuses"
+     }
+    ],
+    "passe": "Le Journal officiel du 11 décembre 2025 a publié l'avis de reconnaissance d'un Label Rouge pour le pois chiche de la coopérative vendéenne Cavac, une première en France pour ce légume sec destiné à l'alimentation humaine. Le projet réunit la Cavac, Vendée Qualité, qui gère les signes de qualité, et Olvac, conserverie spécialisée dans les légumes secs cuisinés. Selon La Dépêche (groupe Réussir), le 24 février 2026, les premiers sachets secs et conserves devaient arriver en rayon à partir de septembre 2026, après la récolte d'été ; nous n'avons pas trouvé de confirmation de leur mise en vente. Les surfaces sont en cours de contractualisation, sans chiffre communiqué. Les légumineuses récoltées en France couvrent 27 500 hectares en 2024, contre 23 500 en 2020 et 1 500 en 2003, selon Terres Univia.",
+    "points": [],
+    "explication": "Un Label Rouge est un signe officiel français de qualité supérieure : un cahier des charges encadre les variétés, les semences, les parcelles et le tri, avec des contrôles par un organisme indépendant. Il ne signifie pas « bio » : ce sont deux labels distincts, qui ne garantissent pas la même chose. Le pois chiche est une légumineuse : comme la lentille ou la fève, il fixe l'azote de l'air et enrichit le sol, ce qui l'intéresse dans une rotation de cultures. Selon l'INRAE, les légumineuses ne représentent pourtant que 4 % de la surface agricole utile, et la consommation de légumes secs a été divisée par quatre en vingt ans, à 2 kg par personne et par an en 2021 selon l'Anses (chiffres de 2021). La stratégie nationale en protéines végétales de 2020 vise à doubler ces surfaces, pour atteindre 2 millions d'hectares, soit 8 % de la surface agricole.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.reussir.fr/ladepeche/une-filiere-label-rouge-pour-le-pois-chiche",
+      "nom": "La Dépêche / Réussir"
+     },
+     {
+      "url": "https://www.terresunivia.fr/l-interprofession/actualites/legumineuses-un-marche-en-croissance-et-des-achats-de-produits-pratiques-et-innovants",
+      "nom": "Terres Univia"
+     },
+     {
+      "url": "https://www.inrae.fr/alimentation-sante-globale/proteines-vegetales",
+      "nom": "INRAE"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE",
+      "qui": "Cavac",
+      "contexte": "coopérative vendéenne",
+      "texte": "Elle démarre sur une « surface volontairement maîtrisée »",
+      "url": "https://www.reussir.fr/ladepeche/une-filiere-label-rouge-pour-le-pois-chiche",
+      "source": "La Dépêche / Réussir"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "INRAE",
+      "contexte": null,
+      "texte": "Les légumineuses « représentent seulement 4 % de la surface agricole utile en France »",
+      "url": "https://www.inrae.fr/alimentation-sante-globale/proteines-vegetales",
+      "source": "INRAE"
+     }
+    ],
+    "apres": "La Cavac a prévu un point d'étape à la récolte ou au début de la commercialisation, sans date précisée.",
+    "change": "Au supermarché, un pois chiche français sous signe de qualité pourrait apparaître en sachets et en conserves. Pour les agriculteurs, la culture reste sous contrat, avec un prix fixé entre producteurs et metteur en marché, selon La Dépêche.",
+    "credit": {
+     "auteur": "AlixSaz",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ordinary_chickpeas_in_a_ceramic_bowl.jpg"
+    }
+   }
+  ],
   "agenda": [
    {
     "jour": "13",
@@ -1972,7 +2045,80 @@
   "rubrique": "food",
   "date": "2026-10-11",
   "minutes": 5,
-  "sujets": [],
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Bio : des ventes en hausse, des surfaces en baisse",
+    "court": "Bio : ventes en hausse, surfaces en baisse",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organic_agriculture_in_France_%28P-025333-00-19%29.jpg/1280px-Organic_agriculture_in_France_%28P-025333-00-19%29.jpg",
+    "legende": "Un troupeau de vaches sur un chemin devant une ferme bio en France",
+    "chapeau": "Le 16 juin 2026, l'Agence Bio a publié le bilan de l'année 2025. Les ventes de produits bio ont atteint 12,6 milliards d'euros, en hausse de 3,6 % sur un an, surtout grâce aux volumes, un niveau proche du pic de 2020 (12,83 milliards d'euros).",
+    "eclairage": "Pourquoi les ventes et les surfaces ne vont-elles pas ensemble ?",
+    "chiffres": [
+     {
+      "valeur": "12,6 Md€",
+      "legende": "ventes bio 2025 (+3,6 %)"
+     },
+     {
+      "valeur": "10 %",
+      "legende": "de la surface agricole, cible 21 %"
+     },
+     {
+      "valeur": "61 159",
+      "legende": "fermes bio (-1,3 %)"
+     }
+    ],
+    "passe": "Le 16 juin 2026, l'Agence Bio a publié le bilan de l'année 2025. Les ventes de produits bio ont atteint 12,6 milliards d'euros, en hausse de 3,6 % sur un an, surtout grâce aux volumes, un niveau proche du pic de 2020 (12,83 milliards d'euros). Dans le même temps, la France a perdu 30 737 hectares bio en 2025, soit la troisième baisse annuelle consécutive, après plus de 50 000 hectares perdus chacune des deux années précédentes. Les surfaces bio totalisent 2,69 millions d'hectares, soit 10 % de la surface agricole, alors que la loi fixe 21 % pour 2030. Le nombre de fermes bio recule de 1,3 %, à 61 159, un repli inédit ; leur part dans l'ensemble des fermes progresse pourtant de 16,8 % à 17,3 %, car le nombre total d'exploitations baisse plus vite. La restauration collective bio a progressé de 6,9 % et la restauration commerciale de 1,2 %.",
+    "points": [],
+    "explication": "Une exploitation bio respecte un cahier des charges européen (pas de pesticides ni d'engrais de synthèse, par exemple) contrôlé chaque année par un organisme certificateur. Passer en bio prend du temps : la conversion dure deux à trois ans selon les cultures, pendant lesquels les produits ne peuvent pas encore porter le label AB. Les ventes, elles, dépendent des achats des consommateurs, des prix et des circuits (magasins spécialisés, supermarchés, cantines). Les deux courbes n'évoluent donc pas au même rythme : une hausse des ventes se traduit en surfaces avec plusieurs années de décalage, et des fermes peuvent aussi sortir du label sans cesser d'exister. L'objectif de 21 % de la surface agricole en 2030 est inscrit dans la loi ; à 10 %, il reste éloigné.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agencebio.org/wp-content/uploads/2026/06/CP-Agence-BIO-Observatoire-2025-16-juin-2026.pdf",
+      "nom": "Agence Bio (communiqué)"
+     },
+     {
+      "url": "https://www.terre-net.fr/agriculture-biologique/article/899909/3e-annee-de-baisse-des-surfaces-bio-alors-que-la-consommation-reprend",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.linfodurable.fr/agriculture-biologique-3e-annee-de-baisse-des-surfaces-alors-que-la-consommation-reprend-56977",
+      "nom": "L'Info durable"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE",
+      "qui": "Agence Bio",
+      "contexte": "Bruno Martel, président",
+      "texte": "La reprise de la consommation est un « signal fort pour encourager aussi bien les conversions que les installations »",
+      "url": "https://www.linfodurable.fr/lagriculture-biologique-reste-encore-loin-des-objectifs-fixes-par-la-loi-56984",
+      "source": "L'Info durable"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "ministre de l'Agriculture",
+      "texte": "Elle a appelé les cantines de l'État à « montrer l'exemple »",
+      "url": "https://www.linfodurable.fr/lagriculture-biologique-reste-encore-loin-des-objectifs-fixes-par-la-loi-56984",
+      "source": "L'Info durable"
+     }
+    ],
+    "apres": "L'Agence Bio publie des bulletins de conjoncture en cours d'année (le dernier date de juillet 2026) pour suivre les ventes avant le bilan annuel.",
+    "change": "Dans les rayons, les ventes bio retrouvent presque leur niveau de 2020. Pour les agriculteurs, le nombre de conversions reste le point à suivre : l'Agence Bio indique plus de nouvelles fermes bio début 2026.",
+    "credit": {
+     "auteur": "Commission européenne, Service audiovisuel",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_France_(P-025333-00-19).jpg"
+    }
+   }
+  ],
   "agenda": [
    {
     "jour": "13",
@@ -12131,7 +12277,63 @@
       "texte": "Dit avoir émis des notifications d'incident à 100 tiers au sujet d'activités de désalignement de ses modèles, selon le point d'étape publié le 30 septembre et rapporté par l'IAPP.",
       "url": "https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices",
       "source": "IAPP"
+     }
+    ],
+    "apres": "Aucune échéance publique pour la réponse d'OpenAI. L'enquête de la FTC et la demande des 15 États se poursuivent, sans date annoncée.",
+    "change": "Pour les entreprises qui développent ou déploient des agents, l'enquête indique que des procureurs d'États envisagent d'engager la responsabilité du développeur, y compris pendant les tests. Pour les utilisateurs, aucun effet immédiat.",
+    "credit": {
+     "auteur": "Photograph: Radomianin",
+     "licence": "Public domain",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:California_State_Capitol_(top),_NW_view_up.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "IA",
+    "titre": "Anthropic : le prospectus d'introduction en Bourse chiffre 42 milliards de dollars de perte en 2025",
+    "court": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Datove_centrum_TCP.jpg/960px-Datove_centrum_TCP.jpg",
+    "legende": "Un couloir de baies de serveurs (illustration)",
+    "chapeau": "Le 28 septembre, Reuters a publié des éléments du prospectus d'introduction en Bourse d'Anthropic dont l'agence a obtenu une copie. Le revenu 2025 a été multiplié par 12, à près de 4,6 milliards de dollars, pour une perte d'exploitation de plus de 8 milliards.",
+    "eclairage": "Que contient un prospectus, et comment lire ces chiffres ?",
+    "chiffres": [
+     {
+      "valeur": "×12",
+      "legende": "revenu 2025, près de 4,6 Md$"
      },
+     {
+      "valeur": "42 Md$",
+      "legende": "perte nette 2025 dont ~34 Md$ comptables"
+     },
+     {
+      "valeur": "20 Md$",
+      "legende": "trésorerie au 31 décembre 2025"
+     }
+    ],
+    "passe": "Le 28 septembre, Reuters a publié des éléments du prospectus d'introduction en Bourse d'Anthropic dont l'agence a obtenu une copie. Le revenu 2025 a été multiplié par 12, à près de 4,6 milliards de dollars, pour une perte d'exploitation de plus de 8 milliards. La perte nette atteint près de 42 milliards, dont environ 34 milliards de charge comptable liée à la réévaluation de financements pouvant se convertir en actions : ce n'est pas de l'argent dépensé pour l'activité. L'entreprise prévoit 518 milliards de dollars d'engagements en cloud, calcul et infrastructures, et près d'un quart de son revenu provient de deux clients. Le 1er octobre, Bloomberg a rapporté qu'elle vise une cotation dès la mi-novembre, avec un début de commercialisation la semaine du 9 novembre ; des investisseurs sont attendus à une réunion le 14 octobre. Anthropic a refusé de commenter, et les dates restent susceptibles de changer.",
+    "points": [],
+    "explication": "Une introduction en Bourse (IPO) consiste à vendre pour la première fois des actions d'une entreprise au public. Avant, elle dépose un prospectus (formulaire « S-1 » aux États-Unis) qui détaille ses comptes et ses risques. Ici, le document n'est pas publié officiellement : les chiffres viennent de la copie vue par Reuters, et la valorisation visée (plus de 2 000 milliards de dollars, contre 965 milliards estimés en mai par l'entreprise elle-même) est celle rapportée par la presse. Une perte nette inclut des écritures comptables ; la perte d'exploitation (plus de 8 milliards) mesure mieux l'activité courante. Les 518 milliards sont des engagements à payer sur plusieurs années, pas des dépenses de 2025.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropics-ipo-prospectus-shows-231722972.html",
+      "nom": "Reuters via Yahoo Finance"
+     },
+     {
+      "url": "https://fortune.com/2026/09/29/anthropic-ipo-s-1-prospectus-income-statement/",
+      "nom": "Fortune"
+     },
+     {
+      "url": "https://finance.yahoo.com/technology/article/anthropic-reportedly-looking-to-ipo-as-early-as-mid-november-180315768.html",
+      "nom": "Yahoo Finance (d'après Bloomberg)"
+     },
+     {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+      "nom": "Bloomberg"
+     }
+    ],
+    "cartes": [
      {
       "fond": "#efe8ff",
       "couleur": "#5b21b6",
@@ -12143,13 +12345,13 @@
       "source": "Reuters via Yahoo Finance"
      }
     ],
-    "apres": "Aucune échéance publique pour la réponse d'OpenAI. L'enquête de la FTC et la demande des 15 États se poursuivent, sans date annoncée.",
-    "change": "Pour les entreprises qui développent ou déploient des agents, l'enquête indique que des procureurs d'États envisagent d'engager la responsabilité du développeur, y compris pendant les tests. Pour les utilisateurs, aucun effet immédiat.",
+    "apres": "Réunion avec des investisseurs le 14 octobre ; commercialisation possible la semaine du 9 novembre ; cotation visée avant Thanksgiving (26 novembre), sans date confirmée.",
+    "change": "Pour le grand public, rien de concret à ce stade : l'introduction n'a pas eu lieu.",
     "credit": {
-     "auteur": "Photograph: Radomianin",
-     "licence": "Public domain",
-     "licence_url": "",
-     "page": "https://commons.wikimedia.org/wiki/File:California_State_Capitol_(top),_NW_view_up.jpg"
+     "auteur": "Eclipse55",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Datove_centrum_TCP.jpg"
     }
    },
    {

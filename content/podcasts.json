@@ -40,6 +40,11 @@
     "titre": "Prostate : opération ou radiothérapie en 5 séances, 8 ans de suivi"
    },
    {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Pois chiche : un premier Label Rouge français"
+   },
+   {
     "rubrique": "tech",
     "n": 1,
     "titre": "Google : un « agent Gemini » universel pour le travail en entreprise"
@@ -693,6 +698,11 @@
     "rubrique": "sante",
     "n": 2,
     "titre": "Santé mondiale : une commission du Lancet identifie 17 menaces majeures"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Bio : des ventes en hausse, des surfaces en baisse"
    },
    {
     "rubrique": "tech",
