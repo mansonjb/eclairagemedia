@@ -32,8 +32,9 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
   return (
     <article className="carte flex w-full flex-col p-3">
       {s.image ? (
-      <div className="relative">
-        <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9]" /></Link>
+      // Sur grand écran, la photo prend la hauteur restante : la carte s'aligne sur la colonne de droite sans vide en bas
+      <div className="relative lg:min-h-[280px] lg:flex-1">
+        <Link href={lien}><img src={s.image ?? ""} alt={s.legende ?? ""} className="ph aspect-[16/9] sm:aspect-[21/9] lg:absolute lg:inset-0 lg:aspect-auto lg:h-full" /></Link>
         <span className="absolute left-4 top-4 rounded-full bg-white px-3.5 py-2 text-[12px] font-extrabold tracking-[0.02em]">SUJET {k + 1} · {s.theme}</span>
         <Credit s={s} className="absolute bottom-4 right-4 hidden max-w-[40%] truncate sm:block" />
         {s.chiffres[0] && (
@@ -77,7 +78,7 @@ function Principal({ e, s, k }: { e: Edition; s: Sujet; k: number }) {
 }
 
 export default function Journee({ date }: { date: string }) {
-  const eds = parDate(date);
+  const eds = parDate(date).filter((e) => e.sujets.length); // jamais de ligne vide dans « En 30 secondes »
   // Les trois sujets principaux (étapes 1/2/3 du haut de page), puis les autres
   const unes = unesDuJour(date);
   const lead = unes[0]?.e;
