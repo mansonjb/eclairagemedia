@@ -1,5 +1,655 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-12",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "FMI à Bangkok : taux en hausse, dettes sous tension",
+    "court": "FMI : taux, dettes et IA au menu à Bangkok",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/1280px-IMF_building_HR.jpg",
+    "legende": "Le siège du Fonds monétaire international à Washington (illustration)",
+    "chapeau": "Lundi 12 octobre s'ouvrent à Bangkok les assemblées annuelles du FMI et de la Banque mondiale, qui réunissent des ministres des Finances et des banquiers centraux jusqu'à samedi. Le FMI doit publier mardi ses prévisions actualisées.",
+    "eclairage": "Pourquoi les taux d'emprunt des États comptent",
+    "chiffres": [
+     {
+      "valeur": "100 $",
+      "legende": "le baril de Brent, environ"
+     },
+     {
+      "valeur": "5",
+      "legende": "grandes zones qui ont relevé leurs taux"
+     }
+    ],
+    "passe": "Lundi 12 octobre s'ouvrent à Bangkok les assemblées annuelles du FMI et de la Banque mondiale, qui réunissent des ministres des Finances et des banquiers centraux jusqu'à samedi. Le FMI doit publier mardi ses prévisions actualisées. Selon l'AFP, la guerre au Moyen-Orient maintient le baril de pétrole autour de 100 dollars. Les États-Unis, le Japon, la zone euro, l'Inde et l'Australie ont relevé leurs taux directeurs, et les rendements des obligations d'État américaines, japonaises et européennes montent : le taux à 10 ans de la France approche 5 %. Kristalina Georgieva, directrice générale du FMI, décrit une économie mondiale tiraillée entre un choc négatif sur l'énergie et un choc positif de demande lié à l'intelligence artificielle. Kevin Warsh, à la tête de la Réserve fédérale, et Christine Lagarde, à la tête de la BCE, doivent s'exprimer pendant la réunion.",
+    "points": [
+     "Le taux directeur est le prix auquel la banque centrale prête aux banques. Il guide le coût du crédit pour les entreprises et les ménages : quand il monte, emprunter coûte plus cher et l'activité ralentit.",
+     "Un État emprunte en vendant des obligations. Le taux à 10 ans est ce qu'il paie pour emprunter sur dix ans. À 5 %, 100 milliards d'euros empruntés coûtent 5 milliards d'euros d'intérêts par an.",
+     "Le lien avec le pétrole : un baril cher fait monter les prix, les banques centrales relèvent leurs taux pour freiner l'inflation, et les dettes publiques coûtent plus cher. C'est l'engrenage dont parlent les participants à Bangkok."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/inflation-dettes-ia-le-fmi-et-les-grands-argentiers-du-monde-se-reunissent-a-bangkok-59bed6072a630001c0abb1d6f885b928",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://lesinguliersete.fr/petrole-cher-dettes-sous-tension-et-boom-de-lia-le-trio-qui-bouscule-leconomie-mondiale/",
+      "nom": "Le Singulier (AFP)"
+     },
+     {
+      "url": "https://www.titrespresse.com/24798992603/fmi-bangkok-afp",
+      "nom": "Titres de presse (AFP)"
+     },
+     {
+      "url": "https://algerie-eco.com/2026/10/11/fmi-banque-mondiale-les-reunions-annuelles-souvrent-lundi-a-bangkok-dans-un-contexte-de-fortes-mutations-geopolitiques/",
+      "nom": "Algérie Éco"
+     },
+     {
+      "url": "https://lepetitjournal.com/thailande/actualites/bangkok-accueille-assemblees-fmi-banque-mondiale-12-18-octobre-2026-455515",
+      "nom": "Le Petit Journal"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Kristalina Georgieva",
+      "contexte": "directrice générale du FMI",
+      "texte": "« L'IA s'impose rapidement comme un moteur essentiel dictant les trajectoires de prospérité des pays ». Sur les hausses de taux : « Un resserrement trop brutal peut casser l'activité ».",
+      "url": "https://lesinguliersete.fr/petrole-cher-dettes-sous-tension-et-boom-de-lia-le-trio-qui-bouscule-leconomie-mondiale/",
+      "source": "Le Singulier (AFP)"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Ana Boata",
+      "contexte": "Allianz Trade",
+      "texte": "La zone euro serait « plus exposée » si la crise énergétique se prolonge, en raison de ses niveaux de dette plus élevés.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/inflation-dettes-ia-le-fmi-et-les-grands-argentiers-du-monde-se-reunissent-a-bangkok-59bed6072a630001c0abb1d6f885b928",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Alexander De Croo",
+      "contexte": "PNUD",
+      "texte": "La hausse des prix de l'énergie et de l'alimentation ne laisse « aucune marge de sécurité à des millions de familles ».",
+      "url": "https://lesinguliersete.fr/petrole-cher-dettes-sous-tension-et-boom-de-lia-le-trio-qui-bouscule-leconomie-mondiale/",
+      "source": "Le Singulier (AFP)"
+     }
+    ],
+    "apres": "Prévisions actualisées du FMI mardi 13 octobre, réunion des ministres des Finances du G20 pendant la semaine, assemblées jusqu'à samedi.",
+    "change": "Pour les entreprises et les ménages, des taux plus hauts renchérissent les crédits et le refinancement des dettes. Pour l'État français, des rendements proches de 5 % alourdissent le coût des emprunts futurs.",
+    "credit": {
+     "auteur": "Fonds monétaire international",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "FINANCES PUBLIQUES",
+    "titre": "Budget 2027 : Lescure veut éviter les ordonnances et tenir 5 % de déficit",
+    "court": "Budget 2027 : Lescure et les ordonnances",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Palais_Bourbon_-_National_Assembly_of_France_%283752000652%29.jpg/1280px-Palais_Bourbon_-_National_Assembly_of_France_%283752000652%29.jpg",
+    "legende": "La façade de l'Assemblée nationale, au Palais Bourbon",
+    "chapeau": "Dimanche 11 octobre, sur France Inter et France 2, le ministre de l'Économie Roland Lescure a déclaré qu'« Je préférerais éviter les ordonnances » pour faire adopter le budget 2027.",
+    "eclairage": "Trois façons d'adopter un budget",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé par le gouvernement"
+     },
+     {
+      "valeur": "31-3",
+      "legende": "vote en commission (2 abstentions)"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "surcoût estimé par P. Juvin"
+     }
+    ],
+    "passe": "Dimanche 11 octobre, sur France Inter et France 2, le ministre de l'Économie Roland Lescure a déclaré qu'« Je préférerais éviter les ordonnances » pour faire adopter le budget 2027. Il distingue trois voies : le vote, qu'il appelle « la voie naturelle », le 49-3 et les ordonnances, qu'il décrit comme « la glissière de sécurité de l'autoroute budgétaire ». Selon l'AFP, ces ordonnances seraient une première sous la Ve République. Il se dit attaché à un déficit de 5 % du PIB : « je ne dépasserai pas les 5 % », tout en se disant ouvert à une amélioration par le Parlement. Vendredi 9 octobre, la commission des finances de l'Assemblée a rejeté la partie recettes du projet de loi de finances, par 31 voix contre 3 et 2 abstentions. Selon le rapporteur général Philippe Juvin, les amendements de la semaine creuseraient le déficit d'environ 10 milliards d'euros, à 5,35-5,4 % du PIB ; Roland Lescure, lui, parle de plus de 8 milliards d'euros au-dessus de la cible. Les députés ont aussi supprimé la baisse de l'abattement fiscal des retraités, sur laquelle le gouvernement comptait pour 1,4 milliard d'euros d'économies. Le texte arrive mardi 13 octobre dans l'hémicycle, dans la version initiale du gouvernement.",
+    "points": [
+     "Le vote. Une majorité de députés approuve le texte. Sans majorité absolue, le gouvernement doit négocier mesure par mesure.",
+     "Le 49-3. Le gouvernement engage sa responsabilité : le texte est adopté sans vote, sauf si une motion de censure réunit une majorité. Selon l'AFP, cela supposerait que le PS ou le RN s'abstienne de censurer.",
+     "Les ordonnances. Le gouvernement met lui-même le budget en vigueur, sans vote final du Parlement, ce que la Constitution permet si le Parlement n'a pas statué dans les délais.",
+     "Le déficit est l'écart entre les dépenses de l'État et ses recettes. Chaque année de déficit s'ajoute à la dette."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/budget-lescure-prefererait-eviter-le-recours-aux-ordonnances-glissiere-de-securite-6d44de8141f404827ec351bd89b21b98",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/je-prefererais-eviter-les-ordonnances-pour-faire-adopter-le-budget-2025-afin-de-favoriser-le-debat-parlementaire-assure-roland-lescure_8232691.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://echosplus.com/2026/10/11/budget-2027-roland-lescure-veut-eviter-les-ordonnances-mais-fixe-une-limite-de-5-de-deficit/",
+      "nom": "Echos Plus"
+     },
+     {
+      "url": "https://www.moneyvox.fr/actu/110738/budget-lescure-prefererait-eviter-le-recours-aux-ordonnances-glissiere-de-securite",
+      "nom": "MoneyVox"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie",
+      "texte": "Il se dit attaché à un budget avec 5 % de déficit et accepte des changements tant que le déficit reste à 5 % ou moins.",
+      "url": "https://www.franceinfo.fr/economie/budget/je-prefererais-eviter-les-ordonnances-pour-faire-adopter-le-budget-2025-afin-de-favoriser-le-debat-parlementaire-assure-roland-lescure_8232691.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "MAJORITÉ",
+      "qui": "Paul Midy",
+      "contexte": "député Ensemble pour la République",
+      "texte": "Son groupe, le seul à avoir voté la partie recettes en commission : « mieux un mauvais budget que pas de budget ».",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Éric Coquerel",
+      "contexte": "député LFI",
+      "texte": "Il dénonce une « aggravation » du texte.",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Examen de la partie recettes dans l'hémicycle à partir de mardi 13 octobre, dans la version initiale du gouvernement.",
+    "change": "Faute de majorité à l'Assemblée, l'issue dépend de la voie choisie : un vote négocié, un 49-3 qui suppose l'abstention d'un groupe d'opposition, ou des ordonnances.",
+    "credit": {
+     "auteur": "Elliott Brown",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Palais_Bourbon_-_National_Assembly_of_France_(3752000652).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ÉNERGIE",
+    "titre": "Énergie : Trump annonce une trêve Russie-Ukraine, Kiev attend Moscou",
+    "court": "Trêve énergétique : annoncée, pas confirmée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Power_plant_Burshtyn_TES%2C_Ukraine-6057a.jpg/1280px-Power_plant_Burshtyn_TES%2C_Ukraine-6057a.jpg",
+    "legende": "Centrale thermique de Bourchtyn, Ukraine (illustration)",
+    "chapeau": "Dimanche 11 octobre, Donald Trump a annoncé sur Truth Social : « Avec effet immédiat, il y a un CESSEZ-LE-FEU ÉNERGÉTIQUE dans la guerre entre la Russie et l'Ukraine. » Il affirme que les deux parties ont donné leur accord, sans préciser les conditions.",
+    "eclairage": "Pourquoi frapper l'énergie ?",
+    "chiffres": [
+     {
+      "valeur": "11/10",
+      "legende": "annonce de Trump sur Truth Social"
+     },
+     {
+      "valeur": "1/10",
+      "legende": "Poutine avait rejeté cette trêve"
+     }
+    ],
+    "passe": "Dimanche 11 octobre, Donald Trump a annoncé sur Truth Social : « Avec effet immédiat, il y a un CESSEZ-LE-FEU ÉNERGÉTIQUE dans la guerre entre la Russie et l'Ukraine. » Il affirme que les deux parties ont donné leur accord, sans préciser les conditions. Selon Reuters, ni Kiev ni Moscou ne l'ont confirmé dans l'immédiat. Volodymyr Zelensky a dit ne pas être informé de l'accord mais en accepter le principe si la Russie en fait autant ; il a ensuite dénoncé des frappes russes sur une centrale électrique de Kiev et sur des installations énergétiques de la région de Kharkiv. Vladimir Poutine avait rejeté cette trêve le 1er octobre, selon franceinfo. La veille, Donald Trump avait reproché à l'Ukraine ses frappes sur les raffineries russes, qu'il relie à la hausse du prix du diesel aux États-Unis.",
+    "points": [
+     "Une raffinerie transforme le pétrole brut en diesel et en essence. Les frappes ukrainiennes sur les raffineries russes réduisent ce que la Russie peut produire et vendre.",
+     "Les frappes russes sur les centrales électriques ukrainiennes privent les civils d'électricité et de chauffage.",
+     "Aux États-Unis, le prix du diesel a fortement augmenté depuis le début de la guerre avec l'Iran en février, un sujet politique avant les élections de mi-mandat du 3 novembre. La veille de l'annonce, Washington avait annoncé un accord d'achat de diesel russe et un allègement de certaines sanctions."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/trump-annonce-un-cessez-le-feu-dans-l-energie-entre-la-russie-et-l-ukraine-017b3f9c66e426548975780323d9537d",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-assure-que-la-russie-et-l-ukraine-ont-conclu-un-cessez-le-feu-energetique_8232820.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-trump-annonce-un-cessez-le-feu-kiev-dement-29382545.html",
+      "nom": "RTS"
+     },
+     {
+      "url": "https://ici.radio-canada.ca/nouvelle/2292260/cessez-feu-energetiques-kiev-moscou-trump-truth-social",
+      "nom": "Radio-Canada"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Donald Trump",
+      "contexte": "président des États-Unis",
+      "texte": "Il écrit que les deux parties ont donné leur accord et leur demande de ne pas rompre la trêve. Il a aussi estimé que l'Ukraine devrait changer de président.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/trump-annonce-un-cessez-le-feu-dans-l-energie-entre-la-russie-et-l-ukraine-017b3f9c66e426548975780323d9537d",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Volodymyr Zelensky",
+      "contexte": "président de l'Ukraine",
+      "texte": "L'annonce « était une nouvelle pour moi ». Tout accord exige des « garanties réelles » ; il suspendrait ses frappes sur les raffineries russes si Moscou cessait de viser l'énergie ukrainienne.",
+      "url": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-trump-annonce-un-cessez-le-feu-kiev-dement-29382545.html",
+      "source": "RTS"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "Il soutient « une vraie trêve énergétique » et affirme que la Russie la refuse en intensifiant ses frappes sur les infrastructures ukrainiennes.",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-assure-que-la-russie-et-l-ukraine-ont-conclu-un-cessez-le-feu-energetique_8232820.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Zelensky demande la date d'entrée en vigueur ; les précédentes trêves ont été de courte durée : trois jours début septembre, une trêve de Pâques en avril vite violée.",
+    "change": "Un arrêt réel des frappes sur les raffineries et les centrales toucherait l'offre de diesel russe, l'électricité ukrainienne et, selon Donald Trump, le prix à la pompe aux États-Unis.",
+    "credit": {
+     "auteur": "Raimond Spekking",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Power_plant_Burshtyn_TES,_Ukraine-6057a.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "MONDE",
+    "titre": "Ormuz : l'Iran juge insuffisante la réponse des États-Unis",
+    "court": "Ormuz : réponse US jugée insuffisante",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/US_Navy_051111-N-8163B-032_An_oil_tanker_docked_to_the_Al_Basrah_Oil_Terminal_%28ABOT%29_takes_on_crude_oil_in_the_Persian_Gulf.jpg/1280px-US_Navy_051111-N-8163B-032_An_oil_tanker_docked_to_the_Al_Basrah_Oil_Terminal_%28ABOT%29_takes_on_crude_oil_in_the_Persian_Gulf.jpg",
+    "legende": "Pétrolier chargeant du brut au terminal de Bassorah, golfe Persique (illustration)",
+    "chapeau": "Dimanche 11 octobre, Mohsen Rezaei, secrétaire du Conseil suprême de sécurité nationale iranien, a jugé « insuffisante » la réponse de Washington à la proposition de Téhéran de rouvrir le détroit d'Ormuz, selon les médias d'État iraniens relayés par Reuters.",
+    "eclairage": "Pourquoi un détroit fait varier le prix du carburant",
+    "chiffres": [
+     {
+      "valeur": "1/5",
+      "legende": "du pétrole et du GNL mondiaux avant la guerre"
+     },
+     {
+      "valeur": "7",
+      "legende": "conditions posées par Téhéran"
+     },
+     {
+      "valeur": "12-13",
+      "legende": "morts à l'aéroport de Riyad (samedi)"
+     }
+    ],
+    "passe": "Dimanche 11 octobre, Mohsen Rezaei, secrétaire du Conseil suprême de sécurité nationale iranien, a jugé « insuffisante » la réponse de Washington à la proposition de Téhéran de rouvrir le détroit d'Ormuz, selon les médias d'État iraniens relayés par Reuters. Cette proposition prévoit de rétablir la circulation maritime sous sept jours si les sept conditions de l'Iran sont remplies. Rezaei affirme : « Ils ont accepté certaines de nos conditions, tandis que d'autres restent floues ». Washington a répondu par l'intermédiaire du Qatar ; la Maison-Blanche n'a pas commenté dans l'immédiat. Avant la guerre, déclenchée fin février, le détroit assurait environ un cinquième du pétrole et du gaz naturel liquéfié mondiaux. Samedi 10 octobre, une frappe des Houthis du Yémen sur l'aéroport de Riyad a fait 12 à 13 morts selon les bilans successifs et 309 blessés ; les vols y sont suspendus. Les Houthis ont aussi revendiqué des tirs sur deux sites du groupe pétrolier saoudien Aramco, une installation gazière et une raffinerie, ce que les sources consultées ne confirment pas de façon indépendante.",
+    "points": [
+     "Un détroit est un passage étroit entre deux mers. Celui d'Ormuz, entre l'Iran et Oman, voit passer environ un cinquième du pétrole et du gaz naturel liquéfié (GNL) mondiaux avant la guerre : peu d'autres routes existent pour ces cargaisons.",
+     "Quand ce passage se ferme ou devient risqué, l'offre disponible baisse, et les acheteurs paient plus cher le baril. Selon l'AFP, le Brent est autour de 100 dollars.",
+     "Aramco est la compagnie pétrolière publique saoudienne ; ses raffineries et ses installations gazières comptent dans l'offre mondiale."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/l-iran-dit-que-la-reponse-des-usa-a-sa-proposition-de-rouvrir-ormuz-etait-insuffisante-2233d5b6fba55032b61d70b50c6d6969",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.newarab.com/news/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient",
+      "nom": "The New Arab"
+     },
+     {
+      "url": "https://www.france24.com/fr/moyen-orient/20261011-moyen-orient-en-direct-l-attaque-de-l-a%C3%A9roport-de-riyad-n-est-pas-acceptable-affirme-trump",
+      "nom": "France 24"
+     },
+     {
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/les-houthis-revendiquent-plusieurs-frappes-contre-l-aeroport-de-ryad-467cf2fe1f4fe9fcbdac0a44c3ffee39",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.blick.ch/fr/monde/arabie-saoudite-les-houthis-revendiquent-des-frappes-a-riyad/j3sjyf2",
+      "nom": "Blick"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Mohsen Rezaei",
+      "contexte": "Conseil suprême de sécurité nationale, Iran",
+      "texte": "La réponse américaine est « insuffisante ». L'Iran n'est plus dans un processus de réponse aux Américains et Washington doit clarifier les points restés flous.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/l-iran-dit-que-la-reponse-des-usa-a-sa-proposition-de-rouvrir-ormuz-etait-insuffisante-2233d5b6fba55032b61d70b50c6d6969",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COALITION",
+      "qui": "Coalition dirigée par l'Arabie saoudite",
+      "contexte": null,
+      "texte": "Elle qualifie l'attaque de samedi de « un crime de guerre » et promet de répondre.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/les-houthis-revendiquent-plusieurs-frappes-contre-l-aeroport-de-ryad-467cf2fe1f4fe9fcbdac0a44c3ffee39",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ONU",
+      "qui": "Hans Grundberg",
+      "contexte": "émissaire de l'ONU pour le Yémen",
+      "texte": "Il évoque une « grave escalade » et accuse les Houthis.",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "L'Iran demande des clarifications à Washington ; l'aéroport de Riyad reste fermé, selon l'AFP, au moins jusqu'à lundi 21h GMT.",
+    "change": "Tant que le détroit reste fermé, l'offre de pétrole et de gaz acheminée par cette route reste réduite ; les frappes sur les aéroports saoudiens s'ajoutent à l'incertitude sur la région.",
+    "credit": {
+     "auteur": "Eben Boothby, US Navy",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_051111-N-8163B-032_An_oil_tanker_docked_to_the_Al_Basrah_Oil_Terminal_(ABOT)_takes_on_crude_oil_in_the_Persian_Gulf.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "LVMH publie son chiffre d'affaires du troisième trimestre ; Prix Nobel d'économie annoncé à partir de 11h45 à Stockholm."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Budget 2027 dans l'hémicycle de l'Assemblée, prévisions du FMI à Bangkok ; résultats de Publicis, BP, Rio Tinto, JPMorgan, Goldman Sachs, Citigroup."
+   },
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Résultats d'ASML, Bank of America, Morgan Stanley ; Sénat brésilien sur la semaine de 40 heures."
+   },
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Résultats de Pernod Ricard et d'Aéroports de Paris ; inflation de septembre : résultats définitifs de l'Insee, à 8h45."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Résultats de Schneider Electric."
+   },
+   {
+    "jour": "21",
+    "mois": "OCT.",
+    "texte": "OPmobility : chiffre d'affaires du troisième trimestre."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Taux directeur",
+    "definition": "Le taux auquel la banque centrale prête aux banques. Il sert de référence au coût du crédit dans toute l'économie."
+   },
+   {
+    "terme": "Taux à 10 ans",
+    "definition": "Le taux auquel un État emprunte sur dix ans, en vendant des obligations. Plus il monte, plus la dette coûte cher."
+   },
+   {
+    "terme": "Ordonnance budgétaire",
+    "definition": "Un texte par lequel le gouvernement met le budget en vigueur lui-même, sans vote final du Parlement."
+   },
+   {
+    "terme": "Brent",
+    "definition": "Le baril de pétrole de référence en Europe. Son prix sert de repère pour de nombreux contrats."
+   }
+  ],
+  "quiz": {
+   "affirmation": "La commission des finances de l'Assemblée a adopté vendredi la partie « recettes » du budget 2027.",
+   "reponse": false,
+   "explication": "Faux : elle l'a rejetée par 31 voix contre 3 et 2 abstentions, et le texte revient mardi dans l'hémicycle dans la version initiale du gouvernement."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-12",
+  "minutes": 5,
+  "sujets": [],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Med'Agri et Tech&Bio Cultures méditerranéennes à Avignon, rendez-vous consacré aux cultures méditerranéennes."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Journée mondiale de l'alimentation, cérémonie à Rome au siège de la FAO."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Label Rouge",
+    "definition": "Un signe officiel français de qualité supérieure, fondé sur un cahier des charges contrôlé. Il est distinct du label bio AB."
+   },
+   {
+    "terme": "Légumineuse",
+    "definition": "Une plante comme le pois chiche, la lentille, la fève ou le soja, qui fixe l'azote de l'air dans le sol."
+   },
+   {
+    "terme": "Appertisé",
+    "definition": "Se dit d'un aliment cuit puis stérilisé dans un contenant fermé, comme une conserve ou un bocal."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En France, les légumineuses (lentilles, pois chiche, fèves et soja) couvrent plus de 15 % de la surface agricole utile.",
+   "reponse": false,
+   "explication": "Selon l'INRAE, elles représentent seulement 4 % de la surface agricole utile ; la stratégie nationale en protéines végétales vise 8 %, soit 2 millions d'hectares."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-12",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : réouverture ce lundi, un drone autorisé jusqu'à mercredi",
+    "court": "Lycées : réouverture, drone jusqu'à mercredi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_07.jpg/1280px-Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_07.jpg",
+    "legende": "Manifestation lycéenne à Paris, 6 octobre 2026 (illustration)",
+    "chapeau": "Les lycées et l'université de l'agglomération rochelaise rouvrent ce lundi 12 octobre, après une fermeture des lycées depuis le jeudi 8 octobre. Le rectorat de Poitiers a annoncé la réouverture vendredi soir.",
+    "eclairage": null,
+    "chiffres": [
+     {
+      "valeur": "3 jours",
+      "legende": "du 8 au 12 oct. sans lycée ouvert"
+     },
+     {
+      "valeur": "3 jours",
+      "legende": "arrêté drone lundi à mercredi"
+     },
+     {
+      "valeur": "17 oct.",
+      "legende": "mobilisation nationale attendue"
+     }
+    ],
+    "passe": "Les lycées et l'université de l'agglomération rochelaise rouvrent ce lundi 12 octobre, après une fermeture des lycées depuis le jeudi 8 octobre. Le rectorat de Poitiers a annoncé la réouverture vendredi soir. L'université, dont les cours se tenaient à distance depuis le vendredi 2 octobre, rouvre aussi. Le recteur, Nicolas Castoldi, a pris la décision avec le préfet, après échanges avec les chefs d'établissement. La préfecture s'attend à de nouveaux blocages : son arrêté autorise un drone du lundi au mercredi sur un secteur allant du lycée Léonce-Vieljeux à la gare. Une journée de grève intersyndicale est prévue mardi 13 octobre. Selon une source policière citée par INF La Rochelle, le mouvement ne devrait pas faiblir avant le samedi 17 octobre, jour d'une mobilisation nationale. Le bilan du parquet de La Rochelle au 1er octobre faisait état de quatre mineurs interpellés.",
+    "points": [],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://inf-info.fr/la-rochelle-luniversite-et-les-lycees-rouvrent-ce-lundi/",
+      "nom": "INF La Rochelle (réouverture)"
+     },
+     {
+      "url": "https://inf-info.fr/blocage-des-lycees-8-personnes-en-garde-a-vue-universite-fermee-rassemblements-interdits-autour-de-deux-lycees-ce-vendredi-le-point-a-la-rochelle/",
+      "nom": "INF La Rochelle (garde à vue, université)"
+     },
+     {
+      "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-la-rochelle/a-la-rochelle-des-mobilisations-lyceennes-marquees-par-des-violences-quitte-a-noyer-les-revendications-5190358",
+      "nom": "ICI La Rochelle (2 oct.)"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/mobilisation-des-lyceens-presence-des-syndicats-d-enseignants-ce-qui-est-prevu-jeudi-en-charente-maritime-et-charente-8496813",
+      "nom": "ICI (7 oct.)"
+     },
+     {
+      "url": "https://www.agglo-larochelle.fr/alertes",
+      "nom": "Agglomération de La Rochelle (collecte près des lycées)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / RECTORAT",
+      "qui": "Nicolas Castoldi",
+      "contexte": "recteur de l'académie de Poitiers",
+      "texte": "Indique, selon INF La Rochelle, que les conditions n'étaient pas réunies pour accueillir sereinement les lycéens lors de la fermeture ; le rectorat annonce la réouverture lundi.",
+      "url": "https://inf-info.fr/la-rochelle-luniversite-et-les-lycees-rouvrent-ce-lundi/",
+      "source": "INF La Rochelle"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Préfecture de Charente-Maritime",
+      "contexte": "arrêté drone",
+      "texte": "Estime que la mobilisation des forces de l'ordre ne suffit pas à prévenir l'ensemble des troubles à l'ordre public et autorise un drone de lundi à mercredi.",
+      "url": "https://inf-info.fr/la-rochelle-luniversite-et-les-lycees-rouvrent-ce-lundi/",
+      "source": "INF La Rochelle"
+     }
+    ],
+    "apres": "Mardi 13 octobre : journée de grève intersyndicale. Samedi 17 octobre : mobilisation nationale annoncée.",
+    "change": "Les cours reprennent pour les lycéens de l'agglomération. Des perturbations restent possibles autour des lycées, du centre-ville et de la gare jusqu'à mercredi.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_07.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Eau potable : l'alerte renforcée s'applique depuis le 18 juillet",
+    "court": "Eau potable : alerte renforcée depuis juillet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Irrigation_sprinkler_at_a_Parisian_lawn.jpg/1280px-Irrigation_sprinkler_at_a_Parisian_lawn.jpg",
+    "legende": "Arrosage d'une pelouse (illustration)",
+    "chapeau": "Le département de Charente-Maritime est en niveau « alerte renforcée » pour l'eau potable depuis le samedi 18 juillet 2026 à 8 h, selon l'arrêté préfectoral n° 26EB498 signé le 16 juillet, qui a suivi une première alerte début juillet (10 ou 11 juillet selon les sources).",
+    "eclairage": "Qu'est-ce qu'une « alerte renforcée » ?",
+    "chiffres": [
+     {
+      "valeur": "18 juil.",
+      "legende": "alerte renforcée en vigueur"
+     },
+     {
+      "valeur": "26EB498",
+      "legende": "numéro de l'arrêté"
+     },
+     {
+      "valeur": "5e cl.",
+      "legende": "contravention en cas de manquement"
+     }
+    ],
+    "passe": "Le département de Charente-Maritime est en niveau « alerte renforcée » pour l'eau potable depuis le samedi 18 juillet 2026 à 8 h, selon l'arrêté préfectoral n° 26EB498 signé le 16 juillet, qui a suivi une première alerte début juillet (10 ou 11 juillet selon les sources). Le préfet, Michel Prosic, a maintenu ce niveau après un comité de suivi réuni le 28 juillet. L'Agglomération de La Rochelle a republié le rappel des règles le 5 octobre : arrosage des pelouses et espaces verts interdit, arrosage des potagers interdit de 8 h à 20 h, lavage des véhicules à domicile interdit, remplissage et vidange des piscines familiales interdits sauf cas encadrés, douches de plage interdites. Les contrôles sont assurés par la gendarmerie, l'Office français de la biodiversité et la police de l'eau ; un manquement peut valoir une contravention de 5e classe. Précision : l'édition du 11 octobre laissait entendre que ces mesures dataient du 5 octobre, qui est la date de la publication du rappel.",
+    "points": [],
+    "explication": "Les niveaux de restriction sont fixés par arrêté préfectoral : vigilance, alerte, alerte renforcée, crise. Plus le niveau monte, plus les usages de l'eau sont limités. Ici, la mesure vise l'eau potable du réseau public, pas seulement l'irrigation agricole. Le préfet décide après avis d'un comité qui examine les niveaux des nappes et des cours d'eau et les prévisions météo ; il peut lever ou maintenir la mesure par un nouvel arrêté. Les sources divergent sur le créneau d'arrosage des potagers (interdit de 8 h à 20 h selon l'Agglomération, autorisé de 20 h à 8 h selon info.fr) : ces deux formulations sont cohérentes.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/alertes",
+      "nom": "Agglomération de La Rochelle"
+     },
+     {
+      "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/ALERTE-RENFORCEE-EN-EAU-POTABLE-MAINTENUE-LA-MOBILISATION-DE-TOUS-DOIT-SE-POURSUIVRE",
+      "nom": "préfecture de Charente-Maritime"
+     },
+     {
+      "url": "https://info.fr/charente-maritime-alerte-renforcee-restrictions-eau-potable/",
+      "nom": "info.fr"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/secheresse-le-prefet-de-charente-maritime-annonce-des-restrictions-de-l-usage-de-l-eau-potable-4589929",
+      "nom": "ICI"
+     }
+    ],
+    "cartes": [],
+    "apres": "La levée ou le maintien dépend d'un nouvel arrêté du préfet ; aucune date de fin n'a été confirmée par les trois sources.",
+    "change": "Pour un habitant de l'agglomération : pas d'arrosage de la pelouse, pas de lavage de voiture à la maison, piscine non remplie, sous peine d'amende.",
+    "credit": {
+     "auteur": "Sergey Ivanov",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Irrigation_sprinkler_at_a_Parisian_lawn.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Grève intersyndicale (INF La Rochelle)."
+   },
+   {
+    "jour": "12",
+    "mois": "OCT.",
+    "texte": "fr)."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "fr)."
+   },
+   {
+    "jour": "17",
+    "mois": "OCT.",
+    "texte": "Mobilisation nationale lycéenne annoncée, selon une source policière (INF La Rochelle)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Alerte renforcée",
+    "definition": "Troisième niveau d'une échelle de restrictions d'eau fixée par le préfet, après la vigilance et l'alerte et avant la crise."
+   },
+   {
+    "terme": "Police de l'eau",
+    "definition": "Service de l'État qui contrôle le respect des règles sur l'eau, avec la gendarmerie et l'Office français de la biodiversité."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En Charente-Maritime, les restrictions d'eau potable de niveau alerte renforcée ont été décidées le 5 octobre 2026.",
+   "reponse": false,
+   "explication": "Le niveau alerte renforcée s'applique depuis le 18 juillet 2026 (arrêté n° 26EB498 du 16 juillet) ; le 5 octobre est la date de publication d'un rappel par l'Agglomération de La Rochelle."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-12",
   "minutes": 13,
@@ -338,6 +988,611 @@
    "affirmation": "Dimanche 11 octobre, Raphaël Glucksmann a dû disputer un second tour pour remporter la primaire de la gauche sociale-démocrate.",
    "reponse": false,
    "explication": "Faux : il l'a emporté dès le premier tour, avec 66,17 % des voix selon les organisateurs relayés par l'AFP. Un second tour était prévu les 16 et 17 octobre, seulement si nécessaire."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-12",
+  "minutes": 15,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TRAITEMENT",
+    "titre": "Cancer du côlon : la FDA approuve l'atézolizumab après l'opération",
+    "court": "Côlon : la FDA approuve l'atézolizumab",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Colon_Adenocarcinoma%2C_Whole-Mount_Scan_%281858505117%29.jpg/1280px-Colon_Adenocarcinoma%2C_Whole-Mount_Scan_%281858505117%29.jpg",
+    "legende": "Coupe d'un adénocarcinome du côlon observée au microscope (illustration)",
+    "chapeau": "Le 8 octobre 2026, selon OncLive et CancerNetwork, l'agence américaine des médicaments (FDA) a approuvé l'atézolizumab (Tecentriq), un traitement d'immunothérapie, associé à une chimiothérapie (fluoropyrimidine et oxaliplatine) en traitement après l'opération du cancer du côlon de stade III avec déficit du système de réparation de l'ADN (dMMR).",
+    "eclairage": "Ce qu'est un déficit de réparation de l'ADN (dMMR). Quand une cellule se divise, elle copie son ADN et corrige les erreurs. Dans certaines tumeurs, ce système de correction est défaillant : c'est le statut dMMR, repéré par un test sur un échantillon de la tumeur. Ces tumeurs sont souvent bien visibles par le système immunitaire. Ce que fait l'atézolizumab. Ce médicament est un anticorps qui bloque la protéine PD-L1, un « frein » que des cellules tumorales utilisent pour échapper aux défenses de l'organisme. « Après l'opération » (traitement dit adjuvant) vise à éliminer les cellules cancéreuses restantes pour éviter une récidive. Ce que l'essai prouve et ne prouve pas. Un essai randomisé, où le hasard décide qui reçoit quoi, est le meilleur moyen de comparer deux traitements. Ici le critère est la survie sans maladie : c'est un indicateur proche de la guérison, mais pas la même chose que la durée de vie, et l'essai n'a pas encore montré de gain sur celle-ci. L'essai est « ouvert » : patients et médecins savaient qui recevait quoi.",
+    "chiffres": [
+     {
+      "valeur": "−50 %",
+      "legende": "de risque de récidive ou de décès"
+     },
+     {
+      "valeur": "86 %",
+      "legende": "sans récidive à 3 ans contre 76 %"
+     },
+     {
+      "valeur": "712",
+      "legende": "patients inclus dans l'essai ATOMIC"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, selon OncLive et CancerNetwork, l'agence américaine des médicaments (FDA) a approuvé l'atézolizumab (Tecentriq), un traitement d'immunothérapie, associé à une chimiothérapie (fluoropyrimidine et oxaliplatine) en traitement après l'opération du cancer du côlon de stade III avec déficit du système de réparation de l'ADN (dMMR). Roche, le fabricant, l'a annoncé le 9 octobre, en précisant qu'il s'agit de la première immunothérapie approuvée dans cette situation. L'approbation repose sur l'essai de phase 3 ATOMIC, publié dans le New England Journal of Medicine : 712 patients selon Roche (680 analysés selon OncLive), répartis au hasard entre chimiothérapie seule et chimiothérapie plus atézolizumab. Le risque de récidive ou de décès est réduit de moitié (rapport de risque 0,50 ; intervalle de confiance à 95 % de 0,35 à 0,73). À 3 ans, 86,3 % des patients du groupe atézolizumab étaient en vie sans récidive, contre 76,2 % avec la chimiothérapie seule. La survie globale n'est pas encore différente entre les groupes (rapport de risque 0,90 ; intervalle de 0,55 à 1,47), et les effets indésirables de grade 3 ou 4 sont plus fréquents avec l'immunothérapie (84,1 % contre 71,9 %).",
+    "points": [],
+    "explication": "Ce qu'est un déficit de réparation de l'ADN (dMMR). Quand une cellule se divise, elle copie son ADN et corrige les erreurs. Dans certaines tumeurs, ce système de correction est défaillant : c'est le statut dMMR, repéré par un test sur un échantillon de la tumeur. Ces tumeurs sont souvent bien visibles par le système immunitaire. Ce que fait l'atézolizumab. Ce médicament est un anticorps qui bloque la protéine PD-L1, un « frein » que des cellules tumorales utilisent pour échapper aux défenses de l'organisme. « Après l'opération » (traitement dit adjuvant) vise à éliminer les cellules cancéreuses restantes pour éviter une récidive. Ce que l'essai prouve et ne prouve pas. Un essai randomisé, où le hasard décide qui reçoit quoi, est le meilleur moyen de comparer deux traitements. Ici le critère est la survie sans maladie : c'est un indicateur proche de la guérison, mais pas la même chose que la durée de vie, et l'essai n'a pas encore montré de gain sur celle-ci. L'essai est « ouvert » : patients et médecins savaient qui recevait quoi.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-09",
+      "nom": "Roche (communiqué)"
+     },
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2507874",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://www.onclive.com/view/fda-approves-atezolizumab-plus-chemo-for-stage-iii-dmmr-colon-cancer",
+      "nom": "OncLive"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/fda-approves-atezolizumab-chemo-for-stage-iii-dmmr-msi-h-colon-cancer",
+      "nom": "CancerNetwork"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Frank A. Sinicrope",
+      "contexte": "Mayo Clinic, investigateur principal aux États-Unis",
+      "texte": "« Until now, the adjuvant standard of care for stage III colon cancer has not differed based on mismatch repair status » (jusqu'ici, le traitement standard après l'opération du cancer du côlon de stade III ne dépendait pas du statut de réparation de l'ADN).",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-09",
+      "source": "Roche"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Levi Garraway",
+      "contexte": "Roche",
+      "texte": "« Tecentriq combined with chemotherapy has the potential to become the new standard of care » (Tecentriq associé à la chimiothérapie pourrait devenir le nouveau traitement standard).",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-09",
+      "source": "Roche"
+     }
+    ],
+    "apres": "Roche indique poursuivre des démarches auprès d'autres autorités, dont l'Agence européenne des médicaments, et des examens sont en cours en Australie, au Canada, en Israël et en Suisse. Les résultats sur la survie globale, avec un recul plus long, sont attendus.",
+    "change": "L'approbation concerne les États-Unis et un type précis de tumeur (stade III, dMMR).",
+    "credit": {
+     "auteur": "Ed Uthman from Houston, TX, USA",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Colon_Adenocarcinoma,_Whole-Mount_Scan_(1858505117).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CHIRURGIE",
+    "titre": "Prostate : opération ou radiothérapie en 5 séances, 8 ans de suivi",
+    "court": "Prostate : opération ou radiothérapie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ghanaian_Radiotherapists_at_work.jpg/1280px-Ghanaian_Radiotherapists_at_work.jpg",
+    "legende": "Un patient installé sous un accélérateur de radiothérapie, entouré de deux manipulateurs (illustration)",
+    "chapeau": "Fin septembre 2026, lors du congrès de la société américaine de radiothérapie (ASTRO) à Boston, l'équipe de Nicholas van As (Institute of Cancer Research et Royal Marsden, Londres) a présenté les résultats de l'essai PACE-A.",
+    "eclairage": "Ce qu'est la radiothérapie stéréotaxique (SBRT). Des faisceaux de rayons très précis, croisés sous plusieurs angles, concentrent une forte dose sur la prostate en 5 séances, au lieu des dizaines de séances de la radiothérapie classique. L'opération, elle, retire toute la prostate. Pourquoi les effets secondaires comptent autant. Le cancer de la prostate localisé évolue lentement et peu d'hommes en meurent : van As souligne, dans la présentation, que ces hommes « ne meurent pas du cancer de la prostate » et que les résultats fonctionnels (continence, érection) sont donc décisifs. Ce qu'il ne faut pas conclure. Avec 13 rechutes seulement, l'essai ne peut pas dire qu'une méthode contrôle mieux le cancer que l'autre : « pas de différence significative » ne veut pas dire « équivalent prouvé ». Les résultats viennent d'un résumé de congrès, avant l'examen complet par des pairs, et l'investigateur principal déclare des financements de fabricants d'appareils de radiothérapie (Accuray, Varian).",
+    "chiffres": [
+     {
+      "valeur": "8 %",
+      "legende": "ont une protection urinaire (vs 48 %)"
+     },
+     {
+      "valeur": "13",
+      "legende": "rechutes en tout sur 123 hommes"
+     },
+     {
+      "valeur": "0",
+      "legende": "décès par cancer de la prostate"
+     }
+    ],
+    "passe": "Fin septembre 2026, lors du congrès de la société américaine de radiothérapie (ASTRO) à Boston, l'équipe de Nicholas van As (Institute of Cancer Research et Royal Marsden, Londres) a présenté les résultats de l'essai PACE-A. Il compare l'ablation chirurgicale de la prostate (prostatectomie) à une radiothérapie stéréotaxique en 5 séances (36,25 grays au total) chez 123 hommes, dont 94,3 % avec un cancer localisé à risque intermédiaire, répartis au hasard. Après 8 ans de suivi médian, 13 rechutes biologiques ou cliniques ont été comptées (5 après radiothérapie, 8 après opération), sans différence statistiquement significative (rapport de risque 0,48 ; intervalle de confiance de 0,16 à 1,46). Aucun décès par cancer de la prostate n'est survenu. À 5 ans, 8,3 % des hommes irradiés portaient au moins une protection urinaire contre 48 % des hommes opérés, et le score de fonction érectile médian était de 19 contre 5 sur une échelle de 25. Selon Healio, le financement de l'essai n'est pas précisé.",
+    "points": [],
+    "explication": "Ce qu'est la radiothérapie stéréotaxique (SBRT). Des faisceaux de rayons très précis, croisés sous plusieurs angles, concentrent une forte dose sur la prostate en 5 séances, au lieu des dizaines de séances de la radiothérapie classique. L'opération, elle, retire toute la prostate. Pourquoi les effets secondaires comptent autant. Le cancer de la prostate localisé évolue lentement et peu d'hommes en meurent : van As souligne, dans la présentation, que ces hommes « ne meurent pas du cancer de la prostate » et que les résultats fonctionnels (continence, érection) sont donc décisifs. Ce qu'il ne faut pas conclure. Avec 13 rechutes seulement, l'essai ne peut pas dire qu'une méthode contrôle mieux le cancer que l'autre : « pas de différence significative » ne veut pas dire « équivalent prouvé ». Les résultats viennent d'un résumé de congrès, avant l'examen complet par des pairs, et l'investigateur principal déclare des financements de fabricants d'appareils de radiothérapie (Accuray, Varian).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2026/five-treatment-radiation-therapy-offers-effective-nonsurgical-alternative-for-localized-prostate-can",
+      "nom": "ASTRO (communiqué)"
+     },
+     {
+      "url": "https://ascopost.com/news/september-2026/long-term-disease-control-from-sbrt-equal-to-surgery-in-localized-prostate-cancer/",
+      "nom": "The ASCO Post"
+     },
+     {
+      "url": "https://www.urologytimes.com/view/sbrt-prostatectomy-show-comparable-long-term-disease-control-in-pace-a-trial",
+      "nom": "Urology Times"
+     },
+     {
+      "url": "https://www.healio.com/news/hematology-oncology/20260929/sbrt-improves-multiple-quality-of-life-outcomes-vs-surgery-in-localized-prostate-cancer",
+      "nom": "Healio"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Nicholas van As",
+      "contexte": "investigateur principal, Institute of Cancer Research et Royal Marsden",
+      "texte": "« Both treatments controlled the cancer extremely well, but SBRT offered clear advantages for urinary continence » (les deux traitements ont très bien contrôlé le cancer, mais la radiothérapie a nettement mieux préservé la continence urinaire).",
+      "url": "https://ascopost.com/news/september-2026/long-term-disease-control-from-sbrt-equal-to-surgery-in-localized-prostate-cancer/",
+      "source": "The ASCO Post"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Nicholas van As",
+      "contexte": "investigateur principal",
+      "texte": "« The numbers favor SBRT, but there were too few cancer events to conclude that it was superior » (les chiffres vont dans le sens de la radiothérapie, mais il y a trop peu d'événements pour conclure qu'elle est supérieure).",
+      "url": "https://ascopost.com/news/september-2026/long-term-disease-control-from-sbrt-equal-to-surgery-in-localized-prostate-cancer/",
+      "source": "The ASCO Post"
+     }
+    ],
+    "apres": "Les résultats doivent être publiés dans une revue scientifique, avec la relecture par des pairs. Un suivi plus long dira si l'écart de rechutes, aujourd'hui non significatif, se confirme.",
+    "change": "Pour un homme atteint d'un cancer localisé à risque faible ou intermédiaire, ces données montrent que la chirurgie n'est pas la seule option curative, et qu'une radiothérapie en 5 séances donne, à 5 ans, moins de troubles urinaires dans cet essai.",
+    "credit": {
+     "auteur": "Chris Sam",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghanaian_Radiotherapists_at_work.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CANCER",
+    "titre": "Glioblastome : le vaccin SurVaxM manque son critère principal",
+    "court": "Glioblastome : SurVaxM rate son critère",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glioblastoma_micro1.jpg/1280px-Glioblastoma_micro1.jpg",
+    "legende": "Coupe de tissu d'un glioblastome observée au microscope (illustration)",
+    "chapeau": "Le 7 octobre 2026, la société MimiVax et le Roswell Park Comprehensive Cancer Center (États-Unis) ont annoncé les résultats de l'essai de phase 2b SURVIVE sur le vaccin expérimental SurVaxM, chez des personnes atteintes d'un glioblastome (tumeur cérébrale agressive) nouvellement diagnostiqué.",
+    "eclairage": "Le glioblastome est la tumeur cérébrale maligne la plus fréquente chez l'adulte. Le traitement standard associe chirurgie, radiothérapie et chimiothérapie. SurVaxM est un vaccin expérimental qui apprend au système immunitaire à cibler la survivine, une protéine présente, selon le communiqué, dans environ 95 % des glioblastomes. Ce que veut dire « critère principal non atteint ». Avant l'essai, les chercheurs ont fixé la question à trancher : ici, la survie de l'ensemble des patients. L'intervalle de confiance (0,54 à 1,03) inclut 1 : l'effet réel pourrait être nul. Le groupe placebo a aussi mieux survécu que prévu (20,3 mois contre 16 mois attendus), ce qui rend la différence plus difficile à démontrer. Pourquoi un sous-groupe ne suffit pas. Quand un résultat n'est positif que dans une partie des patients, il peut être dû au hasard : on le considère comme une piste à vérifier dans un nouvel essai, pas comme une preuve. Les sources ne donnent pas l'effectif du sous-groupe.",
+    "chiffres": [
+     {
+      "valeur": "22,8",
+      "legende": "mois de survie médiane (vaccin) vs 20,3 placebo"
+     },
+     {
+      "valeur": "24,2",
+      "legende": "mois chez les moins de 65 ans, vs 20,2"
+     },
+     {
+      "valeur": "233",
+      "legende": "patients évaluables, 11 centres américains"
+     }
+    ],
+    "passe": "Le 7 octobre 2026, la société MimiVax et le Roswell Park Comprehensive Cancer Center (États-Unis) ont annoncé les résultats de l'essai de phase 2b SURVIVE sur le vaccin expérimental SurVaxM, chez des personnes atteintes d'un glioblastome (tumeur cérébrale agressive) nouvellement diagnostiqué. Dans l'essai, randomisé en double aveugle contre placebo, 233 patients évaluables de 11 centres américains ont reçu le vaccin ou un placebo en plus du traitement standard. Dans l'ensemble des patients, la survie médiane est de 22,8 mois avec le vaccin contre 20,3 mois avec le placebo, un écart non significatif sur le plan statistique (rapport de risque 0,75 ; intervalle de confiance à 95 % de 0,54 à 1,03 ; p = 0,076) : le critère principal n'est donc pas atteint. Chez les 65 ans et moins, sous-groupe prévu à l'avance, la survie médiane est de 24,2 mois contre 20,2 mois (rapport de risque 0,64 ; p = 0,019). Les effets indésirables de grade 3 ou plus touchent 48 % des patients sous vaccin et 46 % sous placebo ; aucun décès lié au traitement n'est rapporté. Les chiffres viennent du communiqué du promoteur, relayé par Targeted Oncology et Practical Neurology.",
+    "points": [],
+    "explication": "Le glioblastome est la tumeur cérébrale maligne la plus fréquente chez l'adulte. Le traitement standard associe chirurgie, radiothérapie et chimiothérapie. SurVaxM est un vaccin expérimental qui apprend au système immunitaire à cibler la survivine, une protéine présente, selon le communiqué, dans environ 95 % des glioblastomes. Ce que veut dire « critère principal non atteint ». Avant l'essai, les chercheurs ont fixé la question à trancher : ici, la survie de l'ensemble des patients. L'intervalle de confiance (0,54 à 1,03) inclut 1 : l'effet réel pourrait être nul. Le groupe placebo a aussi mieux survécu que prévu (20,3 mois contre 16 mois attendus), ce qui rend la différence plus difficile à démontrer. Pourquoi un sous-groupe ne suffit pas. Quand un résultat n'est positif que dans une partie des patients, il peut être dû au hasard : on le considère comme une piste à vérifier dans un nouvel essai, pas comme une preuve. Les sources ne donnent pas l'effectif du sous-groupe.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.roswellpark.org/newsroom/202610-mimivax-roswell-park-announce-results-phase-2b-survive-trial-survaxm-newly",
+      "nom": "Roswell Park (communiqué)"
+     },
+     {
+      "url": "https://www.targetedonc.com/view/survaxm-vaccine-overall-survival-younger-subgroup-glioblastoma",
+      "nom": "Targeted Oncology"
+     },
+     {
+      "url": "https://practicalneurology.com/news/survaxm-vaccine-evaluated-in-phase-2b-trial-for-those-with-newly-diagnosed-glioblastoma/2488651/",
+      "nom": "Practical Neurology"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Ajay Abad",
+      "contexte": "investigateur principal, Roswell Park",
+      "texte": "« an improvement in survival of this magnitude is noteworthy » (une amélioration de la survie de cette ampleur est notable).",
+      "url": "https://www.roswellpark.org/newsroom/202610-mimivax-roswell-park-announce-results-phase-2b-survive-trial-survaxm-newly",
+      "source": "Roswell Park"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Robert Fenstermaker",
+      "contexte": "co-investigateur principal et directeur médical de MimiVax",
+      "texte": "« this is one of the strongest signals we have seen in newly diagnosed glioblastoma in a long time » (c'est l'un des signaux les plus forts observés depuis longtemps dans le glioblastome nouvellement diagnostiqué).",
+      "url": "https://www.roswellpark.org/newsroom/202610-mimivax-roswell-park-announce-results-phase-2b-survive-trial-survaxm-newly",
+      "source": "Roswell Park"
+     }
+    ],
+    "apres": "MimiVax indique vouloir demander une réunion avec la FDA dans les prochains mois pour discuter de la suite, y compris de procédures accélérées. Ce sont des demandes de l'entreprise, pas des décisions de l'agence.",
+    "change": "SurVaxM reste expérimental : il n'est approuvé par aucune autorité et aucun essai sur ce vaccin ne recrute actuellement. Pour les patients et leurs proches, rien ne change aujourd'hui dans la prise en charge.",
+    "credit": {
+     "auteur": "藤澤孝志",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Glioblastoma_micro1.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "CANCER",
+    "titre": "Cancer du sein : traiter chaque métastase en plus ne prolonge pas la survie",
+    "court": "Sein : cibler les métastases, sans gain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CEONC_ACELERADOR_RADIOTERAPIA_ELEKTA.jpg/1280px-CEONC_ACELERADOR_RADIOTERAPIA_ELEKTA.jpg",
+    "legende": "Un accélérateur de radiothérapie dans une salle de traitement (illustration)",
+    "chapeau": "Publié en ligne le 7 octobre 2026 dans le Journal of Clinical Oncology, l'essai NRG-BR002, dirigé par Steven Chmura (MD Anderson Cancer Center), a testé une idée : chez des patients atteints d'un cancer du sein avec au plus 4 métastases et déjà traités par un traitement général efficace, faut-il aussi détruire chaque métastase par radiothérapie stéréotaxique ou par chirurgie ?",
+    "eclairage": "Le cancer « oligométastatique ». C'est un cancer avec peu de métastases (ici quatre au plus). L'espoir des médecins était qu'en détruisant chacune, localement, on retarde la progression, voire qu'on change l'évolution de la maladie. La radiothérapie stéréotaxique concentre des rayons très précis sur une petite zone ; la chirurgie retire la lésion. Pourquoi un résultat négatif compte. Un essai randomisé qui ne trouve pas de bénéfice évite d'imposer des traitements supplémentaires sans gain démontré. Cela ne dit rien de l'usage d'un traitement local pour soulager un symptôme précis, qui n'était pas la question posée. Ce qui reste une hypothèse. Une analyse exploratoire, non prévue, suggère que les patientes et patients avec peu ou pas de cellules tumorales circulantes dans le sang avant le traitement pourraient en bénéficier davantage. C'est une piste à tester, pas un résultat établi.",
+    "chiffres": [
+     {
+      "valeur": "125",
+      "legende": "patients analysés, 47 centres"
+     },
+     {
+      "valeur": "23",
+      "legende": "mois sans progression (seul) vs 19,5"
+     },
+     {
+      "valeur": "0,92",
+      "legende": "rapport de risque, intervalle 0,57 à 1,47"
+     }
+    ],
+    "passe": "Publié en ligne le 7 octobre 2026 dans le Journal of Clinical Oncology, l'essai NRG-BR002, dirigé par Steven Chmura (MD Anderson Cancer Center), a testé une idée : chez des patients atteints d'un cancer du sein avec au plus 4 métastases et déjà traités par un traitement général efficace, faut-il aussi détruire chaque métastase par radiothérapie stéréotaxique ou par chirurgie ? 129 patients ont été inclus dans 47 centres des États-Unis et du Canada, dont 125 analysés. Au point d'étape principal (suivi médian de 29,9 mois), la survie sans progression médiane est de 23,0 mois avec le traitement général seul et de 19,5 mois avec la destruction des métastases en plus (rapport de risque 0,92 ; intervalle de confiance à 95 % de 0,57 à 1,47). L'essai n'a pas atteint son objectif et ne passera pas à la phase 3. Avec un suivi prolongé (57,5 mois), l'écart reste non significatif (survie sans progression médiane de 23,0 contre 29,5 mois ; survie globale à 4 ans de 63,4 % contre 59,7 %). Les auteurs concluent que cette stratégie n'améliore ni la survie sans progression ni la survie globale.",
+    "points": [],
+    "explication": "Le cancer « oligométastatique ». C'est un cancer avec peu de métastases (ici quatre au plus). L'espoir des médecins était qu'en détruisant chacune, localement, on retarde la progression, voire qu'on change l'évolution de la maladie. La radiothérapie stéréotaxique concentre des rayons très précis sur une petite zone ; la chirurgie retire la lésion. Pourquoi un résultat négatif compte. Un essai randomisé qui ne trouve pas de bénéfice évite d'imposer des traitements supplémentaires sans gain démontré. Cela ne dit rien de l'usage d'un traitement local pour soulager un symptôme précis, qui n'était pas la question posée. Ce qui reste une hypothèse. Une analyse exploratoire, non prévue, suggère que les patientes et patients avec peu ou pas de cellules tumorales circulantes dans le sang avant le traitement pourraient en bénéficier davantage. C'est une piste à tester, pas un résultat établi.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.mdanderson.org/newsroom/research-newsroom/randomized-trial-finds-targeting-individual-metastases-in-oligometastatic-breast-cancer-does-not-improve-survival.h00-159858501.html",
+      "nom": "MD Anderson (communiqué)"
+     },
+     {
+      "url": "https://doi.org/10.1200/JCO-26-00201",
+      "nom": "JCO (DOI)"
+     },
+     {
+      "url": "https://www.targetedonc.com/view/sbrt-ablation-fails-extend-pfs-oligometastatic-breast-cancer",
+      "nom": "Targeted Oncology"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-randomized-trial-individual-metastases-oligometastatic.html",
+      "nom": "Medical Xpress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Steven Chmura",
+      "contexte": "MD Anderson Cancer Center, investigateur principal",
+      "texte": "« More treatment is not always better treatment » (plus de traitement n'est pas toujours un meilleur traitement).",
+      "url": "https://www.mdanderson.org/newsroom/research-newsroom/randomized-trial-finds-targeting-individual-metastases-in-oligometastatic-breast-cancer-does-not-improve-survival.h00-159858501.html",
+      "source": "MD Anderson"
+     }
+    ],
+    "apres": "La phase 3 initialement prévue est abandonnée. Les équipes prévoient de nouveaux essais fondés sur des marqueurs sanguins, comme les cellules tumorales circulantes, pour repérer qui pourrait en profiter.",
+    "change": "Pour la plupart des patients dans cette situation, ajouter un traitement local de chaque métastase à un traitement général efficace n'a pas montré de bénéfice dans cet essai. La décision se prend avec l'équipe d'oncologie, au cas par cas.",
+    "credit": {
+     "auteur": "Maycon Corazza",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:CEONC_ACELERADOR_RADIOTERAPIA_ELEKTA.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Ouverture de la campagne de vaccination contre la grippe en France hexagonale, jusqu'au 31 janvier 2027."
+   },
+   {
+    "jour": "17",
+    "mois": "OCT.",
+    "texte": "Début de la campagne d'information de l'Assurance maladie sur la vaccination, jusqu'au 20 décembre 2026."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "48 %",
+   "texte": "des hommes opérés d'un cancer de la prostate dans l'essai PACE-A portaient au moins une protection urinaire à 5 ans, contre 8 % après radiothérapie en 5 séances."
+  },
+  "lexique": [
+   {
+    "terme": "Critère principal",
+    "definition": "La question à laquelle un essai doit répondre, fixée avant de commencer. S'il n'est pas atteint, l'essai est dit négatif sur ce point, même si d'autres résultats sont encourageants."
+   },
+   {
+    "terme": "Intervalle de confiance",
+    "definition": "La fourchette dans laquelle se situe probablement l'effet réel. Si elle inclut 1 pour un rapport de risque, l'effet pourrait être nul."
+   },
+   {
+    "terme": "Survie sans maladie",
+    "definition": "Le temps pendant lequel un patient reste en vie sans récidive. C'est un indicateur proche de la guérison, mais différent de la durée de vie."
+   },
+   {
+    "terme": "Analyse en sous-groupe",
+    "definition": "Une analyse sur une partie des participants, par exemple selon l'âge. Positive seule, elle reste une piste à confirmer."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai PACE-A, présenté au congrès ASTRO 2026, 8 % des hommes traités par radiothérapie en 5 séances utilisaient au moins une protection urinaire cinq ans après le traitement, contre 48 % des hommes opérés.",
+   "reponse": true,
+   "explication": "Ce sont les chiffres rapportés pour l'essai PACE-A (123 hommes). En revanche, le contrôle du cancer n'était pas significativement différent entre les deux groupes, avec seulement 13 rechutes en tout."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-12",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "IA",
+    "titre": "Google : un « agent Gemini » universel pour le travail en entreprise",
+    "court": "Google : un agent Gemini pour l'entreprise",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Outside_Googleplex_in_Mountain_View%2C_California.jpg/960px-Outside_Googleplex_in_Mountain_View%2C_California.jpg",
+    "legende": "Le siège de Google à Mountain View",
+    "chapeau": "Le 8 octobre 2026, lors de l'événement Gemini at Work, le patron de Google Cloud, Thomas Kurian, a présenté le « Gemini agent » : un assistant unique qui exécute des tâches en plusieurs étapes dans les outils de l'entreprise (Google Workspace, Microsoft 365, Slack), sur le web, mobile, ordinateur ou en ligne de commande.",
+    "eclairage": "Un agent d'entreprise, c'est quoi de plus qu'un chatbot ?",
+    "chiffres": [
+     {
+      "valeur": "10 000",
+      "legende": "agents sur mesure chez SOMPO (Google)"
+     },
+     {
+      "valeur": "90 %",
+      "legende": "du Fortune 100 sur Gemini Enterprise (Google)"
+     },
+     {
+      "valeur": "2",
+      "legende": "familles de modèles : Gemini et Claude"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, lors de l'événement Gemini at Work, le patron de Google Cloud, Thomas Kurian, a présenté le « Gemini agent » : un assistant unique qui exécute des tâches en plusieurs étapes dans les outils de l'entreprise (Google Workspace, Microsoft 365, Slack), sur le web, mobile, ordinateur ou en ligne de commande. Selon Google, il répartit le travail entre plusieurs modèles, ceux de la famille Gemini et, aujourd'hui, les modèles Claude d'Anthropic. Chaque agent reçoit sa propre identité et ses droits d'accès, ses actions sont journalisées, et un administrateur peut plafonner les dépenses d'un projet. Les versions pour les services financiers et le droit sont en préversion ; celles pour l'administration, la santé et le commerce de détail sont annoncées. D'après le site spécialisé Reworked, seul un nombre limité d'entreprises y a accès pour l'instant. Les chiffres d'usage cités (« près de 90 % du Fortune 100 ») viennent de Google et n'ont pas été vérifiés de façon indépendante.",
+    "points": [],
+    "explication": "Un chatbot répond à une question. Un agent reçoit un objectif et enchaîne seul des actions dans plusieurs applications. Dans une entreprise, cela soulève trois questions : qui agit (chaque agent a sa propre identité, comme un salarié, avec des droits limités), qui contrôle (une règle écrite une fois s'applique à tous les agents, et chaque action est consignée) et combien ça coûte (un plafond de dépenses met l'agent en pause). Google sépare aussi l'agent du modèle : le premier est l'interface et les règles, le second le « moteur » choisi pour chaque tâche, selon un outil de routage qui vise le meilleur rapport performance-coût. Démontré ou annoncé ? Ce sont des fonctions annoncées par Google, dont l'accès est limité ; aucune évaluation indépendante n'a été relevée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "nom": "Google Cloud (annonce)"
+     },
+     {
+      "url": "https://www.reworked.co/collaboration-productivity/google-debuts-its-all-purpose-gemini-agent-for-work/",
+      "nom": "Reworked"
+     },
+     {
+      "url": "https://constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
+      "nom": "Constellation Research"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Google Cloud",
+      "contexte": "billet de Thomas Kurian",
+      "texte": "« Gemini is the agent, and the model underneath it is a separate choice. »",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "source": "Google Cloud"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ANALYSTE",
+      "qui": "Carmi Levy",
+      "contexte": "cité par Computerworld",
+      "texte": "Google cherche à devenir « the gatekeeper of the new enterprise operating system », c'est-à-dire le point de passage du futur système d'exploitation de l'entreprise.",
+      "url": "https://www.reworked.co/collaboration-productivity/google-debuts-its-all-purpose-gemini-agent-for-work/",
+      "source": "Reworked"
+     }
+    ],
+    "apres": "Les versions pour l'administration, la santé et le commerce de détail sont annoncées « bientôt » par Google, sans date.",
+    "change": "Pour un salarié : des tâches déléguées à un agent qui agit en son nom ou avec sa propre adresse de messagerie. Pour une entreprise : une question de gouvernance (droits, traçabilité, coûts) avant la question technique.",
+    "credit": {
+     "auteur": "David Nagle",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Outside_Googleplex_in_Mountain_View,_California.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MONDE",
+    "titre": "OpenAI : près de 50 milliards de dollars annualisés, pas 70",
+    "court": "OpenAI : 50 Md$ annualisés, et non 70",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/1280px-Stock_market_charts_illustration.jpg",
+    "legende": "Écran de salle de marchés (illustration)",
+    "chapeau": "Le 8 octobre 2026, le Financial Times a rapporté qu'OpenAI avait indiqué à ses investisseurs un chiffre d'affaires annualisé proche de 50 milliards de dollars à la fin de septembre, soit environ 20 milliards de moins que le chiffre proche de 70 milliards signalé plus tôt, lors d'un événement distinct.",
+    "eclairage": "Que veut dire « chiffre d'affaires annualisé » ?",
+    "chiffres": [
+     {
+      "valeur": "~50 Md$",
+      "legende": "revenu annualisé fin septembre"
+     },
+     {
+      "valeur": "~70 Md$",
+      "legende": "chiffre évoqué plus tôt"
+     },
+     {
+      "valeur": "16 %",
+      "legende": "reversés par Anthropic aux clouds partenaires"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, le Financial Times a rapporté qu'OpenAI avait indiqué à ses investisseurs un chiffre d'affaires annualisé proche de 50 milliards de dollars à la fin de septembre, soit environ 20 milliards de moins que le chiffre proche de 70 milliards signalé plus tôt, lors d'un événement distinct. Reuters, qui n'a pas pu vérifier l'information de façon indépendante, précise que l'écart vient surtout d'une mise en comparaison avec Anthropic : celle-ci compte les ventes passées par ses partenaires cloud (AWS, Google Cloud), pas OpenAI. Selon Reuters, Anthropic reverse environ 16 % de chaque dollar gagné par ce canal. Au deuxième trimestre, Anthropic a déclaré 11,5 milliards de dollars de revenu trimestriel, contre 6,7 milliards pour OpenAI. OpenAI n'avait pas répondu à la demande de commentaire de Reuters.",
+    "points": [],
+    "explication": "On prend le revenu d'une période courte, souvent un mois, et on le multiplie pour obtenir un total sur un an : si une entreprise encaisse 4 milliards en un mois, son revenu annualisé est de 48 milliards. C'est un indicateur de rythme, pas un chiffre comptable : il ne dit pas ce qui a été réellement facturé sur l'année. Deux entreprises peuvent aussi le calculer différemment : compter ou non les ventes réalisées via un revendeur (ici, les plateformes cloud) change le total. Les analystes cités par Reuters notent qu'il peut être trompeur. Démontré ou annoncé ? Aucun des deux chiffres n'est un résultat audité ; les deux entreprises préparent, selon Reuters, une introduction en Bourse, ce qui les obligerait à publier des comptes.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.zawya.com/en/special-coverage/openais-september-annualized-revenue-nears-50bln-less-than-previously-indicated-source-says-1586243",
+      "nom": "Reuters via Zawya"
+     },
+     {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/openai039s-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports",
+      "nom": "FT, relayé par The Star"
+     },
+     {
+      "url": "https://aiweekly.co/alerts/ft-openai-told-investors-annualized-revenue-was-nearing-50b-at-end-of-september",
+      "nom": "AI Weekly"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "OpenAI",
+      "contexte": null,
+      "texte": "N'a pas répondu à la demande de commentaire de Reuters.",
+      "url": "https://www.zawya.com/en/special-coverage/openais-september-annualized-revenue-nears-50bln-less-than-previously-indicated-source-says-1586243",
+      "source": "Reuters via Zawya"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "CONCURRENT",
+      "qui": "Anthropic",
+      "contexte": "selon Reuters",
+      "texte": "Elle inclut dans son revenu les ventes réalisées via les clouds partenaires, et leur reverse environ 16 %.",
+      "url": "https://www.zawya.com/en/special-coverage/openais-september-annualized-revenue-nears-50bln-less-than-previously-indicated-source-says-1586243",
+      "source": "Reuters via Zawya"
+     }
+    ],
+    "apres": "Reuters indique que les deux entreprises préparent une introduction en Bourse ; aucune date n'est donnée.",
+    "change": "Pour le lecteur : un chiffre « annualisé » n'est pas un bénéfice ni un revenu certain, et les comparaisons entre entreprises dépendent de la méthode. Pour un professionnel : à lire avec prudence quand il sert à comparer des fournisseurs d'IA.",
+    "credit": {
+     "auteur": "auteur inconnu",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Stock_market_charts_illustration.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TRAVAIL",
+    "titre": "OpenAI : trois chercheurs licenciés pour fuite d'informations sensibles",
+    "court": "OpenAI : trois chercheurs licenciés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/1280px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg",
+    "legende": "Le Pioneer Building à San Francisco (illustration)",
+    "chapeau": "OpenAI a confirmé avoir licencié trois chercheurs, après une enquête interne qui aurait établi qu'ils avaient enfreint ses règles de traitement des informations sensibles. Selon Reuters, l'entreprise s'est exprimée dans un message publié sur X le 9 octobre, à propos de licenciements intervenus la semaine précédente.",
+    "eclairage": "Pourquoi une fuite interne est-elle une affaire sensible dans l'IA ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "chercheurs licenciés selon OpenAI"
+     },
+     {
+      "valeur": "9 oct.",
+      "legende": "déclaration publique d'OpenAI"
+     },
+     {
+      "valeur": "0",
+      "legende": "détail donné sur les informations en cause"
+     }
+    ],
+    "passe": "OpenAI a confirmé avoir licencié trois chercheurs, après une enquête interne qui aurait établi qu'ils avaient enfreint ses règles de traitement des informations sensibles. Selon Reuters, l'entreprise s'est exprimée dans un message publié sur X le 9 octobre, à propos de licenciements intervenus la semaine précédente. Elle n'a pas précisé quelles informations étaient en cause ; selon le Wall Street Journal, repris par SiliconANGLE, elles auraient été transmises à une organisation extérieure d'évaluation de la sûreté de l'IA, ce qu'OpenAI n'a pas détaillé. Les trois personnes ont publié une lettre contestant ces explications : elles estiment que ces départs fragilisent une culture où l'on pouvait soulever des inquiétudes sur la sûreté. OpenAI répond que les licenciements n'ont aucun lien avec l'expression de préoccupations de sécurité. Les rôles des trois personnes sont décrits différemment selon les médias.",
+    "points": [],
+    "explication": "Les laboratoires d'IA détiennent des informations que d'autres veulent connaître : poids des modèles, résultats de tests de sécurité, plans de lancement. Beaucoup font aussi travailler des équipes de sûreté (safety en anglais), chargées de chercher les risques d'un modèle, parfois avec des évaluateurs extérieurs. Les deux logiques s'opposent : l'entreprise protège ses secrets, les chercheurs veulent que les risques soient examinés de façon indépendante. Ici, les faits reprochés ne sont pas publics et les deux parties se contredisent sur le motif. Démontré ou annoncé ? Le licenciement est confirmé par OpenAI ; le motif exact, lui, ne repose que sur les déclarations des parties.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy-",
+      "nom": "Reuters via The Star"
+     },
+     {
+      "url": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+      "nom": "SiliconANGLE"
+     },
+     {
+      "url": "https://www.theregister.com/a/5300820",
+      "nom": "The Register"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "OpenAI",
+      "contexte": "publication sur X, 9 octobre",
+      "texte": "« We have not and do not terminate any of our employees for raising concerns »",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy-",
+      "source": "Reuters via The Star"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "SALARIÉS / SYNDICATS",
+      "qui": "Les trois personnes licenciées",
+      "contexte": "lettre publique",
+      "texte": "Elles disent craindre que ces départs créent de l'incertitude chez les salariés restants.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy-",
+      "source": "Reuters via The Star"
+     }
+    ],
+    "apres": "OpenAI n'a pas précisé ce qui était reproché ; de nouveaux éléments pourraient venir des personnes concernées ou de la presse.",
+    "change": "Pour un salarié du secteur : la frontière entre alerte interne et fuite se joue sur les procédures de l'entreprise, ici contestées. Pour un utilisateur : rien de direct. Horizon : aucun recours ni procédure annoncés dans les sources consultées.",
+    "credit": {
+     "auteur": "HaeB",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "ai)."
+   },
+   {
+    "jour": "12",
+    "mois": "NOV.",
+    "texte": "Anthropic : entrée en vigueur de sa nouvelle politique d'usage (Anthropic)."
+   },
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Royaume-Uni : date limite des réponses à l'appel à contributions de l'ICO sur les agents d'IA (ICO)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Routage",
+    "definition": "Aiguillage automatique d'une demande vers le modèle d'IA le plus adapté ; routing en anglais."
+   },
+   {
+    "terme": "Chiffre d'affaires annualisé",
+    "definition": "Revenu d'une courte période multiplié pour obtenir un total sur un an ; annualized run rate en anglais."
+   },
+   {
+    "terme": "Jeton",
+    "definition": "Unité de texte (mot ou morceau de mot) que traite un modèle ; token en anglais."
+   },
+   {
+    "terme": "Sûreté de l'IA",
+    "definition": "Travail qui consiste à chercher et réduire les risques d'un modèle ; AI safety en anglais."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon Reuters, OpenAI a indiqué à ses investisseurs un chiffre d'affaires annualisé de près de 70 milliards de dollars pour septembre.",
+   "reponse": false,
+   "explication": "Selon Reuters, OpenAI a indiqué un chiffre proche de 50 milliards de dollars pour septembre ; le chiffre proche de 70 milliards avait été signalé plus tôt, lors d'un événement distinct."
   }
  },
  {
