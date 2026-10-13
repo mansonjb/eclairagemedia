@@ -1,5 +1,634 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-13",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "LVMH : la mode recule de 5 %, Sephora et la joaillerie progressent",
+    "court": "LVMH : la mode recule de 5 % au 3e trimestre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Louis_Vuitton_flagship_store_at_Avenue_des_Champs-%C3%89lys%C3%A9es_%2822288053650%29.jpg/1280px-Louis_Vuitton_flagship_store_at_Avenue_des_Champs-%C3%89lys%C3%A9es_%2822288053650%29.jpg",
+    "legende": "Boutique Louis Vuitton, avenue des Champs-Élysées à Paris",
+    "chapeau": "Lundi 12 octobre, après la clôture de la Bourse de Paris, LVMH a publié son chiffre d'affaires du troisième trimestre : 18,5 milliards d'euros, soit +1 % à périmètre et changes constants et +1,2 % en données publiées selon l'AFP, légèrement au-dessus du consensus d'environ 18,46 Md€ cité par Investing.",
+    "eclairage": "Comment lire un trimestre de luxe ?",
+    "chiffres": [
+     {
+      "valeur": "+1 %",
+      "legende": "croissance organique"
+     },
+     {
+      "valeur": "-5 %",
+      "legende": "mode et maroquinerie"
+     }
+    ],
+    "passe": "Lundi 12 octobre, après la clôture de la Bourse de Paris, LVMH a publié son chiffre d'affaires du troisième trimestre : 18,5 milliards d'euros, soit +1 % à périmètre et changes constants et +1,2 % en données publiées selon l'AFP, légèrement au-dessus du consensus d'environ 18,46 Md€ cité par Investing. La mode et maroquinerie (Louis Vuitton, Dior, Celine, Fendi) recule de 5 % à environ 8,25 Md€, sous les attentes des analystes. La distribution sélective (Sephora, Le Bon Marché) progresse de 8 % à près de 4,1 Md€, les montres et la joaillerie de 6 % à environ 2,5 Md€, les vins et spiritueux de 6 %, les parfums et cosmétiques de 1 %. Selon le communiqué relayé par l'AFP, la demande chinoise a pesé tandis que les États-Unis, l'Europe et le Japon progressent. Sur neuf mois, les ventes atteignent 57,1 Md€ (-2 % en données publiées, +2 % en organique, selon Investing). L'action a clôturé en hausse de 1,18 % à 384,50 € lundi, avant la publication ; elle a perdu environ 40 % depuis janvier et L'Oréal la dépasse en capitalisation au CAC 40 (AFP).",
+    "points": [
+     "Organique ou publié ? La croissance organique exclut l'effet des devises et des acquisitions. La croissance publiée les inclut : d'où +1 % d'un côté et +1,2 % de l'autre.",
+     "Une division pèse lourd. La mode et maroquinerie représente environ 45 % des ventes du trimestre (8,25 sur 18,5 Md€) : quand elle recule, les autres divisions doivent compenser.",
+     "Un client, plusieurs marchés. LVMH vend dans le monde entier : un repli en Chine peut être compensé par la hausse aux États-Unis ou en Europe, mais pas toujours en totalité."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/lvmh-publie-des-ventes-en-legere-hausse-de-1-2-au-3t-soutenues-notamment-par-la-joaillerie-a9a2263d69e9a41e22ef44ff5bdc2405",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://fr.investing.com/news/stock-market-news/lvmh-depasse-legerement-les-estimations-de-chiffre-daffaires-au-t3-malgre-le-ralentissement-en-chine-3631655",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-avec-sa-division-phare-la-mode-et-maroquinerie-qui-baisse-plus-qu-attendu-lvmh-a-vu-ses-ventes-ralentir-au-troisieme-trimestre-1171608.html",
+      "nom": "BFM Bourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "LVMH",
+      "contexte": "communiqué du 12 octobre",
+      "texte": "Le groupe indique rester confiant malgré un environnement économique et géopolitique qui demeure incertain, et dit vouloir continuer à travailler sur le désir de ses marques, la qualité de ses produits et sa distribution.",
+      "url": "https://fr.investing.com/news/stock-market-news/lvmh-depasse-legerement-les-estimations-de-chiffre-daffaires-au-t3-malgre-le-ralentissement-en-chine-3631655",
+      "source": "Investing.com"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Bernstein",
+      "contexte": "courtier",
+      "texte": "Sur la mode et maroquinerie, LVMH « n'a pas répondu aux attentes ».",
+      "url": "https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-avec-sa-division-phare-la-mode-et-maroquinerie-qui-baisse-plus-qu-attendu-lvmh-a-vu-ses-ventes-ralentir-au-troisieme-trimestre-1171608.html",
+      "source": "BFM Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Royal Bank of Canada",
+      "contexte": "courtier",
+      "texte": "La publication « confirme un ralentissement de la dynamique de reprise, déjà fragile », la question étant de savoir si le phénomène touche le secteur ou les marques de la division mode de LVMH.",
+      "url": "https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-avec-sa-division-phare-la-mode-et-maroquinerie-qui-baisse-plus-qu-attendu-lvmh-a-vu-ses-ventes-ralentir-au-troisieme-trimestre-1171608.html",
+      "source": "BFM Bourse"
+     }
+    ],
+    "apres": "La Bourse de Paris réagit aux chiffres à l'ouverture, mardi 13 octobre (BFM Bourse).",
+    "change": "Le groupe dépend d'une division (la mode et maroquinerie) qui recule, pendant que Sephora et la joaillerie progressent. Pour le secteur, la question posée par les analystes est de savoir si le ralentissement est propre à LVMH ou général au luxe.",
+    "credit": {
+     "auteur": "Jorge Láscar",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Louis_Vuitton_flagship_store_at_Avenue_des_Champs-%C3%89lys%C3%A9es_(22288053650).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "EUROPE",
+    "titre": "Crédit Agricole : accord pour racheter la banque allemande IKB",
+    "court": "Crédit Agricole rachète IKB en Allemagne",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D%C3%BCsseldorf_%28DE%29%2C_Landtag_und_Rheinturm_--_2023_--_0031-5.jpg/1280px-D%C3%BCsseldorf_%28DE%29%2C_Landtag_und_Rheinturm_--_2023_--_0031-5.jpg",
+    "legende": "Düsseldorf, ville du siège d'IKB (illustration)",
+    "chapeau": "A. a annoncé la signature d'un accord avec le fonds Lone Star pour acquérir 100 % du capital d'IKB Deutsche Industriebank, banque de Düsseldorf spécialisée dans le financement des entreprises moyennes allemandes (le « Mittelstand »).",
+    "eclairage": "Pourquoi une banque en rachète-t-elle une autre ?",
+    "chiffres": [
+     {
+      "valeur": "100 %",
+      "legende": "du capital d'IKB racheté"
+     },
+     {
+      "valeur": "14 Md€",
+      "legende": "de total de bilan (14,3 Md€)"
+     },
+     {
+      "valeur": "20 pb",
+      "legende": "impact sur le ratio CET1 (0,20 point)"
+     }
+    ],
+    "passe": "Lundi 12 octobre, Crédit Agricole S.A. a annoncé la signature d'un accord avec le fonds Lone Star pour acquérir 100 % du capital d'IKB Deutsche Industriebank, banque de Düsseldorf spécialisée dans le financement des entreprises moyennes allemandes (le « Mittelstand »). Le prix n'est pas communiqué. Selon le communiqué, IKB, fondée en 1924, compte environ 600 salariés, 14,3 Md€ de total de bilan, 8,2 Md€ de crédits et un résultat net de 61 M€ en 2025. L'opération sera financée sur les ressources propres du groupe et réduira d'environ 20 points de base le ratio CET1 de Crédit Agricole S.A. à la finalisation, attendue d'ici la fin du deuxième trimestre 2027, sous réserve notamment des autorisations des autorités de concurrence et de la Banque centrale européenne.",
+    "points": [
+     "Gagner du temps. Racheter une banque donne d'un coup des clients, des équipes et des agences : IKB dispose de six bureaux régionaux en Allemagne, que Crédit Agricole n'a pas à construire.",
+     "Le Mittelstand. Ce sont les entreprises moyennes allemandes, souvent familiales et exportatrices, qui forment le cœur de l'industrie du pays. IKB leur prête de l'argent, en partie par des programmes de la banque publique KfW (4,4 Md€ sur 8,2 Md€ de crédits).",
+     "Le prix, c'est le capital. Le ratio CET1 mesure les fonds propres de base d'une banque rapportés à ses risques. Une acquisition en consomme : ici environ 0,20 point de pourcentage."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/le-credit-agricole-va-racheter-la-banque-allemande-ikb-e10df7d4eff8854a563060d14cb76aed",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.globenewswire.com/news-release/2026/10/12/3379187/0/en/credit-agricole-sa-cr%C3%A9dit-agricole-accelerates-its-expansion-in-germany-and-signs-an-agreement-to-acquire-ikb-deutsche-industriebank.html",
+      "nom": "communiqué Crédit Agricole (GlobeNewswire)"
+     },
+     {
+      "url": "https://ch.zonebourse.com/actualite-bourse/le-credit-agricole-va-racheter-la-banque-allemande-ikb-ce785dddd88cf327",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://uk.finance.yahoo.com/news/credit-agricole-sa-cr-dit-183500033.html",
+      "nom": "Yahoo Finance (communiqué)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Olivier Gavalda",
+      "contexte": "directeur général de Crédit Agricole S.A.",
+      "texte": "L'Allemagne est au cœur des ambitions européennes du groupe et un pilier de son plan ACT 2028, selon le communiqué ; l'opération apporte l'échelle, le réseau et la capacité financière pour accompagner les entreprises allemandes.",
+      "url": "https://uk.finance.yahoo.com/news/credit-agricole-sa-cr-dit-183500033.html",
+      "source": "Yahoo Finance (communiqué)"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Michael Wiedmann",
+      "contexte": "directeur général d'IKB",
+      "texte": "Pour lui, l'entrée dans le groupe Crédit Agricole ouvre un nouveau chapitre pour IKB, qui dit vouloir garder sa proximité avec ses clients et son expertise sectorielle.",
+      "url": "https://uk.finance.yahoo.com/news/credit-agricole-sa-cr-dit-183500033.html",
+      "source": "Yahoo Finance (communiqué)"
+     }
+    ],
+    "apres": "Autorisations antitrust, du règlement européen sur les subventions étrangères (FSR) et de la BCE, puis finalisation d'ici la fin du deuxième trimestre 2027.",
+    "change": "Pour les clients d'IKB, rien ne change avant la finalisation. Pour Crédit Agricole, l'opération donne une taille immédiate dans la banque des entreprises moyennes en Allemagne, marché prioritaire de son plan ACT 2028.",
+    "credit": {
+     "auteur": "Anil Öztas",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf_(DE),_Landtag_und_Rheinturm_--_2023_--_0031-5.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TECH",
+    "titre": "Getty Images : restructuration par Chapter 11 et retrait de la Bourse",
+    "court": "Getty Images : Chapter 11 et sortie de cote",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Press_Photographers_at_Amalienborg_2026.png/960px-Press_Photographers_at_Amalienborg_2026.png",
+    "legende": "Photographes de presse, métier d'une agence d'images comme Getty (illustration)",
+    "chapeau": "Lundi 12 octobre, Getty Images a annoncé un accord avec ses principaux créanciers et investisseurs pour se restructurer par une procédure de Chapter 11 « préemballée » (accélérée), qui concernera certaines entités américaines, puis quitter la Bourse.",
+    "eclairage": "Qu'est-ce qu'un Chapter 11 préemballé ?",
+    "chiffres": [
+     {
+      "valeur": "533 M$",
+      "legende": "de capitaux nouveaux (maximum)"
+     },
+     {
+      "valeur": "270 M$",
+      "legende": "d'obligations annulées"
+     },
+     {
+      "valeur": "100 %",
+      "legende": "détenu par la famille Getty et Koch"
+     }
+    ],
+    "passe": "Lundi 12 octobre, Getty Images a annoncé un accord avec ses principaux créanciers et investisseurs pour se restructurer par une procédure de Chapter 11 « préemballée » (accélérée), qui concernera certaines entités américaines, puis quitter la Bourse. Des entités de la famille Getty et Koch Equity Development s'engagent à apporter jusqu'à 533 millions de dollars de capitaux nouveaux et détiendraient 100 % de la société réorganisée. Les porteurs d'obligations non garanties acceptent d'annuler 270 M$ de titres ; les prêteurs garantis réduisent leurs intérêts et allongent les échéances. Selon Reuters, Koch pourrait fournir jusqu'à 143 M$ pour financer la procédure. La restructuration devrait s'achever d'ici fin 2026. Elle suit l'abandon, en juin, du projet de fusion à 3,7 Md$ avec Shutterstock, après que l'autorité britannique de la concurrence avait exigé la cession de l'activité éditoriale de Shutterstock. Getty indique que ses activités continuent normalement.",
+    "points": [
+     "Chapter 11. Une procédure américaine qui protège une entreprise de ses créanciers pendant qu'elle réorganise ses dettes, sans arrêter son activité.",
+     "Préemballé. L'accord avec les créanciers est signé avant le dépôt : la procédure est plus courte, ici attendue sur quelques mois.",
+     "Comment Getty gagne de l'argent. Elle vend des licences d'utilisation de photos et de vidéos, dont celles de ses agences d'actualité. Reuters cite parmi les causes de cette restructuration la dette, la fusion abandonnée avec Shutterstock et la concurrence des images générées par intelligence artificielle."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/getty-images-prevoit-de-se-placer-sous-la-protection-de-la-loi-sur-les-faillites-et-de-devenir-une-societe-privee-5b6329cba29a2bb6e0d963d661c7f49b",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.ksl.com/article/news/business/getty-images-to-go-private-after-restructuring-deal/51635383",
+      "nom": "KSL"
+     },
+     {
+      "url": "https://uk.finance.yahoo.com/news/getty-images-file-bankruptcy-private-174002822.html",
+      "nom": "Yahoo Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Getty Images",
+      "contexte": "communiqué",
+      "texte": "Les activités, les salariés, les partenaires et les fournisseurs ne sont pas affectés ; les fournisseurs sont payés en totalité dans le cours normal des affaires. Un porte-parole indique que la restructuration ne comprend pas de licenciements.",
+      "url": "https://uk.finance.yahoo.com/news/getty-images-file-bankruptcy-private-174002822.html",
+      "source": "Yahoo Finance"
+     }
+    ],
+    "apres": "Dépôt du Chapter 11 dans les prochaines semaines (Reuters), puis sortie de la cote ; fin de la restructuration attendue d'ici la fin de 2026.",
+    "change": "Les actionnaires actuels sont sortis de l'équation : la société sera détenue à 100 % par la famille Getty et Koch. Selon Reuters, la capitalisation boursière était d'environ 21 M$ vendredi, contre 4,8 Md$ à l'introduction en 2022.",
+    "credit": {
+     "auteur": "Valdemar Baes Aaholst",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Press_Photographers_at_Amalienborg_2026.png"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "MARCHÉS",
+    "titre": "CAC 40 : +0,38 % lundi, le Brent repasse au-dessus de 106 dollars",
+    "court": "CAC 40 : +0,38 %, Brent au-dessus de 106 $",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg/1280px-Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg",
+    "legende": "Prix des carburants dans une station-service aux États-Unis (illustration)",
+    "chapeau": "Lundi 12 octobre, le CAC 40 a gagné 0,38 % à 7 832,88 points, comme l'Euro Stoxx 50 (+0,37 %).",
+    "eclairage": "Pourquoi le pétrole fait-il bouger les taux ?",
+    "chiffres": [
+     {
+      "valeur": "7 833",
+      "legende": "points pour le CAC 40 (+0,38 %)"
+     },
+     {
+      "valeur": "106 $",
+      "legende": "le baril de Brent, plus haut en 2 semaines"
+     },
+     {
+      "valeur": "4,89 %",
+      "legende": "taux de l'OAT à 10 ans"
+     }
+    ],
+    "passe": "Lundi 12 octobre, le CAC 40 a gagné 0,38 % à 7 832,88 points, comme l'Euro Stoxx 50 (+0,37 %). Le Brent a dépassé 106 dollars le baril, son plus haut niveau depuis près de deux semaines, après des attaques le week-end en Arabie saoudite : des frappes meurtrières sur l'aéroport international de Riyad et, selon Zonebourse, une attaque de combattants houthis contre une raffinerie d'Aramco sur la mer Rouge. La trêve énergétique annoncée par Donald Trump entre la Russie et l'Ukraine n'est confirmé ni par Moscou ni par Kiev (Reuters) ; Volodymyr Zelensky affirme qu'il ne tient pas sur le terrain. Sur le marché obligataire, le taux de l'OAT à 10 ans est monté à 4,89 %, contre 3,47 % pour le Bund allemand. Les investisseurs sont restés prudents avant la saison des résultats : les banques américaines publient mardi, l'inflation américaine de septembre est attendue mercredi, avec un consensus à 3,6 % sur un an contre 3,4 % en août (AFP).",
+    "points": [
+     "Du baril à l'inflation. Un pétrole plus cher renchérit les carburants et le transport, donc les prix : c'est ce qui tire l'inflation américaine attendue à 3,6 %.",
+     "De l'inflation aux taux. Quand les prix montent, les banques centrales hésitent à baisser leurs taux, et les marchés demandent un rendement plus élevé pour prêter aux États.",
+     "L'écart France-Allemagne. L'OAT (obligation de l'État français) rapporte 4,89 % sur 10 ans, le Bund allemand 3,47 % : l'écart (environ 1,42 point) mesure la prime que les investisseurs demandent pour prêter à la France."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avant-une-semaine-chargee-en-publications-1063fa96f3b95ae0f35af49b4b3fd7c3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-le-petrole-sous-pression-e17e77311a9a8a89e047513f4599d967",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://zonebourse.com/actualite-bourse/les-bourses-europeennes-resistent-a-la-poussee-des-cours-du-petrole-ce785dddd981f327",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+      "nom": "CNBC"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Un analyste cité par l'AFP",
+      "contexte": "sur la dette française",
+      "texte": "À propos du budget 2027, qui arrive à l'Assemblée mardi, les investisseurs « ne s'attendent pas à de très bonnes nouvelles ».",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avant-une-semaine-chargee-en-publications-1063fa96f3b95ae0f35af49b4b3fd7c3",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Kristalina Georgieva",
+      "contexte": "directrice générale du FMI",
+      "texte": "La croissance mondiale devrait rester proche de 3 % cette année, soutenue par les investissements dans les infrastructures d'IA malgré la crise énergétique, selon Reuters.",
+      "url": "https://boursorama.com/bourse/actualites/l-europe-finit-dans-le-vert-le-petrole-sous-pression-e17e77311a9a8a89e047513f4599d967",
+      "source": "Reuters via Boursorama"
+     }
+    ],
+    "apres": "Banques américaines mardi 13 octobre, inflation américaine mercredi 14, inflation définitive de la zone euro vendredi 16.",
+    "change": "Pour les automobilistes et les entreprises, un baril au-dessus de 106 dollars signifie des carburants plus chers. Pour l'État, un taux d'emprunt plus élevé alourdit le coût de la dette.",
+    "credit": {
+     "auteur": "Tony Webster",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Banques américaines (JPMorgan, Goldman Sachs, Wells Fargo, Citi) et, en France, Publicis et Havas."
+   },
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "FMI : publication attendue des Perspectives de l'économie mondiale à Bangkok."
+   },
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Inflation américaine de septembre (consensus : 3,6 % sur un an), puis Bank of America et Morgan Stanley."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Inflation définitive de la zone euro pour septembre ; séance plénière du FMI et de la Banque mondiale."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Croissance organique",
+    "definition": "La hausse des ventes hors effets des devises et des acquisitions. Elle montre l'évolution de l'activité elle-même."
+   },
+   {
+    "terme": "Ratio CET1",
+    "definition": "Les fonds propres de base d'une banque rapportés aux risques qu'elle porte. Plus il est haut, plus la banque est solide."
+   },
+   {
+    "terme": "Chapter 11",
+    "definition": "La procédure américaine qui protège une entreprise de ses créanciers le temps de réorganiser ses dettes. « Préemballé » : l'accord est signé avant le dépôt."
+   },
+   {
+    "terme": "Point de base",
+    "definition": "Un centième de point de pourcentage. 20 points de base valent 0,20 point."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Au troisième trimestre 2026, la division mode et maroquinerie de LVMH a vu ses ventes reculer de 5 % à périmètre et changes constants.",
+   "reponse": true,
+   "explication": "Vrai : elle a réalisé environ 8,25 Md€ de ventes, alors que la distribution sélective (Sephora, +8 %) et les montres et la joaillerie (+6 %) ont progressé."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-13",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Bio : 15,5 % des professionnels contrôlés en infraction, selon la DGCCRF",
+    "court": "Bio : 15,5 % de professionnels en infraction",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/High_school_students_eat_lunch_at_a_public_school_cafeteria_in_North_Carolina_02.jpg/1280px-High_school_students_eat_lunch_at_a_public_school_cafeteria_in_North_Carolina_02.jpg",
+    "legende": "Des lycéens déjeunent dans une cantine scolaire (illustration)",
+    "chapeau": "Le 1er octobre 2026, la répression des fraudes (DGCCRF) a publié le bilan de ses contrôles du bio en 2024 et 2025 : plus de 4 800 professionnels contrôlés, dont 15,5 % ont fait l'objet d'une injonction de mise en conformité ou, dans les cas les plus graves, d'une amende ou d'un procès-verbal transmis au parquet.",
+    "eclairage": "Que contrôle-t-on quand on contrôle le bio ?",
+    "chiffres": [
+     {
+      "valeur": "4 800",
+      "legende": "professionnels du bio contrôlés en 2024-2025"
+     },
+     {
+      "valeur": "15,5 %",
+      "legende": "avec des suites correctives ou pénales"
+     },
+     {
+      "valeur": "11,8 %",
+      "legende": "de bio en cantine en 2024 (objectif : 20 %)"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, la répression des fraudes (DGCCRF) a publié le bilan de ses contrôles du bio en 2024 et 2025 : plus de 4 800 professionnels contrôlés, dont 15,5 % ont fait l'objet d'une injonction de mise en conformité ou, dans les cas les plus graves, d'une amende ou d'un procès-verbal transmis au parquet. La DGCCRF précise que ce taux ne reflète pas l'ensemble du marché, car les contrôles sont ciblés en amont. Parmi les cas relevés : un producteur de champignons qui vendait comme bio plusieurs tonnes de champignons conventionnels achetés à un grossiste, et un supermarché dont le rayon boucherie affichait une mention bio alors qu'aucune barquette ne l'était. Dans la restauration collective, plus de 600 établissements ont été contrôlés ; dans une cantine municipale, un quart des plats présentés comme bio ne l'étaient pas sur deux semaines de menus. Selon le ministère de l'Agriculture, les établissements contrôlés servaient 11,8 % de bio en 2024, contre un objectif légal de 20 % fixé par la loi de 2018.",
+    "points": [],
+    "explication": "Pour vendre sous la mention bio, un professionnel doit être certifié par un organisme de contrôle et déclaré auprès de l'Agence Bio ; les manquements relevés les plus cités sont justement l'absence de certification ou de déclaration, et les pratiques commerciales trompeuses. La DGCCRF vérifie aussi les cantines, qui doivent atteindre 20 % de bio selon la loi de 2018. 15,5 % n'est pas un taux de fraude du marché : l'échantillon est choisi parce que ces professionnels présentent un risque, et une injonction de mise en conformité peut sanctionner une simple erreur d'étiquette, comme pour un fabricant de confiture dont un seul ingrédient était bio. DGCCRF →",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/consommation/article/904185/bio-encore-trop-de-professionnels-trichent-constate-la-repression-des-fraudes",
+      "nom": "Terre-net (avec AFP)"
+     },
+     {
+      "url": "https://www.economiematin.fr/?p=233098",
+      "nom": "Economie Matin"
+     },
+     {
+      "url": "https://agra.fr/articles/bio-155-de-professionnels-en-infraction-sur-un-echantillon-cible-par-la-dgccrf",
+      "nom": "Agra"
+     },
+     {
+      "url": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes/le-label-sans-la-preuve-fraudes-et-manquements-dans-le",
+      "nom": "DGCCRF, « Le label sans la preuve »"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "DGCCRF",
+      "contexte": "répression des fraudes",
+      "texte": "Les produits bio, généralement plus chers, présentent un « risque de fraude important »",
+      "url": "https://www.economiematin.fr/?p=233098",
+      "source": "Economie Matin"
+     }
+    ],
+    "apres": "Les articles consultés ne mentionnent pas de nouvelle campagne datée de contrôles.",
+    "change": "Pour le consommateur, le chiffre ne dit pas quelle part des produits bio en rayon est irrégulière : il porte sur des contrôles ciblés. Pour les cantines, l'écart entre 11,8 % constaté en 2024 et 20 % exigé reste important.",
+    "credit": {
+     "auteur": "Harrison Keely",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:High_school_students_eat_lunch_at_a_public_school_cafeteria_in_North_Carolina_02.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MONDE",
+    "titre": "Prix alimentaires mondiaux : l'indice FAO au plus haut depuis novembre 2022",
+    "court": "Prix mondiaux : l'indice FAO au plus haut",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Combine_in_wheat_field.jpg/1280px-Combine_in_wheat_field.jpg",
+    "legende": "Une moissonneuse-batteuse récolte un champ de blé",
+    "chapeau": "Le 2 octobre 2026, la FAO a publié l'indice des prix alimentaires mondiaux de septembre : 136,0 points, soit 1,5 % de plus qu'en août (134,0 points, valeur révisée) et 5,8 % de plus qu'un an plus tôt.",
+    "eclairage": "Que mesure l'indice FAO, et que ne mesure-t-il pas ?",
+    "chiffres": [
+     {
+      "valeur": "136,0",
+      "legende": "points en septembre 2026"
+     },
+     {
+      "valeur": "+5,8 %",
+      "legende": "sur un an"
+     },
+     {
+      "valeur": "+5,1 %",
+      "legende": "indice des céréales sur un mois"
+     }
+    ],
+    "passe": "Le 2 octobre 2026, la FAO a publié l'indice des prix alimentaires mondiaux de septembre : 136,0 points, soit 1,5 % de plus qu'en août (134,0 points, valeur révisée) et 5,8 % de plus qu'un an plus tôt. Selon les médias qui l'ont relayé, c'est le niveau le plus haut depuis novembre 2022 ; l'indice reste 15,1 % sous son pic de mars 2022. L'indice des céréales gagne 5,1 % sur un mois, à 122,8 points : la FAO relie la hausse du blé et du maïs aux difficultés logistiques en mer Noire, au temps sec en Amérique du Nord, à des rendements américains de maïs plus faibles et à des exportations brésiliennes plus limitées. Le sucre progresse de 6,1 %, troisième hausse mensuelle de suite, avec des perspectives de récolte plus faibles pour 2026-2027, et les huiles végétales de 0,9 %. La viande recule de 1,1 % et les produits laitiers de 0,1 %. L'économiste en chef de la FAO, Maximo Torero, estime que si ces tensions durent, elles se répercuteront bientôt sur les prix payés par les consommateurs.",
+    "points": [],
+    "explication": "L'indice FAO est la moyenne de cinq sous-indices de prix internationaux : céréales, huiles végétales, viande, produits laitiers et sucre. Il suit les prix des matières premières sur les marchés mondiaux, pas les prix en rayon : entre le champ et le supermarché, il y a la transformation, le transport et la distribution, ce qui explique le délai évoqué par la FAO avant un éventuel effet sur les prix à la consommation. Les cinq catégories ne bougent pas ensemble : en septembre, les céréales et le sucre montent, la viande et les produits laitiers baissent, et les produits laitiers restent 19,1 % sous leur niveau d'il y a un an. FAO →",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "nom": "FAO"
+     },
+     {
+      "url": "https://www.thepoultrysite.com/news/2026/10/world-food-prices-hit-highest-level-since-late-2022-fao",
+      "nom": "The Poultry Site"
+     },
+     {
+      "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions",
+      "nom": "MercoPress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "FAO",
+      "contexte": "organisation des Nations unies",
+      "texte": "L'économiste en chef Maximo Torero décrit une hausse des prix des matières premières qui devient plus large. Selon lui, si ces pressions durent, elles se répercuteront bientôt sur les prix alimentaires payés par les consommateurs.",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "source": "FAO"
+     }
+    ],
+    "apres": "La FAO publie l'indice chaque mois ; la prochaine mise à jour portera sur octobre.",
+    "change": "Au supermarché, la FAO anticipe une répercussion possible sur les prix à la consommation, sans calendrier ni ampleur chiffrés.",
+    "credit": {
+     "auteur": "Dan Kollmann",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Combine_in_wheat_field.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Journée mondiale de l'alimentation, cérémonie à Rome au siège de la FAO."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "DGCCRF",
+    "definition": "La direction générale de la concurrence, de la consommation et de la répression des fraudes, chargée notamment de contrôler l'étiquetage et les mentions comme « bio »."
+   },
+   {
+    "terme": "Injonction de mise en conformité",
+    "definition": "Un ordre donné à un professionnel de corriger une pratique ou une étiquette, avant d'éventuelles sanctions."
+   },
+   {
+    "terme": "EGalim",
+    "definition": "La loi de 2018 sur l'alimentation, qui fixe notamment un objectif de 20 % de produits bio dans la restauration collective."
+   }
+  ],
+  "quiz": {
+   "affirmation": "L'indice FAO des prix alimentaires mondiaux de septembre 2026 est à son plus haut niveau depuis novembre 2022.",
+   "reponse": true,
+   "explication": "Selon la FAO, l'indice atteint 136,0 points en septembre, soit 5,8 % de plus qu'un an plus tôt, mais encore 15,1 % sous son pic de mars 2022."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-13",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Pesticides dans l'air : 17 molécules détectées en 2025 dans la plaine d'Aunis",
+    "court": "Pesticides dans l'air : 17 molécules détectées",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tractor_spraying_pesticides_IMG_5235.jpg/1280px-Tractor_spraying_pesticides_IMG_5235.jpg",
+    "legende": "Traitement d'un champ au pulvérisateur (illustration)",
+    "chapeau": "L'Agglomération de La Rochelle a présenté du 5 au 7 octobre 2026, lors de trois réunions publiques à Saint-Vivien, Montroy et L'Houmeau, les résultats 2025 de son suivi des pesticides dans l'air, réalisé avec Atmo Nouvelle-Aquitaine.",
+    "eclairage": "Comment lire ces chiffres ?",
+    "chiffres": [
+     {
+      "valeur": "17 / 114",
+      "legende": "molécules détectées sur 114 recherchées"
+     },
+     {
+      "valeur": "13,3",
+      "legende": "ng/m³ d’herbicides à Montroy (10,2 en 2024)"
+     },
+     {
+      "valeur": "82 %",
+      "legende": "de grandes cultures à moins de 5 km de Montroy"
+     }
+    ],
+    "passe": "L'Agglomération de La Rochelle a présenté du 5 au 7 octobre 2026, lors de trois réunions publiques à Saint-Vivien, Montroy et L'Houmeau, les résultats 2025 de son suivi des pesticides dans l'air, réalisé avec Atmo Nouvelle-Aquitaine. Trois sites étaient mesurés : Montroy, suivi chaque année depuis 2019, et Saint-Vivien et L'Houmeau, mesurés pendant une campagne d'automne. Sur 114 molécules recherchées, 17 ont été détectées (2 fongicides, 11 herbicides, 4 insecticides) ; huit produits, dont sept herbicides, sont présents sur les trois sites. Les herbicides dominent, avec le prosulfocarbe et la pendiméthaline parmi les plus concentrés. À Montroy, la moyenne hebdomadaire d'herbicides atteint 13,3 ng/m³ en 2025, contre 10,2 en 2024 et 5,1 en 2023, sous le record de 22,4 de 2021. L'Agglomération cite pour cette hausse un usage accru du prosulfocarbe, une météo qui a limité le désherbage mécanique et davantage de cultures d'hiver, sans retenir un facteur unique. Cinq substances interdites en usage agricole ont aussi été relevées, dont quatre à l'état de traces. Les capteurs de Saint-Vivien et L'Houmeau ont été posés en octobre 2025 après une étude financée par la Ligue contre le cancer, qui a relevé à Saint-Vivien cinq cancers pédiatriques pour 1,1 attendu. L'Agglomération précise qu'aucun lien direct n'est établi entre les valeurs mesurées et ces excès de cancers. Les chiffres détaillés proviennent de la page de l'Agglomération ; le rapport complet d'Atmo n'a pas été consulté.",
+    "points": [],
+    "explication": "Un ng/m³ est un milliardième de gramme par mètre cube d'air. Il n'existe aucune valeur limite réglementaire pour les pesticides dans l'air ambiant, en France comme dans l'Union européenne : les mesures servent donc à suivre une tendance et à comparer des sites, pas à constater un dépassement de seuil. L'Agglomération finance le suivi ; Atmo Nouvelle-Aquitaine, l'observatoire régional de l'air, réalise les prélèvements. Le prosulfocarbe, herbicide volatil employé surtout sur les céréales d'hiver, n'est pas classé cancérogène, mutagène ou reprotoxique ; l'Anses a réduit ses doses maximales de 40 % depuis le 1er novembre 2023 et son autorisation court jusqu'au 31 janvier 2027. Les données alimenteront le programme de recherche Exposcan.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "nom": "Agglomération de La Rochelle"
+     },
+     {
+      "url": "https://www.montroy.fr/mardi-6-octobre-reunion-publique-sur-les-resultats-2025-du-suivi-des-pesticides",
+      "nom": "commune de Montroy"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/saint-vivien/cancers-pediatriques-deux-capteurs-de-pesticides-entrent-en-service-a-saint-vivien-et-a-l-houmeau-pres-de-la-rochelle-4548366",
+      "nom": "ICI (capteurs, 2025)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "AGGLOMÉRATION",
+      "qui": "Marc Maigné",
+      "contexte": "vice-président de l'Agglomération",
+      "texte": "Est annoncé aux trois réunions publiques avec les maires des communes et Atmo Nouvelle-Aquitaine, pour présenter les résultats et les actions de l'Agglomération pour réduire l'exposition aux pesticides.",
+      "url": "https://www.montroy.fr/mardi-6-octobre-reunion-publique-sur-les-resultats-2025-du-suivi-des-pesticides",
+      "source": "commune de Montroy"
+     }
+    ],
+    "apres": "Les documents d'Atmo (synthèse et rapport) sont en ligne sur la page de l'Agglomération. Les données serviront au programme de recherche Exposcan.",
+    "change": "Pour un habitant de la plaine d'Aunis, ces mesures donnent un état des lieux public de l'air près des cultures, sans seuil réglementaire à comparer.",
+    "credit": {
+     "auteur": "Stefan Thiesen",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_spraying_pesticides_IMG_5235.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Conseil communautaire de l'Agglomération, séance inscrite au calendrier 2026 (agglo-larochelle.fr)"
+   },
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "Contrôle des eaux usées par fumigènes à Châtelaillon-Plage, La Rochelle et Saint-Xandre, fumée sans danger (agglo-larochelle.fr)"
+   },
+   {
+    "jour": "19",
+    "mois": "NOV.",
+    "texte": "Conseil communautaire suivant (agglo-larochelle.fr)"
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Atmo Nouvelle-Aquitaine",
+    "definition": "Association agréée qui surveille la qualité de l'air dans la région et réalise les mesures pour le compte des collectivités."
+   },
+   {
+    "terme": "ng/m³",
+    "definition": "Nanogramme par mètre cube : un milliardième de gramme dans un mètre cube d'air."
+   },
+   {
+    "terme": "Conseil communautaire",
+    "definition": "Assemblée des élus de l'Agglomération, qui vote les décisions communes aux 28 communes (eau, déchets, mobilités, urbanisme)."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En France, il n'existe pas de valeur limite réglementaire pour les pesticides dans l'air ambiant.",
+   "reponse": true,
+   "explication": "L'Agglomération de La Rochelle le rappelle : ni la France ni l'Union européenne ne fixent de seuil réglementaire pour les pesticides dans l'air ambiant, contrairement à l'eau ou aux aliments."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-13",
   "minutes": 18,
@@ -416,6 +1045,561 @@
    "affirmation": "Selon le gouvernement, les 10 millions de barils de gazole tirés des stocks stratégiques seront vendus aux distributeurs à prix coûtant pendant trois mois.",
    "reponse": true,
    "explication": "Vrai : Sébastien Lecornu l'a annoncé lundi 12 octobre. Les premières ventes sont prévues le 28 octobre et la baisse à la pompe, estimée entre 12 et 18 centimes par litre, est visée à partir du 1er novembre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-13",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Œsophage : la chirurgie robotique retire plus de ganglions",
+    "court": "Œsophage : le robot retire plus de ganglions",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Air_Force%27s_first_robotic_surgery_training_course_established_at_Keesler_161021-F-BD983-015.jpg/1280px-Air_Force%27s_first_robotic_surgery_training_course_established_at_Keesler_161021-F-BD983-015.jpg",
+    "legende": "Un robot chirurgical da Vinci Xi en salle d'opération (illustration)",
+    "chapeau": "Des chirurgiens de quatre centres spécialisés (Mayence, Amsterdam, Zurich, Cologne) ont publié dans JAMA Surgery les résultats de l'essai ROBOT-2, mis en ligne fin septembre et relayé le 8 octobre par The ASCO Post.",
+    "eclairage": "Que mesure vraiment cet essai ?",
+    "chiffres": [
+     {
+      "valeur": "+4",
+      "legende": "ganglions retirés en médiane (36 contre 32)"
+     },
+     {
+      "valeur": "202",
+      "legende": "patients opérés (218 randomisés)"
+     },
+     {
+      "valeur": "1 an",
+      "legende": "de survie : pas de différence"
+     }
+    ],
+    "passe": "Des chirurgiens de quatre centres spécialisés (Mayence, Amsterdam, Zurich, Cologne) ont publié dans JAMA Surgery les résultats de l'essai ROBOT-2, mis en ligne fin septembre et relayé le 8 octobre par The ASCO Post. L'essai de phase 3 a comparé, entre janvier 2021 et mars 2025, l'œsophagectomie assistée par robot à l'œsophagectomie classique par petites incisions, chez des adultes atteints d'un adénocarcinome de l'œsophage ou de la jonction entre l'œsophage et l'estomac. Sur 218 patients tirés au sort, 202 ont été opérés, 101 dans chaque groupe. Le critère principal, le nombre de ganglions retirés, est plus élevé avec le robot : 36 en médiane contre 32 (p = 0,005). Les autres résultats sont proches : tumeur retirée avec des marges saines (« R0 ») dans 99 % des cas contre 97 %, complications chez 53,5 % des patients contre 47,5 %, décès à 90 jours 1,0 % contre 3,0 % (p = 0,62), survie estimée à 1 an 80,8 % contre 84,3 % (p = 0,49). Le suivi doit durer jusqu'à 5 ans.",
+    "points": [],
+    "explication": "L'œsophage est le tube qui relie la gorge à l'estomac. Pour un cancer, l'œsophagectomie retire la tumeur et les ganglions voisins, ces petits relais du système lymphatique où le cancer peut se propager. Dans l'opération « classique », le chirurgien travaille par petites incisions avec une caméra. Dans l'opération robotique, il pilote des bras articulés depuis une console : le robot n'opère pas seul. Retirer plus de ganglions est un critère intermédiaire : cela donne une idée de la qualité du geste, mais cela ne prouve pas à lui seul que les patients vivent plus longtemps. Sur la survie à 1 an, aucune différence n'a été trouvée, et l'essai n'était pas conçu pour la mesurer. C'est un essai randomisé, le meilleur outil pour comparer deux techniques, mais ses résultats portent sur des centres très spécialisés. Les auteurs concluent que la voie robotique offre un curage plus complet des ganglions, avec une sécurité équivalente. Financeur déclaré : l'étude a été soutenue en partie par Intuitive Surgical, selon The ASCO Post.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1001/jamasurg.2026.4478",
+      "nom": "JAMA Surgery (DOI)"
+     },
+     {
+      "url": "https://ascopost.com/news/october-2026/robotic-esophagectomy-improves-lymph-node-yield-in-esophageal-cancer",
+      "nom": "The ASCO Post"
+     },
+     {
+      "url": "https://www.citedrive.com/en/discovery/robotic-vs-thoracolaparoscopic-esophagectomy-for-esophageal-cancer/",
+      "nom": "résumé de l'étude (CiteDrive)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Berlth et coll.",
+      "contexte": "équipe de l'essai ROBOT-2",
+      "texte": "« These results support the use of robotic esophagectomy as a standard approach »",
+      "url": "https://ascopost.com/news/october-2026/robotic-esophagectomy-improves-lymph-node-yield-in-esophageal-cancer",
+      "source": "The ASCO Post"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Intuitive Surgical",
+      "contexte": "fabricant du robot",
+      "texte": "Financeur déclaré : l'étude a été soutenue en partie par Intuitive Surgical, selon The ASCO Post.",
+      "url": "https://ascopost.com/news/october-2026/robotic-esophagectomy-improves-lymph-node-yield-in-esophageal-cancer",
+      "source": "The ASCO Post"
+     }
+    ],
+    "apres": "Le suivi des participants jusqu'à 5 ans dira si l'avantage sur les ganglions se traduit par un bénéfice de survie. Les marges chirurgicales et les complications seront aussi à suivre sur la durée.",
+    "change": "Dans ces centres à grand volume, la voie robotique a retiré un peu plus de ganglions sans signal de danger à court terme. Son effet sur la survie à long terme n'est pas démontré. Le choix de la technique se discute avec l'équipe chirurgicale.",
+    "credit": {
+     "auteur": "Kemberly Groue / U.S. Air Force",
+     "licence": "domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Air_Force%27s_first_robotic_surgery_training_course_established_at_Keesler_161021-F-BD983-015.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "Ocrevus : un nouveau risque d'atteinte du foie identifié",
+    "court": "Ocrevus : risque hépatique identifié",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/3D_Medical_Animation_liver_parts.jpg/1280px-3D_Medical_Animation_liver_parts.jpg",
+    "legende": "Le foie et ses vaisseaux, illustration anatomique (illustration)",
+    "chapeau": "Le 8 octobre 2026, l'ANSM a publié une lettre du laboratoire Roche aux professionnels de santé sur Ocrevus (ocrélizumab), un traitement de la sclérose en plaques. Un nouveau risque d'atteinte hépatique d'origine médicamenteuse a été identifié, y compris des cas graves et mettant en jeu le pronostic vital.",
+    "eclairage": "Comment lire une alerte de ce type ?",
+    "chiffres": [
+     {
+      "valeur": "8 oct.",
+      "legende": "lettre aux professionnels"
+     },
+     {
+      "valeur": "1 mois",
+      "legende": "délai habituel des symptômes"
+     },
+     {
+      "valeur": "1,4 M",
+      "legende": "patients-années d'exposition"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, l'ANSM a publié une lettre du laboratoire Roche aux professionnels de santé sur Ocrevus (ocrélizumab), un traitement de la sclérose en plaques. Un nouveau risque d'atteinte hépatique d'origine médicamenteuse a été identifié, y compris des cas graves et mettant en jeu le pronostic vital. Selon la lettre, les symptômes sont survenus généralement dans un délai d'un mois après la première dose, et dans quelques cas des patients ont été temporairement inscrits sur une liste de greffe du foie. L'exposition cumulée au médicament est estimée à plus de 1,4 million de patients-années ; la fréquence de cet effet est qualifiée d'indéterminée. Les recommandations : des tests de la fonction hépatique avant le traitement et avant la seconde perfusion de 300 mg de la dose initiale, une information des patients sur les signes d'alerte (fatigue nouvelle, nausées, urines foncées, jaunisse), et l'arrêt du traitement si l'atteinte est confirmée. La note italienne (AIFA) précise que la communication est concertée avec l'Agence européenne des médicaments. Aux États-Unis, une lettre d'août 2025 faisait état de 13 cas. L'ANSM ne donne pas de nombre de cas pour la France.",
+    "points": [],
+    "explication": "La sclérose en plaques est une maladie où le système immunitaire s'attaque au système nerveux. Ocrevus est un anticorps qui cible certains globules blancs, les lymphocytes B ; il est donné par perfusion ou injection deux fois par an. Le foie filtre et transforme les médicaments : il peut en être lui-même atteint. Une alerte de pharmacovigilance repose sur des cas rapportés après la mise sur le marché. Elle permet de repérer un risque, mais pas d'en calculer la fréquence : c'est pourquoi celle-ci est « indéterminée ». Les patients traités n'ont pas à modifier leur traitement seuls ; la décision se prend avec le neurologue. Elle précise qu'Ocrevus « doit être interrompu » si l'atteinte hépatique est confirmée. Le laboratoire signe la lettre et indique que l'information sur le produit sera mise à jour pour inclure cet effet indésirable.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ansm.sante.fr/informations-de-securite/ocrevus-ocrelizumab-risque-nouveau-datteinte-hepatique-dorigine-medicamenteuse-et-recommandations-sur-la-surveillance-hepatique-avant-et-pendant-le-traitement",
+      "nom": "ANSM"
+     },
+     {
+      "url": "https://www.aifa.gov.it/documents/20142/3513101/2026.10.08_NIIS_Ocrevus-ocrelizumab_IT.pdf",
+      "nom": "AIFA (Italie, concertée avec l'EMA)"
+     },
+     {
+      "url": "https://www.gene.com/download/pdf/Ocrevus-Zunovo_DHCP_Important_Drug_Warning_08-2025.pdf",
+      "nom": "lettre aux professionnels, États-Unis (Genentech)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "ANSM",
+      "contexte": "agence du médicament",
+      "texte": "« Un nouveau risque d'atteinte hépatique d'origine médicamenteuse a été identifié »",
+      "url": "https://ansm.sante.fr/informations-de-securite/ocrevus-ocrelizumab-risque-nouveau-datteinte-hepatique-dorigine-medicamenteuse-et-recommandations-sur-la-surveillance-hepatique-avant-et-pendant-le-traitement",
+      "source": "ANSM"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Roche",
+      "contexte": "titulaire de l'autorisation",
+      "texte": "Le laboratoire signe la lettre et indique que l'information sur le produit sera mise à jour pour inclure cet effet indésirable.",
+      "url": "https://ansm.sante.fr/uploads/2026/10/08/2026108-dhpc-ocrevus.pdf",
+      "source": "lettre aux professionnels (ANSM)"
+     }
+    ],
+    "apres": "L'information officielle sur le produit doit être mise à jour avec ce nouvel effet indésirable. Le nombre de cas en Europe n'a pas été communiqué.",
+    "change": "Les neurologues doivent prévoir un bilan du foie avant le traitement et avant la seconde perfusion initiale, et informer leurs patients des signes d'alerte. Les patients déjà traités qui ressentent ces signes doivent consulter rapidement.",
+    "credit": {
+     "auteur": "Scientific Animations",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_liver_parts.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Grippe et Covid : la campagne de vaccination démarre",
+    "court": "Grippe et Covid : la campagne démarre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Altus_AFB_fights_Influenza_120106-F-BT319-788.jpg/1280px-Altus_AFB_fights_Influenza_120106-F-BT319-788.jpg",
+    "legende": "Une injection de vaccin contre la grippe (illustration)",
+    "chapeau": "Selon un communiqué publié le 8 octobre par la Direction générale de la santé, l'Assurance maladie, Santé publique France et l'ANSM, la campagne de vaccination contre la grippe court du 13 octobre 2026 au 31 janvier 2027, conjointement avec celle contre le Covid-19.",
+    "eclairage": "Que veut dire « décès en excès » ?",
+    "chiffres": [
+     {
+      "valeur": "13 oct.",
+      "legende": "début de la campagne"
+     },
+     {
+      "valeur": "12 140",
+      "legende": "décès en excès, hiver 2025-2026"
+     },
+     {
+      "valeur": "100 %",
+      "legende": "prise en charge des personnes ciblées"
+     }
+    ],
+    "passe": "Selon un communiqué publié le 8 octobre par la Direction générale de la santé, l'Assurance maladie, Santé publique France et l'ANSM, la campagne de vaccination contre la grippe court du 13 octobre 2026 au 31 janvier 2027, conjointement avec celle contre le Covid-19. Elle vise en priorité les personnes de 65 ans et plus, les femmes enceintes, les personnes atteintes de maladies chroniques et les professionnels de santé ; le vaccin est pris en charge à 100 % pour ces publics. Les deux vaccins peuvent être faits lors d'une même visite, à deux endroits différents. Chez les 65 ans et plus, les vaccins renforcés Efluelda et Fluad sont préférés. Nouveauté : les médecins libéraux, sages-femmes, infirmiers et centres de santé peuvent stocker et administrer ces vaccins. Le bilan de l'hiver dernier : environ 115 000 passages aux urgences pour syndrome grippal, dont 20 % suivis d'une hospitalisation, et 12 140 décès en excès pendant l'épidémie, l'une des saisons les plus intenses depuis 2011. Côté bronchiolite, la campagne de prévention du VRS a débuté le 14 septembre, avec le vaccin Abrysvo pendant la grossesse ou des anticorps pour le nourrisson.",
+    "points": [],
+    "explication": "C'est l'écart entre le nombre de décès observés pendant l'épidémie et le nombre attendu sans elle, toutes causes confondues. Cela ne veut pas dire que ces 12 140 personnes sont toutes mortes de la grippe : c'est un indicateur de la pression de l'hiver sur la santé de la population. Le virus de la grippe évolue d'une année à l'autre, ce qui explique que la vaccination soit proposée chaque saison. Les vaccins « renforcés » proposés aux 65 ans et plus sont conçus pour mieux stimuler un système immunitaire qui répond moins bien avec l'âge. Pour savoir si vous êtes concerné, la question se pose à votre médecin, votre pharmacien ou votre infirmier.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ansm.sante.fr/actualites/grippe-covid-19-bronchiolite-se-proteger-contre-les-infections-respiratoires-de-lhiver",
+      "nom": "ANSM (communiqué DGS, Assurance maladie, Santé publique France)"
+     },
+     {
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/actualites/lancement-de-la-campagne-de-vaccination-2026-contre-la-grippe-et-le-covid-19",
+      "nom": "pour-les-personnes-agees.gouv.fr"
+     },
+     {
+      "url": "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/campagne-de-vaccination-2026-2027-contre-la-grippe-saisonniere-et-la-covid-19",
+      "nom": "Ordre des pharmaciens"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Dr Grégory Emery",
+      "contexte": "directeur général de la santé",
+      "texte": "« La prévention des infections respiratoires se prépare avant les premières vagues épidémiques »",
+      "url": "https://ansm.sante.fr/actualites/grippe-covid-19-bronchiolite-se-proteger-contre-les-infections-respiratoires-de-lhiver",
+      "source": "ANSM"
+     }
+    ],
+    "apres": "La campagne de vaccination grippe se poursuit jusqu'au 31 janvier 2027. L'ANSM invite à déclarer tout effet indésirable sur le portail national de signalement.",
+    "change": "Les personnes ciblées peuvent se faire vacciner chez un plus grand nombre de professionnels. L'Assurance maladie lance une campagne d'information du 17 octobre au 20 décembre et relance les assurés invités.",
+    "credit": {
+     "auteur": "Senior Airman Myles Stepp / U.S. Air Force",
+     "licence": "domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Altus_AFB_fights_Influenza_120106-F-BT319-788.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Début de la campagne de vaccination contre la grippe et le Covid-19 (jusqu'au 31 janvier 2027)."
+   },
+   {
+    "jour": "17",
+    "mois": "OCT.",
+    "texte": "Campagne d'information de l'Assurance maladie sur la vaccination antigrippale, jusqu'au 20 décembre."
+   },
+   {
+    "jour": "FIN",
+    "mois": "2026",
+    "texte": "Anti-migraineux : nouvel avis attendu de la Haute Autorité de santé d'ici la fin de l'année, selon Medscape."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai randomisé",
+    "definition": "Une étude où les participants sont répartis par tirage au sort entre deux traitements ou deux techniques, pour comparer des groupes équivalents."
+   },
+   {
+    "terme": "Critère principal",
+    "definition": "La mesure choisie avant l'essai pour juger du résultat : ici, le nombre de ganglions retirés."
+   },
+   {
+    "terme": "Pharmacovigilance",
+    "definition": "La surveillance des effets indésirables des médicaments une fois commercialisés, à partir des cas signalés."
+   },
+   {
+    "terme": "Décès en excès",
+    "definition": "L'écart entre les décès observés et les décès attendus sur une période, toutes causes confondues."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai ROBOT-2, la chirurgie robotique de l'œsophage a réduit de façon significative la mortalité à 90 jours par rapport à la chirurgie classique.",
+   "reponse": false,
+   "explication": "La mortalité à 90 jours était de 1,0 % avec le robot et de 3,0 % avec la chirurgie classique, mais cet écart n'est pas statistiquement significatif (p = 0,62). Le critère principal de l'essai était le nombre de ganglions retirés : 36 contre 32 en médiane."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-13",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGULATION",
+    "titre": "Royaume-Uni : l'accès aux modèles d'IA américains est rétabli",
+    "court": "Londres : accès aux modèles d'IA rétabli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Imperial_College_London_Women_in_Science_school_Wikipedia_training_15.jpg/1280px-Imperial_College_London_Women_in_Science_school_Wikipedia_training_15.jpg",
+    "legende": "La Queen's Tower de l'Imperial College de Londres (illustration)",
+    "chapeau": "Le 24 septembre, le Bureau du directeur national de la cybersécurité de la Maison-Blanche a demandé à OpenAI et à Anthropic de ne pas confier leurs nouveaux modèles aux évaluateurs britanniques de l'AI Security Institute (AISI) avant un examen par les autorités américaines, selon Reuters.",
+    "eclairage": "À quoi sert l'AISI, et pourquoi l'accès avant publication compte-t-il ?",
+    "chiffres": [
+     {
+      "valeur": "17 j",
+      "legende": "durée de la suspension"
+     },
+     {
+      "valeur": "3",
+      "legende": "laboratoires concernés"
+     },
+     {
+      "valeur": "11/10",
+      "legende": "levée de la suspension"
+     }
+    ],
+    "passe": "Le 24 septembre, le Bureau du directeur national de la cybersécurité de la Maison-Blanche a demandé à OpenAI et à Anthropic de ne pas confier leurs nouveaux modèles aux évaluateurs britanniques de l'AI Security Institute (AISI) avant un examen par les autorités américaines, selon Reuters. Anthropic a alors limité son modèle Claude Mythos 5.1 à des organisations américaines. Le 11 octobre, selon le Telegraph, la Maison-Blanche est revenue sur cette consigne : l'AISI retrouve un accès avant publication aux modèles d'Anthropic, de Google DeepMind et d'OpenAI, dans les conditions volontaires d'avant la suspension, pas dans un nouveau cadre contraignant. Le 12 octobre, à l'Imperial College de Londres, le ministre britannique de l'IA, Kanishka Narayan, a dit que ses équipes évaluaient la dernière génération de modèles, dont Gemini 4 Argon de Google. Le même jour, selon un entretien à la BBC, le président de Microsoft, Brad Smith, a réclamé des règles de sécurité internationales, des rapports d'incident obligatoires, une évaluation indépendante avant la sortie des modèles et un « frein d'urgence ». Aucune déclaration officielle de la Maison-Blanche sur ce retour en arrière n'a été relevée.",
+    "points": [],
+    "explication": "L'AI Security Institute est un organisme public britannique, né en 2023, qui teste les modèles d'IA les plus puissants pour repérer des risques d'usage malveillant, notamment en cybersécurité et en biologie. Un test avant publication (pre-deployment testing en anglais) consiste à essayer de faire commettre des erreurs ou des abus à un modèle avant que le public y ait accès. Cet accès repose sur des accords volontaires : aucune loi n'oblige aujourd'hui les laboratoires à ouvrir leurs modèles, ce qui explique qu'une consigne politique ait pu le suspendre en septembre. Démontré ou annoncé ? Le rétablissement vient de comptes rendus de presse et d'un discours ministériel. Les résultats des tests, eux, ne sont pas publics.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.gov.uk/government/speeches/building-a-safer-more-secure-britain-in-the-age-of-ai",
+      "nom": "gouvernement britannique (discours)"
+     },
+     {
+      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "nom": "The Decoder (Telegraph)"
+     },
+     {
+      "url": "https://www.yahoo.com/news/world/articles/u-k-regains-access-openai-113628464.html",
+      "nom": "Quartz via Yahoo (Bloomberg)"
+     },
+     {
+      "url": "https://startupfortune.com/uk-ai-minister-details-how-the-restored-frontier-model-testing-deal-works/",
+      "nom": "Startup Fortune (Reuters)"
+     },
+     {
+      "url": "https://www.itpro.com/business/policy-and-legislation/right-now-your-washing-machine-is-subject-to-more-safety-rules-than-ai-microsofts-brad-smith-wants-more-ai-kill-switches",
+      "nom": "ITPro"
+     },
+     {
+      "url": "https://foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation",
+      "nom": "Fox Business"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Kanishka Narayan",
+      "contexte": "ministre britannique de l'IA, 12 octobre",
+      "texte": "« if you can't adequately control the risks, do not release the system »",
+      "url": "https://www.gov.uk/government/speeches/building-a-safer-more-secure-britain-in-the-age-of-ai",
+      "source": "gouvernement britannique"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Brad Smith",
+      "contexte": "président de Microsoft, entretien à la BBC",
+      "texte": "« Right now, your washing machine is subject to more safety rules than AI. »",
+      "url": "https://foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation",
+      "source": "Fox Business"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Satya Nadella",
+      "contexte": "PDG de Microsoft, texte publié le 10 octobre",
+      "texte": "« We simply can't outsource responsibility for what intelligence does on our behalf »",
+      "url": "https://www.itpro.com/business/policy-and-legislation/right-now-your-washing-machine-is-subject-to-more-safety-rules-than-ai-microsofts-brad-smith-wants-more-ai-kill-switches",
+      "source": "ITPro"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Donald Trump",
+      "contexte": "président des États-Unis, selon ITPro",
+      "texte": "Selon ITPro, il a dit que les entreprises d'IA devaient s'autoréguler et qu'il ne voulait pas les voir freinées.",
+      "url": "https://www.itpro.com/business/policy-and-legislation/right-now-your-washing-machine-is-subject-to-more-safety-rules-than-ai-microsofts-brad-smith-wants-more-ai-kill-switches",
+      "source": "ITPro"
+     }
+    ],
+    "apres": "Le gouvernement britannique cite le projet de loi sur la cybersécurité et la résilience pour signaler les incidents graves et les quasi-incidents. Un cadre volontaire peut être suspendu de nouveau : c'est ce qui s'est produit en septembre.",
+    "change": "Pour un utilisateur : rien de direct, les tests avant publication ne sont pas publics.",
+    "credit": {
+     "auteur": "Jwslubbock",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Imperial_College_London_Women_in_Science_school_Wikipedia_training_15.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PUCES & INFRA",
+    "titre": "Amazon serait en discussions pour racheter Decart (7 Md$)",
+    "court": "Amazon et Decart : un rachat à 7 Md$ ?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Amazon_Spheres.jpg/1280px-Amazon_Spheres.jpg",
+    "legende": "Les Spheres d'Amazon à Seattle (illustration)",
+    "chapeau": "Le 11 octobre, le Wall Street Journal a rapporté, d'après des sources proches du dossier, qu'Amazon est en discussions pour racheter Decart, une jeune pousse d'IA, pour environ 7 milliards de dollars. Reuters, qui relaie l'information, n'a pas pu la vérifier de façon indépendante.",
+    "eclairage": "Pourquoi un logiciel placé entre le modèle et la puce vaut-il des milliards ?",
+    "chiffres": [
+     {
+      "valeur": "~7 Md$",
+      "legende": "prix évoqué par le WSJ"
+     },
+     {
+      "valeur": "~4 Md$",
+      "legende": "valorisation de Decart en mai"
+     },
+     {
+      "valeur": "~6 Md$",
+      "legende": "piste d'Anthropic abandonnée"
+     }
+    ],
+    "passe": "Le 11 octobre, le Wall Street Journal a rapporté, d'après des sources proches du dossier, qu'Amazon est en discussions pour racheter Decart, une jeune pousse d'IA, pour environ 7 milliards de dollars. Reuters, qui relaie l'information, n'a pas pu la vérifier de façon indépendante. Decart était valorisée près de 4 milliards de dollars en mai, d'après PitchBook cité par le journal, lorsqu'elle a levé 300 millions de dollars auprès de Radical Ventures, avec Nvidia comme nouvel investisseur. Selon le WSJ, un accord pourrait intervenir rapidement si les discussions n'échouent pas et si aucun autre acheteur n'apparaît. D'après Bloomberg, cité par Reuters, Anthropic avait étudié en août un achat d'environ 6 milliards de dollars, puis y a renoncé en septembre après examen des comptes. Amazon a refusé de commenter ; Decart n'a pas répondu.",
+    "points": [],
+    "explication": "Un modèle d'IA tourne sur des puces spécialisées : des processeurs graphiques (GPU) de Nvidia, les puces Trainium d'Amazon, les TPU de Google. Chaque famille a ses propres outils logiciels, et un modèle réglé pour l'une ne tourne pas toujours aussi bien sur l'autre. Selon RuntimeWire et CryptoBriefing, le logiciel de Decart sert à faire fonctionner et à accélérer des modèles sur des puces différentes. Pour un géant du cloud, cela peut réduire la dépendance à un seul fabricant. RuntimeWire pose la question de savoir si cela renforcerait les puces Trainium d'Amazon ou affaiblirait son discours « agnostique ». Démontré ou annoncé ? Ni le prix ni l'existence d'un accord ne sont confirmés : ce sont des discussions rapportées par la presse.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://kfgo.com/2026/10/11/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/",
+      "nom": "Reuters via KFGO (WSJ)"
+     },
+     {
+      "url": "https://runtimewire.com/article/amazon-decart-acquisition-talks-7-billion-ai-chip-software",
+      "nom": "RuntimeWire"
+     },
+     {
+      "url": "https://cryptobriefing.com/amazon-talks-acquire-decart-ai-7-billion/",
+      "nom": "CryptoBriefing"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Amazon",
+      "contexte": "selon Reuters",
+      "texte": "A refusé de commenter en dehors des heures ouvrables.",
+      "url": "https://kfgo.com/2026/10/11/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/",
+      "source": "Reuters via KFGO"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "CONCURRENT",
+      "qui": "Anthropic",
+      "contexte": "selon Bloomberg, cité par Reuters",
+      "texte": "A étudié un achat, puis y a renoncé en septembre après examen des comptes.",
+      "url": "https://kfgo.com/2026/10/11/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/",
+      "source": "Reuters via KFGO"
+     }
+    ],
+    "apres": "Selon le WSJ, un accord pourrait être conclu rapidement ; aucune date n'a été donnée.",
+    "change": "Pour un utilisateur : rien de direct. Pour une entreprise cliente d'un cloud : le choix des puces et des outils pour faire tourner l'IA pourrait se jouer de plus en plus dans les logiciels, et dépendre de qui les possède. Horizon : inconnu, rien n'est signé.",
+    "credit": {
+     "auteur": "Buiobuione",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "PUCES & INFRA",
+    "titre": "Nvidia : les plans de ses racks Vera Rubin ouverts à l'OCP",
+    "court": "Nvidia ouvre ses racks Vera Rubin à l'OCP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cern_datacenter.jpg/960px-Cern_datacenter.jpg",
+    "legende": "Baies de serveurs dans le centre de calcul du CERN (illustration)",
+    "chapeau": "Le 12 octobre, au sommet OCP Global Summit de San José, Nvidia a annoncé contribuer à l'Open Compute Project (OCP, un consortium qui publie des plans ouverts de matériel pour centres de données) les plans de ses racks et plateaux de calcul Vera Rubin, via son architecture MGX.",
+    "eclairage": "Pourquoi parler de kilowatts, de refroidissement et de plans « ouverts » ?",
+    "chiffres": [
+     {
+      "valeur": "250 kW",
+      "legende": "puissance max. par rack (Nvidia)"
+     },
+     {
+      "valeur": "< 2 s",
+      "legende": "retour visé à pleine charge après coupure"
+     },
+     {
+      "valeur": "2×",
+      "legende": "Vera CPU contre Grace (Nvidia)"
+     }
+    ],
+    "passe": "Le 12 octobre, au sommet OCP Global Summit de San José, Nvidia a annoncé contribuer à l'Open Compute Project (OCP, un consortium qui publie des plans ouverts de matériel pour centres de données) les plans de ses racks et plateaux de calcul Vera Rubin, via son architecture MGX. La version MGX 1.2 prévoit un refroidissement liquide à connexion aveugle, une barre de distribution électrique de 5 000 ampères refroidie par liquide et des racks jusqu'à 250 kilowatts. Un nouveau rack Vera CPU vise l'IA agentique, c'est-à-dire des programmes qui enchaînent des actions seuls. Meta adopte les commutateurs Ethernet Spectrum-6 de 102,4 térabits par seconde. Google, Meta, Microsoft et Nvidia ont publié une spécification de résilience face aux perturbations du réseau électrique, qui vise un retour à presque pleine charge en moins de deux secondes. Ces chiffres sont des capacités ou des objectifs annoncés, pas des mesures sur des sites en service.",
+    "points": [],
+    "explication": "Une baie (rack en anglais) est une armoire qui regroupe des serveurs. Nvidia appelle « usines d'IA » les centres de données qui entraînent et font tourner les modèles, et leur limite est matérielle : électricité, refroidissement, réseau. Le kilowatt mesure la puissance électrique appelée par une baie ; 250 kW est la capacité annoncée pour MGX 1.2, avec des plateaux entièrement refroidis par liquide. L'OCP publie des plans que plusieurs fabricants peuvent suivre pour construire des pièces compatibles. Démontré ou annoncé ? Ce sont des plans et des objectifs, pas du matériel déployé. Selon Converge Digest, des plans ouverts ne créent pas à eux seuls des produits interchangeables, et la compatibilité entre fabricants reste à démontrer.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "nom": "Nvidia (annonce)"
+     },
+     {
+      "url": "https://siliconangle.com/2026/10/12/nvidia-tackles-ai-factory-scaling-bottlenecks-with-open-rack-designs-and-networking-advances/",
+      "nom": "SiliconANGLE"
+     },
+     {
+      "url": "https://convergedigest.com/nvidia-ocp-2026-vera-rubin-mgx-spectrum6-usfp/",
+      "nom": "Converge Digest"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Joe DeLaere",
+      "contexte": "responsable des solutions d'infrastructure d'IA, Nvidia",
+      "texte": "« The real bottleneck for the industry right now is how fast the world can manufacture and deploy AI factories »",
+      "url": "https://siliconangle.com/2026/10/12/nvidia-tackles-ai-factory-scaling-bottlenecks-with-open-rack-designs-and-networking-advances/",
+      "source": "SiliconANGLE"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "ANALYSE",
+      "qui": "Converge Digest",
+      "contexte": "presse spécialisée",
+      "texte": "« These are specification targets, not verified results for all deployments. »",
+      "url": "https://convergedigest.com/nvidia-ocp-2026-vera-rubin-mgx-spectrum6-usfp/",
+      "source": "Converge Digest"
+     }
+    ],
+    "apres": "Le sommet OCP se tient du 12 au 15 octobre à San José.",
+    "change": "Pour un utilisateur : rien de direct. Pour une entreprise : des standards ouverts peuvent élargir le choix de fabricants de matériel pour l'IA, mais l'alimentation électrique et le refroidissement restent les contraintes.",
+    "credit": {
+     "auteur": "Hugovanmeijeren",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "OCP Global Summit : dernier jour du sommet de San José (OCP)."
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "ai)."
+   },
+   {
+    "jour": "12",
+    "mois": "NOV.",
+    "texte": "Anthropic : entrée en vigueur de sa nouvelle politique d'usage (Anthropic)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Test avant publication",
+    "definition": "Évaluation d'un modèle d'IA par des experts avant sa mise à disposition du public ; pre-deployment testing en anglais."
+   },
+   {
+    "terme": "Frein d'urgence",
+    "definition": "Mécanisme qui permet à une personne autorisée de suspendre ou d'arrêter un système d'IA en cours de tâche ; emergency brake ou kill switch en anglais."
+   },
+   {
+    "terme": "Baie",
+    "definition": "Armoire qui regroupe des serveurs dans un centre de données ; rack en anglais."
+   },
+   {
+    "terme": "Open Compute Project (OCP)",
+    "definition": "Consortium qui publie des plans ouverts de matériel pour centres de données."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le rétablissement de l'accès des évaluateurs britanniques aux modèles d'IA américains avant leur sortie revient à un cadre volontaire, et non à un cadre contraignant.",
+   "reponse": true,
+   "explication": "Selon Reuters, relayé par Startup Fortune, l'accord revient aux conditions volontaires d'avant la suspension de 17 jours, et non à un nouveau cadre contraignant."
   }
  },
  {
