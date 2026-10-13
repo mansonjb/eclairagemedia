@@ -1,5 +1,227 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-13",
+  "url": "/podcasts/politique-2026-10-13.mp3",
+  "taille": 2771114,
+  "duree": 231,
+  "titre": "Éclairage politique, mardi 13 octobre 2026",
+  "titre_episode": "Budget, lycéens, loi intégrale, gazole : l'essentiel du mardi 13 octobre",
+  "description": "Ce mardi 13 octobre, Léa et Paul reprennent 4 sujets.\n• Budget 2027 : le texte rejeté en commission arrive dans l'hémicycle, avec les motions de rejet déposées par le PS et LFI expliquées.\n• Mouvement lycéen : l'acte V de ce mardi, les chiffres du ministère et les réponses du gouvernement.\n• Loi intégrale : le vote à l'Assemblée sur les violences sexistes et sexuelles, son contenu, son coût et la suite.\n• Carburants : la baisse annoncée du gazole au 1er novembre, ce qu'elle repose sur et ce que disent les chercheuses.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : l'examen s'ouvre dans l'hémicycle, sous la menace d'un rejet"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Mouvement lycéen : « acte V » aujourd'hui, Macron appelle au calme"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Violences sexistes et sexuelles : l'Assemblée vote aujourd'hui la loi intégrale"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Carburants : Lecornu annonce une baisse du gazole « dès le 1er novembre »"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Léa. Nous sommes mardi treize octobre, et voici l'essentiel de l'actualité politique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour, c'est Paul. Au programme : le budget qui s'ouvre à l'Assemblée, les lycéens dans la rue, une grande loi sur les violences sexistes, et le prix du gazole."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par un chiffre : trente et un. C'est le nombre de voix contre, en commission des finances, quand les députés ont rejeté le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois voix pour, deux abstentions. Mais ce vote n'a pas de conséquence immédiate, parce que les débats en séance repartent du texte du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça commence aujourd'hui. Qu'est-ce qui se joue, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi soir, les députés examinent d'abord des motions de rejet. Le Parti socialiste en a déposé une, La France insoumise aussi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une motion de rejet, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autrement dit : rejeter le texte en bloc, avant même d'en discuter les articles. Si elle est adoptée, le budget part directement au Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc tout dépend du vote du Rassemblement national."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que décrit l'AFP. S'il vote contre la motion, elle sera sans doute rejetée. Marine Le Pen dit préférer qu'un budget soit adopté, même imparfait."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le gouvernement vise un déficit de cinq pour cent du PIB. Et si rien ne passe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Parlement a soixante-dix jours. Ensuite, il y a la loi spéciale. Le Premier ministre peut aussi utiliser le quarante-neuf trois, ou des ordonnances budgétaires, mais pas avant le dix-huit décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : aujourd'hui, c'est le premier test du budget, et il se joue sur le vote du RN."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor. Dans la rue, cette fois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le mouvement lycéen en est à son cinquième acte. Une marche est prévue à Paris à quatorze heures, de la place d'Italie jusqu'aux Invalides."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi, selon le ministère de l'Éducation, quatre-vingt-seize virgule cinq pour cent des lycées étaient ouverts. Cent trente fermés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des blessés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Au moins huit personnels de l'Éducation nationale ont été blessés lundi matin, selon le ministère. Le ministre Édouard Geffray a dénoncé la violence de certains jeunes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Emmanuel Macron, lui, a appelé à manifester dans le calme et dans l'ordre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les organisations lycéennes, elles, réclament un plan de dix milliards d'euros, et la suppression de Parcoursup."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement a répondu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois mille professeurs remplaçants, dont le déploiement a commencé. Et des amendements au budget, qui reprendront certaines idées de la consultation des élèves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, il y a eu une consultation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, une plateforme. Environ les trois quarts des contributions parlent d'emplois du temps surchargés, la moitié de l'état des bâtiments."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le mouvement continue, et le gouvernement joue la carte du budget pour y répondre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre rendez-vous aujourd'hui à l'Assemblée : le vote de la loi dite intégrale contre les violences sexistes et sexuelles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Intégrale, ça veut dire qu'elle couvre tout ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'idée, c'est de traiter la prévention, le repérage, l'accompagnement et la justice. Le texte est passé de soixante-neuf à plus de cent dix articles pendant les débats."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qu'il contient, par exemple ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des unités spécialisées dans la police judiciaire. Une infraction d'inceste. Et un entretien obligatoire à l'école, chaque année à partir de deux mille trente-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a un point qui coince, c'est le congé pour les victimes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Un congé de dix jours a été rejeté vendredi, par soixante-dix-sept voix contre soixante-quatorze. Le gouvernement demande un nouveau vote aujourd'hui."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'argent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre des Comptes publics estime le coût à trois ou quatre milliards d'euros par an, à terme. Les associations réclament au moins trois milliards dès maintenant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le vote est prévu à partir de seize heures trente. Ensuite, le Sénat, en janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On termine avec ce que vous voyez à la pompe. Le gouvernement promet une baisse du gazole dès le premier novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sébastien Lecornu a annoncé hier que dix millions de barils, tirés des stocks stratégiques, seront vendus aux distributeurs à prix coûtant pendant trois mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça donnerait quoi à la pompe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Entre douze et dix-huit centimes de moins par litre, selon le gouvernement. Environ dix euros d'économie par plein."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, c'est une estimation, pas un prix constaté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Des chercheuses citées par Public Sénat jugent l'effet plus limité, parce que dix millions de barils représentent environ vingt pour cent de la consommation sur trois mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le calendrier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Premières ventes aux distributeurs le vingt-huit octobre. TotalEnergies s'est engagé à répercuter environ dix centimes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la baisse est annoncée, mais son ampleur reste à vérifier à la pompe."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour l'essentiel de ce mardi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-12",
   "url": "/podcasts/essentiel-2026-10-12.mp3",

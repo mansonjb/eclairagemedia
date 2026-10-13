@@ -1,5 +1,424 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-13",
+  "minutes": 18,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : l'examen s'ouvre dans l'hémicycle, sous la menace d'un rejet",
+    "court": "Budget 2027 : les débats s'ouvrent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg/1280px-H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg",
+    "legende": "L'hémicycle de l'Assemblée nationale (illustration)",
+    "chapeau": "Mardi 13 octobre, l'Assemblée nationale ouvre en séance l'examen du projet de loi de finances (PLF) pour 2027, le dernier budget du quinquennat d'Emmanuel Macron selon l'AFP. L'examen commence mardi soir par la partie « recettes ».",
+    "eclairage": "Une motion de rejet préalable, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "déficit public visé en 2027 (du PIB)"
+     },
+     {
+      "valeur": "31",
+      "legende": "voix contre en commission (3 pour, 2 abstentions)"
+     },
+     {
+      "valeur": "18/12",
+      "legende": "date la plus précoce pour des ordonnances"
+     }
+    ],
+    "passe": "Mardi 13 octobre, l'Assemblée nationale ouvre en séance l'examen du projet de loi de finances (PLF) pour 2027, le dernier budget du quinquennat d'Emmanuel Macron selon l'AFP. L'examen commence mardi soir par la partie « recettes ». Le texte vise un déficit public de 5 % du PIB, au prix d'un effort d'environ 45 milliards d'euros selon l'AFP (43 milliards selon d'autres dépêches), dont environ 5,4 milliards demandés aux collectivités locales. La commission des finances l'avait rejeté par 31 voix contre 3 et 2 abstentions. Avant tout examen des articles, le PS et La France insoumise ont chacun déposé une motion de rejet, qui sera examinée mardi soir. Le Rassemblement national, dont les voix sont décisives, n'a pas dévoilé son vote dans les sources consultées. Parmi les points de tension : la sous-indexation des pensions au-dessus de 1 256 euros, le gel du point d'indice des fonctionnaires et les aides au logement.",
+    "points": [],
+    "explication": "Avant la discussion des articles, un groupe peut proposer de rejeter le texte en bloc. Si la motion est adoptée, l'Assemblée n'examine pas le projet de loi de finances, qui est renvoyé au Sénat en première lecture, selon l'AFP. Si elle est rejetée, les articles sont débattus. Le Parlement dispose de 70 jours, jusqu'à la fin décembre, pour adopter le budget ; au-delà, le gouvernement peut faire voter une loi spéciale qui permet à l'État de continuer à fonctionner, selon LCP. Le Premier ministre Sébastien Lecornu peut aussi recourir à l'article 49, alinéa 3, de la Constitution (adoption sans vote, sous la menace d'une motion de censure), ou à des ordonnances budgétaires, jamais utilisées, possibles à partir du 18 décembre.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/presentation-du-budget-2027-comment-se-deroule-l-examen-du-projet-de-loi-de-finances",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Estelle Mercier",
+      "contexte": "députée",
+      "texte": "« Le Premier ministre n'a donné aucun signe d'inflexion »",
+      "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Groupe LFI",
+      "contexte": "motion déposée",
+      "texte": "Les insoumis votent leur propre motion de rejet",
+      "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "David Amiel",
+      "contexte": "ministre des Comptes publics",
+      "texte": "« Il nous faut un budget qui réduise le déficit aussi pour réduire les taux d'intérêt »",
+      "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "députée",
+      "texte": "Elle préfère qu'un budget soit adopté, même imparfait",
+      "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Mardi soir : examen des motions de rejet, puis début de la discussion de la partie recettes. Une fois l'Assemblée passée, le Sénat reprend l'examen, puis une commission mixte paritaire (sept députés, sept sénateurs) cherche un compromis, selon LCP.",
+    "change": "Si la motion de rejet était adoptée, le projet repartirait au Sénat sans examen des articles par l'Assemblée. Si elle est rejetée, les députés débattent d'abord de la partie recettes.",
+    "credit": {
+     "auteur": "Chatsam",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉDUCATION",
+    "titre": "Mouvement lycéen : « acte V » aujourd'hui, Macron appelle au calme",
+    "court": "Lycéens : « acte V » aujourd'hui",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_(Acte_III)_07.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_(Acte_III)_07.jpg",
+    "legende": "Manifestation de lycéens et d'étudiants à Perpignan",
+    "chapeau": "Mardi 13 octobre, une nouvelle journée nationale de grève et de manifestations, l'« acte V », est appelée par l'intersyndicale étudiante et professionnelle. À Paris, le cortège doit partir à 14 heures de la place d'Italie vers les Invalides.",
+    "eclairage": "Qui manifeste, et que réclament-ils ?",
+    "chiffres": [
+     {
+      "valeur": "96,5 %",
+      "legende": "des lycées ouverts lundi 12, selon le ministère"
+     },
+     {
+      "valeur": "130",
+      "legende": "lycées fermés lundi (172 vendredi, AFP)"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "plan réclamé par l'Union syndicale lycéenne"
+     }
+    ],
+    "passe": "Mardi 13 octobre, une nouvelle journée nationale de grève et de manifestations, l'« acte V », est appelée par l'intersyndicale étudiante et professionnelle. À Paris, le cortège doit partir à 14 heures de la place d'Italie vers les Invalides. Lundi 12 octobre, selon le ministère de l'Éducation nationale, 96,5 % des lycées étaient ouverts (130 fermés, contre 172 vendredi selon l'AFP ; une autre dépêche donnait 141 vendredi) et au moins huit personnels de l'Éducation nationale ont été blessés lundi matin. Le ministre Édouard Geffray a dénoncé la « violence débridée de certains jeunes ». Emmanuel Macron a appelé à manifester « dans le calme, dans l'ordre et dans le respect à la fois des personnes et des biens ». Selon une source policière citée par l'AFP, 130 000 à 200 000 personnes sont attendues en France. Sébastien Lecornu a annoncé des amendements au budget 2027 reprenant certaines propositions de la plateforme de consultation des élèves : environ trois quarts des contributions portent sur des emplois du temps surchargés, la moitié sur l'état des bâtiments.",
+    "points": [],
+    "explication": "Le mouvement est parti à la mi-septembre de la région parisienne, selon l'AFP. Les organisations lycéennes dénoncent notamment Parcoursup (la plateforme d'accès à l'enseignement supérieur), les professeurs non remplacés, des bâtiments dégradés et des emplois du temps chargés. L'Union syndicale lycéenne demande un plan de 10 milliards d'euros et la suppression de Parcoursup. Les chiffres de participation divergent : pour le premier jour de grève, 266 000 manifestants selon les autorités, 450 000 selon les organisateurs ; jeudi 8 octobre, 71 500 selon l'Intérieur.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/les-lyceens-de-nouveau-dans-la-rue-mardi-pour-un-acte-v-du-mouvement",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.sudradio.fr/societe/mouvement-des-lyceens-les-derniers-developpements-4",
+      "nom": "Sud Radio, avec AFP (derniers développements)"
+     },
+     {
+      "url": "https://actu.orange.fr/france/mobilisation-lyceenne-tout-ce-qu-il-faut-savoir-pour-la-journee-du-mardi-13-octobre-magic-CNT000002sEuCA.html",
+      "nom": "Orange"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/11/revolte-ado-ou-revolution-la-contestation-etudiante-bouscule-la-presidentielle-francaise",
+      "nom": "Euronews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale",
+      "texte": "Il dénonce la « violence débridée de certains jeunes »",
+      "url": "https://www.sudradio.fr/societe/mouvement-des-lyceens-les-derniers-developpements-4",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉLYSÉE",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "Il appelle à manifester « dans le calme, dans l'ordre et dans le respect à la fois des personnes et des biens »",
+      "url": "https://www.sudradio.fr/societe/les-lyceens-de-nouveau-dans-la-rue-mardi-pour-un-acte-v-du-mouvement",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION SYNDICALE LYCÉENNE",
+      "qui": "Organisation lycéenne",
+      "contexte": "syndicat",
+      "texte": "Elle réclame un plan de 10 milliards d'euros pour les lycées",
+      "url": "https://www.sudradio.fr/societe/les-lyceens-de-nouveau-dans-la-rue-mardi-pour-un-acte-v-du-mouvement",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Mardi 13 octobre : marches à Paris et dans d'autres villes. Samedi 17 octobre : mobilisation « contre la vie chère », que des lycéens espèrent rejoindre. Les amendements promis seront débattus avec le budget.",
+    "change": "Le gouvernement parle d'un ralentissement du mouvement tout en relevant une hausse des violences ; les organisations lycéennes maintiennent leur calendrier et demandent à être reçues par Sébastien Lecornu.",
+    "credit": {
+     "auteur": "Aurelio Cárdenas",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_(Acte_III)_07.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SOCIÉTÉ",
+    "titre": "Violences sexistes et sexuelles : l'Assemblée vote aujourd'hui la loi intégrale",
+    "court": "Loi intégrale : vote à l'Assemblée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes,_sexuelles_et_de_genre_%E2%80%94_199.jpg/1280px-Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes,_sexuelles_et_de_genre_%E2%80%94_199.jpg",
+    "legende": "Marche à Paris contre les violences sexistes et sexuelles, novembre 2025 (illustration)",
+    "chapeau": "L'Assemblée nationale vote mardi 13 octobre, après les questions au gouvernement, la proposition de loi « intégrale » contre les violences sexistes et sexuelles, portée par la députée socialiste Céline Thiébault-Martinez et née après le meurtre de la jeune Lyhanna.",
+    "eclairage": "Seconde délibération et navette : la suite du parcours",
+    "chiffres": [
+     {
+      "valeur": "110+",
+      "legende": "articles, contre 69 au départ (AFP)"
+     },
+     {
+      "valeur": "240+",
+      "legende": "députés signataires, huit groupes"
+     },
+     {
+      "valeur": "16h30",
+      "legende": "début du vote solennel mardi 13 octobre"
+     }
+    ],
+    "passe": "L'Assemblée nationale vote mardi 13 octobre, après les questions au gouvernement, la proposition de loi « intégrale » contre les violences sexistes et sexuelles, portée par la députée socialiste Céline Thiébault-Martinez et née après le meurtre de la jeune Lyhanna. Après six jours d'examen terminés vendredi 9 octobre, le texte compte plus de 110 articles, selon l'AFP. Les députés ont notamment validé des unités spécialisées dans la police judiciaire, une infraction spécifique d'inceste, la sanction de l'envoi de photos intimes non sollicitées (un an de prison et 15 000 euros d'amende) et un entretien obligatoire à l'école, annuel à partir de 2032, selon LCP. Un article créant un congé de dix jours pour les victimes de violences sexuelles a été rejeté vendredi par 77 voix contre 74 ; le gouvernement a demandé une seconde délibération mardi. Les articles protégeant les femmes étrangères ont été supprimés. Le ministre des Comptes publics David Amiel chiffre le coût de la loi à 3 à 4 milliards d'euros par an « à terme » ; les associations réclament au moins 3 milliards dès maintenant, selon LCP.",
+    "points": [],
+    "explication": "Une proposition de loi est un texte d'origine parlementaire (un projet de loi vient du gouvernement). La seconde délibération permet au gouvernement de demander un nouveau vote sur certains articles. Si l'Assemblée adopte le texte, il passe au Sénat, avec un examen attendu en janvier ; une commission mixte paritaire tentera ensuite d'écrire un texte commun. Le gouvernement cherche un créneau plus tôt au Sénat, car un calendrier trop serré pourrait empêcher une adoption définitive avant la présidentielle, selon l'AFP.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-l-assemblee-a-termine-l-examen-du-texte-le",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://lepetitjournal.com/expat-politique/actualites/assemblee-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles-debute-dans-lhemicycle-454914",
+      "nom": "Le Petit Journal"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2169_proposition-loi.pdf",
+      "nom": "assemblee-nationale.fr (texte initial)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Céline Thiébault-Martinez",
+      "contexte": "rapporteure",
+      "texte": "« Il s'agit d'une estimation, et non d'un engagement »",
+      "url": "https://www.sudradio.fr/societe/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Gabrielle Cathala",
+      "contexte": "députée",
+      "texte": "Elle juge le texte « ni intégrale ni financée »",
+      "url": "https://www.sudradio.fr/societe/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Thomas Ménagé",
+      "contexte": "député",
+      "texte": "Il se félicite de la suppression des mesures sur les femmes étrangères",
+      "url": "https://www.sudradio.fr/societe/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FONDATION DES FEMMES",
+      "qui": "Anne-Cécile Mailfert",
+      "contexte": "porte-parole",
+      "texte": "Elle appelle à la « vigilance » pour « cette deuxième mi-temps »",
+      "url": "https://www.sudradio.fr/societe/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Mardi 13 octobre à partir de 16h30 : vote solennel, précédé d'une seconde délibération sur le congé de dix jours. Janvier : examen attendu au Sénat. Le budget 2027 dira les moyens alloués.",
+    "change": "La loi réunit huit groupes, des communistes à Les Républicains. Son adoption paraît acquise selon l'AFP, mais les votes de LFI et du RN restent incertains et le financement reste discuté.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_22_novembre_2025_%C3%A0_Paris_contre_les_violences_sexistes,_sexuelles_et_de_genre_%E2%80%94_199.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "POUVOIR D'ACHAT",
+    "titre": "Carburants : Lecornu annonce une baisse du gazole « dès le 1er novembre »",
+    "court": "Gazole : une baisse annoncée le 1er novembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Diesel_Gas_Pump_(54474872295).jpg/1280px-Diesel_Gas_Pump_(54474872295).jpg",
+    "legende": "Pistolets d'une pompe à carburant avec la touche Diesel (illustration)",
+    "chapeau": "Lundi 12 octobre, après avoir reçu les distributeurs de carburants, le Premier ministre Sébastien Lecornu a annoncé dans une vidéo que le prix du gazole baisserait « dès le 1er novembre ».",
+    "eclairage": "À quoi servent les stocks stratégiques ?",
+    "chiffres": [
+     {
+      "valeur": "10 M",
+      "legende": "de barils de gazole des stocks stratégiques"
+     },
+     {
+      "valeur": "12-18 c",
+      "legende": "baisse visée par litre (estimation du gouvernement)"
+     },
+     {
+      "valeur": "28/10",
+      "legende": "premières ventes aux distributeurs"
+     }
+    ],
+    "passe": "Lundi 12 octobre, après avoir reçu les distributeurs de carburants, le Premier ministre Sébastien Lecornu a annoncé dans une vidéo que le prix du gazole baisserait « dès le 1er novembre ». Environ 10 millions de barils de gazole, tirés des stocks stratégiques de l'État, seront vendus aux distributeurs à prix coûtant pendant trois mois, de novembre à janvier, avec des premières ventes le 28 octobre. Selon Matignon, ces stocks ont été achetés environ 0,28 euro le litre avant la guerre au Moyen-Orient, contre un prix de marché d'environ 1,10 euro. Le gouvernement estime la baisse à la pompe entre 12 et 18 centimes par litre. La Sagess, qui gère les stocks, publiera chaque semaine les volumes libérés. Le PDG de TotalEnergies, Patrick Pouyanné, s'est engagé à répercuter environ 10 centimes par litre pour les particuliers (8 à 12 selon un autre article de Sud Radio) ; la baisse concerne aussi le gazole non routier et le fioul domestique. Deux chercheuses citées par Public Sénat jugent l'effet limité : 10 millions de barils couvrent environ 20 % de la consommation sur trois mois, soit 15 à 20 jours de gazole français.",
+    "points": [],
+    "explication": "Chaque pays de l'Union européenne doit détenir des réserves de pétrole pour faire face à une rupture d'approvisionnement. En France, c'est la Sagess qui les gère. Cette fois, l'État les met à disposition des distributeurs pour peser sur les prix, après une coordination des pays du G7 dans le cadre de l'Agence internationale de l'énergie, selon Public Sénat. Ces réserves doivent ensuite être reconstituées. Les 12 à 18 centimes sont une estimation du gouvernement, pas un prix constaté : le résultat dépendra aussi du cours du pétrole.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/prix-du-carburant-les-mesures-annoncees-par-sebastien-lecornu-auront-elles-vraiment-un-impact-sur-les-prix",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.connaissancedesenergies.org/afp/carburants-reunion-avec-les-distributeurs-lundi-des-effets-attendues-debut-novembre-261008",
+      "nom": "Connaissance des énergies, dépêche AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "Le prix du gazole baissera « dès le 1er novembre »",
+      "url": "https://www.sudradio.fr/societe/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FNSEA",
+      "qui": "Arnaud Rousseau",
+      "contexte": "président",
+      "texte": "Il salue un « signal fort » pour les agriculteurs",
+      "url": "https://www.sudradio.fr/societe/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre",
+      "source": "Sud Radio, avec AFP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "députée",
+      "texte": "Elle ironise sur la « gentillesse » du patron de Total",
+      "url": "https://www.sudradio.fr/societe/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre",
+      "source": "Sud Radio, avec AFP"
+     }
+    ],
+    "apres": "Mercredi 28 octobre : premières ventes de gazole aux distributeurs. 1er novembre : baisse annoncée à la pompe. Samedi 17 octobre : appels à manifester contre la vie chère.",
+    "change": "Si les engagements sont tenus, les automobilistes verraient le litre de gazole baisser de 12 à 18 centimes selon le gouvernement, soit environ dix euros par plein en moyenne. Les chercheuses interrogées parlent d'un effet plus faible et temporaire.",
+    "credit": {
+     "auteur": "Tony Webster",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Diesel_Gas_Pump_(54474872295).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "13",
+    "mois": "OCT.",
+    "texte": "Lycéens : « acte V », marche à Paris à 14 heures ; Assemblée : motions de rejet et début de l'examen du budget 2027 ; vote de la loi intégrale à partir de 16h30."
+   },
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Duralex : décision de justice attendue sur l'avenir de la verrerie, selon Sud Radio."
+   },
+   {
+    "jour": "17",
+    "mois": "OCT.",
+    "texte": "Mobilisation « contre la vie chère » à l'appel de plusieurs organisations."
+   },
+   {
+    "jour": "28",
+    "mois": "OCT.",
+    "texte": "Carburants : premières ventes de gazole des stocks stratégiques aux distributeurs."
+   },
+   {
+    "jour": "1er",
+    "mois": "NOV.",
+    "texte": "Gazole : baisse annoncée à la pompe ; Édouard Philippe : rencontre proposée aux chefs des partis de la droite et du centre."
+   },
+   {
+    "jour": "18",
+    "mois": "DÉC.",
+    "texte": "Budget : date la plus précoce pour d'éventuelles ordonnances budgétaires."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Motion de rejet préalable",
+    "definition": "Proposition, faite avant l'examen des articles, de rejeter un texte en bloc sans le discuter."
+   },
+   {
+    "terme": "Seconde délibération",
+    "definition": "Nouveau vote, demandé par le gouvernement, sur certains articles d'un texte déjà examiné."
+   },
+   {
+    "terme": "Stocks stratégiques",
+    "definition": "Réserves de pétrole que l'État doit détenir pour faire face à une rupture d'approvisionnement."
+   },
+   {
+    "terme": "Cadre financier pluriannuel",
+    "definition": "Budget de l'Union européenne fixé pour sept ans, qui doit être adopté à l'unanimité des 27 États membres."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon le gouvernement, les 10 millions de barils de gazole tirés des stocks stratégiques seront vendus aux distributeurs à prix coûtant pendant trois mois.",
+   "reponse": true,
+   "explication": "Vrai : Sébastien Lecornu l'a annoncé lundi 12 octobre. Les premières ventes sont prévues le 28 octobre et la baisse à la pompe, estimée entre 12 et 18 centimes par litre, est visée à partir du 1er novembre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-12",
   "minutes": 12,
