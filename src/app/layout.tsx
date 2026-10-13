@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Bricolage_Grotesque, Figtree } from "next/font/google";
+import Script from "next/script";
 import Entete from "@/components/Entete";
 import { Pied } from "@/components/ui";
 import "./globals.css";
@@ -17,6 +18,16 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="fr" className={`${figtree.variable} ${bricolage.variable}`}>
+      <head>
+        {/* Google Analytics 4 (gtag.js) */}
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-2V7SPY1VXR" strategy="afterInteractive" />
+        <Script id="ga4" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2V7SPY1VXR');`}
+        </Script>
+      </head>
       <body className="font-sans antialiased">
         <div className="mx-auto max-w-[1320px] px-4 pt-2 sm:px-5">
           <Entete />
