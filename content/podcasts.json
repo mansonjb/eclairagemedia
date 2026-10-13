@@ -1,5 +1,517 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-13",
+  "url": "/podcasts/essentiel-2026-10-13.mp3",
+  "taille": 7890383,
+  "duree": 657,
+  "titre": "Éclairage, l'essentiel du mardi 13 octobre 2026",
+  "titre_episode": "Budget 2027, mouvement lycéen, LVMH : l'essentiel du mardi 13 octobre",
+  "description": "Ce mardi 13 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : le budget 2027 s'ouvre à l'Assemblée, sous la menace d'une motion de rejet\n• Politique : mouvement lycéen, acte V et appel au calme\n• Économie : LVMH, la mode recule de 5 % au troisième trimestre\n• Économie : Crédit Agricole rachète la banque allemande IKB\n• Santé : essai ROBOT-2, chirurgie robotique de l'œsophage\n• Santé : Ocrevus, nouveau risque d'atteinte du foie\n• Alimentation : 15,5 % des professionnels du bio contrôlés avec suites\n• Alimentation : l'indice FAO des prix alimentaires au plus haut depuis novembre 2022\n• IA et tech : les évaluateurs britanniques retrouvent l'accès aux modèles américains\n• IA et tech : Amazon en discussions pour racheter Decart\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : l'examen s'ouvre dans l'hémicycle, sous la menace d'un rejet"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Mouvement lycéen : « acte V » aujourd'hui, Macron appelle au calme"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "LVMH : la mode recule de 5 %, Sephora et la joaillerie progressent"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Crédit Agricole : accord pour racheter la banque allemande IKB"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Œsophage : la chirurgie robotique retire plus de ganglions"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Ocrevus : un nouveau risque d'atteinte du foie identifié"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Bio : 15,5 % des professionnels contrôlés en infraction, selon la DGCCRF"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Prix alimentaires mondiaux : l'indice FAO au plus haut depuis novembre 2022"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Royaume-Uni : l'accès aux modèles d'IA américains est rétabli"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Amazon serait en discussions pour racheter Decart (7 Md$)"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce mardi treize octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle. Dix sujets, on y va."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Premier chiffre : cinq pour cent. C'est le déficit public visé en deux mille vingt-sept. Et ce soir, l'Assemblée ouvre l'examen du budget."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le projet de loi de finances demande un effort d'environ quarante-cinq milliards d'euros, selon l'AFP, dont cinq milliards quatre cents millions pour les collectivités locales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il arrive mal embarqué, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La commission des finances l'a rejeté par trente et une voix contre trois, avec deux abstentions. Et le PS comme La France insoumise ont chacun déposé une motion de rejet."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelons ce que c'est."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une motion de rejet préalable permet de rejeter le texte en bloc. Si elle est adoptée, l'Assemblée n'examine pas les articles, et le projet repart au Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et tout dépend du Rassemblement national."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ses voix sont décisives, et le groupe n'a pas dévoilé son vote. Marine Le Pen préfère qu'un budget soit adopté, même imparfait."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Parmi les points de tension, il y a quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La sous-indexation des pensions au-dessus de mille deux cent cinquante-six euros, le gel du point d'indice des fonctionnaires et les aides au logement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et si le Parlement n'y arrive pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a soixante-dix jours, jusqu'à fin décembre. Ensuite, une loi spéciale est possible. Des ordonnances budgétaires aussi, jamais utilisées, à partir du dix-huit décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : ce soir, le sort du budget dépend d'un vote sur une motion de rejet."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor : les lycées. Aujourd'hui, c'est l'acte cinq du mouvement lycéen."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec une marche à Paris à quatorze heures, de la place d'Italie vers les Invalides. Et lundi, au moins huit personnels de l'Éducation nationale ont été blessés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Côté chiffres, selon le ministère, quatre-vingt-seize virgule cinq pour cent des lycées étaient ouverts lundi. Cent trente étaient fermés, contre cent soixante-douze vendredi selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que réclament les lycéens ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Union syndicale lycéenne demande un plan de dix milliards d'euros et la suppression de Parcoursup. Elle dénonce aussi des professeurs non remplacés et des bâtiments dégradés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Emmanuel Macron a appelé à manifester, je cite, « dans le calme, dans l'ordre et dans le respect à la fois des personnes et des biens »."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le gouvernement a promis trois mille professeurs remplaçants. Sébastien Lecornu a aussi annoncé des amendements au budget, qui reprennent des propositions des élèves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté du Premier ministre, l'idée est donc d'apaiser ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il annonce ces amendements, oui. Ils reprennent la consultation des élèves : environ trois quarts des contributions portent sur des emplois du temps surchargés, la moitié sur l'état des bâtiments."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, la rue et le budget se rejoignent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Prochaine étape : une mobilisation contre la vie chère, samedi dix-sept octobre, que des lycéens espèrent rejoindre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. Et d'abord au luxe : LVMH."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dix-huit milliards et demi d'euros de ventes au troisième trimestre, soit plus un pour cent à périmètre constant. Mais la mode et la maroquinerie reculent de cinq pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et c'est la plus grosse division."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ quarante-cinq pour cent des ventes du trimestre. Donc quand elle recule, les autres doivent compenser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et elles compensent un peu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sephora et le Bon Marché progressent de huit pour cent, les montres et la joaillerie de six pour cent. La demande chinoise a pesé, tandis que les États-Unis, l'Europe et le Japon progressent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les analystes se demandent si le ralentissement touche LVMH seul, ou tout le luxe."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Le groupe se dit confiant, malgré un environnement incertain. L'action a perdu environ quarante pour cent depuis janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à la Bourse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'action a clôturé en hausse lundi à trois cent quatre-vingt-quatre euros cinquante, avant la publication. Et L'Oréal la dépasse en capitalisation au CAC quarante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le luxe ralentit, tiré vers le bas par la mode."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Restons dans les entreprises, mais cap sur l'Allemagne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Crédit Agricole a signé un accord pour racheter cent pour cent d'IKB, une banque de Düsseldorf. Le prix n'est pas communiqué."
+   },
+   {
+    "qui": "Paul",
+    "texte": "IKB finance les entreprises moyennes allemandes, le fameux Mittelstand. Elle compte environ six cents salariés, pour quatorze milliards d'euros de total de bilan."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça pèse sur les comptes de Crédit Agricole ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ zéro virgule vingt point de pourcentage sur le ratio CET1, qui mesure les fonds propres de base d'une banque."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, une acquisition consomme du capital."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et la finalisation est attendue d'ici la fin du deuxième trimestre deux mille vingt-sept, après les autorisations des autorités de concurrence et de la Banque centrale européenne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le contexte du rachat, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour Crédit Agricole, l'Allemagne est au cœur de ses ambitions européennes et un pilier de son plan ACT deux mille vingt-huit, selon le communiqué."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les clients d'IKB, rien ne change avant. Pour Crédit Agricole, c'est une taille immédiate en Allemagne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Maintenant, la santé. Une question : un robot qui opère retire-t-il plus de ganglions ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est l'essai ROBOT-deux, publié dans JAMA Surgery, sur le cancer de l'œsophage."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux cent dix-huit patients tirés au sort, deux cent deux opérés. Chirurgie robotique contre chirurgie classique par petites incisions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trente-six ganglions retirés en médiane avec le robot, contre trente-deux. Mais à un an, la survie estimée est proche : quatre-vingts virgule huit pour cent contre quatre-vingt-quatre virgule trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, donc plus de ganglions, mais pas de gain de survie démontré ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne question. Le nombre de ganglions est un critère intermédiaire, et l'essai n'était pas conçu pour mesurer la survie. Le suivi doit durer cinq ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté complications ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinquante-trois virgule cinq pour cent des patients avec le robot, contre quarante-sept virgule cinq pour cent. Les marges saines de la tumeur sont proches : quatre-vingt-dix-neuf pour cent contre quatre-vingt-dix-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il a été soutenu en partie par Intuitive Surgical, le fabricant du robot."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : un meilleur curage, sans bénéfice de survie démontré à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre alerte, plus inquiétante : Ocrevus, un traitement de la sclérose en plaques."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le huit octobre, l'ANSM a publié une lettre du laboratoire Roche. Un nouveau risque d'atteinte du foie d'origine médicamenteuse a été identifié, y compris des cas graves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quand les symptômes apparaissent-ils ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Généralement dans le mois suivant la première dose. Dans quelques cas, des patients ont été inscrits temporairement sur une liste de greffe du foie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'exposition au médicament est importante ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Plus d'un million quatre cent mille patients-années. Les signes d'alerte à connaître : fatigue nouvelle, nausées, urines foncées, jaunisse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la fréquence ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Indéterminée. Une alerte de pharmacovigilance repose sur des cas rapportés, elle permet de repérer un risque, pas de le chiffrer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que recommande-t-on ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un bilan du foie avant le traitement et avant la seconde perfusion de la dose initiale. Et l'arrêt du traitement si l'atteinte est confirmée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les patients ne doivent pas modifier leur traitement seuls. La décision se prend avec le neurologue."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et une bonne nouvelle pour la prévention : la campagne de vaccination grippe et Covid-dix-neuf démarre aujourd'hui, jusqu'au trente et un janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction l'assiette, avec le bio. Quinze virgule cinq pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la part des professionnels du bio contrôlés par la répression des fraudes, la DGCCRF, qui ont reçu des suites : injonction, amende ou procès-verbal. Plus de quatre mille huit cents contrôlés en deux ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attention, ce n'est pas un taux de fraude du marché, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Les contrôles sont ciblés, sur des professionnels à risque. Une simple erreur d'étiquette peut déjà valoir une injonction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le contrôle porte sur quoi, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour vendre bio, un professionnel doit être certifié et déclaré auprès de l'Agence Bio. Les manquements les plus cités : l'absence de certification ou de déclaration, et les pratiques commerciales trompeuses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais il y a eu des cas marquants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un producteur vendait plusieurs tonnes de champignons conventionnels comme bio. Et dans une cantine municipale, un quart des plats présentés comme bio ne l'étaient pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté cantines en général ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les établissements contrôlés servaient onze virgule huit pour cent de bio en deux mille vingt-quatre. La loi fixe vingt pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le chiffre vise des contrôles ciblés, mais l'écart des cantines avec l'objectif reste important."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours côté alimentation, mais à l'échelle du monde : l'indice FAO des prix alimentaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cent trente-six points en septembre, le plus haut depuis novembre deux mille vingt-deux. Plus cinq virgule huit pour cent sur un an."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les céréales gagnent cinq virgule un pour cent en un mois, à cause de difficultés logistiques en mer Noire, de temps sec en Amérique du Nord et de rendements américains de maïs plus faibles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le sucre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Plus six virgule un pour cent, troisième hausse de suite. En revanche, la viande recule de un virgule un pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le niveau reste inférieur au pic ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, il reste quinze virgule un pour cent sous son pic de mars deux mille vingt-deux. Les produits laitiers, eux, restent dix-neuf pour cent sous leur niveau d'il y a un an."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais attention : l'indice suit les prix mondiaux des matières premières, pas ceux du rayon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Mais l'économiste en chef de la FAO estime que si ces tensions durent, elles se répercuteront bientôt sur les prix payés par les consommateurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : les prix mondiaux montent, le supermarché pourrait suivre, sans calendrier chiffré."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernière rubrique : l'intelligence artificielle et la tech."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et d'abord une affaire d'accès. Le vingt-quatre septembre, la Maison-Blanche a demandé à OpenAI et Anthropic de ne pas confier leurs nouveaux modèles aux évaluateurs britanniques de l'AISI avant un examen américain."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'AISI, c'est l'institut britannique qui teste les modèles les plus puissants. Il cherche des risques d'usage malveillant, notamment en cybersécurité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le onze octobre, selon le Telegraph, la consigne est levée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soit dix-sept jours de suspension. L'institut retrouve un accès avant publication aux modèles d'Anthropic, de Google DeepMind et d'OpenAI, dans le cadre volontaire d'avant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le ministre britannique de l'IA, qu'a-t-il dit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Kanishka Narayan a dit à Londres que ses équipes évaluaient la dernière génération de modèles. Il a aussi annoncé que le projet de loi sur la cybersécurité servirait à signaler les incidents graves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça reste volontaire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, aucune loi n'oblige aujourd'hui les laboratoires. Le président de Microsoft, Brad Smith, a réclamé des règles internationales, des rapports d'incident obligatoires et un frein d'urgence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a dit, je cite : « Right now, your washing machine is subject to more safety rules than AI »."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soit : votre lave-linge est soumis à plus de règles de sécurité que l'IA. À retenir : le retour est rapporté par la presse, et aucun texte contraignant n'est daté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Enfin, Amazon. Selon le Wall Street Journal, le groupe serait en discussions pour racheter Decart, une jeune pousse d'IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour environ sept milliards de dollars. Decart était valorisée près de quatre milliards en mai."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, presque le double en cinq mois ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que rapporte le journal. Reuters n'a pas pu vérifier l'information de façon indépendante, et Amazon a refusé de commenter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Decart fait quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un logiciel placé entre le modèle et la puce, pour faire tourner et accélérer les modèles sur des puces différentes. Cela peut réduire la dépendance à un seul fabricant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Anthropic aurait aussi étudié un achat d'environ six milliards en août, avant d'y renoncer en septembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : ni le prix ni l'accord ne sont confirmés, ce sont des discussions rapportées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce mardi treize octobre. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-13",
   "url": "/podcasts/politique-2026-10-13.mp3",
