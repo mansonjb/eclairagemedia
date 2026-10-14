@@ -2,7 +2,7 @@
 
 Politique
 
-mercredi 14 octobre 2026 · 16 min de lecture
+mercredi 14 octobre 2026 · 17 min de lecture
 
 1. Budget 2027 : la motion de rejet échoue, l'examen commence
 
@@ -352,5 +352,487 @@ Vrai ou faux ?
 Nvidia a publié le montant exact de sa participation au capital de Doctolib.
 
 Réponse : faux. Faux : ni Nvidia ni les start-up n'ont communiqué les montants investis, selon l'AFP. Nvidia sera actionnaire minoritaire de Doctolib, sans siège au conseil d'administration.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+mercredi 14 octobre 2026 · 13 min de lecture
+
+1. Alzheimer : le test sanguin p-tau217 testé sur 15 612 personnes sans symptômes
+
+ÉTUDE
+
+15 612 : adultes sans trouble cognitif
+
+106 : sites de recherche sur 4 régions
+
+55-80 : ans, âge des participants
+
+Ce qui s'est passé
+
+Des chercheurs de la Keck School of Medicine de l'Université de Californie du Sud ont publié en ligne le 12 octobre, dans JAMA Neurology, une analyse du taux sanguin de p-tau217 selon l'origine des participants. Elle porte sur 15 612 adultes de 55 à 80 ans sans trouble cognitif, dépistés entre juillet 2020 et octobre 2024 dans 106 sites d'Asie, d'Australie, d'Europe et d'Amérique du Nord, pour l'essai AHEAD 3-45. Le taux de p-tau217 est plus bas chez les participants asiatiques, noirs et hispaniques que chez les participants blancs et non hispaniques. Le lien entre ce taux et la quantité d'amyloïde dans le cerveau, mesurée par TEP, ne diffère pas de façon significative entre groupes raciaux, mais il diffère selon l'ethnicité (hispanique ou non). Le travail est financé en partie par les NIH, par le consortium AHEAD (dont Eisai), l'Alzheimer's Association et la GHR Foundation ; plusieurs auteurs sont affiliés à Eisai et à C2N Diagnostics, selon la liste des affiliations.
+
+L'éclairage
+
+Que dit (et ne dit pas) un taux sanguin ?
+
+La maladie d'Alzheimer s'accompagne de dépôts de protéine amyloïde dans le cerveau, que l'on visualise par TEP, un scanner coûteux. Le p-tau217 est une forme de la protéine tau que l'on peut doser dans le sang : l'idée est de l'utiliser comme premier tri, avant de confirmer par TEP. Cette étude est transversale : elle compare des personnes à un instant donné, sans les suivre. Elle ne dit donc pas qui développera la maladie. Elle indique que le taux sanguin n'a pas la même valeur moyenne selon les groupes, et que son lien avec l'amyloïde reste proche entre groupes raciaux, avec une nuance selon l'ethnicité que les auteurs jugent à étudier. Elle ajoute : « This supports the use of blood-based biomarkers as an initial screening tool » (citations en anglais : « cela soutient l'usage de biomarqueurs sanguins comme outil de premier tri »).
+
+Ce qu'ils en disent
+
+« the relationship between the biomarker and brain amyloid was generally consistent across racial groups »
+Doris P. Molina-Henry (Auteurs), autrice correspondante, USC Keck
+
+Ce qui change
+
+Pour l'instant, ces résultats soutiennent l'usage d'un test sanguin comme premier tri dans les essais portant sur des personnes sans symptômes, avant une TEP de confirmation.
+
+Et après
+
+Les auteurs jugent que les différences liées à l'ethnicité demandent d'autres études. L'essai AHEAD 3-45, qui teste le lécanémab, se poursuit.
+
+Sources : JAMA Neurology (DOI) · Keck School of Medicine (USC) · Medical Xpress
+
+2. Ménopause : les ovaires changent encore pendant des décennies
+
+RECHERCHE
+
+28 : ovaires de femmes ménopausées
+
+5 812 : groupes de protéines analysés
+
+50-75 : ans, âge des femmes
+
+Ce qui s'est passé
+
+Des équipes de la Northwestern University (Feinberg School of Medicine) et du Buck Institute ont publié le 14 octobre dans la revue Aging Cell l'analyse des protéines de tissu ovarien normal, prélevé chez 28 femmes ménopausées de 50 à 75 ans, sans cancer. Elles ont mesuré 5 812 groupes de protéines. Chez les femmes de 50 ans environ, les ovaires contiennent davantage de protéines qui maintiennent la structure des cellules et des tissus ; chez celles de 70 ans et plus, davantage de protéines liées à l'inflammation, à l'activité immunitaire et au remodelage du tissu. Certaines signatures évoquent la sénescence, c'est-à-dire le vieillissement des cellules. Des protéines associées au cancer de l'ovaire sont plus abondantes surtout chez les femmes d'une soixantaine d'années, sans cancer dans le tissu étudié. Le travail est financé par le programme Senescence Network du Common Fund des NIH ; le communiqué ne mentionne pas de conflit d'intérêts. Une version préliminaire (préprint) existait depuis mars.
+
+L'éclairage
+
+Que veut dire « les ovaires restent actifs » ?
+
+La ménopause marque l'arrêt des règles et de l'ovulation. Ici, il n'est pas question d'ovulation mais de protéines : la protéomique dresse l'inventaire de celles qui sont présentes dans un tissu. Elle montre que l'ovaire change encore après la ménopause, pas que ces changements sont utiles ou nocifs. Les femmes comparées ont des âges différents, on ne suit pas les mêmes ovaires dans le temps : on ne peut donc pas parler de cause. Et 28 ovaires, c'est un petit échantillon, dans un tissu difficile à obtenir. Les protéines liées au cancer sont un signal moléculaire, pas un diagnostic de cancer ou de lésion précancéreuse. Francesca Duncan (Northwestern) : « We do not yet know if there's ever a point in a woman's life when this organ is no longer beneficial » (citations en anglais). Les chercheuses précisent que l'étude ne dit pas s'il faut retirer des ovaires sains après la ménopause.
+
+Ce qu'ils en disent
+
+« The ovary is not just a reproductive organ »
+Birgit Schilling (Auteurs), Buck Institute
+
+Ce qui change
+
+Rien ne change pour la pratique : l'étude ne dit pas si ces modifications sont bénéfiques ou nocives, et elle ne justifie ni de conserver ni de retirer des ovaires sains. Toute décision à ce sujet se prend avec un professionnel de santé.
+
+Et après
+
+Les auteures veulent savoir si, et à quel moment de la vie, l'organe cesse d'être utile. Un échantillon de 28 ovaires est petit : d'autres cohortes seraient nécessaires pour confirmer ces profils.
+
+Sources : Northwestern University · EurekAlert · Medical Xpress · préprint (DOI)
+
+3. GATA2 : le prime editing corrige des cellules souches de patient, in vitro
+
+TRAITEMENT
+
+50→77 % : allèles GATA2 fonctionnels
+
+20 : sites hors cible vérifiés : 0 édité
+
+0 : patient traité (préclinique)
+
+Ce qui s'est passé
+
+Une équipe de l'Université d'Aarhus (Danemark), autour de Jonas Wolff et Jacob Giehm Mikkelsen, a publié le 30 septembre dans Science Translational Medicine une étude préclinique, relayée cette semaine par Medical Xpress. Elle porte sur le déficit en GATA2, une immunodéficience héréditaire. Les chercheurs ont corrigé, par prime editing, une délétion de sept paires de bases dans des cellules souches sanguines (CD34+) prélevées sur un patient. Selon le résumé de l'étude, l'édition atteint jusqu'à 70 % et la part d'allèles GATA2 fonctionnels passe de 50 % à 77 % ; d'autres sources citent 65 % pour une des méthodes testées, le détail dépendant du protocole. Ces cellules s'implantent mieux chez la souris que les cellules non traitées, avec une génotoxicité locale limitée et aucune édition détectée sur les 20 sites hors cible prédits les plus probables. Aucun patient n'a reçu ce traitement.
+
+L'éclairage
+
+Corriger un gène sans « couper » l'ADN
+
+Le déficit en GATA2 vient d'une anomalie d'un gène nécessaire à la formation du sang : il expose à des infections sévères, à l'insuffisance de la moelle osseuse et à un risque accru de cancer du sang. Aujourd'hui, la greffe de cellules souches d'un donneur est le seul traitement curatif, avec ses risques (rejet, maladie du greffon contre l'hôte). Le prime editing réécrit une petite portion d'ADN sans casser les deux brins, ce qui limite certains dégâts des méthodes de type CRISPR classique. Mais ici, tout s'est passé en laboratoire et chez la souris : un résultat chez la souris n'est pas un résultat chez l'humain. CRISPR Medicine News note aussi que la greffe chez la souris reste très orientée vers la lignée myéloïde, que la part de cellules corrigées utile pour guérir est inconnue, et qu'aucune cartographie de l'ensemble du génome n'a été faite pour les effets hors cible. Citation en anglais : « nos résultats démontrent le développement préclinique de thérapies par prime editing ». Les auteurs parlent bien de développement préclinique, pas de traitement disponible.
+
+Ce qu'ils en disent
+
+« Our results demonstrate the preclinical development of prime editing–based therapies for GATA2 deficiency in CD34+ HSPCs »
+Jonas Wolff et coll. (Auteurs), Université d'Aarhus
+
+Ce qui change
+
+Aucun patient n'est concerné aujourd'hui : il s'agit d'une preuve de principe en laboratoire. Pour les personnes atteintes, le traitement curatif reste la greffe de cellules souches d'un donneur.
+
+Et après
+
+Il faudra montrer que la méthode fonctionne sur le grand nombre de cellules nécessaire à une greffe et identifier les patients qui en bénéficieraient. Aucun essai chez l'humain n'est annoncé dans les sources consultées.
+
+Sources : Science Translational Medicine (DOI) · Medical Xpress · CRISPR Medicine News · Europe PMC
+
+4. Cholécystectomie : moins de gaz dans le ventre, pas moins de douleur à 6 h
+
+CHIRURGIE
+
+160 : patients tirés au sort
+
+8 / 14 : mmHg comparés (basse / standard)
+
+3 / 4 : douleur médiane sur 10 à 6 h
+
+Ce qui s'est passé
+
+Des chirurgiens de l'hôpital universitaire Charles Nicolle de Tunis ont publié le 9 octobre dans PLOS ONE un essai randomisé sur l'ablation de la vésicule biliaire par cœlioscopie. Entre novembre 2024 et décembre 2025, 160 adultes (calculs symptomatiques non compliqués) ont été opérés avec un gaz insufflé à 8 mmHg ou à 14 mmHg, la pression standard de l'essai. Patients et évaluateurs ne connaissaient pas le groupe, mais les chirurgiens, si. La douleur à 6 heures, critère principal, est de 3 contre 4 sur 10 en médiane (p = 0,221), sans écart significatif à 12 et 24 heures. La durée d'opération est proche (59,9 contre 58,2 minutes), sans conversion en chirurgie ouverte ni complication majeure. Les patients du groupe basse pression ont pris un peu moins de paracétamol (1,04 contre 1,35 comprimé, p = 0,014), un résultat que les auteurs jugent exploratoire. Aucun financement spécifique ni conflit d'intérêts n'est déclaré.
+
+L'éclairage
+
+« Pas de différence significative » ne veut pas dire « pas de différence »
+
+Pour opérer par cœlioscopie, le chirurgien gonfle l'abdomen avec du gaz (le pneumopéritoine) afin de se créer de la place. L'hypothèse testée : une pression plus basse pourrait réduire la douleur après l'opération. L'essai n'a pas trouvé d'écart significatif sur le critère principal. Mais il est petit, mené dans un seul centre, et n'a pas été conçu pour prouver que les deux pressions sont équivalentes en sécurité ou pour exclure une complication rare. Ses auteurs rappellent aussi que les cholécystites aiguës sévères étaient exclues et que 56 % environ des opérations ont été réalisées par des internes supervisés. Ils concluent que la basse pression est réalisable et n'allonge pas l'opération, mais qu'elle ne réduit pas de façon significative la douleur à 6 heures. Ils qualifient la baisse de consommation de paracétamol d'exploratoire.
+
+Ce qu'ils en disent
+
+Ils concluent que la basse pression est réalisable et n'allonge pas l'opération, mais qu'elle ne réduit pas de façon significative la douleur à 6 heures. Ils qualifient la baisse de consommation de paracétamol d'exploratoire.
+Amine Ben Safta et coll. (Auteurs), hôpital Charles Nicolle, Tunis
+
+Ce qui change
+
+À ce stade, rien ne change pour un patient : le choix de la pression relève de l'équipe chirurgicale, et cet essai ne montre pas de bénéfice net de la pression basse sur la douleur à 6 heures.
+
+Et après
+
+Des essais plus larges, dans plusieurs centres, seraient nécessaires pour trancher sur la douleur et sur la sécurité.
+
+Sources : PLOS ONE (DOI) · 2 Minute Medicine · protocole de l'essai (PMC)
+
+À venir
+
+- T1 2027 : Rétatrutide : demande d'autorisation à la FDA prévue par Lilly, selon son communiqué.
+
+Les mots du jour
+
+Étude transversale
+Une étude qui compare des personnes à un moment donné, sans les suivre dans le temps : elle montre des associations, pas des causes.
+Protéomique
+L'inventaire des protéines présentes dans un tissu ou une cellule, mesuré par spectrométrie de masse.
+Préclinique
+Une recherche menée avant tout essai chez l'humain, sur des cellules en laboratoire ou chez l'animal.
+Résultat non significatif
+Un écart trop petit, au vu de l'échantillon, pour qu'on exclue le hasard. Cela ne prouve pas l'absence d'effet.
+
+Vrai ou faux ?
+
+Dans l'essai tunisien publié dans PLOS ONE, une pression de gaz de 8 mmHg n'a pas réduit de façon significative la douleur à 6 heures par rapport à 14 mmHg après une ablation de la vésicule par cœlioscopie.
+
+Réponse : vrai. La douleur médiane à 6 heures était de 3 contre 4 sur 10 (p = 0,221), un écart non significatif. L'essai, mené chez 160 patients dans un seul hôpital, ne permet toutefois pas d'exclure un petit effet.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+mercredi 14 octobre 2026 · 6 min de lecture
+
+1. Châtelaillon-Plage : deux chantiers routiers en cours vers Saint-Vivien
+
+MOBILITÉS
+
+7 sem. : de travaux prévus sur la RD 137
+
+5 mois : de travaux prévus sur la RD 113
+
+150 m : de bretelle doublée (selon ICI)
+
+Ce qui s'est passé
+
+Le Département de la Charente-Maritime a commencé le lundi 14 septembre 2026 les travaux de doublement de la bretelle de sortie de la RD 137 vers Châtelaillon-Plage et Saint-Vivien, pour une durée prévisionnelle de sept semaines. La zone est fermée à la circulation pendant tout le chantier ; selon ICI, l'entrée sur la quatre voies vers Rochefort l'est aussi. Depuis La Rochelle, la déviation passe par Angoulins ou par les Boucholeurs, et le pont de Salles-sur-Mer reste ouvert. Vo Radio annonce une fin au 31 octobre, alors que sept semaines à partir du 14 septembre mènent au 2 novembre : le Département ne donne pas de date de fin. Depuis le lundi 12 octobre, l'Agglomération de La Rochelle a lancé de son côté la requalification de la RD 113 aux Bonneveaux, à Saint-Vivien, pour cinq mois : circulation en sens unique de Saint-Vivien vers Châtelaillon-Plage, déviation dans l'autre sens par Salles-sur-Mer ou par l'échangeur des Boucholeurs sur la RD 137, et arrêt de bus « Loin du bruit » non desservi pendant les travaux.
+
+L'éclairage
+
+Qui s'occupe de quelle route ?
+
+Une route départementale (RD) relève du Département, qui a lancé le chantier de la RD 137. Pour la RD 113, c'est l'Agglomération de La Rochelle qui annonce et présente les travaux : en janvier 2024, elle indiquait que cette route, qui relie Les Bonneveaux au centre de Saint-Vivien, serait réaménagée avec des cheminements piétons et cyclables et un accès au parc d'activités en extension. Ce parc doit accueillir une trentaine d'entreprises artisanales et un centre de valorisation des déchets. Les deux chantiers sont distincts et ont des calendriers propres. agglo-larochelle.fr →
+
+Ce qu'ils en disent
+
+Le doublement de la bretelle vise à fluidifier l’accès à Châtelaillon-Plage et à limiter les files sur la voie à deux fois deux voies. Le Département conseille de partir plus tôt et de prévoir du temps supplémentaire aux heures de pointe.
+Département de la Charente-Maritime (Département), maître d’ouvrage de la RD 137
+
+Les travaux durent cinq mois, avec une circulation en sens unique et des déviations. Les accès aux propriétés peuvent être perturbés ponctuellement.
+Agglomération de La Rochelle (Agglomération), annonce les travaux de la RD 113
+
+Ce qui change
+
+Pour rejoindre Châtelaillon-Plage ou Saint-Vivien, les trajets sont allongés tant que la bretelle de la RD 137 est fermée, et le sens unique de la RD 113 impose un détour dans un sens. Les usagers de l'arrêt « Loin du bruit » ne sont plus desservis.
+
+Et après
+
+Fin du chantier de la RD 137 : entre le 31 octobre et le 2 novembre selon les sources. RD 113 : cinq mois à partir du 12 octobre, soit mi-mars 2027 environ.
+
+Sources : Département de la Charente-Maritime · Agglomération de La Rochelle · ICI La Rochelle · Vo Radio
+
+À venir
+
+- 15 oct. : Conseil communautaire de l'Agglomération, séance inscrite au calendrier prévisionnel (agglo-larochelle.fr)
+- 19 oct. : Angoulins-sur-Mer : début des travaux d'assainissement, rue de Verdun fermée.
+- 20 oct. : Contrôle du réseau d'assainissement à la fumée à La Rochelle, Châtelaillon-Plage et Saint-Xandre ; la fumée est sans danger.
+- 2 nov. : RD 137 : fin des travaux de la bretelle au plus tard, sept semaines après le 14 septembre.
+- 4 nov. : Rue Marcel-Paul : première réunion de travail avec l'expertise médicale (ICI)
+- 19 nov. : Conseil communautaire suivant (date prévisionnelle).
+
+Les mots du jour
+
+Bretelle
+Voie courte qui relie une route principale à une autre route, pour entrer sur la voie rapide ou en sortir.
+Route départementale (RD)
+Route dont le Département assure en principe l'entretien ; son numéro est précédé de « RD ».
+Requalification
+Réaménagement d'une voie existante : chaussée, trottoirs, pistes cyclables, accès.
+ARS
+Agence régionale de santé : service de l'État qui suit les enjeux sanitaires dans la région.
+
+Vrai ou faux ?
+
+Pendant les travaux de la bretelle de la RD 137 à Châtelaillon-Plage, le pont de Salles-sur-Mer est fermé.
+
+Réponse : faux. Le pont de Salles-sur-Mer reste ouvert ; seule la bretelle de sortie vers Châtelaillon-Plage et Saint-Vivien est fermée, avec des déviations par Angoulins ou les Boucholeurs.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+mercredi 14 octobre 2026 · 7 min de lecture
+
+1. Transformateurs bio : un tiers signalent des tensions d'approvisionnement
+
+BIO
+
+874 : entreprises interrogées
+
+1/3 : détaillent des difficultés
+
+50 % : jugent leur moral bon ou très bon
+
+Ce qui s'est passé
+
+Le 28 septembre, au salon Natexpo à Lyon, l'Agence Bio a présenté la première édition de son baromètre du moral des entreprises de transformation bio, réalisé par le Crédoc auprès de 874 entreprises du 21 avril au 31 mai 2026. Un transformateur sur deux juge son moral bon ou très bon ; entre 2024 et 2025, 31 % des entreprises ont vu leur chiffre d'affaires progresser et 37 % l'ont maintenu. Un tiers des entreprises détaillent des difficultés d'approvisionnement : selon Réussir, le beurre et les œufs bio sont cités en premier, puis les fruits (notamment les noisettes), les légumes, le blé et le sucre. Plus de 9 transformateurs sur 10 s'approvisionnent en France, et 1 sur 5 en bio 100 % régional. Le détail par produit repose sur l'analyse de Réussir : c'est une information à confirmer dans le rapport complet de l'Agence Bio.
+
+L'éclairage
+
+Que mesure un baromètre du moral ?
+
+Un transformateur achète des matières premières agricoles bio (lait, œufs, céréales, fruits) et en fait des produits finis. Le baromètre est une enquête déclarative : les entreprises décrivent ce qu'elles ressentent et ce qu'elles ont rencontré. Il ne mesure ni les volumes manquants, ni les prix en rayon. Comme c'est une première édition, il n'existe pas encore de point de comparaison d'une année sur l'autre.
+
+Ce qu'ils en disent
+
+Le Synalaf attribue le recul de la production d'œufs bio au passage à une alimentation 100 % bio des poules, jugée trop déséquilibrée, qui a entraîné des contre-performances techniques et découragé des éleveurs.
+Synalaf (Filière / interprofession), cité par Réussir
+
+68 % se disent fiers de travailler avec des produits bio et 53 % sont satisfaits de leur label bio. Leurs priorités : une meilleure valorisation des prix, une meilleure connaissance du bio par les consommateurs, plus de promotion et moins de démarches administratives.
+Transformateurs interrogés (Entreprise), selon le baromètre
+
+Ce qui change
+
+Le baromètre indique quels produits bio sont les plus difficiles à trouver pour les fabricants, en particulier le beurre et les œufs. Il ne dit pas si cela se voit en magasin.
+
+Et après
+
+Une prochaine édition permettrait de comparer. Aucune date n'est précisée dans les sources consultées.
+
+Sources : Agence Bio (chiffres clés) · Réussir · FreshPlaza · LSA
+
+2. Sécheresse : septembre 2026, troisième plus sec depuis 1958
+
+AGRICULTURE
+
+-70 % : de pluie en septembre
+
+8,2 mm : du 1er au 20 septembre
+
++3,1°C : d'écart à la normale
+
+Ce qui s'est passé
+
+Dans son bilan de septembre, Météo-France classe le mois comme le « troisième mois de septembre le moins arrosé depuis le début des mesures en 1958 », derrière 1977 et 1985, avec un déficit de pluie de 70 % en moyenne. Il est aussi le deuxième plus chaud depuis 1900, avec une anomalie de 3,1 °C derrière septembre 2023. Du 1er au 20 septembre, il n'est tombé que 8,2 mm de pluie sur la France, et Paris, Nice et Ajaccio n'ont pas reçu une goutte, selon l'AFP. L'indicateur national d'humidité des sols est resté presque tout le mois à un niveau jamais observé pour cette période. Côté champs, un sondage Terre-net (1 567 votants, du 29 septembre au 6 octobre, non représentatif) indique que 24 % des agriculteurs décalent leurs semis de céréales d'hiver pour limiter les adventices, et que 57 % attendent surtout la météo.
+
+L'éclairage
+
+Que veut dire « sécheresse des sols » ?
+
+Météo-France suit un indicateur d'humidité des sols : plus il est bas, moins les graines trouvent d'eau pour lever. Une sécheresse dite décennale est d'une ampleur qui ne se produit en moyenne qu'une année sur dix ; selon Météo-France, la quasi-totalité de la France était concernée. Sur sol sec, les agriculteurs attendent la pluie avant de semer : pour un colza tardif, Réussir indique qu'une pluie d'environ 30 mm est recommandée pour réhumecter les 15 premiers centimètres.
+
+Ce qu'ils en disent
+
+« Depuis mars 2026, la France n'a connu aucun mois excédentaire en pluie »
+Météo-France (Pouvoirs publics), bilan de septembre
+
+« On subit un effet ciseaux implacable »
+Jérôme Regnault (Agriculteurs), céréalier, Yvelines
+
+« Prendre sa bêche pour faire un simple trou est suffisant pour mesurer l'impact des dernières pluies. »
+Damien Brun (Chercheurs), Arvalis, institut technique
+
+Ce qui change
+
+Pour les agriculteurs, des semis décalés ou changés selon la pluie et des coûts à arbitrer. Dans l'assiette, aucune estimation des récoltes 2027 n'est publiée dans les sources consultées.
+
+Et après
+
+Le ministère annonce une carte des pertes observées fin septembre à la mi-octobre, et des comités départementaux d'expertise en octobre puis fin novembre.
+
+Sources : dépêche AFP via L'Info durable · Sud Radio (AFP) · Terre-net (bilan Météo-France) · Terre-net (semis) · ministère de l'Agriculture
+
+À venir
+
+- 16 oct. : Journée mondiale de l'alimentation, cérémonie à Rome au siège de la FAO.
+
+Les mots du jour
+
+Transformateur
+L'entreprise qui fabrique un produit fini (laitage, biscuit, plat) à partir de matières premières agricoles achetées aux producteurs.
+Sécheresse décennale
+Une sécheresse d'une ampleur qui ne se produit en moyenne qu'une année sur dix.
+Adventices
+Les « mauvaises herbes » qui poussent dans une culture, comme le brome, le ray-grass ou le vulpin dans les céréales.
+
+Vrai ou faux ?
+
+Selon Météo-France, septembre 2026 a été le mois de septembre le plus sec jamais mesuré en France.
+
+Réponse : faux. Météo-France le classe au troisième rang des mois de septembre les moins arrosés depuis 1958, derrière 1977 et 1985, avec un déficit de pluie de 70 % en moyenne.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+mercredi 14 octobre 2026 · 10 min de lecture
+
+1. Meta : Muse Wonder, son premier modèle d'IA de pointe, est lancé
+
+MODÈLES
+
+4 $ : le million de jetons en entrée (Wonder)
+
+20 $ : le million de jetons en sortie (Wonder)
+
+12/10 : date du lancement
+
+Ce qui s'est passé
+
+Le 12 octobre, Meta a présenté deux modèles d'intelligence artificielle, Muse Wonder et Muse Wonder Full, qu'elle décrit comme ses modèles les plus capables, conçus pour des tâches d'« agents » personnels et professionnels (des programmes qui enchaînent des actions pour atteindre un objectif). Selon Meta, ils ont été entraînés dans son centre de données Prometheus, d'échelle « gigawatt ». Muse Wonder est disponible par l'interface de programmation de Meta et dans Muse Code ; Muse Wonder Full est réservé aux abonnés de Muse Code. Selon TechCrunch, Wonder est facturé 4 dollars par million de jetons (les unités de texte que le modèle lit) en entrée et 20 dollars en sortie. Meta met en avant une « mémoire active », qui retient les informations données par l'utilisateur sur de longues périodes. Les résultats d'évaluation sont ceux de Meta : l'entreprise annonce des scores comparables à ceux de Claude Fable 5.1 et de GPT-6 Astra, et supérieurs sur MemoryBench, un test de mémoire. TechCrunch ne cite aucune évaluation indépendante.
+
+L'éclairage
+
+Un modèle « de pointe », c'est quoi, et que vaut une annonce de score ?
+
+Un modèle de pointe (frontier model en anglais) désigne les systèmes les plus capables du moment. Un agent est un modèle relié à des outils, qui accomplit une suite de tâches plutôt que de répondre à une seule question. Le prix par million de jetons permet de comparer : un jeton vaut environ trois quarts de mot. Démontré ou annoncé ? Les scores viennent de tests choisis et publiés par Meta. Tant qu'un évaluateur indépendant ne les a pas reproduits, ils restent une annonce.
+
+Ce qu'ils en disent
+
+« Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence »
+Meta (Entreprise), annonce du 12 octobre
+
+Ce qui change
+
+5 ou de GPT-6 Sol selon TechCrunch. Pour le grand public, rien ne change tout de suite : Meta ne donne pas de calendrier pour l'application Muse.
+
+Et après
+
+Muse Wonder doit alimenter Muse « bientôt », d'abord pour les abonnés, selon Meta, sans date.
+
+Sources : Meta (annonce) · TechCrunch · AI Weekly · Blog du Modérateur
+
+2. Anthropic : l'IA pourrait bientôt se copier seule sur des objets connectés
+
+RECHERCHE
+
+15 : boîtiers Android TV reliés pour le test
+
+55 $ : prix unitaire d'un boîtier
+
+8/9 : types de matériel où un modèle de 9 Md a lancé l'inférence
+
+Ce qui s'est passé
+
+Le 12 octobre, l'équipe « Frontier Red Team » d'Anthropic, signée William Zhou et Daniel Freeman, a publié une étude sur l'auto-réplication d'une IA, c'est-à-dire sa capacité à se copier d'une machine à l'autre sans aide humaine. Les auteurs estiment que de petits modèles pourraient être à quelques mois d'en être capables sur des objets connectés du commerce, comme des fours ou des boîtiers Android TV bon marché. Pour le montrer, ils ont fait tourner un modèle de 26 milliards de paramètres, Gemma4-26B-A4B, réparti sur 15 boîtiers à environ 55 dollars pièce, à 0,39 jeton par seconde, soit très lentement. Un modèle de 9 milliards de paramètres a réussi à lancer le calcul de réponses (l'« inférence ») sur 8 des 9 types de matériel testés. Anthropic précise que son test simplifie la partie piratage et constitue donc une borne haute du succès réel, et qu'il s'agit d'une extrapolation de tendance. Selon Fox News, les chercheurs n'ont pas démontré de ver d'IA pleinement autonome dans le monde réel.
+
+L'éclairage
+
+Qu'est-ce qu'un « ver » d'IA, et pourquoi des objets bon marché ?
+
+Un ver informatique est un programme qui se copie de machine en machine sans intervention humaine. Un ver d'IA emporterait avec lui un modèle capable de s'adapter à des appareils inconnus, ce que les virus classiques font mal. Les objets connectés sont peu protégés et nombreux, mais très peu puissants : d'où la lenteur mesurée (0,39 jeton par seconde). Démontré ou annoncé ? Démontré en laboratoire : le montage de 15 boîtiers et le lancement du calcul sur 8 types de matériel. Extrapolé : l'échéance de fin d'année. Non démontré : une propagation réelle.
+
+Ce qu'ils en disent
+
+« small AI models may be months away from being capable enough to self-replicate »
+Anthropic (Entreprise), équipe Frontier Red Team, 12 octobre
+
+Ce qui change
+
+Pour un utilisateur, le risque cité est celui d'objets mal protégés (ports ouverts, mots de passe par défaut) que l'on ne met jamais à jour. Pour les fabricants et les autorités, l'étude pèse sur la sécurité par défaut.
+
+Et après
+
+Anthropic juge que de petits modèles pourraient atteindre ce niveau d'ici la fin de l'année s'ils progressent à leur rythme passé ; aucune échéance réglementaire n'est annoncée dans l'étude.
+
+Sources : Anthropic (étude) · AI Weekly · Fox News
+
+3. Évaluateurs d'IA : Reuters décrit un bras de fer sur ce qui est publié
+
+RÉGULATION
+
+1 Md$ : investissement prévu par partie, 5 ans
+
+18/09 : annonce de l'évaluateur intégré
+
+2 : laboratoires cités par Reuters
+
+Ce qui s'est passé
+
+Le 13 octobre, Reuters a rapporté, d'après deux personnes au fait des discussions, qu'Anthropic et OpenAI ont cherché à garder un contrôle important sur ce que des évaluateurs externes de leurs modèles peuvent publier, par crainte d'exposer des secrets industriels. Selon l'agence, jusqu'au 5 octobre au moins, les deux laboratoires voulaient encadrer strictement ces publications ; au 8 octobre, les discussions d'Anthropic avec certains évaluateurs semblaient avoir avancé. Le 18 septembre, Anthropic avait annoncé que Faculty, l'activité d'IA d'Accenture, serait son premier évaluateur « intégré », avec un accès comparable à celui d'un employé, chaque partie prévoyant d'investir au moins 1 milliard de dollars sur cinq ans. Selon Reuters, Anthropic se réserve le droit de relire et valider les rapports de nouveaux partenaires, tandis qu'OpenAI ne veut pas approuver des rapports entiers mais retire d'ordinaire les détails sensibles. Anthropic a confirmé en septembre qu'il n'existe pas encore de normes sur ce à quoi les évaluateurs ont accès ni sur la manière de rendre compte. Le contenu de l'article de Reuters est ici repris via The Next Web, faute d'accès direct.
+
+L'éclairage
+
+Pourquoi un évaluateur « intégré » pose-t-il question ?
+
+Aujourd'hui, des évaluateurs externes testent un modèle de l'extérieur, souvent peu de temps avant sa sortie. Un évaluateur intégré travaille à l'intérieur du laboratoire, voit les modèles en cours d'entraînement et peut parler aux employés. Plus l'accès est large, plus la question de ce qu'il a le droit de publier compte : sans publication libre, la vérification reste difficile à juger depuis l'extérieur. Démontré ou annoncé ? Les engagements sont publics, mais le détail des contrats ne l'est pas ; l'article de Reuters repose sur deux sources anonymes.
+
+Ce qu'ils en disent
+
+« do not reduce our accountability, but help to make it more verifiable »
+Anthropic (Entreprise), annonce du 18 septembre
+
+Elle ne veut pas approuver des rapports entiers, mais retire d'ordinaire les détails secrets.
+OpenAI (Entreprise), position rapportée par Reuters
+
+Selon Reuters, elle juge que les laboratoires peuvent se servir de l'accès comme d'un levier tant qu'il n'existe pas de règles.
+Rumman Chowdhury (Chercheurs), ancienne envoyée scientifique américaine pour l'IA
+
+Ce qui change
+
+Pour un utilisateur, rien d'immédiat. Pour les entreprises qui s'appuient sur ces modèles, la crédibilité des vérifications de sécurité dépend de ce que les évaluateurs peuvent dire publiquement. À défaut de loi, ce sont des contrats qui fixent ces règles.
+
+Et après
+
+Anthropic a dit vouloir annoncer d'autres évaluateurs « dans les semaines à venir » ; OpenAI prévoit de laisser des groupes externes tester ses modèles pendant l'entraînement.
+
+Sources : Reuters · The Next Web (reprise de Reuters) · Anthropic (annonce du 18 septembre) · TechCrunch
+
+À venir
+
+- 15 oct. : OCP Global Summit : dernier jour du sommet de San José (OCP).
+- 23 oct. : Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva).
+- 27 oct. : ai).
+- 12 nov. : Anthropic : entrée en vigueur de sa nouvelle politique d'usage (Anthropic).
+
+Les mots du jour
+
+Jeton
+Unité de texte que lit et produit un modèle ; token en anglais.
+Paramètre
+Nombre appris pendant l'entraînement qui oriente les réponses d'un modèle.
+Inférence
+Phase où un modèle déjà entraîné produit une réponse.
+Ver informatique
+Programme qui se copie seul d'une machine à l'autre ; worm en anglais.
+
+Vrai ou faux ?
+
+Dans l'étude d'Anthropic, un modèle de 9 milliards de paramètres a réussi à se répliquer de bout en bout sur les neuf types de matériel testés.
+
+Réponse : faux. Faux : selon Anthropic, ce modèle a lancé l'inférence sur 8 des 9 types de matériel testés, sans copie de bout en bout ; la réplication complète n'a été obtenue que par des modèles plus puissants, dans des tests simplifiés.
 
 Retrouvez cette édition sur eclairagemedia.com.
