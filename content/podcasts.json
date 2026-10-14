@@ -1,5 +1,421 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-14",
+  "url": "/podcasts/essentiel-2026-10-14.mp3",
+  "taille": 7113292,
+  "duree": 593,
+  "titre": "Éclairage, l'essentiel du mercredi 14 octobre 2026",
+  "titre_episode": "Budget 2027, Nvidia chez Doctolib, sécheresse : l'essentiel du mercredi 14 octobre",
+  "description": "Ce mercredi 14 octobre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : Budget 2027, la motion de rejet échoue\n• Politique : Lycéens, l'acte V de la mobilisation\n• Économie : Nvidia entre au capital de Doctolib et de trois start-up\n• Économie : Bruxelles autorise le rachat de Kenvue par Kimberly-Clark\n• Santé : Alzheimer, le test sanguin p-tau217 testé sur 15 612 personnes\n• Santé : Ménopause, les ovaires changent encore pendant des décennies\n• Alimentation : Transformateurs bio et tensions d'approvisionnement\n• Alimentation : Sécheresse de septembre 2026\n• IA et tech : Meta lance Muse Wonder\n• IA et tech : Anthropic et l'auto-réplication d'une IA\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : la motion de rejet échoue, l'examen commence"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Lycéens : l'acte V rassemble 161 500 personnes selon l'Intérieur"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Nvidia : une participation au capital de Doctolib et de trois start-up"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Kimberly-Clark : Bruxelles autorise le rachat de Kenvue, avec cessions"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Alzheimer : le test sanguin p-tau217 testé sur 15 612 personnes sans symptômes"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Ménopause : les ovaires changent encore pendant des décennies"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Transformateurs bio : un tiers signalent des tensions d'approvisionnement"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Sécheresse : septembre 2026, troisième plus sec depuis 1958"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Meta : Muse Wonder, son premier modèle d'IA de pointe, est lancé"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Anthropic : l'IA pourrait bientôt se copier seule sur des objets connectés"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce mercredi quatorze octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Dix sujets, on y va."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par le budget. Deux cent trente-six voix contre cent quarante-neuf : c'est le score du vote de mardi soir à l'Assemblée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un vote sur quoi, exactement ? Sur la motion de rejet préalable déposée par le groupe socialiste contre le budget de l'État pour deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et une motion de rejet, concrètement, ça fait quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Si elle avait été adoptée, le texte serait parti directement au Sénat, sans que les députés examinent les articles. Rejetée, elle laisse la discussion s'ouvrir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'examen de la partie recettes, les impôts et les taxes, continue. Avec trois mille huit cent soixante-dix-huit amendements déposés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois mille huit cent soixante-dix-huit ? Ah oui, quand même."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le gouvernement vise un déficit de cinq pour cent du PIB en deux mille vingt-sept, et défend quarante-trois milliards d'euros de mesures nouvelles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Rassemblement national avait annoncé voter contre la motion, et ne l'a pas votée. La gauche, elle, a voté pour dans sa majorité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et si aucun budget n'est adopté à temps, il existe une autre voie : les ordonnances budgétaires, jamais utilisées, possibles après soixante-dix jours d'examen, vers le dix-huit décembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : le budget n'est pas écarté en bloc, l'examen des recettes se poursuit en séance jusqu'à lundi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement d'ambiance. Les lycéens ont encore défilé mardi, pour ce qu'on appelle l'acte cinq du mouvement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et les chiffres ne se ressemblent pas. Le ministère de l'Intérieur compte cent soixante et un mille cinq cents manifestants. L'intersyndicale de la jeunesse en revendique quatre cent quatre-vingt mille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trois fois plus d'un côté que de l'autre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Côté Éducation nationale, quatre-vingt-quatorze virgule deux pour cent des lycées étaient ouverts, avec deux cent quatorze fermetures. Le six octobre, il y en avait huit cents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À Paris, le premier cortège s'est déroulé dans le calme. Des tensions et des violences ont eu lieu à l'arrivée du second."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Depuis la mi-septembre, plus de deux cents lycéens, plus de huit cents policiers et gendarmes et cent quarante-sept personnels de l'Éducation nationale ont été blessés, selon France 24."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Devant le Sénat, le ministre de l'Intérieur, Laurent Nuñez, a annoncé trente-six saisines de l'IGPN, la police des polices, dont quatre pour des blessures mutilantes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le ministre de l'Éducation, Édouard Geffray, veut redéployer trois mille enseignants titulaires sans affectation vers les lycées les plus touchés par les absences de professeurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le mouvement continue, et une partie des manifestants dit vouloir poursuivre après les vacances."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une annonce parisienne. Le patron de Nvidia, Jensen Huang, était à Paris mardi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il a annoncé l'entrée de son groupe au capital de Doctolib, la plateforme de rendez-vous médicaux, et de trois start-up : Genesis AI, Pigment et, selon l'AFP, Entalpic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour quelles sommes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucun montant n'a été communiqué. Nvidia sera actionnaire minoritaire de Doctolib, sans siège au conseil d'administration."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi un fabricant de puces investit chez ses clients ? Ses puces servent à entraîner les modèles d'intelligence artificielle, donc ces start-up sont des clientes potentielles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Doctolib dit vouloir utiliser des puces et des logiciels libres de Nvidia pour construire ses propres modèles, au lieu de dépendre d'autres éditeurs. L'argent doit financer des recrutements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Jensen Huang a aussi dit que Nvidia prévoit de dépenser deux milliards de dollars de plus en Europe cette année, avant d'être reçu à l'Élysée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essentiel : un fournisseur devient aussi actionnaire de ses clients. La tournée continue à Londres, Stockholm et Berlin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre dossier, à Bruxelles. La Commission européenne a autorisé le rachat de Kenvue par Kimberly-Clark."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Kenvue, c'est Tylenol, Neutrogena, Listerine. Kimberly-Clark, c'est Kleenex, Huggies, Kotex. Une opération d'environ quarante milliards de dollars selon Reuters, quarante-huit virgule sept selon une autre source."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais avec des conditions. Bruxelles craignait moins de concurrence sur les tampons, surtout en Tchéquie, en Estonie et en Slovaquie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Alors Kimberly-Clark s'est engagé à céder toute son activité de tampons et d'hygiène féminine dans l'Espace économique européen : les marques Kotex, Camelia et Record."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'acheteur, c'est Dilek Gida Uretim, un distributeur turc, validé lui aussi par la Commission."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Retenez la mécanique : feu vert, mais avec des cessions pour que la concurrence subsiste. Les articles ne donnent pas de date de finalisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction la santé. Un test sanguin pour détecter la maladie d'Alzheimer, sur quinze mille six cent douze personnes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des adultes de cinquante-cinq à quatre-vingts ans, sans aucun trouble cognitif, suivis dans cent six sites répartis sur quatre régions du monde. Le test mesure une protéine, la p-tau 217."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la question de l'étude, publiée dans JAMA Neurology : le test fonctionne-t-il de la même façon pour tout le monde ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le taux de p-tau 217 est plus bas chez les participants asiatiques, noirs et hispaniques que chez les blancs non hispaniques."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le test serait moins fiable pour eux ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas forcément. Le lien entre ce taux et la quantité d'amyloïde dans le cerveau, mesurée par TEP, ne diffère pas de façon significative entre groupes raciaux. Il diffère selon l'ethnicité, hispanique ou non."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une réserve importante : c'est une étude transversale. Elle compare à un moment donné, sans suivi dans le temps."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle montre des associations, pas des causes. Et plusieurs auteurs sont affiliés à Eisai et à C2N Diagnostics."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième étude santé : la ménopause. Les ovaires continuent de changer pendant des décennies."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des équipes de la Northwestern University et du Buck Institute ont analysé cinq mille huit cent douze groupes de protéines dans les ovaires de vingt-huit femmes ménopausées, de cinquante à soixante-quinze ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, vingt-huit femmes seulement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, c'est une petite étude observationnelle, publiée dans Aging Cell. Vers cinquante ans, les ovaires contiennent plus de protéines de structure. À soixante-dix ans et plus, plus de protéines liées à l'inflammation et à l'activité immunitaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Certaines signatures évoquent la sénescence, le vieillissement des cellules. Et des protéines associées au cancer de l'ovaire sont plus abondantes vers soixante ans, sans cancer dans le tissu étudié."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On ne sait pas si ces changements sont utiles ou nocifs. À retenir : après la ménopause, l'organe continue de se transformer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Passons à l'alimentation, et d'abord au bio. Premier baromètre du moral des transformateurs bio, présenté par l'Agence Bio au salon Natexpo à Lyon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Huit cent soixante-quatorze entreprises interrogées par le Crédoc au printemps. La moitié juge son moral bon ou très bon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais un tiers détaille des difficultés d'approvisionnement. Selon Réussir, le beurre et les œufs bio sont cités en premier, puis les fruits, les légumes, le blé et le sucre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Précision : ce détail par produit reste à confirmer dans le rapport complet de l'Agence Bio."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de neuf transformateurs sur dix s'approvisionnent en France, et un sur cinq en bio cent pour cent régional."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais attention, c'est une enquête déclarative. Elle ne dit rien des volumes manquants ni des prix en rayon. Et comme c'est la première édition, pas de comparaison possible."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre sujet de terrain : la sécheresse. Septembre deux mille vingt-six, selon Météo-France, est le troisième mois de septembre le moins arrosé depuis mille neuf cent cinquante-huit."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Moins soixante-dix pour cent de pluie en moyenne. Du premier au vingt septembre, huit virgule deux millimètres seulement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Paris, Nice et Ajaccio n'ont pas reçu une goutte, selon l'AFP."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas une goutte pendant vingt jours ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Septembre est aussi le deuxième plus chaud depuis mille neuf cents, avec trois virgule un degrés d'écart à la normale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Côté champs, selon un sondage non représentatif de Terre-net, vingt-quatre pour cent des agriculteurs décalent leurs semis de céréales d'hiver. Cinquante-sept pour cent attendent surtout la météo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le ministère annonce une carte des pertes observées, et des comités départementaux d'expertise en octobre puis fin novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour les récoltes de deux mille vingt-sept, aucune estimation n'est publiée. Phrase-clé : depuis mars, la France n'a connu aucun mois excédentaire en pluie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique, l'intelligence artificielle et la tech. Meta a lancé Muse Wonder, qu'elle présente comme son premier modèle de pointe."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux modèles en fait : Muse Wonder et Muse Wonder Full, conçus pour des tâches d'agents, des programmes qui enchaînent des actions pour atteindre un objectif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Muse Wonder est facturé quatre dollars le million de jetons en entrée et vingt dollars en sortie, selon TechCrunch."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Meta met en avant une mémoire active, qui retient les informations de l'utilisateur sur de longues périodes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les performances ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Meta annonce des scores comparables à ceux de Claude Fable cinq point un et de GPT-six Astra. Mais ce sont les tests de Meta, sans évaluation indépendante citée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour le grand public, rien ne change tout de suite : pas de calendrier pour l'application Muse."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Retenez : annoncé, pas encore vérifié de l'extérieur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre publication du douze octobre, côté Anthropic. Son équipe Frontier Red Team étudie l'auto-réplication d'une IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est sa capacité à se copier d'une machine à l'autre sans aide humaine. Les auteurs estiment que de petits modèles pourraient en être à quelques mois sur des objets connectés bon marché."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour le montrer, ils ont fait tourner un modèle de vingt-six milliards de paramètres sur quinze boîtiers Android TV à cinquante-cinq dollars pièce."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À zéro virgule trente-neuf jeton par seconde. Donc très lentement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et un modèle de neuf milliards de paramètres a réussi à lancer le calcul sur huit des neuf types de matériel testés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Anthropic précise que son test simplifie la partie piratage et constitue une borne haute. Aucun ver d'IA pleinement autonome n'a été démontré dans le monde réel."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Démontré en laboratoire, extrapolé pour l'échéance de fin d'année, non démontré pour une propagation réelle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier sujet : Reuters décrit un bras de fer sur ce que les évaluateurs externes d'IA peuvent publier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'après deux personnes au fait des discussions, Anthropic et OpenAI ont cherché à garder un contrôle important sur ces publications, par crainte d'exposer des secrets industriels."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Anthropic se réserve le droit de relire et valider les rapports de nouveaux partenaires. OpenAI ne veut pas approuver des rapports entiers, mais retire d'ordinaire les détails sensibles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le dix-huit septembre, Anthropic avait annoncé Faculty, l'activité d'IA d'Accenture, comme premier évaluateur intégré, avec un milliard de dollars investi au moins par chaque partie sur cinq ans."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un évaluateur intégré travaille à l'intérieur du laboratoire, avec un accès comparable à celui d'un employé. D'où la question de ce qu'il a le droit de dire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'article repose sur deux sources anonymes, et il n'existe pas encore de normes sur l'accès des évaluateurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À défaut de loi, ce sont des contrats qui fixent les règles. Anthropic dit vouloir annoncer d'autres évaluateurs dans les semaines à venir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-14",
   "url": "/podcasts/politique-2026-10-14.mp3",
