@@ -1,6 +1,720 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-14",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH",
+    "titre": "Nvidia : une participation au capital de Doctolib et de trois start-up",
+    "court": "Nvidia entre au capital de Doctolib",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg/1280px-Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg",
+    "legende": "Jensen Huang, PDG de Nvidia, lors d'une keynote en 2025 (illustration)",
+    "chapeau": "Mardi 13 octobre, lors d'une étape parisienne de sa tournée européenne, Jensen Huang, PDG de Nvidia, a annoncé l'entrée du groupe au capital de Doctolib, la plateforme française de rendez-vous médicaux, et de trois start-up : Genesis AI (robotique), Pigment (logiciel de planification pour entreprises) et, selon l'AFP, Entalpic (matériaux ; Maddyness cite Alice & Bob à la place d'Entalpic).",
+    "eclairage": "Pourquoi un fabricant de puces entre-t-il au capital de start-up ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "start-up françaises au capital"
+     },
+     {
+      "valeur": "2 Md$",
+      "legende": "d'investissement en Europe cette année"
+     },
+     {
+      "valeur": "n.c.",
+      "legende": "montants communiqués"
+     }
+    ],
+    "passe": "Mardi 13 octobre, lors d'une étape parisienne de sa tournée européenne, Jensen Huang, PDG de Nvidia, a annoncé l'entrée du groupe au capital de Doctolib, la plateforme française de rendez-vous médicaux, et de trois start-up : Genesis AI (robotique), Pigment (logiciel de planification pour entreprises) et, selon l'AFP, Entalpic (matériaux ; Maddyness cite Alice & Bob à la place d'Entalpic). Ni Nvidia ni les start-up n'ont communiqué les montants. Selon Stanislas Niox-Château, PDG de Doctolib, Nvidia sera actionnaire minoritaire, sans siège au conseil d'administration. Doctolib utilise des technologies Nvidia depuis environ un an, selon Maddyness. Jensen Huang a dit que Nvidia prévoit de dépenser 2 milliards de dollars de plus en Europe cette année. Il a ensuite été reçu à l'Élysée par Emmanuel Macron.",
+    "points": [
+     "Nvidia vend la puissance de calcul (puces et logiciels) dont les modèles d'IA ont besoin pour être entraînés et utilisés. Les start-up de l'IA sont ses clientes potentielles.",
+     "Une participation minoritaire est une petite part du capital : elle donne droit à une part des gains si la valeur de l'entreprise augmente, mais pas le contrôle. Ici, pas de siège au conseil chez Doctolib.",
+     "L'actionnaire est aussi un fournisseur. Doctolib dit qu'il utilisera des puces et des logiciels libres de Nvidia pour construire ses propres modèles, au lieu de dépendre d'autres éditeurs d'IA (AFP)."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.lagazettefrance.fr/article/le-geant-americain-nvidia-investit-dans-doctolib-et-trois-start-up-francaises-d-ia",
+      "nom": "dépêche AFP via La Gazette France"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/nvidia-investit-dans-doctolib-et-trois-start-up-francaises-d-ia-ce785dd2d98ff42c",
+      "nom": "AWP (AFP) via Zonebourse"
+     },
+     {
+      "url": "https://www.maddyness.com/2026/10/13/nvidia-debarque-au-capital-de-doctolib/",
+      "nom": "Maddyness"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/offres-du-jour-fusions-et-acquisitions-7ae470c3a352d6072b7cb58acd0db60a",
+      "nom": "Reuters via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Jensen Huang",
+      "contexte": "PDG de Nvidia",
+      "texte": "La participation vise à « lancer la révolution de l'intelligence artificielle en Europe ».",
+      "url": "https://www.lagazettefrance.fr/article/le-geant-americain-nvidia-investit-dans-doctolib-et-trois-start-up-francaises-d-ia",
+      "source": "AFP via La Gazette France"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Stanislas Niox-Château",
+      "contexte": "PDG de Doctolib",
+      "texte": "« Cet investissement de Nvidia va nous permettre d'accélérer nos recrutements et nos développements IA. » Il dit aussi vouloir bâtir « une IA souveraine entraînée à partir de nos modèles, de nos données, et contrôlée par nous ».",
+      "url": "https://www.maddyness.com/2026/10/13/nvidia-debarque-au-capital-de-doctolib/",
+      "source": "Maddyness"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "Il dit partager avec Nvidia l'engagement pour « une intelligence artificielle ouverte, sûre et au service de notre souveraineté ».",
+      "url": "https://www.lagazettefrance.fr/article/le-geant-americain-nvidia-investit-dans-doctolib-et-trois-start-up-francaises-d-ia",
+      "source": "AFP via La Gazette France"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Ligue des droits de l'Homme",
+      "contexte": "association",
+      "texte": "Elle a critiqué en août le programme de recherche de Doctolib fondé sur les données personnelles de ses 50 millions d'utilisateurs, selon l'AFP.",
+      "url": "https://www.zonebourse.com/actualite-bourse/nvidia-investit-dans-doctolib-et-trois-start-up-francaises-d-ia-ce785dd2d98ff42c",
+      "source": "AWP (AFP) via Zonebourse"
+     }
+    ],
+    "apres": "Jensen Huang poursuit sa tournée à Londres, Stockholm et Berlin (AFP).",
+    "change": "Pour Doctolib, l'argent frais finance des recrutements et le développement de ses modèles d'IA, dont un assistant personnel de santé pour les patients et des assistants pour les soignants (AFP).",
+    "credit": {
+     "auteur": "Pronoia",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(1).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ENTREPRISES",
+    "titre": "Kimberly-Clark : Bruxelles autorise le rachat de Kenvue, avec cessions",
+    "court": "Bruxelles autorise Kimberly-Clark à racheter Kenvue",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Huggies_Disposable_Diapers_at_Kroger.jpg/1280px-Huggies_Disposable_Diapers_at_Kroger.jpg",
+    "legende": "Couches Huggies, marque de Kimberly-Clark, en rayon (illustration)",
+    "chapeau": "Mardi 13 octobre, la Commission européenne a autorisé, sous conditions, le rachat de Kenvue (Tylenol, Neutrogena, Listerine, Nicorette) par Kimberly-Clark (Kleenex, Huggies, Kotex).",
+    "eclairage": "Comment Bruxelles contrôle-t-elle un rachat ?",
+    "chiffres": [
+     {
+      "valeur": "40 Md$",
+      "legende": "valeur du rachat (48,7 selon une source)"
+     },
+     {
+      "valeur": "3 pays",
+      "legende": "où la concurrence sur les tampons baisse"
+     }
+    ],
+    "passe": "Mardi 13 octobre, la Commission européenne a autorisé, sous conditions, le rachat de Kenvue (Tylenol, Neutrogena, Listerine, Nicorette) par Kimberly-Clark (Kleenex, Huggies, Kotex). La valeur de l'opération est d'environ 40 milliards de dollars selon Reuters, de 48,7 milliards selon le Manila Times : les articles ne précisent pas la différence. La Commission craignait une baisse de la concurrence sur le marché des tampons, en particulier en Tchéquie, en Estonie et en Slovaquie. Pour lever ce risque, Kimberly-Clark s'est engagé à céder toute son activité de tampons et d'hygiène féminine dans l'Espace économique européen, soit les marques Kotex (dont la sous-marque Lidie), Camelia et Record. L'acheteur est Dilek Gida Uretim, distributeur turc de marques de grande consommation, que la Commission a également validé.",
+    "points": [
+     "Un rachat de cette taille est notifié à la Commission, qui vérifie qu'il ne réduit pas trop la concurrence : moins de concurrents, c'est souvent des prix plus élevés ou moins de choix.",
+     "Trois issues possibles : feu vert, feu vert assorti de cessions (« remèdes »), ou enquête approfondie de quatre mois (Reuters).",
+     "Ici, les remèdes portent sur un marché précis. Le groupe vend ses marques de tampons de la zone pour que la concurrence subsiste dans les pays où elle aurait reculé."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://live.euronext.com/en/financial-news/eu-approves-kimberly-clarks-acquisition-kenvue-subject-conditions",
+      "nom": "Reuters via Euronext"
+     },
+     {
+      "url": "https://uk.investing.com/news/stock-market-news/kimberlyclark-wins-eu-approval-for-kenvue-acquisition-93CH-4908114",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://www.manilatimes.net/2026/10/13/business/foreign-business/eu-okays-kimberly-clark-bid-for-neutrogena-owner-kenvue/2444934",
+      "nom": "Manila Times"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Commission européenne",
+      "contexte": "communiqué",
+      "texte": "« The brands covered by the divestment are Kotex (including the Lidie sub-brand), Camelia and Record ».",
+      "url": "https://live.euronext.com/en/financial-news/eu-approves-kimberly-clarks-acquisition-kenvue-subject-conditions",
+      "source": "Reuters via Euronext"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Teresa Ribera",
+      "contexte": "commissaire à la concurrence",
+      "texte": "Elle salue « Kimberly-Clark's commitment to divest its feminine hygiene brands, including Kotex, Camelia and Record ».",
+      "url": "https://www.manilatimes.net/2026/10/13/business/foreign-business/eu-okays-kimberly-clark-bid-for-neutrogena-owner-kenvue/2444934",
+      "source": "Manila Times"
+     }
+    ],
+    "apres": "Les articles consultés ne donnent pas de date de finalisation du rachat.",
+    "change": "La cession porte sur les tampons et l'hygiène féminine de Kimberly-Clark dans l'Espace économique européen : les marques Kotex, Camelia et Record changent de propriétaire. Le reste de l'opération est autorisé.",
+    "credit": {
+     "auteur": "ParentingPatch",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Huggies_Disposable_Diapers_at_Kroger.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "MARCHÉS",
+    "titre": "JPMorgan : 15,3 Md$ de bénéfice, mais sous les attentes par action",
+    "court": "JPMorgan : 15,3 Md$ de bénéfice au T3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/JPMorgan_Chase_-_270_Park_Avenue_%2855283843744%29.jpg/1280px-JPMorgan_Chase_-_270_Park_Avenue_%2855283843744%29.jpg",
+    "legende": "Siège de JPMorgan Chase, 270 Park Avenue, New York (illustration)",
+    "chapeau": "Mardi 13 octobre, JPMorgan a publié ses résultats du troisième trimestre : un bénéfice net de 15,3 milliards de dollars (+6 % sur un an, contre 14,4 Md$), soit 5,57 $ par action, sous la prévision moyenne des analystes de 5,93 $ (5,90 $ selon GuruFocus). Les revenus atteignent 50,2 Md$ (+8 %).",
+    "eclairage": "Comment lit-on les résultats d'une banque ?",
+    "chiffres": [
+     {
+      "valeur": "15 Md$",
+      "legende": "bénéfice net (15,3 Md$, +6 %)"
+     },
+     {
+      "valeur": "+8 %",
+      "legende": "revenus, à 50,2 Md$"
+     },
+     {
+      "valeur": "5,57 $",
+      "legende": "bénéfice par action (5,93 $ attendus)"
+     }
+    ],
+    "passe": "Mardi 13 octobre, JPMorgan a publié ses résultats du troisième trimestre : un bénéfice net de 15,3 milliards de dollars (+6 % sur un an, contre 14,4 Md$), soit 5,57 $ par action, sous la prévision moyenne des analystes de 5,93 $ (5,90 $ selon GuruFocus). Les revenus atteignent 50,2 Md$ (+8 %). Hors une perte de 658 millions de dollars sur des titres d'investissement, le bénéfice est de 15,8 Md$, soit 5,75 $ par action. Les revenus des activités de marché progressent de 15 % à 10,3 Md$ : +49 % sur les actions, -4 % sur les produits de taux. Les provisions pour pertes de crédit baissent de 19 % à 2,7 Md$. La banque a réduit ses rachats d'actions. Le même jour, Goldman Sachs a publié 5,29 Md$ de bénéfice (17,01 $ par action) et Wells Fargo 5,95 Md$ (1,87 $), tous deux au-dessus des attentes ; celui de Citigroup progresse de 40 % sur un an.",
+    "points": [
+     "Bénéfice net et bénéfice par action. Le second divise le premier par le nombre d'actions en circulation : c'est lui que les analystes comparent à leurs prévisions.",
+     "« Sous les attentes » ne veut pas dire « en perte ». Le consensus est la moyenne des prévisions des analystes : JPMorgan a gagné plus que l'an dernier, mais moins que prévu.",
+     "Les revenus de marché viennent des échanges d'actions et d'obligations réalisés pour les clients : au troisième trimestre, ils montent sur les actions (+49 %) et reculent sur les produits de taux (-4 %)."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
+      "nom": "JPMorgan (document SEC)"
+     },
+     {
+      "url": "https://www.investing.com/news/company-news/jpmorgan-q3-2026-slides-strong-profit-growth-fortress-balance-sheet-93CH-4947004",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://fortune.com/2026/10/13/jpmorgan-goldman-sachs-citigroup-wells-fargo-interest-inflation/",
+      "nom": "Fortune"
+     },
+     {
+      "url": "https://www.euronews.com/2026/10/13/us-banks-post-strong-earnings-but-economic-risks-cloud-the-sectors-outlook",
+      "nom": "Euronews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Jamie Dimon",
+      "contexte": "PDG de JPMorgan",
+      "texte": "« The US economy continued to be fueled by strong business investment and ongoing consumer spending », écrit-il, tout en citant parmi les risques « large fiscal deficits, sticky inflation, elevated asset prices, rising interest rates ».",
+      "url": "https://www.euronews.com/2026/10/13/us-banks-post-strong-earnings-but-economic-risks-cloud-the-sectors-outlook",
+      "source": "Euronews"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "JPMorgan",
+      "contexte": "document SEC",
+      "texte": "« In line with our hierarchy, we reduced share repurchases this quarter. »",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
+      "source": "JPMorgan (SEC)"
+     }
+    ],
+    "apres": "Bank of America et Morgan Stanley publient mercredi 14 octobre, jour de l'inflation américaine (AFP).",
+    "change": "Les provisions pour pertes de crédit, l'argent mis de côté pour d'éventuels impayés, baissent de 19 % à 2,7 Md$. La banque finance ménages et entreprises : son niveau de bénéfice et ses réserves se lisent dans ces résultats.",
+    "credit": {
+     "auteur": "ajay_suresh",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_-_270_Park_Avenue_(55283843744).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Inflation américaine de septembre, puis résultats de Bank of America et Morgan Stanley."
+   },
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Inflation définitive de la zone euro pour septembre ; séance plénière du FMI et de la Banque mondiale."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Participation minoritaire",
+    "definition": "Une part du capital inférieure à 50 % : elle donne droit à une partie des gains, pas le contrôle de l'entreprise."
+   },
+   {
+    "terme": "Remède (concurrence)",
+    "definition": "Une cession d'activités demandée ou proposée pour qu'un rachat soit autorisé par le régulateur."
+   },
+   {
+    "terme": "Consensus",
+    "definition": "La moyenne des prévisions des analystes. « Sous le consensus » signifie moins que prévu, pas forcément une perte."
+   },
+   {
+    "terme": "Bénéfice par action",
+    "definition": "Le bénéfice net divisé par le nombre d'actions en circulation, utilisé pour comparer les résultats aux prévisions."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Nvidia a publié le montant exact de sa participation au capital de Doctolib.",
+   "reponse": false,
+   "explication": "Faux : ni Nvidia ni les start-up n'ont communiqué les montants investis, selon l'AFP. Nvidia sera actionnaire minoritaire de Doctolib, sans siège au conseil d'administration."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-14",
+  "minutes": 16,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : la motion de rejet échoue, l'examen commence",
+    "court": "Budget 2027 : la motion de rejet échoue",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Assembl%C3%A9e_nationale_bo%C3%AEtier_vote.jpg/1280px-Assembl%C3%A9e_nationale_bo%C3%AEtier_vote.jpg",
+    "legende": "Boîtier de vote à l'Assemblée nationale (illustration)",
+    "chapeau": "Mardi 13 octobre au soir, l'Assemblée nationale a rejeté par 236 voix contre 149 la motion de rejet préalable du groupe socialiste sur le projet de loi de finances (PLF) pour 2027 (scrutin n° 8707).",
+    "eclairage": "Que change le rejet de la motion ?",
+    "chiffres": [
+     {
+      "valeur": "236",
+      "legende": "voix contre la motion de rejet du PS"
+     },
+     {
+      "valeur": "149",
+      "legende": "voix pour (385 votants)"
+     },
+     {
+      "valeur": "43 Md€",
+      "legende": "de mesures nouvelles selon le gouvernement"
+     }
+    ],
+    "passe": "Mardi 13 octobre au soir, l'Assemblée nationale a rejeté par 236 voix contre 149 la motion de rejet préalable du groupe socialiste sur le projet de loi de finances (PLF) pour 2027 (scrutin n° 8707). Le Rassemblement national, qui avait annoncé le matin même voter contre, ne l'a pas votée ; les groupes de gauche, eux, ont voté pour dans leur majorité. Le texte n'est donc pas renvoyé au Sénat : la discussion de la première partie, consacrée aux recettes, se poursuit en séance, avec 3 878 amendements déposés selon le site de l'Assemblée. Le gouvernement vise un déficit public de 5 % du PIB en 2027 et défend 43 milliards d'euros de mesures nouvelles. Le matin, Sébastien Lecornu avait proposé aux socialistes de travailler sur trois chantiers : les violences faites aux femmes, l'agriculture, la jeunesse et l'école.",
+    "points": [],
+    "explication": "Une motion de rejet préalable permet de proposer de rejeter un texte avant d'en discuter les articles. Si elle avait été adoptée, le projet de loi de finances serait parti directement au Sénat, sans examen des articles par les députés, selon LCP. Rejetée, elle laisse la discussion s'ouvrir. Si aucun budget n'est adopté à temps, le gouvernement dispose d'une autre voie : les ordonnances budgétaires, jamais utilisées, qui ne seraient possibles qu'après 70 jours d'examen, soit vers le 18 décembre, selon l'AFP. L'an dernier, Sébastien Lecornu avait eu recours à l'article 49, alinéa 3, après un compromis de non-censure avec le PS.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-2027-aura",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8707",
+      "nom": "assemblee-nationale.fr (scrutin n° 8707)"
+     },
+     {
+      "url": "https://actu.orange.fr/france/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-quot-au-debat-quot-CNT000002sGZZF.html",
+      "nom": "Orange, avec AFP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr (dossier PLF 2027)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jean-Philippe Tanguy",
+      "contexte": "député",
+      "texte": "« Ce gouvernement est incapable de baisser structurellement la dépense »",
+      "url": "https://actu.orange.fr/france/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-quot-au-debat-quot-CNT000002sGZZF.html",
+      "source": "Orange, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie",
+      "texte": "« Il nous faut un budget d'ici la fin de l'année »",
+      "url": "https://actu.orange.fr/france/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-quot-au-debat-quot-CNT000002sGZZF.html",
+      "source": "Orange, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Groupe LFI",
+      "contexte": "51 votes pour sur 70",
+      "texte": "Les insoumis ont voté la motion de rejet",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8707",
+      "source": "assemblee-nationale.fr"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Estelle Mercier",
+      "contexte": "députée",
+      "texte": "« Vous ne construirez aucun compromis avec des socialistes »",
+      "url": "https://actu.orange.fr/france/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-quot-au-debat-quot-CNT000002sGZZF.html",
+      "source": "Orange, avec AFP"
+     }
+    ],
+    "apres": "Mercredi 14 octobre : suite de l'examen de la partie recettes en séance, qui doit durer jusqu'à lundi, selon LCP. Le texte passera ensuite au Sénat, puis une commission mixte paritaire (sept députés, sept sénateurs) cherchera un compromis.",
+    "change": "Le budget 2027 n'est pas écarté en bloc : l'Assemblée examine d'abord la partie « recettes » (impôts et taxes), avant les dépenses.",
+    "credit": {
+     "auteur": "Baidax",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale_bo%C3%AEtier_vote.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉDUCATION",
+    "titre": "Lycéens : l'acte V rassemble 161 500 personnes selon l'Intérieur",
+    "court": "Lycéens : acte V, 161 500 selon l'Intérieur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_04.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_04.jpg",
+    "legende": "Lycéens et étudiants dans un cortège à Perpignan, 6 octobre 2026",
+    "chapeau": "Mardi 13 octobre, pour l'« acte V » du mouvement lycéen et étudiant, le ministère de l'Intérieur a compté 161 500 manifestants en France, dont 41 500 à Paris sur deux cortèges ; l'intersyndicale de la jeunesse en revendique 480 000.",
+    "eclairage": "L'IGPN, qu'est-ce que c'est ?",
+    "chiffres": [
+     {
+      "valeur": "94,2 %",
+      "legende": "des lycées ouverts selon le ministère"
+     },
+     {
+      "valeur": "214",
+      "legende": "lycées fermés (800 le 6 octobre)"
+     },
+     {
+      "valeur": "36",
+      "legende": "enquêtes IGPN ouvertes"
+     }
+    ],
+    "passe": "Mardi 13 octobre, pour l'« acte V » du mouvement lycéen et étudiant, le ministère de l'Intérieur a compté 161 500 manifestants en France, dont 41 500 à Paris sur deux cortèges ; l'intersyndicale de la jeunesse en revendique 480 000. Selon le ministère de l'Éducation, 94,2 % des lycées étaient ouverts, avec 214 fermetures (224 le 8 octobre, 800 le 6 octobre). À Paris, le premier cortège s'est déroulé dans le calme ; des tensions et des violences ont eu lieu à l'arrivée du second. Depuis la mi-septembre, plus de 200 lycéens, plus de 800 policiers et gendarmes et 147 personnels de l'Éducation nationale ont été blessés, selon France 24. Devant la commission des lois du Sénat, le ministre de l'Intérieur Laurent Nuñez a annoncé 36 saisines de l'IGPN à ce jour, dont quatre pour des blessures mutilantes. Le ministre de l'Éducation, Édouard Geffray, a annoncé le redéploiement de 3 000 enseignants titulaires sans affectation vers les lycées les plus touchés par les absences de professeurs.",
+    "points": [],
+    "explication": "L'Inspection générale de la police nationale (IGPN) est le service d'enquête interne de la police. Elle est saisie quand des faits sont reprochés à des policiers, par exemple après des blessures lors d'une manifestation. Dans le cas d'un lycéen de 15 ans de Lens, qui a perdu une main le 5 octobre, l'IGPN doit établir s'il a ramassé la grenade ou si elle est tombée sur lui, et si le tir respectait la réglementation, selon Public Sénat. Laurent Nuñez a aussi suspendu un type de grenade assourdissante ; d'autres armes dites intermédiaires restent en service.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+      "nom": "France 24, avec AFP"
+     },
+     {
+      "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-laurent-nunez-annonce-louverture-de-36-enquetes-par-ligpn-dont-quatre-pour-des-blessures-mutilantes",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "USL",
+      "qui": "Ryad Rani",
+      "contexte": "président de l'Union syndicale lycéenne",
+      "texte": "« Nous ne lâcherons rien et nous ne braderons rien. »",
+      "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+      "source": "France 24, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« Face à des émeutiers, il n'y a pas de désescalade. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-laurent-nunez-annonce-louverture-de-36-enquetes-par-ligpn-dont-quatre-pour-des-blessures-mutilantes",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du RN",
+      "texte": "Il propose une hausse de salaire des enseignants de 4 % par an pendant trois ans",
+      "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+      "source": "France 24, avec AFP"
+     }
+    ],
+    "apres": "L'IGPN poursuit ses enquêtes. Selon Public Sénat (information d'une seule source), le Sénat examine le 27 octobre le projet de loi dit « casseur-payeur », qui permettrait à l'État de se faire rembourser des dégâts même sans condamnation pénale.",
+    "change": "Un mouvement lycéen et étudiant continue, avec des chiffres de participation qui diffèrent entre les autorités et les organisateurs. Une partie des manifestants dit vouloir poursuivre après les vacances.",
+    "credit": {
+     "auteur": "Aurelio Cárdenas",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_(Acte_III)_04.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SOCIÉTÉ",
+    "titre": "Loi intégrale : l'Assemblée l'adopte par 503 voix contre 0",
+    "court": "Loi intégrale : adoptée par 503 voix",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Manifestation_Journ%C3%A9e_droits_des_femmes_%C3%A0_Paris_le_8_mars_2026_102.jpg/1280px-Manifestation_Journ%C3%A9e_droits_des_femmes_%C3%A0_Paris_le_8_mars_2026_102.jpg",
+    "legende": "Pancartes NousToutes avant une manifestation à Paris (illustration)",
+    "chapeau": "Mardi 13 octobre, l'Assemblée nationale a adopté en première lecture la proposition de loi « intégrale » contre les violences sexistes et sexuelles : 503 voix pour, aucune contre.",
+    "eclairage": "Que veut dire « première lecture » ?",
+    "chiffres": [
+     {
+      "valeur": "503",
+      "legende": "voix pour"
+     },
+     {
+      "valeur": "0",
+      "legende": "voix contre"
+     },
+     {
+      "valeur": "67",
+      "legende": "abstentions (selon LCP)"
+     }
+    ],
+    "passe": "Mardi 13 octobre, l'Assemblée nationale a adopté en première lecture la proposition de loi « intégrale » contre les violences sexistes et sexuelles : 503 voix pour, aucune contre. Tous les groupes ont voté pour, à l'exception de La France insoumise, qui s'est abstenue pour protester contre la suppression de mesures visant à protéger les femmes étrangères. Le Rassemblement national, abstenu en commission, a voté le texte. Passé de 69 à plus de 110 articles pendant les débats, il prévoit notamment un socle minimal d'enquête pour que les plaintes ne soient pas écartées trop vite, des unités de police et une justice spécialisées, un entretien obligatoire à l'école pour repérer les violences (annuel à partir de 2032) et un parcours de soins pour les mineurs victimes. Le ministre des Comptes publics David Amiel a évalué le coût à terme à 3 à 4 milliards d'euros par an ; la rapporteure parle d'une estimation. Le texte part au Sénat, où l'examen est attendu en janvier.",
+    "points": [],
+    "explication": "Pour devenir une loi, un texte doit être voté par l'Assemblée nationale et par le Sénat. Ce vote est la première lecture à l'Assemblée. Le gouvernement a activé la procédure accélérée : après une lecture dans chaque chambre, une commission mixte paritaire peut chercher une version commune. Selon LCP, l'objectif est une adoption définitive d'ici la fin février, avant la suspension des travaux parlementaires pour la campagne présidentielle. Les défenseurs du texte craignent que le Sénat, dominé par la droite et le centre, en modifie les mesures principales.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/la-loi-integrale-contre-les-violences-sexuelles-et-sexistes-adoptee-a-l-unanimite-par-l",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://france24.com/fr/france/20261012-la-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles-%C3%A0-l-heure-du-vote",
+      "nom": "France 24, avec AFP"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/13/violences-sexuelles-et-sexistes-la-loi-integrale-adoptee-a-lunanimite-par-lassemblee-natio",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles-afp-f61f951b007db68ebb690b190af54d3412eade05",
+      "nom": "Boursedirect, dépêche AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Élise Leboucher",
+      "contexte": "députée",
+      "texte": "« Vous préférez punir que prévenir »",
+      "url": "https://lcp.fr/actualites/la-loi-integrale-contre-les-violences-sexuelles-et-sexistes-adoptee-a-l-unanimite-par-l",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Thomas Ménagé",
+      "contexte": "député",
+      "texte": "« Ce texte est devenu grâce au RN un texte plus répressif »",
+      "url": "https://lcp.fr/actualites/la-loi-integrale-contre-les-violences-sexuelles-et-sexistes-adoptee-a-l-unanimite-par-l",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "David Amiel",
+      "contexte": "ministre des Comptes publics",
+      "texte": "Il chiffre le coût à terme à 3 à 4 milliards d'euros par an",
+      "url": "https://france24.com/fr/france/20261012-la-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles-%C3%A0-l-heure-du-vote",
+      "source": "France 24, avec AFP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Céline Thiébault-Martinez",
+      "contexte": "rapporteure",
+      "texte": "« Il s'agit d'une estimation et non d'un engagement »",
+      "url": "https://france24.com/fr/france/20261012-la-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles-%C3%A0-l-heure-du-vote",
+      "source": "France 24, avec AFP"
+     }
+    ],
+    "apres": "Le Sénat examine le texte en janvier, selon le ministre Laurent Panifous cité par LCP ; une commission mixte paritaire suivrait, pour une adoption définitive visée d'ici la fin février.",
+    "change": "La première étape parlementaire est franchie. Le texte, qui crée de nouvelles obligations pour la police, la justice et l'école, doit maintenant convaincre le Sénat.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_Journ%C3%A9e_droits_des_femmes_%C3%A0_Paris_le_8_mars_2026_102.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ÉLECTIONS",
+    "titre": "Présidentielle : Glucksmann remporte la primaire de la gauche",
+    "court": "Primaire : Glucksmann l'emporte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rapha%C3%ABl_Glucksmann-1040806.jpg/1280px-Rapha%C3%ABl_Glucksmann-1040806.jpg",
+    "legende": "Raphaël Glucksmann (illustration)",
+    "chapeau": "Dimanche 11 octobre, Raphaël Glucksmann (Place publique) a remporté dès le premier tour la primaire de la « gauche sociale-démocrate » avec plus de 66 % des voix (79 613 voix), devant Olivier Faure (PS, 14 %), Ségolène Royal (7,62 %), Jérôme Guedj et Emmanuel Maurel (chacun un peu moins de 6 %).",
+    "eclairage": "Une primaire, ce n'est pas l'élection",
+    "chiffres": [
+     {
+      "valeur": "66 %",
+      "legende": "pour Raphaël Glucksmann (79 613 voix)"
+     },
+     {
+      "valeur": "14 %",
+      "legende": "pour Olivier Faure (17 398 voix)"
+     },
+     {
+      "valeur": "~90 %",
+      "legende": "de participation (120 787 votants)"
+     }
+    ],
+    "passe": "Dimanche 11 octobre, Raphaël Glucksmann (Place publique) a remporté dès le premier tour la primaire de la « gauche sociale-démocrate » avec plus de 66 % des voix (79 613 voix), devant Olivier Faure (PS, 14 %), Ségolène Royal (7,62 %), Jérôme Guedj et Emmanuel Maurel (chacun un peu moins de 6 %). Sur 134 456 inscrits, 120 787 ont voté, par voie entièrement électronique. Le scrutin, ouvert vendredi, a été prolongé jusqu'à dimanche soir après une cyberattaque qui avait ralenti la plateforme. C'est la première fois que le PS n'aura pas de candidat issu de ses rangs à une présidentielle ; le parti soutient officiellement Raphaël Glucksmann. Celui-ci refuse toute alliance avec La France insoumise. Olivier Faure a indiqué qu'il continuerait de prôner l'union de la gauche, sans annoncer de démission. Dimanche, Jean-Luc Mélenchon a rassemblé plus de 10 000 partisans à Clermont-Ferrand.",
+    "points": [],
+    "explication": "Une primaire est un vote organisé par un camp politique pour désigner son candidat ; ici, 134 456 personnes étaient inscrites, loin du corps électoral de la présidentielle. Le candidat désigné devra encore mener sa campagne jusqu'au scrutin de 2027, où il affrontera d'autres candidats, dont celui ou celle qu'a désigné chaque autre formation. Pour la gauche, la question de l'union reste ouverte : plusieurs candidats se sont engagés à soutenir le vainqueur, selon l'AFP.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+      "nom": "La Gazette France, dépêche AFP"
+     },
+     {
+      "url": "https://www.sudradio.fr/societe/primaire-de-la-gauche-glucksmann-espere-lemporter-des-le-premier-tour",
+      "nom": "Sud Radio, avec AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-de-quels-moyens-va-beneficier-raphael-glucksmann-desormais-candidat-du-ps-pour-faire-campagne",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Raphaël Glucksmann",
+      "contexte": "Place publique, vainqueur",
+      "texte": "« La démocratie a parlé et le résultat est sans appel »",
+      "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+      "source": "La Gazette France, dépêche AFP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "Écologistes",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale",
+      "texte": "Elle regrette que le vainqueur soit « celui qui fait le choix du repli »",
+      "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+      "source": "La Gazette France, dépêche AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Paul Vannier",
+      "contexte": "député",
+      "texte": "Il critique le choix du vainqueur",
+      "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+      "source": "La Gazette France, dépêche AFP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Patrick Kanner",
+      "contexte": "président du groupe PS au Sénat",
+      "texte": "« Tous les sénateurs socialistes doivent être au service, non pas de Raphaël Glucksmann, mais de la campagne »",
+      "url": "https://www.publicsenat.fr/actualites/politique/maintenant-il-doit-rassembler-tout-le-monde-les-senateurs-ps-attendent-des-signes-dunite-de-raphael-glucksmann",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Dans les jours qui viennent, le candidat doit organiser sa campagne : le PS prépare des moyens financiers et Place publique cherche des ressources, selon Public Sénat. Plusieurs sénateurs socialistes attendent des « signes » d'unité.",
+    "change": "La gauche sociale-démocrate a un candidat désigné pour 2027. Les autres candidatures à gauche restent distinctes, avec un candidat qui exclut une alliance avec LFI.",
+    "credit": {
+     "auteur": "Harald Krichel",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_Glucksmann-1040806.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "14",
+    "mois": "OCT.",
+    "texte": "Assemblée : suite de l'examen de la partie recettes du budget 2027 en séance."
+   },
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Assemblée : fin attendue du débat sur la partie recettes du budget (lundi, selon LCP)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : examen du projet de loi « casseur-payeur », selon Public Sénat."
+   },
+   {
+    "jour": "29",
+    "mois": "NOV.",
+    "texte": "Espagne : élections législatives anticipées, selon l'AFP."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Motion de rejet préalable",
+    "definition": "Proposition, faite avant l'examen des articles, de rejeter un texte en bloc sans le discuter."
+   },
+   {
+    "terme": "Première lecture",
+    "definition": "Premier examen d'un texte par une chambre du Parlement. Il doit ensuite être examiné par l'autre."
+   },
+   {
+    "terme": "IGPN",
+    "definition": "Inspection générale de la police nationale : le service d'enquête interne de la police."
+   },
+   {
+    "terme": "Cadre financier pluriannuel",
+    "definition": "Budget de l'Union européenne fixé pour sept ans, qui doit être adopté à l'unanimité des 27 États membres."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le groupe La France insoumise a voté contre la loi intégrale contre les violences sexistes et sexuelles à l'Assemblée nationale.",
+   "reponse": false,
+   "explication": "Faux : la loi a été adoptée mardi 13 octobre par 503 voix pour et aucune contre. Les députés LFI se sont abstenus, pour protester contre la suppression de mesures visant à protéger les femmes étrangères."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-13",
   "minutes": 12,
   "sujets": [

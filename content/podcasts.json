@@ -1,5 +1,227 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-14",
+  "url": "/podcasts/politique-2026-10-14.mp3",
+  "taille": 3533471,
+  "duree": 294,
+  "titre": "Éclairage politique, mercredi 14 octobre 2026",
+  "titre_episode": "Budget, lycéens, loi intégrale et primaire de la gauche : l'essentiel du mercredi 14 octobre",
+  "description": "Ce mercredi 14 octobre, Léa et Paul reprennent 4 sujets.\n• Budget 2027 : la motion de rejet du PS est rejetée par 236 voix contre 149 et l'examen des recettes se poursuit.\n• Lycéens : l'acte V du mouvement, des chiffres de participation qui divergent et 36 saisines de l'IGPN.\n• Loi intégrale : adoptée par 503 voix contre 0 à l'Assemblée, avant l'examen au Sénat.\n• Primaire de la gauche : Raphaël Glucksmann l'emporte dès le premier tour.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : la motion de rejet échoue, l'examen commence"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Lycéens : l'acte V rassemble 161 500 personnes selon l'Intérieur"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Loi intégrale : l'Assemblée l'adopte par 503 voix contre 0"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Présidentielle : Glucksmann remporte la primaire de la gauche"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Éclairage politique, l'édition du mercredi 14 octobre. Moi, c'est Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, c'est Paul. Aujourd'hui, quatre sujets France : le budget, les lycéens, la loi intégrale et la primaire de la gauche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un vote à deux cent trente-six contre cent quarante-neuf. Paul, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le vote de mardi soir à l'Assemblée sur la motion de rejet du groupe socialiste. Elle visait le budget 2027."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une motion de rejet, concrètement, ça fait quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle propose de rejeter le texte avant même d'en discuter les articles. Si elle avait été adoptée, le budget serait parti directement au Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et elle a été rejetée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le Rassemblement national a voté contre. Selon l'AFP, il dit vouloir avoir ce débat. Du côté de la gauche, cinquante et un députés insoumis sur soixante-dix ont voté pour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'examen continue."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Les députés discutent d'abord la partie recettes, les impôts et les taxes. Le gouvernement vise un déficit de cinq pour cent du PIB l'an prochain."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté gouvernement, on entend quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Économie, Roland Lescure, dit qu'il faut un budget d'ici la fin de l'année. De son côté, la députée socialiste Estelle Mercier dit que les socialistes ne construiront aucun compromis avec le gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la motion est rejetée, et le débat sur les recettes se poursuit jusqu'à lundi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Les lycées. Mardi, c'était le cinquième acte du mouvement lycéen."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, et les chiffres ne racontent pas la même histoire. Le ministère de l'Intérieur compte cent soixante et un mille cinq cents manifestants en France, dont quarante et un mille cinq cents à Paris."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les organisateurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'intersyndicale de la jeunesse en revendique quatre cent quatre-vingt mille. Presque trois fois plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, trois fois plus ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, c'est un écart habituel entre autorités et organisateurs. Autre donnée : selon le ministère de l'Éducation, quatre-vingt-quatorze virgule deux pour cent des lycées étaient ouverts, avec deux cent quatorze fermetures."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À Paris, le premier cortège a été calme. Des tensions ont eu lieu à l'arrivée du second."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a la question des blessés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Depuis la mi-septembre, plus de deux cents lycéens, plus de huit cents policiers et gendarmes et cent quarante-sept personnels de l'Éducation nationale ont été blessés, selon France 24. Et le ministre de l'Intérieur a annoncé trente-six saisines de l'IGPN, dont quatre pour des blessures mutilantes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'IGPN, c'est quoi, pour ceux qui ne connaissent pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Inspection générale de la police nationale. C'est le service d'enquête interne de la police. Elle doit établir, cas par cas, si l'usage de la force respectait les règles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement, il répond quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Éducation, Édouard Geffray, annonce le redéploiement de trois mille enseignants titulaires sans affectation vers les lycées les plus touchés par les absences de professeurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un mouvement qui continue, et des chiffres de participation qui divergent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe au Parlement, avec un texte adopté par cinq cent trois voix contre zéro."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la loi intégrale contre les violences sexistes et sexuelles, adoptée mardi à l'Assemblée en première lecture."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Tous les groupes ont voté pour, sauf La France insoumise, qui s'est abstenue pour protester contre la suppression de mesures visant à protéger les femmes étrangères."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a quoi dans ce texte ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un socle minimal d'enquête, pour que les plaintes ne soient pas écartées trop vite. Des unités de police et une justice spécialisées. Un entretien obligatoire à l'école pour repérer les violences, annuel à partir de deux mille trente-deux. Et un parcours de soins pour les mineurs victimes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça coûte combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre des Comptes publics a évalué le coût à terme entre trois et quatre milliards d'euros par an. La rapporteure, Céline Thiébault-Martinez, parle d'une estimation et non d'un engagement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Sénat, en janvier. Puis une commission mixte paritaire. L'objectif est une adoption définitive d'ici la fin février."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : première étape franchie, mais le Sénat doit encore se prononcer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet France. À gauche, il y a un candidat désigné pour 2027."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Dimanche, Raphaël Glucksmann a remporté dès le premier tour la primaire de la gauche sociale-démocrate, avec plus de soixante-six pour cent des voix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les autres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Olivier Faure, du PS, a obtenu quatorze pour cent. Ségolène Royal, sept virgule soixante-deux pour cent. Jérôme Guedj et Emmanuel Maurel, chacun un peu moins de six pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le vote lui-même ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il était entièrement électronique. Une cyberattaque a ralenti la plateforme, et le scrutin a été prolongé jusqu'à dimanche soir. Sur cent trente-quatre mille inscrits, cent vingt mille sept cent quatre-vingt-sept ont voté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et c'est une première pour le PS."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Pour la première fois, le PS n'aura pas de candidat issu de ses rangs à une présidentielle. Il soutient officiellement Raphaël Glucksmann, qui refuse toute alliance avec La France insoumise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la gauche sociale-démocrate a un candidat, mais les autres candidatures à gauche restent distinctes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-13",
   "url": "/podcasts/essentiel-2026-10-13.mp3",

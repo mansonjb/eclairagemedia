@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "sondage": {
   "methode": "moyenne",
   "nb": 5,
@@ -53,7 +53,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 149922305.15684098,
+ "polymarket_volume": 150359085.639615,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -73,24 +73,24 @@
     "d": 0.2
    },
    "attention": {
-    "v": 59.4,
-    "d": 3.7,
+    "v": 59.1,
+    "d": 1.8,
     "parts": {
      "réseaux": 21.1,
      "citations": 19.2,
-     "abonnés": 22.9,
-     "YouTube": 8
+     "abonnés": 22.2,
+     "YouTube": 5.1
     }
    },
    "polymarket": {
-    "v": 41.9,
-    "d": -0.7,
-    "d24": 1.9,
-    "d30": 7.4,
-    "vol": 3585790,
-    "vol7": 263690,
+    "v": 43.1,
+    "d": -0.1,
+    "d24": 1.3,
+    "d30": 8.5,
+    "vol": 3651049,
+    "vol7": 302438,
     "haut": 45.7,
-    "bas": 34.4
+    "bas": 34.6
    },
    "declarations": [
     {
@@ -308,22 +308,22 @@
    },
    "attention": {
     "v": 100,
-    "d": 18.7,
+    "d": 17.4,
     "parts": {
-     "Wikipedia": 9.2,
+     "Wikipedia": 8.3,
      "réseaux": 52,
      "citations": 22.2,
-     "abonnés": 36.8,
-     "YouTube": 37.9
+     "abonnés": 34.7,
+     "YouTube": 36.4
     }
    },
    "polymarket": {
     "v": 11.5,
     "d": -1,
-    "d24": 1,
+    "d24": null,
     "d30": null,
-    "vol": 2153123,
-    "vol7": 267722,
+    "vol": 2187147,
+    "vol7": 257230,
     "haut": 15.5,
     "bas": 10.5
    },
@@ -542,10 +542,9 @@
     "d": -0.1
    },
    "attention": {
-    "v": 11.7,
-    "d": -3.1,
+    "v": 9.3,
+    "d": -2.9,
     "parts": {
-     "Wikipedia": 7.3,
      "réseaux": 1.9,
      "citations": 6.8,
      "abonnés": 0.4,
@@ -553,12 +552,12 @@
     }
    },
    "polymarket": {
-    "v": 21.5,
-    "d": 4,
-    "d24": -1,
-    "d30": -6,
-    "vol": 2197039,
-    "vol7": 251748,
+    "v": 19.5,
+    "d": 2,
+    "d24": -2,
+    "d30": -7,
+    "vol": 2212199,
+    "vol7": 248117,
     "haut": 27.5,
     "bas": 17.5
    },
@@ -713,10 +712,10 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 51,
-    "attention": 12
+    "polymarket": 45,
+    "attention": 9
    },
-   "score": 42,
+   "score": 40,
    "rangs": {
     "sondage": 3,
     "polymarket": 2
@@ -735,27 +734,41 @@
     "d": -0.9
    },
    "attention": {
-    "v": 47.3,
-    "d": 28.6,
+    "v": 48.8,
+    "d": 31.1,
     "parts": {
-     "Wikipedia": 43.6,
+     "Wikipedia": 44.2,
      "réseaux": 1.6,
      "citations": 23.9,
-     "abonnés": 0.5,
+     "abonnés": 0.9,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.4,
-    "d": -0.1,
-    "d24": -0.8,
-    "d30": -0.3,
-    "vol": 2299308,
-    "vol7": 251682,
+    "v": 1.8,
+    "d": 0.4,
+    "d24": 0.4,
+    "d30": 0.3,
+    "vol": 2322774,
+    "vol7": 260623,
     "haut": 2.6,
     "bas": 0.9
    },
    "declarations": [
+    {
+     "fond": "#efe8ff",
+     "couleur": "#7e57c2",
+     "parti": "AUTRES",
+     "qui": "Raphaël Glucksmann",
+     "contexte": "Place publique, vainqueur",
+     "texte": "« La démocratie a parlé et le résultat est sans appel »",
+     "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+     "source": "La Gazette France, dépêche AFP",
+     "date": "2026-10-14",
+     "rubrique": "politique",
+     "sujet": "Présidentielle : Glucksmann remporte la primaire de la gauche",
+     "href": "/politique/2026-10-14/4"
+    },
     {
      "fond": "#efe8ff",
      "couleur": "#7e57c2",
@@ -799,7 +812,7 @@
      "href": "/politique/2026-10-04/2"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
     "phase": {
@@ -906,13 +919,13 @@
    },
    "composantes": {
     "sondage": 31,
-    "polymarket": 3,
-    "attention": 47
+    "polymarket": 4,
+    "attention": 49
    },
-   "score": 26,
+   "score": 27,
    "rangs": {
     "sondage": 5,
-    "polymarket": 7
+    "polymarket": 6
    }
   },
   {
@@ -928,23 +941,23 @@
     "d": 0.5
    },
    "attention": {
-    "v": 17,
-    "d": -1.2,
+    "v": 16.9,
+    "d": -1.4,
     "parts": {
-     "Wikipedia": 5.9,
+     "Wikipedia": 5.3,
      "réseaux": 3.9,
      "citations": 11,
-     "abonnés": 1.7,
-     "YouTube": 1.2
+     "abonnés": 1.6,
+     "YouTube": 1.1
     }
    },
    "polymarket": {
     "v": 1.6,
     "d": -0.6,
-    "d24": -0.5,
-    "d30": -0.8,
-    "vol": 2953393,
-    "vol7": 310789,
+    "d24": null,
+    "d30": -0.7,
+    "vol": 2976918,
+    "vol7": 314661,
     "haut": 3,
     "bas": 1.1
    },
@@ -1105,7 +1118,7 @@
    "score": 21,
    "rangs": {
     "sondage": 4,
-    "polymarket": 6
+    "polymarket": 7
    }
   },
   {
@@ -1118,23 +1131,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 33.5,
-    "d": -17.1,
+    "v": 36.9,
+    "d": -11,
     "parts": {
-     "Wikipedia": 20.4,
+     "Wikipedia": 20.8,
      "réseaux": 7.9,
      "citations": 3.3,
-     "abonnés": 18.6,
-     "YouTube": 7.4
+     "abonnés": 21.2,
+     "YouTube": 11.2
     }
    },
    "polymarket": {
-    "v": 13.6,
-    "d": 0.3,
-    "d24": -0.5,
-    "d30": 5,
-    "vol": 4732754,
-    "vol7": 844258,
+    "v": 12.3,
+    "d": 0,
+    "d24": -1.2,
+    "d30": 4.5,
+    "vol": 4802759,
+    "vol7": 768164,
     "haut": 14.5,
     "bas": 5.1
    },
@@ -1240,8 +1253,8 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 32,
-    "attention": 34
+    "polymarket": 29,
+    "attention": 37
    },
    "score": 16,
    "rangs": {
@@ -1261,24 +1274,24 @@
     "d": 0.4
    },
    "attention": {
-    "v": 7.4,
-    "d": -8.3,
+    "v": 7.7,
+    "d": -7.9,
     "parts": {
-     "Wikipedia": 2.1,
+     "Wikipedia": 2.4,
      "réseaux": 2,
      "citations": 5,
      "abonnés": 0.6,
-     "YouTube": 0
+     "YouTube": 0.2
     }
    },
    "polymarket": {
     "v": 1.1,
     "d": -0.1,
-    "d24": 0.1,
-    "d30": -0.5,
-    "vol": 2797317,
-    "vol7": 208494,
-    "haut": 2.2,
+    "d24": null,
+    "d30": -0.4,
+    "vol": 2804674,
+    "vol7": 195195,
+    "haut": 1.9,
     "bas": 1.1
    },
    "declarations": [],
@@ -1390,52 +1403,12 @@
    "composantes": {
     "sondage": 24,
     "polymarket": 3,
-    "attention": 7
+    "attention": 8
    },
-   "score": 14,
+   "score": 15,
    "rangs": {
     "sondage": 6,
     "polymarket": 8
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 67.6,
-    "d": -14.7,
-    "parts": {
-     "abonnés": 12.7,
-     "YouTube": 35.6
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": -0.1,
-    "d24": -0.1,
-    "d30": -0.6,
-    "vol": 2549622,
-    "vol7": 158191,
-    "haut": 1.7,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 68
-   },
-   "score": 14,
-   "rangs": {
-    "polymarket": 9
    }
   },
   {
@@ -1451,23 +1424,23 @@
     "d": -1.5
    },
    "attention": {
-    "v": 3.9,
-    "d": -4.6,
+    "v": 4,
+    "d": -3.9,
     "parts": {
      "Wikipedia": 1.8,
      "réseaux": 0.5,
      "citations": 2.3,
-     "abonnés": 1,
+     "abonnés": 1.1,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 3.5,
-    "d": -1.6,
-    "d24": 0.1,
-    "d30": -0.7,
-    "vol": 2414737,
-    "vol7": 191195,
+    "d": -0.2,
+    "d24": null,
+    "d30": -1.9,
+    "vol": 2418657,
+    "vol7": 176749,
     "haut": 6.3,
     "bas": 2.3
    },
@@ -1589,6 +1562,47 @@
    }
   },
   {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 46,
+    "d": -31.3,
+    "parts": {
+     "Wikipedia": 8.4,
+     "abonnés": 12.4,
+     "YouTube": 30
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": -0.1,
+    "d24": null,
+    "d30": -0.3,
+    "vol": 2567219,
+    "vol7": 158372,
+    "haut": 1.7,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 46
+   },
+   "score": 10,
+   "rangs": {
+    "polymarket": 9
+   }
+  },
+  {
    "nom": "Éric Zemmour",
    "wiki": "Éric_Zemmour",
    "etiquette": "Reconquête",
@@ -1601,23 +1615,23 @@
     "d": 1
    },
    "attention": {
-    "v": 8.9,
-    "d": -4.5,
+    "v": 10.9,
+    "d": -2.2,
     "parts": {
-     "Wikipedia": 3.4,
+     "Wikipedia": 3.3,
      "réseaux": 3,
      "citations": 0.8,
      "abonnés": 1.1,
-     "YouTube": 9.2
+     "YouTube": 15.3
     }
    },
    "polymarket": {
-    "v": 0.5,
-    "d": -0.4,
-    "d24": 0.2,
-    "d30": -0.3,
-    "vol": 2876752,
-    "vol7": 154173,
+    "v": 0.6,
+    "d": -0.3,
+    "d24": 0.1,
+    "d30": -0.4,
+    "vol": 2890654,
+    "vol7": 140475,
     "haut": 1.9,
     "bas": 0.4
    },
@@ -1730,7 +1744,7 @@
    "composantes": {
     "sondage": 13,
     "polymarket": 1,
-    "attention": 9
+    "attention": 11
    },
    "score": 9,
    "rangs": {
@@ -1751,10 +1765,10 @@
     "d": 0.2
    },
    "attention": {
-    "v": 4.7,
-    "d": -0.2,
+    "v": 4.6,
+    "d": -0.1,
     "parts": {
-     "Wikipedia": 1.5,
+     "Wikipedia": 1.3,
      "réseaux": 2.4,
      "citations": 1.5,
      "abonnés": 0.6,
@@ -1766,12 +1780,26 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4516803,
-    "vol7": 123722,
+    "vol": 4531374,
+    "vol7": 123187,
     "haut": null,
     "bas": null
    },
    "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "Écologistes",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
+     "texte": "Elle regrette que le vainqueur soit « celui qui fait le choix du repli »",
+     "url": "https://www.lagazettefrance.fr/article/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour",
+     "source": "La Gazette France, dépêche AFP",
+     "date": "2026-10-14",
+     "rubrique": "politique",
+     "sujet": "Présidentielle : Glucksmann remporte la primaire de la gauche",
+     "href": "/politique/2026-10-14/4"
+    },
     {
      "fond": "#e2f7e9",
      "couleur": "#1f9d55",
@@ -1829,7 +1857,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 4,
+   "nbDeclarations": 5,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -1959,9 +1987,9 @@
    },
    "attention": {
     "v": 2.7,
-    "d": -1.9,
+    "d": -2,
     "parts": {
-     "Wikipedia": 0.7,
+     "Wikipedia": 0.6,
      "réseaux": 1,
      "citations": 1.1,
      "abonnés": 0.9,
@@ -1973,8 +2001,8 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4264162,
-    "vol7": 15219,
+    "vol": 4264168,
+    "vol7": 15223,
     "haut": null,
     "bas": null
    },
@@ -2135,13 +2163,13 @@
    "sondage": null,
    "attention": {
     "v": 4.2,
-    "d": -2.6,
+    "d": -2.4,
     "parts": {
-     "Wikipedia": 1.4,
+     "Wikipedia": 1.2,
      "réseaux": 1.9,
      "citations": 1.5,
      "abonnés": 0.5,
-     "YouTube": 0.6
+     "YouTube": 0.7
     }
    },
    "polymarket": {
@@ -2149,8 +2177,8 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4730352,
-    "vol7": 156223,
+    "vol": 4745264,
+    "vol7": 155700,
     "haut": null,
     "bas": null
    },
@@ -2280,24 +2308,24 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 3.6,
-    "d": -2.4,
+    "v": 3.5,
+    "d": -2.1,
     "parts": {
-     "Wikipedia": 2.2,
+     "Wikipedia": 2,
      "réseaux": 0.6,
      "citations": 1.1,
-     "abonnés": 1.6,
+     "abonnés": 1.7,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 0.8,
-    "d": 0.3,
-    "d24": -0.1,
+    "d": -0.4,
+    "d24": null,
     "d30": -0.2,
-    "vol": 2524285,
-    "vol7": 283975,
-    "haut": 1.8,
+    "vol": 2538541,
+    "vol7": 203940,
+    "haut": 1.4,
     "bas": 0.2
    },
    "declarations": [
@@ -2441,7 +2469,7 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 0.6,
+    "v": 0.5,
     "d": -0.5,
     "parts": {
      "Wikipedia": 0.4,
@@ -2456,8 +2484,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 6154819,
-    "vol7": 1231,
+    "vol": 6154975,
+    "vol7": 1185,
     "haut": null,
     "bas": null
    },
@@ -2869,6 +2897,43 @@
     "Sarah Knafo": 0.9,
     "Dominique de Villepin": 0.8,
     "Éric Zemmour": 0.5,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Xavier Bertrand": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Marine Le Pen": 59.1,
+    "Raphaël Glucksmann": 48.8,
+    "Sarah Knafo": 46,
+    "David Lisnard": 36.9,
+    "Gabriel Attal": 16.9,
+    "Éric Zemmour": 10.9,
+    "Édouard Philippe": 9.3,
+    "Bruno Retailleau": 7.7,
+    "Marine Tondelier": 4.6,
+    "François Ruffin": 4.2,
+    "François Hollande": 4,
+    "Dominique de Villepin": 3.5,
+    "Fabien Roussel": 2.7,
+    "Xavier Bertrand": 0.5
+   },
+   "polymarket": {
+    "Marine Le Pen": 43.1,
+    "Édouard Philippe": 19.5,
+    "David Lisnard": 12.3,
+    "Jean-Luc Mélenchon": 11.5,
+    "François Hollande": 3.5,
+    "Raphaël Glucksmann": 1.8,
+    "Gabriel Attal": 1.6,
+    "Bruno Retailleau": 1.1,
+    "Sarah Knafo": 0.9,
+    "Dominique de Villepin": 0.8,
+    "Éric Zemmour": 0.6,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
     "Xavier Bertrand": 0.1,

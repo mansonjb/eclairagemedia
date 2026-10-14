@@ -967,5 +967,29 @@
  },
  "Amazon": null,
  "Joe DeLaere": null,
- "Converge Digest": null
+ "Converge Digest": null,
+ "Stanislas Niox-Château": null,
+ "Teresa Ribera": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ribera_EC_Portrait_2024.jpg/250px-Ribera_EC_Portrait_2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Ribera_EC_Portrait_2024.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ribera_EC_Portrait_2024.jpg",
+  "auteur": "European Commission Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "Jamie Dimon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Global_Financial_Context_James_Dimon_%28cropped%29.jpg/250px-The_Global_Financial_Context_James_Dimon_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "The_Global_Financial_Context_James_Dimon_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Global_Financial_Context_James_Dimon_(cropped).jpg",
+  "auteur": "World Economic Forum",
+  "licence": "CC BY-SA 2.0"
+ },
+ "JPMorgan": null,
+ "Ryad Rani": null,
+ "Élise Leboucher": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/%C3%89lise_Leboucher.jpg/250px-%C3%89lise_Leboucher.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Élise_Leboucher.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%89lise_Leboucher.jpg",
+  "auteur": "User:non-spécifié",
+  "licence": "CC0"
+ }
 }
