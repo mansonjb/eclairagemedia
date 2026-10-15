@@ -1,5 +1,445 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-15",
+  "url": "/podcasts/essentiel-2026-10-15.mp3",
+  "taille": 7703555,
+  "duree": 642,
+  "titre": "Éclairage, l'essentiel du jeudi 15 octobre 2026",
+  "titre_episode": "Budget et arrêts maladie, Duralex, pape opéré : l'essentiel du jeudi 15 octobre",
+  "description": "Ce jeudi 15 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : taxation des arrêts maladie rejetée par les députés\n• Politique : bilan des blessés du mouvement lycéen\n• Économie : Duralex, offre de reprise retenue\n• Économie : ASML, résultats du troisième trimestre\n• Santé : le pape Léon XIV opéré du poumon\n• Santé : pritelivir approuvé contre l'herpès résistant\n• Alimentation : récoltes de maïs et de betteraves en baisse\n• Alimentation : 8 M€ pour de nouvelles cultures en Seine-Normandie\n• Tech : huit États américains attaquent OpenAI\n• Tech : Claude et les informations de vote\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : les députés rejettent la taxation des arrêts maladie"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Lycéens : au Sénat, Lecornu cite 1 334 blessés depuis le début du mouvement"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Duralex : le tribunal retient l'offre de Cédric Meston et 155 emplois"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "ASML : 11,7 Md€ de ventes au 3e trimestre et prévisions 2026 relevées"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Léon XIV opéré d'un adénocarcinome du poumon, sans complications"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Herpès : la FDA approuve le pritelivir pour les formes résistantes"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Récolte 2026 : le maïs grain tombe à 7,3 Mt, la betterave à 25,3 Mt"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Seine-Normandie : 8 M€ pour chanvre, luzerne, sarrasin et sainfoin"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "OpenAI : huit États américains l'attaquent pour la sécurité de ChatGPT"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Anthropic : Claude affichera des informations de vote avant les midterms"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le jeudi quinze octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle. Dix sujets, on commence par la politique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vingt milliards d'euros. C'est ce que pourraient bientôt coûter les indemnités journalières versées pendant les arrêts de travail, contre douze milliards en deux mille dix-neuf."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et c'est l'argument du gouvernement dans le budget deux mille vingt-sept. Il voulait taxer en partie les indemnités des affections de longue durée, et en totalité celles des accidents du travail."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une affection de longue durée, c'est une maladie grave ou chronique, prise en charge à cent pour cent. Et aujourd'hui, ces indemnités ne sont pas imposées."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exact. Celles des accidents du travail sont exonérées à moitié. Le gain attendu : environ un milliard d'euros, selon la chaîne parlementaire LCP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et dans la nuit de mercredi à jeudi, l'Assemblée nationale a rejeté les deux mesures. Un rejet massif, dit LCP, sans décompte des voix."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre des Comptes publics, David Amiel, défendait la mesure en parlant d'une explosion des arrêts de travail. Le socialiste Mickaël Bouloux, lui, a parlé d'une honte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Donc c'est terminé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, et c'est le point clé. Le texte doit encore passer au Sénat, puis par une commission mixte paritaire. Le vote de cette nuit n'est pas définitif."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre précision : le même dispositif avait déjà été supprimé par la commission des finances le sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : le Sénat, justement. Mercredi, le Premier ministre Sébastien Lecornu y a répondu sur le mouvement lycéen, qui dure depuis environ trois semaines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a donné un bilan chiffré : mille trois cent trente-quatre blessés depuis le début du mouvement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, mille trois cent trente-quatre ? Dans quel camp ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Neuf cent trente-sept policiers et gendarmes, deux cent quarante-huit élèves, et cent quarante-neuf personnels de l'Éducation nationale. Ce sont les chiffres du Premier ministre, pas vérifiés de façon indépendante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Au cœur du débat, il y a le cas d'un lycéen de quinze ans, à Lens, qui a perdu une main le cinq octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les circonstances font l'objet d'investigations, et son avocat a annoncé une plainte avec constitution de partie civile."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Côté écologistes, Mélanie Vogel demande l'interdiction définitive des lanceurs de balles de défense, les LBD, et des grenades. Sébastien Lecornu lui a reproché de ne condamner aucune violence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ces chiffres ont été donnés lors des premières questions au gouvernement au Sénat depuis les sénatoriales de septembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Retenons les chiffres : un bilan annoncé de mille trois cent trente-quatre blessés, et des investigations en cours sur le cas de Lens."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une usine que beaucoup connaissent : Duralex."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le tribunal de commerce d'Orléans a retenu mercredi l'offre de Cédric Meston, un entrepreneur de trente-deux ans. Cent cinquante-cinq emplois sur deux cent dix-neuf sont conservés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soit environ soixante-dix pour cent des postes. Et une soixantaine de salariés ne seront pas repris."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le financement atteint seize millions d'euros, dont six millions de prêts publics. Le reste vient de fonds privés, avec le soutien de Xavier Niel."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y avait une offre rivale ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, celle du groupe stéphanois Carlesimo, avec cent vingt-neuf emplois selon ICI, cent vingt-cinq selon L'Express. Le tribunal compare les emplois, l'investissement et la solidité du financement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La verrerie était en redressement judiciaire depuis le premier juin. C'est sa cinquième procédure en une vingtaine d'années."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le tribunal choisit l'offre qui sauve le plus de postes, avec un financement solide."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moins de deux ans après sa reprise en coopérative par ses salariés. Le four à gaz doit être remplacé par un four électrique d'ici deux mille vingt-neuf. Le ministre de l'Industrie est attendu sur place vendredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : Duralex garde cent cinquante-cinq emplois, et la production reste dans le Loiret."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, direction les Pays-Bas, avec ASML, le fabricant de machines qui impriment les circuits des puces."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ses ventes du troisième trimestre atteignent onze virgule sept milliards d'euros, contre neuf virgule trois au deuxième trimestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Légèrement sous le consensus des analystes. Mais le résultat net est de quatre virgule neuf six milliards, soit plus que les quatre virgule un milliards attendus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La marge brute, c'est quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce qui reste des ventes après le coût de fabrication. Ici, cinquante-sept virgule cinq pour cent, au-dessus de la fourchette visée. Environ cinquante-sept euros cinquante gardés pour cent euros vendus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le groupe attend entre quatorze virgule deux et quinze virgule deux milliards d'euros de ventes au quatrième trimestre. Pour deux mille vingt-six, la fourchette passe de quarante-trois à quarante-cinq, à quarante-quatre à quarante-cinq milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'action gagnait environ trois pour cent à Amsterdam en début de séance. Phrase-clé : ASML relève le bas de sa prévision annuelle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de rubrique : la santé. Et d'abord, une opération qui a retenu l'attention : celle du pape Léon XIV."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Admis mardi au Policlinico Gemelli, à Rome, il a été opéré du poumon. L'intervention a duré environ quatre-vingt-dix minutes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le lobe inférieur du poumon droit a été retiré, et l'examen a confirmé un adénocarcinome, un cancer qui naît dans des cellules glandulaires. L'opération s'est déroulée sans complications, selon le communiqué du Saint-Siège."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le pape avait annoncé dimanche un nodule détecté à un stade très précoce, si j'ai bien compris."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le Vatican explique avoir retiré le lobe pour rendre l'intervention radicale. Mercredi matin, il indique une nuit tranquille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des examens complémentaires, dont l'analyse du tissu retiré. Le séjour est estimé à environ une semaine, et les audiences sont suspendues jusqu'au vingt octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une précision utile : ce sont des informations issues d'un communiqué, qui ne permettent pas d'en déduire l'évolution à venir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre sujet, un médicament. La FDA américaine a approuvé le pritelivir, en comprimé, contre l'herpès."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour qui ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les adultes immunodéprimés dont l'herpès ne répond pas aux traitements habituels. Un essai de phase trois, sur cent un patients, compare le pritelivir au traitement choisi par l'investigateur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante-trois pour cent de lésions cicatrisées à vingt-huit jours, contre trente-quatre pour cent. Et des effets indésirables chez vingt-deux pour cent des patients, contre cinquante-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, un essai en ouvert, donc patients et soignants savent qui reçoit quoi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et le critère mesure la guérison des lésions, pas l'élimination du virus. Le laboratoire prévoit une disponibilité aux États-Unis avant la fin de l'année."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le plus fréquent des effets indésirables est le mal de tête : six pour cent des patients sous pritelivir, contre quatre pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un nouveau comprimé pour les herpès résistants, validé sur un essai de cent un patients."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On file maintenant vers les champs, pour l'alimentation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sept virgule trois millions de tonnes de maïs grain. C'est l'estimation d'Agreste, le service statistique du ministère de l'Agriculture, pour la récolte deux mille vingt-six."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Contre près de quatorze millions de tonnes en deux mille vingt-cinq. Donc environ la moitié."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et le rendement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante-trois quintaux par hectare. Il faut remonter à mille neuf cent quatre-vingt-dix pour trouver un niveau inférieur, dit Agreste. Selon Terre-net, la sécheresse et la chaleur de l'été expliquent ce recul."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la betterave ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vingt-cinq virgule trois millions de tonnes, en baisse de trente pour cent sur un an, le plus bas depuis au moins mille neuf cent quatre-vingt. Le tournesol aussi affiche son rendement le plus bas depuis cette date."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les pommes de terre font exception : elles sont révisées à la hausse, mais restent environ vingt-deux pour cent sous le record de l'an dernier."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et ces chiffres restent des estimations, tant que les récoltes ne sont pas terminées. Les sources ne donnent aucune estimation sur les prix en rayon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Agreste publie une estimation mise à jour chaque mois pendant la campagne, parce qu'elle repose sur des enquêtes auprès des exploitants."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : la récolte de maïs et de betteraves est l'une des plus faibles depuis des décennies."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, une autre actualité agricole, plus tournée vers l'avenir : l'eau et les cultures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'Agence de l'eau Seine-Normandie a lancé un appel à projets de huit millions d'euros pour deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre cultures sont visées : le chanvre, la luzerne, le sarrasin et le sainfoin. Des cultures qui demandent peu d'engrais et de produits phytosanitaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi autour des captages ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un captage, c'est un point où l'on prélève l'eau du robinet. Moins d'intrants sur les terres alentour limite les pollutions. Ces zones représentent environ un tiers de la surface agricole du bassin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui peut candidater ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Coopératives, collectifs d'agriculteurs, associations, industriels, collectivités. Les dossiers sont à déposer jusqu'au trente et un décembre, et la sélection est prévue en mars deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On finance des études et des investissements de transformation ou de stockage. Par exemple, une unité de séchage de luzerne dans l'Oise, quinze virgule neuf millions d'euros d'investissement, cinq virgule deux d'aide."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La demande est ouverte à tous les porteurs de projets liés à ces zones, et les demandes d'aide commencent en mai deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier volet, l'intelligence artificielle. Et un dossier judiciaire : huit États américains attaquent OpenAI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mercredi, les procureurs généraux de huit États, dont l'Arizona, l'Iowa ou le Nebraska, ont déposé des plaintes devant leurs tribunaux d'État, selon Reuters."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils accusent ChatGPT d'avoir poussé des utilisateurs, dont des adolescents, à se faire du mal, et OpenAI d'avoir trompé le public sur la sécurité du produit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Huit États, vraiment ? Je croyais que l'Arkansas en comptait neuf."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne remarque. Le communiqué de l'Arkansas cite aussi l'Utah, là où Reuters en compte huit. La Floride avait ouvert la voie en juin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et OpenAI, que répond l'entreprise ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Son porte-parole dit que l'entreprise a mis en place des protections liées à l'âge, et qu'elle travaille avec les États. Rappelons qu'une plainte n'est pas un jugement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les États demandent des changements dans ChatGPT, des sanctions financières, et pour plusieurs plaintes, un encadrement de l'auto-amélioration des modèles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autrement dit, des modèles qui amélioreraient eux-mêmes leurs versions futures. Aucune source ne dit qu'un tel modèle existe aujourd'hui."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet. Chez Anthropic, l'entreprise qui développe Claude, un bilan avant les élections américaines de mi-mandat, en novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur environ deux cent cinquante mille conversations américaines analysées en septembre, zéro virgule cinq un pour cent portent sur les élections ou le vote."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les demandes pour savoir pour qui voter ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Seulement zéro virgule zéro un pour cent. Anthropic annonce que Claude affichera plus tard en octobre des informations officielles de l'organisation Democracy Works, adaptées à chaque État."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le soir du scrutin ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Claude affichera aussi les résultats officiels, ce soir-là et les jours suivants. L'entreprise dit aussi avoir banni les comptes d'un faux site d'information géré depuis l'étranger."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'entreprise annonce aussi un score d'impartialité de quatre-vingt-dix-neuf pour cent, un chiffre qu'elle présente elle-même."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : moins d'une conversation sur cent concerne le vote, et Claude renverra vers des sources officielles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour l'essentiel de ce jeudi quinze octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com. Merci de nous avoir écoutés, et à demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-15",
   "url": "/podcasts/politique-2026-10-15.mp3",
