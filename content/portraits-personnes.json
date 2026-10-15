@@ -1053,5 +1053,34 @@
   "auteur": "Marsouinduteich",
   "licence": "CC BY-SA 4.0"
  },
- "Équipe d'Édouard Philippe": null
+ "Équipe d'Édouard Philippe": null,
+ "Agence de l'eau Seine-Normandie": null,
+ "Ferme des Abbesses": null,
+ "Alpha Protéines": null,
+ "Cyril Champenois": null,
+ "Bureau d'enquêtes et d'analyses": null,
+ "Communiqué médical": null,
+ "Salle de presse": null,
+ "Matteo Bruni": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Matteo_Bruni.jpg/250px-Matteo_Bruni.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Matteo_Bruni.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Matteo_Bruni.jpg",
+  "auteur": "Lorenzo Iorfino",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Genovefa Papanicolaou": null,
+ "Stacy Wheeler": null,
+ "Cécile Cazes": null,
+ "État de Yobe": null,
+ "Maria Van Kerkhove": null,
+ "Rospotrebnadzor": null,
+ "Tim Griffin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Rep_Tim_Griffin_Official_Photo.jpg/250px-Rep_Tim_Griffin_Official_Photo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Rep_Tim_Griffin_Official_Photo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rep_Tim_Griffin_Official_Photo.jpg",
+  "auteur": "US Government",
+  "licence": "Public domain"
+ },
+ "Brenna Bird": null,
+ "ISD et McCain": null
 }

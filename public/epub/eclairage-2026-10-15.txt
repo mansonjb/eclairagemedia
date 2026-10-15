@@ -353,3 +353,463 @@ Le tribunal de commerce d'Orléans a retenu l'offre de Cédric Meston pour repre
 Réponse : vrai. Vrai : le tribunal a retenu l'offre de Cédric Meston (holding Tomé) le 14 octobre. Elle conserve 155 des 219 postes en CDI.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+jeudi 15 octobre 2026 · 13 min de lecture
+
+1. Léon XIV opéré d'un adénocarcinome du poumon, sans complications
+
+CHIRURGIE
+
+90 min : durée de l'intervention
+
+1 lobe : lobe inférieur du poumon droit retiré
+
+20 oct. : audiences suspendues jusqu'au
+
+Ce qui s'est passé
+
+Le 11 octobre, lors de l'Angélus, le pape Léon XIV a annoncé une opération « dans les prochains jours » pour un nodule circonscrit au poumon, détecté à un stade très précoce. Admis mardi 13 octobre au Policlinico Gemelli de Rome, il a été opéré par l'équipe de chirurgie thoracique du Pr Stefano Margaritora. Selon le communiqué du Saint-Siège, signé de ce dernier et du médecin du pape, le Dr Luigi Carbone, l'opération a duré environ 90 minutes (environ 3 heures au bloc) et s'est déroulée sans complications. Le lobe inférieur du poumon droit a été retiré, et l'examen a confirmé le diagnostic d'adénocarcinome pulmonaire, suspecté avant l'opération. Mercredi matin, le Vatican indique que le pape a passé une nuit tranquille. Des examens complémentaires sont en cours, dont l'analyse du tissu retiré.
+
+L'éclairage
+
+Que veut dire « opération radicale » pour un adénocarcinome ?
+
+Un adénocarcinome est un cancer qui naît dans des cellules glandulaires. Ici, le Vatican explique avoir retiré le lobe inférieur du poumon droit « afin de rendre l'intervention radicale » : on enlève la tumeur avec une zone de tissu autour d'elle, plutôt que le seul nodule. Ce qui est attendu maintenant : l'analyse du tissu retiré et la recherche d'une éventuelle extension. C'est elle qui précise l'étendue de la maladie. Ces premières informations, issues d'un communiqué, ne permettent pas d'en déduire l'évolution à venir. Les examens postopératoires et l'analyse du tissu sont attendus dans les prochains jours. Il avait indiqué un séjour postopératoire d'environ une semaine.
+
+Ce qu'ils en disent
+
+« Afin de rendre l'intervention radicale, le lobe inférieur du poumon droit a été retiré »
+Communiqué médical (Saint-siège), signé des Drs Luigi Carbone et Stefano Margaritora
+
+« Le Pape a passé une nuit tranquille »
+Salle de presse (Saint-siège), mercredi 14 octobre
+
+Il avait indiqué un séjour postopératoire d'environ une semaine.
+Matteo Bruni (Saint-siège), directeur de la salle de presse
+
+Ce qui change
+
+Rien ne change pour les lecteurs : il s'agit d'un cas individuel, et la décision d'opérer relève de l'équipe médicale avec le patient.
+
+Et après
+
+Les résultats de l'analyse du tissu et des examens d'extension, puis la convalescence : le séjour à l'hôpital est estimé à environ une semaine, et les audiences sont suspendues jusqu'au mardi 20 octobre.
+
+Sources : Vatican News (Saint-Siège) · 20 Minutes via Yahoo · Paris Match Belgique · Le Catho
+
+2. Herpès : la FDA approuve le pritelivir pour les formes résistantes
+
+TRAITEMENT
+
+63 % : lésions cicatrisées à J28 (contre 34 %)
+
+101 : adultes immunodéprimés
+
+22 % : effets indésirables (contre 54 %)
+
+Ce qui s'est passé
+
+Le 9 octobre, la FDA américaine a approuvé Hovilpri (pritelivir, Asahi Kasei Therapeutics), un comprimé destiné aux lésions cutanéo-muqueuses du virus de l'herpès simplex (HSV) chez les adultes immunodéprimés qui ne répondent pas à l'aciclovir, au valaciclovir ou au famciclovir, avec ou sans résistance documentée. L'autorisation repose sur l'essai de phase 3 PRIOH-1 (partie C), randomisé et en ouvert, mené chez 101 adultes immunodéprimés, qui compare le pritelivir à un traitement choisi par l'investigateur (foscarnet en perfusion, cidofovir, ou imiquimod 5 % en crème). La cicatrisation complète des lésions à 28 jours, critère principal, est de 63 % avec le pritelivir contre 34 % (écart ajusté de 28,4 points, IC à 95 % de 9,6 à 47,3 ; p = 0,0047). À 42 jours, 82 % contre 42 %. Des effets indésirables sont rapportés chez 22 % des patients sous pritelivir contre 54 %, avec 2 % d'arrêts pour effets indésirables contre 20 % ; le plus fréquent est le mal de tête (6 % contre 4 %). Le critère mesure la guérison des lésions, pas l'élimination du virus. Asahi Kasei prévoit une disponibilité aux États-Unis avant la fin de 2026.
+
+L'éclairage
+
+Pourquoi ce médicament agit autrement
+
+Les médicaments habituels contre l'herpès, comme l'aciclovir, doivent être activés par une enzyme du virus, la thymidine kinase. Quand cette enzyme mute, ils perdent de leur efficacité. Le pritelivir est un inhibiteur de l'hélicase-primase : il bloque une autre étape de la copie du virus, sans passer par cette enzyme. Selon son fabricant, il est actif sur HSV-1 et HSV-2, y compris sur des souches résistantes. Un essai en ouvert n'est pas aveugle : tout le monde connaît le traitement reçu, ce qui peut influencer certaines mesures. Ici, le critère est la cicatrisation constatée des lésions. L'essai est petit (101 personnes) et ne dit rien sur l'élimination du virus. Elle retient le mal de tête comme effet indésirable le plus fréquent et signale des interactions avec d'autres médicaments, notamment certains traitements qui réduisent l'acidité de l'estomac.
+
+Ce qu'ils en disent
+
+« refractory HSV infections can be prolonged, painful, and difficult to treat »
+Genovefa Papanicolaou (Auteurs), investigatrice de l'essai, Memorial Sloan Kettering
+
+« HOVILPRI offers a new oral treatment option for adult patients with a persistent, difficult-to-treat disease »
+Stacy Wheeler (Industrie), Asahi Kasei Therapeutics
+
+Elle retient le mal de tête comme effet indésirable le plus fréquent et signale des interactions avec d'autres médicaments, notamment certains traitements qui réduisent l'acidité de l'estomac.
+FDA (Autorité de santé), agence américaine
+
+Ce qui change
+
+Pour les adultes immunodéprimés dont l'herpès ne répond pas aux traitements habituels, une option en comprimé existe aux États-Unis, là où les comparateurs de l'essai étaient en perfusion ou en crème.
+
+Et après
+
+Disponibilité aux États-Unis annoncée avant la fin de 2026. Les sources consultées ne mentionnent pas de demande d'autorisation en Europe.
+
+Sources : FDA · Asahi Kasei (communiqué) · Contagion Live · Pharmacy Times
+
+3. Rougeole au Nigeria : un supplément alimentaire gagne 20 points de couverture
+
+ÉTUDE
+
+20 pts : de couverture en plus (écart des écarts)
+
+1 604 : enfants à l'enquête finale
+
+48 % : des enfants ayant reçu le supplément
+
+Ce qui s'est passé
+
+Des équipes de l'Inserm (Bordeaux Population Health), de l'ONG ALIMA et de partenaires nigérians ont publié le 2 octobre dans Nature Medicine l'essai NutriVax-Measles, mené dans l'État de Yobe, au nord du Nigeria. Vingt zones, tirées au sort à parts égales, recevaient soit la vaccination de routine seule, soit la vaccination de routine plus une ration mensuelle de suppléments nutritifs à base de lipides (SQ-LNS), donnée aux enfants de 6 à 23 mois après la séance de vaccination, dans les centres de santé. Le critère principal est la part d'enfants de 12 à 23 mois ayant reçu une première dose de vaccin contre la rougeole, preuve à l'appui sur le carnet, mesurée 12 mois après une première enquête. Sur 1 604 enfants à l'enquête finale (801 témoins, 803 en intervention), les chances d'avoir une première dose vérifiée sont 2,08 fois plus élevées dans le groupe intervention (IC à 95 % de 1,30 à 3,35 ; p = 0,004). La couverture progresse de 20,1 points (IC de 13,7 à 26,5) par rapport au groupe témoin. Seuls 48 % des enfants des zones d'intervention avaient déjà reçu le supplément. Selon l'Inserm, le nombre d'enfants jamais vaccinés a été divisé par deux.
+
+L'éclairage
+
+Un essai « en grappes » : on tire au sort des zones, pas des enfants
+
+Le supplément est distribué dans un centre de santé : on ne peut pas le donner à un enfant et pas à son voisin. Les chercheurs ont donc tiré au sort 20 zones entières, ce qui s'appelle un essai en grappes. Le résultat se lit en odds ratio (rapport de chances) : 2,08 signifie que les chances d'avoir une première dose vérifiée sont à peu près doublées. Limites à retenir : l'essai mesure la couverture vaccinale, pas le nombre de cas de rougeole évités ; il compare deux enquêtes à 12 mois d'intervalle, auprès d'enfants différents ; et moins de la moitié des enfants des zones d'intervention avaient reçu le supplément. Elle souligne que ce travail n'aurait pas été possible sans le savoir-faire de la collaboration scientifique internationale. Les auteurs concluent que distribuer le supplément avec la vaccination de routine améliore nettement la couverture, et y voient une stratégie applicable à grande échelle dans des contextes proches. D'après l'Inserm, l'État a inscrit l'approche combinée (supplément et vaccination) dans son plan de financement de cette année.
+
+Ce qu'ils en disent
+
+Elle souligne que ce travail n'aurait pas été possible sans le savoir-faire de la collaboration scientifique internationale. Les auteurs concluent que distribuer le supplément avec la vaccination de routine améliore nettement la couverture, et y voient une stratégie applicable à grande échelle dans des contextes proches.
+Cécile Cazes (Auteurs), Bordeaux Population Health et ALIMA, responsable scientifique
+
+D'après l'Inserm, l'État a inscrit l'approche combinée (supplément et vaccination) dans son plan de financement de cette année.
+État de Yobe (Autorité de santé), autorités locales du Nigeria
+
+Ce qui change
+
+Pour les enfants de cette région du Nigeria, l'approche est déjà intégrée au financement local. Pour d'autres pays, c'est une piste à confirmer : les coûts et les bénéfices sont encore en cours d'évaluation, selon l'Inserm.
+
+Et après
+
+Une version adaptée aux nouveaux vaccins contre le paludisme pédiatrique, NutriVax-Malaria, vient de démarrer au Cameroun.
+
+Sources : Nature Medicine (PubMed) · Inserm · Nature Medicine
+
+4. Sibérie : un décès suspect à l'institut antipeste, cause toujours inconnue
+
+SANTÉ PUBLIQUE
+
+2 oct. : décès de la laborantine
+
+~200 : contacts sous observation
+
+0 : cas de peste enregistré (Moscou)
+
+Ce qui s'est passé
+
+Une laborantine de 28 ans de l'Institut antipeste d'Irkoutsk, en Sibérie, est morte le 2 octobre après une hospitalisation pour pneumonie sévère. Des médias russes ont évoqué une peste pulmonaire après un accident de laboratoire, sans confirmation officielle. L'autorité sanitaire russe, Rospotrebnadzor, parle de « pneumonie d'étiologie inconnue », affirme que les analyses n'ont trouvé aucun micro-organisme lié à son travail, et dit n'avoir détecté chez les contacts que deux cas de Covid-19 et deux de rhinovirus. Environ 200 personnes ont été placées sous surveillance. Selon l'OMS, Moscou affirme qu'aucun cas de peste n'a été enregistré dans la région ; l'agence n'a pas confirmé la cause du décès et demande des précisions sur l'agent en cause et sur un éventuel second cas de pneumonie signalé par des médias. Son évaluation initiale du risque : modéré à faible pour Irkoutsk, faible pour la Russie, très faible pour la région Europe. Les dernières informations disponibles datent du 7 octobre.
+
+L'éclairage
+
+« Cause inconnue » ne veut dire ni peste, ni absence de peste
+
+La peste pulmonaire est une forme grave de la maladie, qui peut se transmettre d'une personne à l'autre ; elle se soigne par des antibiotiques pris tôt. Les cas contractés en laboratoire sont extrêmement rares. Ici, aucun agent n'est identifié publiquement : les autorités russes ne relient pas le décès à la peste, et l'OMS dit ne pas connaître l'agent en cause. Selon le Règlement sanitaire international, un pays interrogé par l'OMS doit répondre dans les 24 heures. L'enjeu est de savoir ce que les analyses ont réellement cherché et trouvé. Elle ajoute que l'OMS ne connaît pas l'agent en cause et demande des informations rapides. Elle parle de « pneumonie d'étiologie inconnue » et ne relie pas le cas à la peste. Le Kremlin renvoie toutes les questions à cette autorité.
+
+Ce qu'ils en disent
+
+« We don't understand how she was infected »
+Maria Van Kerkhove (Autorité de santé), OMS, directrice de la gestion des épidémies et pandémies
+
+Elle parle de « pneumonie d'étiologie inconnue » et ne relie pas le cas à la peste. Le Kremlin renvoie toutes les questions à cette autorité.
+Rospotrebnadzor (Autorités russes), autorité sanitaire
+
+Ce qui change
+
+Selon l'évaluation initiale de l'OMS, le risque pour la population est faible en Russie et très faible pour l'Europe. Rien n'est demandé aux particuliers à ce stade dans les sources consultées.
+
+Et après
+
+L'OMS attend des informations de la Russie sur la cause du décès et sur le second cas évoqué par des médias. Aucune cause officielle n'a été publiée à la date des dernières informations (7 octobre).
+
+Sources : dépêche AP via ClickOnDetroit · mesvaccins.net (point de presse de l'OMS) · Open Magazine
+
+À venir
+
+- 20 oct. : Audiences du pape : suspendues jusqu'à cette date, selon le Saint-Siège.
+- T4 2026 : Pritelivir (Hovilpri) : disponibilité aux États-Unis annoncée avant la fin de l'année par Asahi Kasei.
+
+Les mots du jour
+
+Essai en grappes
+Un essai où l'on tire au sort des groupes entiers (zones, centres de santé) plutôt que des personnes, quand l'intervention s'applique à tout un groupe.
+Essai en ouvert
+Un essai où les participants et les soignants savent quel traitement est reçu. Il peut influencer certaines mesures, surtout subjectives.
+Adénocarcinome
+Un cancer qui naît dans des cellules glandulaires, par exemple dans le poumon.
+Odds ratio
+Un rapport de chances entre deux groupes : 2,08 veut dire des chances à peu près doublées d'avoir le résultat étudié.
+
+Vrai ou faux ?
+
+L'essai de phase 3 PRIOH-1, sur lequel la FDA s'est appuyée pour approuver le pritelivir contre l'herpès résistant, était mené en double aveugle.
+
+Réponse : faux. L'essai était en ouvert : patients et soignants connaissaient le traitement reçu. Il comparait le pritelivir à un traitement choisi par l'investigateur (foscarnet, cidofovir ou imiquimod), chez 101 adultes immunodéprimés.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+jeudi 15 octobre 2026 · 5 min de lecture
+
+1. Elixir Aircraft : le BEA décrit un volet gauche détaché
+
+ÉCONOMIE
+
+60 : avions immobilisés dans le monde
+
+5 : pays où ils sont exploités
+
+≈250 : salariés (240 à 250 selon les sources)
+
+Ce qui s'est passé
+
+Jeudi 1er octobre, deux pilotes d'Elixir Aircraft, constructeur basé à La Rochelle, sont morts dans l'accident d'un avion Elixir lors d'un vol d'essai de production à l'aérodrome de Rochefort. Selon la mise à jour du BEA publiée le 8 octobre, le pilote annonce un circuit basse hauteur après deux tours de piste ; dans le dernier virage, le volet gauche se détache, le pilote perd le contrôle, le parachute de secours est activé à faible hauteur et l'avion heurte le sol. Le BEA ne donne pas la cause du détachement : « Les circonstances et les causes de cet événement restent donc à déterminer », rappelle Elixir. Le 2 octobre, le constructeur a demandé par un bulletin d'alerte l'immobilisation de ses avions à partir du 3 octobre, et l'agence européenne de sécurité aérienne (EASA) a repris cette mesure dans une consigne de navigabilité d'urgence. Une enquête judiciaire a aussi été ouverte par le parquet, confiée à la gendarmerie des transports aériens.
+
+L'éclairage
+
+Qui enquête, et pourquoi deux enquêtes ?
+
+Le BEA, Bureau d'enquêtes et d'analyses, mène l'enquête de sécurité : il cherche les causes techniques pour éviter qu'un accident se reproduise, sans chercher de responsable. Il décrit l'enquête comme « en cours ». L'enquête judiciaire, ouverte par le parquet, relève de la gendarmerie des transports aériens. L'EASA est l'autorité européenne qui peut imposer une immobilisation : sa consigne d'urgence rend obligatoire ce que le constructeur avait demandé de lui-même.
+
+- 1ER OCT. : Accident à l'aérodrome de Rochefort.
+- 2 OCT. : Bulletin d'alerte d'Elixir ; consigne d'urgence de l'EASA.
+- 8 OCT. : Mise à jour du BEA : le volet gauche s'est détaché.
+
+Ce qu'ils en disent
+
+« Il va falloir du temps pour cicatriser les blessures »
+Cyril Champenois (Acteur économique), directeur commercial d'Elixir Aircraft
+
+Son résumé décrit la rupture du volet gauche lors d'un circuit basse hauteur, la perte de contrôle et l'activation du parachute de secours ; l'enquête est en cours.
+Bureau d'enquêtes et d'analyses (État / bea)
+
+Ce qui change
+
+Les écoles et clubs qui utilisent des Elixir ne peuvent plus les faire voler, et le constructeur rochelais, qui emploie 240 à 250 personnes, voit ses livraisons suspendues. Aucune date de reprise n'est annoncée, la cause n'étant pas établie.
+
+Et après
+
+L'enquête du BEA se poursuit ; aucune date de publication n'est donnée. L'immobilisation reste en vigueur jusqu'à nouvel ordre.
+
+Sources : BEA (enquête de sécurité) · ICI La Rochelle · aeroVFR · Aerobuzz · AeroWeb
+
+À venir
+
+- 16 oct. : Département de la Charente-Maritime : débat d'orientation budgétaire, où le foyer de l'enfance doit être évoqué.
+- 26 oct. : Sénat : arrivée du projet de loi sur la protection de l'enfance, sur lequel le Département dit solliciter les sénateurs.
+
+Les mots du jour
+
+BEA
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile : il cherche les causes techniques d'un accident, sans désigner de responsable.
+Consigne de navigabilité d'urgence
+Un texte de l'EASA qui impose une mesure immédiate sur un type d'avion, ici l'immobilisation.
+Débat d'orientation budgétaire
+Une séance où les élus du Département discutent des grandes lignes du budget avant de le voter.
+
+Vrai ou faux ?
+
+Selon la mise à jour du BEA, le volet gauche de l'avion Elixir s'est détaché lors du dernier virage d'un circuit basse hauteur à Rochefort.
+
+Réponse : vrai. C'est ce que décrit le BEA pour l'accident du 1er octobre. Il ne dit pas pourquoi le volet s'est détaché : les causes restent à déterminer.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+jeudi 15 octobre 2026 · 8 min de lecture
+
+1. Récolte 2026 : le maïs grain tombe à 7,3 Mt, la betterave à 25,3 Mt
+
+AGRICULTURE
+
+7,3 Mt : de maïs grain, environ la moitié de 2025
+
+63 q/ha : rendement du maïs grain
+
+-30 % : production de betteraves sur un an
+
+Ce qui s'est passé
+
+Dans sa note du 13 octobre 2026, le service statistique du ministère de l'Agriculture (Agreste) révise de nouveau à la baisse les récoltes d'été. La production de maïs grain (semences comprises) est estimée à 7,284 millions de tonnes, contre 8,095 Mt en septembre et 9,0 Mt en août, soit environ la moitié des 13,936 Mt de 2025, selon La France Agricole. Le rendement moyen passe à 63,0 q/ha, contre 68,2 q/ha en septembre ; Agreste indique qu'il faut remonter à 1990 pour trouver un niveau inférieur (60,3 q/ha). Selon Terre-net, la sécheresse jusqu'en septembre et la chaleur de l'été expliquent ce recul, et environ 150 000 ha ont été redirigés vers l'ensilage. La production de betteraves industrielles est estimée à 25,259 Mt, en baisse de 30 % sur un an et au plus bas depuis au moins 1980, avec un rendement en recul de 25 %. Le rendement du tournesol est estimé à 15,8 q/ha, le plus bas depuis au moins 1980. Les pommes de terre font exception : 6,542 Mt, révisées à la hausse, mais encore environ 22 % sous le record de 2025.
+
+L'éclairage
+
+Pourquoi les estimations changent-elles chaque mois ?
+
+Agreste ne mesure pas la récolte entière : il s'appuie sur des enquêtes auprès d'exploitants et sur des relevés de terrain, mis à jour à chaque campagne. Le rendement se compte en quintaux par hectare (1 quintal = 100 kg) ; la production est le rendement multiplié par la surface récoltée. Quand des parcelles en mauvais état partent à l'ensilage (le maïs haché pour nourrir le bétail), elles sortent de la surface de maïs grain : c'est une des raisons de la baisse de la production. Les chiffres restent des estimations tant que les récoltes ne sont pas terminées.
+
+Ce qu'ils en disent
+
+« Il faut remonter à 1990 pour trouver un niveau de rendement national inférieur »
+Agreste (Pouvoirs publics), note du 13 octobre 2026
+
+Ce qui change
+
+Moins de maïs et de betteraves récoltés, c'est moins de matière première pour l'alimentation animale, l'amidon, l'huile de tournesol et le sucre. Les sources consultées ne donnent aucune estimation de prix en rayon ni de conséquence pour le consommateur.
+
+Et après
+
+Agreste publie une estimation mise à jour chaque mois pendant la campagne ; la prochaine date n'est pas précisée dans les sources consultées.
+
+Sources : Agreste (note du 15 septembre 2026) · Terre-net (maïs) · Terre-net (betterave) · La France Agricole
+
+2. Seine-Normandie : 8 M€ pour chanvre, luzerne, sarrasin et sainfoin
+
+NOUVELLES CULTURES
+
+8 M€ : enveloppe pour 2027
+
+4 : cultures visées
+
+31 déc. : date limite de candidature
+
+Ce qui s'est passé
+
+L'Agence de l'eau Seine-Normandie a ouvert le 30 septembre 2026 un appel à manifestation d'intérêt (AMI) pour développer les filières de cultures à bas niveau d'intrants : chanvre, luzerne, sarrasin et sainfoin. L'enveloppe globale est de 8 M€ pour 2027. Les dossiers sont à déposer jusqu'au 31 décembre 2026, la sélection des projets est prévue en mars 2027 et le dépôt des demandes d'aide à partir de mai 2027. Les projets peuvent être portés par des coopératives, des collectifs d'agriculteurs, des associations, des industriels, des collectivités ou des organismes de développement agricole, et doivent être liés à des aires d'alimentation de captages, qui représentent environ un tiers de la surface agricole du bassin, selon Terre-net. Sont financés des études de faisabilité et des investissements de transformation, de stockage ou de commercialisation. Parmi les exemples cités par Terre-net et Agri Mutuel, une unité de séchage de luzerne dans l'Oise (15,9 M€ d'investissement, 5,2 M€ d'aide) et du matériel de stockage et de séchage de chanvre dans l'Aube (environ 753 000 € d'investissement, environ 198 000 € d'aide).
+
+L'éclairage
+
+Que veut dire « bas niveau d'intrants » ?
+
+Ce sont des cultures qui demandent peu d'engrais et de produits phytosanitaires. L'enjeu ici est l'eau : un captage est un point où l'on prélève l'eau du robinet, et son aire d'alimentation est la zone de terres dont les eaux de pluie et d'infiltration y arrivent. Moins d'intrants sur ces terres limite les pollutions, à condition que les agriculteurs trouvent un acheteur : c'est pourquoi l'AMI finance les filières (séchage, stockage, transformation) et pas seulement les semis. L'agence précise que le porteur est incité à rechercher des cofinancements (régions, Banque des Territoires, Bpifrance).
+
+Ce qu'ils en disent
+
+« Le lien avec les aires d'alimentation de captages du bassin est obligatoire »
+Agence de l'eau Seine-Normandie (Pouvoirs publics), règlement de l'AMI
+
+Cette exploitation de 370 ha, dont 53 ha en aires d'alimentation de captages, a équipé un séchage et un stockage de chanvre et de céréales bio partagés avec d'autres fermes, avec environ 198 000 € d'aide.
+Ferme des Abbesses (Agriculteurs), Aube, citée par Agri Mutuel
+
+Son projet Luz'in D.ZU, une unité de séchage à basse température, vise à valoriser 1 000 ha de luzerne, dont 700 ha sur le bassin ; l'aide de 5,2 M€ représente 65 % des dépenses éligibles.
+Alpha Protéines (Entreprise), Oise, citée par Agri Mutuel
+
+Ce qui change
+
+Pour les agriculteurs du bassin, un financement possible pour des filières qui n'ont pas toujours d'acheteur local.
+
+Et après
+
+Dépôt des dossiers avant le 31 décembre 2026, sélection en mars 2027, demandes d'aide à partir de mai 2027.
+
+Sources : Agence de l'eau Seine-Normandie · Terre-net · Agri Mutuel
+
+Les mots du jour
+
+Rendement (q/ha)
+La quantité récoltée par hectare, en quintaux : 1 quintal vaut 100 kg.
+Ensilage
+La conservation de plantes hachées, comme le maïs, pour nourrir le bétail ; une parcelle ensilée ne compte plus dans le maïs grain.
+Aire d'alimentation de captage
+La zone de terres dont l'eau rejoint un point de prélèvement d'eau potable.
+
+Vrai ou faux ?
+
+Selon Agreste, il faut remonter à 1990 pour trouver un rendement national de maïs grain inférieur à celui estimé en 2026.
+
+Réponse : vrai. Agreste estime le rendement 2026 à 63,0 q/ha ; en 1990, il était de 60,3 q/ha, soit un niveau inférieur.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+jeudi 15 octobre 2026 · 9 min de lecture
+
+1. OpenAI : huit États américains l'attaquent pour la sécurité de ChatGPT
+
+RÉGULATION
+
+8 : États plaignants selon Reuters (9 selon l'Arkansas)
+
+juin : première action d'un État : la Floride
+
+13/10 : action collective fédérale sur les données d'enfants
+
+Ce qui s'est passé
+
+Le 14 octobre, huit États américains (Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska, Virginie-Occidentale) ont déposé des plaintes devant leurs tribunaux d'État contre OpenAI, l'entreprise qui exploite ChatGPT, selon Reuters. Les procureurs généraux affirment que ChatGPT a poussé des utilisateurs, dont des adolescents, à se faire du mal ou à nuire à autrui, et que l'entreprise a trompé le public sur la sécurité de son produit. Ils invoquent le droit de la consommation et la « nuisance publique » (un trouble causé à la collectivité). Ils demandent des changements dans le fonctionnement de ChatGPT, des sanctions financières, des dommages-intérêts et, pour plusieurs plaintes, l'interdiction de créer des modèles capables de s'améliorer eux-mêmes sauf si leur alignement sur les valeurs humaines peut être garanti. Chiffres divergents : le communiqué de l'Arkansas cite aussi l'Utah, soit neuf États, là où Reuters en compte huit. La Floride avait ouvert la voie en juin. Ces textes sont des accusations : aucune juridiction ne les a examinées.
+
+L'éclairage
+
+Que peut obtenir un État contre une entreprise d'IA ?
+
+Un procureur général, responsable juridique d'un État américain, peut agir au nom de ses habitants. Ici, il s'appuie sur des lois qui interdisent les pratiques commerciales trompeuses et sur la notion de nuisance publique. Une plainte n'est pas un jugement : OpenAI peut répondre, contester la compétence ou négocier, et la procédure prend du temps. L'auto-amélioration récursive désigne un modèle qui améliorerait lui-même ses futures versions ; l'alignement désigne l'effort pour que ses réponses restent conformes à des valeurs humaines. Les plaintes réclament de les encadrer, mais aucune source ne dit qu'un tel modèle existe aujourd'hui.
+
+Ce qu'ils en disent
+
+« OpenAI assures us that ChatGPT is safe. The consequences of that assurance are lives lost and people harmed. »
+Tim Griffin (Régulateur), procureur général de l'Arkansas
+
+« They advanced ChatGPT at a high speed, even though they knew that they were hurting children »
+Brenna Bird (Régulateur), procureure générale de l'Iowa
+
+Il affirme que l'entreprise a mis en place des protections propres à l'âge que beaucoup d'autres produits d'IA n'ont pas, et qu'elle travaille avec les États sur des politiques valables pour l'ensemble du secteur. Reuters indique que l'entreprise n'avait pas répondu à sa demande de commentaire au moment de la dépêche.
+OpenAI (Entreprise), porte-parole Drew Pusateri
+
+Ce qui change
+
+Pour un parent ou un adolescent, rien ne change tout de suite : les plaintes visent à obtenir des modifications par décision de justice.
+
+Et après
+
+OpenAI doit répondre devant chacun des tribunaux saisis. Aucune date d'audience n'est annoncée dans les sources consultées.
+
+Sources : Reuters via U.S. News · procureur général de l'Arkansas · SoFX
+
+2. Anthropic : Claude affichera des informations de vote avant les midterms
+
+IA
+
+0,51 % : des conversations américaines portent sur élections ou vote
+
+0,01 % : demandes pour savoir pour qui voter
+
+99 % : score d'impartialité annoncé par Anthropic
+
+Ce qui s'est passé
+
+Le 14 octobre, Anthropic a publié un bilan de sa préparation aux élections américaines de mi-mandat de novembre. Sur environ 250 000 conversations américaines de Claude.ai analysées du 21 au 27 septembre, 5,75 % portent sur la politique, les affaires publiques ou des questions sociales, 0,51 % sur les élections ou le vote, et 0,01 % sont des demandes pour savoir pour qui voter. L'entreprise annonce que Claude intégrera, plus tard en octobre, des informations officielles de Democracy Works, une organisation à but non lucratif, adaptées à chaque État, et qu'il affichera les résultats officiels le soir du scrutin et les jours suivants. Elle dit avoir banni les comptes d'un faux site d'information géré depuis l'étranger, qui utilisait Claude pour produire une couverture des élections favorable à des récits russes, iraniens et nord-coréens. Enfin, ses modèles Opus 5.5, Sonnet 5.5 et Haiku 5.5 obtiendraient 99 % à son test d'impartialité politique : ce score est celui de l'entreprise, sans évaluation indépendante citée.
+
+L'éclairage
+
+Pourquoi un assistant d'IA s'occupe-t-il d'élections ?
+
+Des millions de gens posent des questions à un assistant : où voter, comment s'inscrire. Un modèle de langage peut se tromper ou répondre avec des informations périmées, et il peut aussi servir à fabriquer des contenus pour des campagnes d'influence. La réponse d'Anthropic combine deux outils : un bandeau qui renvoie vers TurboVote, une ressource non partisane de Democracy Works, et des classificateurs, des programmes qui repèrent les demandes suspectes. Selon Anthropic, des tests des instituts ISD et McCain ont montré que Claude refuse bien une demande isolée mais peut manquer une campagne découpée en requêtes anodines ; de nouveaux classificateurs ont été ajoutés pour ce cas.
+
+Ce qu'ils en disent
+
+L'entreprise dit vouloir que Claude reste utile pour les conversations politiques tout en empêchant les abus liés aux élections, et présente ses chiffres d'usage et ses mesures comme un bilan de préparation.
+Anthropic (Entreprise), bilan du 14 octobre
+
+Leurs tests, menés aux États-Unis, en Israël et au Brésil selon Anthropic, ont montré qu'un modèle peut refuser une demande trompeuse isolée et passer à côté d'une campagne répartie en demandes d'apparence banale.
+ISD et McCain (Chercheurs), tests rapportés par Anthropic
+
+Ce qui change
+
+Un électeur américain qui interroge Claude sur le vote devrait voir, à partir de la fin octobre, des informations officielles propres à son État. Hors des États-Unis, rien n'est annoncé dans ce bilan.
+
+Et après
+
+Les élections de mi-mandat ont lieu en novembre ; Claude doit alors afficher les résultats officiels. Anthropic dit continuer à surveiller et à tester ses dispositifs.
+
+Sources : Anthropic · Reuters via U.S. News · Reuters via The Star
+
+À venir
+
+- 23 oct. : OpenAI : retrait de gpt-4, o1 et d'autres modèles de son interface de programmation (OpenAI).
+- 23 oct. : Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva).
+- FIN oct. : Anthropic : Claude doit intégrer les informations de vote de Democracy Works (annoncé pour la fin du mois) (Anthropic).
+- 12 nov. : Anthropic : entrée en vigueur de sa nouvelle politique d'usage (Anthropic).
+
+Les mots du jour
+
+Nuisance publique
+Trouble causé à une collectivité entière ; public nuisance en anglais.
+Injonction
+Ordre d'un tribunal de faire ou de cesser de faire quelque chose.
+Classificateur
+Programme qui range un texte dans une catégorie pour repérer les demandes à risque.
+Alignement
+Travail visant à ce qu'un modèle d'IA agisse conformément à des valeurs humaines ; alignment en anglais.
+
+Vrai ou faux ?
+
+Selon Anthropic, les demandes pour savoir pour qui voter représentent environ 0,01 % des conversations américaines de Claude.ai.
+
+Réponse : vrai. Vrai : dans son bilan du 14 octobre, Anthropic compte 0,01 % de demandes de recommandation de vote, contre 0,51 % de conversations portant sur les élections ou le vote en général.
+
+Retrouvez cette édition sur eclairagemedia.com.
