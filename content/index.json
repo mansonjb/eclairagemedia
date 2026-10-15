@@ -1,6 +1,721 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-15",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Duralex : le tribunal retient l'offre de Cédric Meston et 155 emplois",
+    "court": "Duralex : Meston reprend la verrerie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Les_verres_Le_Picardie%C2%AE_et_leurs_diff%C3%A9rentes_couleurs.png/1280px-Les_verres_Le_Picardie%C2%AE_et_leurs_diff%C3%A9rentes_couleurs.png",
+    "legende": "verres Duralex Le Picardie (illustration)",
+    "chapeau": "Mercredi 14 octobre, le tribunal de commerce d'Orléans a retenu l'offre de reprise de Duralex portée par Cédric Meston, entrepreneur de 32 ans, via sa holding Tomé. Il était en concurrence avec le groupe stéphanois Carlesimo, dont l'offre conservait 129 emplois selon ICI et 125 selon L'Express.",
+    "eclairage": "Comment un tribunal choisit-il un repreneur ?",
+    "chiffres": [
+     {
+      "valeur": "155",
+      "legende": "postes conservés sur 219"
+     },
+     {
+      "valeur": "16 M€",
+      "legende": "plan de financement (dont 6 M€ publics)"
+     },
+     {
+      "valeur": "129",
+      "legende": "emplois dans l'offre rivale (125 selon une source)"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, le tribunal de commerce d'Orléans a retenu l'offre de reprise de Duralex portée par Cédric Meston, entrepreneur de 32 ans, via sa holding Tomé. Il était en concurrence avec le groupe stéphanois Carlesimo, dont l'offre conservait 129 emplois selon ICI et 125 selon L'Express. Le plan de Cédric Meston préserve 155 des 219 postes en CDI, soit environ 70 %, et une soixantaine de salariés ne seront pas repris. Son financement atteint 16 millions d'euros, dont 6 millions de prêts publics (État, Région, Orléans Métropole) et, pour le reste, des fonds privés avec le soutien de Xavier Niel (NJJ Capital). La verrerie de La Chapelle-Saint-Mesmin (Loiret) était en redressement judiciaire depuis le 1er juin, sa cinquième procédure en une vingtaine d'années, moins de deux ans après sa reprise par ses salariés en coopérative (Scop). Le four à gaz doit être remplacé par un four électrique d'ici 2029.",
+    "points": [
+     "Le redressement judiciaire est une procédure qui protège une entreprise en difficulté de ses créanciers pendant qu'on cherche une solution : un plan de continuation, ou la reprise par un tiers.",
+     "Des candidats déposent des offres. Le tribunal compare le nombre d'emplois conservés, le montant investi, la solidité du financement et le projet industriel.",
+     "Les emplois non repris donnent lieu à un accompagnement : ici, l'État dit vouloir être attentif aux salariés qui ne sont pas conservés (melles750)."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://actu.orange.fr/france/duralex-l-offre-de-reprise-validee-par-la-justice-155-emplois-sauves-l-express-via-6medias-CNT000002sO0Xj.html",
+      "nom": "L'Express via Orange"
+     },
+     {
+      "url": "https://www.planet.fr/reprise-de-duralex-la-justice-tranche-en-faveur-de-cedric-meston-et-sauve-155-emplois.2999837.817034.html",
+      "nom": "Planet (AFP)"
+     },
+     {
+      "url": "https://melles750.fr/articles/2026/2026-10-14-duralex-reprise-validee-meston-155-emplois",
+      "nom": "Melles750"
+     },
+     {
+      "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/duralex-deux-projets-encore-en-lice-le-tribunal-de-commerce-d-orleans-rendra-sa-decision-ce-14-octobre-7839329",
+      "nom": "ICI"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Cédric Meston",
+      "contexte": "repreneur, holding Tomé",
+      "texte": "« C'est gagné ! Nous sommes les nouveaux propriétaires de Duralex ».",
+      "url": "https://melles750.fr/articles/2026/2026-10-14-duralex-reprise-validee-meston-155-emplois",
+      "source": "Melles750"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Martin",
+      "contexte": "ministre délégué à l'Industrie",
+      "texte": "Il y voit « une nouvelle page de l'histoire de cette entreprise emblématique » et dit vouloir être attentif à l'accompagnement des salariés qui ne seront pas conservés.",
+      "url": "https://melles750.fr/articles/2026/2026-10-14-duralex-reprise-validee-meston-155-emplois",
+      "source": "Melles750"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "François Bonneau",
+      "contexte": "président de la Région Centre-Val de Loire",
+      "texte": "Il estime avoir soutenu « la meilleure offre industrielle et sociale ».",
+      "url": "https://melles750.fr/articles/2026/2026-10-14-duralex-reprise-validee-meston-155-emplois",
+      "source": "Melles750"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "SYNDICATS",
+      "qui": "Intersyndicale",
+      "contexte": "salariés de Duralex",
+      "texte": "L'intersyndicale a soutenu l'offre retenue dès le départ, selon Planet.",
+      "url": "https://www.planet.fr/reprise-de-duralex-la-justice-tranche-en-faveur-de-cedric-meston-et-sauve-155-emplois.2999837.817034.html",
+      "source": "Planet (AFP)"
+     }
+    ],
+    "apres": "Le ministre de l'Industrie doit se rendre à l'usine vendredi 16 octobre (melles750).",
+    "change": "Pour les salariés, 155 postes sont maintenus et une soixantaine ne le sont pas. Pour le site, la production reste à La Chapelle-Saint-Mesmin, calée sur les ventes réelles, avec un four électrique prévu d'ici 2029. La Scop créée en 2024 prend fin.",
+    "credit": {
+     "auteur": "La Maison Française du Verre",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Les_verres_Le_Picardie%C2%AE_et_leurs_diff%C3%A9rentes_couleurs.png"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TECH",
+    "titre": "ASML : 11,7 Md€ de ventes au 3e trimestre et prévisions 2026 relevées",
+    "court": "ASML relève ses prévisions 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ASML_headquarters_Veldhoven.jpg/1280px-ASML_headquarters_Veldhoven.jpg",
+    "legende": "siège d'ASML à Veldhoven (illustration)",
+    "chapeau": "Mercredi 14 octobre, le fabricant néerlandais de machines de lithographie pour puces ASML a publié ses résultats du troisième trimestre. Les ventes nettes atteignent 11,66 milliards d'euros (9,33 Md€ au deuxième trimestre), légèrement sous le consensus de 11,72 Md€.",
+    "eclairage": "Pourquoi ASML est-elle au cœur de la fabrication des puces ?",
+    "chiffres": [
+     {
+      "valeur": "57,5 %",
+      "legende": "marge brute (54,0 % au T2)"
+     },
+     {
+      "valeur": "5 Md€",
+      "legende": "résultat net (4,96 Md€)"
+     },
+     {
+      "valeur": "45 Md€",
+      "legende": "haut de la fourchette de ventes 2026"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, le fabricant néerlandais de machines de lithographie pour puces ASML a publié ses résultats du troisième trimestre. Les ventes nettes atteignent 11,66 milliards d'euros (9,33 Md€ au deuxième trimestre), légèrement sous le consensus de 11,72 Md€. Le résultat net est de 4,96 milliards d'euros, soit 12,95 € par action, contre 4,1 Md€ attendus selon Quartz. La marge brute est de 57,5 %, au-dessus de la fourchette visée de 55 % à 57 %. ASML a racheté pour environ 4,1 Md€ de ses actions au trimestre. Pour le quatrième trimestre, le groupe attend des ventes de 14,2 à 15,2 Md€ et pour 2026 de 44 à 45 Md€, contre 43 à 45 Md€ annoncés en juillet. L'action gagnait environ 3 % à Amsterdam en début de séance.",
+    "points": [
+     "ASML vend les machines qui impriment les circuits sur les plaques de silicium (la lithographie). Ses clients sont les fabricants de puces, qui les commandent plusieurs années à l'avance.",
+     "La marge brute est ce qui reste des ventes après le coût de fabrication des machines : 57,5 % signifie qu'il reste environ 57,5 € pour 100 € vendus.",
+     "Un carnet de commandes mesure ce que les clients ont déjà commandé. ASML dit que certains veulent commander pour 2029 et 2030, et que son offre prévue pour 2027 et 2028 ne couvrira pas toute la demande."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/asml-entoure-apres-des-resultats-solides-et-des-perspectives-encourageantes-eca40575fffdf190e87ffcedd805c6f0",
+      "nom": "Zonebourse via Boursorama"
+     },
+     {
+      "url": "https://fr.qz.com/asml-bnfices-trimestriels-profits-clients-commandes-2030-101426",
+      "nom": "Quartz"
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-reports-11-7-billion-050000954.html",
+      "nom": "communiqué ASML via Yahoo Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Christophe Fouquet",
+      "contexte": "PDG d'ASML",
+      "texte": "Il indique que « some customers are expressing an interest in placing orders with us for 2029 and even 2030. »",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-reports-11-7-billion-050000954.html",
+      "source": "communiqué ASML via Yahoo Finance"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "ING",
+      "contexte": "banque",
+      "texte": "La banque juge les résultats « très encourageants » et maintient sa recommandation d'achat avec un objectif de cours de 2 000 €. Elle anticipe des révisions à la hausse de 5 % à 10 % de l'EBIT consensuel 2026-2028.",
+      "url": "https://www.boursorama.com/bourse/actualites/asml-entoure-apres-des-resultats-solides-et-des-perspectives-encourageantes-eca40575fffdf190e87ffcedd805c6f0",
+      "source": "Zonebourse via Boursorama"
+     }
+    ],
+    "apres": "Un acompte sur dividende de 1,88 € par action sera versé le 4 novembre 2026.",
+    "change": "Pour les fabricants de puces, l'offre de machines ne couvrira pas toute la demande prévue en 2027 et 2028, selon ASML, qui étudie une hausse de capacité de production en 2028 au-delà des +30 % déjà annoncés.",
+    "credit": {
+     "auteur": "A ansems",
+     "licence": "domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CONJONCTURE",
+    "titre": "États-Unis : l'inflation monte à 3,7 % sur un an en septembre",
+    "court": "Inflation américaine : 3,7 % en septembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gas_Prices_Sign_-_Yes_Way_Gas_Station_-_Fort_Pierre_-_South_Dakota.jpg/1280px-Gas_Prices_Sign_-_Yes_Way_Gas_Station_-_Fort_Pierre_-_South_Dakota.jpg",
+    "legende": "panneau de prix des carburants, Fort Pierre, Dakota du Sud (illustration)",
+    "chapeau": "Mercredi 14 octobre, le Bureau of Labor Statistics, l'institut statistique du département du Travail américain, a publié l'inflation de septembre : les prix à la consommation augmentent de 3,7 % sur un an, contre 3,4 % en août, et de 0,6 % sur le mois.",
+    "eclairage": "Que mesure l'inflation, et pourquoi la regarde-t-on hors énergie ?",
+    "chiffres": [
+     {
+      "valeur": "3,7 %",
+      "legende": "sur un an (3,4 % en août)"
+     },
+     {
+      "valeur": "+0,6 %",
+      "legende": "sur le mois (+0,4 % en août)"
+     },
+     {
+      "valeur": "+34 %",
+      "legende": "prix de l'essence sur un an (34,2 %)"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, le Bureau of Labor Statistics, l'institut statistique du département du Travail américain, a publié l'inflation de septembre : les prix à la consommation augmentent de 3,7 % sur un an, contre 3,4 % en août, et de 0,6 % sur le mois. Les prix de l'essence progressent de 9,1 % sur le mois et de 34,2 % sur un an ; ils expliquent plus de la moitié de la hausse mensuelle. L'énergie dans son ensemble monte de 20,4 % sur un an. Hors énergie et alimentation, l'inflation dite sous-jacente est de 2,6 % sur un an (2,4 % en août) et de 0,3 % sur le mois, contre 2,5 % et 0,2 % attendus selon CNBC. L'alimentation progresse de 2,5 % et le logement de 3,2 % sur un an. Les contrats à terme sur Wall Street reculaient après la publication.",
+    "points": [
+     "L'inflation est la hausse moyenne des prix d'un panier de biens et services, comparée à il y a un an. 3,7 % signifie que ce panier coûte 3,7 % de plus qu'en septembre 2025.",
+     "L'inflation sous-jacente exclut l'énergie et l'alimentation, dont les prix varient beaucoup. Elle indique si la hausse s'étend aux autres prix : ici 2,6 %, contre 3,7 % au total.",
+     "Pourquoi cela compte La banque centrale américaine (Fed) règle ses taux d'intérêt selon l'inflation : des taux plus hauts rendent les crédits plus chers et freinent la demande."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.bls.gov/news.release/cpi.htm",
+      "nom": "Bureau of Labor Statistics"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "nom": "CNBC"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-attendue-en-berne-apres-l-inflation-c9a0a8edc0c30f5e1b25b2f6e837e49c",
+      "nom": "AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "John Williams",
+      "contexte": "président de la Fed de New York",
+      "texte": "Selon l'AFP, il estime qu'une nouvelle hausse de taux pourrait être appropriée d'ici la fin de l'année, et ne voit pas de raison d'en décider une autre en 2027, sans l'exclure.",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-attendue-en-berne-apres-l-inflation-c9a0a8edc0c30f5e1b25b2f6e837e49c",
+      "source": "AFP via Boursorama"
+     }
+    ],
+    "apres": "La prochaine réunion de la Fed a lieu dans environ deux semaines, selon Boursorama.",
+    "change": "Pour les ménages américains, le carburant pèse sur le budget : +34,2 % sur un an. Pour les marchés, une inflation supérieure aux attentes sur le sous-jacent renforce l'attention portée aux taux de la Fed.",
+    "credit": {
+     "auteur": "Tony Webster",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Gas_Prices_Sign_-_Yes_Way_Gas_Station_-_Fort_Pierre_-_South_Dakota.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "MONDE",
+    "titre": "Chine : les exportations progressent de 36,3 % sur un an en septembre",
+    "court": "Chine : exportations +36,3 % en septembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yangshan-Port-Containers.jpg/1280px-Yangshan-Port-Containers.jpg",
+    "legende": "port de Yangshan, Shanghai (illustration)",
+    "chapeau": "Mardi 13 et mercredi 14 octobre, la Chine a publié ses chiffres de septembre. Selon l'Associated Press, les exportations augmentent de 36,3 % sur un an en dollars (25 % en août) et les importations de 31 %.",
+    "eclairage": "Que révèlent un excédent commercial et les prix à la production ?",
+    "chiffres": [
+     {
+      "valeur": "+36 %",
+      "legende": "exportations sur un an (36,3 %, en dollars)"
+     },
+     {
+      "valeur": "134 Md$",
+      "legende": "excédent commercial du mois (133,5 Md$)"
+     },
+     {
+      "valeur": "+5,0 %",
+      "legende": "prix à la production sur un an"
+     }
+    ],
+    "passe": "Mardi 13 et mercredi 14 octobre, la Chine a publié ses chiffres de septembre. Selon l'Associated Press, les exportations augmentent de 36,3 % sur un an en dollars (25 % en août) et les importations de 31 %. L'excédent commercial du mois atteint 133,5 milliards de dollars, contre 119,1 Md$ en août, et 938,1 Md$ sur neuf mois. Sur janvier-septembre, les exportations de semi-conducteurs progressent de 108,1 % et celles d'automobiles de 54,3 %. Le même jour, l'indice des prix à la production, qui mesure les prix sortie d'usine, augmente de 5,0 % sur un an, au-dessus des 4,5 % attendus, son plus haut niveau depuis juin 2022 selon CNBC. Les prix à la consommation progressent de 0,9 %, sous les 1,0 % attendus. L'AP cite l'Union européenne, dont le déficit commercial avec la Chine dépasse 1,1 Md$ par jour.",
+    "points": [
+     "L'excédent commercial est la différence entre ce qu'un pays vend à l'étranger et ce qu'il achète : ici, la Chine a vendu pour 133,5 Md$ de plus qu'elle n'a acheté en septembre.",
+     "L'indice des prix à la production suit les prix sortie d'usine. Quand il monte, les entreprises paient plus cher leurs matières et leur énergie, ce qui peut réduire leurs marges ou être répercuté sur les prix de vente.",
+     "Le contexte Selon GuruFocus, la hausse vient surtout du coût international des carburants et de l'énergie."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.click2houston.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
+      "nom": "dépêche AP via Click2Houston"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "nom": "CNBC"
+     },
+     {
+      "url": "https://english.news.cn/20261014/f21bee24278d438ead841610839dc308/c.html",
+      "nom": "Xinhua"
+     },
+     {
+      "url": "https://www.gurufocus.com/news/9122609/chinas-september-2026-inflation-data-highlights-rising-producer-prices-cny-reacts",
+      "nom": "GuruFocus"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Ecaterina Bigos",
+      "contexte": "BNP Paribas",
+      "texte": "Elle estime que « the EU's push to rebalance directly targets high-value exports ».",
+      "url": "https://www.click2houston.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
+      "source": "dépêche AP via Click2Houston"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Max Zenglein",
+      "contexte": "The Conference Board",
+      "texte": "Pour lui, « A slowdown in the global AI investment cycle could pose a greater threat to China's export growth » que les restrictions commerciales.",
+      "url": "https://www.click2houston.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
+      "source": "dépêche AP via Click2Houston"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Li Qiang",
+      "contexte": "Premier ministre chinois",
+      "texte": "Selon l'AP, il présente la Chine comme un « super seller » et un « super buyer » et se dit prêt à importer davantage de produits de haute qualité.",
+      "url": "https://www.click2houston.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
+      "source": "dépêche AP via Click2Houston"
+     }
+    ],
+    "apres": "Le FMI a abaissé sa prévision de croissance chinoise 2026 à 4,5 % (AP).",
+    "change": "Pour les partenaires commerciaux, un excédent croissant alimente les tensions : l'AP évoque une enquête américaine sur les surcapacités chinoises et un accord annoncé par l'UE pour réduire de moitié les importations de voitures hybrides chinoises d'ici quelques années.",
+    "credit": {
+     "auteur": "Reb42",
+     "licence": "CC BY 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Yangshan-Port-Containers.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Inflation définitive de la zone euro pour septembre ; visite du ministre de l'Industrie à l'usine Duralex."
+   },
+   {
+    "jour": "~29",
+    "mois": "OCT.",
+    "texte": "Réunion de la Fed, dans environ deux semaines selon Boursorama."
+   },
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Acompte sur dividende d'ASML (1,88 € par action)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Redressement judiciaire",
+    "definition": "Une procédure qui protège une entreprise en difficulté de ses créanciers le temps de trouver un plan de continuation ou un repreneur."
+   },
+   {
+    "terme": "Marge brute",
+    "definition": "La part des ventes qui reste après le coût de fabrication des produits vendus, avant les autres frais."
+   },
+   {
+    "terme": "Inflation sous-jacente",
+    "definition": "La hausse des prix hors énergie et alimentation, dont les prix varient beaucoup d'un mois à l'autre."
+   },
+   {
+    "terme": "Indice des prix à la production",
+    "definition": "Un indicateur des prix sortie d'usine : il mesure ce que les entreprises facturent avant la vente au consommateur."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le tribunal de commerce d'Orléans a retenu l'offre de Cédric Meston pour reprendre Duralex.",
+   "reponse": true,
+   "explication": "Vrai : le tribunal a retenu l'offre de Cédric Meston (holding Tomé) le 14 octobre. Elle conserve 155 des 219 postes en CDI."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-15",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : les députés rejettent la taxation des arrêts maladie",
+    "court": "Budget : taxation des arrêts maladie rejetée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Assembl%C3%A9e_Nationale%2C_Palais_Bourbon.jpg/1280px-Assembl%C3%A9e_Nationale%2C_Palais_Bourbon.jpg",
+    "legende": "Façade de l'Assemblée nationale (illustration)",
+    "chapeau": "Dans la nuit du mercredi 14 au jeudi 15 octobre, l'Assemblée nationale a rejeté en séance deux mesures de l'article 2 du projet de loi de finances (PLF) pour 2027 : la fiscalisation partielle des indemnités versées pour une affection de longue durée (ALD), aujourd'hui totalement exonérées d'impôt, et la fiscalisation totale des indemnités liées à un accident du travail ou à une maladie professionnelle, aujourd'hui exonérées à hauteur de 50 %.",
+    "eclairage": "Ce vote est-il définitif ?",
+    "chiffres": [
+     {
+      "valeur": "~1 Md€",
+      "legende": "de gain attendu selon LCP"
+     },
+     {
+      "valeur": "20 Md€",
+      "legende": "d'indemnités journalières bientôt (12 en 2019)"
+     },
+     {
+      "valeur": "50 %",
+      "legende": "d'exonération actuelle pour accident du travail"
+     }
+    ],
+    "passe": "Dans la nuit du mercredi 14 au jeudi 15 octobre, l'Assemblée nationale a rejeté en séance deux mesures de l'article 2 du projet de loi de finances (PLF) pour 2027 : la fiscalisation partielle des indemnités versées pour une affection de longue durée (ALD), aujourd'hui totalement exonérées d'impôt, et la fiscalisation totale des indemnités liées à un accident du travail ou à une maladie professionnelle, aujourd'hui exonérées à hauteur de 50 %. Le gouvernement voulait aligner leur fiscalité sur celle des revenus d'activité, pour un gain d'environ 1 milliard d'euros selon LCP. LCP décrit un rejet massif et ne donne pas le décompte des voix. Le même dispositif avait déjà été supprimé par la commission des finances le 7 octobre. Le ministre des Comptes publics, David Amiel, a défendu la mesure en citant une hausse des indemnités journalières, qui atteindraient bientôt 20 milliards d'euros contre 12 milliards en 2019.",
+    "points": [],
+    "explication": "Non. Une affection de longue durée (ALD) est une maladie grave ou chronique reconnue, qui ouvre droit à une prise en charge à 100 % des soins. Les indemnités journalières sont les sommes versées par l'Assurance maladie pendant un arrêt de travail. Le vote des députés en séance n'entérine pas la suppression définitive de la mesure : seule la copie budgétaire finale comptera, selon LCP. Le texte doit encore passer par le Sénat, puis par une commission mixte paritaire chargée de trouver un compromis, et le vote pourrait être modifié en cours de route.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/affections-de-longue-duree-accidents-du-travail-l-assemblee-s-oppose-au-gouvernement-sur",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://fiscalonline.com/outils-fiscaux/plf-2027-deputes-refusent-fiscalisation-indemnites-journalieres",
+      "nom": "Fiscal Online"
+     },
+     {
+      "url": "https://www.boursedescredits.com/actualite-budget-2027-deputes-suppriment-commission-rabot-abattement-fiscal-retraites-29988.php",
+      "nom": "Bourse des Crédits"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr (dossier PLF 2027)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "David Amiel",
+      "contexte": "ministre des Comptes publics",
+      "texte": "« Nous faisons face à une explosion des arrêts de travail. »",
+      "url": "https://lcp.fr/actualites/affections-de-longue-duree-accidents-du-travail-l-assemblee-s-oppose-au-gouvernement-sur",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Mickaël Bouloux",
+      "contexte": "député",
+      "texte": "« Fiscaliser les affections longue durée, c'est une honte »",
+      "url": "https://lcp.fr/actualites/affections-de-longue-duree-accidents-du-travail-l-assemblee-s-oppose-au-gouvernement-sur",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Marianne Maximi",
+      "contexte": "députée",
+      "texte": "« On a déjà un budget d'austérité, et vous décidez d'enfoncer le clou sur les personnes les plus fragiles »",
+      "url": "https://lcp.fr/actualites/affections-de-longue-duree-accidents-du-travail-l-assemblee-s-oppose-au-gouvernement-sur",
+      "source": "LCP"
+     }
+    ],
+    "apres": "L'examen de la première partie du budget, consacrée aux recettes, se poursuit jeudi 15 octobre en séance : dans la matinée, les députés doivent aborder le rabot de l'abattement fiscal dont bénéficient les retraités, selon LCP.",
+    "change": "À ce stade, les indemnités ALD restent exonérées d'impôt et celles des accidents du travail restent exonérées à 50 % dans la version votée par l'Assemblée.",
+    "credit": {
+     "auteur": "Philippe Alès",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_Nationale,_Palais_Bourbon.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉDUCATION",
+    "titre": "Lycéens : au Sénat, Lecornu cite 1 334 blessés depuis le début du mouvement",
+    "court": "Lycéens : Lecornu cite 1 334 blessés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_62.jpg/1280px-Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_62.jpg",
+    "legende": "Pancartes dans le cortège lycéen du 6 octobre 2026 à Paris",
+    "chapeau": "Mercredi 14 octobre, lors des questions au gouvernement au Sénat, les premières depuis les sénatoriales de septembre, le Premier ministre Sébastien Lecornu a été interrogé sur le mouvement lycéen, qui dure depuis environ trois semaines.",
+    "eclairage": "Que sont les questions au gouvernement ?",
+    "chiffres": [
+     {
+      "valeur": "1 334",
+      "legende": "blessés cités par le Premier ministre"
+     },
+     {
+      "valeur": "937",
+      "legende": "policiers et gendarmes"
+     },
+     {
+      "valeur": "248",
+      "legende": "élèves (149 personnels)"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, lors des questions au gouvernement au Sénat, les premières depuis les sénatoriales de septembre, le Premier ministre Sébastien Lecornu a été interrogé sur le mouvement lycéen, qui dure depuis environ trois semaines. La présidente du groupe écologiste, Mélanie Vogel, a dénoncé une répression qu'elle juge inédite et demandé l'interdiction définitive des lanceurs de balles de défense (LBD) et des grenades. Sébastien Lecornu lui a reproché de ne prononcer aucune condamnation des violences et a donné un bilan : 1 334 blessés depuis le début du mouvement, dont 937 policiers et gendarmes, 149 personnels de l'Éducation nationale et 248 élèves. Il a aussi évoqué à l'oral environ 1 000 policiers blessés ; le détail annoncé est de 937. Ces chiffres sont ceux du Premier ministre, non vérifiés de façon indépendante. Au cœur du débat, le cas d'un lycéen de 15 ans de Lens, qui a perdu une main le 5 octobre : les circonstances font l'objet d'investigations et son avocat a annoncé, le 14 octobre, une plainte avec constitution de partie civile.",
+    "points": [],
+    "explication": "Chaque semaine, les sénateurs et les députés posent en séance publique des questions orales au gouvernement, auxquelles le Premier ministre ou un ministre répond sur le moment. Le LBD est une arme à projectiles utilisée par les forces de l'ordre, classée parmi les armes dites intermédiaires, comme les grenades. Le ministère de l'Intérieur a suspendu le 6 octobre l'usage des grenades assourdissantes dans le cadre du mouvement, sans interdiction générale de ces armes, selon Parlons-Politique.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/un-etat-qui-tire-sur-ses-enfants-est-un-etat-qui-a-deja-perdu-vifs-echanges-au-senat-entre-melanie-vogel-et-sebastien-lecornu",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.parlons-politique.fr/actualite-nationale/face-aux-violences-dans-les-lycees-le-debat-sur-les-armes-de-maintien-de-lordre-met-le-gouvernement-sous-pression_29334/",
+      "nom": "Parlons-Politique"
+     },
+     {
+      "url": "https://entrevue.fr/politique/un-etat-qui-tire-sur-ses-enfants-a-deja-perdu-melanie-vogel-attaque-lecornu/",
+      "nom": "Entrevue"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "sénateur",
+      "texte": "Il réclame une sélection à l'entrée de l'université",
+      "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Mélanie Vogel",
+      "contexte": "présidente du groupe au Sénat",
+      "texte": "« Un Etat qui tire sur ses enfants est un Etat qui a déjà perdu »",
+      "url": "https://www.publicsenat.fr/actualites/politique/un-etat-qui-tire-sur-ses-enfants-est-un-etat-qui-a-deja-perdu-vifs-echanges-au-senat-entre-melanie-vogel-et-sebastien-lecornu",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« Même pas un mot pour condamner des tirs de mortiers sur des salles de classe »",
+      "url": "https://www.publicsenat.fr/actualites/politique/un-etat-qui-tire-sur-ses-enfants-est-un-etat-qui-a-deja-perdu-vifs-echanges-au-senat-entre-melanie-vogel-et-sebastien-lecornu",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Boris Vallaud",
+      "contexte": "élu PS",
+      "texte": "Il demande des explications sur les consignes données",
+      "url": "https://www.parlons-politique.fr/actualite-nationale/face-aux-violences-dans-les-lycees-le-debat-sur-les-armes-de-maintien-de-lordre-met-le-gouvernement-sous-pression_29334/",
+      "source": "Parlons-Politique"
+     }
+    ],
+    "apres": "Selon Parlons-Politique, 36 enquêtes concernant des policiers ont été confiées à l'IGPN au 13 octobre. L'avocat du lycéen de Lens conteste la version selon laquelle son client aurait ramassé la grenade.",
+    "change": "Le débat sur les armes de maintien de l'ordre arrive au Parlement ; aucune interdiction n'a été annoncée à ce stade.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_62.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Contre-budgets : LFI chiffre le sien, Lecornu critique celui du RN",
+    "court": "Contre-budgets : LFI chiffre, Lecornu répond",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Groupe_France_Insoumise_%C3%A0_l%27Assembl%C3%A9e_Nationale_2017.jpg/1280px-Groupe_France_Insoumise_%C3%A0_l%27Assembl%C3%A9e_Nationale_2017.jpg",
+    "legende": "Mélenchon et des députés LFI, conférence de presse, 2017 (archive, illustration)",
+    "chapeau": "Mercredi 14 octobre, Jean-Luc Mélenchon, candidat de La France insoumise (LFI) à l'élection présidentielle de mai 2027, a présenté à Paris le budget que son mouvement appliquerait s'il accédait à la présidence : 106,4 milliards d'euros de recettes supplémentaires et 81,7 milliards d'euros de dépenses nouvelles dès 2027, selon Éric Coquerel, président LFI de la commission des finances.",
+    "eclairage": "Qu'est-ce qu'un contre-budget ?",
+    "chiffres": [
+     {
+      "valeur": "106,4",
+      "legende": "Md€ de recettes nouvelles selon LFI"
+     },
+     {
+      "valeur": "81,7",
+      "legende": "Md€ de dépenses nouvelles selon LFI"
+     },
+     {
+      "valeur": "18,4",
+      "legende": "Md€ en 2031 pour les collectivités (dossier RN)"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, Jean-Luc Mélenchon, candidat de La France insoumise (LFI) à l'élection présidentielle de mai 2027, a présenté à Paris le budget que son mouvement appliquerait s'il accédait à la présidence : 106,4 milliards d'euros de recettes supplémentaires et 81,7 milliards d'euros de dépenses nouvelles dès 2027, selon Éric Coquerel, président LFI de la commission des finances. Parmi les recettes figurent la taxe Zucman (15 Md€), les droits de succession (20 Md€) et la suppression de la flat tax (9 Md€) ; parmi les dépenses, le retour de l'âge légal de départ à la retraite à 62 ans. Environ 25 Md€ iraient chaque année à la réduction de la dette ; LFI affirme que le déficit serait de 5 % du PIB, comme dans le projet du gouvernement. Selon France Épargne, aucune évaluation indépendante de ces montants n'a été publiée. Le même jour au Sénat, interrogé par Edwige Diaz, présidente du groupe RN/UDR, Sébastien Lecornu a critiqué le contre-budget du RN, présenté le 6 octobre : d'après le dossier de presse du RN, l'effort demandé aux collectivités serait de 8,2 milliards d'euros en 2027 puis de 18,4 milliards en 2031, contre 5,5 milliards prévus par le gouvernement en 2027, selon l'AFP. Edwige Diaz conteste ces chiffres ; Public Sénat note qu'ils figurent dans le tableau du dossier de presse du RN.",
+    "points": [],
+    "explication": "Un contre-budget est une alternative chiffrée au budget du gouvernement, présentée par un parti ou un candidat. Il n'a aucune valeur légale : seul le Parlement vote la loi de finances. Il sert à comparer des choix de recettes et de dépenses. Les montants des contre-budgets sont ceux annoncés par leurs auteurs. Sébastien Lecornu a dit s'attendre à voir les mesures du RN revenir sous forme d'amendements, selon Public Sénat.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/contre-budget-lfi-propose-1064-milliards-d-euros-de-recettes-supplementaires-et-817",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.journaldunet.com/business/action-publique/1556637-la-france-insoumise-presente-un-contre-budget-pour-2027-axe-sur-la-reduction-de-la-dette/",
+      "nom": "Journal du Net"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/melenchon-presente-un-contre-budget-2027-1064-milliards-de-recettes-25-milliards-pour-la-dette",
+      "nom": "France Épargne"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/jai-bien-peur-du-cauchemar-sebastien-lecornu-pointe-le-contre-budget-du-rn-et-denonce-leffort-de-184-milliards-deuros-en-203",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://actu.orange.fr/politique/lecornu-fustige-le-quot-cauchemar-quot-du-contre-budget-du-rn-notamment-pour-les-collectivites-CNT000002sOqtq.html",
+      "nom": "Orange, avec AFP"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-fustige-le-cauchemar-du-contre-budget-du-rn-notamment-pour-les-collectivites-5435748fb930b8d5e02786390bb6d32d",
+      "nom": "Boursorama, dépêche AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Edwige Diaz",
+      "contexte": "présidente du groupe RN/UDR au Sénat",
+      "texte": "« Vous parlez de chiffres qui n'existent pas, vous déformez notre programme »",
+      "url": "https://actu.orange.fr/politique/lecornu-fustige-le-quot-cauchemar-quot-du-contre-budget-du-rn-notamment-pour-les-collectivites-CNT000002sOqtq.html",
+      "source": "Orange, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "candidat à la présidentielle",
+      "texte": "« Si vous nous jugez d'après les critères du néolibéralisme, nos projets sont inacceptables. »",
+      "url": "https://lcp.fr/actualites/contre-budget-lfi-propose-1064-milliards-d-euros-de-recettes-supplementaires-et-817",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "ÉQUIPE PHILIPPE",
+      "qui": "Équipe d'Édouard Philippe",
+      "contexte": "communiqué",
+      "texte": "Un « matraquage fiscal inédit »",
+      "url": "https://lcp.fr/actualites/contre-budget-lfi-propose-1064-milliards-d-euros-de-recettes-supplementaires-et-817",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« j'ai bien peur quand même du cauchemar. Il est temps de se réveiller »",
+      "url": "https://actu.orange.fr/politique/lecornu-fustige-le-quot-cauchemar-quot-du-contre-budget-du-rn-notamment-pour-les-collectivites-CNT000002sOqtq.html",
+      "source": "Orange, avec AFP"
+     }
+    ],
+    "apres": "Le budget de l'État pour 2027 se discute à l'Assemblée, où les députés examinent les amendements ; le gouvernement vise un déficit de 5 % du PIB en 2027.",
+    "change": "Ces deux textes sont des programmes de campagne, pas des lois : ils servent à comparer des choix budgétaires à sept mois de la présidentielle.",
+    "credit": {
+     "auteur": "Rivdumat",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Groupe_France_Insoumise_%C3%A0_l%27Assembl%C3%A9e_Nationale_2017.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "15",
+    "mois": "OCT.",
+    "texte": "Assemblée : suite de l'examen de la partie recettes du budget 2027, dont le rabot de l'abattement fiscal des retraités (matin, selon LCP)."
+   },
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Assemblée : fin attendue du débat sur la partie recettes du budget (lundi, selon LCP)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : examen du projet de loi « casseur-payeur », selon Public Sénat (information d'une seule source, à confirmer)."
+   },
+   {
+    "jour": "29",
+    "mois": "NOV.",
+    "texte": "Espagne : élections législatives anticipées, selon l'AFP."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Affection de longue durée (ALD)",
+    "definition": "Maladie grave ou chronique reconnue, qui ouvre droit à une prise en charge à 100 % des soins par l'Assurance maladie."
+   },
+   {
+    "terme": "Contre-budget",
+    "definition": "Alternative chiffrée au budget du gouvernement, proposée par un parti ou un candidat, sans valeur légale."
+   },
+   {
+    "terme": "Questions au gouvernement",
+    "definition": "Séance hebdomadaire où parlementaires interrogent le gouvernement, qui répond en direct."
+   },
+   {
+    "terme": "LBD",
+    "definition": "Lanceur de balles de défense : arme à projectiles des forces de l'ordre, classée parmi les armes dites intermédiaires."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Les indemnités versées aux personnes en affection de longue durée (ALD) sont aujourd'hui totalement exonérées d'impôt sur le revenu.",
+   "reponse": true,
+   "explication": "Vrai : selon LCP, ces indemnités sont aujourd'hui totalement exonérées. Le gouvernement voulait les rendre imposables en partie, mais les députés ont rejeté cette mesure dans la nuit du 14 au 15 octobre."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-14",
   "minutes": 9,
   "sujets": [

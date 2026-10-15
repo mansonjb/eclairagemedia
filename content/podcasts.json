@@ -1,5 +1,202 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-15",
+  "url": "/podcasts/politique-2026-10-15.mp3",
+  "taille": 2922206,
+  "duree": 243,
+  "titre": "Éclairage politique, jeudi 15 octobre 2026",
+  "titre_episode": "Arrêts maladie, lycéens au Sénat et contre-budgets : l'essentiel du jeudi 15 octobre",
+  "description": "Ce jeudi 15 octobre, Léa et Paul reprennent 3 sujets.\n• Budget 2027 : les députés rejettent la taxation des indemnités d'arrêt maladie (ALD, accidents du travail) ; le vote n'est pas définitif.\n• Lycéens : au Sénat, Sébastien Lecornu cite 1 334 blessés depuis le début du mouvement ; les écologistes demandent l'interdiction des LBD.\n• Contre-budgets : LFI chiffre le sien ; Lecornu critique celui du RN sur les collectivités.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : les députés rejettent la taxation des arrêts maladie"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Lycéens : au Sénat, Lecornu cite 1 334 blessés depuis le début du mouvement"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Contre-budgets : LFI chiffre le sien, Lecornu critique celui du RN"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Éclairage politique, l'édition du jeudi 15 octobre. Moi, c'est Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, c'est Paul. Aujourd'hui, trois sujets France : les arrêts maladie dans le budget, les lycéens au Sénat, et les contre-budgets."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence dans la nuit de mercredi à jeudi, à l'Assemblée. Paul, qu'est-ce qui a été rejeté ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux mesures du budget 2027. D'abord, la taxation partielle des indemnités des personnes en affection de longue durée. Ensuite, la taxation totale des indemnités d'accident du travail."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Affection de longue durée, ça veut dire quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est une maladie grave ou chronique reconnue, qui ouvre droit à une prise en charge à cent pour cent des soins. Aujourd'hui, ces indemnités sont totalement exonérées d'impôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les accidents du travail ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elles sont exonérées à hauteur de cinquante pour cent. Le gouvernement voulait aligner leur fiscalité sur celle des revenus d'activité, pour un gain d'environ un milliard d'euros, selon LCP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment le ministre des Comptes publics justifie-t-il ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "David Amiel parle d'une explosion des arrêts de travail. Selon lui, les indemnités journalières atteindraient bientôt vingt milliards d'euros, contre douze en deux mille dix-neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et à gauche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les députés socialistes et insoumis ont vivement critiqué la mesure. Et le vote a été massif, selon LCP, sans décompte des voix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quels arguments à gauche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La députée insoumise Marianne Maximi reproche au gouvernement de s'en prendre aux personnes les plus fragiles. La socialiste Estelle Mercier souligne que le budget réduit de trente pour cent la surtaxe sur les bénéfices des grandes entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc c'est fini ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Le même dispositif avait déjà été supprimé en commission le sept octobre, mais seule la version finale du budget comptera. Le texte doit encore passer par le Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : les députés ont écarté cette taxation, mais le vote n'est pas définitif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Au Sénat, mercredi, les questions au gouvernement ont tourné autour du mouvement lycéen."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La présidente du groupe écologiste, Mélanie Vogel, a demandé l'interdiction définitive des lanceurs de balles de défense et des grenades."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que répond le Premier ministre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sébastien Lecornu lui reproche de ne condamner aucune violence. Il a donné un bilan : mille trois cent trente-quatre blessés depuis le début du mouvement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mille trois cent trente-quatre ? Qui sont-ils ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Neuf cent trente-sept policiers et gendarmes, cent quarante-neuf personnels de l'Éducation nationale et deux cent quarante-huit élèves. Ce sont les chiffres du Premier ministre, pas vérifiés de façon indépendante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi le cas d'un lycéen de Lens."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un garçon de quinze ans, qui a perdu une main le cinq octobre. Les circonstances font l'objet d'investigations, et son avocat annonce une plainte avec constitution de partie civile."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Aucune interdiction n'a été annoncée à ce stade. C'est la phrase à retenir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Troisième sujet : deux contre-budgets le même jour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'abord celui de La France insoumise, présenté par Jean-Luc Mélenchon. Cent six virgule quatre milliards d'euros de recettes nouvelles, quatre-vingt-un virgule sept milliards de dépenses nouvelles, selon LFI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, il faut préciser : un contre-budget, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une alternative chiffrée au budget du gouvernement. Elle n'a aucune valeur légale : seul le Parlement vote la loi de finances."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'autre contre-budget ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Celui du Rassemblement national, présenté le six octobre. Au Sénat, Sébastien Lecornu l'a critiqué, notamment sur l'effort demandé aux collectivités."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quels chiffres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'après le dossier de presse du RN, huit virgule deux milliards d'euros en deux mille vingt-sept, puis dix-huit virgule quatre milliards en deux mille trente et un. Le gouvernement prévoit cinq virgule cinq milliards en deux mille vingt-sept, selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la réponse du RN ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La sénatrice Edwige Diaz conteste ces chiffres. Public Sénat note pourtant qu'ils figurent dans le dossier de presse du RN."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que dit le Premier ministre de ce contre-budget ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a déclaré, je cite : « j'ai bien peur quand même du cauchemar. Il est temps de se réveiller »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté de Jean-Luc Mélenchon ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il affirme que, si on juge ses projets d'après les critères du néolibéralisme, ils sont inacceptables. C'est une paraphrase, pas une citation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce sont des programmes de campagne, pas des lois : ils servent à comparer des choix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-14",
   "url": "/podcasts/essentiel-2026-10-14.mp3",
