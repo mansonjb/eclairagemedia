@@ -1,5 +1,217 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-16",
+  "url": "/podcasts/politique-2026-10-16.mp3",
+  "taille": 3076433,
+  "duree": 256,
+  "titre": "Éclairage politique, vendredi 16 octobre 2026",
+  "titre_episode": "Retraités et contribution à l'UE : l'essentiel du vendredi 16 octobre",
+  "description": "Ce vendredi 16 octobre, Léa et Paul reprennent 2 sujets.\n• Retraités : les députés rejettent la baisse de l'abattement fiscal de 10 % (116 voix contre 30) ; au Sénat, le gouvernement défend la limitation de l'indexation des pensions.\n• Budget de l'UE : l'Assemblée adopte la contribution française de 30,9 Md€ pour 2027, par 111 voix contre 93.\nPuis trois brèves : crédit d'impôt des familles monoparentales, génération sans tabac en commission, sommet européen.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Retraités : les députés rejettent la baisse de l'abattement fiscal de 10 %"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget de l'UE : l'Assemblée adopte la contribution française de 30,9 Md€"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Éclairage politique, l'édition du vendredi 16 octobre. Moi, c'est Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, c'est Paul. Au programme, deux sujets : les retraités dans le budget, puis la contribution de la France à l'Europe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cent seize voix contre trente. Voilà le score d'un vote d'hier à l'Assemblée. Paul, c'était sur quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur l'abattement fiscal de dix pour cent dont bénéficient les retraités. En clair, une réduction du revenu imposable égale à dix pour cent de la pension, dans la limite d'un plafond."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement voulait toucher à ce plafond."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le ramener de quatre mille quatre cent trente-neuf euros à trois mille euros. Gain attendu : un milliard quatre cents millions d'euros, selon LCP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça concernait beaucoup de monde ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre millions six cent mille foyers, toujours selon LCP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et les députés ont dit non."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Largement. Seuls les députés du camp présidentiel ont voté contre les amendements de suppression. La commission des finances avait déjà supprimé la mesure le sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qu'on a entendu dans l'hémicycle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Kévin Mauvieux, du Rassemblement national, a lancé : « Arrêtons de tondre les Français ». Le communiste Nicolas Sansu a jugé inadmissible de vouloir « opposer les générations entre elles »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre des Comptes publics, David Amiel, a répondu : « C'est un coup de poignard contre la jeunesse ». Il rappelle que les retraités représentent environ vingt-cinq pour cent de la population, et que l'effort demandé en représente dix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Guillaume Kasbarian, lui, a dénoncé « l'électoralisme primaire » de ses opposants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Chacun défend sa lecture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais attention : ce n'est pas fini, n'est-ce pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Ce vote en séance ne vaut pas décision finale. C'est la version définitive du budget qui tranchera, après le Sénat et une commission mixte paritaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a un deuxième volet pour les retraités."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, dans le budget de la Sécurité sociale. Devant la commission des affaires sociales du Sénat, le ministre du Travail Jean-Pierre Farandou a défendu l'idée de n'indexer sur l'inflation que les pensions jusqu'à mille deux cent soixante euros environ."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Indexer, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Revaloriser chaque année les pensions en fonction de l'inflation. Au-delà du seuil, elles seraient revalorisées moins, voire gelées. Économie visée : environ quatre milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le seuil est discuté, d'ailleurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Selon les sources, mille deux cent soixante ou mille deux cent quatre-vingts euros. L'effort total demandé aux retraités, lui, est de cinq virgule quatre à cinq virgule cinq milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : deux textes, deux leviers, et rien n'est tranché."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Les seuils seront discutés pendant le débat parlementaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. On file à Bruxelles, ou plutôt, on reste à l'Assemblée, mais pour parler d'Europe."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi soir, les députés ont adopté la contribution de la France au budget de l'Union européenne : trente virgule neuf milliards d'euros pour deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trente virgule neuf. C'était combien avant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vingt-huit virgule huit milliards en deux mille vingt-six, vingt-trois en deux mille vingt-cinq, et vingt et un virgule six en deux mille vingt-quatre, selon LCP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, ça monte vite. Et le vote ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cent onze voix pour, quatre-vingt-treize contre. Le Rassemblement national, l'UDR, La France insoumise et la Gauche démocrate et républicaine ont voté contre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le RN avait un amendement, je crois."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui : réduire la contribution de onze milliards d'euros, pour plafonner la contribution nette à cinq milliards. Rejeté, comme plusieurs amendements de LFI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que répond le gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre délégué à l'Europe, Benjamin Haddad, rappelle que la France est « contributrice nette », c'est-à-dire qu'elle donne plus qu'elle ne reçoit. Mais aussi première bénéficiaire en volume des aides agricoles, régionales et aux entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi voter cette somme, si de toute façon elle est due ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne question. Le rapporteur général Philippe Juvin l'a dit : supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le vote fixe le montant, mais l'obligation existe déjà."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. Et en parallèle, les Vingt-Sept négocient le budget européen pour deux mille vingt-huit à deux mille trente-quatre. La Commission propose deux mille milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour adopter ce budget ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il faut l'unanimité des vingt-sept pays. Un seul peut bloquer, d'où des négociations longues. L'objectif est un accord d'ici la fin de l'année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "En bref, trois autres nouvelles. D'abord, un amendement adopté à l'Assemblée porte de cinquante à quatre-vingts pour cent le crédit d'impôt pour services à la personne des familles monoparentales."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ensuite, en commission, un amendement écologiste pour interdire dès deux mille vingt-sept la vente de tabac aux personnes nées à partir de deux mille neuf. Il n'est pas définitif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et enfin, le sommet européen se poursuit aujourd'hui à Bruxelles : Ukraine, défense, Moyen-Orient. Les conclusions ne sont pas encore connues."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-15",
   "url": "/podcasts/essentiel-2026-10-15.mp3",

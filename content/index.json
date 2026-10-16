@@ -1,6 +1,988 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-16",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH",
+    "titre": "TSMC : bénéfice net record de 763 Md NT$ au troisième trimestre",
+    "court": "TSMC : un bénéfice net record",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TSMC_fabs_in_Hsinchu_01.jpg/1280px-TSMC_fabs_in_Hsinchu_01.jpg",
+    "legende": "Bâtiment de fabrication TSMC à Hsinchu, Taïwan",
+    "chapeau": "Jeudi 15 octobre, TSMC, le premier fabricant mondial de puces sous contrat, a publié ses comptes du troisième trimestre (juillet à septembre). Son bénéfice net atteint 763,06 milliards de dollars taïwanais (NT$), soit environ 23,6 milliards de dollars américains, en hausse de 68,7 % sur un an.",
+    "eclairage": "Comment TSMC gagne-t-elle autant d'argent ?",
+    "chiffres": [
+     {
+      "valeur": "+69 %",
+      "legende": "bénéfice net sur un an (763 Md NT$)"
+     },
+     {
+      "valeur": "+51 %",
+      "legende": "chiffre d'affaires (1 494 Md NT$)"
+     },
+     {
+      "valeur": "66,4 %",
+      "legende": "marge brute du trimestre"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, TSMC, le premier fabricant mondial de puces sous contrat, a publié ses comptes du troisième trimestre (juillet à septembre). Son bénéfice net atteint 763,06 milliards de dollars taïwanais (NT$), soit environ 23,6 milliards de dollars américains, en hausse de 68,7 % sur un an. C'est un record, le sixième d'affilée, au-dessus du précédent de 706,6 milliards NT$ au deuxième trimestre. Les analystes attendaient 746,3 milliards NT$ selon l'estimation LSEG citée par Reuters (739,5 milliards selon Yahoo Finance). Le chiffre d'affaires s'élève à 1 494,24 milliards NT$ (46,72 milliards de dollars), en hausse de 50,9 % en devise locale et de 41,2 % en dollars. La marge brute est de 66,4 %, la marge opérationnelle de 58,7 %. Pour le quatrième trimestre, l'entreprise prévoit un chiffre d'affaires de 52,3 à 54,3 milliards de dollars.",
+    "points": [
+     "TSMC fabrique, elle ne conçoit pas. Des entreprises comme Nvidia ou Apple dessinent leurs puces, puis paient TSMC pour les graver dans des usines appelées « fonderies ».",
+     "Plus la gravure est fine, plus elle est chère. Elle se mesure en nanomètres (nm). Les procédés de 7 nm et moins représentent 79 % des ventes de plaquettes de silicium, dont 8 % pour le 2 nm, le plus récent (TSMC).",
+     "La marge nette dit ce qui reste. Avec 51,1 % de marge nette, il reste environ 51 de bénéfice pour 100 de ventes, après tous les coûts et impôts."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "nom": "TSMC (communiqué, SEC)"
+     },
+     {
+      "url": "https://whtc.com/2026/10/15/tsmc-q3-profit-jumps-69-to-record-beating-expectations/",
+      "nom": "Reuters via WHTC"
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-chip-giant-tsmc-says-064316012.html",
+      "nom": "Yahoo Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Wendell Huang",
+      "contexte": "directeur financier de TSMC",
+      "texte": "Il attribue le trimestre à une forte demande pour les procédés de pointe et attend la même dynamique au quatrième trimestre, avec la montée en puissance rapide du 2 nm.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "source": "TSMC (SEC)"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Consensus LSEG",
+      "contexte": "estimation citée par Reuters",
+      "texte": "Le bénéfice a dépassé l'estimation de 746,3 milliards NT$, établie à partir des analystes les plus fiables du panel.",
+      "url": "https://whtc.com/2026/10/15/tsmc-q3-profit-jumps-69-to-record-beating-expectations/",
+      "source": "Reuters via WHTC"
+     }
+    ],
+    "apres": "Prochain rendez-vous : le chiffre d'affaires du quatrième trimestre, que TSMC situe entre 52,3 et 54,3 milliards de dollars (TSMC).",
+    "change": "Pour les clients de TSMC (Nvidia, Apple), la capacité de production du fondeur reste décisive pour livrer leurs puces. Pour le secteur, la demande de puces avancées liée à l'IA ne ralentit pas à ce stade, selon Reuters.",
+    "credit": {
+     "auteur": "Hung Yi / FEBY Studio",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ENTREPRISES",
+    "titre": "Pernod Ricard : ventes en baisse de 0,9 % au premier trimestre",
+    "court": "Pernod Ricard : ventes en repli de 0,9 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Absolut_Vodka_02.jpg/1280px-Absolut_Vodka_02.jpg",
+    "legende": "Bouteille de vodka Absolut, marque de Pernod Ricard (illustration)",
+    "chapeau": "Jeudi 15 octobre, Pernod Ricard a publié ses ventes du premier trimestre de son exercice 2026-2027 (juillet à septembre). Elles s'élèvent à 2 234 millions d'euros, soit -0,9 % à périmètre et change constants (dit « organique ») et -6,3 % en données publiées, après la cession de marques et l'effet des monnaies.",
+    "eclairage": "Pourquoi les ventes baissent-elles alors que les volumes montent ?",
+    "chiffres": [
+     {
+      "valeur": "-0,9 %",
+      "legende": "ventes organiques (2 234 M€ publiés)"
+     },
+     {
+      "valeur": "-10 %",
+      "legende": "ventes aux États-Unis"
+     },
+     {
+      "valeur": "+19 %",
+      "legende": "ventes en Inde"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, Pernod Ricard a publié ses ventes du premier trimestre de son exercice 2026-2027 (juillet à septembre). Elles s'élèvent à 2 234 millions d'euros, soit -0,9 % à périmètre et change constants (dit « organique ») et -6,3 % en données publiées, après la cession de marques et l'effet des monnaies. Les analystes interrogés par le groupe attendaient -1,7 %. Les ventes reculent de 10 % aux États-Unis et de 25 % en Chine, où le groupe parle d'ajustements de stocks chez les distributeurs, et progressent de 19 % en Inde. Hors États-Unis et Chine, elles croissent de 4 %. Les volumes augmentent de 6 %. Le groupe maintient sa prévision de ventes globalement stables sur l'exercice et la préparation d'une éventuelle introduction en Bourse en Inde, soumise à l'accord du conseil d'administration.",
+    "points": [
+     "Les ventes organiques retirent l'effet des monnaies et des marques vendues ou achetées, pour comparer ce qui est comparable.",
+     "Le déstockage : les distributeurs achètent au groupe, puis revendent aux clients. Quand ils réduisent leurs réserves, ils commandent moins que ce qui se vend en magasin, et le chiffre du groupe baisse même si la consommation tient.",
+     "Les ventes publiées intègrent aussi les cessions (ici Imperial Blue et des vins, -127 M€) et le change (-3 M€), d'où l'écart entre -0,9 % et -6,3 %."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.pernod-ricard.com/en/media/q1-fy27-sales",
+      "nom": "Pernod Ricard (communiqué)"
+     },
+     {
+      "url": "https://live.euronext.com/en/financial-news/pernod-ricard-first-quarter-sales-fall-less-expected-cautious-optimism-china",
+      "nom": "Reuters via Euronext"
+     },
+     {
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pernod-ricard-reports-first-quarter-sales-pernod-ricard-stock-gains-3-19-percent/70326472",
+      "nom": "Ad-hoc-news"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Mauve Croizat",
+      "contexte": "directrice financière de Pernod Ricard",
+      "texte": "Elle a dit aux analystes que les ajustements de stocks en Chine et aux États-Unis devraient se poursuivre toute l'année, et que les consommateurs chinois se tournent vers des occasions plus privées que la consommation hors domicile.",
+      "url": "https://live.euronext.com/en/financial-news/pernod-ricard-first-quarter-sales-fall-less-expected-cautious-optimism-china",
+      "source": "Reuters via Euronext"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Panel compilé par Pernod Ricard",
+      "contexte": "estimations avant publication",
+      "texte": "Le consensus table sur un recul organique de 1,7 %, contre -0,9 % publié.",
+      "url": "https://live.euronext.com/en/financial-news/pernod-ricard-first-quarter-sales-fall-less-expected-cautious-optimism-china",
+      "source": "Reuters via Euronext"
+     }
+    ],
+    "apres": "Le groupe observe la fête chinoise de la mi-automne. La décision sur une introduction en Bourse en Inde dépend du conseil d'administration ; si elle est prise, elle prendrait encore quelques mois (Reuters).",
+    "change": "Pour le groupe, la baisse vient surtout de deux marchés (États-Unis, Chine) alors que l'Inde et le reste du monde progressent. Le titre a gagné environ 3 % jeudi matin selon Reuters (fait daté, pas un conseil).",
+    "credit": {
+     "auteur": "Indrajit Das",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Absolut_Vodka_02.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Lagardère : 7,07 Md€ de ventes sur neuf mois, en hausse de 2,6 %",
+    "court": "Lagardère : +2,6 % sur neuf mois",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gare_de_Lyon-Perrache,_boutique_Relay.jpg/1280px-Gare_de_Lyon-Perrache,_boutique_Relay.jpg",
+    "legende": "Boutique Relay en gare de Lyon-Perrache (illustration)",
+    "chapeau": "Jeudi 15 octobre, après la clôture de la Bourse, Lagardère a publié son chiffre d'affaires du troisième trimestre. Il atteint 2 633 millions d'euros, soit +3,3 % en données publiées et +2,4 % à périmètre comparable, après +1,8 % au deuxième trimestre.",
+    "eclairage": "Que veut dire « à périmètre comparable » ?",
+    "chiffres": [
+     {
+      "valeur": "+2,6 %",
+      "legende": "ventes sur 9 mois (7 069 M€, comparable)"
+     },
+     {
+      "valeur": "+3,3 %",
+      "legende": "Travel Retail au 3e trimestre"
+     },
+     {
+      "valeur": "+0,9 %",
+      "legende": "Publishing au 3e trimestre"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, après la clôture de la Bourse, Lagardère a publié son chiffre d'affaires du troisième trimestre. Il atteint 2 633 millions d'euros, soit +3,3 % en données publiées et +2,4 % à périmètre comparable, après +1,8 % au deuxième trimestre. Sur neuf mois, les ventes s'élèvent à 7 069 millions d'euros (+2,5 % publiés, +2,6 % comparables). Lagardère Travel Retail, premier pôle (boutiques de gares et d'aéroports comme Relay), réalise 1,76 milliard d'euros au trimestre (+3,3 % comparable), avec un recul de 22 % en Asie-Pacifique. Lagardère Publishing (dont Hachette Livre) affiche 836 millions d'euros (+0,9 % comparable), avec un repli de 4 % en France. Lagardère Live, qui regroupe les médias dont Europe 1 et le JDD, est à 41 millions d'euros (-3,2 % comparable) sur fond de marché publicitaire radio difficile.",
+    "points": [
+     "Les données publiées comptent tout ce qui est entré dans le groupe, y compris les rachats récents et les effets de change.",
+     "Les données comparables retirent ces effets pour mesurer la croissance « propre » de l'activité : ici +2,4 % au lieu de +3,3 % au troisième trimestre.",
+     "Un groupe à trois métiers : voyager (boutiques de transport), lire (édition) et sortir (médias, salles, événements). Chacun dépend d'un moteur différent : le trafic, les livres vendus, la publicité."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.webdisclosure.fr/press-release/lagardere-epa-mmb-chiffre-daffaires-du-troisieme-trimestre-2026-SPCNJFIRIgH",
+      "nom": "Lagardère (communiqué)"
+     },
+     {
+      "url": "https://www.finanzwire.fr/article/lagardere-epa-mmb-lagardere-annonce-une-croissance-continue-au-t3-2026-YAg2R7dTrHo",
+      "nom": "FinanzWire"
+     },
+     {
+      "url": "https://www.cbnews.fr/medias/lagardere-26-ca-neuf-mois-malgre-recul-publicitaire-ses-medias",
+      "nom": "CB News"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Arnaud Lagardère",
+      "contexte": "président-directeur général",
+      "texte": "Il évoque une accélération de la croissance à +2,4 % dans un contexte géopolitique et macroéconomique difficile, un chiffre d'affaires record pour Travel Retail pendant l'été malgré un trafic aérien moins dynamique, et une activité globalement stable pour Lagardère Live.",
+      "url": "https://www.webdisclosure.fr/press-release/lagardere-epa-mmb-chiffre-daffaires-du-troisieme-trimestre-2026-SPCNJFIRIgH",
+      "source": "Lagardère (communiqué)"
+     }
+    ],
+    "apres": "Le groupe publiera ensuite ses résultats annuels ; la date n'était pas précisée dans les sources consultées.",
+    "change": "Pour Travel Retail, la croissance repose sur l'Europe et l'Amérique du Nord alors que l'Asie du Nord recule de 59 % avec la réduction du réseau en Chine (CB News). Pour l'édition, le marché français est en retrait (guides touristiques, BD et manga).",
+    "credit": {
+     "auteur": "TCY",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Gare_de_Lyon-Perrache,_boutique_Relay.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Marge nette",
+    "definition": "La part des ventes qui reste en bénéfice, après tous les coûts, intérêts et impôts. À 51,1 %, TSMC garde environ 51 pour 100 de ventes."
+   },
+   {
+    "terme": "Croissance organique",
+    "definition": "La variation des ventes sans l'effet des monnaies ni des marques achetées ou vendues. Elle sert à comparer deux périodes à périmètre égal."
+   },
+   {
+    "terme": "Déstockage",
+    "definition": "Quand un distributeur réduit ses réserves et commande moins à son fournisseur que ce qu'il vend à ses clients."
+   },
+   {
+    "terme": "Fonderie (de puces)",
+    "definition": "Une usine qui fabrique les puces conçues par d'autres entreprises. TSMC est la première au monde."
+   }
+  ],
+  "quiz": {
+   "affirmation": "TSMC a vu son bénéfice net reculer au troisième trimestre 2026 par rapport à un an plus tôt.",
+   "reponse": false,
+   "explication": "Faux : le bénéfice net a augmenté de 68,7 % sur un an, à 763,06 milliards de dollars taïwanais, un record pour le sixième trimestre de suite."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-16",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Retraités : les députés rejettent la baisse de l'abattement fiscal de 10 %",
+    "court": "Retraités : l'abattement de 10 % maintenu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Old_couple_walking.jpg/1280px-Old_couple_walking.jpg",
+    "legende": "Un couple de personnes âgées marchant dans un parc (illustration)",
+    "chapeau": "Jeudi 15 octobre, en examinant la première partie du projet de loi de finances (PLF) pour 2027, l'Assemblée nationale s'est opposée, par 116 voix contre 30 selon LCP, à la baisse du plafond de l'abattement fiscal de 10 % dont bénéficient les retraités.",
+    "eclairage": "Deux textes, deux leviers",
+    "chiffres": [
+     {
+      "valeur": "1,4",
+      "legende": "Md€ de gain attendu de la mesure rejetée"
+     },
+     {
+      "valeur": "3 000",
+      "legende": "€ de plafond proposé (4 439 € aujourd'hui)"
+     },
+     {
+      "valeur": "~5,5",
+      "legende": "Md€ d'effort sur les retraités (5,4 à 5,5)"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, en examinant la première partie du projet de loi de finances (PLF) pour 2027, l'Assemblée nationale s'est opposée, par 116 voix contre 30 selon LCP, à la baisse du plafond de l'abattement fiscal de 10 % dont bénéficient les retraités. Le gouvernement voulait ramener ce plafond de 4 439 € à 3 000 €, pour un gain de 1,4 milliard d'euros, avec 4,6 millions de foyers concernés selon LCP. Seuls les députés du camp présidentiel ont voté contre les amendements de suppression ; la commission des finances avait déjà supprimé la mesure le 7 octobre. Le même jour, devant la commission des affaires sociales du Sénat, le ministre du Travail Jean-Pierre Farandou a défendu l'autre volet de l'effort demandé aux retraités, dans le projet de loi de financement de la Sécurité sociale (PLFSS) : n'indexer sur l'inflation que les pensions jusqu'à 1 260 € environ, pour environ 4 milliards d'euros d'économies. Le seuil est donné à 1 260 € ou à 1 280 € selon les sources, et l'effort total demandé aux retraités à 5,4 ou 5,5 milliards d'euros.",
+    "points": [],
+    "explication": "L'abattement de 10 % réduit le revenu imposable des retraités d'un dixième de leur pension, dans la limite d'un plafond ; il relève du budget de l'État (PLF), voté à l'Assemblée. L'indexation est la revalorisation annuelle des pensions sur l'inflation ; la limiter relève du budget de la Sécurité sociale (PLFSS), examiné au Sénat. Le vote des députés en séance ne vaut pas décision finale : selon LCP, c'est la version finale du budget qui tranchera, après le Sénat et une commission mixte paritaire.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-la-reduction-de-l-abattement-fiscal-de-10-sur-les",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/vous-aurez-honte-guillaume-kasbarian-denonce-le-maintien-de-l-avantage-fiscal-des",
+      "nom": "LCP (débat en séance)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/desindexation-des-retraites-au-dela-de-1260-euros-il-faut-que-tout-le-monde-contribue-insiste-le-ministre-jean-pierre-farandou",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/gel-des-retraites-au-dela-de-1280-euros-un-effort-necessaire-pour-ne-pas-creer-de-fracture-generationnelle-justifie-le-ministre-david-amiel",
+      "nom": "Public Sénat (David Amiel)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-desindexation-et-abattement-ce-que-prevoit-le-gouvernement-pour-les-retraites",
+      "nom": "LCP (ce que prévoit le gouvernement)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr (dossier PLF 2027)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Kévin Mauvieux",
+      "contexte": "député",
+      "texte": "« Arrêtons de tondre les Français »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-la-reduction-de-l-abattement-fiscal-de-10-sur-les",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Nicolas Sansu",
+      "contexte": "député",
+      "texte": "Il juge inadmissible que le gouvernement veuille « opposer les générations entre elles »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-la-reduction-de-l-abattement-fiscal-de-10-sur-les",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "David Amiel",
+      "contexte": "ministre des Comptes publics",
+      "texte": "« C'est un coup de poignard contre la jeunesse »",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-la-reduction-de-l-abattement-fiscal-de-10-sur-les",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Guillaume Kasbarian",
+      "contexte": "député Ensemble pour la République",
+      "texte": "Il dénonce « l'électoralisme primaire » de ceux qui maintiennent l'abattement",
+      "url": "https://lcp.fr/actualites/vous-aurez-honte-guillaume-kasbarian-denonce-le-maintien-de-l-avantage-fiscal-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Monique Lubin",
+      "contexte": "sénatrice",
+      "texte": "« En dessous de 2 000 euros, quand on est tout seul, qu'on a un loyer à payer, et ainsi de suite, on n'est pas un retraité aisé »",
+      "url": "https://www.publicsenat.fr/actualites/politique/desindexation-des-retraites-au-dela-de-1260-euros-il-faut-que-tout-le-monde-contribue-insiste-le-ministre-jean-pierre-farandou",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Marie-Do Aeschlimann",
+      "contexte": "sénatrice, rapporteure de la branche vieillesse",
+      "texte": "« Pour accepter l'effort, il faut comprendre l'effort »",
+      "url": "https://www.publicsenat.fr/actualites/politique/desindexation-des-retraites-au-dela-de-1260-euros-il-faut-que-tout-le-monde-contribue-insiste-le-ministre-jean-pierre-farandou",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Le Sénat et l'Assemblée doivent encore examiner les deux textes. Selon Public Sénat, les seuils et les coefficients de la désindexation seront discutés pendant le débat parlementaire et fixés par décret.",
+    "change": "À ce stade, le plafond de l'abattement reste à 4 439 € dans la version votée par l'Assemblée ; la limitation de l'indexation des pensions reste à examiner dans le PLFSS.",
+    "credit": {
+     "auteur": "Anish Anilkumar",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Old_couple_walking.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "EUROPE ET BUDGET",
+    "titre": "Budget de l'UE : l'Assemblée adopte la contribution française de 30,9 Md€",
+    "court": "Contribution à l'UE : 30,9 Md€ adoptés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/1280px-Euro_coins_and_banknotes.jpg",
+    "legende": "Pièces et billets en euros (illustration)",
+    "chapeau": "Mercredi 14 octobre au soir, l'Assemblée nationale a adopté l'article du projet de loi de finances pour 2027 qui fixe à 30,9 milliards d'euros la contribution de la France au budget de l'Union européenne, par 111 voix contre 93, selon LCP avec l'AFP.",
+    "eclairage": "Pourquoi le Parlement vote-t-il cette somme ?",
+    "chiffres": [
+     {
+      "valeur": "30,9",
+      "legende": "Md€ pour 2027 (28,8 en 2026)"
+     },
+     {
+      "valeur": "111/93",
+      "legende": "voix pour et contre à l'Assemblée"
+     },
+     {
+      "valeur": "2 000",
+      "legende": "Md€ proposés pour le budget UE 2028-2034"
+     }
+    ],
+    "passe": "Mercredi 14 octobre au soir, l'Assemblée nationale a adopté l'article du projet de loi de finances pour 2027 qui fixe à 30,9 milliards d'euros la contribution de la France au budget de l'Union européenne, par 111 voix contre 93, selon LCP avec l'AFP. Le Rassemblement national et son allié l'UDR, La France insoumise et la Gauche démocrate et républicaine ont voté contre. Un amendement du RN visant à réduire la contribution de 11 milliards d'euros, pour plafonner la contribution nette à 5 milliards, a été rejeté, ainsi que plusieurs amendements de LFI. Le ministre délégué à l'Europe, Benjamin Haddad, a rappelé que la France est « contributrice nette » mais première bénéficiaire en volume des aides agricoles, régionales et aux entreprises. Le rapporteur général Philippe Juvin a affirmé que supprimer l'article n'aurait aucun effet sur l'obligation juridique de payer. La contribution était de 21,6 milliards d'euros en 2024, 23 en 2025 et 28,8 en 2026, selon LCP. Le vote intervient alors que les Vingt-Sept négocient à Bruxelles le budget 2028-2034, que la Commission propose à 2 000 milliards d'euros.",
+    "points": [],
+    "explication": "Chaque année, le Parlement vote dans la loi de finances le montant que la France verse à l'Union européenne ; selon LCP, ces versements suivent le cadre financier pluriannuel 2021-2027 adopté en 2020. Selon Public Sénat, les principales ressources de l'UE sont les contributions des États (liées à leur richesse), une part de la TVA, les droits de douane et une taxe sur les déchets plastiques non recyclés. Le prochain cadre, pour 2028-2034, exige l'accord unanime des 27 : un seul pays peut bloquer, d'où des négociations longues, avec un objectif d'accord d'ici la fin de l'année.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-de-l-ue-malgre-l",
+      "nom": "LCP, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-qu-est-ce-que-la-contribution-francaise-au-budget-de-l-union-europeenne-qui",
+      "nom": "LCP (explications)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-comment-est-abonde-le-budget-et-que-finance-t-il",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "nom": "assemblee-nationale.fr (dossier PLF 2027)"
+     },
+     {
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/",
+      "nom": "Conseil européen (sommet des 15 et 16 octobre)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Benjamin Haddad",
+      "contexte": "ministre délégué chargé de l'Europe",
+      "texte": "La France est « contributrice nette », mais aussi première bénéficiaire en volume des subventions européennes",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-de-l-ue-malgre-l",
+      "source": "LCP, avec AFP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Philippe Juvin",
+      "contexte": "rapporteur général, Droite républicaine",
+      "texte": "Supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique »",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-de-l-ue-malgre-l",
+      "source": "LCP, avec AFP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate à la présidentielle",
+      "texte": "« Il n'y a pas de raison majeure qu'on accorde plus de 5 milliards d'euros de contributions nettes »",
+      "url": "https://lcp.fr/actualites/budget-2027-qu-est-ce-que-la-contribution-francaise-au-budget-de-l-union-europeenne-qui",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Aurélien Taché",
+      "contexte": "député, rapporteur pour avis",
+      "texte": "Il propose de faire baisser la facture de 5 milliards d'euros",
+      "url": "https://lcp.fr/actualites/budget-2027-qu-est-ce-que-la-contribution-francaise-au-budget-de-l-union-europeenne-qui",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Les chefs d'État et de gouvernement des Vingt-Sept poursuivent leur sommet à Bruxelles le 16 octobre, avec l'Ukraine, la défense et le Moyen-Orient à l'ordre du jour ; les conclusions n'étaient pas connues à l'heure de cette édition.",
+    "change": "La contribution de 30,9 milliards d'euros est inscrite dans la version du budget votée par l'Assemblée ; elle doit encore passer par les autres étapes du PLF.",
+    "credit": {
+     "auteur": "Avij",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "16",
+    "mois": "OCT.",
+    "texte": "Conseil européen à Bruxelles, deuxième jour : Ukraine, défense, Moyen-Orient, migrations (Conseil européen)."
+   },
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Assemblée : fin prévue de la discussion de la première partie du PLF 2027 (calendrier de l'Assemblée nationale)."
+   },
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "Assemblée : vote solennel sur la première partie du PLF 2027, après les questions au gouvernement, puis débat sur le PLFSS jusqu'au 26 octobre (calendrier de l'Assemblée nationale)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Abattement de 10 %",
+    "definition": "Réduction du revenu imposable des retraités égale à 10 % de leurs pensions, dans la limite d'un plafond."
+   },
+   {
+    "terme": "Indexation",
+    "definition": "Revalorisation annuelle des pensions en fonction de l'inflation."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Projet de loi de financement de la Sécurité sociale, qui fixe les recettes et dépenses de la Sécurité sociale."
+   },
+   {
+    "terme": "Cadre financier pluriannuel",
+    "definition": "Budget de l'Union européenne fixé pour sept ans ; le prochain couvre 2028-2034."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le projet de budget 2027 du gouvernement prévoit de supprimer totalement l'abattement fiscal de 10 % dont bénéficient les retraités.",
+   "reponse": false,
+   "explication": "Faux : selon LCP, le gouvernement veut réduire le plafond de cet abattement de 4 439 € à 3 000 €, sans le supprimer. Les députés ont rejeté cette baisse le 15 octobre, mais le vote n'est pas définitif."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-16",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Ebola au Kenya : un deuxième cas confirmé chez un proche du premier patient",
+    "court": "Ebola : un deuxième cas au Kenya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WHO_in_PPE.jpg/1280px-WHO_in_PPE.jpg",
+    "legende": "Agents de l'OMS en tenue de protection devant un ancien pavillon d'isolement Ebola, Lagos (illustration)",
+    "chapeau": "Le 14 octobre, le ministère kényan de la Santé a annoncé un deuxième cas confirmé d'Ebola, de souche Bundibugyo : un homme de 39 ans, proche du premier patient, qui était déjà en quarantaine quand des symptômes (fièvre, fatigue, douleurs articulaires) sont apparus le 13 octobre.",
+    "eclairage": "Pourquoi un cas en quarantaine est moins inquiétant qu'un cas inconnu",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "cas confirmés au Kenya"
+     },
+     {
+      "valeur": "113",
+      "legende": "contacts retrouvés sur 128"
+     },
+     {
+      "valeur": "9 235",
+      "legende": "cas confirmés au total (CDC, 15 oct.)"
+     }
+    ],
+    "passe": "Le 14 octobre, le ministère kényan de la Santé a annoncé un deuxième cas confirmé d'Ebola, de souche Bundibugyo : un homme de 39 ans, proche du premier patient, qui était déjà en quarantaine quand des symptômes (fièvre, fatigue, douleurs articulaires) sont apparus le 13 octobre. Il est pris en charge dans un centre de traitement. Le premier patient, un Kényan qui avait vécu en République démocratique du Congo (RDC), est mort à Nairobi le 5 octobre. Sur les 128 contacts identifiés autour de lui, 113 ont été retrouvés : 108 sont en quarantaine de 21 jours au Kenya et 5 se trouvent hors du pays, selon la presse kényane et CIDRAP. Les autorités ne voient pas de propagation plus large dans la population. Selon STAT, un responsable de l'OMS a indiqué le 14 octobre qu'il n'y avait pas de preuve d'une flambée au Kenya. Au 15 octobre, le CDC américain compte 9 235 cas confirmés et 4 444 décès depuis le début de l'épidémie en RDC, déclarée le 15 mai 2026.",
+    "points": [],
+    "explication": "Un cas confirmé est une personne dont le virus a été détecté en laboratoire. Ici, le malade faisait déjà partie des contacts suivis : il était isolé et surveillé quand les symptômes sont apparus, ce qui limite les occasions de transmettre le virus à d'autres. Les autorités qualifient les deux cas de liés entre eux. La quarantaine de 21 jours est la durée pendant laquelle les contacts du premier patient sont isolés avant d'être libérés s'ils restent négatifs. Côté vaccin, CIDRAP rapporte qu'une étude de chercheurs allemands (The Lancet Infectious Diseases) a mesuré, chez 13 des 20 personnes vaccinées avec Ervebo, des réactions de défense (lymphocytes T) dirigées contre le Bundibugyo, 28 jours après la vaccination. Ce signal biologique n'est pas une preuve de protection : il ne dit pas si le vaccin évite la maladie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.cidrap.umn.edu/ebola/second-ebola-patient-identified-kenya",
+      "nom": "CIDRAP (Université du Minnesota)"
+     },
+     {
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "nom": "CDC (autorité sanitaire américaine)"
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi",
+      "nom": "Al Jazeera"
+     },
+     {
+      "url": "https://peopledaily.digital/news/kenya-confirms-second-ebola-case-as-contact-tracing-continues",
+      "nom": "People Daily (Kenya)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Patrick Amoth",
+      "contexte": "directeur général de la Santé, Kenya",
+      "texte": "« the contacts will remain in isolation for 21 days and will be released if they test negative for the virus »",
+      "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi",
+      "source": "Al Jazeera"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "CDC",
+      "contexte": "tableau de situation",
+      "texte": "« This is a rapidly evolving situation, and case counts are subject to change »",
+      "url": "https://www.cdc.gov/ebola/situation-summary/index.html",
+      "source": "CDC"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "OMS",
+      "contexte": "propos relayés par STAT, 14 octobre",
+      "texte": "Un responsable de l'OMS indique qu'il n'y a pas de preuve d'une flambée au Kenya malgré les deux cas.",
+      "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/",
+      "source": "STAT"
+     }
+    ],
+    "apres": "Les résultats des tests des contacts du second patient, la fin de la quarantaine de 21 jours des premiers contacts et l'évolution du nombre de cas en RDC, où l'épidémie est la deuxième plus importante jamais enregistrée selon le CDC.",
+    "change": "Pour les personnes au Kenya, le suivi des contacts et l'isolement restent la mesure centrale.",
+    "credit": {
+     "auteur": "CDC Global",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:WHO_in_PPE.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "NEUROSCIENCES",
+    "titre": "AVC : le loberamisal améliore la récupération à 90 jours dans un essai de phase 3",
+    "court": "AVC : loberamisal, essai de phase 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brain_CT_Scan_for_Stroke_Diagnosis.jpg/1280px-Brain_CT_Scan_for_Stroke_Diagnosis.jpg",
+    "legende": "Coupes de scanner cérébral pour le diagnostic d'un AVC (illustration)",
+    "chapeau": "Publié en ligne le 10 septembre dans JAMA (équipe de l'hôpital Tiantan de Pékin, premier auteur Shuya Li) et commenté en France depuis le 14 octobre, l'essai LAIS testait le loberamisal, une petite molécule qui agit sur deux cibles (la voie PSD-95 et le récepteur GABA-A α2), contre placebo.",
+    "eclairage": "Que veut dire « sans handicap significatif » ?",
+    "chiffres": [
+     {
+      "valeur": "998",
+      "legende": "patients inclus dans 32 hôpitaux"
+     },
+     {
+      "valeur": "69,7 %",
+      "legende": "sans handicap significatif à 90 jours (placebo : 56,3 %)"
+     },
+     {
+      "valeur": "1,24",
+      "legende": "risque relatif IC 95 % : 1,12 à 1,36"
+     }
+    ],
+    "passe": "Publié en ligne le 10 septembre dans JAMA (équipe de l'hôpital Tiantan de Pékin, premier auteur Shuya Li) et commenté en France depuis le 14 octobre, l'essai LAIS testait le loberamisal, une petite molécule qui agit sur deux cibles (la voie PSD-95 et le récepteur GABA-A α2), contre placebo. Il a inclus 998 adultes de 18 à 80 ans victimes d'un AVC ischémique (par caillot), pris en charge dans les 48 heures, entre juillet et décembre 2024. Chacun a reçu, en plus des soins habituels, 40 mg de loberamisal ou un placebo par voie intraveineuse une fois par jour pendant 10 jours. Au critère principal, un score de 0 ou 1 à l'échelle de Rankin modifiée à 90 jours, 69,7 % des patients du groupe loberamisal (350 sur 502) sont dans ce cas, contre 56,3 % sous placebo (279 sur 495), soit 13,3 points d'écart (IC 95 % : 7,2 à 19,3). Les effets indésirables sont aussi fréquents dans les deux groupes (87,8 % contre 88,7 %) ; les événements graves touchent 8,6 % contre 10,7 % des patients, et la mortalité 1,2 % contre 2,0 %. Le financeur n'est pas indiqué dans les sources consultées.",
+    "points": [],
+    "explication": "L'échelle de Rankin modifiée note l'autonomie après un AVC, de 0 (aucun symptôme) à 6 (décès). Un score de 0 ou 1 signifie l'absence de handicap significatif. Un neuroprotecteur est un médicament censé limiter les dégâts sur les cellules du cerveau pendant et après l'AVC. Un essai randomisé en double aveugle est le type d'essai le plus solide pour comparer un traitement à un placebo, car ni les patients ni les soignants ne savent qui reçoit quoi. Ses limites ici : un seul essai, mené uniquement en Chine, sans les patients traités par thrombectomie (retrait mécanique du caillot) et avec peu de cas très légers ou très sévères. Certains critères secondaires, comme l'amélioration précoce du score de gravité de l'AVC, n'ont pas montré de différence nette.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jama/article-abstract/2854043",
+      "nom": "JAMA (résumé de l'étude)"
+     },
+     {
+      "url": "https://doi.org/10.1001/jama.2026.16557",
+      "nom": "DOI de l'étude"
+     },
+     {
+      "url": "https://www.pharmazeutische-zeitung.de/loberamisal-foerdert-erholung-nach-schlaganfall-168252/",
+      "nom": "Pharmazeutische Zeitung"
+     },
+     {
+      "url": "https://medicaldialogues.in/neurology-neurosurgery/news/loberamisal-improves-functional-recovery-after-acute-ischemic-stroke-jama-179284",
+      "nom": "Medical Dialogues"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Équipe Tiantan",
+      "contexte": "Pékin, essai LAIS",
+      "texte": "« Further studies are needed to validate these findings »",
+      "url": "https://media.jamanetwork.com/media-releases/10.1001/jama.2026.16557",
+      "source": "JAMA (communiqué)"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Conclusion de l'article",
+      "contexte": "résumée par Medical Dialogues",
+      "texte": "« Overall, loberamisal improved functional recovery without an apparent increase in adverse events »",
+      "url": "https://medicaldialogues.in/neurology-neurosurgery/news/loberamisal-improves-functional-recovery-after-acute-ischemic-stroke-jama-179284",
+      "source": "Medical Dialogues"
+     }
+    ],
+    "apres": "Un essai de confirmation, idéalement hors de Chine et chez des patients plus variés, puis l'examen par les autorités du médicament avant toute autorisation. Les auteurs écrivent que d'autres études sont nécessaires.",
+    "change": "Rien pour l'instant : le loberamisal est un médicament expérimental, et aucune demande d'autorisation n'est mentionnée dans les sources consultées. La prise en charge d'un AVC reste celle des équipes spécialisées, à appeler sans attendre en cas de symptômes.",
+    "credit": {
+     "auteur": "Goleisureintl",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Brain_CT_Scan_for_Stroke_Diagnosis.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "MI",
+    "mois": "NOV.",
+    "texte": "Duloxétine : retour progressif à la normale dans les pharmacies, selon l'ANSM."
+   },
+   {
+    "jour": "21",
+    "mois": "JOURS",
+    "texte": "Ebola au Kenya : durée de la quarantaine des contacts du premier patient, libérés s'ils restent négatifs."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai de phase 3",
+    "definition": "Un essai à grande échelle qui compare un traitement à un placebo ou au traitement habituel, avant une demande d'autorisation."
+   },
+   {
+    "terme": "Double aveugle",
+    "definition": "Ni les patients ni les soignants ne savent qui reçoit le traitement et qui reçoit le placebo, pour éviter d'influencer les résultats."
+   },
+   {
+    "terme": "Échelle de Rankin modifiée",
+    "definition": "Une note de 0 à 6 qui mesure l'autonomie après un AVC : 0 ou 1 veut dire pas de handicap significatif."
+   },
+   {
+    "terme": "Cas confirmé",
+    "definition": "Une personne dont l'infection est démontrée par un test de laboratoire, à la différence d'un cas suspect."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai LAIS sur le loberamisal après un AVC, le médicament a été comparé à un placebo sans que les patients ni les soignants sachent qui recevait quoi.",
+   "reponse": true,
+   "explication": "L'essai de phase 3 était randomisé, en double aveugle et contrôlé par placebo, dans 32 hôpitaux chinois, avec 998 patients. Cela le rend plus solide qu'un essai en ouvert, même s'il doit encore être confirmé."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-16",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MODÈLES",
+    "titre": "Meta : un modèle à poids ouverts de 816 milliards de paramètres",
+    "court": "Meta : Muse Spark Open, poids ouverts",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Apple_Studio_Display_and_Mac_Studio_with_Peripherals.jpg/1280px-Apple_Studio_Display_and_Mac_Studio_with_Peripherals.jpg",
+    "legende": "Un Mac Studio, la machine citée par Meta (illustration)",
+    "chapeau": "Le 15 octobre, Meta a publié Muse Spark Open, un modèle d'intelligence artificielle dont les « poids » (les valeurs apprises, voir plus bas) sont téléchargeables.",
+    "eclairage": "Que veut dire « poids ouverts » ?",
+    "chiffres": [
+     {
+      "valeur": "816 Md",
+      "legende": "paramètres au total (42 Md actifs, selon Meta)"
+     },
+     {
+      "valeur": "1 M",
+      "legende": "jetons de contexte annoncés"
+     },
+     {
+      "valeur": "2",
+      "legende": "Mac Studio M5 Ultra pour le faire tourner"
+     }
+    ],
+    "passe": "Le 15 octobre, Meta a publié Muse Spark Open, un modèle d'intelligence artificielle dont les « poids » (les valeurs apprises, voir plus bas) sont téléchargeables. Selon Meta, il compte 816 milliards de paramètres au total, dont 42 milliards actifs, une fenêtre de contexte de 1 million de jetons et il traite plusieurs types de contenus (texte, images). Meta le présente comme « the most capable US open-weight model to date » (« le modèle américain à poids ouverts le plus performant à ce jour »). Il est accessible par plusieurs plateformes (Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter, Together AI) et téléchargeable chez Amazon SageMaker, Google Cloud, Hugging Face et Microsoft Foundry, sous une licence « Muse Model License » aux conditions commerciales limitées. Meta indique qu'il tourne sur deux Mac Studio équipés de la puce M5 Ultra ; Engadget et TechCrunch rapportent qu'il faut environ 1 To de mémoire. Chiffres divergents : Engadget parle de 800 milliards de paramètres, Meta de 816. Les performances sont celles annoncées par Meta (Engadget dit qu'elles dépassent les modèles chinois GLM 5.3 et Kimi K3 sur des tâches d'agents) ; aucune évaluation indépendante n'est citée.",
+    "points": [],
+    "explication": "Un modèle de langage est un très grand tableau de nombres, les paramètres ou poids, réglés pendant l'entraînement. Publier ces poids permet à d'autres de faire tourner le modèle chez eux, de l'étudier ou de l'adapter : c'est ce que désigne « poids ouverts » (open-weight). Ce n'est pas la même chose que l'open source, qui suppose aussi de publier le code et les données d'entraînement, et la licence de Meta limite certains usages commerciaux. Le chiffre de 42 milliards « actifs » signifie, d'après la présentation de Meta, que seule une partie des paramètres sert à chaque calcul, ce qui réduit la puissance nécessaire. La contrainte de mémoire reste forte : environ 1 To, soit bien plus qu'un ordinateur ordinaire.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "nom": "Meta"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "nom": "TechCrunch"
+     },
+     {
+      "url": "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/",
+      "nom": "Engadget"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Meta",
+      "contexte": "annonce du 15 octobre",
+      "texte": "« the most capable US open-weight model to date »",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Meta"
+     }
+    ],
+    "apres": "Selon Engadget, le Mac Studio doté de 512 Go de mémoire est attendu « fin octobre », sans prix ni date d'expédition annoncés. Des évaluations indépendantes du modèle n'ont pas encore été publiées dans les sources consultées.",
+    "change": "Pour un particulier, rien d'immédiat : il faut l'équivalent de deux ordinateurs haut de gamme. Pour une entreprise ou un laboratoire, la possibilité de faire tourner le modèle sur son propre matériel peut compter pour la confidentialité des données.",
+    "credit": {
+     "auteur": "AzureSaturn",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Apple_Studio_Display_and_Mac_Studio_with_Peripherals.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "IA",
+    "titre": "Anthropic : six chercheurs de METR auront un accès comparable à celui de salariés",
+    "court": "Anthropic : METR évaluera de l'intérieur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg/1280px-Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg",
+    "legende": "Hall des bureaux d'Anthropic, San Francisco (illustration)",
+    "chapeau": "Le 15 octobre, Anthropic a annoncé donner un accès « comparable à celui d'un salarié » à une équipe de METR, une organisation à but non lucratif qui évalue les modèles d'IA les plus avancés.",
+    "eclairage": "Que change un évaluateur « de l'intérieur » ?",
+    "chiffres": [
+     {
+      "valeur": "6",
+      "legende": "chercheurs de METR accueillis par Anthropic"
+     },
+     {
+      "valeur": "3",
+      "legende": "niveaux d'accès pour les évaluateurs externes"
+     },
+     {
+      "valeur": "sept.",
+      "legende": "essai de Dario Amodei proposant l'idée"
+     }
+    ],
+    "passe": "Le 15 octobre, Anthropic a annoncé donner un accès « comparable à celui d'un salarié » à une équipe de METR, une organisation à but non lucratif qui évalue les modèles d'IA les plus avancés. Six personnes de METR ont reçu du matériel de l'entreprise, des bureaux et des outils internes proches de ceux de ses propres équipes d'évaluation des risques. Anthropic encourage ses salariés à leur transmettre des informations comme à un collègue, sauf pour les données de clients, les documents couverts par le secret juridique et l'architecture des modèles. METR publiera ses analyses : Anthropic dit qu'elle « can't veto publication » (« ne peut pas opposer de veto à la publication ») mais peut exiger des suppressions dans des catégories précises, et METR pourra dire si elles lui semblent justifiées. Anthropic décrit trois niveaux d'accès pour les évaluateurs ; SecureBio relit le chapitre sur les armes chimiques et biologiques de son rapport de risques d'août, et Accenture et Faculty discutent d'un partenariat plus large. Les termes de l'accord reposent ici sur Anthropic et TechCrunch : METR, sur sa page consultée, ne les détaille pas.",
+    "points": [],
+    "explication": "Jusqu'ici, un évaluateur extérieur teste surtout un modèle fini, depuis l'extérieur, avec l'accès que l'entreprise lui donne. Ici, l'idée est de ressembler aux inspecteurs résidents que des régulateurs placent dans les grandes banques, comparaison reprise par Anthropic selon TechCrunch : voir les pratiques, pas seulement les résultats. Le point sensible est la publication. Anthropic renonce au veto, mais garde un droit de caviardage, c'est-à-dire de masquer des passages dans trois catégories annoncées. La force du dispositif dépend donc de ce que METR pourra dire sur ce qui a été masqué. Autre limite : METR précise sur son site ne pas être rémunéré pour ces travaux, mais recevoir de la part d'Anthropic, d'OpenAI et de xAI des accès et des jetons de calcul pour ses évaluations.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "nom": "Anthropic"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "nom": "TechCrunch"
+     },
+     {
+      "url": "https://metr.org",
+      "nom": "METR"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Anthropic",
+      "contexte": "annonce du 15 octobre",
+      "texte": "L'entreprise dit « ne pas pouvoir opposer de veto » à la publication des analyses de METR, tout en se réservant des suppressions limitées à des catégories définies à l'avance : données de clients, documents juridiques protégés, architecture des modèles.",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "source": "Anthropic"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "METR",
+      "contexte": "page consultée le 16 octobre",
+      "texte": "L'organisation indique ne pas accepter de rémunération pour ses travaux d'évaluation, tout en recevant des accès et des jetons de plusieurs entreprises d'IA. Elle a publié le 14 octobre des textes sur sa façon de travailler avec ces entreprises.",
+      "url": "https://metr.org",
+      "source": "METR"
+     }
+    ],
+    "apres": "Anthropic dit être en discussions avec d'autres organisations, dont Hugging Face. Aucune date de première publication de METR n'est annoncée dans les sources consultées.",
+    "change": "Pour un utilisateur, rien ne change à court terme. Pour le secteur, c'est un modèle d'évaluation extérieure que d'autres laboratoires pourraient adopter. La portée dépendra de ce que METR publiera et de ce qui sera masqué.",
+    "credit": {
+     "auteur": "Department for Science, Innovation and Technology",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._(54098999333).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "PLATEFORMES",
+    "titre": "YouTube Music : des étiquettes pour les morceaux créés avec l'IA",
+    "court": "YouTube Music étiquette les morceaux IA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Woman_listening_music_on_her_smartphone_%2850810304846%29.jpg/1280px-Woman_listening_music_on_her_smartphone_%2850810304846%29.jpg",
+    "legende": "Écoute de musique sur smartphone (illustration)",
+    "chapeau": "Le 14 octobre, YouTube Music a annoncé le déploiement d'étiquettes signalant qu'un morceau a été créé principalement avec de l'IA générative, par exemple quand un modèle produit la composition et les voix.",
+    "eclairage": "Étiqueter n'est pas interdire",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "étiquettes : Fully, Partly et No Gen AI"
+     },
+     {
+      "valeur": "14/10",
+      "legende": "annonce de YouTube Music"
+     }
+    ],
+    "passe": "Le 14 octobre, YouTube Music a annoncé le déploiement d'étiquettes signalant qu'un morceau a été créé principalement avec de l'IA générative, par exemple quand un modèle produit la composition et les voix. L'étiquette apparaît sur la page du lecteur ; un toucher ouvre des précisions, et le dispositif doit s'étendre à l'application YouTube principale. YouTube dit s'appuyer sur ses partenaires musicaux et ses propres outils de détection. Sa page d'aide prévoit trois valeurs déclarées par les partenaires : « Fully Gen AI » (tout le contenu créé avec de l'IA générative), « Partly Gen AI » (une partie) et « No Gen AI » (aucune) ; sans déclaration, la mention reste « inconnue » sauf signal contraire. Selon AI Weekly, YouTube indique que « AI involvement alone doesn't make a track ineligible for monetization » (« la seule présence d'IA ne rend pas un morceau inéligible à la monétisation »). TechCrunch rappelle que Deezer étiquette la musique détectée et la retire des recommandations, que TIDAL étiquette et exclut du partage des revenus les titres entièrement générés, et qu'Apple Music prévoit des mentions « Made With AI » plus tard cette année.",
+    "points": [],
+    "explication": "Les plateformes de musique reçoivent de très nombreux titres, dont une part générée par des outils d'IA. Deux logiques s'opposent. La première est la transparence : YouTube informe l'auditeur et laisse le morceau gagner de l'argent comme les autres. La seconde est le filtrage : Deezer retire les titres détectés des recommandations et des listes éditoriales, et TIDAL les exclut du partage des revenus. Dans les deux cas, tout repose sur la détection et sur les déclarations des partenaires : une étiquette est aussi fiable que la méthode qui la pose. YouTube dit combiner déclarations et outils internes, sans publier de taux d'erreur dans les pages consultées.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blog.youtube/news-and-events/youtube-music-ai-labels/",
+      "nom": "YouTube"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "nom": "TechCrunch"
+     },
+     {
+      "url": "https://aiweekly.co/alerts/youtube-music-rolls-out-ai-labels-keeps-them-monetized",
+      "nom": "AI Weekly"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "YouTube",
+      "contexte": "annonce du 14 octobre",
+      "texte": "L'entreprise présente les étiquettes comme une réponse à la demande de transparence des auditeurs, et choisit l'information plutôt que l'exclusion : l'IA seule n'empêche pas la monétisation.",
+      "url": "https://blog.youtube/news-and-events/youtube-music-ai-labels/",
+      "source": "YouTube"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "CONCURRENT",
+      "qui": "Deezer",
+      "contexte": "selon TechCrunch",
+      "texte": "Deezer étiquette la musique détectée comme générée par IA, l'exclut des recommandations algorithmiques et des listes éditoriales, ne verse pas de droits pour les écoutes frauduleuses et prépare un filtre permettant de masquer cette musique.",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "CONCURRENT",
+      "qui": "TIDAL",
+      "contexte": "selon TechCrunch",
+      "texte": "TIDAL étiquette les enregistrements qu'il identifie comme entièrement générés par IA, permet de les désactiver et les exclut du partage des revenus.",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch"
+     }
+    ],
+    "apres": "Le déploiement doit gagner l'application YouTube principale ; Apple Music annonce ses mentions pour la fin de l'année et Deezer prépare un filtre pour les utilisateurs, sans date précise dans les sources consultées.",
+    "change": "Pour un auditeur, un titre peut désormais afficher une mention sur l'usage de l'IA, d'abord dans YouTube Music. Pour un artiste, la mention peut compter pour la visibilité ou les revenus selon la plateforme.",
+    "credit": {
+     "auteur": "Vu Hoang",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Woman_listening_music_on_her_smartphone_(50810304846).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "FIN",
+    "mois": "OCT.",
+    "texte": "Apple : le Mac Studio M5 Ultra avec 512 Go de mémoire est attendu « fin octobre », sans prix annoncé, selon Engadget (Engadget)."
+   },
+   {
+    "jour": "FIN",
+    "mois": "2026",
+    "texte": "Apple Music : mentions « Made With AI » prévues « plus tard cette année », selon TechCrunch (TechCrunch)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Poids ouverts",
+    "definition": "Valeurs apprises d'un modèle, mises en téléchargement ; open-weight en anglais."
+   },
+   {
+    "terme": "Paramètre",
+    "definition": "Nombre réglé pendant l'entraînement ; un modèle en compte des milliards."
+   },
+   {
+    "terme": "Caviardage",
+    "definition": "Fait de masquer des passages d'un document avant sa publication ; redaction en anglais."
+   },
+   {
+    "terme": "Jeton",
+    "definition": "Morceau de mot ou de texte que traite un modèle ; token en anglais."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Anthropic affirme pouvoir interdire à METR de publier ses analyses sur l'entreprise.",
+   "reponse": false,
+   "explication": "Faux : dans son annonce du 15 octobre, Anthropic dit ne pas pouvoir opposer de veto à la publication, mais pouvoir exiger des suppressions dans des catégories précises comme les données de clients."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-15",
   "minutes": 12,
   "sujets": [
