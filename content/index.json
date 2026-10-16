@@ -250,6 +250,210 @@
   }
  },
  {
+  "rubrique": "food",
+  "date": "2026-10-16",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "FILIÈRE",
+    "titre": "Lait : Savencia met fin à sa relation avec l'OP Les 3 Rivières",
+    "court": "Lait : Savencia rompt avec 330 exploitations",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dairy_Campus_Ljouwert12.jpg/1280px-Dairy_Campus_Ljouwert12.jpg",
+    "legende": "Étable laitière aux Pays-Bas (illustration)",
+    "chapeau": "Le mardi 6 octobre 2026, Savencia a informé l'organisation de producteurs (OP) Les 3 Rivières, en Pays de la Loire (Mayenne, Sarthe, Maine-et-Loire), qu'il mettait fin à leur relation commerciale, avec un préavis de 18 mois jusqu'au 15 avril 2028.",
+    "eclairage": "Comment un éleveur vend-il son lait ?",
+    "chiffres": [
+     {
+      "valeur": "330",
+      "legende": "exploitations concernées (615 producteurs dans l'OP)"
+     },
+     {
+      "valeur": "~240 ML",
+      "legende": "litres par an livrés à Savencia"
+     },
+     {
+      "valeur": "2028",
+      "legende": "fin du préavis, 15 avril"
+     }
+    ],
+    "passe": "Le mardi 6 octobre 2026, Savencia a informé l'organisation de producteurs (OP) Les 3 Rivières, en Pays de la Loire (Mayenne, Sarthe, Maine-et-Loire), qu'il mettait fin à leur relation commerciale, avec un préavis de 18 mois jusqu'au 15 avril 2028. Selon La France Agricole, 330 exploitations sont concernées ; Réussir précise que l'OP compte 615 producteurs. Elles livrent environ 240 millions de litres par an, 242 millions selon Alouette. Savencia explique, selon Agra, que l'OP a signé un accord-cadre fin 2025 puis contesté la formule de prix, qu'il juge non compétitive face à ses débouchés ; l'entreprise dit continuer d'acheter les volumes habituels jusqu'en avril 2028. L'OP affirme que le prix payé depuis le début de l'année est inférieur de 50 € par 1 000 litres à son prix de revient. La FNPL a critiqué la décision le 7 octobre et la Confédération paysanne le 13 octobre.",
+    "points": [],
+    "explication": "Un éleveur laitier vend sa production à une laiterie, souvent par l'intermédiaire d'une organisation de producteurs (OP) : un groupement qui négocie en commun le prix et les volumes. Depuis le 1er janvier 2023, la loi EGalim 2 impose un contrat écrit pour la première vente de produits agricoles, avec des dérogations possibles, selon le ministère de l'Agriculture. Le prix de base du lait est le point de désaccord : selon La France Agricole, il n'était pas fixé depuis le début du deuxième trimestre. Le préavis de 18 mois laisse aux éleveurs le temps de chercher un autre acheteur ; les sources consultées ne disent pas si l'un d'eux est déjà identifié.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.lafranceagricole.fr/confederation-paysanne/article/904782/collecte-laitiere-la-confederation-paysanne-juge-inacceptable-la-strategie-de-sa",
+      "nom": "La France Agricole"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/organisation-de-producteurs-savencia-met-fin-son-accord-avec-lop-les-3-rivieres",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.agra.fr/articles/savencia-met-fin-la-relation-commerciale-avec-lop-les-3-rivieres",
+      "nom": "Agra"
+     },
+     {
+      "url": "https://www.alouette.fr/agriculture-lait-330-exploitants-pays-loire-collecte-savencia",
+      "nom": "Alouette"
+     },
+     {
+      "url": "https://agriculture.gouv.fr/tout-comprendre-de-la-loi-egalim-2",
+      "nom": "agriculture.gouv.fr (EGalim 2)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ENTREPRISE",
+      "qui": "Savencia",
+      "contexte": "selon Agra",
+      "texte": "Il juge la formule de prix demandée par l'OP non compétitive face à ses débouchés, dit avoir signé six nouveaux contrats avec des OP depuis début 2026 et indique que sa collecte française reste stable à 3,6 milliards de litres par an.",
+      "url": "https://www.agra.fr/articles/savencia-met-fin-la-relation-commerciale-avec-lop-les-3-rivieres",
+      "source": "Agra"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "FNPL",
+      "contexte": "producteurs de lait, 7 octobre",
+      "texte": "Savencia « place des producteurs face à l'incertitude quant à l'avenir de leur collecte »",
+      "url": "https://www.agra.fr/articles/savencia-met-fin-la-relation-commerciale-avec-lop-les-3-rivieres",
+      "source": "Agra"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "OP Les 3 Rivières",
+      "contexte": "citée par Alouette",
+      "texte": "« Comment peut-on agir ainsi dans le contexte de sécheresse et de grande détresse pour beaucoup d'éleveurs ? »",
+      "url": "https://www.alouette.fr/agriculture-lait-330-exploitants-pays-loire-collecte-savencia",
+      "source": "Alouette"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / ONG",
+      "qui": "Confédération paysanne",
+      "contexte": "communiqué du 13 octobre",
+      "texte": "« Nous dénonçons la stratégie de Savencia, qui par ses menaces accentue un rapport de force déséquilibré »",
+      "url": "https://www.lafranceagricole.fr/confederation-paysanne/article/904782/collecte-laitiere-la-confederation-paysanne-juge-inacceptable-la-strategie-de-sa",
+      "source": "La France Agricole"
+     }
+    ],
+    "apres": "Fin du préavis le 15 avril 2028. Les sources consultées n'annoncent ni médiation ni nouvelle réunion.",
+    "change": "Pour les 330 exploitations, la recherche d'un autre acheteur d'ici avril 2028, alors que Savencia dit acheter les volumes habituels jusqu'à cette date. Pour le consommateur, les sources consultées ne mentionnent aucun effet en rayon.",
+    "credit": {
+     "auteur": "Ieneach fan 'e Esk",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dairy_Campus_Ljouwert12.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "Mal-être agricole : fiche nationale, guide pour les préfectures, plan en 2027",
+    "court": "Mal-être agricole : un plan début 2027",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Apr%C3%A8s_la_moisson_il_faut_casser_les_chaumes.jpg/1280px-Apr%C3%A8s_la_moisson_il_faut_casser_les_chaumes.jpg",
+    "legende": "Un agriculteur laboure un champ de chaume (illustration)",
+    "chapeau": "Le mercredi 14 octobre 2026, la ministre de l'Agriculture, Annie Genevard, a présidé le comité national de pilotage de la feuille de route de prévention du mal-être en agriculture.",
+    "eclairage": "Qui sont les « sentinelles » ?",
+    "chiffres": [
+     {
+      "valeur": "12 000",
+      "legende": "sentinelles chargées de repérer la détresse"
+     },
+     {
+      "valeur": "25 000",
+      "legende": "appels sortants de la MSA du 1er sept. au 6 oct."
+     },
+     {
+      "valeur": "2027",
+      "legende": "début du plan d'amélioration"
+     }
+    ],
+    "passe": "Le mercredi 14 octobre 2026, la ministre de l'Agriculture, Annie Genevard, a présidé le comité national de pilotage de la feuille de route de prévention du mal-être en agriculture. Elle a annoncé une fiche nationale qui recense les dispositifs d'accompagnement et les interlocuteurs, à diffuser par la MSA, les associations, les services de l'État et les 12 000 « sentinelles » ; un guide pour les agents des préfectures ; une mission flash du CGAAER pour mesurer l'ampleur du mal-être ; et un plan d'amélioration dont les premières mesures sont prévues début 2027. Ce plan s'organise autour de quatre axes : le pilotage, l'orientation vers les bons services, le repérage des agriculteurs en difficulté et le fait de ne pas aggraver les situations par les procédures existantes, notamment les contrôles. Les parties prenantes ont deux semaines pour faire des propositions. Entre le 1er septembre et le 6 octobre, les caisses de MSA ont réalisé plus de 25 000 appels sortants et plus de 1 000 interventions sociales.",
+    "points": [],
+    "explication": "Ce sont des volontaires répartis sur le territoire dont le rôle est de repérer les situations de détresse chez les agriculteurs, selon les articles consultés. Ils s'inscrivent dans une feuille de route interministérielle : le ministère rappelle qu'une mission nationale a été lancée en février 2020, que la feuille de route a été publiée en novembre 2021 et qu'un coordinateur national existe depuis début 2022. La santé mentale est une cause prioritaire nationale en 2025 et 2026. Cet article présente des mesures publiques ; il ne remplace pas l'avis d'un professionnel de santé.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.reussir.fr/articles/mal-etre-agricole-quelles-sont-les-annonces-dannie-genevard",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.terre-net.fr/mal-etre/article/904757/la-ministre-de-l-agriculture-multiplie-les-mesures-de-prevention",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.agra.fr/articles/mal-etre-agricole-un-plan-damelioration-de-la-gestion-debut-2027",
+      "nom": "Agra"
+     },
+     {
+      "url": "https://agriculture.gouv.fr/prevention-du-mal-etre-en-agriculture",
+      "nom": "agriculture.gouv.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "ministre de l'Agriculture, 14 octobre",
+      "texte": "« Les conséquences humaines de cet été ne disparaîtront pas toutes avec le retour de la pluie »",
+      "url": "https://www.terre-net.fr/mal-etre/article/904757/la-ministre-de-l-agriculture-multiplie-les-mesures-de-prevention",
+      "source": "Terre-net"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "même comité",
+      "texte": "« Aucun agriculteur ne doit rester seul face à ses difficultés »",
+      "url": "https://www.reussir.fr/articles/mal-etre-agricole-quelles-sont-les-annonces-dannie-genevard",
+      "source": "Réussir"
+     }
+    ],
+    "apres": "Deux semaines de consultation des parties prenantes, soit jusqu'à fin octobre environ ; premières mesures du plan début 2027.",
+    "change": "Pour les agriculteurs en difficulté, une fiche nationale qui centralise les dispositifs et un guide pour que les agents de l'État les orientent ; les sources consultées ne donnent aucun budget chiffré.",
+    "credit": {
+     "auteur": "GrandBout",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Apr%C3%A8s_la_moisson_il_faut_casser_les_chaumes.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Organisation de producteurs (OP)",
+    "definition": "Un groupement d'éleveurs ou de cultivateurs qui négocie en commun le prix et les volumes avec l'acheteur."
+   },
+   {
+    "terme": "EGalim 2",
+    "definition": "La loi de 2021 qui impose, depuis le 1er janvier 2023, un contrat écrit pour la première vente de produits agricoles, avec des dérogations possibles."
+   },
+   {
+    "terme": "Sentinelle",
+    "definition": "Un volontaire chargé de repérer les situations de détresse chez les agriculteurs."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Savencia a annoncé qu'il cessait immédiatement la collecte du lait des 330 exploitations de l'OP Les 3 Rivières.",
+   "reponse": false,
+   "explication": "Savencia a donné un préavis de 18 mois, jusqu'au 15 avril 2028, et dit acheter les volumes habituels de l'OP jusqu'à cette date."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-16",
   "minutes": 10,

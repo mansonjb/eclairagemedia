@@ -1,5 +1,401 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-16",
+  "url": "/podcasts/essentiel-2026-10-16.mp3",
+  "taille": 6933360,
+  "duree": 578,
+  "titre": "Éclairage, l'essentiel du vendredi 16 octobre 2026",
+  "titre_episode": "Retraités, TSMC et Ebola au Kenya : l'essentiel du vendredi 16 octobre",
+  "description": "Ce vendredi 16 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : retraités, rejet de la baisse de l'abattement fiscal\n• Politique : contribution française au budget de l'UE\n• Économie : TSMC, bénéfice net record\n• Économie : Pernod Ricard, ventes du premier trimestre\n• Santé : Ebola, deuxième cas confirmé au Kenya\n• Santé : AVC, essai du loberamisal\n• Alimentation : Savencia et l'OP Les 3 Rivières\n• Alimentation : mal-être agricole\n• IA et tech : Meta, Muse Spark Open\n• IA et tech : Anthropic et METR\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Retraités : les députés rejettent la baisse de l'abattement fiscal de 10 %"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget de l'UE : l'Assemblée adopte la contribution française de 30,9 Md€"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "TSMC : bénéfice net record de 763 Md NT$ au troisième trimestre"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Pernod Ricard : ventes en baisse de 0,9 % au premier trimestre"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Ebola au Kenya : un deuxième cas confirmé chez un proche du premier patient"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "AVC : le loberamisal améliore la récupération à 90 jours dans un essai de phase 3"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Lait : Savencia met fin à sa relation avec l'OP Les 3 Rivières"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Mal-être agricole : fiche nationale, guide pour les préfectures, plan en 2027"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Meta : un modèle à poids ouverts de 816 milliards de paramètres"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Anthropic : six chercheurs de METR auront un accès comparable à celui de salariés"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce vendredi 16 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Dix sujets, des chiffres, et zéro opinion."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique. Cent seize voix contre trente. C'est le score d'un vote de jeudi à l'Assemblée nationale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un vote sur quoi, exactement ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur les retraités. Le gouvernement voulait baisser le plafond de l'abattement fiscal de dix pour cent, de quatre mille quatre cent trente-neuf euros à trois mille euros."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autrement dit, un retraité peut déduire un dixième de sa pension de son revenu imposable, mais seulement jusqu'à un plafond. Le gouvernement voulait le rabaisser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour un gain d'un milliard quatre cents millions d'euros, avec quatre millions six cent mille foyers concernés, selon LCP."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre millions six cent mille foyers. C'est énorme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et au Palais Bourbon, le débat a été vif : le ministre des Comptes publics David Amiel a parlé d'un coup de poignard contre la jeunesse, quand le communiste Nicolas Sansu refuse d'opposer les générations entre elles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et les députés ont dit non. Seuls ceux du camp présidentiel ont voté contre les amendements de suppression."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Mais ce n'est pas fini : c'est la version finale du budget qui tranchera, après le Sénat et une commission mixte paritaire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il y a un deuxième levier. Au Sénat, le ministre du Travail Jean-Pierre Farandou a défendu de n'indexer sur l'inflation que les pensions jusqu'à environ mille deux cent soixante euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour environ quatre milliards d'euros d'économies. Au total, l'effort demandé aux retraités tourne autour de cinq milliards et demi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : deux textes, deux leviers. L'abattement relève du budget de l'État, l'indexation du budget de la Sécurité sociale, et rien n'est encore décidé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours dans le budget, mais côté Europe. Trente virgule neuf milliards d'euros : c'est ce que la France versera à l'Union européenne en 2027."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est nettement plus que l'an dernier, non ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vingt-huit virgule huit milliards en 2026, vingt-trois en 2025, vingt et un virgule six en 2024. L'Assemblée a adopté cet article mercredi soir, par cent onze voix contre quatre-vingt-treize."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Rassemblement national et son allié l'UDR, La France insoumise et la Gauche démocrate et républicaine ont voté contre. Un amendement du RN pour réduire la contribution de onze milliards a été rejeté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le rapporteur général, Philippe Juvin, a rappelé que supprimer l'article n'aurait aucun effet sur l'obligation juridique de payer."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Donc voter contre l'article ne change pas la facture. C'est une précision utile."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre Benjamin Haddad, lui, souligne que la France est contributrice nette, mais aussi première bénéficiaire en volume des aides agricoles, régionales et aux entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pendant ce temps, les Vingt-Sept négocient à Bruxelles le budget 2028-2034, que la Commission propose à deux mille milliards d'euros."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il faut l'unanimité. Un seul pays peut bloquer. La phrase à retenir : chaque année, le Parlement vote ce que la France verse, et le prochain cadre européen se joue à vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec un record. Sept cent soixante-trois milliards de dollars taïwanais."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pardon ? Par trimestre ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Oui, c'est le bénéfice net de TSMC au troisième trimestre, soit environ vingt-trois virgule six milliards de dollars américains. Une hausse de soixante-huit virgule sept pour cent sur un an."
+   },
+   {
+    "qui": "Paul",
+    "texte": "TSMC, c'est le premier fabricant mondial de puces sous contrat. Nvidia ou Apple dessinent leurs puces, et TSMC les grave dans ses usines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est le sixième record d'affilée, au-dessus des attentes des analystes. Le chiffre d'affaires grimpe de près de cinquante et un pour cent, avec une marge brute de soixante-six virgule quatre pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pour le quatrième trimestre, l'entreprise prévoit entre cinquante-deux virgule trois et cinquante-quatre virgule trois milliards de dollars de ventes. Son directeur financier attend la même dynamique, avec la montée du deux nanomètres."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le deux nanomètres, c'est la gravure la plus fine, donc la plus chère. Elle représente déjà huit pour cent des ventes de plaquettes de silicium."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et avec une marge nette de cinquante et un virgule un pour cent, il reste environ cinquante et un de bénéfice pour cent de ventes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, la demande de puces avancées liée à l'IA ne ralentit pas à ce stade, selon Reuters."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de ton, avec Pernod Ricard. Des ventes en baisse de zéro virgule neuf pour cent au premier trimestre, mais des volumes en hausse de six pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, les ventes baissent et les volumes montent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le déstockage. Quand les distributeurs réduisent leurs réserves, ils commandent moins que ce qui se vend en magasin. Le chiffre du groupe baisse, même si la consommation tient."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et c'est surtout concentré sur deux marchés : moins dix pour cent aux États-Unis, moins vingt-cinq pour cent en Chine. En face, plus dix-neuf pour cent en Inde."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les analystes attendaient moins un virgule sept pour cent, donc le résultat est meilleur que prévu. Le groupe maintient sa prévision de ventes globalement stables sur l'exercice."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la baisse vient de deux marchés, pendant que l'Inde et le reste du monde progressent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à la santé, et on commence par Ebola au Kenya."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un deuxième cas confirmé, annoncé le quatorze octobre. Un homme de trente-neuf ans, proche du premier patient."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le détail qui compte : il était déjà en quarantaine quand les symptômes sont apparus. Fièvre, fatigue, douleurs articulaires. Il est pris en charge dans un centre de traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le premier patient, un Kényan qui avait vécu en République démocratique du Congo, est mort à Nairobi le cinq octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur les cent vingt-huit contacts identifiés, cent treize ont été retrouvés. Cent huit sont en quarantaine de vingt et un jours au Kenya, et cinq se trouvent hors du pays."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté OMS ? Un responsable a indiqué qu'il n'y avait pas de preuve d'une flambée au Kenya."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour mémoire, le CDC américain compte neuf mille deux cent trente-cinq cas confirmés et quatre mille quatre cent quarante-quatre décès depuis le début de l'épidémie en RDC. Un cas déjà isolé inquiète moins qu'un cas inconnu, voilà ce qu'il faut retenir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre sujet santé : un essai sur l'AVC. Cinquante-six virgule trois pour cent contre soixante-neuf virgule sept pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Qu'est-ce qu'on compare ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "La part de patients sans handicap significatif à quatre-vingt-dix jours. Le premier chiffre est celui du placebo, le second celui du loberamisal, un médicament expérimental."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essai, publié dans JAMA, a inclus neuf cent quatre-vingt-dix-huit adultes victimes d'un AVC par caillot, pris en charge dans les quarante-huit heures. Dix jours de perfusion, en plus des soins habituels."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les effets indésirables sont aussi fréquents dans les deux groupes, autour de quatre-vingt-huit pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et côté gravité : huit virgule six pour cent d'événements graves avec le médicament, dix virgule sept avec le placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Bonne question : est-ce que ça prouve quelque chose ? Pas encore, un seul essai ne suffit pas."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais attention aux limites. Un seul essai, mené uniquement en Chine, sans les patients traités par thrombectomie, c'est-à-dire le retrait mécanique du caillot."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les auteurs eux-mêmes écrivent que d'autres études sont nécessaires. À retenir : rien ne change pour l'instant, c'est un médicament expérimental."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction l'alimentation, avec le lait. Trois cent trente exploitations concernées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concernées par quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Savencia a informé le six octobre l'organisation de producteurs Les 3 Rivières, en Pays de la Loire, qu'il mettait fin à leur relation. Avec un préavis de dix-huit mois, jusqu'au quinze avril 2028."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça représente environ deux cent quarante millions de litres par an. Et la raison, selon Agra, c'est la formule de prix."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Savencia la juge non compétitive face à ses débouchés. L'organisation affirme que le prix payé depuis le début de l'année est inférieur de cinquante euros les mille litres à son prix de revient."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Savencia dit continuer d'acheter les volumes habituels jusqu'en avril 2028. La FNPL et la Confédération paysanne ont critiqué la décision."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Savencia ajoute avoir signé six nouveaux contrats avec des organisations de producteurs depuis début 2026, et collecter trois virgule six milliards de litres par an en France."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Donc pas d'arrêt immédiat de la collecte. Le préavis laisse aux éleveurs le temps de chercher un autre acheteur, et les sources ne mentionnent aucun effet en rayon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours côté agriculture, mais sur un sujet plus grave : le mal-être agricole. Mercredi, la ministre Annie Genevard a présidé le comité national de pilotage."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les annonces : une fiche nationale qui recense les dispositifs d'aide, un guide pour les agents des préfectures, et une mission flash pour mesurer l'ampleur du mal-être."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un plan d'amélioration suivra, avec des premières mesures début 2027. Les parties prenantes ont deux semaines pour faire des propositions."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il y a deux chiffres d'activité : plus de vingt-cinq mille appels sortants de la MSA entre le premier septembre et le six octobre, et douze mille sentinelles chargées de repérer la détresse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les sources ne donnent aucun budget chiffré. La phrase de la ministre : aucun agriculteur ne doit rester seul face à ses difficultés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On finit avec l'intelligence artificielle et la tech. Huit cent seize milliards de paramètres."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est le modèle Muse Spark Open, publié par Meta le quinze octobre. Un modèle à poids ouverts."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les poids, ce sont les valeurs apprises pendant l'entraînement. Les publier permet à d'autres de faire tourner le modèle chez eux. Ce n'est pas tout à fait de l'open source, et la licence limite certains usages commerciaux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Meta annonce quarante-deux milliards de paramètres actifs, un million de jetons de contexte, et indique qu'il tourne sur deux Mac Studio. Il faut environ un téraoctet de mémoire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Donc rien d'immédiat pour un particulier. Et attention : les performances sont celles annoncées par Meta seule, aucune évaluation indépendante n'est citée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On reste dans l'IA. Six chercheurs de METR, une organisation à but non lucratif qui évalue les modèles avancés, vont travailler chez Anthropic avec un accès comparable à celui de salariés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Matériel, bureaux, outils internes. Anthropic encourage ses salariés à leur transmettre des informations comme à un collègue, sauf les données de clients, les documents juridiques protégés et l'architecture des modèles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Anthropic décrit trois niveaux d'accès pour les évaluateurs externes. Et aucune date de première publication de METR n'est annoncée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et METR publiera ses analyses. Anthropic dit qu'elle ne peut pas opposer de veto, mais peut exiger des suppressions dans ces catégories précises."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'idée rappelle les inspecteurs résidents que des régulateurs placent dans les grandes banques. Voir les pratiques, pas seulement les résultats."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet : YouTube Music et ses étiquettes pour les morceaux créés avec l'IA. Trois valeurs : Fully, Partly et No Gen AI."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Tout ou partie du morceau fait avec de l'IA générative, ou aucune. Ces mentions sont déclarées par les partenaires musicaux, et sans déclaration, la mention reste inconnue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le dispositif doit s'étendre à l'application YouTube principale. Et selon AI Weekly, la seule présence d'IA ne rend pas un morceau inéligible à la monétisation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : on étiquette, on n'exclut pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com. À demain !"
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-16",
   "url": "/podcasts/politique-2026-10-16.mp3",
