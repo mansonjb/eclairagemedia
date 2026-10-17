@@ -286,6 +286,371 @@
   }
  },
  {
+  "rubrique": "food",
+  "date": "2026-10-17",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGRICULTURE",
+    "titre": "PAC 2026 : plus de 5 milliards d'euros d'avances versés dès le 16 octobre",
+    "court": "PAC : 5 Md€ d'avances dès le 16 octobre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sorbon-FR-08-moissonneuse_batteuse-01.jpg/1280px-Sorbon-FR-08-moissonneuse_batteuse-01.jpg",
+    "legende": "Une moissonneuse-batteuse devant les bâtiments d'une ferme des Ardennes (illustration)",
+    "chapeau": "Le vendredi 16 octobre 2026, premier jour où l'Union européenne autorise ces versements, le ministère de l'Agriculture a lancé le paiement des avances de la politique agricole commune (PAC) 2026 : plus de 5 milliards d'euros doivent parvenir à 261 723 exploitations entre le 16 et le 20 octobre.",
+    "eclairage": "Qu'est-ce qu'une avance PAC ?",
+    "chiffres": [
+     {
+      "valeur": "261 723",
+      "legende": "exploitations concernées par ce premier versement"
+     },
+     {
+      "valeur": "5 Md€",
+      "legende": "versés entre le 16 et le 20 octobre"
+     },
+     {
+      "valeur": "75 %",
+      "legende": "taux d'avance du premier pilier (70 % en 2025)"
+     }
+    ],
+    "passe": "Le vendredi 16 octobre 2026, premier jour où l'Union européenne autorise ces versements, le ministère de l'Agriculture a lancé le paiement des avances de la politique agricole commune (PAC) 2026 : plus de 5 milliards d'euros doivent parvenir à 261 723 exploitations entre le 16 et le 20 octobre. Le taux d'avance des aides du premier pilier a été porté à 75 %, contre 70 % l'an dernier, et celui de l'indemnité compensatoire de handicaps naturels (ICHN) reste à 85 %, le maximum permis par l'Union européenne. Selon le ministère, 98,2 % des demandeurs de l'aide de base au revenu recevront leur avance, contre 97,5 % en 2025. Parmi les exploitations payées, 9 950 n'ont pas encore achevé leurs contrôles sur place : le ministère dit ne pas vouloir retarder leur soutien financier. Des paiements complémentaires pour les dossiers non réglés sont prévus à partir de fin octobre, et le solde dans la première quinzaine de décembre. Pleinchamp relie la hausse du taux à la sécheresse de 2026.",
+    "points": [],
+    "explication": "Une avance est un acompte : l'agriculteur reçoit une part du montant de ses aides avant le calcul définitif, le reste étant versé plus tard, ici au plus tard en décembre selon le calendrier du ministère. Le premier pilier regroupe les aides directes liées aux surfaces et aux animaux, dont l'aide de base au revenu, l'écorégime, l'aide redistributive et certaines aides couplées animales. L'ICHN compense les handicaps naturels, par exemple en zone de montagne. Relever le taux d'avance ne change pas le montant total dû : cela avance la trésorerie. Les sources consultées ne chiffrent pas, pour ce versement, la somme supplémentaire apportée par le passage de 70 % à 75 %.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agriculture.gouv.fr/pac-2026-plus-de-5-milliards-deuros-verses-des-le-16-octobre-pour-soutenir-la-tresorerie",
+      "nom": "agriculture.gouv.fr"
+     },
+     {
+      "url": "https://www.terre-net.fr/aides-pac/article/904926/les-premiers-versements-de-la-pac-2026-arrivent-sur-les-comptes-des-agriculteurs",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.agri-mutuel.com/politique-economie/les-premiers-versements-de-la-pac-2026-arrivent-sur-les-comptes-des-agriculteurs/",
+      "nom": "Agri Mutuel"
+     },
+     {
+      "url": "https://www.pleinchamp.com/actualite/pac-plus-de-5-milliards-d-euros-verses-a-plus-de-98-de-demandeurs-d-aides",
+      "nom": "Pleinchamp"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "ministre de l'Agriculture, selon Pleinchamp",
+      "texte": "« notre responsabilité est de faire arriver les aides plus vite, au plus grand nombre »",
+      "url": "https://www.pleinchamp.com/actualite/pac-plus-de-5-milliards-d-euros-verses-a-plus-de-98-de-demandeurs-d-aides",
+      "source": "Pleinchamp"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "sur la programmation 2028-2034, selon Pleinchamp",
+      "texte": "« Pas un euro ne doit manquer à la Pac »",
+      "url": "https://www.pleinchamp.com/actualite/pac-plus-de-5-milliards-d-euros-verses-a-plus-de-98-de-demandeurs-d-aides",
+      "source": "Pleinchamp"
+     }
+    ],
+    "apres": "Paiements complémentaires à partir de fin octobre, solde dans la première quinzaine de décembre, selon le ministère.",
+    "change": "Pour les exploitations concernées, une trésorerie plus élevée dès ce week-end, sans changement du montant final des aides. Pour le consommateur, les sources consultées ne mentionnent aucun effet.",
+    "credit": {
+     "auteur": "François Goglins",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sorbon-FR-08-moissonneuse_batteuse-01.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Relance agricole : Matignon annonce une enveloppe de 500 à 700 M€ pour 2027",
+    "court": "Relance agricole : 500 à 700 M€ pour 2027",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aagricultural_water_sprinklers_in_Zagreb.jpg/1280px-Aagricultural_water_sprinklers_in_Zagreb.jpg",
+    "legende": "Irrigation par aspersion d'un champ cultivé en Croatie (illustration)",
+    "chapeau": "Le jeudi 15 octobre 2026, à l'issue d'une réunion avec les organisations agricoles à Matignon, le Premier ministre Sébastien Lecornu a annoncé une enveloppe « entre 500 et 700 millions d'euros » pour un plan de relance agricole en 2027.",
+    "eclairage": "D'où vient l'argent, et que décide-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "500 M€",
+      "legende": "borne basse de l'enveloppe (jusqu'à 700 M€)"
+     },
+     {
+      "valeur": "5",
+      "legende": "volets : climat, souveraineté, eau, assurance, simplification"
+     },
+     {
+      "valeur": "1,2 Md€",
+      "legende": "plan d'urgence 2026 (1,3 Md€ selon Public Sénat)"
+     }
+    ],
+    "passe": "Le jeudi 15 octobre 2026, à l'issue d'une réunion avec les organisations agricoles à Matignon, le Premier ministre Sébastien Lecornu a annoncé une enveloppe « entre 500 et 700 millions d'euros » pour un plan de relance agricole en 2027. Il a qualifié la somme d'« indicative » : elle serait prélevée sur des crédits déjà inscrits au projet de budget 2027, en partie par amendements au fil de l'examen parlementaire. Le plan comporte cinq volets : adaptation des exploitations aux aléas climatiques, souveraineté agricole, stockage de l'eau, renforcement de l'assurance et simplification, notamment fiscale. Il s'ajoute au plan d'urgence de 2026, chiffré à 1,2 milliard d'euros selon Réussir et à 1,3 milliard selon Public Sénat, déclenché par la canicule et la sécheresse. Le Premier ministre a aussi évoqué un « pacte Genevard » sur la transmission des exploitations, un « pacte de responsabilité » avec la grande distribution avant l'ouverture des négociations commerciales le 1er décembre, et des décrets d'application de la loi d'urgence agricole avant Noël.",
+    "points": [],
+    "explication": "Une enveloppe indicative n'est pas un budget voté : le Parlement examine le projet de loi de finances 2027 et le gouvernement ajoute ses mesures par amendements, selon LégiFiscal. Le Premier ministre a rappelé que l'objectif reste de finir à 5 % de déficit, selon Terre-net : toute somme au-delà de la fourchette devrait être compensée par des recettes ou des économies. Les sources consultées ne détaillent pas la répartition de l'enveloppe entre les cinq volets. Le pacte Dutreil, auquel LégiFiscal compare le pacte Genevard, est un dispositif d'exonération fiscale pour la transmission d'entreprises : les paramètres du pacte agricole (taux, durée d'engagement) ne sont pas encore fixés.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://publicsenat.fr/actualites/economie/sebastien-lecornu-annonce-entre-500-et-700-millions-deuros-preleves-sur-le-budget-2027-pour-la-relance-agricole",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4688-plan-relance-agricole-sebastien-lecornu-annonce-500-700-millions-euros-pacte-transmission.html",
+      "nom": "LégiFiscal"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/sebastien-lecornu-annonce-un-plan-de-relance-agricole-de-500-700-millions-deuros",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.terre-net.fr/gouvernement/article/904850/lecornu-annonce-entre-500-et-700-millions-euros-pour-le-plan-de-relance-agricole",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://agriculture.gouv.fr/loi-durgence-pour-la-protection-et-la-souverainete-agricoles-promulguee-par-le-president-de-la",
+      "nom": "agriculture.gouv.fr (loi d'urgence agricole)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, 15 octobre, selon Public Sénat",
+      "texte": "« Pour nous, c'est l'un des dossiers majeurs de la rentrée »",
+      "url": "https://publicsenat.fr/actualites/economie/sebastien-lecornu-annonce-entre-500-et-700-millions-deuros-preleves-sur-le-budget-2027-pour-la-relance-agricole",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "Coordination rurale",
+      "contexte": "selon Terre-net",
+      "texte": "Son président, Bertrand Venteau, qualifie les mesures de « mesurettes » et dit que les adhérents mobiliseront après la fin des travaux agricoles.",
+      "url": "https://www.terre-net.fr/gouvernement/article/904850/lecornu-annonce-entre-500-et-700-millions-euros-pour-le-plan-de-relance-agricole",
+      "source": "Terre-net"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "FNSEA et Jeunes agriculteurs",
+      "contexte": "selon Terre-net",
+      "texte": "Les Jeunes agriculteurs s'intéressent au pacte Genevard mais attendent des précisions ; la FNSEA attend une réunion promise et dit que les mesures dépendent d'un débat parlementaire incertain.",
+      "url": "https://www.terre-net.fr/gouvernement/article/904850/lecornu-annonce-entre-500-et-700-millions-euros-pour-le-plan-de-relance-agricole",
+      "source": "Terre-net"
+     }
+    ],
+    "apres": "Examen du budget 2027 à l'Assemblée nationale, concertation territoriale, réunion des acteurs avant le 1er décembre, décrets de la loi d'urgence agricole avant Noël.",
+    "change": "Pour les agriculteurs, des mesures encore à écrire : les sources consultées ne donnent ni montants par volet ni calendrier de versement. Pour l'assiette, aucun effet direct annoncé ; la grande distribution est concernée par le pacte de responsabilité.",
+    "credit": {
+     "auteur": "Mnalis",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Aagricultural_water_sprinklers_in_Zagreb.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1er",
+    "mois": "DÉC.",
+    "texte": "Négociations commerciales : ouverture, avec une réunion des acteurs annoncée avant cette date pour un « pacte de responsabilité »."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "2,5 Md$",
+   "texte": "C'est la somme que le G7 s'est engagé à mobiliser pour la sécurité alimentaire des pays vulnérables, avec un accent sur l'accès aux engrais, selon le ministre français de l'Économie Roland Lescure, cité par l'AFP. La Banque mondiale a identifié 44 pays susceptibles de faire face à des difficultés."
+  },
+  "lexique": [
+   {
+    "terme": "Avance PAC",
+    "definition": "Un acompte versé avant le calcul définitif des aides de la politique agricole commune, le solde étant payé ensuite."
+   },
+   {
+    "terme": "ICHN",
+    "definition": "L'indemnité compensatoire de handicaps naturels, une aide PAC destinée aux exploitations situées dans des zones aux contraintes naturelles, comme la montagne."
+   },
+   {
+    "terme": "Pacte Dutreil",
+    "definition": "Un dispositif d'exonération fiscale pour la transmission d'entreprises, auquel le « pacte Genevard » sur la transmission des exploitations est comparé."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Pour la PAC 2026, le taux d'avance des aides du premier pilier a été relevé de 70 % à 75 %.",
+   "reponse": true,
+   "explication": "Selon le ministère de l'Agriculture, le taux d'avance du premier pilier est passé de 70 % à 75 % ; celui de l'ICHN reste à 85 %, le maximum autorisé par l'Union européenne."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-17",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGGLO",
+    "titre": "Mobilisation du 17 octobre : bus déviés et marché annulé place de Verdun",
+    "court": "17 octobre : bus déviés place de Verdun",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_57.jpg/1280px-Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_57.jpg",
+    "legende": "Un cortège lycéen à Paris, le 6 octobre 2026 (illustration)",
+    "chapeau": "Samedi 17 octobre, un appel national contre la vie chère, lancé sur les réseaux sociaux il y a plus d'un mois, doit donner lieu à des rassemblements en Charente-Maritime.",
+    "eclairage": "Qui décide quoi un jour de rassemblement ?",
+    "chiffres": [
+     {
+      "valeur": "8h30",
+      "legende": "début des déviations de bus"
+     },
+     {
+      "valeur": "6h30",
+      "legende": "fermeture du parking de la place de Verdun"
+     },
+     {
+      "valeur": "0",
+      "legende": "déclaration déposée en préfecture (vendredi)"
+     }
+    ],
+    "passe": "Samedi 17 octobre, un appel national contre la vie chère, lancé sur les réseaux sociaux il y a plus d'un mois, doit donner lieu à des rassemblements en Charente-Maritime. À La Rochelle, des rendez-vous sont annoncés place de Verdun à 9 h, puis à 13 h 30 (14 h sur le parvis de la gare selon d'autres relais), avec un blocage routier possible dès 6 h à la sortie de Beaulieu et une action possible aux dépôts pétroliers de La Pallice à partir de 10 h. Les horaires varient selon les sources, de même que le nombre de rassemblements prévus en France : de 700 à 1 000. Vendredi 16 octobre, l'Agglomération a publié une alerte : lignes de bus déviées à partir de 8 h 30 autour de la place de Verdun, parking fermé dès 6 h 30, marché de la place annulé, Jardin des Plantes fermé et navettes du match du Stade Rochelais de 18 h 30 déviées. Les lycéens, mobilisés depuis plusieurs semaines, doivent rejoindre le mouvement.",
+    "points": [],
+    "explication": "Une manifestation sur la voie publique doit être déclarée au maire ou au préfet, au moins 3 jours francs et au plus 15 jours francs avant sa date. Le préfet est chargé de l'ordre public. L'Agglomération, elle, ne décide ni d'autoriser ni d'interdire : elle adapte les services qu'elle gère, comme les bus Yélo, les parkings et la collecte des déchets.",
+    "chronologie": [
+     {
+      "quand": "15 OCT.",
+      "texte": "Rassemblement lycéen devant le lycée Jean-Dautet, environ 200 personnes selon la préfecture."
+     },
+     {
+      "quand": "16 OCT.",
+      "texte": "Alerte de l'Agglomération et annonce par Yélo des perturbations."
+     },
+     {
+      "quand": "17 OCT.",
+      "texte": "Journée de mobilisation, dès 6 h pour les premiers blocages annoncés."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/alertes?article=manifestation-du-samedi-17-octobre",
+      "nom": "Agglo La Rochelle (alerte)"
+     },
+     {
+      "url": "https://yelo.agglo-larochelle.fr/actualites/",
+      "nom": "Yélo Mobilités"
+     },
+     {
+      "url": "https://inf-info.fr/la-rochelle-a-quoi-sattendre-pour-la-journee-du-17-octobre/",
+      "nom": "INF La Rochelle"
+     },
+     {
+      "url": "https://www.helenefm.com/?p=72026",
+      "nom": "Hélène FM"
+     },
+     {
+      "url": "https://my-angers.info/10/16/retour-des-gilets-jaunes-des-blocages-annonces-dans-toute-la-charente-maritime-ce-samedi-17-octobre/198845",
+      "nom": "My Angers"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Préfecture de Charente-Maritime",
+      "contexte": null,
+      "texte": "Jeudi 15 octobre, elle a compté « environ 200 personnes » rassemblées devant le lycée Jean-Dautet, selon Hélène FM. Aucune déclaration de manifestation n'avait été déposée en préfecture vendredi, d'après INF La Rochelle.",
+      "url": "https://www.helenefm.com/?p=72026",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SYNDICAT",
+      "qui": "CGT 17",
+      "contexte": null,
+      "texte": "Elle appelle à une action à 10 h 30 sur le grand rond-point de Tonnay-Charente, face à l'entrée de l'autoroute.",
+      "url": "https://www.helenefm.com/?p=72026",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LYCÉENS",
+      "qui": "Participants à la mobilisation lycéenne",
+      "contexte": null,
+      "texte": "Ils demandent de meilleures conditions d'étude et des locaux adaptés, et appellent à rejoindre la journée contre la vie chère. Propos résumés sans guillemets.",
+      "url": "https://inf-info.fr/la-rochelle-a-quoi-sattendre-pour-la-journee-du-17-octobre/",
+      "source": "Source"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "AGGLOMÉRATION",
+      "qui": "Communauté d'agglomération de La Rochelle",
+      "contexte": null,
+      "texte": "Elle prend des « dispositions préventives » : bus déviés, parking fermé, marché annulé, bacs de collecte à rentrer dès le passage du service.",
+      "url": "https://www.agglo-larochelle.fr/alertes?article=manifestation-du-samedi-17-octobre",
+      "source": "Source"
+     }
+    ],
+    "apres": "Les bus restent déviés « jusqu'au retour à la normale », sans heure annoncée. Yélo et l'Agglomération invitent à consulter leurs sites et applications pour suivre la situation en continu.",
+    "change": "Samedi, le secteur de la place de Verdun n'est plus desservi par les bus à partir de 8 h 30, le parking est inaccessible dès 6 h 30 et le marché de la place n'a pas lieu.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_du_6_octobre_2026_%C3%A0_Paris_57.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Date limite de retrait des publicités pour le livre sur les bus Yélo ; début des travaux à la Porte Dauphine (La Rochelle) et rue de Verdun (Angoulins-sur-Mer)."
+   },
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Angoulins-sur-Mer : fermeture de l'avenue du Commandant Lisiack pour environ un mois."
+   },
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Porte Dauphine : circulation rétablie sur l'avenue, travaux poursuivis côté douves."
+   },
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Angoulins-sur-Mer : fin annoncée des travaux d'assainissement."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Déclaration préalable",
+    "definition": "La démarche obligatoire avant une manifestation sur la voie publique : elle se fait auprès du maire ou du préfet, de 3 à 15 jours francs avant."
+   },
+   {
+    "terme": "Jour franc",
+    "definition": "Un jour entier, sans compter le jour du dépôt ni celui de l'événement."
+   },
+   {
+    "terme": "Régie publicitaire",
+    "definition": "L'entreprise chargée de vendre et d'afficher les publicités sur les bus ou les abribus d'un réseau de transport."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'Agglomération, le parking de la place de Verdun reste ouvert ce samedi 17 octobre.",
+   "reponse": false,
+   "explication": "Il ferme dès 6 h 30, sans aucune entrée ni sortie possible. Le marché de la place de Verdun est aussi annulé."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-17",
   "minutes": 18,
@@ -1034,6 +1399,146 @@
    "affirmation": "Pour élargir l'indication d'Anktiva aux tumeurs papillaires seules, la FDA s'est appuyée sur un nouvel essai mené chez ces patients.",
    "reponse": false,
    "explication": "La FDA n'a pas demandé de nouvel essai : elle a étendu les résultats obtenus chez les patients avec carcinome in situ (cohorte de 77 patients, 62 % de réponse complète), en jugeant les deux cancers proches. L'extension repose donc sur une analogie, non sur une comparaison directe."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-17",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MODÈLES",
+    "titre": "Google : Gemini 4 Argon ouvert à tous, avec un prix qui double fin novembre",
+    "court": "Google : Gemini 4 Argon, un prix qui double",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Pixel_8_Pro_with_Google_Pixel_7_Pro.jpg/1280px-Google_Pixel_8_Pro_with_Google_Pixel_7_Pro.jpg",
+    "legende": "Smartphones Google Pixel (illustration)",
+    "chapeau": "Le 13 octobre, Google a annoncé que son modèle Gemini 4 Argon, présenté le 30 septembre à un cercle restreint de spécialistes de cybersécurité, était disponible pour tous : par l'interface de programmation (API) pour les développeurs, et dans l'application Gemini pour les abonnés Google AI Pro et Ultra, avec un déploiement par étapes.",
+    "eclairage": "Premier ou huitième : pourquoi deux classements différents ?",
+    "chiffres": [
+     {
+      "valeur": "13/10",
+      "legende": "ouverture générale annoncée par Google"
+     },
+     {
+      "valeur": "1 M",
+      "legende": "jetons de contexte (entrée et sortie)"
+     },
+     {
+      "valeur": "x 2",
+      "legende": "prix de l'API après l'offre d'essai"
+     }
+    ],
+    "passe": "Le 13 octobre, Google a annoncé que son modèle Gemini 4 Argon, présenté le 30 septembre à un cercle restreint de spécialistes de cybersécurité, était disponible pour tous : par l'interface de programmation (API) pour les développeurs, et dans l'application Gemini pour les abonnés Google AI Pro et Ultra, avec un déploiement par étapes. Le tarif d'introduction est de 2 dollars par million de jetons (des morceaux de mots) en entrée et 10 dollars en sortie ; Google indique que « the price of $4 per 1M input tokens and $20 per 1M output tokens will apply » (le prix de 4 dollars en entrée et 20 dollars en sortie s'appliquera) à partir du 30 novembre ; d'autres sites parlent du 1er décembre. La fenêtre de contexte annoncée est de 1 million de jetons partagés entre entrée et sortie. Les performances citées par Google sont des annonces. Deux évaluateurs indépendants sont cités par Let's Data Science : Vals AI classe le modèle premier de son indice (68,9 %), tandis qu'Artificial Analysis le place huitième sur 216 modèles, à égalité avec d'autres (53 points), avec un taux d'hallucination de 15 % sur son test, le plus bas parmi les modèles notés 45 ou plus. Sur le code autonome, la comparaison avec les modèles d'Anthropic vient de Google lui-même.",
+    "points": [],
+    "explication": "Un modèle d'IA n'a pas une « note » unique. Chaque évaluateur choisit ses épreuves et leur poids. L'indice de Vals AI mesure des tâches de finance, de code, de droit et de fiscalité, pondérées par le poids de ces secteurs dans l'économie américaine ; celui d'Artificial Analysis réunit dix évaluations plus générales. Un modèle peut donc être premier sur l'un et huitième sur l'autre sans contradiction. Le taux d'hallucination est la part de réponses inventées quand le modèle ne sait pas : ici 15 % sur un test précis, qui ne dit rien des autres usages. Enfin, le prix en jetons n'est pas le prix d'une tâche : un modèle qui « réfléchit » longtemps consomme plus de jetons en sortie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "nom": "Google"
+     },
+     {
+      "url": "https://letsdatascience.com/blog/gemini-4-argon-public-independent-tests-rank-it-first-and-eighth",
+      "nom": "Let's Data Science"
+     },
+     {
+      "url": "https://smartscope.blog/en/blog/gemini-4-argon-access-introductory-pricing-2026/",
+      "nom": "SmartScope"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Google",
+      "contexte": "annonce du 13 octobre",
+      "texte": "Google dit viser avec Argon les tâches professionnelles et indique que des centaines de partenaires de son programme Fairwind, réservé à la cyberdéfense, y accéderont « without cyber guardrails on a rolling basis » (sans garde-fous de cybersécurité, au fil de l'eau).",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "Vals AI, Artificial Analysis",
+      "contexte": "évaluations citées par Let's Data Science",
+      "texte": "Vals AI classe Argon premier sur son indice (68,9 %) ; Artificial Analysis le place huitième avec 53 points et note un taux d'hallucination de 15 %, le plus bas des modèles à 45 points ou plus.",
+      "url": "https://letsdatascience.com/blog/gemini-4-argon-public-independent-tests-rank-it-first-and-eighth",
+      "source": "Let's Data Science"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Nvidia",
+      "contexte": "annonce du 15 octobre",
+      "texte": "Nvidia dit que Super VL offre jusqu'à cinq fois le débit de modèles comparables et que Bolt est premier des modèles ouverts de sa catégorie sur PinchBench ; ces mesures sont celles de l'entreprise.",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "source": "Nvidia"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "Artificial Analysis",
+      "contexte": "article du 15 octobre",
+      "texte": "L'évaluateur note 26 points pour Super VL et 21 pour Bolt, et précise que ses tests ne remplacent pas une évaluation propre à chaque usage.",
+      "url": "https://artificialanalysis.ai/articles/nemotron-3-5-super-and-bolt",
+      "source": "Artificial Analysis"
+     }
+    ],
+    "apres": "Le prix double autour du 30 novembre ou du 1er décembre selon les sources. Les comparaisons indépendantes sur le code autonome restent à publier.",
+    "change": "Pour un développeur ou une entreprise, l'offre d'essai à 2 et 10 dollars incite à tester avant la fin novembre, puis le coût double. Pour un particulier, l'accès passe par un abonnement payant (Pro ou Ultra).",
+    "credit": {
+     "auteur": "SimonWaldherr",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Google_Pixel_8_Pro_with_Google_Pixel_7_Pro.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "5 Bolt E4B (4 Go), selon Nvidia (Nvidia)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Commission européenne : fin de la consultation sur le projet de règlement d'exécution de l'AI Act (Commission)."
+   },
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Google : fin du tarif d'introduction de Gemini 4 Argon ; 4 et 20 dollars par million de jetons ensuite (Google)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Quantification",
+    "definition": "Réduction du nombre de bits qui stockent chaque paramètre, pour alléger un modèle ; quantization en anglais."
+   },
+   {
+    "terme": "Inférence",
+    "definition": "Phase où un modèle déjà entraîné produit une réponse."
+   },
+   {
+    "terme": "Mélange d'experts",
+    "definition": "Modèle dont seule une partie des paramètres travaille à chaque calcul ; mixture of experts en anglais."
+   },
+   {
+    "terme": "Agent",
+    "definition": "Programme d'IA qui enchaîne plusieurs actions pour atteindre un but."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le modèle Bolt 74B-A9B de Nvidia est conçu pour tenir dans 24 Go de mémoire.",
+   "reponse": true,
+   "explication": "Vrai : selon Nvidia, ce modèle de 74 milliards de paramètres utilise une quantification sur 2 bits pour tenir dans 24 Go, sur des cartes RTX ou des machines DGX Spark."
   }
  },
  {
