@@ -1,6 +1,1043 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-17",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MARCHÉS",
+    "titre": "Wall Street : les valeurs des puces reculent sur les craintes liées à l'IA",
+    "court": "Wall Street : les puces reculent, l'IA inquiète",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg/1280px-Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg",
+    "legende": "Carte graphique Nvidia (illustration)",
+    "chapeau": "Vendredi 16 octobre, la Bourse de New York a clôturé en nette baisse. Le Nasdaq a perdu 2,14 %, le S&P 500 1,09 % et le Dow Jones 0,34 %, selon l'AFP.",
+    "eclairage": "Pourquoi une dette sur l'IA fait-elle trembler les Bourses ?",
+    "chiffres": [
+     {
+      "valeur": "-2,14 %",
+      "legende": "Nasdaq vendredi 16 octobre"
+     },
+     {
+      "valeur": "-5,95 %",
+      "legende": "AMD en séance vendredi"
+     },
+     {
+      "valeur": "-12 %",
+      "legende": "indice des puces sur six séances"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, la Bourse de New York a clôturé en nette baisse. Le Nasdaq a perdu 2,14 %, le S&P 500 1,09 % et le Dow Jones 0,34 %, selon l'AFP. Les valeurs des semi-conducteurs ont de nouveau reculé : Broadcom -4,52 %, Micron -5,63 %, AMD -5,95 %, tandis que Nvidia cédait 1,43 %. Les entreprises du « néocloud », qui construisent des centres de données pour l'IA, ont chuté, comme CoreWeave (-11,91 %) et Nebius (-12,18 %). Sur six séances, l'indice Philadelphia Semiconductor perdait environ 12 %, soit une perte de valeur boursière estimée entre plus de 1 000 et 1 640 milliards de dollars selon les sources. Les motifs cités : doutes sur la rentabilité des dépenses d'IA, niveau d'endettement de certains acteurs et hausse des prix du pétrole. Les résultats trimestriels du secteur, attendus dans les prochains jours, doivent dire si la demande tient.",
+    "points": [
+     "Construire l'IA coûte très cher. Les centres de données demandent des puces, de l'électricité et des bâtiments. Beaucoup d'entreprises empruntent pour les financer, avant d'avoir des clients qui paient.",
+     "Quand les taux montent, l'emprunt coûte plus. Un prêt à 5 % pèse davantage qu'un prêt à 3 % : les intérêts se paient en liquidités, pas en promesses, comme le dit un gérant cité par l'AFP.",
+     "Une valorisation, c'est un pari sur l'avenir. Le cours d'une action reflète les bénéfices attendus. Si les investisseurs doutent de ces bénéfices, le prix baisse, même quand les ventes du moment sont bonnes."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/wall-street-termine-dans-le-rouge-rattrapee-par-les-craintes-sur-l-ia-afp-00f035e12f3f07fdd81660146c625584e4ea5a1b",
+      "nom": "Bourse Direct (AFP)"
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soxx-heads-7th-straight-losing-174325012.html",
+      "nom": "Yahoo Finance"
+     },
+     {
+      "url": "https://www.kucoin.com/news/flash/semiconductor-stocks-lose-1-64-trillion-in-six-sessions-amid-ai-spending-concerns",
+      "nom": "KuCoin News (cite Reuters et Bloomberg)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Jose Torres",
+      "contexte": "Interactive Brokers",
+      "texte": "Il cite les doutes sur les dépenses massives de l'IA, des valorisations jugées excessives, des financements circulaires et la concurrence chinoise.",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/wall-street-termine-dans-le-rouge-rattrapee-par-les-craintes-sur-l-ia-afp-00f035e12f3f07fdd81660146c625584e4ea5a1b",
+      "source": "Bourse Direct (AFP)"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Joe Tigay",
+      "contexte": "Equity Armor Investments",
+      "texte": "Il juge que le marché voit l'ampleur de la dette, mais beaucoup moins les entreprises non cotées dont les promesses servent de garantie.",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/wall-street-termine-dans-le-rouge-rattrapee-par-les-craintes-sur-l-ia-afp-00f035e12f3f07fdd81660146c625584e4ea5a1b",
+      "source": "Bourse Direct (AFP)"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "UBS Global Wealth Management",
+      "contexte": "note du mercredi 14 octobre",
+      "texte": "Elle décrit le recul comme une recalibration des attentes plus qu'une rupture de fond dans l'investissement en IA.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soxx-heads-7th-straight-losing-174325012.html",
+      "source": "Yahoo Finance"
+     }
+    ],
+    "apres": "Les résultats trimestriels des grands groupes de la tech arrivent dans les prochains jours. L'AFP signale ceux de Tesla mercredi 21 octobre.",
+    "change": "Pour les épargnants, les fonds qui détiennent des valeurs technologiques ont reculé cette semaine. Pour les entreprises de l'IA, emprunter devient plus coûteux si les taux restent hauts.",
+    "credit": {
+     "auteur": "FreeMediaKid!",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nvidia_GeForce_RTX_5060_Ti_16GB,_PNY_Overclocked_Dual_Fan,_front.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CONJONCTURE",
+    "titre": "Taux français : la Banque de France écarte une intervention de la BCE",
+    "court": "Taux français : pas d'intervention de la BCE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banque_de_France%2C_rue_de_S%C3%A8vres%2C_Boulevard_Raspail%2C_Paris_6e_2.jpg/1280px-Banque_de_France%2C_rue_de_S%C3%A8vres%2C_Boulevard_Raspail%2C_Paris_6e_2.jpg",
+    "legende": "Monogramme de la Banque de France (illustration)",
+    "chapeau": "Vendredi 16 octobre, le gouverneur de la Banque de France, Emmanuel Moulin, a déclaré à l'AFP à Bangkok que les « conditions ne sont pas réunies » pour une intervention de la Banque centrale européenne (BCE) sur le marché obligataire.",
+    "eclairage": "Pourquoi les taux de la dette montent, et pourquoi la BCE n'intervient pas",
+    "chiffres": [
+     {
+      "valeur": "~5 %",
+      "legende": "taux à 10 ans de la France"
+     },
+     {
+      "valeur": "2002",
+      "legende": "dernier niveau comparable"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027 (PIB)"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, le gouverneur de la Banque de France, Emmanuel Moulin, a déclaré à l'AFP à Bangkok que les « conditions ne sont pas réunies » pour une intervention de la Banque centrale européenne (BCE) sur le marché obligataire. Le taux d'emprunt de la France à dix ans s'approche de 5 %, un niveau record depuis 2002. Selon lui, la zone euro ne connaît pas de fragmentation financière. Il estime que le secteur financier, banques et assurances, peut absorber la hausse grâce à son capital et à ses réserves. Son inquiétude porte sur les finances publiques : des taux plus hauts alourdissent la charge de la dette. Le projet de budget 2027, discuté à l'Assemblée nationale, vise un déficit de 5 % du PIB, mais son adoption reste incertaine faute de majorité.",
+    "points": [
+     "L'État emprunte en vendant des obligations. Les investisseurs les achètent et reçoivent un intérêt, le « taux ». S'ils doutent de la capacité de l'État à rembourser, ils réclament un taux plus haut.",
+     "Un taux plus haut pèse sur le budget. Chaque euro d'intérêt payé est un euro qui ne finance ni école, ni hôpital, ni baisse du déficit.",
+     "La BCE peut racheter des obligations, sous conditions. Elle le fait quand des mouvements de marché sont « désordonnés et injustifiés » et menacent la transmission de sa politique monétaire. Selon Emmanuel Moulin, ce n'est pas le cas."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france-afp-96284888eef4a9280ad23523c6ad7bf238e1de23",
+      "nom": "Bourse Direct (AFP)"
+     },
+     {
+      "url": "https://www.lagazettefrance.fr/article/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france",
+      "nom": "La Gazette France (AFP)"
+     },
+     {
+      "url": "https://entrevue.fr/economie/dette-francaise-la-bce-refuse-dintervenir-malgre-des-taux-demprunt-proches-de-5/",
+      "nom": "Entrevue"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Emmanuel Moulin",
+      "contexte": "gouverneur de la Banque de France",
+      "texte": "« Aujourd'hui, ces conditions ne sont pas réunies. On ne constate pas une fragmentation financière de la zone euro », dit-il.",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france-afp-96284888eef4a9280ad23523c6ad7bf238e1de23",
+      "source": "Bourse Direct (AFP)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Rassemblement national",
+      "contexte": "parti politique",
+      "texte": "Il a demandé jeudi la démission du gouverneur, accusé d'avoir « franchi la ligne rouge » en rappelant que le budget pouvait être adopté sans vote au Parlement.",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france-afp-96284888eef4a9280ad23523c6ad7bf238e1de23",
+      "source": "Bourse Direct (AFP)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "La France insoumise",
+      "texte": "L'AFP rapporte une vive réaction du dirigeant de LFI après les propos tenus jeudi par le gouverneur.",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france-afp-96284888eef4a9280ad23523c6ad7bf238e1de23",
+      "source": "Bourse Direct (AFP)"
+     }
+    ],
+    "apres": "Le budget 2027 est en discussion à l'Assemblée nationale. La BCE tient sa réunion de politique monétaire les 28 et 29 octobre.",
+    "change": "Pour l'État, un taux proche de 5 % renchérit chaque nouvelle dette émise. Pour les banques et assurances, le gouverneur juge la solidité suffisante.",
+    "credit": {
+     "auteur": "Polymagou",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Banque_de_France,_rue_de_S%C3%A8vres,_Boulevard_Raspail,_Paris_6e_2.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Panzani et Cerealis : négociations exclusives en vue d'une fusion",
+    "court": "Panzani et Cerealis : vers une fusion",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Silo_Panzani.jpg/1280px-Silo_Panzani.jpg",
+    "legende": "Silo Panzani",
+    "chapeau": "Vendredi 16 octobre, les actionnaires de Panzani (pâtes, couscous, sauces, siège à Lyon) et du portugais Cerealis (pâtes, céréales, biscuits, siège à Porto) ont annoncé des négociations exclusives pour les réunir en un groupe agroalimentaire « indépendant et diversifié ».",
+    "eclairage": "Pourquoi deux fabricants de pâtes veulent-ils fusionner ?",
+    "chiffres": [
+     {
+      "valeur": "1,8 Md€",
+      "legende": "valeur d'entreprise du futur groupe"
+     },
+     {
+      "valeur": "1 Md€",
+      "legende": "chiffre d'affaires annuel cumulé"
+     },
+     {
+      "valeur": "1 800",
+      "legende": "salariés du futur groupe"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, les actionnaires de Panzani (pâtes, couscous, sauces, siège à Lyon) et du portugais Cerealis (pâtes, céréales, biscuits, siège à Porto) ont annoncé des négociations exclusives pour les réunir en un groupe agroalimentaire « indépendant et diversifié ». Panzani, contrôlé par le fonds CVC Capital Partners, a réalisé 620 millions d'euros de chiffre d'affaires en 2025 ; Cerealis, détenu par les familles Moreira Da Silva et Silva Domingues et par Sofina, 400 millions. Le groupe vaudrait environ 1,8 milliard d'euros, dette comprise, selon Reuters. CVC garderait une participation minoritaire. Pedro Moreira da Silva, de Cerealis, dirigerait l'ensemble ; Albert Mathieu resterait à la tête de Panzani. L'opération reste soumise à la consultation des représentants du personnel et à des autorisations réglementaires.",
+    "points": [
+     "Taille et coûts. Un groupe plus gros achète blé, emballages et énergie en plus grandes quantités et peut négocier de meilleurs prix. Selon Reuters, les fabricants cherchent de l'échelle pour faire face à la hausse des coûts.",
+     "Face aux distributeurs. Les supermarchés négocient durement leurs prix. Un fournisseur plus important pèse davantage dans ces discussions.",
+     "Une valeur d'entreprise inclut la dette. Les 1,8 milliard d'euros additionnent la valeur des actions et la dette nette : c'est le prix pour acheter l'ensemble de l'activité."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.prnewswire.com/news-releases/panzani-et-cerealis-sassocient-pour-creer-un-grand-groupe-alimentaire-europeen-302911313.html",
+      "nom": "Communiqué Panzani-Cerealis (PR Newswire)"
+     },
+     {
+      "url": "https://www.bluewin.ch/fr/infos/economie/panzani-veut-fusionner-avec-le-portugais-cerealis-li.3638484",
+      "nom": "Keystone-ATS via Bluewin"
+     },
+     {
+      "url": "https://www.globalbankingandfinance.com/panzani-cerealis-talks-create-1-8-billion-european-food/",
+      "nom": "Reuters via Global Banking & Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Albert Mathieu",
+      "contexte": "directeur général de Panzani",
+      "texte": "« Ce projet marquerait un nouveau chapitre pour Panzani », dit-il dans le communiqué commun.",
+      "url": "https://www.prnewswire.com/news-releases/panzani-et-cerealis-sassocient-pour-creer-un-grand-groupe-alimentaire-europeen-302911313.html",
+      "source": "communiqué PR Newswire"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Harold Boël",
+      "contexte": "directeur général de Sofina",
+      "texte": "« Soutenir les entreprises familiales multigénérationnelles et accompagner leurs ambitions de croissance à long terme est au cœur de la mission de Sofina. »",
+      "url": "https://www.prnewswire.com/news-releases/panzani-et-cerealis-sassocient-pour-creer-un-grand-groupe-alimentaire-europeen-302911313.html",
+      "source": "communiqué PR Newswire"
+     }
+    ],
+    "apres": "Consultation des instances représentatives du personnel, puis autorisations réglementaires. Aucune date n'a été communiquée.",
+    "change": "Pour les salariés, les deux entreprises conserveraient leurs sièges et une organisation décentralisée, selon le communiqué ; l'avis des représentants du personnel est requis. Pour les clients, les marques resteraient distinctes.",
+    "credit": {
+     "auteur": "Sophiedidacressources",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Silo_Panzani.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "21",
+    "mois": "OCT.",
+    "texte": "Résultats trimestriels de Tesla, attendus mercredi selon l'AFP."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Rendement (d'une obligation)",
+    "definition": "Le taux d'intérêt que reçoit celui qui prête à un État ou à une entreprise. Quand le prix de l'obligation baisse, son rendement monte."
+   },
+   {
+    "terme": "Valeur d'entreprise",
+    "definition": "La valeur des actions plus la dette nette. Elle mesure le prix d'achat de l'ensemble de l'activité."
+   },
+   {
+    "terme": "Valorisation",
+    "definition": "Le prix que le marché accorde à une entreprise, souvent calculé sur ses bénéfices futurs attendus."
+   },
+   {
+    "terme": "Fragmentation financière",
+    "definition": "Quand les taux d'emprunt des pays d'une même zone monétaire s'écartent trop, ce qui gêne la politique de la banque centrale."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le taux d'emprunt de la France à dix ans s'approche de 5 %, un niveau record depuis 2002.",
+   "reponse": true,
+   "explication": "Vrai : selon l'AFP, ce taux approche 5 %, des niveaux records depuis 2002."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-17",
+  "minutes": 18,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIÉTÉ",
+    "titre": "Mobilisation du 17 octobre : environ 500 actions prévues, Paris sous arrêtés",
+    "court": "17 octobre : 500 actions prévues en France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg/1280px-Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg",
+    "legende": "Des gilets jaunes assis avec des pancartes lors d'une manifestation à Saint-Étienne en 2019 (illustration)",
+    "chapeau": "Samedi 17 octobre, une journée de mobilisation « contre la vie chère » est prévue partout en France, à l'appel notamment de lycéens, d'étudiants et de groupes de gilets jaunes.",
+    "eclairage": "Parcours imposé, interdiction partielle, « armes intermédiaires »",
+    "chiffres": [
+     {
+      "valeur": "~500",
+      "legende": "actions envisagées (entourage de Nuñez)"
+     },
+     {
+      "valeur": "250",
+      "legende": "appels à agir selon le ministre"
+     },
+     {
+      "valeur": "90+",
+      "legende": "manifestations en structuration"
+     }
+    ],
+    "passe": "Samedi 17 octobre, une journée de mobilisation « contre la vie chère » est prévue partout en France, à l'appel notamment de lycéens, d'étudiants et de groupes de gilets jaunes. Vendredi 16 octobre, le ministre de l'Intérieur Laurent Nuñez a dit sur France 2 s'attendre à « une mobilisation assez importante », avec environ 250 appels à des actions sur la voie publique et environ 80 cortèges ; son entourage a indiqué à l'AFP qu'environ 500 actions étaient « envisagées » et plus de 90 manifestations « en cours de structuration ». À Paris, le préfet de police Patrice Faure a pris des arrêtés interdisant de manifester samedi dans plusieurs secteurs, dont les Champs-Élysées et les abords de l'Élysée et de Matignon ; le parcours des cortèges restait en discussion avec les organisateurs (de la Bastille à la place de Clichy proposé dans la journée selon Le Figaro, de la place de la République à la place de Clichy fixé en soirée selon actu.fr). Laurent Nuñez a précisé que « tous les types d'armes intermédiaires pourront être utilisés », dont les grenades assourdissantes, suspendues après qu'un lycéen a eu la main arrachée à Lens, en cas de « violences urbaines extrêmement graves ». Emmanuel Macron a appelé « au calme et au respect » depuis Bruxelles, et le Premier ministre Sébastien Lecornu a convoqué une cellule interministérielle de crise.",
+    "points": [
+     "Les organisateurs, appelés déclarants, déclarent la manifestation à la préfecture et proposent un parcours ; la préfecture de police a dit avoir dialogué avec l'ensemble d'entre eux.",
+     "Selon la préfecture, l'arrêté d'interdiction partiel « n'interdit pas la manifestation mais fixe un itinéraire » ; les contrevenants risquent une amende de 135 €.",
+     "Les armes intermédiaires désignent ici les grenades (dont les assourdissantes), les lanceurs de balles de défense (LBD) et les pistolets à impulsion électrique."
+    ],
+    "explication": "1. Les organisateurs, appelés déclarants, déclarent la manifestation à la préfecture et proposent un parcours ; la préfecture de police a dit avoir dialogué avec l'ensemble d'entre eux. 2. Selon la préfecture, l'arrêté d'interdiction partiel « n'interdit pas la manifestation mais fixe un itinéraire » ; les contrevenants risquent une amende de 135 €. 3. Les armes intermédiaires désignent ici les grenades (dont les assourdissantes), les lanceurs de balles de défense (LBD) et les pistolets à impulsion électrique.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-emmanuel-macron-appelle-au-calme-443905",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-pas-d-accord-sur-le-parcours-du-cortege-parisien-annonce-le-prefet-de-police-patrice-faure-20261016",
+      "nom": "Le Figaro"
+     },
+     {
+      "url": "https://actu.fr/ile-de-france/paris_75056/mobilisation-du-17-octobre-les-corteges-ne-pourront-pas-manifester-autour-de-l-elysee-et-matignon_64936907.html",
+      "nom": "actu.fr, avec AFP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/faits-divers/police/manifestations-du-17-octobre-tous-les-types-d-armes-intermediaires-comme-les-grenades-ou-les-lbd-pourront-etre-utilises-en-cas-de-violences-affirme-laurent-nunez_8239792.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.la-croix.com/societe/mobilisation-du-17-octobre-elysee-matignon-a-paris-plusieurs-secteurs-interdits-a-la-manifestation-20261016",
+      "nom": "La Croix"
+     },
+     {
+      "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
+      "nom": "Midi Libre"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "« La mobilisation sociale est un prétexte demain. »",
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Mathilde Panot",
+      "contexte": "cheffe de file des députés",
+      "texte": "« Nous serons aux côtés de celles et ceux qui manifestent, lycéens comme gilets jaunes »",
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Fabien Roussel",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Il a appelé à la convergence des luttes (propos résumés).",
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "candidate à la présidentielle",
+      "texte": "Elle défilera dans les rues de la capitale (propos résumés).",
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Il y a un droit constitutionnel à manifester, mais ce qui va avec ce droit, c'est le respect, le respect des personnes et le respect des biens »",
+      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-emmanuel-macron-appelle-au-calme-443905",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« Dans un contexte extrêmement dégradé, tous les types d'armes intermédiaires pourront être utilisés »",
+      "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
+      "source": "Midi Libre"
+     }
+    ],
+    "apres": "Les estimations de participation varient : de 20 000 à 40 000 personnes à Paris et de 50 000 à 100 000 ailleurs selon BFMTV, 40 000 à Paris et 150 000 ailleurs selon Libération. Selon LCP, la CFDT et FO se réservent pour une mobilisation du public et du privé prévue le 5 novembre.",
+    "change": "Samedi, les arrêtés s'appliquent dans les secteurs concernés de Paris ; les forces de l'ordre peuvent recourir aux armes intermédiaires en cas de violences graves, selon le ministre.",
+    "credit": {
+     "auteur": "Touam (Hervé Agnoux)",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "INSTITUTIONS",
+    "titre": "Conseil constitutionnel : le RN et l'UDR réclament la démission de Ferrand",
+    "court": "Ferrand : requête du RN au Conseil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Conseil_constitutionnel%2C_Palais_Royal%2C_Paris_1.jpg/1280px-Conseil_constitutionnel%2C_Palais_Royal%2C_Paris_1.jpg",
+    "legende": "L'entrée du Conseil constitutionnel, au Palais-Royal à Paris",
+    "chapeau": "Vendredi 16 octobre, les parlementaires du Rassemblement national et de l'UDR ont saisi le Conseil constitutionnel pour demander que soit constatée la « démission d'office » de son président, Richard Ferrand, selon l'AFP, LCP et franceinfo.",
+    "eclairage": "Article 11 ou article 89 : deux façons de changer la Constitution",
+    "chiffres": [
+     {
+      "valeur": "16/10",
+      "legende": "requête RN-UDR déposée"
+     },
+     {
+      "valeur": "11",
+      "legende": "article de la Constitution visé"
+     },
+     {
+      "valeur": "89",
+      "legende": "article cité par R. Ferrand"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, les parlementaires du Rassemblement national et de l'UDR ont saisi le Conseil constitutionnel pour demander que soit constatée la « démission d'office » de son président, Richard Ferrand, selon l'AFP, LCP et franceinfo. Leur requête est adressée au doyen d'âge du Conseil, l'ancien Premier ministre Alain Juppé, selon l'AFP. Ils reprochent à Richard Ferrand d'avoir dit, dans un podcast du Club des juristes réalisé avec BFMTV : « Aujourd'hui, vouloir réformer la Constitution par l'article 11, ça n'existe pas ». Ces propos visent une proposition de Marine Le Pen : réviser la Constitution par référendum, sans passer par le Parlement. Les requérants estiment qu'il a ainsi pris une « position publique » sur une question qui pourrait être soumise au Conseil, ce que le règlement de l'institution interdit à ses membres. Selon LCP, seuls les membres du Conseil peuvent déclencher cette procédure, et des juristes contestent la recevabilité de la requête ; selon Public Sénat, d'autres constitutionnalistes estiment qu'il a pris parti sur une question non tranchée depuis plus de soixante ans. Le Conseil constitutionnel n'a fait aucun commentaire, selon franceinfo.",
+    "points": [
+     "L'article 11 permet un référendum direct, sans vote préalable du Parlement. Le général de Gaulle y a eu recours en 1962 pour l'élection du président de la République ; la plupart des juristes en contestent la légalité pour réviser la Constitution, selon Public Sénat.",
+     "L'article 89 est la voie qui passe par le Parlement. Richard Ferrand a dit que c'était celle-là, selon LCP.",
+     "Selon LCP, l'ordonnance de 1958 et un décret de 1959 prévoient que les membres du Conseil peuvent décider, au scrutin secret, si l'un des leurs a manqué à ses obligations, et constater le cas échéant sa démission d'office."
+    ],
+    "explication": "1. L'article 11 permet un référendum direct, sans vote préalable du Parlement. Le général de Gaulle y a eu recours en 1962 pour l'élection du président de la République ; la plupart des juristes en contestent la légalité pour réviser la Constitution, selon Public Sénat. 2. L'article 89 est la voie qui passe par le Parlement. Richard Ferrand a dit que c'était celle-là, selon LCP. 3. Selon LCP, l'ordonnance de 1958 et un décret de 1959 prévoient que les membres du Conseil peuvent décider, au scrutin secret, si l'un des leurs a manqué à ses obligations, et constater le cas échéant sa démission d'office.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/le-rn-et-l-udr-saisissent-le-conseil-constitutionnel-reclamant-la-demission-de-ferrand-5a430a5ceabc434ccc4da88b2d393736",
+      "nom": "Boursorama, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/le-rn-veut-evincer-richard-ferrand-une-requete-au-conseil-constitutionnel-contestee-par",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate à la présidentielle",
+      "texte": "« Il a rompu avec l'obligation qui est la sienne de neutralité »",
+      "url": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CONSEIL CONSTITUTIONNEL",
+      "qui": "Alain Juppé",
+      "contexte": "doyen d'âge, dans Le Monde",
+      "texte": "« parfaitement dans son rôle quand il explique comment il faut lire et comprendre la Constitution »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/le-rn-et-l-udr-saisissent-le-conseil-constitutionnel-reclamant-la-demission-de-ferrand-5a430a5ceabc434ccc4da88b2d393736",
+      "source": "Boursorama, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CONSTITUTIONNALISTE",
+      "qui": "Dominique Rousseau",
+      "contexte": "professeur émérite de droit public",
+      "texte": "« Ce que les parlementaires du RN et de l'UDR mettent en cause, ce n'est pas le président du Conseil constitutionnel, mais le Conseil constitutionnel lui-même. »",
+      "url": "https://lcp.fr/actualites/le-rn-veut-evincer-richard-ferrand-une-requete-au-conseil-constitutionnel-contestee-par",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Le Conseil constitutionnel n'avait fait aucun commentaire vendredi. Les requérants soutiennent que la procédure doit être ouverte à toute personne pouvant saisir le Conseil ; des juristes cités par LCP et Public Sénat estiment le contraire.",
+    "change": "Le Conseil n'a pas indiqué s'il jugeait la requête recevable ; selon LCP, seuls ses membres peuvent déclencher la procédure.",
+    "credit": {
+     "auteur": "Mu (Wikimedia Commons)",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Conseil_constitutionnel,_Palais_Royal,_Paris_1.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget de la Sécu 2027 : les députés rejettent le texte en commission",
+    "court": "Budget de la Sécu : rejeté en commission",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Back_facade_of_Palais_Bourbon%2C_Paris_7th_001.jpg/1280px-Back_facade_of_Palais_Bourbon%2C_Paris_7th_001.jpg",
+    "legende": "L'entrée du Palais Bourbon, siège de l'Assemblée nationale (illustration)",
+    "chapeau": "Vendredi 16 octobre, la commission des affaires sociales de l'Assemblée nationale a rejeté le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, après l'avoir examiné du 12 au 16 octobre.",
+    "eclairage": "Pourquoi un rejet en commission ne bloque rien",
+    "chiffres": [
+     {
+      "valeur": "12,7",
+      "legende": "Md€ de déficit visé (21,8 en 2026)"
+     },
+     {
+      "valeur": "21,4",
+      "legende": "Md€ de déficit après la commission"
+     },
+     {
+      "valeur": "20/10",
+      "legende": "début de l'examen en séance"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, la commission des affaires sociales de l'Assemblée nationale a rejeté le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, après l'avoir examiné du 12 au 16 octobre. Ce rejet n'a pas de conséquence juridique : selon la procédure, le texte sera débattu dans l'hémicycle, dans sa version initiale, à partir du mardi 20 octobre. Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026, avec un effort de près de 10 milliards d'euros ; sans mesures, le déficit serait de 22,6 milliards selon l'exécutif. En commission, les députés ont notamment supprimé la limitation de l'indexation des pensions, qui ne prévoyait de revaloriser sur l'inflation que les pensions jusqu'à 1 260 € (environ 4 milliards d'euros d'économies si les autres étaient gelées), avec des amendements portés par des groupes allant du RN à LFI. Le rapporteur général Thibault Bazin (Droite républicaine) a indiqué que, « à titre pédagogique », les modifications de la commission équivaudraient à un déficit de 21,39 milliards d'euros en 2027.",
+    "points": [],
+    "explication": "Un texte budgétaire rejeté en commission n'est pas écarté : la version initiale du gouvernement arrive quand même dans l'hémicycle, où chaque mesure peut être rediscutée. Selon Capital, tout ce que la commission a voté, supprimé ou ajouté, devra l'être de nouveau en séance. Le PLFSS fixe les recettes et les dépenses de la Sécurité sociale ; son objectif de dépenses d'assurance maladie (Ondam) n'augmenterait que de 2 % en 2027, contre environ 3 % en 2025 et 2026, selon BFMTV.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/gel-des-pensions-de-retraite-superieures-a-1-260-euros-economies-sur-les-medicaments-les-deputes-rejettent-en-commission-le-projet-de-budget-de-la-securite-sociale_AD-202610160626.html",
+      "nom": "BFMTV"
+     },
+     {
+      "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-en-commission-les-deputes-font-exploser-le-deficit-a-plus-de-21-milliards-deuros-1531056",
+      "nom": "Capital"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plfss-pour-2027-examen-et-rejet-du-projet-de-loi-en-commission-des-affaires-sociales",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Gouvernement",
+      "contexte": "position rapportée",
+      "texte": "Il s'est dit ouvert à une revalorisation partielle de certaines pensions, notamment entre 1 260 € et 2 000 € (propos résumés).",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Thibault Bazin",
+      "contexte": "rapporteur général du budget de la Sécurité sociale",
+      "texte": "« Il y a de très nombreux articles qui ont été supprimés »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Début de l'examen dans l'hémicycle de l'Assemblée le mardi 20 octobre, sur le texte initial du gouvernement.",
+    "change": "À ce stade, rien n'est modifié : le débat repart du texte du gouvernement, et la limitation de l'indexation des pensions sera rediscutée en séance.",
+    "credit": {
+     "auteur": "Moonik",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Back_facade_of_Palais_Bourbon,_Paris_7th_001.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "COLLECTIVITÉS",
+    "titre": "Départements : l'absence de Lecornu au congrès de Reims fait réagir les élus",
+    "court": "Départements : Lecornu absent du congrès",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/H%C3%B4tel_de_Ville_de_Reims%2C_Southeast_View_20140306_1.jpg/1280px-H%C3%B4tel_de_Ville_de_Reims%2C_Southeast_View_20140306_1.jpg",
+    "legende": "L'hôtel de ville de Reims, ville du congrès des départements (illustration)",
+    "chapeau": "Vendredi 16 octobre à Reims, lors des 95es Assises des Départements de France, le Premier ministre Sébastien Lecornu, traditionnellement présent, était absent : il avait annulé sa venue la veille au soir, invoquant dans une lettre le « contexte national et international […] marqué par une succession de crises », selon Public Sénat.",
+    "eclairage": "Pourquoi les départements s'inquiètent-ils pour leurs finances ?",
+    "chiffres": [
+     {
+      "valeur": "≥1,2",
+      "legende": "Md€ de mesures visant les départements"
+     },
+     {
+      "valeur": "5,4",
+      "legende": "Md€ de coupes pour les collectivités"
+     },
+     {
+      "valeur": "16/11",
+      "legende": "rendez-vous à Matignon"
+     }
+    ],
+    "passe": "Vendredi 16 octobre à Reims, lors des 95es Assises des Départements de France, le Premier ministre Sébastien Lecornu, traditionnellement présent, était absent : il avait annulé sa venue la veille au soir, invoquant dans une lettre le « contexte national et international […] marqué par une succession de crises », selon Public Sénat. Il a invité les départements à Matignon le 16 novembre. Le président de Départements de France, François Sauvadet (UDI), a dit que cette lettre allait « exacerber les tensions » ; une grande partie des élus ont quitté la salle au moment du discours de la ministre de la Décentralisation, Françoise Gatel, selon l'AFP et Public Sénat. Les départements contestent les mesures du projet de loi de finances 2027 : plus de 1,2 milliard d'euros de mesures les concernant sur 5,4 milliards d'euros de coupes dans le budget des collectivités selon l'AFP, 1,8 milliard d'euros de prélèvement selon Public Sénat. Françoise Gatel a défendu le Premier ministre en le décrivant comme « le capitaine d'un bateau profondément secoué ».",
+    "points": [],
+    "explication": "Selon l'AFP, les départements sont « coincés entre la baisse de recette des transactions immobilières et l'explosion des aides sociales ». Selon Public Sénat, François Sauvadet demande que l'État finance davantage les allocations individuelles de solidarité (handicap, RSA, allocation personnalisée d'autonomie) et critique la baisse du fonds de sauvegarde destiné à 57 départements en difficulté, ramené de 600 à 100 millions d'euros. L'an dernier, Sébastien Lecornu était venu au congrès annoncer un fonds de sauvegarde de 600 millions d'euros, selon l'AFP.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/au-congres-des-departements-lecornu-a-les-oreilles-qui-sifflent-ba321c1dfdfb4acb7f950d5ec96f908e",
+      "nom": "Boursorama, avec AFP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/methode-detestable-colere-tensions-francois-sauvadet-repond-a-labsence-de-sebastien-lecornu-aux-assises-des-departements-de-france",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/en-reponse-a-labsence-de-lecornu-les-presidents-de-departements-boycottent-le-discours-de-francoise-gatel",
+      "nom": "Public Sénat (boycott)"
+     },
+     {
+      "url": "https://fr.news.yahoo.com/congr%C3%A8s-d%C3%A9partements-ne-ferme-gueule-144438970.html",
+      "nom": "Yahoo Actualités (20 Minutes)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Jean-Luc Gleize",
+      "contexte": "président de la Gironde",
+      "texte": "« Que nous vaut le dédaigneux mépris du gouvernement ? »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/au-congres-des-departements-lecornu-a-les-oreilles-qui-sifflent-ba321c1dfdfb4acb7f950d5ec96f908e",
+      "source": "Boursorama, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Françoise Gatel",
+      "contexte": "ministre de la Décentralisation",
+      "texte": "« Il est le capitaine d'un bateau profondément secoué »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/au-congres-des-departements-lecornu-a-les-oreilles-qui-sifflent-ba321c1dfdfb4acb7f950d5ec96f908e",
+      "source": "Boursorama, avec AFP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Nicolas Lacroix",
+      "contexte": "représentant des départements de droite et du centre",
+      "texte": "« On n'est jamais trahi que par ses amis »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/au-congres-des-departements-lecornu-a-les-oreilles-qui-sifflent-ba321c1dfdfb4acb7f950d5ec96f908e",
+      "source": "Boursorama, avec AFP"
+     }
+    ],
+    "apres": "Rendez-vous à Matignon le 16 novembre ; selon Public Sénat, François Sauvadet a annoncé qu'il écrirait lui aussi au Premier ministre.",
+    "change": "Le dialogue entre l'exécutif et les départements est reporté au 16 novembre, à Matignon, alors que le budget 2027 est examiné par le Parlement.",
+    "credit": {
+     "auteur": "DXR",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_de_Reims,_Southeast_View_20140306_1.jpg"
+    }
+   },
+   {
+    "n": 5,
+    "theme": "UKRAINE ET BUDGET",
+    "titre": "Sommet européen : les Vingt-Sept doivent trouver 70 Md€ pour l'Ukraine",
+    "court": "UE : 70 Md€ à trouver pour l'Ukraine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bruxelles_-_R%C3%A9sidence_Palace_Europa_%2846495753554%29.jpg/1280px-Bruxelles_-_R%C3%A9sidence_Palace_Europa_%2846495753554%29.jpg",
+    "legende": "Le bâtiment Europa à Bruxelles, où se réunit le Conseil européen",
+    "chapeau": "Vendredi 16 octobre, à l'issue du sommet européen de Bruxelles, le président du Conseil européen António Costa a indiqué que les dirigeants avaient demandé à la Commission de présenter « une proposition » pour combler « les besoins additionnels de l'Ukraine pour 2027 », selon Agence Europe.",
+    "eclairage": "Un prêt de 90 milliards, déjà en partie versé",
+    "chiffres": [
+     {
+      "valeur": "70",
+      "legende": "Md€ de besoins supplémentaires"
+     },
+     {
+      "valeur": "45",
+      "legende": "Md€ déjà prévus en 2027"
+     },
+     {
+      "valeur": "90",
+      "legende": "Md€ de prêt 2026-2027"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, à l'issue du sommet européen de Bruxelles, le président du Conseil européen António Costa a indiqué que les dirigeants avaient demandé à la Commission de présenter « une proposition » pour combler « les besoins additionnels de l'Ukraine pour 2027 », selon Agence Europe. La présidente de la Commission Ursula von der Leyen a parlé d'un « trou budgétaire de 70 milliards d'euros qui doit être couvert » ; le président ukrainien Volodymyr Zelensky avait demandé « au moins 70 milliards d'euros de plus ». Ce montant s'ajouterait aux 45 milliards d'euros déjà prévus en 2027 dans le prêt de 90 milliards d'euros de l'UE pour 2026 et 2027, selon Agence Europe (la lecture des chiffres diffère selon les médias). Le chancelier allemand Friedrich Merz a estimé que ce prêt « ne suffira pas ». Ursula von der Leyen a aussi évoqué la préparation d'un vingt-deuxième paquet de sanctions contre la Russie.",
+    "points": [],
+    "explication": "Le prêt de l'UE à l'Ukraine, de 90 milliards d'euros pour 2026 et 2027, est financé par de la dette levée en commun, selon Le Monde Moderne. Selon Agence Europe, il reste 17 milliards d'euros à verser pour 2026 si les autorités ukrainiennes accomplissent les réformes demandées ; Le Monde Moderne indique que la Commission comptait encore 25,24 milliards d'euros à verser d'ici la fin de l'année au 14 octobre (chiffres divergents).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agenceurope.eu/fr/bulletin/article/13962/1/les-vingt-sept-demandent-a-la-commission-europeenne-de-presenter-des-options-pour-combler-le-trou-budgetaire-pour-2027-evalue-a-70-mi",
+      "nom": "Agence Europe"
+     },
+     {
+      "url": "https://www.lanouvellerepublique.fr/a-la-une/guerre-en-ukraine-volodymyr-zelensky-reclame-a-l-union-europeenne-70-milliards-d-euros-en-plus-en-2027-1792164616",
+      "nom": "La Nouvelle République"
+     },
+     {
+      "url": "https://www.lemondemoderne.media/zelensky-demande-70-milliards-de-plus-a-l-ue-pour-la-guerre-en-2027/",
+      "nom": "Le Monde Moderne"
+     },
+     {
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/",
+      "nom": "Conseil européen (page du sommet)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CONSEIL EUROPÉEN",
+      "qui": "António Costa",
+      "contexte": "président du Conseil européen",
+      "texte": "« Ce n'est pas le moment de retirer notre soutien à l'Ukraine ni d'affaiblir les sanctions visant la Russie. »",
+      "url": "https://agenceurope.eu/fr/bulletin/article/13962/1/les-vingt-sept-demandent-a-la-commission-europeenne-de-presenter-des-options-pour-combler-le-trou-budgetaire-pour-2027-evalue-a-70-mi",
+      "source": "Agence Europe"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COMMISSION EUROPÉENNE",
+      "qui": "Ursula von der Leyen",
+      "contexte": "présidente de la Commission",
+      "texte": "« il apparaît clairement que nous avons un trou budgétaire de 70 milliards d'euros qui doit être couvert »",
+      "url": "https://agenceurope.eu/fr/bulletin/article/13962/1/les-vingt-sept-demandent-a-la-commission-europeenne-de-presenter-des-options-pour-combler-le-trou-budgetaire-pour-2027-evalue-a-70-mi",
+      "source": "Agence Europe"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Le rôle des Européens est de tenir les lignes »",
+      "url": "https://agenceurope.eu/fr/bulletin/article/13962/1/les-vingt-sept-demandent-a-la-commission-europeenne-de-presenter-des-options-pour-combler-le-trou-budgetaire-pour-2027-evalue-a-70-mi",
+      "source": "Agence Europe"
+     }
+    ],
+    "apres": "Selon Agence Europe, Friedrich Merz s'attend à aborder de nouveau la question en novembre et en décembre.",
+    "change": "Aucune décision de financement n'est prise : les dirigeants ont demandé une proposition à la Commission.",
+    "credit": {
+     "auteur": "Fred Romero",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_R%C3%A9sidence_Palace_Europa_(46495753554).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "17",
+    "mois": "OCT.",
+    "texte": "Mobilisation nationale : manifestations et blocages dans toute la France ; interdictions de manifester dans plusieurs secteurs de Paris (préfecture de police, LCP)."
+   },
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "Assemblée : début de l'examen du PLFSS 2027 dans l'hémicycle, sur le texte initial du gouvernement (LCP)."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Mobilisation du public et du privé prévue, à laquelle la CFDT et FO se réservent (LCP)."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Matignon : rencontre prévue entre le Premier ministre et les départements (Public Sénat)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Démission d'office",
+    "definition": "Procédure par laquelle le Conseil constitutionnel peut constater qu'un de ses membres doit quitter ses fonctions, notamment s'il a manqué à ses obligations."
+   },
+   {
+    "terme": "Article 11",
+    "definition": "Article de la Constitution qui permet d'organiser un référendum directement, sans passer par un vote du Parlement."
+   },
+   {
+    "terme": "Armes intermédiaires",
+    "definition": "Équipements de maintien de l'ordre moins létaux que les armes à feu : grenades, lanceurs de balles de défense (LBD), pistolets à impulsion électrique."
+   },
+   {
+    "terme": "Ondam",
+    "definition": "Objectif national de dépenses d'assurance maladie, voté chaque année dans le budget de la Sécurité sociale."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Rejeté en commission le 16 octobre, le projet de budget de la Sécurité sociale pour 2027 sera tout de même débattu dans l'hémicycle de l'Assemblée à partir du 20 octobre.",
+   "reponse": true,
+   "explication": "Vrai : selon LCP, ce rejet n'a pas de conséquence réelle, car la procédure budgétaire prévoit que le texte initial du gouvernement soit débattu en séance à partir du mardi 20 octobre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-17",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Vessie : la FDA élargit l'approbation d'Anktiva aux tumeurs papillaires",
+    "court": "Vessie : la FDA élargit Anktiva",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bladder_Cancer.jpg/1280px-Bladder_Cancer.jpg",
+    "legende": "Schéma anatomique d'une tumeur de la vessie (illustration)",
+    "chapeau": "Le 14 octobre 2026, l'agence américaine des médicaments (FDA) a élargi l'indication d'Anktiva (nogapendekin alfa inbakicept), associé au BCG, aux adultes atteints d'un cancer de la vessie non invasif du muscle, de haut grade, de type « papillaire seul », qui ne répond plus au BCG.",
+    "eclairage": "Que veut dire « approuvé par extrapolation » ?",
+    "chiffres": [
+     {
+      "valeur": "62 %",
+      "legende": "réponse complète (IC 95 % : 51 à 73)"
+     },
+     {
+      "valeur": "77",
+      "legende": "patients de la cohorte A de l'essai QUILT-3.032"
+     },
+     {
+      "valeur": "1er",
+      "legende": "traitement approuvé dans cette situation"
+     }
+    ],
+    "passe": "Le 14 octobre 2026, l'agence américaine des médicaments (FDA) a élargi l'indication d'Anktiva (nogapendekin alfa inbakicept), associé au BCG, aux adultes atteints d'un cancer de la vessie non invasif du muscle, de haut grade, de type « papillaire seul », qui ne répond plus au BCG. L'indication précédente, datant d'avril 2024, ne couvrait que les cas avec carcinome in situ (une lésion plate de haut grade), avec ou sans tumeurs papillaires. La FDA n'a pas demandé de nouvel essai : elle s'est appuyée sur les résultats de la cohorte A de l'essai QUILT-3.032, soit 77 patients avec carcinome in situ, dont 62 % (IC 95 % : 51 à 73) ont obtenu une réponse complète, et sur les ressemblances entre les deux formes de la maladie, notamment un risque élevé de récidive ou de progression quand le BCG seul ne suffit plus. Selon Healio, c'est le premier traitement approuvé spécifiquement pour les tumeurs papillaires seules dans cette situation. Parmi les effets indésirables fréquents figurent, selon CancerNetwork, des anomalies biologiques (créatinine augmentée), des douleurs en urinant, du sang dans les urines et des envies d'uriner fréquentes et pressantes.",
+    "points": [],
+    "explication": "Le cancer de la vessie « non invasif du muscle » reste dans la couche interne de la paroi. Le BCG, un bacille proche de celui du vaccin contre la tuberculose, est injecté dans la vessie pour stimuler l'immunité locale. Quand il cesse de fonctionner, on parle de maladie « non répondeuse au BCG ». Anktiva est une protéine qui stimule des cellules immunitaires (agoniste de l'interleukine-15), administrée dans la vessie avec le BCG. Un essai à un seul bras donne le même traitement à tous les patients, sans groupe de comparaison : il mesure une réponse, pas un bénéfice démontré contre un autre traitement. Ici, la réponse a été mesurée chez des patients avec carcinome in situ ; la FDA applique ce résultat aux tumeurs papillaires parce que les deux maladies se ressemblent. C'est un raisonnement par analogie, pas une mesure directe. Une réponse complète signifie qu'aucune tumeur n'est retrouvée aux examens, ce qui n'est pas la même chose qu'une guérison ou qu'un gain de survie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-expanded-indication-nogapendekin-alfa-inbakicept-pmln-bcg-unresponsive-non-muscle",
+      "nom": "FDA (autorité sanitaire américaine)"
+     },
+     {
+      "url": "https://www.healio.com/news/hematology-oncology/20261014/fda-expands-anktiva-immunotherapy-approval-for-bcgunresponsive-bladder-cancer",
+      "nom": "Healio"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/fda-expands-approval-for-nogapendekin-alfa-in-bcg-unresponsive-nmibc",
+      "nom": "CancerNetwork"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "R. Angelo de Claro",
+      "contexte": "directeur de l'Oncology Center of Excellence, FDA",
+      "texte": "« We listen to patients, clinicians and researchers, and we act when the science supports a new approach, »",
+      "url": "https://www.healio.com/news/hematology-oncology/20261014/fda-expands-anktiva-immunotherapy-approval-for-bcgunresponsive-bladder-cancer",
+      "source": "Healio"
+     }
+    ],
+    "apres": "L'extension repose sur des données existantes ; les autorités européennes n'ont pas, dans les sources consultées, communiqué de décision sur cette indication.",
+    "change": "Pour les patients américains concernés, une option supplémentaire est désormais autorisée, à discuter avec l'équipe d'urologie et d'oncologie.",
+    "credit": {
+     "auteur": "Scientific Animations",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Bladder_Cancer.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RECHERCHE",
+    "titre": "Graisse brune : moins de maladies associées, losartan testé chez la souris",
+    "court": "Graisse brune : le losartan chez la souris",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brown_fat_cell.jpg/1280px-Brown_fat_cell.jpg",
+    "legende": "Schéma d'une cellule de graisse brune (illustration)",
+    "chapeau": "Publiée en ligne le 14 octobre 2026 dans Nature, une étude menée par l'équipe de Nicolás Gómez-Banoy (Rockefeller University et Memorial Sloan Kettering Cancer Center) a analysé les données de 101 243 patients d'un grand centre de cancérologie, dont des examens TEP-scanner réalisés entre 2009 et 2024.",
+    "eclairage": "Une association n'est pas une cause",
+    "chiffres": [
+     {
+      "valeur": "101 k",
+      "legende": "patients analysés (101 243), un centre"
+     },
+     {
+      "valeur": "8 700",
+      "legende": "patients avec graisse brune quantifiée par IA (environ)"
+     },
+     {
+      "valeur": "Souris",
+      "legende": "losartan : dépense d'énergie accrue, poids stable"
+     }
+    ],
+    "passe": "Publiée en ligne le 14 octobre 2026 dans Nature, une étude menée par l'équipe de Nicolás Gómez-Banoy (Rockefeller University et Memorial Sloan Kettering Cancer Center) a analysé les données de 101 243 patients d'un grand centre de cancérologie, dont des examens TEP-scanner réalisés entre 2009 et 2024. Les chercheurs ont constaté que, tous diagnostics confondus, les maladies cardiovasculaires et psychiatriques étaient moins fréquentes chez les personnes ayant de la graisse brune détectable. Un système d'apprentissage automatique a ensuite mesuré l'activité de cette graisse chez environ 8 700 patients : une activité plus élevée, surtout au niveau de l'aisselle, va avec moins de maladies cardiométaboliques et une répartition plus saine de la graisse blanche. Les patients sous antagonistes des récepteurs de l'angiotensine, une classe d'antihypertenseurs, avaient plus souvent de la graisse brune. Testé ensuite, le losartan de cette classe a augmenté l'activité de cellules de graisse brune en culture et la dépense d'énergie de souris, sans perte de poids mesurable. Ce médicament n'a pas été testé pour cet usage chez l'humain.",
+    "points": [],
+    "explication": "La graisse brune brûle de l'énergie pour produire de la chaleur, à la différence de la graisse blanche qui la stocke. Ici, les chercheurs ont comparé des dossiers existants : ils montrent que la graisse brune et certaines maladies sont moins souvent présentes ensemble, sans prouver que l'une protège de l'autre. News-Medical rapporte aussi des limites : un seul centre de cancérologie, des examens faits sans exposition préalable au froid, et la consommation de glucose comme mesure indirecte de l'activité. Le résultat sur le losartan vient de cellules et de souris : un résultat chez la souris n'est pas un résultat chez l'humain. Cette étude ne justifie ni de commencer ni de changer un traitement antihypertenseur ; toute décision se prend avec un professionnel de santé. Les sources consultées ne précisent pas le financeur de l'étude.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1038/s41586-026-11162-7",
+      "nom": "Nature (article, DOI)"
+     },
+     {
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "nom": "NIH (communiqué)"
+     },
+     {
+      "url": "https://www.news-medical.net/news/20261015/AI-study-of-101000-patients-links-brown-fat-to-heart-and-mental-health.aspx",
+      "nom": "News-Medical"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Gómez-Banoy et coll.",
+      "contexte": "résumé de l'article dans Nature",
+      "texte": "« serve as a platform for drug repurposing to activate this tissue in humans »",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875491/",
+      "source": "PubMed (résumé de l'étude)"
+     }
+    ],
+    "apres": "Un essai chez l'humain serait nécessaire pour savoir si le losartan active la graisse brune et si cela a un effet sur la santé ; aucun n'est mentionné dans les sources consultées.",
+    "change": "Rien de concret pour les patients à ce stade : il s'agit d'une piste de recherche pour mieux repérer la graisse brune et, peut-être un jour, l'activer par un médicament déjà connu.",
+    "credit": {
+     "auteur": "Scientific Animations",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Brown_fat_cell.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Greffe de foie robotisée : faisable, mais sur des patients très sélectionnés",
+    "court": "Greffe de foie : le robot reste précoce",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/1280px-New_Da_Vinci_Xi.jpg",
+    "legende": "Robot chirurgical da Vinci Xi, plateforme citée dans la méta-analyse (illustration)",
+    "chapeau": ") sur la greffe de foie robotisée : on y passe de cas isolés à des procédures de plus en plus standardisées dans plusieurs centres.",
+    "eclairage": "Pourquoi la prudence des auteurs ?",
+    "chiffres": [
+     {
+      "valeur": "93",
+      "legende": "greffes robotisées dans 10 études, 5 pays"
+     },
+     {
+      "valeur": "98 %",
+      "legende": "survie à 6 mois (poolée) IC 95 % : 86,9 à 99,7"
+     },
+     {
+      "valeur": "9 h",
+      "legende": "durée opératoire médiane (551 min), série de 44"
+     }
+    ],
+    "passe": "Le 14 octobre 2026, la revue Current Surgery Reports a publié une revue narrative (Shoucair et coll.) sur la greffe de foie robotisée : on y passe de cas isolés à des procédures de plus en plus standardisées dans plusieurs centres. Les données regroupées portent sur 3 études et 70 patients, dont 77 % d'un seul centre, et les auteurs jugent les preuves limitées par la petite taille des séries, les biais de sélection et le suivi court. Une méta-analyse parue en ligne le 23 juin dans eClinicalMedicine a recensé 10 études, 93 greffes robotisées dans 5 pays, surtout des greffons de lobe droit de donneur vivant avec la plateforme da Vinci Xi, chez des receveurs peu à moyennement malades : conversion en chirurgie ouverte dans 2,9 % des cas, complications majeures dans 17,2 % et survie à 6 mois de 98,0 % (IC 95 % : 86,9 à 99,7). Une série publiée le 6 août dans Annals of Surgery, dans deux centres européens, porte sur 44 patients analysés (45 inclus, un exclu) greffés avec un foie entier : durée médiane de 551 minutes, conversion dans 9,1 % des cas, mortalité de 2,3 %. Les effectifs diffèrent d'une publication à l'autre car les critères d'inclusion ne sont pas les mêmes.",
+    "points": [],
+    "explication": "Une greffe de foie remplace un foie malade par celui d'un donneur, vivant ou décédé. Avec un robot chirurgical, le chirurgien commande depuis une console des instruments passés par de petites incisions, au lieu d'ouvrir largement l'abdomen. Le score MELD mesure la gravité d'une maladie du foie : ici, la plupart des receveurs étaient peu à moyennement malades. Ces données sont des séries de cas et des cohortes sans comparaison avec la chirurgie ouverte : on ne sait pas si le robot fait mieux ou moins bien, seulement qu'il est possible dans des centres très expérimentés. Chez des patients choisis, les résultats peuvent paraître meilleurs qu'ils ne le seraient pour tous. Un essai randomisé donnerait une réponse plus solide.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://link.springer.com/article/10.1007/s40137-026-00538-3",
+      "nom": "Current Surgery Reports (revue)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382137/",
+      "nom": "PubMed : méta-analyse (eClinicalMedicine)"
+     },
+     {
+      "url": "https://doi.org/10.1016/j.eclinm.2026.104024",
+      "nom": "DOI de la méta-analyse"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557614/",
+      "nom": "PubMed : série Annals of Surgery"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Série Annals of Surgery",
+      "contexte": "résumé de l'article",
+      "texte": "« RLT appears safe and reproducible when implemented in highly specialized centers with advanced transplant and robotic hepatobiliary expertise »",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557614/",
+      "source": "PubMed"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Méta-analyse eClinicalMedicine",
+      "contexte": "résumé de l'article",
+      "texte": "« Multicentre registries, robust benchmarking against open LT, and standardised training pathways may accelerate implementation »",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382137/",
+      "source": "PubMed"
+     }
+    ],
+    "apres": "Les auteurs réclament des registres multicentriques, des comparaisons avec la greffe ouverte et des formations standardisées avant toute généralisation.",
+    "change": "Aucun changement pour la plupart des patients : cette technique est limitée à quelques centres spécialisés et à des receveurs sélectionnés. Le choix d'une technique de greffe relève de l'équipe de transplantation.",
+    "credit": {
+     "auteur": "Alvarogarciamd",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:New_Da_Vinci_Xi.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai à un seul bras",
+    "definition": "Un essai où tous les patients reçoivent le même traitement, sans groupe de comparaison : il mesure une réponse mais ne dit pas si le traitement fait mieux qu'un autre."
+   },
+   {
+    "terme": "Étude observationnelle rétrospective",
+    "definition": "Une étude qui analyse des dossiers existants, sans assigner de traitement : elle repère des associations, pas des causes."
+   },
+   {
+    "terme": "Méta-analyse",
+    "definition": "Une analyse qui regroupe les résultats de plusieurs études pour en tirer des chiffres communs ; sa fiabilité dépend de celle des études regroupées."
+   },
+   {
+    "terme": "Score MELD",
+    "definition": "Une note calculée à partir de prises de sang qui mesure la gravité d'une maladie du foie chez un patient en attente de greffe."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Pour élargir l'indication d'Anktiva aux tumeurs papillaires seules, la FDA s'est appuyée sur un nouvel essai mené chez ces patients.",
+   "reponse": false,
+   "explication": "La FDA n'a pas demandé de nouvel essai : elle a étendu les résultats obtenus chez les patients avec carcinome in situ (cohorte de 77 patients, 62 % de réponse complète), en jugeant les deux cancers proches. L'extension repose donc sur une analogie, non sur une comparaison directe."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-16",
   "minutes": 9,
   "sujets": [

@@ -1144,5 +1144,59 @@
  "Deezer": null,
  "TIDAL": null,
  "Savencia": null,
- "FNPL": null
+ "FNPL": null,
+ "Jose Torres": null,
+ "Joe Tigay": null,
+ "UBS Global Wealth Management": null,
+ "Emmanuel Moulin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Emmanuel_Moulin_%28cropped%29.jpg/250px-Emmanuel_Moulin_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Emmanuel_Moulin_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Moulin_(cropped).jpg",
+  "auteur": "Thomas Padilla - European Commission",
+  "licence": "CC BY 4.0"
+ },
+ "Albert Mathieu": null,
+ "Harold Boël": null,
+ "Alain Juppé": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Alain_Jupp%C3%A9_%C3%A0_Qu%C3%A9bec_%28cropped_3%29.jpg/250px-Alain_Jupp%C3%A9_%C3%A0_Qu%C3%A9bec_%28cropped_3%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Alain_Juppé_à_Québec_(cropped_3).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alain_Jupp%C3%A9_%C3%A0_Qu%C3%A9bec_(cropped_3).jpg",
+  "auteur": "Florencecassisi",
+  "licence": "CC BY 4.0"
+ },
+ "Dominique Rousseau": null,
+ "Thibault Bazin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Photo_de_Thibault_Bazin_2.jpg/250px-Photo_de_Thibault_Bazin_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Photo_de_Thibault_Bazin_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_de_Thibault_Bazin_2.jpg",
+  "auteur": "Geoffrey.mv",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Jean-Luc Gleize": null,
+ "Françoise Gatel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Fran%C3%A7oise_Gatel_2025_%28cropped%29.jpg/250px-Fran%C3%A7oise_Gatel_2025_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Françoise_Gatel_2025_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Gatel_2025_(cropped).jpg",
+  "auteur": "European Union",
+  "licence": "Attribution"
+ },
+ "Nicolas Lacroix": null,
+ "António Costa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/250px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Antonio_Costa_Portrait_2024_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg",
+  "auteur": "Frédéric Sierakowski - European Council",
+  "licence": "Attribution"
+ },
+ "Ursula von der Leyen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Brigitte_Macron%2C_Ursula_von_der_Leyen_and_Emmanuel_Macron_in_Nice%2C_France_-_June_2025_%281%29.jpg/250px-Brigitte_Macron%2C_Ursula_von_der_Leyen_and_Emmanuel_Macron_in_Nice%2C_France_-_June_2025_%281%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Brigitte_Macron,_Ursula_von_der_Leyen_and_Emmanuel_Macron_in_Nice,_France_-_June_2025_(1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Brigitte_Macron%2C_Ursula_von_der_Leyen_and_Emmanuel_Macron_in_Nice%2C_France_-_June_2025_(1).jpg",
+  "auteur": "Commission européenne",
+  "licence": "CC BY 4.0"
+ },
+ "R. Angelo de Claro": null,
+ "Gómez-Banoy et coll.": null,
+ "Série Annals of Surgery": null,
+ "Méta-analyse eClinicalMedicine": null
 }

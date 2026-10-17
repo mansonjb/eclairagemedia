@@ -1,5 +1,18 @@
 [
  {
+  "date": "2026-10-17",
+  "url": "/epub/eclairage-2026-10-17.epub",
+  "txt": "/epub/eclairage-2026-10-17.txt",
+  "taille": 196048,
+  "rubriques": [
+   "politique",
+   "economie",
+   "sante"
+  ],
+  "sujets": 11,
+  "empreinte": "edb799f39149"
+ },
+ {
   "date": "2026-10-16",
   "url": "/epub/eclairage-2026-10-16.epub",
   "txt": "/epub/eclairage-2026-10-16.txt",
