@@ -1,5 +1,416 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-17",
+  "url": "/podcasts/essentiel-2026-10-17.mp3",
+  "taille": 7153416,
+  "duree": 596,
+  "titre": "Éclairage, l'essentiel du samedi 17 octobre 2026",
+  "titre_episode": "Mobilisation du 17 octobre, taux français, Gemini 4 Argon : l'essentiel du samedi 17 octobre",
+  "description": "Ce samedi 17 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : mobilisation du 17 octobre\n• Politique : requête du RN et de l'UDR contre Richard Ferrand\n• Économie : Wall Street et les valeurs des puces\n• Économie : taux français et BCE\n• Santé : Anktiva et le cancer de la vessie\n• Santé : graisse brune et losartan\n• Food : avances de la PAC\n• Food : plan de relance agricole 2027\n• Tech : Gemini 4 Argon\n• Tech : modèles Nemotron 3.5 de Nvidia\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Mobilisation du 17 octobre : environ 500 actions prévues, Paris sous arrêtés"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Conseil constitutionnel : le RN et l'UDR réclament la démission de Ferrand"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Wall Street : les valeurs des puces reculent sur les craintes liées à l'IA"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Taux français : la Banque de France écarte une intervention de la BCE"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Vessie : la FDA élargit l'approbation d'Anktiva aux tumeurs papillaires"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Graisse brune : moins de maladies associées, losartan testé chez la souris"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "PAC 2026 : plus de 5 milliards d'euros d'avances versés dès le 16 octobre"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Relance agricole : Matignon annonce une enveloppe de 500 à 700 M€ pour 2027"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Google : Gemini 4 Argon ouvert à tous, avec un prix qui double fin novembre"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce samedi dix-sept octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Dix sujets, treize minutes à peu près."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tous les faits viennent des éditions Éclairage du matin. On commence par la politique, avec une journée de mobilisation partout en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq cents actions envisagées en France aujourd'hui. C'est le chiffre qu'avance l'entourage du ministre de l'Intérieur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, une journée contre la vie chère, à l'appel de lycéens, d'étudiants et de groupes de gilets jaunes. Laurent Nuñez, le ministre, s'attend à une mobilisation assez importante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Lui parle d'environ deux cent cinquante appels à agir sur la voie publique et quatre-vingts cortèges. Et à Paris, il y a des arrêtés d'interdiction."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le préfet de police a interdit de manifester dans plusieurs secteurs, dont les Champs-Élysées et les abords de l'Élysée et de Matignon. La préfecture précise que l'arrêté n'interdit pas la manifestation, il fixe un itinéraire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les contrevenants risquent une amende de cent trente-cinq euros."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre point : le ministre a dit que tous les types d'armes intermédiaires pourront être utilisés, dont les grenades assourdissantes, en cas de violences urbaines extrêmement graves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ces grenades avaient été suspendues après qu'un lycéen a eu la main arrachée à Lens."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Emmanuel Macron a appelé au calme et au respect depuis Bruxelles, et le Premier ministre Sébastien Lecornu a convoqué une cellule interministérielle de crise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Côté politique, Jordan Bardella, du Rassemblement national, parle d'un prétexte. La France insoumise dit qu'elle sera aux côtés des manifestants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les estimations de participation varient beaucoup selon les médias. Retenez que la CFDT et Force ouvrière se réservent pour une mobilisation prévue le cinq novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : le Conseil constitutionnel. Le Rassemblement national et l'UDR demandent la démission d'office de son président, Richard Ferrand."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils ont déposé leur requête vendredi, adressée au doyen d'âge du Conseil, l'ancien Premier ministre Alain Juppé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qu'on lui reproche exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une phrase dans un podcast du Club des juristes : vouloir réformer la Constitution par l'article onze, ça n'existe pas. Cela visait une proposition de Marine Le Pen de réviser la Constitution par référendum, sans passer par le Parlement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, les requérants estiment qu'il a pris position sur une question qui pourrait être soumise au Conseil."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le règlement de l'institution l'interdit à ses membres. Mais selon LCP, seuls les membres du Conseil peuvent déclencher cette procédure, et des juristes contestent la recevabilité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'autres constitutionnalistes, cités par Public Sénat, estiment au contraire qu'il a pris parti sur une question non tranchée depuis plus de soixante ans."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Alain Juppé l'a défendu : il serait parfaitement dans son rôle quand il explique comment lire la Constitution. Le Conseil, lui, n'a fait aucun commentaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la requête est déposée, mais sa recevabilité fait débat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, et on file à Wall Street."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Nasdaq a perdu deux virgule quatorze pour cent vendredi. Le S&P cinq cents, un virgule zéro neuf pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les valeurs des puces électroniques ont encore reculé : Broadcom, Micron, AMD à moins cinq virgule quatre-vingt-quinze pour cent. Nvidia, un peu moins, un virgule quarante-trois."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur six séances, l'indice des semi-conducteurs perd environ douze pour cent. Une perte de valeur estimée entre plus de mille et mille six cent quarante milliards de dollars selon les sources."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, mille six cent quarante milliards ? C'est énorme. Et la cause ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les motifs cités : des doutes sur la rentabilité des dépenses d'IA, l'endettement de certains acteurs et la hausse des prix du pétrole."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les entreprises du néocloud, celles qui construisent des centres de données pour l'IA, ont chuté, par exemple CoreWeave de près de douze pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pourquoi une dette fait trembler les Bourses ? Construire l'IA coûte très cher, beaucoup empruntent avant d'avoir des clients qui paient, et quand les taux montent, l'emprunt coûte plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les résultats trimestriels du secteur, attendus dans les prochains jours, diront si la demande tient. Ceux de Tesla arrivent mercredi vingt et un octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Restons sur les marchés, côté France. Le taux d'emprunt à dix ans approche cinq pour cent, un record depuis deux mille deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouverneur de la Banque de France, Emmanuel Moulin, a déclaré à l'AFP que les conditions ne sont pas réunies pour une intervention de la Banque centrale européenne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La BCE peut racheter des obligations, mais quand les mouvements de marché sont désordonnés et injustifiés. Selon lui, ce n'est pas le cas : il ne constate pas de fragmentation financière dans la zone euro."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il pense aussi que banques et assurances peuvent absorber la hausse. Son inquiétude, c'est autre chose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les finances publiques. Des taux plus hauts alourdissent la charge de la dette. Le budget deux mille vingt-sept vise un déficit de cinq pour cent du PIB, mais son adoption reste incertaine faute de majorité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ses propos ont fait réagir : le Rassemblement national a demandé sa démission, et l'AFP rapporte une vive réaction de Jean-Luc Mélenchon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Prochain rendez-vous : la réunion de la BCE, les vingt-huit et vingt-neuf octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier point économie : Panzani et le portugais Cerealis sont entrés en négociations exclusives pour fusionner."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Six cent vingt millions d'euros de chiffre d'affaires pour Panzani, quatre cents pour Cerealis. Un groupe d'environ un milliard, valorisé un virgule huit milliard d'euros, dette comprise, et mille huit cents salariés. L'opération reste soumise à des autorisations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction la santé. Un cancer de la vessie, et une décision de l'agence américaine des médicaments, la FDA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le quatorze octobre, elle a élargi l'indication d'Anktiva, associé au BCG, aux tumeurs de la vessie dites papillaires seules, quand le BCG ne répond plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le BCG, c'est ce bacille proche de celui du vaccin contre la tuberculose, injecté dans la vessie pour stimuler l'immunité locale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Et le point intéressant, c'est comment la FDA a décidé. Pas de nouvel essai : elle s'est appuyée sur une cohorte de soixante-dix-sept patients ayant un autre type de lésion, le carcinome in situ, dont soixante-deux pour cent ont eu une réponse complète."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc une approbation par analogie, pas une mesure directe sur ces tumeurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et une réponse complète signifie qu'aucune tumeur n'est retrouvée aux examens, ce qui n'est pas une guérison ni un gain de survie démontré. C'est le premier traitement approuvé spécifiquement dans cette situation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour la France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les sources ne disent rien d'une autorisation ou d'un remboursement en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre étude, publiée dans Nature le quatorze octobre : la graisse brune. Cent un mille deux cent quarante-trois patients analysés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cette graisse brûle de l'énergie pour produire de la chaleur. Les chercheurs ont vu que maladies cardiovasculaires et psychiatriques étaient moins fréquentes chez les personnes qui en ont de détectable."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et une activité plus élevée va avec moins de maladies cardiométaboliques. Mais attention au mot clé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Association, pas cause. Ce sont des dossiers comparés après coup, dans un seul centre de cancérologie. Rien ne prouve que l'une protège de l'autre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi le losartan, un antihypertenseur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les patients qui en prenaient avaient plus souvent de la graisse brune. Testé sur des cellules et des souris, il a augmenté la dépense d'énergie, sans perte de poids mesurable. Pas testé pour cet usage chez l'humain."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc rien de concret pour les patients, et l'étude ne justifie pas de changer un traitement. Un résultat chez la souris n'est pas un résultat chez l'humain."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, dans l'assiette, ou plutôt dans les champs : l'alimentation et l'agriculture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de cinq milliards d'euros. C'est ce que l'État verse en avances de la PAC, la politique agricole commune, du seize au vingt octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À deux cent soixante et un mille sept cent vingt-trois exploitations. Une avance, c'est un acompte, avant le calcul définitif des aides."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le taux d'avance du premier pilier passe à soixante-quinze pour cent, contre soixante-dix l'an dernier."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et celui de l'indemnité pour handicaps naturels reste à quatre-vingt-cinq pour cent, le maximum permis par l'Union européenne. Pleinchamp relie la hausse à la sécheresse de cette année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça change quoi, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une trésorerie plus élevée dès ce week-end, mais pas le montant final des aides. Neuf mille neuf cent cinquante exploitations sont payées sans avoir fini leurs contrôles sur place."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Des paiements complémentaires sont prévus à partir de fin octobre, et le solde dans la première quinzaine de décembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours côté agriculture, Matignon annonce une enveloppe de cinq cents à sept cents millions d'euros pour un plan de relance en deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le Premier ministre l'a dite indicative, prélevée sur des crédits déjà inscrits au projet de budget, en partie par amendements."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq volets : climat, souveraineté agricole, stockage de l'eau, assurance et simplification. Il s'ajoute au plan d'urgence de deux mille vingt-six, chiffré à un virgule deux milliard d'euros selon Réussir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les réactions sont partagées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La Coordination rurale parle de mesurettes. Les Jeunes agriculteurs veulent des précisions sur un pacte de transmission, et la FNSEA attend une réunion promise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenez qu'une enveloppe indicative n'est pas un budget voté. Les sources ne donnent ni montants par volet ni calendrier de versement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On termine avec l'intelligence artificielle et la tech."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux dollars le million de jetons en entrée. Puis quatre dollars. Le prix de l'API de Gemini 4 Argon, de Google, doit doubler fin novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un jeton, c'est un morceau de mot. Le modèle est ouvert à tous depuis le treize octobre, par l'API et dans l'application Gemini pour les abonnés Pro et Ultra."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il offre une fenêtre de contexte d'un million de jetons. Le tarif d'introduction est de deux dollars en entrée et dix en sortie. Il passe à quatre et vingt à partir du trente novembre, ou du premier décembre selon les sources."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté performances, deux classements différents."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vals AI le met premier de son indice, avec soixante-huit virgule neuf pour cent. Artificial Analysis le place huitième sur deux cent seize modèles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça paraît contradictoire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas vraiment. Chaque évaluateur choisit ses épreuves et leur poids. Vals AI mesure des tâches de finance, de code ou de droit, Artificial Analysis réunit dix évaluations plus générales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Artificial Analysis note aussi un taux d'hallucination de quinze pour cent sur son test, le plus bas parmi les modèles les mieux notés. Un seul test, attention."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et les performances citées par Google sont des annonces de Google."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet tech : Nvidia et ses modèles Nemotron trois virgule cinq, à poids ouverts, pensés pour les agents."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un agent, c'est un programme d'IA qui enchaîne des actions. Le premier, Super VL, compte cent vingt milliards de paramètres, dont douze milliards actifs, et accepte images et texte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le second, Bolt, est une version compressée de soixante-quatorze milliards de paramètres, conçue pour tenir dans vingt-quatre gigaoctets de mémoire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La clé, c'est la quantification : on stocke chaque paramètre sur moins de bits. Ici, deux bits. Le modèle est plus petit, au prix d'une précision moindre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les scores indépendants le montrent : vingt-six points pour Super VL, vingt et un pour Bolt."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'intérêt, c'est l'usage local : faire tourner un modèle sur son propre ordinateur, sans envoyer ses données à un service en ligne. Une version de quatre gigaoctets est attendue le vingt-trois octobre. La licence exacte n'est pas précisée, à vérifier avant tout usage commercial."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Dix sujets, de la rue à la Bourse, de la vessie aux puces."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Merci de nous avoir écoutés. Bon samedi à toutes et à tous."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-17",
   "url": "/podcasts/politique-2026-10-17.mp3",
