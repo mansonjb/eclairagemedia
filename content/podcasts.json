@@ -1,5 +1,461 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-18",
+  "url": "/podcasts/essentiel-2026-10-18.mp3",
+  "taille": 7008280,
+  "duree": 584,
+  "titre": "Éclairage, l'essentiel du dimanche 18 octobre 2026",
+  "titre_episode": "Manifestations du 17 octobre, FMI, Parkinson : l'essentiel du dimanche 18 octobre",
+  "description": "Ce dimanche 18 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : mobilisation du 17 octobre et violences\n• Politique : réactions sur le maintien de l'ordre\n• Économie : FMI, croissance mondiale 3,1 % et France 0,4 %\n• Économie : inflation de septembre à 3,1 %\n• Santé : Parkinson et nicotinamide riboside\n• Santé : microbiome et fièvre après le vaccin\n• Alimentation : SIAL 2026 et solde commercial agroalimentaire\n• Alimentation : ventes bio en hausse de 4,8 %\n• IA et tech : Bruxelles et la FTC interrogent OpenAI et Anthropic\n• IA et tech : FMI et risques de l'IA\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Mobilisation du 17 octobre : 550 000 à 800 000 manifestants, des violences"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "17 octobre : droite et gauche divisées sur le maintien de l'ordre"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "FMI : croissance mondiale à 3,1 % en 2026, la France à 0,4 %"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Inflation : 3,1 % sur un an en septembre, tirée par l'énergie"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Parkinson : la nicotinamide riboside ne ralentit pas la maladie"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Vaccin : le microbiome intestinal influence la fièvre après l'injection"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "SIAL 2026 : le salon de l'agroalimentaire ouvre, l'export français recule"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Bio : les ventes progressent de 4,8 % au premier semestre 2026"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Agents d'IA : Bruxelles et la FTC interrogent OpenAI et Anthropic"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "FMI : sans garde-fous, les risques de l'IA peuvent dépasser les bénéfices"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce dimanche dix-huit octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : la mobilisation de samedi, le FMI, un essai sur Parkinson, le bio, et l'IA sous surveillance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par la France. Samedi, huit cent mille personnes dans la rue selon les organisations, cinq cent cinquante mille selon le ministre de l'Intérieur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Même journée, deux comptages. Les huit cent mille viennent d'un bilan de plusieurs organisations, dont la CGT et l'Union étudiante. Les cinq cent cinquante mille, du ministre Laurent Nuñez."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une mobilisation contre la vie chère, appelée notamment par d'anciens gilets jaunes, le mouvement lycéen et des syndicats. Et en marge des cortèges, des violences."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Des pillages dans plusieurs villes. Selon LCP, les mairies de Marseille et de Lille ont été dégradées, et la résidence de la préfète de la Gironde saccagée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à Limoges ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un incendie a détruit une grande partie de la toiture de l'hôtel de ville, inauguré en mille huit cent quatre-vingt-trois. Le préfet dit qu'il est en grande partie perdu."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et côté forces de l'ordre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ quatre cents interpellations, un décompte provisoire, et près de soixante blessés parmi les forces de l'ordre. Le ministre dit que l'état d'urgence n'est absolument pas envisagé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À Saint-Étienne, un jeune de dix-sept ans a eu la main arrachée par une grenade. L'enquête est confiée à l'IGPN, la police des polices."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La cause exacte n'est pas établie à ce stade. Retenons que le bilan reste provisoire et que les enquêtes commencent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et politiquement, les réactions divergent dès samedi soir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avant la manifestation, le préfet de police de Paris, Patrice Faure, avait pris des arrêtés interdisant de manifester dans plusieurs secteurs de la capitale. Mélenchon l'a accusé d'organiser le désordre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Lecornu répond que faire porter aux chefs de la police la responsabilité des violences est une inversion dangereuse et cynique des responsabilités."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre Sébastien Lecornu apporte tout son soutien aux forces de l'ordre et accuse des groupes d'ultragauche d'avoir organisé la violence. Il met en garde contre un tour de chauffe avant la présidentielle, dans six mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À gauche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jean-Luc Mélenchon met en cause le commandement policier à Paris. Marine Tondelier demande de revoir la doctrine du maintien de l'ordre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à droite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau, Éric Ciotti, Marine Le Pen et Jordan Bardella dénoncent les violences et mettent en cause la gauche, en particulier La France insoumise. Gabriel Attal et Édouard Philippe dénoncent des scènes de pillage."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le débat porte moins sur le bilan que sur les responsabilités. Doctrine du maintien de l'ordre d'un côté, rôle de La France insoumise de l'autre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et le projet de loi casseurs-payeurs arrive au Sénat à partir du vingt-sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : l'économie. Trois virgule un pour cent. C'est la croissance mondiale prévue par le FMI pour deux mille vingt-six."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Fonds monétaire international a publié ses prévisions mardi treize octobre, à Bangkok. C'est un dixième de point de plus qu'en juillet, contre trois virgule cinq pour cent en deux mille vingt-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle fait exception. Zéro virgule quatre pour cent en deux mille vingt-six, zéro virgule sept en deux mille vingt-sept. Deux dixièmes de moins chaque année par rapport à juillet."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AFP, le FMI cite les événements climatiques de l'été et une forte incertitude politique et budgétaire. La zone euro, elle, est attendue à un virgule un pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Zéro virgule quatre, concrètement, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Que l'économie française produit à peine plus qu'en deux mille vingt-cinq. Attention : c'est une prévision, pas une mesure. Le chiffre définitif viendra de l'Insee."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le FMI attend aussi une inflation mondiale de quatre virgule sept pour cent cette année. Sa directrice, Kristalina Georgieva, évoque un réel risque de complaisance."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et en France, justement, l'inflation. Trois virgule un pour cent sur un an en septembre, d'après l'Insee, contre deux virgule quatre en août."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur un mois, les prix reculent de zéro virgule trois pour cent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les deux chiffres ne se contredisent pas. Le premier compare à septembre l'an dernier, le second à août, un mois de vacances où transports et hébergement coûtent plus cher."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, qu'est-ce qui tire les prix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'après la presse économique, c'est le niveau le plus haut depuis janvier deux mille vingt-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Bonne question : et les autres prix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les services montent de deux virgule quatre pour cent, et les produits manufacturés reculent de zéro virgule trois."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'énergie : plus vingt et un virgule trois pour cent sur un an, dont plus quarante-quatre virgule un pour le gazole. L'alimentation, elle, monte de un virgule quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'où l'inflation sous-jacente, qui écarte les prix les plus volatils : un virgule cinq pour cent seulement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la phrase-clé : la hausse vient surtout de l'énergie. Prochaine estimation, le trente octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à la santé. Quatre cent dix patients, un an de traitement, et un résultat décevant pour un complément vendu en ligne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il s'agit de la nicotinamide riboside, une forme de vitamine B3. L'essai s'appelle NOPARK, publié le huit octobre dans la revue JAMA par une équipe de l'Université de Bergen, en Norvège."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'espéraient les chercheurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le traitement augmente le NAD, une molécule impliquée dans l'énergie des cellules. L'idée : protéger ainsi les neurones de la maladie de Parkinson."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça a marché ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le NAD a bien augmenté dans le sang. Mais les symptômes ne se sont pas améliorés. L'écart, de deux virgule soixante-douze points, est en faveur du placebo, sous le seuil d'aggravation pertinent de cinq virgule deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc un marqueur biologique n'est pas un effet sur le patient."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. L'essai est randomisé et en double aveugle : ni les patients ni les médecins ne savent qui reçoit quoi. C'est l'un des plus solides."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la sécurité ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des effets indésirables graves chez huit virgule trois pour cent des patients sous traitement, quatorze virgule un sous placebo, sans différence significative."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour toute question sur un complément, la réponse relève du neurologue. Autre étude, dans la revue Science : pourquoi a-t-on de la fièvre après un vaccin ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des chercheurs de l'Institut Max-Planck, avec l'Institut Pasteur et l'Inserm, ont suivi de jeunes adultes vaccinés contre le Covid en deux mille vingt et un et deux mille vingt-deux. Ceux qui avaient le plus de fièvre avaient un microbiome particulier avant l'injection."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un microbiome particulier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Leurs bactéries exprimaient davantage de gènes liés au flagelle, le fouet que certaines bactéries utilisent pour se déplacer. Le système immunitaire repère sa protéine, la flagelline, et réagit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Chez l'humain, c'est donc une association, pas une preuve."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Chez des souris sans microbes intestinaux, recevoir ces microbiomes a provoqué plus d'inflammation après vaccination. Mais un résultat chez la souris ne se transpose pas automatiquement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'alimentation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une alimentation riche en fruits et légumes est associée à moins de fièvre. Mais l'effet de l'alimentation n'a été testé que chez la souris et en laboratoire. Selon News-Medical, la flagelline ne modifie pas les anticorps."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : des études chez l'humain seront nécessaires. Direction l'assiette, maintenant."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le salon SIAL Paris a ouvert à Villepinte, jusqu'au vingt et un octobre. Jusqu'à huit mille exposants, environ deux cent quatre-vingt-quinze mille visiteurs professionnels attendus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais le contexte est tendu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le solde agricole et alimentaire de la France n'a atteint que zéro virgule deux milliard d'euros en deux mille vingt-cinq. Cinq milliards de moins en un an."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, cinq milliards en un an ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon les douanes, commentées par l'ANIA, qui représente les industriels de l'alimentation. Elle parle d'une dégradation historique et cite la compétitivité face aux voisins européens, les tensions commerciales, le change et le climat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La balance commerciale, c'est l'écart entre ce qu'on vend à l'étranger et ce qu'on y achète."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et les douanes notent que le nombre d'exportateurs diminue dans l'agriculture au deuxième trimestre : moins trois cents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et une note plus positive pour le bio."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle tombe à la Journée européenne du bio, le vingt-trois septembre. La grande distribution représente la moitié des achats."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les ventes bio progressent de quatre virgule huit pour cent en valeur au premier semestre, selon l'Agence bio. Plus neuf virgule trois en magasins spécialisés, plus deux en grande distribution."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté producteurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les conversions augmentent de quatorze pour cent entre janvier et août, les arrêts reculent de treize. Le solde : six cent quatre-vingt-sept producteurs de plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc la filière repart ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Agence bio juge qu'il est trop tôt pour l'affirmer, faute de chiffres annuels sur les surfaces. Son président parle d'un balbutiement, pas d'euphorie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les surfaces bio couvrent environ dix pour cent des terres agricoles, pour un objectif de vingt et un pour cent en deux mille trente."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et la fédération FNAB demande un crédit d'impôt porté à six mille euros dans le budget deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'IA et la tech. Des agents d'IA, ces programmes qui enchaînent des actions seuls, sous le regard des régulateurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le neuf octobre, la Commission européenne a réuni son comité scientifique, soixante experts indépendants. Il examine de récents incidents de perte de contrôle d'agents d'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les entreprises sont visées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le site italien Punto Informatico, une enquête vise Anthropic et OpenAI, et le Bureau de l'IA leur a envoyé des demandes d'information sur la sécurité et le suivi de l'usage de leurs modèles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais attention aux mots."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Une demande d'information n'est pas une accusation. Seule une procédure formelle peut aboutir à une amende, et la Commission n'en parle pas dans les pages consultées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et aux États-Unis ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FTC, l'autorité fédérale de protection des consommateurs, a confirmé le trente septembre enquêter sur OpenAI, Anthropic et d'autres entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour un utilisateur, ça change quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rien à court terme : ni ChatGPT ni Claude ne sont suspendus. La discussion porte sur les preuves de sécurité que les régulateurs pourraient exiger."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Côté américain, des médias secondaires évoquent des injonctions datées du quatorze octobre, mais c'est une information d'une seule source, à confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenons que ni l'Europe ni les États-Unis n'ont annoncé de sanction. Dernier sujet, toujours l'IA, mais côté économie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le seize octobre, à Bangkok, Kristalina Georgieva a déclaré que les risques de l'IA pourraient l'emporter sur ses bénéfices en l'absence de garde-fous, selon Reuters et AP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Elle a comparé l'IA à une voiture de Formule 1 lancée sans barrières."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Image parlante. Elle juge adaptée une autorégulation du secteur, mais avec l'appui de la société et des grandes économies."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'emploi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon AP, une étude du FMI estime qu'environ dix pour cent des emplois seront transformés ou créés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi un fonds monétaire parle-t-il d'IA ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il la suit comme une variable économique. Le FMI a signalé trois risques : une fin possible du boom des investissements dans l'IA, une dette publique élevée, et une guerre prolongée au Moyen-Orient."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les avis divergent : Anthropic appelle à des normes, un responsable du Trésor américain juge que le FMI insiste trop sur les risques."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce sont des scénarios, pas des prévisions chiffrées. Voilà pour l'essentiel."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci d'avoir écouté. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-18",
   "url": "/podcasts/politique-2026-10-18.mp3",
