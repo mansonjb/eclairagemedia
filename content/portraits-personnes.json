@@ -1202,5 +1202,37 @@
  "Coordination rurale": null,
  "FNSEA et Jeunes agriculteurs": null,
  "Nvidia": null,
- "Artificial Analysis": null
+ "Artificial Analysis": null,
+ "Silvana Tenreyro": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Silvana_Tenreyro.jpg/250px-Silvana_Tenreyro.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Silvana_Tenreyro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Silvana_Tenreyro.jpg",
+  "auteur": "UK Government",
+  "licence": "OGL 3"
+ },
+ "Ted Sarandos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ted_Sarandos_2024.jpg/250px-Ted_Sarandos_2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Ted_Sarandos_2024.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ted_Sarandos_2024.jpg",
+  "auteur": "UKinUSA",
+  "licence": "CC BY-SA 2.0"
+ },
+ "Proofpoint et Varonis": null,
+ "RBC et Oppenheimer": null,
+ "Organisations syndicales et étudiantes": null,
+ "Éric Ciotti": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%C3%89ric_Ciotti_%28cropped%29.jpg/250px-%C3%89ric_Ciotti_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Éric_Ciotti_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%89ric_Ciotti_(cropped).jpg",
+  "auteur": "European People's Party",
+  "licence": "CC BY 2.0"
+ },
+ "Maud Bregeon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Maud_Bregeon_%282023%29.jpg/250px-Maud_Bregeon_%282023%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Maud_Bregeon_(2023).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maud_Bregeon_(2023).jpg",
+  "auteur": "Ministère de l'Europe et des Affaires étrangères",
+  "licence": "CC BY 3.0"
+ },
+ "Associations": null
 }

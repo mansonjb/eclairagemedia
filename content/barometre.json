@@ -1,12 +1,13 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "sondage": {
   "methode": "moyenne",
-  "nb": 7,
+  "nb": 8,
   "jours": 30,
   "debut": "2026-09-21",
-  "fin": "2026-10-14",
+  "fin": "2026-10-16",
   "instituts": [
+   "Elabe",
    "Harris",
    "Ifop",
    "Odoxa",
@@ -15,6 +16,12 @@
   ],
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
   "derniers": [
+   {
+    "institut": "Elabe",
+    "terrain": "14-16 octobre",
+    "echantillon": "1 701",
+    "hypotheses": 6
+   },
    {
     "institut": "OpinionWay",
     "terrain": "13-14 octobre",
@@ -44,12 +51,6 @@
     "terrain": "25-29 septembre",
     "echantillon": "1 527",
     "hypotheses": 10
-   },
-   {
-    "institut": "Harris",
-    "terrain": "22-24 septembre",
-    "echantillon": "1 974",
-    "hypotheses": 5
    }
   ]
  },
@@ -60,7 +61,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 152274263.425012,
+ "polymarket_volume": 152566274.10100698,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -76,28 +77,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 35.4,
-    "d": 1.7
+    "v": 35,
+    "d": 1.3
    },
    "attention": {
-    "v": 42.8,
-    "d": -21.3,
+    "v": 44.3,
+    "d": -21.9,
     "parts": {
-     "Wikipedia": 2.3,
+     "Wikipedia": 2.2,
      "réseaux": 23,
      "citations": 13.3,
-     "abonnés": 7.4,
-     "YouTube": 6.5
+     "abonnés": 8.2,
+     "YouTube": 5.8
     }
    },
    "polymarket": {
-    "v": 45.9,
-    "d": 5,
-    "d24": -0.4,
-    "d30": 9.8,
-    "vol": 3967203,
-    "vol7": 494505,
-    "haut": 47.3,
+    "v": 47.9,
+    "d": 8.4,
+    "d24": 2,
+    "d30": 11.2,
+    "vol": 4007201,
+    "vol7": 522783,
+    "haut": 47.9,
     "bas": 36
    },
    "declarations": [
@@ -294,7 +295,7 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 43
+    "attention": 44
    },
    "score": 89,
    "rangs": {
@@ -311,31 +312,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 16.8,
-    "d": 0.2
+    "v": 16.6,
+    "d": 0
    },
    "attention": {
     "v": 100,
-    "d": -2.4,
+    "d": -6.3,
     "parts": {
-     "Wikipedia": 6.4,
+     "Wikipedia": 6.1,
      "réseaux": 41.7,
      "citations": 19,
-     "abonnés": 43.7,
-     "YouTube": 39.6
+     "abonnés": 40.9,
+     "YouTube": 35.2
     }
    },
    "polymarket": {
-    "v": 11.5,
-    "d": -1,
-    "d24": null,
-    "d30": -1,
-    "vol": 2251029,
-    "vol7": 220735,
+    "v": 10.5,
+    "d": 0,
+    "d24": -1,
+    "d30": -2,
+    "vol": 2262088,
+    "vol7": 217925,
     "haut": 15.5,
     "bas": 10.5
    },
    "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat à la présidentielle",
+     "texte": "« Dans Paris, le commandement aberrant a ouvert la porte au chaos »",
+     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+     "source": "LCP",
+     "date": "2026-10-18",
+     "rubrique": "politique",
+     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+     "href": "/politique/2026-10-18/2"
+    },
     {
      "fond": "#efe8ff",
      "couleur": "#7e57c2",
@@ -405,23 +420,9 @@
      "rubrique": "politique",
      "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
      "href": "/politique/2026-10-04/2"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "sur son blog, samedi 3 octobre",
-     "texte": "La journée du 6 octobre est « un point de départ » qui « ouvre une série à coup sûr »",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html",
-     "source": "franceinfo",
-     "date": "2026-10-04",
-     "rubrique": "politique",
-     "sujet": "Lycées : le gouvernement avance l'examen du projet de loi « casseur-payeur »",
-     "href": "/politique/2026-10-04/1"
     }
    ],
-   "nbDeclarations": 10,
+   "nbDeclarations": 11,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -528,10 +529,10 @@
    },
    "composantes": {
     "sondage": 47,
-    "polymarket": 25,
+    "polymarket": 22,
     "attention": 100
    },
-   "score": 51,
+   "score": 50,
    "rangs": {
     "sondage": 2,
     "polymarket": 4
@@ -547,30 +548,44 @@
    "source_statut": null,
    "sondage": {
     "v": 15.6,
-    "d": -1.3
+    "d": -1.4
    },
    "attention": {
     "v": 11.1,
-    "d": -2.7,
+    "d": -3.3,
     "parts": {
-     "Wikipedia": 2.3,
+     "Wikipedia": 1.9,
      "réseaux": 2.5,
      "citations": 7.7,
-     "abonnés": 0.6,
+     "abonnés": 0.4,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 17.5,
-    "d": -5,
-    "d24": -2,
+    "d": -4,
+    "d24": null,
     "d30": -7,
-    "vol": 2281099,
-    "vol7": 186495,
+    "vol": 2285046,
+    "vol7": 180954,
     "haut": 24.5,
     "bas": 17.5
    },
    "declarations": [
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
+     "contexte": "candidat à la présidentielle",
+     "texte": "Il demande que les auteurs des violences soient « tous pourchassés et punis avec une grande sévérité ».",
+     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+     "source": "LCP",
+     "date": "2026-10-18",
+     "rubrique": "politique",
+     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+     "href": "/politique/2026-10-18/2"
+    },
     {
      "fond": "#e0f6f9",
      "couleur": "#1aa3b8",
@@ -628,7 +643,7 @@
      "href": "/politique/2026-09-30/1"
     }
    ],
-   "nbDeclarations": 4,
+   "nbDeclarations": 5,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/edouard-philippe/",
     "phase": {
@@ -734,8 +749,8 @@
     ]
    },
    "composantes": {
-    "sondage": 44,
-    "polymarket": 38,
+    "sondage": 45,
+    "polymarket": 37,
     "attention": 11
    },
    "score": 36,
@@ -753,28 +768,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 11.1,
-    "d": -0.5
+    "v": 11.7,
+    "d": 0.1
    },
    "attention": {
-    "v": 63.6,
-    "d": 46.3,
+    "v": 68.3,
+    "d": 50.5,
     "parts": {
-     "Wikipedia": 45.6,
+     "Wikipedia": 49.3,
      "réseaux": 3.1,
      "citations": 32.8,
-     "abonnés": 1.6,
+     "abonnés": 1.5,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 3.5,
-    "d": 2.4,
-    "d24": 1.2,
-    "d30": 1.6,
-    "vol": 2627703,
-    "vol7": 474255,
-    "haut": 4,
+    "v": 4.3,
+    "d": 2.7,
+    "d24": 0.9,
+    "d30": 2.5,
+    "vol": 2667563,
+    "vol7": 479713,
+    "haut": 4.3,
     "bas": 0.9
    },
    "declarations": [
@@ -941,11 +956,11 @@
     ]
    },
    "composantes": {
-    "sondage": 31,
-    "polymarket": 8,
-    "attention": 64
+    "sondage": 33,
+    "polymarket": 9,
+    "attention": 68
    },
-   "score": 31,
+   "score": 33,
    "rangs": {
     "sondage": 4,
     "polymarket": 5
@@ -960,31 +975,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 9.7,
-    "d": -1
+    "v": 9.5,
+    "d": -1.2
    },
    "attention": {
-    "v": 13.8,
-    "d": -4.2,
+    "v": 13.6,
+    "d": -5.7,
     "parts": {
-     "Wikipedia": 4.1,
+     "Wikipedia": 3.6,
      "réseaux": 2.6,
      "citations": 8.4,
-     "abonnés": 1.1,
-     "YouTube": 1.1
+     "abonnés": 1,
+     "YouTube": 0.6
     }
    },
    "polymarket": {
     "v": 1.8,
-    "d": -0.1,
-    "d24": 0.2,
+    "d": -0.6,
+    "d24": null,
     "d30": -0.5,
-    "vol": 3066830,
-    "vol7": 292515,
+    "vol": 3078659,
+    "vol7": 187427,
     "haut": 3,
     "bas": 1.1
    },
    "declarations": [
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": "candidat à la présidentielle",
+     "texte": "Il dénonce des scènes de pillage « indignes » et une « provocation envers l'autorité de l'État », et estime que « toutes les leçons de ces événements devront être tirées ».",
+     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+     "source": "LCP",
+     "date": "2026-10-18",
+     "rubrique": "politique",
+     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+     "href": "/politique/2026-10-18/2"
+    },
     {
      "fond": "#fff5d6",
      "couleur": "#f2a900",
@@ -1028,7 +1057,7 @@
      "href": "/politique/2026-09-30/1"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
     "phase": {
@@ -1154,23 +1183,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 50.1,
-    "d": 12.1,
+    "v": 51.4,
+    "d": 11,
     "parts": {
-     "Wikipedia": 19.8,
+     "Wikipedia": 18.5,
      "réseaux": 12.2,
      "citations": 5.2,
-     "abonnés": 29.8,
-     "YouTube": 11.7
+     "abonnés": 31.3,
+     "YouTube": 11.1
     }
    },
    "polymarket": {
-    "v": 11.6,
-    "d": -1,
-    "d24": -0.2,
-    "d30": 4.1,
-    "vol": 4936355,
-    "vol7": 550496,
+    "v": 11.7,
+    "d": -2.9,
+    "d24": 0.1,
+    "d30": 3.9,
+    "vol": 4956913,
+    "vol7": 475058,
     "haut": 14.5,
     "bas": 5.1
    },
@@ -1276,10 +1305,10 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 25,
-    "attention": 50
+    "polymarket": 24,
+    "attention": 51
    },
-   "score": 18,
+   "score": 17,
    "rangs": {
     "polymarket": 3
    }
@@ -1294,30 +1323,44 @@
    "source_statut": null,
    "sondage": {
     "v": 7.9,
-    "d": 0
+    "d": -0.1
    },
    "attention": {
     "v": 7.9,
-    "d": -5.6,
+    "d": -6,
     "parts": {
-     "Wikipedia": 2.1,
+     "Wikipedia": 2,
      "réseaux": 1.7,
      "citations": 4.9,
-     "abonnés": 0.8,
+     "abonnés": 0.5,
      "YouTube": 0.2
     }
    },
    "polymarket": {
     "v": 0.8,
-    "d": -0.3,
-    "d24": -0.3,
-    "d30": -0.8,
-    "vol": 2959718,
-    "vol7": 261814,
+    "d": -0.5,
+    "d24": null,
+    "d30": -0.7,
+    "vol": 2976834,
+    "vol7": 228146,
     "haut": 1.9,
     "bas": 0.8
    },
    "declarations": [
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
+     "contexte": "président du parti",
+     "texte": "Il appelle à « la force implacable de l'État » et dit que les agresseurs des forces de l'ordre « ne méritent rien d'autre que la prison ».",
+     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+     "source": "LCP",
+     "date": "2026-10-18",
+     "rubrique": "politique",
+     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+     "href": "/politique/2026-10-18/2"
+    },
     {
      "fond": "#e6ecff",
      "couleur": "#1d4ed8",
@@ -1333,7 +1376,7 @@
      "href": "/politique/2026-10-15/2"
     }
    ],
-   "nbDeclarations": 1,
+   "nbDeclarations": 2,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {
@@ -1439,11 +1482,11 @@
     ]
    },
    "composantes": {
-    "sondage": 22,
+    "sondage": 23,
     "polymarket": 2,
     "attention": 8
    },
-   "score": 13,
+   "score": 14,
    "rangs": {
     "sondage": 6,
     "polymarket": 9
@@ -1462,23 +1505,23 @@
     "d": -1.6
    },
    "attention": {
-    "v": 5.5,
+    "v": 5.6,
     "d": -1.7,
     "parts": {
      "Wikipedia": 1.6,
      "réseaux": 1.3,
      "citations": 2.7,
-     "abonnés": 1.4,
+     "abonnés": 1.3,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 2,
-    "d": -1.3,
+    "v": 2.2,
+    "d": -1,
     "d24": 0.2,
-    "d30": -3.4,
-    "vol": 2519845,
-    "vol7": 178711,
+    "d30": -2.8,
+    "vol": 2525650,
+    "vol7": 180176,
     "haut": 6.3,
     "bas": 1.7
    },
@@ -1590,7 +1633,7 @@
    },
    "composantes": {
     "sondage": 19,
-    "polymarket": 4,
+    "polymarket": 5,
     "attention": 6
    },
    "score": 12,
@@ -1608,27 +1651,27 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 4.4,
-    "d": 0.9
+    "v": 4.3,
+    "d": 0.7
    },
    "attention": {
-    "v": 17,
-    "d": 7.1,
+    "v": 18.4,
+    "d": 8.2,
     "parts": {
      "Wikipedia": 3,
      "réseaux": 5,
      "citations": 2.6,
-     "abonnés": 1.5,
-     "YouTube": 19.5
+     "abonnés": 1.8,
+     "YouTube": 21.6
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.1,
-    "d24": -0.1,
-    "d30": -0.7,
-    "vol": 2960126,
-    "vol7": 145349,
+    "v": 0.7,
+    "d": 0.1,
+    "d24": 0.2,
+    "d30": -0.9,
+    "vol": 2971347,
+    "vol7": 151163,
     "haut": 1.6,
     "bas": 0.4
    },
@@ -1741,12 +1784,12 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 1,
-    "attention": 17
+    "attention": 18
    },
    "score": 10,
    "rangs": {
     "sondage": 8,
-    "polymarket": 11
+    "polymarket": 10
    }
   },
   {
@@ -1759,22 +1802,22 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 37.2,
-    "d": -51.2,
+    "v": 43,
+    "d": -42,
     "parts": {
-     "Wikipedia": 7.2,
-     "abonnés": 8.9,
-     "YouTube": 20.8
+     "Wikipedia": 6.9,
+     "abonnés": 10.7,
+     "YouTube": 24.5
     }
    },
    "polymarket": {
     "v": 0.9,
-    "d": 0,
+    "d": -0.1,
     "d24": null,
     "d30": -0.2,
-    "vol": 2621802,
-    "vol7": 130925,
-    "haut": 1.2,
+    "vol": 2630004,
+    "vol7": 135104,
+    "haut": 1.1,
     "bas": 0.9
    },
    "declarations": [],
@@ -1783,9 +1826,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 2,
-    "attention": 37
+    "attention": 43
    },
-   "score": 8,
+   "score": 9,
    "rangs": {
     "polymarket": 8
    }
@@ -1799,31 +1842,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 3.3,
-    "d": 0
+    "v": 3.2,
+    "d": -0.1
    },
    "attention": {
-    "v": 5.3,
+    "v": 5.5,
     "d": 0.8,
     "parts": {
      "Wikipedia": 1.7,
      "réseaux": 2.5,
      "citations": 1.5,
-     "abonnés": 0.6,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": -0.1,
-    "d30": -0.1,
-    "vol": 4599040,
-    "vol7": 128806,
+    "d24": 0.1,
+    "d30": null,
+    "vol": 4603277,
+    "vol7": 128034,
     "haut": null,
     "bas": null
    },
    "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "cheffe du parti, candidate à la présidentielle",
+     "texte": "« J'en ai ras le bol de la doctrine de maintien de l'ordre dans ce pays »",
+     "url": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html",
+     "source": "franceinfo",
+     "date": "2026-10-18",
+     "rubrique": "politique",
+     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+     "href": "/politique/2026-10-18/2"
+    },
     {
      "fond": "#e2f7e9",
      "couleur": "#1f9d55",
@@ -1893,23 +1950,9 @@
      "rubrique": "politique",
      "sujet": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens",
      "href": "/politique/2026-10-06/1"
-    },
-    {
-     "fond": "#e2f7e9",
-     "couleur": "#1f9d55",
-     "parti": "ÉCOLOGISTES",
-     "qui": "Marine Tondelier",
-     "contexte": "secrétaire nationale",
-     "texte": "Jordan Bardella « doit démissionner de toutes ses fonctions »",
-     "url": "https://www.franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
-     "source": "franceinfo",
-     "date": "2026-09-29",
-     "rubrique": "politique",
-     "sujet": "Mediapart attribue à Jordan Bardella des écrits antisémites, il porte plainte",
-     "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 6,
+   "nbDeclarations": 7,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -2017,7 +2060,7 @@
    "composantes": {
     "sondage": 9,
     "polymarket": 0,
-    "attention": 5
+    "attention": 6
    },
    "score": 6,
    "rangs": {
@@ -2034,17 +2077,17 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 2.3,
-    "d": -0.3
+    "v": 2.2,
+    "d": -0.4
    },
    "attention": {
-    "v": 2.7,
-    "d": -1.3,
+    "v": 2.6,
+    "d": -1.5,
     "parts": {
-     "Wikipedia": 0.5,
+     "Wikipedia": 0.4,
      "réseaux": 1.3,
      "citations": 0.7,
-     "abonnés": 0.9,
+     "abonnés": 0.6,
      "YouTube": 0
     }
    },
@@ -2228,23 +2271,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 4,
-    "d": -0.5,
+    "v": 4.2,
+    "d": -0.4,
     "parts": {
      "Wikipedia": 1.3,
      "réseaux": 1.9,
      "citations": 1,
-     "abonnés": 0.2,
-     "YouTube": 0.7
+     "abonnés": 0.1,
+     "YouTube": 0.9
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
     "d24": null,
-    "d30": null,
-    "vol": 4808281,
-    "vol7": 155108,
+    "d30": -0.1,
+    "vol": 4834302,
+    "vol7": 166030,
     "haut": null,
     "bas": null
    },
@@ -2374,23 +2417,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 3.4,
-    "d": -2.7,
+    "v": 2.9,
+    "d": -4.1,
     "parts": {
-     "Wikipedia": 1.7,
+     "Wikipedia": 1.2,
      "réseaux": 1,
      "citations": 0.4,
-     "abonnés": 1.5,
+     "abonnés": 1.1,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 0.5,
+    "v": 0.4,
     "d": -0.6,
     "d24": -0.1,
-    "d30": -0.4,
-    "vol": 2595704,
-    "vol7": 148074,
+    "d30": -0.3,
+    "vol": 2605637,
+    "vol7": 143957,
     "haut": 1.2,
     "bas": 0.2
    },
@@ -2522,7 +2565,7 @@
    },
    "score": 1,
    "rangs": {
-    "polymarket": 10
+    "polymarket": 11
    }
   },
   {
@@ -2548,10 +2591,10 @@
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": null,
-    "d30": -0.1,
-    "vol": 6159078,
-    "vol7": 4316,
+    "d24": 0.1,
+    "d30": null,
+    "vol": 6163295,
+    "vol7": 8532,
     "haut": null,
     "bas": null
    },
@@ -3113,6 +3156,43 @@
     "Éric Zemmour": 0.4,
     "François Ruffin": 0.1,
     "Xavier Bertrand": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Raphaël Glucksmann": 68.3,
+    "David Lisnard": 51.4,
+    "Marine Le Pen": 44.3,
+    "Sarah Knafo": 43,
+    "Éric Zemmour": 18.4,
+    "Gabriel Attal": 13.6,
+    "Édouard Philippe": 11.1,
+    "Bruno Retailleau": 7.9,
+    "François Hollande": 5.6,
+    "Marine Tondelier": 5.5,
+    "François Ruffin": 4.2,
+    "Dominique de Villepin": 2.9,
+    "Fabien Roussel": 2.6,
+    "Xavier Bertrand": 0.3
+   },
+   "polymarket": {
+    "Marine Le Pen": 47.9,
+    "Édouard Philippe": 17.5,
+    "David Lisnard": 11.7,
+    "Jean-Luc Mélenchon": 10.5,
+    "Raphaël Glucksmann": 4.3,
+    "François Hollande": 2.2,
+    "Gabriel Attal": 1.8,
+    "Sarah Knafo": 0.9,
+    "Bruno Retailleau": 0.8,
+    "Éric Zemmour": 0.7,
+    "Dominique de Villepin": 0.4,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
     "Fabien Roussel": 0.1
    }

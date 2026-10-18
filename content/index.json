@@ -1,6 +1,763 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-18",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MONDE",
+    "titre": "FMI : croissance mondiale à 3,1 % en 2026, la France à 0,4 %",
+    "court": "FMI : 3,1 % de croissance mondiale",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg/1280px-Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg",
+    "legende": "Porte-conteneurs et grues dans un port (illustration)",
+    "chapeau": "Mardi 13 octobre, à Bangkok, en marge des assemblées annuelles du FMI et de la Banque mondiale (12 au 18 octobre), le Fonds monétaire international a publié ses Perspectives de l'économie mondiale.",
+    "eclairage": "Que mesure une prévision de croissance ?",
+    "chiffres": [
+     {
+      "valeur": "3,1 %",
+      "legende": "croissance mondiale prévue en 2026"
+     },
+     {
+      "valeur": "0,4 %",
+      "legende": "croissance française prévue en 2026"
+     },
+     {
+      "valeur": "4,7 %",
+      "legende": "inflation mondiale prévue en 2026"
+     }
+    ],
+    "passe": "Mardi 13 octobre, à Bangkok, en marge des assemblées annuelles du FMI et de la Banque mondiale (12 au 18 octobre), le Fonds monétaire international a publié ses Perspectives de l'économie mondiale. Il prévoit une croissance mondiale de 3,1 % en 2026, soit 0,1 point de plus qu'en juillet et contre 3,5 % en 2025, puis 3,4 % en 2027. Pour la zone euro, il table sur 1,1 % en 2026. La France fait exception : 0,4 % en 2026 et 0,7 % en 2027, soit 0,2 point de moins chaque année par rapport à juillet. Selon l'AFP, le FMI cite les événements climatiques de l'été et une forte incertitude politique et budgétaire. Le Fonds attend une inflation mondiale de 4,7 % en 2026, puis 4,1 % en 2027.",
+    "points": [],
+    "explication": "La croissance, c'est la hausse de la richesse produite dans un pays en un an, le PIB. À 0,4 %, l'économie française produit à peine plus qu'en 2025 : les entreprises vendent peu plus, les recettes de l'État et les embauches progressent peu. Une révision de 0,2 point est un ajustement de la prévision, pas une mesure : le chiffre définitif viendra de l'Insee. Le FMI publie ses prévisions deux fois par an, en avril et en octobre, avec une mise à jour en juillet. L'Insee et le gouvernement français publient les leurs.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/le-fmi-releve-sa-prevision-2026-de-croissance-pour-l-economie-mondiale-52446b2b3a22f45d9e285446487b58e3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.journaldeleconomie.fr/le-fmi-releve-ses-previsions-de-croissance-mondiale-a-31-pour-2026/",
+      "nom": "Journal de l'économie"
+     },
+     {
+      "url": "https://europe-business-news.com/16/10/2026/croissance-mondiale-fmi-3-1-pourcent-2026-zone-euro/",
+      "nom": "Europe Business News"
+     },
+     {
+      "url": "https://www.economiematin.fr/?p=233757",
+      "nom": "Économie Matin"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "FMI",
+      "qui": "Silvana Tenreyro",
+      "contexte": "cheffe économiste",
+      "texte": "« L'économie mondiale a fait preuve de résilience, mais cette résilience est mise à rude épreuve »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/le-fmi-releve-sa-prevision-2026-de-croissance-pour-l-economie-mondiale-52446b2b3a22f45d9e285446487b58e3",
+      "source": "dépêche AFP via Boursorama"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "FMI",
+      "qui": "Kristalina Georgieva",
+      "contexte": "directrice générale",
+      "texte": "Elle met en garde contre un « réel risque de complaisance ».",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/le-fmi-releve-sa-prevision-2026-de-croissance-pour-l-economie-mondiale-52446b2b3a22f45d9e285446487b58e3",
+      "source": "dépêche AFP via Boursorama"
+     }
+    ],
+    "apres": "Lundi 19 octobre, la Chine publie son PIB du 3e trimestre ; le 22 octobre, l'Insee publie son climat des affaires.",
+    "change": "La prévision du FMI sert de repère aux investisseurs et aux gouvernements pour comparer les pays. Le budget français repose sur la prévision de croissance du gouvernement, pas sur celle du FMI.",
+    "credit": {
+     "auteur": "Downtowngal",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Container_ship_NYK_Themis_at_the_Port_of_Los_Angeles.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CONJONCTURE",
+    "titre": "Inflation : 3,1 % sur un an en septembre, tirée par l'énergie",
+    "court": "Inflation : 3,1 % en septembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fuel_pumps_at_a_Valero_gas_station_in_Greenville%2C_South_Carolina_03.jpg/1280px-Fuel_pumps_at_a_Valero_gas_station_in_Greenville%2C_South_Carolina_03.jpg",
+    "legende": "Pompes à carburant dans une station-service (illustration)",
+    "chapeau": "Jeudi 15 octobre, l'Insee a publié le chiffre définitif de l'inflation de septembre : les prix à la consommation augmentent de 3,1 % sur un an, contre 2,4 % en août et 3,0 % dans l'estimation provisoire. D'après la presse économique, c'est le niveau le plus haut depuis janvier 2024.",
+    "eclairage": "Comment lire un chiffre d'inflation ?",
+    "chiffres": [
+     {
+      "valeur": "3,1 %",
+      "legende": "d'inflation sur un an"
+     },
+     {
+      "valeur": "21,3 %",
+      "legende": "hausse des prix de l'énergie"
+     },
+     {
+      "valeur": "-0,3 %",
+      "legende": "variation sur un mois"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, l'Insee a publié le chiffre définitif de l'inflation de septembre : les prix à la consommation augmentent de 3,1 % sur un an, contre 2,4 % en août et 3,0 % dans l'estimation provisoire. D'après la presse économique, c'est le niveau le plus haut depuis janvier 2024. Sur un mois, les prix reculent de 0,3 %, après +0,7 % en août, en raison surtout de la baisse saisonnière des services. L'énergie progresse de 21,3 % sur un an (16,7 % en août), dont +44,1 % pour le gazole. Les services montent de 2,4 %, l'alimentation de 1,4 %, les produits manufacturés reculent de 0,3 %. L'inflation sous-jacente atteint 1,5 %, contre 1,1 % en août.",
+    "points": [
+     "+3,1 % sur un an : un panier de produits coûte 3,1 % de plus qu'en septembre 2025.",
+     "-0,3 % sur un mois : les deux chiffres ne se contredisent pas. Le premier compare à il y a un an, le second à août, mois de vacances où transports et hébergement coûtent plus cher.",
+     "Inflation sous-jacente 1,5 % : elle écarte les prix les plus volatils, dont l'énergie. L'écart avec les 3,1 % montre que la hausse vient surtout de l'énergie."
+    ],
+    "explication": "1. +3,1 % sur un an : un panier de produits coûte 3,1 % de plus qu'en septembre 2025. 2. -0,3 % sur un mois : les deux chiffres ne se contredisent pas. Le premier compare à il y a un an, le second à août, mois de vacances où transports et hébergement coûtent plus cher. 3. Inflation sous-jacente 1,5 % : elle écarte les prix les plus volatils, dont l'énergie. L'écart avec les 3,1 % montre que la hausse vient surtout de l'énergie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9080209",
+      "nom": "Insee"
+     },
+     {
+      "url": "https://echosplus.com/2026/10/15/inflation-en-france-les-prix-accelerent-a-31-en-septembre-portes-par-lenergie/",
+      "nom": "Échos+"
+     },
+     {
+      "url": "https://renseignementeconomique.fr/l-inflation-rebondit-a-3-1-en-septembre-tiree-par-les-prix-de-l-energie",
+      "nom": "Renseignement Économique"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Insee",
+      "contexte": "statisticien public",
+      "texte": "La hausse « s'explique par la nouvelle accélération des prix de l'énergie ».",
+      "url": "https://renseignementeconomique.fr/l-inflation-rebondit-a-3-1-en-septembre-tiree-par-les-prix-de-l-energie",
+      "source": "Renseignement Économique"
+     }
+    ],
+    "apres": "L'Insee publie l'estimation provisoire de l'inflation d'octobre le 30 octobre.",
+    "change": "Le gazole (+44,1 % sur un an) pèse d'abord sur les ménages et les entreprises qui roulent beaucoup. Hors énergie, les hausses restent modérées : 1,4 % pour l'alimentation, 2,4 % pour les services.",
+    "credit": {
+     "auteur": "Harrison Keely",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Fuel_pumps_at_a_Valero_gas_station_in_Greenville,_South_Carolina_03.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Netflix : environ 1 000 postes supprimés, soit 6 % des effectifs",
+    "court": "Netflix : 1 000 postes supprimés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Netflix_headquarters.jpg/1280px-Netflix_headquarters.jpg",
+    "legende": "Le siège de Netflix à Los Gatos (Californie)",
+    "chapeau": "Mercredi 14 octobre, Netflix a annoncé la suppression d'environ 1 000 postes, soit environ 6 % de ses effectifs, dans une note interne signée de ses co-directeurs généraux, Ted Sarandos et Greg Peters. Selon l'AP, les équipes produit, technologie, juridique et ressources humaines seront les plus touchées.",
+    "eclairage": "Pourquoi réduire les effectifs quand l'activité va bien ?",
+    "chiffres": [
+     {
+      "valeur": "1 000",
+      "legende": "postes supprimés"
+     },
+     {
+      "valeur": "6 %",
+      "legende": "des effectifs mondiaux"
+     },
+     {
+      "valeur": "2022",
+      "legende": "dernière vague (~450 postes)"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, Netflix a annoncé la suppression d'environ 1 000 postes, soit environ 6 % de ses effectifs, dans une note interne signée de ses co-directeurs généraux, Ted Sarandos et Greg Peters. Selon l'AP, les équipes produit, technologie, juridique et ressources humaines seront les plus touchées. C'est la plus importante vague de suppressions depuis 2022, où environ 450 salariés avaient été licenciés en deux fois. La direction affirme que l'activité reste solide et que l'entreprise est en voie de tenir sa prévision annuelle. En septembre, Ted Sarandos avait reconnu que la croissance était moins rapide qu'il ne le souhaitait. Netflix publie ses résultats trimestriels dans la nuit du 20 au 21 octobre.",
+    "points": [],
+    "explication": "Netflix gagne de l'argent avec les abonnements ; ses grandes dépenses sont les contenus et les salaires. Sa marge, c'est la part du chiffre d'affaires qui reste en bénéfice. Quand la croissance des abonnés ralentit, une entreprise peut réduire ses coûts pour protéger cette marge. Les investisseurs regardent à la fois la croissance (combien l'entreprise vend de plus) et la rentabilité (combien elle garde). Les deux ne vont pas toujours ensemble.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ksat.com/business/2026/10/14/netflix-is-laying-off-6-of-its-workforce-in-biggest-round-of-job-cuts-at-streaming-giant-in-years/",
+      "nom": "dépêche AP via KSAT"
+     },
+     {
+      "url": "https://www.hcamag.com/us/specialization/change-management/netflix-to-cut-about-1000-jobs-including-hr-roles/593558",
+      "nom": "HCA Magazine"
+     },
+     {
+      "url": "https://filmstories.co.uk/news/netflix-to-cut-1000-jobs-or-six-percent-of-its-workforce/",
+      "nom": "Film Stories"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Ted Sarandos et Greg Peters",
+      "contexte": "co-directeurs généraux",
+      "texte": "« Decisions like these are never easy, and we don't take them lightly »",
+      "url": "https://www.ksat.com/business/2026/10/14/netflix-is-laying-off-6-of-its-workforce-in-biggest-round-of-job-cuts-at-streaming-giant-in-years/",
+      "source": "dépêche AP via KSAT"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Ted Sarandos",
+      "contexte": "co-directeur général",
+      "texte": "En septembre : « we're not growing as fast as I want us to »",
+      "url": "https://filmstories.co.uk/news/netflix-to-cut-1000-jobs-or-six-percent-of-its-workforce/",
+      "source": "Film Stories"
+     }
+    ],
+    "apres": "Résultats du 3e trimestre dans la nuit du 20 au 21 octobre (1h, heure de Paris) : première occasion de mesurer l'effet annoncé sur la prévision annuelle.",
+    "change": "Les salariés concernés doivent être informés prochainement, selon la BBC citée par Film Stories. Les équipes de contenu et de production ne sont pas toutes épargnées, des responsables du cinéma quittant aussi l'entreprise.",
+    "credit": {
+     "auteur": "Coolcaesar",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Netflix_headquarters.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "TECH",
+    "titre": "Proofpoint rachète Varonis pour 6,3 milliards de dollars",
+    "court": "Proofpoint rachète Varonis : 6,3 Md$",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Technician_with_laptop_working_on_server_rack_at_NERSC.jpg/1280px-Technician_with_laptop_working_on_server_rack_at_NERSC.jpg",
+    "legende": "Technicien devant des serveurs dans un centre de données (illustration)",
+    "chapeau": "Jeudi 15 octobre, Proofpoint, société de cybersécurité détenue par le fonds Thoma Bravo, a annoncé le rachat de Varonis Systems pour environ 6,3 milliards de dollars, entièrement en numéraire.",
+    "eclairage": "Pourquoi une entreprise de cybersécurité en rachète une autre ?",
+    "chiffres": [
+     {
+      "valeur": "6,3Md$",
+      "legende": "valeur de l'opération"
+     },
+     {
+      "valeur": "49,75$",
+      "legende": "prix payé par action"
+     },
+     {
+      "valeur": "52 %",
+      "legende": "de prime sur le cours du 22 juin"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, Proofpoint, société de cybersécurité détenue par le fonds Thoma Bravo, a annoncé le rachat de Varonis Systems pour environ 6,3 milliards de dollars, entièrement en numéraire. Les actionnaires de Varonis recevront 49,75 dollars par action, soit 52 % de plus que le cours de clôture du 22 juin, dernier jour de bourse avant les premières rumeurs de vente. Thoma Bravo finance l'opération, et le fonds de pension Ontario Teachers' investit dans Proofpoint. L'accord doit être approuvé par les actionnaires de Varonis et les autorités ; la finalisation est attendue au premier semestre 2027. Varonis sera alors retirée de la cote du Nasdaq.",
+    "points": [],
+    "explication": "Proofpoint surveille surtout les messageries et les outils de travail collaboratif ; Varonis repère où se trouvent les données sensibles d'une entreprise et qui peut y accéder (Clubic). Les deux sociétés veulent proposer une plateforme unique, au moment où des agents d'intelligence artificielle accèdent à de plus en plus de données. Le numéraire signifie que les actionnaires reçoivent de l'argent, pas des actions de l'acheteur. Un fonds de capital-investissement comme Thoma Bravo achète des entreprises avec l'argent d'investisseurs, pour les revendre plus tard.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://fr.timesofisrael.com/la-societe-de-cybersecurite-varonis-systems-va-etre-rachetee-par-proofpoint/",
+      "nom": "Reuters via Times of Israël"
+     },
+     {
+      "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
+      "nom": "SecurityWeek"
+     },
+     {
+      "url": "https://www.clubic.com/actualite-634540-rachat-geant-dans-la-cyber-proofpoint-met-6-3-milliards-de-dollars-sur-la-table-pour-racheter-varonis-dans-quel-but.html",
+      "nom": "Clubic"
+     },
+     {
+      "url": "https://itdaily.fr/nouvelles/business/proofpoint-rachete-varonis/",
+      "nom": "ITdaily"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ENTREPRISE",
+      "qui": "Proofpoint et Varonis",
+      "contexte": "communiqué commun",
+      "texte": "Le but : « une plateforme intégrée pour la protection des données sensibles ».",
+      "url": "https://itdaily.fr/nouvelles/business/proofpoint-rachete-varonis/",
+      "source": "ITdaily"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "RBC et Oppenheimer",
+      "contexte": "courtiers",
+      "texte": "RBC juge que l'opération « fait sens » alors que la concurrence s'intensifie ; selon Oppenheimer, elle combinera les capacités des deux sociétés en cybersécurité.",
+      "url": "https://www.zonebourse.com/actualite-bourse/proofpoint-va-acquerir-varonis-dans-le-cadre-da-une-transaction-entierement-en-numeraire-de-6-3-mil-ce785dd3d18ff124",
+      "source": "Zonebourse (MT Newswires)"
+     }
+    ],
+    "apres": "Vote des actionnaires et autorisations des régulateurs, puis clôture attendue au premier semestre 2027 ; Varonis publie ses résultats trimestriels le 3 novembre, selon Clubic.",
+    "change": "Pour les clients, un seul fournisseur pourrait couvrir messagerie et protection des données. Pour les actionnaires de Varonis, le paiement est connu : 49,75 dollars par action.",
+    "credit": {
+     "auteur": "Derrick Coetzee",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Technician_with_laptop_working_on_server_rack_at_NERSC.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Inflation sous-jacente",
+    "definition": "L'inflation calculée sans les prix les plus volatils, comme l'énergie. Elle montre la tendance de fond des prix."
+   },
+   {
+    "terme": "Prime (de rachat)",
+    "definition": "L'écart entre le prix offert par l'acheteur et le cours de bourse de l'entreprise visée avant les rumeurs."
+   },
+   {
+    "terme": "Numéraire",
+    "definition": "Payer en numéraire, c'est payer en argent, et non en actions de l'acheteur."
+   },
+   {
+    "terme": "Capital-investissement",
+    "definition": "Des fonds qui rachètent des entreprises avec l'argent d'investisseurs, pour les développer puis les revendre."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'achat de Varonis par Proofpoint, annoncé le 15 octobre, les actionnaires de Varonis seront payés en actions Proofpoint.",
+   "reponse": false,
+   "explication": "Faux : l'opération, d'environ 6,3 milliards de dollars, est entièrement payée en numéraire, à 49,75 dollars par action."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-18",
+  "minutes": 17,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIÉTÉ",
+    "titre": "Mobilisation du 17 octobre : 550 000 à 800 000 manifestants, des violences",
+    "court": "17 octobre : 550 000 à 800 000 manifestants",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Limoges_-_H%C3%B4tel_de_ville_1.jpg/1280px-Limoges_-_H%C3%B4tel_de_ville_1.jpg",
+    "legende": "L'hôtel de ville de Limoges, avant l'incendie du 17 octobre (illustration)",
+    "chapeau": "Samedi 17 octobre, une journée de mobilisation contre la vie chère, à l'appel notamment d'anciens gilets jaunes, du mouvement lycéen et d'organisations syndicales, a réuni 800 000 personnes selon un bilan actualisé de plusieurs organisations, dont la CGT et l'Union étudiante, et 550 000 selon le ministre de l'Intérieur Laurent Nuñez, dont 110 000 à Paris, pour 110 défilés.",
+    "eclairage": "Deux comptages, deux chiffres",
+    "chiffres": [
+     {
+      "valeur": "800 k",
+      "legende": "manifestants selon les organisations"
+     },
+     {
+      "valeur": "550 k",
+      "legende": "manifestants selon le ministre"
+     },
+     {
+      "valeur": "~400",
+      "legende": "interpellations (décompte provisoire)"
+     }
+    ],
+    "passe": "Samedi 17 octobre, une journée de mobilisation contre la vie chère, à l'appel notamment d'anciens gilets jaunes, du mouvement lycéen et d'organisations syndicales, a réuni 800 000 personnes selon un bilan actualisé de plusieurs organisations, dont la CGT et l'Union étudiante, et 550 000 selon le ministre de l'Intérieur Laurent Nuñez, dont 110 000 à Paris, pour 110 défilés. En marge des cortèges, des violences et des pillages ont eu lieu dans plusieurs villes. Selon LCP, les mairies de Marseille et de Lille ont été dégradées, une antenne de l'office de tourisme de Lyon a été incendiée et la résidence officielle de la préfète de la Gironde a été saccagée. À Limoges, un incendie a détruit une grande partie de la toiture de l'hôtel de ville, inauguré en 1883 ; le préfet a dit qu'il est « en grande partie perdu », selon franceinfo. Laurent Nuñez a annoncé environ 400 interpellations, « en majorité des majeurs », selon un décompte provisoire, et près de 60 blessés parmi les forces de l'ordre ; il a dit que le gouvernement ne réfléchissait « absolument pas » à décréter l'état d'urgence. À Saint-Étienne, un jeune de 17 ans a eu la main arrachée par une grenade ; l'enquête est confiée à l'IGPN, la police des polices, et la cause exacte n'est pas établie à ce stade.",
+    "points": [],
+    "explication": "Les 800 000 participants viennent d'un bilan diffusé par plusieurs organisations, dont la CGT et l'Union étudiante ; les 550 000 viennent du ministère de l'Intérieur. Il s'agit de la même journée, comptée par deux sources différentes. Le ministre a distingué les 110 défilés des violences survenues ensuite, qu'il attribue à des groupes distincts ; cette analyse est la sienne, et les enquêtes judiciaires sont en cours.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.cnews.fr/france/2026-10-17/mobilisation-du-17-octobre-ultragauche-forces-de-lordre-blessees-etat-durgence-ce",
+      "nom": "CNEWS, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/nous-ne-nous-laissons-pas-intimider-lecornu-denonce-l-ultragauche-apres-des-violences",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/video-un-incendie-ravage-l-hotel-de-ville-de-limoges-en-marge-de-la-mobilisation-du-17-octobre_8242054.html",
+      "nom": "franceinfo, Limoges"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html",
+      "nom": "franceinfo, Saint-Étienne"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« à l'instigation très claire de l'ultragauche »",
+      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CGT · UNION ÉTUDIANTE",
+      "qui": "Organisations syndicales et étudiantes",
+      "contexte": "bilan actualisé",
+      "texte": "Elles font état de 800 000 participants aux actions et défilés partout en France.",
+      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html",
+      "source": "franceinfo, avec AFP"
+     }
+    ],
+    "apres": "Les personnes interpellées sont présumées innocentes tant qu'elles n'ont pas été jugées. Le projet de loi « casseurs-payeurs » est examiné au Sénat à partir du 27 octobre (sujet 3).",
+    "change": "Le bilan chiffré reste provisoire : le nombre d'interpellations et de blessés peut évoluer, et les enquêtes sur les incendies, les pillages et le blessé de Saint-Étienne ne font que commencer.",
+    "credit": {
+     "auteur": "Rslr22",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Limoges_-_H%C3%B4tel_de_ville_1.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "POLITIQUE",
+    "titre": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
+    "court": "17 octobre : réactions politiques divisées",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_002.jpg/1280px-Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_002.jpg",
+    "legende": "Des CRS faisant face à un cortège lors de la manifestation lycéenne et étudiante du 6 octobre 2026 à Paris (illustration)",
+    "chapeau": "Dès le samedi soir, les réactions politiques aux violences ont divergé.",
+    "eclairage": "Qui décide du maintien de l'ordre à Paris ?",
+    "chiffres": [
+     {
+      "valeur": "~60",
+      "legende": "blessés parmi les forces de l'ordre"
+     },
+     {
+      "valeur": "110",
+      "legende": "défilés recensés par le ministre"
+     },
+     {
+      "valeur": "6 mois",
+      "legende": "avant la présidentielle"
+     }
+    ],
+    "passe": "Dès le samedi soir, les réactions politiques aux violences ont divergé. Le Premier ministre Sébastien Lecornu a apporté « tout » son soutien aux forces de l'ordre et accusé des « groupes d'ultragauche » d'avoir « organisé la violence », auxquels se seraient mêlés des délinquants « pour piller et détruire », selon LCP ; il a mis en garde ceux qui voudraient faire de ces violences « un tour de chauffe » avant l'élection présidentielle, prévue dans six mois. À gauche, Jean-Luc Mélenchon met en cause le commandement policier à Paris et Marine Tondelier demande de revoir la doctrine du maintien de l'ordre. À droite et à l'extrême droite, Bruno Retailleau, Éric Ciotti, Marine Le Pen et Jordan Bardella dénoncent les violences et mettent en cause la gauche, en particulier La France insoumise. Les candidats à la présidentielle Gabriel Attal et Édouard Philippe dénoncent des scènes de pillage et de chaos.",
+    "points": [
+     "Avant la manifestation, le préfet de police de Paris, Patrice Faure, a pris des arrêtés interdisant de manifester dans plusieurs secteurs de la capitale (LCP, Le Figaro).",
+     "Samedi, Jean-Luc Mélenchon a accusé le préfet de police d'organiser « le désordre » en interdisant l'accès à la place de la République (LCP).",
+     "Sébastien Lecornu répond que « faire porter aux chefs de la police la responsabilité des violences, c'est une inversion dangereuse et cynique des responsabilités » (LCP)."
+    ],
+    "explication": "1. Avant la manifestation, le préfet de police de Paris, Patrice Faure, a pris des arrêtés interdisant de manifester dans plusieurs secteurs de la capitale (LCP, Le Figaro). 2. Samedi, Jean-Luc Mélenchon a accusé le préfet de police d'organiser « le désordre » en interdisant l'accès à la place de la République (LCP). 3. Sébastien Lecornu répond que « faire porter aux chefs de la police la responsabilité des violences, c'est une inversion dangereuse et cynique des responsabilités » (LCP).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "nom": "LCP, réactions"
+     },
+     {
+      "url": "https://lcp.fr/actualites/nous-ne-nous-laissons-pas-intimider-lecornu-denonce-l-ultragauche-apres-des-violences",
+      "nom": "LCP, Lecornu"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html",
+      "nom": "franceinfo, Lecornu, avec AFP"
+     },
+     {
+      "url": "https://www.cnews.fr/france/2026-10-17/mobilisation-du-17-octobre-ultragauche-forces-de-lordre-blessees-etat-durgence-ce",
+      "nom": "CNEWS, avec AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« Nous ne nous laisserons pas intimider »",
+      "url": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "président du parti",
+      "texte": "Il appelle à « la force implacable de l'État » et dit que les agresseurs des forces de l'ordre « ne méritent rien d'autre que la prison ».",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Éric Ciotti",
+      "contexte": "président du parti",
+      "texte": "Il voit dans les dégradations de la mairie de Marseille le symbole d'un « effondrement de la République ».",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "« seuls les professionnels du chaos »",
+      "url": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "candidat à la présidentielle",
+      "texte": "« Dans Paris, le commandement aberrant a ouvert la porte au chaos »",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "cheffe du parti, candidate à la présidentielle",
+      "texte": "« J'en ai ras le bol de la doctrine de maintien de l'ordre dans ce pays »",
+      "url": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Gabriel Attal",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Il dénonce des scènes de pillage « indignes » et une « provocation envers l'autorité de l'État », et estime que « toutes les leçons de ces événements devront être tirées ».",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Édouard Philippe",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Il demande que les auteurs des violences soient « tous pourchassés et punis avec une grande sévérité ».",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     }
+    ],
+    "apres": "À six mois de la présidentielle, les candidats se positionnent sur la sécurité. Le projet de loi « casseurs-payeurs » (sujet suivant) sera le prochain texte débattu au Parlement sur ce thème.",
+    "change": "Le débat politique porte moins sur le bilan que sur les responsabilités : doctrine du maintien de l'ordre pour la gauche, rôle de La France insoumise pour la droite et le RN, soutien aux forces de l'ordre pour le gouvernement.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_002.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "LOI",
+    "titre": "Casseurs-payeurs : Lecornu confirme le projet de loi, au Sénat le 27 octobre",
+    "court": "Casseurs-payeurs : au Sénat le 27 octobre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palais-du-Luxembourg-Paris-02-2018b.jpg/1280px-Palais-du-Luxembourg-Paris-02-2018b.jpg",
+    "legende": "Le palais du Luxembourg, siège du Sénat, à Paris (illustration)",
+    "chapeau": "Samedi 17 octobre, Sébastien Lecornu a promis d'aller « jusqu'au bout » de la discussion du projet de loi « casseurs-payeurs », dont l'examen au Sénat commence le 27 octobre, selon franceinfo.",
+    "eclairage": "Responsabilité solidaire et procédure accélérée",
+    "chiffres": [
+     {
+      "valeur": "27/10",
+      "legende": "début de l'examen au Sénat"
+     },
+     {
+      "valeur": "10 k€",
+      "legende": "plafond par personne"
+     },
+     {
+      "valeur": "16/09",
+      "legende": "présenté en Conseil des ministres"
+     }
+    ],
+    "passe": "Samedi 17 octobre, Sébastien Lecornu a promis d'aller « jusqu'au bout » de la discussion du projet de loi « casseurs-payeurs », dont l'examen au Sénat commence le 27 octobre, selon franceinfo. Le texte, présenté en Conseil des ministres le 16 septembre et déposé au Sénat le même jour en procédure accélérée, prévoit que toute personne ayant participé sciemment à un groupement où des violences, vols ou dégradations ont été commis soit tenue solidairement à réparer les dommages, dans la limite de 10 000 euros, sans qu'il soit nécessaire de prouver qu'elle en est l'auteur. Le Premier ministre a écrit que l'argent public « doit financer nos services publics, pas réparer sans fin ce que des casseurs détruisent ». Le Club des juristes relève que le texte suscite des réactions, notamment parce qu'il pourrait entrer en tension avec la responsabilité individuelle et la présomption d'innocence. Après le Sénat, le texte doit être examiné à l'Assemblée nationale avant fin février 2027, selon LCP.",
+    "points": [
+     "La responsabilité solidaire signifie que chaque participant peut être tenu de réparer l'ensemble du dommage, ici dans la limite de 10 000 euros (texte déposé au Sénat).",
+     "La procédure accélérée limite le texte à une seule lecture par chambre du Parlement avant une éventuelle commission mixte paritaire (LCP).",
+     "Le Conseil d'État a rendu un avis favorable sur le projet, selon le Club des juristes."
+    ],
+    "explication": "1. La responsabilité solidaire signifie que chaque participant peut être tenu de réparer l'ensemble du dommage, ici dans la limite de 10 000 euros (texte déposé au Sénat). 2. La procédure accélérée limite le texte à une seule lecture par chambre du Parlement avant une éventuelle commission mixte paritaire (LCP). 3. Le Conseil d'État a rendu un avis favorable sur le projet, selon le Club des juristes.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.senat.fr/leg/pjl25-952.html",
+      "nom": "Sénat, texte déposé n° 952"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/lycees-bloques-le-projet-de-loi-casseurs-payeurs-examine-fin-octobre-au-senat-442963",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.leclubdesjuristes.com/?p=17639",
+      "nom": "Club des juristes"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Maud Bregeon",
+      "contexte": "porte-parole du gouvernement",
+      "texte": "Elle a reconnu que le texte favorise « une forme de responsabilité collective » et affirmé qu'il permettra de prélever, dans les prestations familiales lorsque c'est nécessaire, pour des dégradations commises par des majeurs ou des mineurs (LCP, 5 octobre).",
+      "url": "https://lcp.fr/actualites/lycees-bloques-le-projet-de-loi-casseurs-payeurs-examine-fin-octobre-au-senat-442963",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "Il promet, en vue de 2027, l'application du principe de « casseur-payeur » et la suspension des allocations familiales des délinquants récidivistes (LCP).",
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Examen au Sénat à partir du 27 octobre, puis à l'Assemblée nationale avant la fin des travaux parlementaires fin février 2027, selon LCP.",
+    "change": "Si le texte est adopté, la réparation des dégâts pourrait être demandée à tous les participants d'un groupement ayant commis des violences, dans la limite de 10 000 euros chacun.",
+    "credit": {
+     "auteur": "Gunnar Klack",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Palais-du-Luxembourg-Paris-02-2018b.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "AUTOMOBILE",
+    "titre": "Automobile : Paris et Berlin s'accordent sur le CO₂ 2035 et le Made in Europe",
+    "court": "Auto : accord franco-allemand sur le CO₂",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg/1280px-001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg",
+    "legende": "Une chaîne d'assemblage de voitures dans une usine Opel en Pologne (illustration)",
+    "chapeau": "La France et l'Allemagne ont confirmé, vendredi 16 octobre, un accord sur l'avenir de l'industrie automobile européenne, selon franceinfo avec l'AFP.",
+    "eclairage": "Ce que veut dire « préférence européenne »",
+    "chiffres": [
+     {
+      "valeur": "2035",
+      "legende": "échéance fixée pour le CO₂"
+     },
+     {
+      "valeur": "90 %",
+      "legende": "réduction des émissions visée"
+     }
+    ],
+    "passe": "La France et l'Allemagne ont confirmé, vendredi 16 octobre, un accord sur l'avenir de l'industrie automobile européenne, selon franceinfo avec l'AFP. Paris accepte une moindre réduction des émissions de CO₂ à l'horizon 2035 ; selon un document consulté par l'AFP et cité par le Journal de l'Automobile, les constructeurs devraient réduire leurs émissions de 90 % sans avoir à compenser les 10 % restants. En échange, Berlin accepte une définition plus stricte de la préférence européenne : les entreprises bénéficiant de fonds publics devraient se fournir en composants fabriqués dans l'Union européenne ou chez des partenaires proches, comme le Royaume-Uni, la Norvège ou la Suisse. Le compromis est provisoire : il doit encore passer par le Parlement européen et les États membres, et la presse allemande a fait état d'un niveau de 80 % de réduction selon le calcul retenu (chiffres divergents).",
+    "points": [],
+    "explication": "Le principe proposé par la Commission européenne consiste à imposer aux entreprises de secteurs jugés stratégiques, lorsqu'elles bénéficient d'aides publiques, de s'approvisionner en composants produits en Europe ou chez certains partenaires (franceinfo, Journal de l'Automobile). La logique de « Made in Europe » vise notamment à répondre à l'arrivée de véhicules chinois en Europe, selon franceinfo.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/economie/automobile/la-france-et-l-allemagne-confirment-un-accord-sur-l-avenir-de-l-industrie-automobile_8240131.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://journalauto.com/industrie/paquet-automobile-paris-et-berlin-trouvent-un-accord-sur-le-co2-et-le-made-in-europe/",
+      "nom": "Journal de l'Automobile, avec AFP"
+     },
+     {
+      "url": "https://www.cleanenergywire.org/news/france-and-germany-strike-deal-further-weaken-eu-combustion-engine-phaseout-media",
+      "nom": "Clean Energy Wire"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Nous portons une ambition claire : réussir la transformation de notre industrie automobile, tout en maintenant notre ambition climatique et notre production en Europe »",
+      "url": "https://www.franceinfo.fr/economie/automobile/la-france-et-l-allemagne-confirment-un-accord-sur-l-avenir-de-l-industrie-automobile_8240131.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Martin",
+      "contexte": "ministre de l'Industrie",
+      "texte": "« Nous sommes prêts à discuter de 2035, mais contre une vraie préférence européenne »",
+      "url": "https://journalauto.com/industrie/paquet-automobile-paris-et-berlin-trouvent-un-accord-sur-le-co2-et-le-made-in-europe/",
+      "source": "Journal de l'Automobile"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ORGANISATIONS ENVIRONNEMENTALES",
+      "qui": "Associations",
+      "contexte": "selon franceinfo",
+      "texte": "Elles regrettent que l'accord confirme le renoncement au tout-électrique en 2035 (franceinfo).",
+      "url": "https://www.franceinfo.fr/economie/automobile/la-france-et-l-allemagne-confirment-un-accord-sur-l-avenir-de-l-industrie-automobile_8240131.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Le paquet automobile doit être négocié entre le Parlement européen et le Conseil de l'UE ; le calendrier n'est pas précisé dans les sources consultées.",
+    "change": "Le compromis rapproche les positions de Paris et de Berlin, jusqu'ici bloquées, mais il ne fixe pas encore la règle européenne : le niveau exact de réduction en 2035 dépend du texte final.",
+    "credit": {
+     "auteur": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+     "licence": "CC BY 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "Assemblée : début de l'examen du PLFSS 2027 dans l'hémicycle (LCP, Assemblée nationale)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : début de l'examen du projet de loi « casseurs-payeurs » (LCP, Sénat)."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat ; le Congrès est en pause jusqu'à cette date (AP)."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Matignon : rencontre avec les départements, annoncée après le congrès de Reims (franceinfo)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Casseurs-payeurs",
+    "definition": "Principe selon lequel les auteurs de dégradations commises lors de violences collectives doivent en financer la réparation ; le projet de loi en discussion l'étend aux participants d'un groupement violent."
+   },
+   {
+    "terme": "Responsabilité solidaire",
+    "definition": "Régime où chaque personne concernée peut être tenue de réparer l'ensemble du dommage, dans la limite prévue par la loi."
+   },
+   {
+    "terme": "Procédure accélérée",
+    "definition": "Procédure législative qui limite le texte à une lecture par chambre avant, si besoin, une commission mixte paritaire."
+   },
+   {
+    "terme": "Dérogation (waiver)",
+    "definition": "Décision par laquelle une autorité suspend l'application d'une règle dans les cas prévus par la loi elle-même."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon le ministre de l'Intérieur Laurent Nuñez, 800 000 personnes ont manifesté partout en France le 17 octobre.",
+   "reponse": false,
+   "explication": "Faux : le chiffre de 800 000 est celui de plusieurs organisations, dont la CGT et l'Union étudiante. Le ministre de l'Intérieur a compté 550 000 manifestants, dont 110 000 à Paris, selon franceinfo avec l'AFP."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-17",
   "minutes": 9,
   "sujets": [
