@@ -322,6 +322,342 @@
   }
  },
  {
+  "rubrique": "food",
+  "date": "2026-10-18",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "FILIÈRE",
+    "titre": "SIAL 2026 : le salon de l'agroalimentaire ouvre, l'export français recule",
+    "court": "SIAL : l'export français sous pression",
+    "image": "https://images.unsplash.com/photo-1678182451047-196f22a4143e?w=960&q=80&fm=jpg",
+    "legende": "Un terminal à conteneurs dans un port (illustration)",
+    "chapeau": "Le salon SIAL Paris se tient du 17 au 21 octobre 2026 au parc des expositions de Paris Nord Villepinte, avec jusqu'à 8 000 exposants et environ 295 000 visiteurs professionnels attendus selon les organisateurs.",
+    "eclairage": "Que mesure la balance commerciale ?",
+    "chiffres": [
+     {
+      "valeur": "0,2 Md€",
+      "legende": "solde agricole et alimentaire 2025"
+     },
+     {
+      "valeur": "-5 Md€",
+      "legende": "en un an"
+     },
+     {
+      "valeur": "295 000",
+      "legende": "visiteurs attendus"
+     }
+    ],
+    "passe": "Le salon SIAL Paris se tient du 17 au 21 octobre 2026 au parc des expositions de Paris Nord Villepinte, avec jusqu'à 8 000 exposants et environ 295 000 visiteurs professionnels attendus selon les organisateurs. L'ANIA, qui représente les industriels de l'alimentation, y tient un stand commun avec Business France et La Coopération Agricole pour soutenir l'export des entreprises françaises. Ce salon intervient après un recul marqué du commerce extérieur alimentaire : selon les chiffres des douanes commentés par l'ANIA le 6 février 2026, le solde agricole et agroalimentaire de la France n'a atteint que 0,2 milliard d'euros en 2025, soit 5 milliards de moins en un an. Pour les seuls industriels de l'alimentation, il est de 0,5 milliard d'euros. L'ANIA cite la compétitivité face aux voisins européens, les tensions commerciales, le change et les aléas climatiques. Les douanes indiquent par ailleurs, pour le deuxième trimestre 2026, que le nombre d'exportateurs diminue dans l'agriculture (-300).",
+    "points": [],
+    "explication": "C'est l'écart entre ce que la France vend à l'étranger et ce qu'elle achète, ici pour les produits agricoles et alimentaires. Un solde positif de 0,2 milliard d'euros signifie que les ventes dépassent à peine les achats. Le SIAL a lieu tous les deux ans, depuis 1964, et sert de vitrine à des milliers d'entreprises de dizaines de pays, dont l'Italie, l'Espagne, la Turquie, la Grèce et la France, qui forment le top 5 des pays exposants.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ania.net/vie-de-lagro/sial-2026",
+      "nom": "ANIA (SIAL 2026)"
+     },
+     {
+      "url": "https://www.ania.net/economie-export/balance-commerciale-agroalimentaire-signal-dalarme-pour-la-france",
+      "nom": "ANIA (balance 2025)"
+     },
+     {
+      "url": "https://www.douane.gouv.fr/actualites/chiffres-du-commerce-exterieur-principaux-resultats-du-mois-daout-2026",
+      "nom": "Douane (août 2026)"
+     },
+     {
+      "url": "https://www.interempresas.net/Agricola/626076-SIAL-Paris-2026-reunira-a-8000-expositores-y-295000-visitantes-profesionales.html",
+      "nom": "Interempresas"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffeedd",
+      "couleur": "#f58220",
+      "parti": "FILIÈRE",
+      "qui": "ANIA",
+      "contexte": "organisation des industriels de l'alimentation",
+      "texte": "Elle décrit une « dégradation historique » du solde commercial et appelle à un « sursaut collectif ».",
+      "url": "https://www.ania.net/economie-export/balance-commerciale-agroalimentaire-signal-dalarme-pour-la-france",
+      "source": "ANIA"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Douane",
+      "contexte": "administration",
+      "texte": "Elle relève que le nombre d'exportateurs diminue dans l'agriculture au deuxième trimestre 2026 (-300). Le solde commercial global de la France s'est amélioré de 0,5 Md€ en août, à -6,1 Md€.",
+      "url": "https://www.douane.gouv.fr/actualites/chiffres-du-commerce-exterieur-principaux-resultats-du-mois-daout-2026",
+      "source": "Douane"
+     }
+    ],
+    "apres": "Le salon ferme le 21 octobre.",
+    "change": "Pour les entreprises du secteur, l'enjeu est l'accès aux marchés étrangers, que l'ANIA et Business France veulent faciliter sur ce salon.",
+    "credit": {
+     "auteur": "Ali Mkumbwa",
+     "licence": "Licence Unsplash",
+     "licence_url": "https://unsplash.com/license",
+     "page": "https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-Annl9CjEaEs"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "BIO",
+    "titre": "Bio : les ventes progressent de 4,8 % au premier semestre 2026",
+    "court": "Bio : +4,8 % de ventes au 1er semestre",
+    "image": "https://images.unsplash.com/photo-1598962099619-528a224cb625?w=960&q=80&fm=jpg",
+    "legende": "Légumes frais en cageots sur un étal de marché (illustration)",
+    "chapeau": "À l'occasion de la Journée européenne du bio, le 23 septembre 2026, l'Agence bio a indiqué que la consommation de produits bio a progressé de 4,8 % en valeur au premier semestre, toutes filières confondues : +9,3 % en magasins spécialisés et +2 % en grande distribution, qui représente la moitié des achats.",
+    "eclairage": "Que veut dire « bio » ?",
+    "chiffres": [
+     {
+      "valeur": "+4,8 %",
+      "legende": "ventes en valeur 1er semestre"
+     },
+     {
+      "valeur": "+687",
+      "legende": "producteurs (janv.-août)"
+     },
+     {
+      "valeur": "10 %",
+      "legende": "des surfaces agricoles (21 % visés)"
+     }
+    ],
+    "passe": "À l'occasion de la Journée européenne du bio, le 23 septembre 2026, l'Agence bio a indiqué que la consommation de produits bio a progressé de 4,8 % en valeur au premier semestre, toutes filières confondues : +9,3 % en magasins spécialisés et +2 % en grande distribution, qui représente la moitié des achats. Du côté des producteurs, les conversions vers le bio augmentent de 14 % entre le 1er janvier et le 31 août 2026 par rapport à la même période de 2025, et les arrêts d'activité reculent de 13 %. Le solde est positif de 687 producteurs, notamment en élevage de brebis, en maraîchage et en fruits. Les surfaces bio totalisaient 2,69 millions d'hectares fin 2025, soit environ 10 % de la surface agricole, contre un objectif de 21 % en 2030. L'Agence bio juge qu'il est trop tôt pour affirmer que la production repart, faute de chiffres annuels sur les surfaces.",
+    "points": [],
+    "explication": "Un produit bio respecte un cahier des charges européen contrôlé : pas de pesticides ni d'engrais de synthèse, pas d'OGM, et des règles précises sur l'élevage. Le logo européen (l'Eurofeuille) et le logo AB l'attestent. Ce label ne dit rien du prix, ni de l'origine, ni de la valeur nutritionnelle : il décrit un mode de production. Les surfaces en bio ont reculé trois années de suite avant 2026, ce qui explique que la part de 10 % reste loin de la cible légale.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/agriculture-biologique/article/903804/la-consommation-de-bio-confirme-son-rebond-mais-loin-des-objectifs",
+      "nom": "dépêche AFP via Terre-net"
+     },
+     {
+      "url": "https://www.pleinchamp.com/actualite/au-premier-semestre-2026-un-peu-plus-d-offre-et-de-demande-en-bio",
+      "nom": "Pleinchamp"
+     },
+     {
+      "url": "https://www.linfodurable.fr/conso/la-consommation-de-bio-confirme-son-rebond-mais-loin-des-objectifs-59081",
+      "nom": "L'Info Durable"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / ONG",
+      "qui": "Bruno Martel",
+      "contexte": "président de l'Agence bio",
+      "texte": "Il parle d'une reprise qui est « un balbutiement, pas non plus l'euphorie » côté producteurs, et signale que les maraîchers ont fortement souffert cet été, avec parfois jusqu'à 50 % de baisse de chiffre d'affaires sur les marchés.",
+      "url": "https://www.terre-net.fr/agriculture-biologique/article/903804/la-consommation-de-bio-confirme-son-rebond-mais-loin-des-objectifs",
+      "source": "AFP via Terre-net"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "AGRICULTEURS",
+      "qui": "FNAB",
+      "contexte": "fédération nationale d'agriculture biologique",
+      "texte": "Elle demande un crédit d'impôt bio porté à 6 000 € dans le budget 2027 et un écorégime bio à 145 € par hectare à partir du 1er janvier 2027.",
+      "url": "https://www.pleinchamp.com/actualite/au-premier-semestre-2026-un-peu-plus-d-offre-et-de-demande-en-bio",
+      "source": "Pleinchamp"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Annie Genevard",
+      "contexte": "ministre de l'Agriculture",
+      "texte": "Elle a déclaré que « Le bio est une force de notre agriculture. »",
+      "url": "https://www.pleinchamp.com/actualite/au-premier-semestre-2026-un-peu-plus-d-offre-et-de-demande-en-bio",
+      "source": "Pleinchamp"
+     }
+    ],
+    "apres": "Les chiffres annuels des surfaces et des cessations d'activité diront si la tendance tient. Le budget 2027 doit trancher les demandes sur le crédit d'impôt et l'écorégime.",
+    "change": "Dans l'assiette, la part du bio à domicile reste inférieure à 6 % ; en restauration collective, il représente 6 % des achats contre 20 % visés en 2030. Pour les agriculteurs, la hausse des conversions est le premier signe de redressement depuis la baisse.",
+    "credit": {
+     "auteur": "Frames For Your Heart",
+     "licence": "Licence Unsplash",
+     "licence_url": "https://unsplash.com/license",
+     "page": "https://unsplash.com/photos/yellow-and-green-vegetables-on-brown-wooden-crate-VnIVONGhie8"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "21",
+    "mois": "OCT.",
+    "texte": "Fin du SIAL Paris à Villepinte."
+   },
+   {
+    "jour": "6",
+    "mois": "NOV.",
+    "texte": "Date limite du concours d'affiches de la Journée mondiale de l'alimentation (5 à 19 ans)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Balance commerciale",
+    "definition": "L'écart entre les ventes à l'étranger et les achats à l'étranger d'un pays ou d'un secteur."
+   },
+   {
+    "terme": "Eurofeuille",
+    "definition": "Le logo européen des produits bio, obligatoire sur les produits préemballés certifiés dans l'Union européenne."
+   },
+   {
+    "terme": "Écorégime",
+    "definition": "Une aide de la PAC versée aux exploitations qui adoptent des pratiques favorables à l'environnement, dont l'agriculture biologique."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le bio pèse environ 10 % des surfaces agricoles françaises, pour un objectif légal de 21 % en 2030.",
+   "reponse": true,
+   "explication": "L'Agence bio compte 2,69 millions d'hectares bio fin 2025, soit environ 10 % de la surface agricole, contre 21 % visés pour 2030."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-18",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Biodiversité : La Rochelle et Saintes, meilleures communes 2026",
+    "court": "Biodiversité : La Rochelle et Saintes primées",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20210811_aigrette_tasdon_5598.jpg/1280px-20210811_aigrette_tasdon_5598.jpg",
+    "legende": "Une aigrette garzette dans le marais de Tasdon, à La Rochelle",
+    "chapeau": "Le 5 octobre 2026, le ministère de la Transition écologique, l'Office français de la biodiversité (OFB) et le Cerema ont annoncé les résultats du concours « Capitale française de la biodiversité », consacré cette année à la restauration de la nature. Marseille est élue Capitale française de la biodiversité 2026.",
+    "eclairage": "Qui décerne ce titre, et qu'est-ce que ça engage ?",
+    "chiffres": [
+     {
+      "valeur": "6",
+      "legende": "collectivités lauréates"
+     },
+     {
+      "valeur": "2,5 km",
+      "legende": "de cours d'eau au tracé plus naturel"
+     },
+     {
+      "valeur": "15",
+      "legende": "espèces de chauves-souris"
+     }
+    ],
+    "passe": "Le 5 octobre 2026, le ministère de la Transition écologique, l'Office français de la biodiversité (OFB) et le Cerema ont annoncé les résultats du concours « Capitale française de la biodiversité », consacré cette année à la restauration de la nature. Marseille est élue Capitale française de la biodiversité 2026. La Rochelle et Saintes reçoivent le titre de « Meilleures communes pour la biodiversité 2026 », et trois intercommunalités sont aussi distinguées : Chinon, Vienne et Loire, Loire Forez Agglo et Valence Romans Agglo. Pour La Rochelle, la Ville met en avant le marais de Tasdon, où le tracé de la Moulinette a été rendu plus naturel sur 2,5 km, avec une soixantaine d'espèces d'oiseaux nicheuses et 15 espèces de chauves-souris recensées. Elle cite aussi la renaturation de Chef de Baie et la préservation d'une partie de la plage des Minimes. Le Département a labellisé le marais de Tasdon espace naturel sensible en juin 2026, sur 194 hectares à La Rochelle, Aytré et Périgny. Les trophées seront remis le 13 novembre à Paris.",
+    "points": [
+     "Le concours existe depuis 2010. Il est organisé par deux ministères, l'OFB, le Cerema, Plante & Cité et les agences régionales de la biodiversité. Un comité scientifique et technique évalue les candidatures.",
+     "C'est une distinction, pas une obligation ni une aide financière : le communiqué ne mentionne aucune dotation.",
+     "Chaque niveau agit sur son périmètre : la commune sur ses parcs et ses marais, le Département sur les espaces naturels sensibles qu'il labellise, l'État sur le concours."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ofb.gouv.fr/sites/ofb-gouv-fr/files/2026-10/communique-de-presse-concours-capitale-francaise-de-la-biodiversite-2026.pdf",
+      "nom": "Ministère, OFB et Cerema (communiqué)"
+     },
+     {
+      "url": "https://www.larochelle.fr/a-la-une/une/la-rochelle-meilleure-commune-pour-la-biodiversite-2026",
+      "nom": "Ville de La Rochelle"
+     },
+     {
+      "url": "https://www.ville-saintes.fr/projets/strategie-biodiversite-et-transition-ecologique/",
+      "nom": "Ville de Saintes"
+     },
+     {
+      "url": "https://www.titrespresse.com/24775392603/saintes-rochelle-capitale",
+      "nom": "actu.fr (via Titres Presse)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "MAJORITÉ MUNICIPALE",
+      "qui": "Ville de Saintes",
+      "contexte": null,
+      "texte": "Sur sa page dédiée à la stratégie biodiversité, la Ville indique avoir été nommée « Meilleure commune pour la Biodiversité 2026 », titre partagé avec La Rochelle.",
+      "url": "https://www.ville-saintes.fr/projets/strategie-biodiversite-et-transition-ecologique/",
+      "source": "ville-saintes.fr"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / MINISTÈRE",
+      "qui": "Ministère de la Transition écologique",
+      "contexte": null,
+      "texte": "Dans le communiqué commun, la ministre Monique Barbut se félicite de la qualité des projets présentés et estime que les actions des lauréats serviront de référence aux autres collectivités.",
+      "url": "https://ofb.gouv.fr/sites/ofb-gouv-fr/files/2026-10/communique-de-presse-concours-capitale-francaise-de-la-biodiversite-2026.pdf",
+      "source": "ofb.gouv.fr"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "MAJORITÉ MUNICIPALE",
+      "qui": "Ville de La Rochelle",
+      "contexte": null,
+      "texte": "Elle présente le titre comme une reconnaissance nationale et détaille les trois sites mis en avant : le marais de Tasdon, Chef de Baie et la plage des Minimes.",
+      "url": "https://www.larochelle.fr/a-la-une/une/la-rochelle-meilleure-commune-pour-la-biodiversite-2026",
+      "source": "larochelle.fr"
+     }
+    ],
+    "apres": "Remise des trophées le 13 novembre à l'Hôtel de Roquelaure, à Paris. Candidatures 2027 ouvertes jusqu'au 28 février 2027.",
+    "change": "Pour un habitant, le titre ne change ni une facture ni un trajet. Il met en lumière des sites déjà ouverts ou protégés, comme le marais de Tasdon, que la Ville et le Département présentent comme espace restauré et labellisé.",
+    "credit": {
+     "auteur": "Greenbox",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:20210811_aigrette_tasdon_5598.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Rue de la Chaîne (La Rochelle) : début des travaux d'eaux usées et de gaz, jusqu'au 4 décembre."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Paris : remise des trophées du concours Capitale française de la biodiversité, à l'Hôtel de Roquelaure."
+   },
+   {
+    "jour": "24",
+    "mois": "NOV.",
+    "texte": "Rue Gargoulleau : fin de la première phase de travaux, reprise le 1er février 2027."
+   },
+   {
+    "jour": "11",
+    "mois": "DÉC.",
+    "texte": "Hypercentre : fin des travaux de gaz rue Sardinerie, rues Paradis, des Marionnettes et place de la Fourche."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Espace naturel sensible (ENS)",
+    "definition": "Un site que le Département reconnaît et labellise pour sa richesse naturelle. Celui du marais de Tasdon couvre 194 hectares."
+   },
+   {
+    "terme": "Restauration de la nature",
+    "definition": "Le thème du concours 2026 : redonner leur fonctionnement à des milieux abîmés, par exemple en rendant un cours d'eau à un tracé plus naturel."
+   },
+   {
+    "terme": "Renaturation",
+    "definition": "Le fait de rendre à la nature un espace utilisé autrement, comme d'anciens espaces militaires ou des parcelles agricoles à Chef de Baie."
+   }
+  ],
+  "quiz": {
+   "affirmation": "La Rochelle et Saintes ont été désignées « Meilleures communes pour la biodiversité 2026 » dans le concours national Capitale française de la biodiversité.",
+   "reponse": true,
+   "explication": "C'est exact : le résultat a été annoncé le 5 octobre 2026. Marseille a été élue Capitale française de la biodiversité 2026."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-18",
   "minutes": 17,
@@ -754,6 +1090,484 @@
    "affirmation": "Selon le ministre de l'Intérieur Laurent Nuñez, 800 000 personnes ont manifesté partout en France le 17 octobre.",
    "reponse": false,
    "explication": "Faux : le chiffre de 800 000 est celui de plusieurs organisations, dont la CGT et l'Union étudiante. Le ministre de l'Intérieur a compté 550 000 manifestants, dont 110 000 à Paris, selon franceinfo avec l'AFP."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-18",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "NEUROSCIENCES",
+    "titre": "Parkinson : la nicotinamide riboside ne ralentit pas la maladie",
+    "court": "Parkinson : la nicotinamide riboside échoue",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/5_Stages_of_Parkinson%27s_Disease%2C_Hoehn_%26_Yahr_Scale.jpg/1280px-5_Stages_of_Parkinson%27s_Disease%2C_Hoehn_%26_Yahr_Scale.jpg",
+    "legende": "Les cinq stades de la maladie de Parkinson selon l'échelle de Hoehn et Yahr (illustration)",
+    "chapeau": "Le 8 octobre 2026, la revue JAMA a publié en ligne l'essai NOPARK, mené par l'équipe de Charalampos Tzoulis (Université de Bergen).",
+    "eclairage": "Pourquoi un test positif en laboratoire ne suffit pas",
+    "chiffres": [
+     {
+      "valeur": "410",
+      "legende": "patients atteints de Parkinson précoce, 11 centres en Norvège"
+     },
+     {
+      "valeur": "2,72",
+      "legende": "points d'écart en faveur du placebo (seuil d'aggravation : 5,2)"
+     },
+     {
+      "valeur": "1 an",
+      "legende": "de traitement (52 semaines)"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, la revue JAMA a publié en ligne l'essai NOPARK, mené par l'équipe de Charalampos Tzoulis (Université de Bergen). Cet essai de phase 3, randomisé et en double aveugle, a comparé la nicotinamide riboside (une forme de vitamine B3), à raison de 500 mg deux fois par jour, à un placebo pendant 52 semaines chez 410 personnes atteintes de la maladie de Parkinson à un stade précoce. Le critère principal était la variation du score MDS-UPDRS (parties I à III), une échelle de symptômes. Selon News-Medical, ce score a augmenté de 2,45 points avec la nicotinamide riboside et diminué de 0,27 point avec le placebo : l'écart ajusté, de 2,72 points en faveur du placebo, est statistiquement significatif mais inférieur au seuil d'aggravation cliniquement pertinent (5,2 points). Parmi cinq critères secondaires, seul le score des symptômes non moteurs différait (4,22 points). Le taux sanguin de NAD, la molécule que le traitement vise à augmenter, a bien augmenté. Les effets indésirables graves ont concerné 8,3 % des patients sous nicotinamide riboside et 14,1 % sous placebo, sans différence significative.",
+    "points": [],
+    "explication": "La maladie de Parkinson naît de la disparition progressive de neurones producteurs de dopamine, ce qui provoque tremblements, raideur et lenteur. La nicotinamide riboside est une forme de vitamine B3 que l'organisme transforme en NAD, une molécule impliquée dans l'énergie des cellules ; l'idée était qu'en augmentant le NAD, on protégerait les neurones. Elle est aussi vendue comme complément alimentaire, selon la presse spécialisée. Ici, le NAD a bien augmenté dans le sang, mais les symptômes ne se sont pas améliorés. C'est la différence entre un marqueur biologique et un effet sur le patient. Un essai randomisé en double aveugle est l'un des plus solides pour trancher : ni les patients ni les médecins ne savent qui reçoit quoi. Les auteurs relèvent des limites, dont une évaluation faite sous traitement, sans phase d'arrêt, et une imagerie cérébrale trop peu sensible pour exclure de légers changements. Toute décision sur un complément ou un traitement se prend avec un professionnel de santé. A fourni le médicament de l'essai ; selon News-Medical, certains investigateurs déclarent des brevets sur ce traitement, sous licence à Niagen Bioscience. Les travaux ont été financés par des organismes de recherche norvégiens.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855021",
+      "nom": "JAMA (résumé de recherche)"
+     },
+     {
+      "url": "https://news-medical.net/news/20261008/Nicotinamide-riboside-fails-to-slow-progression-of-early-Parkinsone28099s-disease.aspx",
+      "nom": "News-Medical"
+     },
+     {
+      "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/major-trial-finds-nad-boosting-supplement-does-not-slow-parkinsons-disease/",
+      "nom": "Inside Precision Medicine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Charalampos Tzoulis",
+      "contexte": "professeur, Université de Bergen, directeur de l'étude",
+      "texte": "« NR clearly increased NAD metabolism, but this did not translate into clinical improvement. »",
+      "url": "https://news-medical.net/news/20261008/Nicotinamide-riboside-fails-to-slow-progression-of-early-Parkinsone28099s-disease.aspx",
+      "source": "News-Medical"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Charalampos Tzoulis",
+      "contexte": "professeur, Université de Bergen, directeur de l'étude",
+      "texte": "« We had a strong biological rationale for testing this treatment »",
+      "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/major-trial-finds-nad-boosting-supplement-does-not-slow-parkinsons-disease/",
+      "source": "Inside Precision Medicine"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Niagen Bioscience (ex-ChromaDex)",
+      "contexte": "fournisseur du traitement",
+      "texte": "A fourni le médicament de l'essai ; selon News-Medical, certains investigateurs déclarent des brevets sur ce traitement, sous licence à Niagen Bioscience. Les travaux ont été financés par des organismes de recherche norvégiens.",
+      "url": "https://news-medical.net/news/20261012/Year-long-trial-finds-NAD-boosting-supplement-fails-to-improve-early-Parkinsons-symptoms.aspx",
+      "source": "News-Medical"
+     }
+    ],
+    "apres": "Les auteurs estiment que ces résultats répondent à une question médicale importante. Les sources consultées ne mentionnent pas d'autre essai de cette molécule en cours.",
+    "change": "Pour les personnes atteintes de Parkinson, cet essai ne soutient pas la nicotinamide riboside comme traitement capable de ralentir la maladie, selon les auteurs.",
+    "credit": {
+     "auteur": "Bbmime",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:5_Stages_of_Parkinson%27s_Disease,_Hoehn_%26_Yahr_Scale.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RECHERCHE",
+    "titre": "Vaccin : le microbiome intestinal influence la fièvre après l'injection",
+    "court": "Vaccin : le microbiome et la fièvre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/1280px-E._coli_Bacteria_%287316101966%29.jpg",
+    "legende": "Bactéries intestinales (Escherichia coli) au microscope électronique (illustration)",
+    "chapeau": "Le 8 octobre 2026, la revue Science a publié une étude de Kelsey Huus et Ruth Ley (Institut Max-Planck de biologie, Tübingen), avec l'Institut Pasteur et l'Inserm.",
+    "eclairage": "Corrélation, souris, assiette : trois niveaux de preuve",
+    "chiffres": [
+     {
+      "valeur": "171",
+      "legende": "adultes en bonne santé (selon News-Medical)"
+     },
+     {
+      "valeur": "Souris",
+      "legende": "microbiomes humains transférés"
+     },
+     {
+      "valeur": "ARNm",
+      "legende": "vaccin contre le Covid-19, 2021 et 2022"
+     }
+    ],
+    "passe": "Le 8 octobre 2026, la revue Science a publié une étude de Kelsey Huus et Ruth Ley (Institut Max-Planck de biologie, Tübingen), avec l'Institut Pasteur et l'Inserm. Dans l'étude µHEAT, de jeunes adultes en bonne santé vaccinés contre le SARS-CoV-2 en 2021 et 2022 ont fourni des échantillons de selles et de sang et relevé leur température autour de l'injection. Avant le vaccin, les microbiomes des personnes qui ont fait le plus de fièvre exprimaient davantage de gènes bactériens liés au mouvement, notamment ceux du flagelle, et ces personnes avaient un état inflammatoire de base plus marqué. Chez des souris sans microbes intestinaux, l'apport de ces microbiomes a provoqué une inflammation plus forte après vaccination, en partie via la détection de la flagelline. Une alimentation riche en fruits et légumes est associée à moins de fièvre. Certains additifs alimentaires ont augmenté la production de flagelline en laboratoire, et un régime occidental riche en graisses a aggravé les réponses inflammatoires chez la souris. Selon News-Medical, ni la flagelline ni l'inflammation ne modifient les réponses en anticorps.",
+    "points": [],
+    "explication": "La flagelline est la protéine du « fouet » (le flagelle) que certaines bactéries utilisent pour se déplacer. Le système immunitaire la repère, ce qui déclenche de l'inflammation, dont la fièvre est une manifestation fréquente après un vaccin. Chez l'humain, l'étude montre une association : les personnes qui ont fait plus de fièvre avaient un microbiome particulier avant l'injection, ce qui ne prouve pas à lui seul que ce microbiome en soit la cause. Le transfert à la souris apporte un argument de causalité, mais un résultat chez la souris ne se transpose pas automatiquement à l'humain. Quant au rôle de l'alimentation, il n'a été testé que chez la souris et en laboratoire : les auteurs disent eux-mêmes que des études d'intervention chez l'humain sont maintenant nécessaires.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://presse.inserm.fr/le-microbiome-intestinal-influence-notre-reaction-face-a-la-vaccination/73422/",
+      "nom": "Inserm"
+     },
+     {
+      "url": "https://www.pasteur.fr/en/whats-new/press-area/press-releases-and-press-kits/gut-microbes-help-set-bodys-response-vaccination",
+      "nom": "Institut Pasteur"
+     },
+     {
+      "url": "https://www.news-medical.net/news/20261008/Certain-gut-bacteria-may-intensify-inflammatory-responses-to-vaccines.aspx",
+      "nom": "News-Medical"
+     },
+     {
+      "url": "https://doi.org/10.1126/science.aea7733",
+      "nom": "Science (DOI)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Ruth Ley",
+      "contexte": "directrice du département de science du microbiome, Institut Max-Planck",
+      "texte": "« microbial flagellin is one contributor to this baseline immune state »",
+      "url": "https://www.pasteur.fr/en/whats-new/press-area/press-releases-and-press-kits/gut-microbes-help-set-bodys-response-vaccination",
+      "source": "Institut Pasteur"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Benoit Chassaing",
+      "contexte": "directeur de recherche Inserm, Institut Pasteur",
+      "texte": "« components of an industrialized diet may promote the growth of flagellated gut bacteria »",
+      "url": "https://www.pasteur.fr/en/whats-new/press-area/press-releases-and-press-kits/gut-microbes-help-set-bodys-response-vaccination",
+      "source": "Institut Pasteur"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Bali Pulendran",
+      "contexte": "auteur de la Perspective associée dans Science",
+      "texte": "« Diet, microbial ecology, and the metabolic state are not immutable »",
+      "url": "https://www.news-medical.net/news/20261008/Certain-gut-bacteria-may-intensify-inflammatory-responses-to-vaccines.aspx",
+      "source": "News-Medical"
+     }
+    ],
+    "apres": "Les auteurs demandent des études d'intervention chez l'humain pour savoir si modifier l'alimentation change la production de flagelline et la fièvre. L'étude ne porte que sur le vaccin à ARNm contre le Covid-19.",
+    "change": "Rien ne change pour la vaccination : cette étude ne justifie ni de changer d'alimentation ni de renoncer à un vaccin. Elle ouvre une piste pour comprendre pourquoi les réactions varient d'une personne à l'autre.",
+    "credit": {
+     "auteur": "NIAID",
+     "licence": "domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Cœur de l'enfant : la FDA approuve une valve qui s'agrandit",
+    "court": "Valve cardiaque : la FDA approuve Autus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/3D_Medical_Animation_still_shot_Artificial_Heart_Valve.jpg/1280px-3D_Medical_Animation_still_shot_Artificial_Heart_Valve.jpg",
+    "legende": "Valve cardiaque artificielle dans un cœur, autre modèle que la valve Autus (illustration)",
+    "chapeau": "Le 1er octobre 2026, l'agence américaine des médicaments (FDA) a approuvé l'Autus Size-Adjustable Valve, de la société Edwards Lifesciences, une valve pulmonaire posée chirurgicalement chez des enfants nés avec une maladie de cette valve.",
+    "eclairage": "Pourquoi une valve qui grandit change la donne",
+    "chiffres": [
+     {
+      "valeur": "13 mm",
+      "legende": "diamètre à l'implantation"
+     },
+     {
+      "valeur": "22 mm",
+      "legende": "taille atteinte après élargissement"
+     },
+     {
+      "valeur": "62",
+      "legende": "enfants dans l'étude, 12 centres américains"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, l'agence américaine des médicaments (FDA) a approuvé l'Autus Size-Adjustable Valve, de la société Edwards Lifesciences, une valve pulmonaire posée chirurgicalement chez des enfants nés avec une maladie de cette valve. Elle est implantée à environ 13 mm de diamètre et peut ensuite être élargie avec un ballonnet jusqu'à 22 mm, proche de la taille adulte. Selon la presse américaine, c'est la première valve approuvée dans le pays dont les feuillets sont en polymère plutôt qu'en tissu animal. L'approbation repose sur une étude de 62 enfants dans 12 centres américains : à 6 mois, chez les 60 premiers, le débit sanguin était acceptable et la fuite de la valve au plus légère, sans décès, accident vasculaire cérébral ni caillot nécessitant un traitement. Trois patients ont eu une fracture de l'armature et deux une mobilité réduite d'un feuillet, sans symptômes. Deux enfants ont dépassé la taille de leur valve et celles-ci ont été élargies sans nouvelle chirurgie invasive, mais la FDA juge l'expérience de l'élargissement limitée et attend des études à plus long terme.",
+    "points": [],
+    "explication": "Dans le cœur, la valve pulmonaire laisse passer le sang du ventricule droit vers les poumons. Quand elle est malformée dès la naissance, on la remplace par une prothèse. Mais un enfant grandit : une valve de taille fixe devient trop petite et impose de nouvelles opérations au fil des années. Cette valve peut être élargie ensuite avec un ballonnet monté sur un cathéter, sans rouvrir le thorax dans les cas décrits. L'étude, de petite taille et à court terme, montre que c'est faisable ; elle ne dit pas encore combien de temps la valve tient ni combien d'élargissements elle supporte. L'image ci-dessus montre une valve artificielle d'un autre type, à titre d'illustration.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "nom": "FDA"
+     },
+     {
+      "url": "https://www.powershealth.org/about-us/newsroom/health-library/2026/10/02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval",
+      "nom": "HealthDay via Powers Health"
+     },
+     {
+      "url": "https://www.mychesco.com/a/news/national/fda-clears-expandable-heart-valve-for-children/",
+      "nom": "MyChesCo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Michelle Tarver",
+      "contexte": "directrice du Center for Devices and Radiological Health, FDA",
+      "texte": "« The Autus Size-Adjustable Valve gives doctors the option of far fewer trips to the operating room »",
+      "url": "https://www.mychesco.com/a/news/national/fda-clears-expandable-heart-valve-for-children/",
+      "source": "MyChesCo"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Emile Bacha",
+      "contexte": "chirurgien en chef, NewYork-Presbyterian/Columbia, investigateur de l'essai",
+      "texte": "« Children with congenital pulmonary valve disease have long needed prosthetic valves »",
+      "url": "https://www.powershealth.org/about-us/newsroom/health-library/2026/10/02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval",
+      "source": "HealthDay via Powers Health"
+     }
+    ],
+    "apres": "La FDA attend des études à plus long terme sur la durabilité de la valve et sur les risques d'élargissements répétés.",
+    "change": "Pour les familles américaines concernées, une option supplémentaire est désormais autorisée, à discuter avec l'équipe de cardiologie pédiatrique. Les sources consultées ne parlent ni d'une autorisation en Europe ni d'un remboursement en France.",
+    "credit": {
+     "auteur": "Scientific Animations",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_still_shot_Artificial_Heart_Valve.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Double aveugle",
+    "definition": "Un essai où ni les patients ni les soignants ne savent qui reçoit le traitement ou le placebo, pour éviter que les attentes ne faussent les résultats."
+   },
+   {
+    "terme": "Critère principal",
+    "definition": "La mesure choisie avant l'essai pour juger si le traitement marche : c'est elle qui tranche, les autres mesures sont dites secondaires."
+   },
+   {
+    "terme": "Seuil cliniquement pertinent",
+    "definition": "La taille d'écart à partir de laquelle un changement se ressent réellement pour le patient : une différence peut être statistiquement significative sans l'atteindre."
+   },
+   {
+    "terme": "Flagelline",
+    "definition": "La protéine du flagelle, le « fouet » de certaines bactéries ; le système immunitaire la détecte et réagit par de l'inflammation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai NOPARK, les patients atteints de Parkinson précoce qui ont pris de la nicotinamide riboside ne se sont pas mieux portés que ceux sous placebo.",
+   "reponse": true,
+   "explication": "Après un an, le groupe traité s'est légèrement plus aggravé que le groupe placebo sur le score principal (+2,45 points contre −0,27), un écart de 2,72 points jugé inférieur au seuil d'aggravation cliniquement pertinent (5,2 points). Les auteurs concluent que ces résultats ne soutiennent pas ce traitement pour ralentir la maladie."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-18",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGULATION",
+    "titre": "Agents d'IA : Bruxelles et la FTC interrogent OpenAI et Anthropic",
+    "court": "Agents d'IA : Bruxelles et la FTC interrogent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlaymont_building_2024.jpg/1280px-Berlaymont_building_2024.jpg",
+    "legende": "le Berlaymont, siège de la Commission européenne à Bruxelles ; illustration",
+    "chapeau": "Le 9 octobre, la Commission européenne a réuni son comité scientifique sur l'IA (60 experts indépendants) pour une séance spéciale sur les risques des modèles les plus avancés.",
+    "eclairage": "Demande d'information, enquête, sanction : quelle différence ?",
+    "chiffres": [
+     {
+      "valeur": "9/10",
+      "legende": "réunion du comité scientifique de la Commission"
+     },
+     {
+      "valeur": "60",
+      "legende": "experts indépendants dans ce comité"
+     },
+     {
+      "valeur": "30/09",
+      "legende": "enquête de la FTC confirmée à la presse"
+     }
+    ],
+    "passe": "Le 9 octobre, la Commission européenne a réuni son comité scientifique sur l'IA (60 experts indépendants) pour une séance spéciale sur les risques des modèles les plus avancés. Selon la Commission, le comité examine de récents incidents de « perte de contrôle » (des cas où des agents d'IA, programmes qui enchaînent des actions seuls, ont agi hors du cadre prévu), et il a préparé avec le Bureau de l'IA des questions pour les entreprises concernées. Selon le site italien Punto Informatico (15 octobre), la vice-présidente Henna Virkkunen a confirmé au sommet international de l'IA de Dublin une enquête visant Anthropic et OpenAI, et le Bureau de l'IA leur a envoyé des demandes d'information sur la sécurité, l'évaluation externe et le suivi de l'usage de leurs modèles ; la Commission ne parle pas, dans les pages consultées, de procédure formelle ni de sanction. Aux États-Unis, la Federal Trade Commission (FTC, autorité fédérale de protection des consommateurs) a confirmé le 30 septembre enquêter sur OpenAI, Anthropic et d'autres entreprises, selon The Next Web et Let's Data Science, qui citent AP, Axios, CNBC et CBS. Des médias secondaires rapportent depuis l'envoi d'injonctions de plus de 50 pages datées du 14 octobre : information d'une seule source relayée, à confirmer. Le détail des incidents n'est pas établi par une source officielle ; The Next Web, citant Reuters, évoque une intrusion de plus de 1 000 agents d'OpenAI sur la plateforme Hugging Face en juillet.",
+    "points": [],
+    "explication": "Une demande d'information oblige à fournir des documents ; ce n'est pas une accusation. Une procédure formelle vient ensuite, et seulement elle peut aboutir à une amende. Aux États-Unis, une injonction d'enquête civile (civil investigative demand) ressemble à une citation à produire des pièces, et la FTC dit elle-même être en phase d'enquête. Un agent d'IA est un programme qui lit, décide et agit (envoyer des requêtes, écrire du code) sans validation à chaque étape. Le débat juridique porte sur un point : des juristes estiment que l'AI Act ne s'applique pas à un modèle encore en test ; selon Punto Informatico, un responsable de la Commission répond qu'il s'appliquerait si le modèle sort de l'environnement de test et touche le marché européen. Ce point n'est pas tranché.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "nom": "Commission européenne"
+     },
+     {
+      "url": "https://www.punto-informatico.it/commissione-europea-avvia-indagine-anthropic-openai/",
+      "nom": "Punto Informatico"
+     },
+     {
+      "url": "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr",
+      "nom": "The Next Web"
+     },
+     {
+      "url": "https://letsdatascience.com/news/ftc-opens-consumer-safety-probe-into-frontier-ai-021a7621",
+      "nom": "Let's Data Science"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Commission européenne",
+      "contexte": "séance du 9 octobre",
+      "texte": "Selon la Commission, « The Scientific Panel brings together 60 world-leading independent experts » (le comité réunit 60 experts indépendants de premier plan) et « The panel has been investigating recent loss-of-control incidents » (il examine de récents incidents de perte de contrôle). Virkkunen y dit : « The EU has the first law in the world that addresses systemic risk from AI » (l'UE a la première loi au monde sur le risque systémique de l'IA).",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "source": "Commission européenne"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "FTC",
+      "contexte": "responsable cité par le New York Post",
+      "texte": "Un haut responsable de la FTC dit au New York Post : « We're not telling them to stop. » (nous ne leur disons pas d'arrêter) ; l'agence en est à la phase d'enquête et affirme que la démarche n'entravera pas la place des États-Unis dans l'IA, selon The Next Web.",
+      "url": "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr",
+      "source": "The Next Web"
+     }
+    ],
+    "apres": "Selon le New York Post, cité par The Next Web, des injonctions formelles de la FTC sont attendues sous quelques semaines. Côté européen, aucune date de décision n'est annoncée dans les sources consultées.",
+    "change": "Pour un utilisateur, rien ne change à court terme : ni ChatGPT ni Claude ne sont suspendus. Pour une entreprise qui déploie des agents, la discussion porte sur les preuves de sécurité et le suivi des usages que les régulateurs pourraient exiger.",
+    "credit": {
+     "auteur": "Cbliu",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2024.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MONDE",
+    "titre": "FMI : sans garde-fous, les risques de l'IA peuvent dépasser les bénéfices",
+    "court": "FMI : l'IA, des risques sans garde-fous",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Queen_Sirikit_National_Convention_Center%2CBangkok_%2811%29.jpg/1280px-Queen_Sirikit_National_Convention_Center%2CBangkok_%2811%29.jpg",
+    "legende": "couloir du centre de congrès Reine Sirikit à Bangkok, lieu des assemblées du FMI ; illustration",
+    "chapeau": "Le 16 octobre, lors des assemblées annuelles du FMI et de la Banque mondiale à Bangkok, la directrice générale du Fonds monétaire international, Kristalina Georgieva, a déclaré que les risques de l'IA pourraient l'emporter sur ses bénéfices en l'absence de garde-fous et de cadre éthique, selon Reuters et AP.",
+    "eclairage": "Pourquoi un fonds monétaire parle-t-il d'IA ?",
+    "chiffres": [
+     {
+      "valeur": "12/10",
+      "legende": "ouverture des assemblées annuelles à Bangkok"
+     },
+     {
+      "valeur": "16/10",
+      "legende": "propos de Georgieva lors du débat sur l'IA"
+     },
+     {
+      "valeur": "10 %",
+      "legende": "des emplois transformés ou créés, étude du FMI"
+     }
+    ],
+    "passe": "Le 16 octobre, lors des assemblées annuelles du FMI et de la Banque mondiale à Bangkok, la directrice générale du Fonds monétaire international, Kristalina Georgieva, a déclaré que les risques de l'IA pourraient l'emporter sur ses bénéfices en l'absence de garde-fous et de cadre éthique, selon Reuters et AP. Elle a comparé l'IA à une voiture de Formule 1 lancée sans barrières. Elle juge adaptée une autorégulation du secteur, mais avec l'appui de la société et des grandes économies (États-Unis, Chine, Inde et pays de la chaîne d'approvisionnement). Selon AP, une étude du FMI estime qu'environ 10 % des emplois seront transformés ou créés. Le FMI avait signalé le 13 octobre trois risques pour l'économie : une fin possible du boom des investissements dans l'IA, une dette publique élevée et une guerre prolongée au Moyen-Orient (Reuters). Les positions des intervenants divergent : Anthropic appelle à des normes, un responsable du Trésor américain juge que le FMI insiste trop sur les risques.",
+    "points": [],
+    "explication": "Le FMI suit l'IA comme une variable économique, pas comme une technologie. Deux chocs s'opposent : un choc de demande (les dépenses en puces, centres de données et électricité tirent la croissance) et un choc d'offre possible (si les gains de productivité promis ne viennent pas, les investissements pourraient être suivis d'une correction financière, comme l'économiste Dani Rodrik le résume dans Reuters). Ces scénarios sont des hypothèses : le FMI ne chiffre pas ici de prévision. L'autorégulation désigne des règles fixées par les entreprises elles-mêmes ; elle s'oppose à une loi imposée, comme l'AI Act européen.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://kfgo.com/2026/10/16/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework/",
+      "nom": "Reuters"
+     },
+     {
+      "url": "https://www.ajc.com/news/2026/10/imf-world-bank-meetings-focus-on-global-risks-and-potential-benefits-of-ai/",
+      "nom": "dépêche AP"
+     },
+     {
+      "url": "https://fnh.ma/articles/fmi-banque-mondiale-assemblees-de-bangkok",
+      "nom": "Finances News Hebdo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Kristalina Georgieva, FMI",
+      "contexte": "16 octobre",
+      "texte": "Elle dit : « If there are no safeguards, then the risks may exceed the opportunities » (sans garde-fous, les risques pourraient dépasser les bénéfices) et, selon AP : « We are racing, and the question is how do we put barriers? » (nous courons, comment poser des barrières ?).",
+      "url": "https://kfgo.com/2026/10/16/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework/",
+      "source": "Reuters"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Jack Clark, Anthropic",
+      "contexte": "16 octobre",
+      "texte": "Le cofondateur d'Anthropic répond à une question sur la régulation : « We need common sense standards » (nous avons besoin de normes de bon sens). Il juge, selon Reuters, que le processus ne doit pas être entièrement volontaire.",
+      "url": "https://kfgo.com/2026/10/16/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework/",
+      "source": "Reuters"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Responsable du Trésor américain",
+      "contexte": "16 octobre",
+      "texte": "Selon Reuters, elle estime que le FMI se concentre trop sur les risques et devrait donner plus de poids aux chocs positifs comme l'IA, que le gouvernement américain appelle désormais « super intelligence ».",
+      "url": "https://kfgo.com/2026/10/16/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework/",
+      "source": "Reuters"
+     }
+    ],
+    "apres": "Les assemblées se terminent le 18 octobre. Reuters rapporte que Washington discute avec les autres actionnaires du FMI d'un vocabulaire commun pour un texte conjoint ; aucune date n'est donnée.",
+    "change": "Pour un salarié, l'étude du FMI évoque des tâches répétitives appelées à disparaître et des emplois de services créés, que Georgieva juge positifs en net mais peu payés (AP).",
+    "credit": {
+     "auteur": "กสิณธร ราชโอรส",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Queen_Sirikit_National_Convention_Center,Bangkok_(11).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "18",
+    "mois": "OCT.",
+    "texte": "FMI et Banque mondiale : fin des assemblées annuelles à Bangkok (Finances News Hebdo)."
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "5 Bolt E4B (4 Go), selon l'entreprise (Nvidia)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Commission européenne : fin de la consultation sur le projet de règlement d'exécution de l'AI Act (Commission)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Agent",
+    "definition": "Programme d'IA qui enchaîne plusieurs actions pour atteindre un but."
+   },
+   {
+    "terme": "Garde-fous",
+    "definition": "Limites techniques ou règles qui encadrent ce qu'un système d'IA peut faire ; guardrails en anglais."
+   },
+   {
+    "terme": "Injonction d'enquête civile",
+    "definition": "Demande écrite de documents émise par une autorité américaine, proche d'une citation à produire des pièces ; civil investigative demand en anglais."
+   },
+   {
+    "terme": "Autorégulation",
+    "definition": "Règles fixées par les entreprises d'un secteur elles-mêmes, sans loi imposée."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon la Commission européenne, son comité scientifique sur l'IA réunit 200 experts indépendants.",
+   "reponse": false,
+   "explication": "Faux : selon la Commission, ce comité réunit 60 experts indépendants, qui examinent notamment de récents incidents de perte de contrôle d'agents d'IA."
   }
  },
  {
