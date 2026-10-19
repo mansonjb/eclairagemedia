@@ -1,6 +1,905 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-19",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "Créations d'entreprises : 119 300 en septembre, un record",
+    "court": "Créations d'entreprises : record en septembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Digital_nomad_telecommuting_work_on_laptop_computer.jpg/1280px-Digital_nomad_telecommuting_work_on_laptop_computer.jpg",
+    "legende": "un entrepreneur travaille sur un ordinateur portable en terrasse (illustration)",
+    "chapeau": "Vendredi 16 octobre, l'Insee a publié les créations d'entreprises de septembre. Corrigées des variations saisonnières, elles atteignent 119 307, soit 1,1 % de plus qu'en août, après un bond de 7,2 % le mois précédent.",
+    "eclairage": "Pourquoi créer plus d'entreprises quand l'économie ralentit ?",
+    "chiffres": [
+     {
+      "valeur": "119 307",
+      "legende": "entreprises créées en septembre"
+     },
+     {
+      "valeur": "+1,1 %",
+      "legende": "sur un mois, après +7,2 % en août"
+     },
+     {
+      "valeur": "70 766",
+      "legende": "défaillances sur 12 mois à fin août"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, l'Insee a publié les créations d'entreprises de septembre. Corrigées des variations saisonnières, elles atteignent 119 307, soit 1,1 % de plus qu'en août, après un bond de 7,2 % le mois précédent. L'institut indique que c'est le plus haut niveau depuis le début de ses mesures, en 2000. Les entreprises individuelles classiques progressent de 11,6 % et les sociétés de 5,0 %, tandis que les micro-entrepreneurs, qui représentent environ les deux tiers du total, reculent de 1,6 %. Sur les douze derniers mois (octobre 2025 à septembre 2026), 971 803 entreprises ont été créées, soit 12,2 % de plus que la période précédente selon l'Insee (l'AFP présente ce même total comme un cumul depuis janvier, en hausse de 13 %). Selon l'AFP, ce record intervient « à rebours d'une économie atone » : l'Insee prévoit 0,4 % de croissance du PIB en 2026, le chômage est à 8,3 % au deuxième trimestre, et les défaillances d'entreprises atteignent 70 766 sur douze mois à fin août, d'après la Banque de France.",
+    "points": [],
+    "explication": "Une création d'entreprise n'est pas un emploi créé : une grande partie des nouvelles structures sont des micro-entreprises, souvent un statut simple pour une seule personne, qui peut compléter un revenu ou remplacer un emploi salarié. Quand le chômage monte, davantage de personnes se lancent à leur compte, par choix ou par nécessité. Un chiffre record de créations dit donc que beaucoup de gens s'immatriculent, pas que beaucoup de salariés sont embauchés. Les défaillances (entreprises placées en procédure judiciaire) se mesurent à part : elles aussi sont élevées. L'Insee note par ailleurs une hausse qu'il qualifie d'« inhabituelle » des entreprises individuelles classiques, notamment dans la vente à domicile (+3 500 créations sur trois mois).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9078876",
+      "nom": "Insee, Informations rapides n° 249"
+     },
+     {
+      "url": "https://fr.fashionnetwork.com/news/France-creations-d-entreprise-record-en-septembre-malgre-une-economie-atone,1876447.html",
+      "nom": "dépêche AFP via FashionNetwork"
+     },
+     {
+      "url": "https://www.europe1.fr/economie/malgre-une-economie-francaise-atone-le-nombre-de-creations-dentreprise-bat-un-record-en-septembre-1153922",
+      "nom": "Europe 1"
+     },
+     {
+      "url": "https://pressclub.fr/creations-dentreprises-linsee-annonce-un-record-en-semptembre/",
+      "nom": "Press Club"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Insee",
+      "contexte": "institut statistique",
+      "texte": "Hausse « inhabituelle » des entreprises individuelles classiques, dont +3 500 créations en vente à domicile sur trois mois.",
+      "url": "https://fr.fashionnetwork.com/news/France-creations-d-entreprise-record-en-septembre-malgre-une-economie-atone,1876447.html",
+      "source": "dépêche AFP via FashionNetwork"
+     }
+    ],
+    "apres": "L'Insee publie les créations d'octobre en novembre. Mercredi 21 octobre, il publie la production dans les services et les ventes du commerce d'août.",
+    "change": "Les créations mesurent l'envie ou le besoin d'entreprendre, pas la santé des entreprises : le chiffre ne dit rien du nombre d'emplois ni de la survie des nouvelles structures.",
+    "credit": {
+     "auteur": "perzon seo",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Digital_nomad_telecommuting_work_on_laptop_computer.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "INDUSTRIE",
+    "titre": "KNDS : Berlin négocie l'achat de 50 % du fabricant de chars",
+    "court": "KNDS : Berlin négocie 50 % du capital",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KNDS_Leopard_2_RC3.0_front_Klietz_2025.JPG/1280px-KNDS_Leopard_2_RC3.0_front_Klietz_2025.JPG",
+    "legende": "un char Leopard 2 de KNDS sur un terrain d'essai",
+    "chapeau": "Mercredi 14 octobre, Reuters rapporte, d'après une source proche du dossier, que le gouvernement allemand négocie l'acquisition de 50 % du capital de KNDS, le fabricant franco-allemand de chars (Leopard 2).",
+    "eclairage": "Pourquoi un État rachète-t-il une partie d'un industriel de défense ?",
+    "chiffres": [
+     {
+      "valeur": "50 %",
+      "legende": "du capital visé par l'État allemand"
+     },
+     {
+      "valeur": "50 %",
+      "legende": "déjà détenus par l'État français"
+     },
+     {
+      "valeur": "40 %",
+      "legende": "part prévue dans le plan initial"
+     }
+    ],
+    "passe": "Mercredi 14 octobre, Reuters rapporte, d'après une source proche du dossier, que le gouvernement allemand négocie l'acquisition de 50 % du capital de KNDS, le fabricant franco-allemand de chars (Leopard 2). Les discussions se tiennent avec les familles actionnaires, regroupées dans Wegmann Holding, et les parties seraient proches d'un accord sur le prix, non communiqué. Le projet d'introduction en Bourse, qui prévoyait que chaque actionnaire cède 10 % au public et que l'État allemand reprenne 40 % auprès des familles, est suspendu. Selon le Handelsblatt, cité par Reuters, une décision est attendue dans les prochaines semaines. Le ministère allemand de l'Économie évoque une participation à égalité avec la France et rappelle que la décision revient aux actionnaires. KNDS n'a pas commenté et affirme que l'introduction en Bourse reste son objectif. Les sources divergent sur le niveau visé (40 % en juin, 50 % en octobre) : aucun accord signé n'est annoncé à ce jour.",
+    "points": [],
+    "explication": "Une introduction en Bourse (IPO) consiste à vendre une partie du capital au public pour lever de l'argent. Si le prix ou le marché ne conviennent pas, l'opération est repoussée. Les actionnaires actuels (ici deux familles allemandes et l'État français, à 50 % chacun pour le groupe) peuvent alors vendre à un acheteur unique. Pour un État, entrer au capital d'un fabricant d'armement donne un droit de regard sur les technologies et les commandes. Le prix payé dépend de la valorisation de l'entreprise, c'est-à-dire de la valeur que les acheteurs lui attribuent.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.devdiscourse.com/article/international/3992467-german-government-in-talks-to-buy-50-of-knds-source-says",
+      "nom": "dépêche Reuters via Devdiscourse"
+     },
+     {
+      "url": "https://de.marketscreener.com/boerse-nachrichten/deutschland-verhandelt-laut-bericht-ueber-erwerb-von-50-beteiligung-an-knds-ipo-plan-auf-eis-ce785dd3d981f226",
+      "nom": "MarketScreener"
+     },
+     {
+      "url": "https://www.hessenschau.de/wirtschaft/deutschland-steigt-mit-50-prozent-beim-ruestungskonzern-knds-ein-v1,knds-kassel-staatskonzern-100.html",
+      "nom": "hessenschau"
+     },
+     {
+      "url": "https://www.economiematin.fr/?p=233943",
+      "nom": "Économie Matin"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Ministère allemand de l'Économie",
+      "contexte": "Allemagne",
+      "texte": "Envisage une participation à égalité avec la France pour protéger des technologies clés de défense ; la décision revient aux actionnaires.",
+      "url": "https://www.devdiscourse.com/article/international/3992467-german-government-in-talks-to-buy-50-of-knds-source-says",
+      "source": "dépêche Reuters via Devdiscourse"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "KNDS",
+      "contexte": "entreprise",
+      "texte": "N'a pas commenté les discussions et maintient que l'introduction en Bourse reste son objectif.",
+      "url": "https://www.devdiscourse.com/article/international/3992467-german-government-in-talks-to-buy-50-of-knds-source-says",
+      "source": "dépêche Reuters via Devdiscourse"
+     }
+    ],
+    "apres": "Une décision est attendue dans les prochaines semaines, selon le Handelsblatt cité par Reuters.",
+    "change": "Pour les salariés et les clients de KNDS, rien ne change tant qu'aucun accord n'est signé. Pour l'industrie européenne de défense, un actionnariat public allemand à parité avec la France modifie l'équilibre de gouvernance du groupe.",
+    "credit": {
+     "auteur": "Boevaya mashina",
+     "licence": "CC BY-SA 3.0 DE",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:KNDS_Leopard_2_RC3.0_front_Klietz_2025.JPG"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "INDUSTRIE",
+    "titre": "Kem One : le fonds Apollo remplacé, 718 M€ de dette effacés",
+    "court": "Kem One : Apollo remplacé, dette réduite",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Usine_Kem_One_de_Ch%C3%A2teau-Arnoux-Saint-Auban_%28Blaches%29.JPG/1280px-Usine_Kem_One_de_Ch%C3%A2teau-Arnoux-Saint-Auban_%28Blaches%29.JPG",
+    "legende": "le site chimique Kem One de Château-Arnoux-Saint-Auban (illustration)",
+    "chapeau": "Vendredi 16 octobre, Kem One, fabricant lyonnais de PVC, a annoncé avoir finalisé sa recapitalisation, selon l'AFP : l'opération a abouti jeudi 15 octobre. Les fonds Monarch Alternative Capital et Arini deviennent les actionnaires de référence, à la place du fonds américain Apollo, aux commandes depuis 2021.",
+    "eclairage": "Comment efface-t-on 80 % d'une dette ?",
+    "chiffres": [
+     {
+      "valeur": "718 M€",
+      "legende": "de dette effacés"
+     },
+     {
+      "valeur": "100 M€",
+      "legende": "de liquidités apportées"
+     },
+     {
+      "valeur": "162 M€",
+      "legende": "de dette résiduelle"
+     }
+    ],
+    "passe": "Vendredi 16 octobre, Kem One, fabricant lyonnais de PVC, a annoncé avoir finalisé sa recapitalisation, selon l'AFP : l'opération a abouti jeudi 15 octobre. Les fonds Monarch Alternative Capital et Arini deviennent les actionnaires de référence, à la place du fonds américain Apollo, aux commandes depuis 2021. L'entreprise indique avoir reçu 100 millions d'euros de liquidités et réduit sa dette de 718 millions d'euros, soit près de 80 %, ce qui ramène la dette résiduelle à 162 millions d'euros, dont 143 millions à échéance 2031 apportés ou garantis par les actionnaires. Ces montants sont proches de ceux de l'accord de principe de juin (environ 720 millions de réduction, 154 millions de dette restante). Kem One affirme que son organisation opérationnelle reste inchangée, sans conséquence sur l'emploi (environ 1 300 salariés selon la CGT-Chimie). Seule l'AFP rapporte à ce stade la finalisation ; l'accord et ses termes sont documentés par les autres sources.",
+    "points": [],
+    "explication": "Un LBO (rachat avec effet de levier) finance l'achat d'une entreprise en grande partie par de la dette, que l'entreprise rembourse ensuite avec ses propres bénéfices. Quand les profits ne suffisent pas, une restructuration s'impose : les créanciers (prêteurs et détenteurs d'obligations) acceptent d'effacer une partie de leur créance, souvent en échange d'une part du capital. L'ancien actionnaire perd alors le contrôle. Ici, la dette est ramenée à 162 millions d'euros avec une échéance en 2031 : l'entreprise gagne du temps pour rembourser.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/kem-one-acheve-sa-recapitalisation-et-accueille-de-nouveaux-actionnaires-de-reference-d64d51eb702d6a616b55dc4f3e89673a",
+      "nom": "Boursorama avec AFP, 16/10"
+     },
+     {
+      "url": "https://www.kemone.com/en/2026/06/16/kem-one-secures-a-e100million-recapitalization-and-reduces-its-debt-by-80/",
+      "nom": "communiqué Kem One, 16/06"
+     },
+     {
+      "url": "https://www.lejournaldesentreprises.com/article/apollo-cede-le-controle-de-kem-one-monarch-dans-un-accord-qui-efface-80-de-la-dette-2145089",
+      "nom": "Le Journal des entreprises"
+     },
+     {
+      "url": "https://plasticker.de/news/shownews_en.php?nr=48656",
+      "nom": "Plasticker"
+     },
+     {
+      "url": "https://www.cfnews.net/L-actualite/Retournement/Operations/Creanciers/Kem-One-dissout-une-partie-de-sa-dette-712247",
+      "nom": "CFNEWS"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Vincent Linchet",
+      "contexte": "directeur général de Kem One",
+      "texte": "L'opération « renforce durablement notre structure financière ».",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/kem-one-acheve-sa-recapitalisation-et-accueille-de-nouveaux-actionnaires-de-reference-d64d51eb702d6a616b55dc4f3e89673a",
+      "source": "Boursorama avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "SYNDICATS",
+      "qui": "CGT-Chimie",
+      "contexte": "syndicat",
+      "texte": "En mars, le syndicat a écrit au président de la République pour dénoncer le recours massif au LBO et des choix purement financiers.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/kem-one-acheve-sa-recapitalisation-et-accueille-de-nouveaux-actionnaires-de-reference-d64d51eb702d6a616b55dc4f3e89673a",
+      "source": "Boursorama avec AFP"
+     }
+    ],
+    "apres": "Un nouveau conseil réunira des représentants de Monarch, d'Arini et le directeur général. La dette restante arrive à échéance en 2031.",
+    "change": "Pour les salariés, l'entreprise annonce une organisation inchangée et aucune conséquence sur l'emploi. Pour les clients, les banques (Bpifrance, LCL, CERA) maintiennent leurs financements, d'après l'accord de juin.",
+    "credit": {
+     "auteur": "Sébastien Thébault",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Usine_Kem_One_de_Ch%C3%A2teau-Arnoux-Saint-Auban_(Blaches).JPG"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Micro-entrepreneur",
+    "definition": "Un statut simplifié pour travailler à son compte, avec des démarches et des cotisations allégées."
+   },
+   {
+    "terme": "Défaillance d'entreprise",
+    "definition": "Le fait, pour une entreprise, d'être placée en procédure judiciaire (redressement ou liquidation) parce qu'elle ne peut plus payer ses dettes."
+   },
+   {
+    "terme": "LBO",
+    "definition": "Rachat d'une entreprise financé en grande partie par de la dette, que l'entreprise rembourse ensuite avec ses bénéfices."
+   },
+   {
+    "terme": "Introduction en Bourse (IPO)",
+    "definition": "La première vente d'actions d'une entreprise au public sur un marché boursier."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'Insee, les 119 300 entreprises créées en France en septembre constituent le plus haut niveau mensuel mesuré depuis 2000.",
+   "reponse": true,
+   "explication": "Vrai : l'Insee compte 119 307 créations en septembre (données corrigées des variations saisonnières), un niveau jamais atteint depuis le début de la série en 2000."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-19",
+  "minutes": 19,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉTAT",
+    "titre": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
+    "court": "Macron : pas d'état d'urgence",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palais_de_l%27%C3%89lys%C3%A9e_%28Paris%29.jpg/1280px-Palais_de_l%27%C3%89lys%C3%A9e_%28Paris%29.jpg",
+    "legende": "L'entrée du palais de l'Élysée, d'où le président s'est exprimé (illustration)",
+    "chapeau": "Dimanche 18 octobre à 20 heures, au lendemain des violences en marge de la mobilisation du 17 octobre, Emmanuel Macron s'est adressé aux Français depuis l'Élysée, après avoir réuni le Premier ministre et les ministres concernés.",
+    "eclairage": "État d'urgence ou droit commun ?",
+    "chiffres": [
+     {
+      "valeur": "8 min",
+      "legende": "d'allocution (8 min 40)"
+     },
+     {
+      "valeur": "20 h",
+      "legende": "dimanche 18 octobre"
+     }
+    ],
+    "passe": "Dimanche 18 octobre à 20 heures, au lendemain des violences en marge de la mobilisation du 17 octobre, Emmanuel Macron s'est adressé aux Français depuis l'Élysée, après avoir réuni le Premier ministre et les ministres concernés. Il a attribué les violences à « des factieux issus de groupuscules d'ultragauche, rejoints par de nombreux délinquants » et a apporté le « soutien de la nation » aux forces de l'ordre, aux maires et aux commerçants. Il n'a pas annoncé d'état d'urgence : les préfets prendront les décisions, en lien avec les maires, et pourront aller jusqu'à interdire certains rassemblements. Sébastien Lecornu présidera lundi une cellule de crise pour mobiliser des aides aux commerçants et artisans touchés. Le chef de l'État a demandé au ministre de l'Intérieur, Laurent Nuñez, de « tirer toutes les leçons » en matière de renseignement et d'anticipation, et a dit comprendre l'« angoisse » des lycéens et des étudiants ; le Premier ministre réunira dans les prochains jours partis, syndicats et représentants des lycéens et des étudiants.",
+    "points": [],
+    "explication": "Selon Public Sénat, l'état d'urgence élargit les pouvoirs de police administrative et permet notamment d'imposer des restrictions de circulation. Le droit commun permet déjà aux autorités d'interdire des manifestations qui menacent l'ordre public, rappelle le constitutionnaliste Benjamin Morel, pour qui l'outil relèverait davantage de « la communication » que de la nécessité. Emmanuel Macron avait lui-même écarté ce dispositif après la mort de Nahel, en 2023.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-pour-emmanuel-macron-ceux-qui-ont-detruit-doivent-payer-443949",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/video-nous-ressentons-tous-ce-soir-de-la-colere-de-la-honte-revivez-l-allocution-d-emmanuel-macron-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8243179.html",
+      "nom": "franceinfo, allocution"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "nom": "franceinfo, direct"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Rien ne le justifie. Rien ne l'explique. Rien ne l'excuse. »",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Avant l'allocution, il demandait l'état d'urgence « sans délai » et un couvre-feu.",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Édouard Philippe",
+      "contexte": "candidat à la présidentielle",
+      "texte": "« Il faut des décisions. S'il se borne à du commentaire, ce serait dangereux. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Avant l'allocution, il prédisait sur LCI que le président parlerait « pour nous occuper ».",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Les personnes interpellées sont présumées innocentes tant qu'elles n'ont pas été jugées. Les mesures préfectorales et leur fondement juridique restent à préciser.",
+    "change": "Le Premier ministre réunit les commerçants et les aides, puis les partis, syndicats et représentants des lycéens et des étudiants. Les préfets peuvent décider d'interdire des rassemblements localement.",
+    "credit": {
+     "auteur": "Gzen92",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Palais_de_l%27%C3%89lys%C3%A9e_(Paris).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "SÉCURITÉ",
+    "titre": "17 octobre : bilans en hausse, appels à la démission de Laurent Nuñez",
+    "court": "17 octobre : bilans en hausse, Nuñez contesté",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Manifestation_du_17_octobre_2026_%C3%A0_Paris_59.jpg/1280px-Manifestation_du_17_octobre_2026_%C3%A0_Paris_59.jpg",
+    "legende": "Le cortège parisien du 17 octobre 2026, devant la gare de l'Est (illustration)",
+    "chapeau": "Les bilans du 17 octobre ont été revus à la hausse. Samedi soir, Sébastien Lecornu faisait état de 1 200 interpellations et de 150 policiers et gendarmes blessés.",
+    "eclairage": "Pourquoi les chiffres changent",
+    "chiffres": [
+     {
+      "valeur": "2 000+",
+      "legende": "interpellations selon le ministre"
+     },
+     {
+      "valeur": "997",
+      "legende": "policiers et gendarmes blessés (ministère)"
+     },
+     {
+      "valeur": "1 500",
+      "legende": "commerçants touchés selon la FCD"
+     }
+    ],
+    "passe": "Les bilans du 17 octobre ont été revus à la hausse. Samedi soir, Sébastien Lecornu faisait état de 1 200 interpellations et de 150 policiers et gendarmes blessés. Dimanche, Laurent Nuñez a annoncé plus de 2 000 interpellations dans toute la France et plus de 900 policiers, gendarmes et pompiers blessés ; un bilan du ministère de l'Intérieur dimanche soir compte 997 policiers et gendarmes blessés, dont sept grièvement. La Fédération du commerce et de la distribution estime que 1 500 commerçants ont été touchés directement, pour une facture de « plusieurs centaines de millions d'euros ». Des tensions se sont poursuivies dimanche soir autour de la place de la République à Paris, où au moins un commerce a été pillé, et à Lyon, où des jeunes ont tenté de briser une vitrine. Marine Tondelier, des élus de La France insoumise et des élus du Rassemblement national réclament la démission du ministre ; Laurent Nuñez a défendu dimanche matin l'action des forces de l'ordre.",
+    "points": [],
+    "explication": "Les bilans diffèrent selon le moment et les personnes comptées : 150 policiers et gendarmes blessés samedi soir selon le Premier ministre, plus de 900 policiers, gendarmes et pompiers dimanche selon le ministre, 997 policiers et gendarmes selon le bilan du ministère dimanche soir. Les sources consultées ne détaillent pas l'écart ; ces chiffres restent provisoires. Sur les appels à la démission, LCP distingue deux critiques : à gauche, un dispositif jugé inadapté et des violences contre des manifestants pacifiques ; au RN, une incapacité à faire face aux débordements.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/laurent-nunez-etait-completement-depasse-les-appels-a-demission-du-ministre-de-l-interieur-se-multiplient-apres-les-violences-du-17-octobre_8242828.html",
+      "nom": "franceinfo, Nuñez"
+     },
+     {
+      "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale",
+      "texte": "« Il n'y a pas d'autre issue à cette journée du 17 octobre que sa démission »",
+      "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Laurent Jacobelli",
+      "contexte": "porte-parole",
+      "texte": "« il est tout à fait incompétent pour gérer le chaos »",
+      "url": "https://www.franceinfo.fr/economie/greve/laurent-nunez-etait-completement-depasse-les-appels-a-demission-du-ministre-de-l-interieur-se-multiplient-apres-les-violences-du-17-octobre_8242828.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du RN",
+      "texte": "« Lamentable allocution d'Emmanuel Macron »",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur national",
+      "texte": "« Il a parlé pour ne rien dire »",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CGT",
+      "qui": "Sophie Binet",
+      "contexte": "secrétaire générale",
+      "texte": "« n'a rien compris à ce qui se passe dans le pays »",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "Il a défendu dimanche matin l'action des forces de l'ordre, selon LCP.",
+      "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Les enquêtes judiciaires sur les violences et les pillages sont en cours ; les interpellés restent présumés innocents tant qu'ils n'ont pas été jugés. Le ministre doit répondre à la demande de « réponses claires » formulée par le président.",
+    "change": "La question de la responsabilité politique et de l'anticipation est portée devant le Parlement (sujet 3), tandis que les commerçants attendent les aides annoncées.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_17_octobre_2026_%C3%A0_Paris_59.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "PARLEMENT",
+    "titre": "Violences du 17 octobre : le Parlement envisage une commission d'enquête",
+    "court": "Violences : vers une commission d'enquête",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/H%C3%A9micycle_du_S%C3%A9nat_%28est%29.jpg/1280px-H%C3%A9micycle_du_S%C3%A9nat_%28est%29.jpg",
+    "legende": "L'hémicycle du Sénat, au palais du Luxembourg (illustration)",
+    "chapeau": "Au Sénat, le groupe socialiste de Patrick Kanner a demandé une déclaration du gouvernement suivie d'un débat sur le fondement de l'article 50-1 de la Constitution, ainsi que la prolongation de la mission d'information sur le maintien de l'ordre, voire sa transformation en commission d'enquête.",
+    "eclairage": "Commission d'enquête ou débat 50-1 ?",
+    "chiffres": [
+     {
+      "valeur": "50-1",
+      "legende": "débat demandé au Sénat"
+     },
+     {
+      "valeur": "mardi",
+      "legende": "présidents de groupe à l'Assemblée"
+     },
+     {
+      "valeur": "6 mois",
+      "legende": "durée maximale d'une commission d'enquête"
+     }
+    ],
+    "passe": "Au Sénat, le groupe socialiste de Patrick Kanner a demandé une déclaration du gouvernement suivie d'un débat sur le fondement de l'article 50-1 de la Constitution, ainsi que la prolongation de la mission d'information sur le maintien de l'ordre, voire sa transformation en commission d'enquête. Les Écologistes veulent demander « immédiatement » une commission d'enquête sénatoriale. À droite, la sénatrice LR Catherine Dumas n'écarte pas cette piste, tandis que le président du Sénat Gérard Larcher réclame des réponses sur les « défaillances » ; le RN, par Edwige Diaz, juge qu'elle n'est pas nécessaire. À l'Assemblée nationale, la présidente Yaël Braun-Pivet va proposer une commission d'enquête et réunira mardi matin les présidents de groupe, selon son entourage. Les conclusions de la mission du Sénat sur l'avenir du maintien de l'ordre sont attendues lundi, selon Public Sénat.",
+    "points": [],
+    "explication": "Selon le Sénat, une commission d'enquête sert à recueillir des informations et à contrôler l'action du Gouvernement, grâce à des pouvoirs d'investigation spécifiques ; elle est temporaire et prend fin une fois le rapport déposé, dans un délai maximum de six mois. Chaque groupe politique peut en obtenir une, ou une mission d'information, une fois par année parlementaire. L'article 50-1 de la Constitution, lui, permet au Gouvernement de faire une déclaration devant une assemblée, suivie d'un débat et éventuellement d'un vote.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.senat.fr/commission/enquete/index.html",
+      "nom": "senat.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Patrick Kanner",
+      "contexte": "président du groupe socialiste au Sénat",
+      "texte": "« Je n'excuse rien et je condamne ces violences, mais on a un pays qui va très mal, et l'exécutif n'a plus de boussole. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Guy Benarroche",
+      "contexte": "sénateur des Bouches-du-Rhône",
+      "texte": "Son groupe souhaite demander « immédiatement » une commission d'enquête sénatoriale, notamment sur le déploiement des forces de l'ordre.",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Catherine Dumas",
+      "contexte": "sénatrice de Paris",
+      "texte": "« Pourquoi pas une commission d'enquête, et en tout cas une parole forte »",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Edwige Diaz",
+      "contexte": "présidente du groupe RN au Sénat",
+      "texte": "« On n'a pas besoin d'une commission d'enquête, on sait pourquoi on est là. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SÉNAT",
+      "qui": "Gérard Larcher",
+      "contexte": "président du Sénat",
+      "texte": "« Nous avons vécu le chaos »",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Mardi 20 octobre, Yaël Braun-Pivet réunit les présidents de groupe de l'Assemblée sur une éventuelle commission d'enquête. Les demandes de débat et de commission d'enquête restent à examiner.",
+    "change": "Le Parlement pourrait ouvrir une enquête sur l'anticipation et la conduite du maintien de l'ordre le 17 octobre, avec des auditions des responsables.",
+    "credit": {
+     "auteur": "Tangopaso",
+     "licence": "domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%A9micycle_du_S%C3%A9nat_(est).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "INSTITUTIONS",
+    "titre": "Conseil constitutionnel : le RN et l'UDR visent Richard Ferrand",
+    "court": "Conseil constit. : le RN vise Ferrand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Constitution_de_1958.jpg/1280px-Constitution_de_1958.jpg",
+    "legende": "L'original de la Constitution du 4 octobre 1958, avec ses signatures et son sceau (illustration)",
+    "chapeau": "Dans un podcast du Club des juristes, réalisé avec BFMTV et diffusé le 9 octobre, Richard Ferrand, président du Conseil constitutionnel depuis mars 2025, a estimé que l'on ne pouvait pas réformer la Constitution par l'article 11, comme le propose Marine Le Pen par référendum.",
+    "eclairage": "Article 11 ou article 89 : deux routes pour réformer la Constitution",
+    "chiffres": [
+     {
+      "valeur": "9/10",
+      "legende": "podcast de Richard Ferrand diffusé"
+     },
+     {
+      "valeur": "16/10",
+      "legende": "saisine déposée par le RN et l'UDR"
+     }
+    ],
+    "passe": "Dans un podcast du Club des juristes, réalisé avec BFMTV et diffusé le 9 octobre, Richard Ferrand, président du Conseil constitutionnel depuis mars 2025, a estimé que l'on ne pouvait pas réformer la Constitution par l'article 11, comme le propose Marine Le Pen par référendum. Vendredi 16 octobre, les parlementaires du Rassemblement national et de l'UDR ont saisi le Conseil pour lui demander de « constater la démission d'office » de son président, en invoquant le principe d'impartialité ; ils s'adressent à son doyen d'âge, Alain Juppé. Le Conseil confirme avoir reçu la saisine, sans autre commentaire, et ne s'est pas prononcé sur sa recevabilité. Les juristes interrogés divergent : franceinfo les décrit sceptiques sur le fondement de la démarche, tandis que Public Sénat rapporte que certains estiment que Richard Ferrand a pris parti sur une question non tranchée, et d'autres que la démarche vise à déstabiliser l'institution.",
+    "points": [
+     "Marine Le Pen veut soumettre sa réforme de la Constitution à un référendum fondé sur l'article 11, sans passer par le Parlement, qui pourrait bloquer le projet (franceinfo).",
+     "Richard Ferrand répond que l'article 89 est la voie de révision de la Constitution, ce que ses prédécesseurs ont affirmé selon lui (Public Sénat).",
+     "L'article 11 a déjà été utilisé par le général de Gaulle, mais la plupart des juristes en contestent la légalité (Public Sénat)."
+    ],
+    "explication": "1. Marine Le Pen veut soumettre sa réforme de la Constitution à un référendum fondé sur l'article 11, sans passer par le Parlement, qui pourrait bloquer le projet (franceinfo). 2. Richard Ferrand répond que l'article 89 est la voie de révision de la Constitution, ce que ses prédécesseurs ont affirmé selon lui (Public Sénat). 3. L'article 11 a déjà été utilisé par le général de Gaulle, mais la plupart des juristes en contestent la légalité (Public Sénat).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html",
+      "nom": "franceinfo, saisine"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/front-national/le-recours-du-rn-contre-richard-ferrand-appelant-a-le-debarquer-de-la-presidence-du-conseil-constitutionnel-est-il-fonde-juridiquement_8240527.html",
+      "nom": "franceinfo, analyse juridique"
+     },
+     {
+      "url": "https://lcp.fr/actualites/le-rn-veut-evincer-richard-ferrand-une-requete-au-conseil-constitutionnel-contestee-par",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "nom": "Constitution (conseil-constitutionnel.fr)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate à la présidentielle",
+      "texte": "« Il a rompu avec l'obligation qui est la sienne de neutralité »",
+      "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du RN",
+      "texte": "« a piétiné l'Etat de droit »",
+      "url": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CONSEIL CONSTITUTIONNEL",
+      "qui": "Richard Ferrand",
+      "contexte": "président",
+      "texte": "« N'est pas de Gaulle qui veut »",
+      "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Parlementaires de l'UDR",
+      "contexte": "parti d'Éric Ciotti",
+      "texte": "Ils cosignent la saisine avec les parlementaires du RN et estiment que Richard Ferrand a « préjugé publiquement d'une question de droit non encore tranchée ».",
+      "url": "https://www.franceinfo.fr/politique/front-national/le-recours-du-rn-contre-richard-ferrand-appelant-a-le-debarquer-de-la-presidence-du-conseil-constitutionnel-est-il-fonde-juridiquement_8240527.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Le Conseil n'a pas indiqué la suite qu'il donnerait à la saisine ; plusieurs juristes jugent la démarche juridiquement fragile.",
+    "change": "La saisine pose la question de la réserve que doit respecter le président du Conseil constitutionnel en période pré-électorale, et celle de la procédure applicable.",
+    "credit": {
+     "auteur": "Tangopaso",
+     "licence": "domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Constitution_de_1958.jpg"
+    }
+   },
+   {
+    "n": 5,
+    "theme": "BUDGET",
+    "titre": "Budget de l'UE 2028-2034 : le montant divise les Vingt-Sept",
+    "court": "Budget UE 2028-2034 : la facture divise",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlaymont_building_2024.jpg/1280px-Berlaymont_building_2024.jpg",
+    "legende": "Le Berlaymont, siège de la Commission européenne à Bruxelles (illustration)",
+    "chapeau": "Réunis à Bruxelles les 15 et 16 octobre, les dirigeants des Vingt-Sept ont débattu du budget pluriannuel 2028-2034 sans lever leurs divergences.",
+    "eclairage": "Pourquoi un accord est si long à trouver",
+    "chiffres": [
+     {
+      "valeur": "1 825",
+      "legende": "milliards d'euros proposés (Conseil)"
+     },
+     {
+      "valeur": "-141",
+      "legende": "milliards d'euros vs projet Commission"
+     },
+     {
+      "valeur": "26/11",
+      "legende": "sommet extra- ordinaire prévu"
+     }
+    ],
+    "passe": "Réunis à Bruxelles les 15 et 16 octobre, les dirigeants des Vingt-Sept ont débattu du budget pluriannuel 2028-2034 sans lever leurs divergences. La présidence irlandaise du Conseil a proposé le 10 octobre de le ramener à 1 825 milliards d'euros, soit 141 milliards de moins que le projet de la Commission, que franceinfo chiffre à « plus de 1 800 milliards ». Le chancelier allemand Friedrich Merz et le Premier ministre suédois Ulf Kristersson jugent le montant trop élevé, tandis qu'Emmanuel Macron plaide pour préserver la politique agricole commune et financer la défense, et propose des ressources propres, comme une taxe sur les géants du numérique ou sur les jeux en ligne. Le président du Conseil européen António Costa a été chargé de poursuivre les consultations ; les dirigeants sont convoqués à un sommet extraordinaire le 26 novembre, selon Euronews. L'objectif est de conclure avant la fin de 2026.",
+    "points": [],
+    "explication": "Le cadre financier pluriannuel est fixé par un règlement du Conseil adopté à l'unanimité, après approbation du Parlement européen, pour au moins cinq ans ; la Commission a présenté sa proposition le 16 juillet 2025, selon l'Observatoire législatif du Parlement européen. Le cadre actuel couvre 2021 à 2027. Comme le texte exige l'unanimité, chaque État membre peut le bloquer.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.touteleurope.eu/economie-et-social/conseil-europeen-la-france-pousse-pour-faire-adopter-rapidement-le-budget-la-competitivite-de-l-ue-au-coeur-des-debats/",
+      "nom": "Toute l'Europe"
+     },
+     {
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/negociations-sous-tension-autour-du-budget-de-l-union-europeenne-a-bruxelles_8239243.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/16/zelensky-en-quete-de-soutien-a-bruxelles-alors-que-laide-us-vacille",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1830555",
+      "nom": "Parlement européen (OEIL)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ALLEMAGNE",
+      "qui": "Friedrich Merz",
+      "contexte": "chancelier",
+      "texte": "« On doit réduire significativement le budget proposé par la Commission »",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/negociations-sous-tension-autour-du-budget-de-l-union-europeenne-a-bruxelles_8239243.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SUÈDE",
+      "qui": "Ulf Kristersson",
+      "contexte": "Premier ministre",
+      "texte": "« C'est bien trop cher, bien trop élevé. C'est totalement inacceptable »",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/negociations-sous-tension-autour-du-budget-de-l-union-europeenne-a-bruxelles_8239243.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "Il plaide pour des investissements dans l'agriculture, la défense et l'économie, financés par des ressources propres de l'Union plutôt que par une hausse des contributions nationales.",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/negociations-sous-tension-autour-du-budget-de-l-union-europeenne-a-bruxelles_8239243.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Antonio Costa doit présenter dans les semaines à venir une nouvelle proposition de compromis, selon Euronews ; le sommet extraordinaire est prévu le 26 novembre.",
+    "change": "Le montant du budget conditionne les financements européens versés à partir de janvier 2028, dont la politique agricole commune, ainsi que la contribution française, estimée à 30,9 milliards d'euros pour 2027 selon Toute l'Europe.",
+    "credit": {
+     "auteur": "Cbliu",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2024.jpg"
+    }
+   },
+   {
+    "n": 6,
+    "theme": "UKRAINE",
+    "titre": "Ukraine : l'UE réaffirme son soutien après la dispute Trump-Zelensky",
+    "court": "Ukraine : l'UE soutient Kiev",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Volodymyr_Zelenskyy%2C_Rados%C5%82aw_Sikorski.jpg/1280px-Volodymyr_Zelenskyy%2C_Rados%C5%82aw_Sikorski.jpg",
+    "legende": "Volodymyr Zelensky saluant le ministre polonais des Affaires étrangères, Radosław Sikorski (illustration)",
+    "chapeau": "Jeudi 15 octobre, Volodymyr Zelensky a annoncé la reprise des frappes ukrainiennes contre des raffineries russes, après plusieurs jours de pause demandés par Washington ; Donald Trump a répondu : « Je pense que c'est une honte », selon Toute l'Europe.",
+    "eclairage": "Pourquoi le partage de renseignements compte",
+    "chiffres": [
+     {
+      "valeur": "70 Md€",
+      "legende": "demandés en plus par Zelensky"
+     },
+     {
+      "valeur": "15/10",
+      "legende": "reprise des frappes sur des raffineries"
+     }
+    ],
+    "passe": "Jeudi 15 octobre, Volodymyr Zelensky a annoncé la reprise des frappes ukrainiennes contre des raffineries russes, après plusieurs jours de pause demandés par Washington ; Donald Trump a répondu : « Je pense que c'est une honte », selon Toute l'Europe. Vendredi 16 octobre à Bruxelles, le président ukrainien a demandé aux Européens au moins 70 milliards d'euros supplémentaires pour sa défense, et Emmanuel Macron a assuré : « Nous ne lâcherons pas l'Ukraine ». Dimanche 18 octobre, Volodymyr Zelensky s'est entretenu avec les émissaires américains Steve Witkoff et Jared Kushner, a-t-il dit, et s'est déclaré reconnaissant que les États-Unis aient repris le partage de renseignements ; Donald Trump a écrit que Volodymyr Zelensky « ne veut pas mettre fin à cette guerre ». Information du 18 octobre d'une seule source (franceinfo, avec AFP), à confirmer.",
+    "points": [],
+    "explication": "Selon Toute l'Europe et Euronews, Kiev accuse Washington d'avoir suspendu le partage de renseignements et perturbé l'accès à Starlink alors que les attaques russes s'intensifiaient ; les perturbations avaient été présentées comme un problème technique. Selon franceinfo, la reprise du partage de renseignements intervient après une interruption qui avait rendu l'Ukraine vulnérable aux tirs de missiles balistiques russes.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-s-entretient-avec-des-emissaires-de-donald-trump-pour-apaiser-les-tensions-avec-washington-et-annonce-la-reprise-du-partage-de-renseignements_8243200.html",
+      "nom": "franceinfo, avec AFP"
+     },
+     {
+      "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/guerre-en-ukraine-volodymyr-zelensky-defie-donald-trump-l-ue-renouvelle-son-soutien-a-l-ukraine/",
+      "nom": "Toute l'Europe"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/10/16/zelensky-en-quete-de-soutien-a-bruxelles-alors-que-laide-us-vacille",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-lacherons-pas-l-ukraine-promet-emmanuel-macron-a-l-issue-d-un-sommet-europeen-avec-volodymyr-zelensky_8240845.html",
+      "nom": "franceinfo, Macron"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UKRAINE",
+      "qui": "Volodymyr Zelensky",
+      "contexte": "président ukrainien",
+      "texte": "« il est évident qu'il existe de nombreux enjeux pour nous tous et que l'on doit mettre fin à cette guerre »",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-s-entretient-avec-des-emissaires-de-donald-trump-pour-apaiser-les-tensions-avec-washington-et-annonce-la-reprise-du-partage-de-renseignements_8243200.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ÉTATS-UNIS",
+      "qui": "Donald Trump",
+      "contexte": "président américain",
+      "texte": "« Il ne veut pas mettre fin à cette guerre et n'a probablement jamais voulu »",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+      "source": "franceinfo, avec AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Nous ne lâcherons pas l'Ukraine »",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-lacherons-pas-l-ukraine-promet-emmanuel-macron-a-l-issue-d-un-sommet-europeen-avec-volodymyr-zelensky_8240845.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Volodymyr Zelensky dit avoir discuté de la livraison de systèmes Patriot ; les élections américaines de mi-mandat ont lieu le 3 novembre.",
+    "change": "L'appui américain, notamment en renseignement et en défense antiaérienne, reste au centre des échanges entre Kiev et Washington.",
+    "credit": {
+     "auteur": "Konrad Laskowski / MSZ",
+     "licence": "CC BY 3.0 pl",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy,_Rados%C5%82aw_Sikorski.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "19",
+    "mois": "OCT.",
+    "texte": "Matignon : cellule de crise présidée par Sébastien Lecornu pour les commerçants et artisans touchés ; conclusions attendues de la mission du Sénat sur le maintien de l'ordre (franceinfo, Public Sénat)."
+   },
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "Assemblée : début de l'examen du PLFSS 2027 dans l'hémicycle, réunion des présidents de groupe sur une commission d'enquête (LCP, franceinfo) ; Otan : réunion spéciale sur la mer Noire."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : début de l'examen du projet de loi « casseurs-payeurs » (LCP, Sénat)."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat (franceinfo)."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Matignon : rencontre avec les présidents de départements, annoncée après leur congrès (franceinfo)."
+   },
+   {
+    "jour": "26",
+    "mois": "NOV.",
+    "texte": "Union européenne : sommet extraordinaire consacré au budget 2028-2034 (Euronews)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Commission d'enquête",
+    "definition": "Instance temporaire d'une assemblée, dotée de pouvoirs d'investigation, qui contrôle l'action du Gouvernement et rend son rapport dans un délai maximum de six mois."
+   },
+   {
+    "terme": "Article 50-1",
+    "definition": "Article de la Constitution qui permet au Gouvernement de faire une déclaration devant une assemblée, suivie d'un débat et éventuellement d'un vote."
+   },
+   {
+    "terme": "Démission d'office",
+    "definition": "Fin de fonctions constatée sans que la personne concernée ait elle-même démissionné ; le RN et l'UDR la demandent pour Richard Ferrand."
+   },
+   {
+    "terme": "Cadre financier pluriannuel",
+    "definition": "Plafonds de dépenses de l'Union européenne fixés pour au moins cinq ans, par un règlement du Conseil adopté à l'unanimité après approbation du Parlement européen."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Une commission d'enquête du Sénat doit déposer son rapport dans un délai maximum de six mois.",
+   "reponse": true,
+   "explication": "Vrai : selon le Sénat, les commissions d'enquête sont temporaires et prennent fin une fois le rapport déposé, dans un délai maximum de six mois."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-18",
   "minutes": 10,
   "sujets": [

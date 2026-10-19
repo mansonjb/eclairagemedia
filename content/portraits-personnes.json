@@ -1243,5 +1243,53 @@
  "Bali Pulendran": null,
  "Emile Bacha": null,
  "FTC": null,
- "Responsable du Trésor américain": null
+ "Responsable du Trésor américain": null,
+ "Ministère allemand de l'Économie": null,
+ "KNDS": null,
+ "Vincent Linchet": null,
+ "CGT-Chimie": null,
+ "Laurent Jacobelli": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Laurent_Jacobelli.jpg/250px-Laurent_Jacobelli.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Laurent_Jacobelli.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurent_Jacobelli.jpg",
+  "auteur": "Debout la France",
+  "licence": "CC BY-SA 2.0"
+ },
+ "Sophie Binet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Huma2023SophieBinet_2.jpg/250px-Huma2023SophieBinet_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Huma2023SophieBinet_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Huma2023SophieBinet_2.jpg",
+  "auteur": "Selbymay",
+  "licence": "CC BY 4.0"
+ },
+ "Guy Benarroche": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/JDE2024_8056_cropped_Guy_Benarroche.jpg/250px-JDE2024_8056_cropped_Guy_Benarroche.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "JDE2024_8056_cropped_Guy_Benarroche.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:JDE2024_8056_cropped_Guy_Benarroche.jpg",
+  "auteur": "GAllegre",
+  "licence": "CC0"
+ },
+ "Catherine Dumas": null,
+ "Richard Ferrand": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%C3%89changes_avec_Richard_Ferrand%2C_Pr%C3%A9sident_de_l%27Assembl%C3%A9e_nationale%2C_%C3%A0_la_Facult%C3%A9_de_droit_Paris-Est_01_%28cropped_2%29.jpg/250px-%C3%89changes_avec_Richard_Ferrand%2C_Pr%C3%A9sident_de_l%27Assembl%C3%A9e_nationale%2C_%C3%A0_la_Facult%C3%A9_de_droit_Paris-Est_01_%28cropped_2%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Échanges_avec_Richard_Ferrand,_Président_de_l'Assemblée_nationale,_à_la_Faculté_de_droit_Paris-Est_01_(cropped_2).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%89changes_avec_Richard_Ferrand%2C_Pr%C3%A9sident_de_l'Assembl%C3%A9e_nationale%2C_%C3%A0_la_Facult%C3%A9_de_droit_Paris-Est_01_(cropped_2).jpg",
+  "auteur": "Faculté de droit Paris-Est Créteil",
+  "licence": "CC BY-SA 2.0"
+ },
+ "Parlementaires de l'UDR": null,
+ "Friedrich Merz": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/250px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+  "auteur": "Steffen Prößdorf",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Ulf Kristersson": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/JEF_tippkohtumine_Helsingis%2C_26.03.2026_%2855170292775%29_%28cropped%29.jpg/250px-JEF_tippkohtumine_Helsingis%2C_26.03.2026_%2855170292775%29_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "JEF_tippkohtumine_Helsingis,_26.03.2026_(55170292775)_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:JEF_tippkohtumine_Helsingis%2C_26.03.2026_(55170292775)_(cropped).jpg",
+  "auteur": "Stenbocki maja",
+  "licence": "CC BY 4.0"
+ }
 }

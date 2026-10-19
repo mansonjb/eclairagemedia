@@ -1,12 +1,13 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "sondage": {
   "methode": "moyenne",
-  "nb": 8,
+  "nb": 10,
   "jours": 30,
   "debut": "2026-09-21",
   "fin": "2026-10-16",
   "instituts": [
+   "Cluster17",
    "Elabe",
    "Harris",
    "Ifop",
@@ -21,6 +22,18 @@
     "terrain": "14-16 octobre",
     "echantillon": "1 701",
     "hypotheses": 6
+   },
+   {
+    "institut": "Cluster17",
+    "terrain": "14-15 octobre",
+    "echantillon": "1 263",
+    "hypotheses": 5
+   },
+   {
+    "institut": "YouGov",
+    "terrain": "12-15 octobre",
+    "echantillon": "1 094",
+    "hypotheses": 5
    },
    {
     "institut": "OpinionWay",
@@ -39,18 +52,6 @@
     "terrain": "5-8 octobre",
     "echantillon": "2 004",
     "hypotheses": 5
-   },
-   {
-    "institut": "Odoxa",
-    "terrain": "24 septembre - 7 octobre",
-    "echantillon": "12 005",
-    "hypotheses": 2
-   },
-   {
-    "institut": "Ifop",
-    "terrain": "25-29 septembre",
-    "echantillon": "1 527",
-    "hypotheses": 10
    }
   ]
  },
@@ -61,7 +62,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 152566274.10100698,
+ "polymarket_volume": 153357260.429555,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -78,30 +79,44 @@
    "source_statut": null,
    "sondage": {
     "v": 35,
-    "d": 1.3
+    "d": 1.6
    },
    "attention": {
-    "v": 44.3,
-    "d": -21.9,
+    "v": 60.6,
+    "d": -13.1,
     "parts": {
-     "Wikipedia": 2.2,
+     "Wikipedia": 3.2,
      "réseaux": 23,
      "citations": 13.3,
-     "abonnés": 8.2,
+     "abonnés": 20.9,
      "YouTube": 5.8
     }
    },
    "polymarket": {
-    "v": 47.9,
-    "d": 8.4,
-    "d24": 2,
-    "d30": 11.2,
-    "vol": 4007201,
-    "vol7": 522783,
-    "haut": 47.9,
-    "bas": 36
+    "v": 48.2,
+    "d": 8.3,
+    "d24": 0.4,
+    "d30": 10.2,
+    "vol": 4056707,
+    "vol7": 502382,
+    "haut": 48.2,
+    "bas": 37
    },
    "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "candidate à la présidentielle",
+     "texte": "« Il a rompu avec l'obligation qui est la sienne de neutralité »",
+     "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
+     "source": "Public Sénat",
+     "date": "2026-10-19",
+     "rubrique": "politique",
+     "sujet": "Conseil constitutionnel : le RN et l'UDR visent Richard Ferrand",
+     "href": "/politique/2026-10-19/4"
+    },
     {
      "fond": "#e4e7f2",
      "couleur": "#0b1f4d",
@@ -171,23 +186,9 @@
      "rubrique": "politique",
      "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
      "href": "/politique/2026-10-08/2"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Marine Le Pen",
-     "contexte": "présidente du groupe RN à l'Assemblée, mardi 6 octobre",
-     "texte": "Elle qualifie le projet de « très mauvais », reposant selon elle sur un « rabot généralisé ».",
-     "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/140-milliards-d-economies-ce-qu-il-faut-retenir-de-l-intervention-de-marine-le-pen-afp-c7e3f37b845db4c22fabbed19f2f95b7ce56ed6b",
-     "source": "dépêche AFP",
-     "date": "2026-10-07",
-     "rubrique": "politique",
-     "sujet": "Budget 2027 : la commission des finances s'en saisit ce mercredi",
-     "href": "/politique/2026-10-07/3"
     }
    ],
-   "nbDeclarations": 8,
+   "nbDeclarations": 9,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -295,9 +296,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 44
+    "attention": 61
    },
-   "score": 89,
+   "score": 92,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -312,31 +313,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 16.6,
-    "d": 0
+    "v": 16.7,
+    "d": 0.2
    },
    "attention": {
     "v": 100,
-    "d": -6.3,
+    "d": -34.1,
     "parts": {
-     "Wikipedia": 6.1,
+     "Wikipedia": 6.9,
      "réseaux": 41.7,
      "citations": 19,
-     "abonnés": 40.9,
-     "YouTube": 35.2
+     "abonnés": 15.5,
+     "YouTube": 30.3
     }
    },
    "polymarket": {
-    "v": 10.5,
-    "d": 0,
+    "v": 9.5,
+    "d": -1,
     "d24": -1,
-    "d30": -2,
-    "vol": 2262088,
-    "vol7": 217925,
+    "d30": -3,
+    "vol": 2303103,
+    "vol7": 203913,
     "haut": 15.5,
-    "bas": 10.5
+    "bas": 9.5
    },
    "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat à la présidentielle",
+     "texte": "Avant l'allocution, il prédisait sur LCI que le président parlerait « pour nous occuper ».",
+     "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+     "source": "Public Sénat",
+     "date": "2026-10-19",
+     "rubrique": "politique",
+     "sujet": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
+     "href": "/politique/2026-10-19/1"
+    },
     {
      "fond": "#ffe9e6",
      "couleur": "#d7263d",
@@ -406,23 +421,9 @@
      "rubrique": "politique",
      "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
      "href": "/politique/2026-10-07/2"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "candidat à la présidentielle, sur X",
-     "texte": "« On va avoir ce PS qui prépare son alliance avec le centre droit pendant encore sept mois ? »",
-     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html",
-     "source": "franceinfo",
-     "date": "2026-10-04",
-     "rubrique": "politique",
-     "sujet": "Primaire de la gauche : des propos privés de Raphaël Glucksmann font réagir",
-     "href": "/politique/2026-10-04/2"
     }
    ],
-   "nbDeclarations": 11,
+   "nbDeclarations": 12,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -528,8 +529,8 @@
     ]
    },
    "composantes": {
-    "sondage": 47,
-    "polymarket": 22,
+    "sondage": 48,
+    "polymarket": 20,
     "attention": 100
    },
    "score": 50,
@@ -547,31 +548,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 15.6,
-    "d": -1.4
+    "v": 15.5,
+    "d": -1.5
    },
    "attention": {
-    "v": 11.1,
-    "d": -3.3,
+    "v": 13.4,
+    "d": -1.2,
     "parts": {
-     "Wikipedia": 1.9,
+     "Wikipedia": 2.3,
      "réseaux": 2.5,
      "citations": 7.7,
-     "abonnés": 0.4,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 17.5,
-    "d": -4,
-    "d24": null,
-    "d30": -7,
-    "vol": 2285046,
-    "vol7": 180954,
+    "v": 19.5,
+    "d": -3,
+    "d24": 2,
+    "d30": -5,
+    "vol": 2366430,
+    "vol7": 179869,
     "haut": 24.5,
     "bas": 17.5
    },
    "declarations": [
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
+     "contexte": "candidat à la présidentielle",
+     "texte": "« Il faut des décisions. S'il se borne à du commentaire, ce serait dangereux. »",
+     "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+     "source": "Public Sénat",
+     "date": "2026-10-19",
+     "rubrique": "politique",
+     "sujet": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
+     "href": "/politique/2026-10-19/1"
+    },
     {
      "fond": "#e0f6f9",
      "couleur": "#1aa3b8",
@@ -643,7 +658,7 @@
      "href": "/politique/2026-09-30/1"
     }
    ],
-   "nbDeclarations": 5,
+   "nbDeclarations": 6,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/edouard-philippe/",
     "phase": {
@@ -749,11 +764,11 @@
     ]
    },
    "composantes": {
-    "sondage": 45,
-    "polymarket": 37,
-    "attention": 11
+    "sondage": 44,
+    "polymarket": 40,
+    "attention": 13
    },
-   "score": 36,
+   "score": 37,
    "rangs": {
     "sondage": 3,
     "polymarket": 2
@@ -768,27 +783,27 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 11.7,
-    "d": 0.1
+    "v": 12,
+    "d": 0.4
    },
    "attention": {
-    "v": 68.3,
-    "d": 50.5,
+    "v": 77.6,
+    "d": 35.6,
     "parts": {
-     "Wikipedia": 49.3,
+     "Wikipedia": 46.7,
      "réseaux": 3.1,
      "citations": 32.8,
-     "abonnés": 1.5,
+     "abonnés": 1,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 4.3,
-    "d": 2.7,
-    "d24": 0.9,
-    "d30": 2.5,
-    "vol": 2667563,
-    "vol7": 479713,
+    "d": 2.2,
+    "d24": 0.1,
+    "d30": 2.8,
+    "vol": 2713251,
+    "vol7": 453372,
     "haut": 4.3,
     "bas": 0.9
    },
@@ -956,14 +971,194 @@
     ]
    },
    "composantes": {
-    "sondage": 33,
+    "sondage": 34,
     "polymarket": 9,
-    "attention": 68
+    "attention": 78
    },
-   "score": 33,
+   "score": 35,
    "rangs": {
     "sondage": 4,
     "polymarket": 5
+   }
+  },
+  {
+   "nom": "David Lisnard",
+   "wiki": "David_Lisnard",
+   "etiquette": "Nouvelle Énergie",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 68.3,
+    "d": 24,
+    "parts": {
+     "Wikipedia": 25.8,
+     "réseaux": 12.2,
+     "citations": 5.2,
+     "abonnés": 36.1,
+     "YouTube": 8.5
+    }
+   },
+   "polymarket": {
+    "v": 11.8,
+    "d": -2.3,
+    "d24": 0.1,
+    "d30": 5.5,
+    "vol": 5008681,
+    "vol7": 356231,
+    "haut": 14.5,
+    "bas": 5.1
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/david-lisnard/",
+    "phase": {
+     "note": "82 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (41 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 13,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "2 251 posts"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 919 366"
+     },
+     {
+      "rang": 10,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "3 074"
+     },
+     {
+      "rang": 9,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "122 822 306"
+     },
+     {
+      "rang": 20,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "332 344 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "3 juillet 2026 · Instagram",
+      "texte": "Les maires sont aujourd’hui obligés d’attribuer des logements sociaux à des familles de délinquants. Nous sommes donc le seul pays au monde à subventionner la délinquance. David…",
+      "chiffres": "115 374 j'aime · 5 759 commentaires · 0 partages · 3 283 051 vues",
+      "url": "https://instagram.com/p/DaU9i7bgaOs"
+     },
+     {
+      "quand": "15 septembre 2026 · Instagram",
+      "texte": "Décryptons le baratin techno-politicien",
+      "chiffres": "94 812 engagements",
+      "url": "https://www.instagram.com/p/DdUcT2uNbCm"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 348",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "232",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "15",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "146",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "1 969",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 241 politiques"
+     },
+     {
+      "valeur": "114",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 48 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Benedetti Arnaud",
+      "role": "Journaliste",
+      "posts": "33 posts"
+     },
+     {
+      "nom": "Yves Bourdillon",
+      "role": "Journaliste",
+      "posts": "17 posts"
+     },
+     {
+      "nom": "Infos Non Stop",
+      "role": "Journaliste",
+      "posts": "17 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 24,
+    "attention": 68
+   },
+   "score": 21,
+   "rangs": {
+    "polymarket": 3
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 89.5,
+    "d": 11,
+    "parts": {
+     "abonnés": 16.8,
+     "YouTube": 28.5
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": 0,
+    "d24": null,
+    "d30": null,
+    "vol": 2675649,
+    "vol7": 149443,
+    "haut": 1.1,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 90
+   },
+   "score": 19,
+   "rangs": {
+    "polymarket": 8
    }
   },
   {
@@ -975,27 +1170,27 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 9.5,
-    "d": -1.2
+    "v": 10.1,
+    "d": -0.5
    },
    "attention": {
-    "v": 13.6,
-    "d": -5.7,
+    "v": 15.1,
+    "d": -8.6,
     "parts": {
-     "Wikipedia": 3.6,
+     "Wikipedia": 2.8,
      "réseaux": 2.6,
      "citations": 8.4,
-     "abonnés": 1,
+     "abonnés": 0.7,
      "YouTube": 0.6
     }
    },
    "polymarket": {
-    "v": 1.8,
-    "d": -0.6,
-    "d24": null,
-    "d30": -0.5,
-    "vol": 3078659,
-    "vol7": 187427,
+    "v": 1.1,
+    "d": -0.9,
+    "d24": -0.6,
+    "d30": -1.1,
+    "vol": 3121775,
+    "vol7": 193907,
     "haut": 3,
     "bas": 1.1
    },
@@ -1163,154 +1358,14 @@
     ]
    },
    "composantes": {
-    "sondage": 27,
-    "polymarket": 4,
-    "attention": 14
+    "sondage": 29,
+    "polymarket": 2,
+    "attention": 15
    },
    "score": 18,
    "rangs": {
     "sondage": 5,
     "polymarket": 7
-   }
-  },
-  {
-   "nom": "David Lisnard",
-   "wiki": "David_Lisnard",
-   "etiquette": "Nouvelle Énergie",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 51.4,
-    "d": 11,
-    "parts": {
-     "Wikipedia": 18.5,
-     "réseaux": 12.2,
-     "citations": 5.2,
-     "abonnés": 31.3,
-     "YouTube": 11.1
-    }
-   },
-   "polymarket": {
-    "v": 11.7,
-    "d": -2.9,
-    "d24": 0.1,
-    "d30": 3.9,
-    "vol": 4956913,
-    "vol7": 475058,
-    "haut": 14.5,
-    "bas": 5.1
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/david-lisnard/",
-    "phase": {
-     "note": "82 %",
-     "libelle": "en phase · Proche",
-     "texte": "Ses publications parlent d'abord d'économie et finances (41 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 13,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "2 251 posts"
-     },
-     {
-      "rang": 9,
-      "libelle": "sur 34 en engagement",
-      "valeur": "6 919 366"
-     },
-     {
-      "rang": 10,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "3 074"
-     },
-     {
-      "rang": 9,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "122 822 306"
-     },
-     {
-      "rang": 20,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "332 344 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "3 juillet 2026 · Instagram",
-      "texte": "Les maires sont aujourd’hui obligés d’attribuer des logements sociaux à des familles de délinquants. Nous sommes donc le seul pays au monde à subventionner la délinquance. David…",
-      "chiffres": "115 374 j'aime · 5 759 commentaires · 0 partages · 3 283 051 vues",
-      "url": "https://instagram.com/p/DaU9i7bgaOs"
-     },
-     {
-      "quand": "15 septembre 2026 · Instagram",
-      "texte": "Décryptons le baratin techno-politicien",
-      "chiffres": "94 812 engagements",
-      "url": "https://www.instagram.com/p/DdUcT2uNbCm"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "1 348",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "232",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "15",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "146",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "1 969",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 241 politiques"
-     },
-     {
-      "valeur": "114",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 48 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Benedetti Arnaud",
-      "role": "Journaliste",
-      "posts": "33 posts"
-     },
-     {
-      "nom": "Yves Bourdillon",
-      "role": "Journaliste",
-      "posts": "17 posts"
-     },
-     {
-      "nom": "Infos Non Stop",
-      "role": "Journaliste",
-      "posts": "17 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 24,
-    "attention": 51
-   },
-   "score": 17,
-   "rangs": {
-    "polymarket": 3
    }
   },
   {
@@ -1322,31 +1377,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 7.9,
-    "d": -0.1
+    "v": 8.2,
+    "d": 0.2
    },
    "attention": {
-    "v": 7.9,
-    "d": -6,
+    "v": 10.3,
+    "d": -5.8,
     "parts": {
-     "Wikipedia": 2,
+     "Wikipedia": 2.9,
      "réseaux": 1.7,
      "citations": 4.9,
-     "abonnés": 0.5,
+     "abonnés": 0.9,
      "YouTube": 0.2
     }
    },
    "polymarket": {
     "v": 0.8,
-    "d": -0.5,
+    "d": -0.3,
     "d24": null,
     "d30": -0.7,
-    "vol": 2976834,
-    "vol7": 228146,
+    "vol": 3016763,
+    "vol7": 247258,
     "haut": 1.9,
     "bas": 0.8
    },
    "declarations": [
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
+     "contexte": "candidat à la présidentielle",
+     "texte": "Avant l'allocution, il demandait l'état d'urgence « sans délai » et un couvre-feu.",
+     "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
+     "source": "Public Sénat",
+     "date": "2026-10-19",
+     "rubrique": "politique",
+     "sujet": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
+     "href": "/politique/2026-10-19/1"
+    },
     {
      "fond": "#e6ecff",
      "couleur": "#1d4ed8",
@@ -1376,7 +1445,7 @@
      "href": "/politique/2026-10-15/2"
     }
    ],
-   "nbDeclarations": 2,
+   "nbDeclarations": 3,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {
@@ -1484,7 +1553,7 @@
    "composantes": {
     "sondage": 23,
     "polymarket": 2,
-    "attention": 8
+    "attention": 10
    },
    "score": 14,
    "rangs": {
@@ -1501,29 +1570,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 6.6,
-    "d": -1.6
+    "v": 7.1,
+    "d": -1.2
    },
    "attention": {
-    "v": 5.6,
-    "d": -1.7,
+    "v": 6.3,
+    "d": -1.9,
     "parts": {
-     "Wikipedia": 1.6,
      "réseaux": 1.3,
      "citations": 2.7,
-     "abonnés": 1.3,
+     "abonnés": 0.9,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 2.2,
-    "d": -1,
-    "d24": 0.2,
-    "d30": -2.8,
-    "vol": 2525650,
-    "vol7": 180176,
+    "v": 1.6,
+    "d": -1.8,
+    "d24": -0.7,
+    "d30": -3.7,
+    "vol": 2572553,
+    "vol7": 190217,
     "haut": 6.3,
-    "bas": 1.7
+    "bas": 1.5
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1632,8 +1700,8 @@
     ]
    },
    "composantes": {
-    "sondage": 19,
-    "polymarket": 5,
+    "sondage": 20,
+    "polymarket": 3,
     "attention": 6
    },
    "score": 12,
@@ -1651,28 +1719,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 4.3,
+    "v": 4.2,
     "d": 0.7
    },
    "attention": {
-    "v": 18.4,
-    "d": 8.2,
+    "v": 25.7,
+    "d": 4.8,
     "parts": {
-     "Wikipedia": 3,
+     "Wikipedia": 4.3,
      "réseaux": 5,
      "citations": 2.6,
-     "abonnés": 1.8,
-     "YouTube": 21.6
+     "abonnés": 3.9,
+     "YouTube": 25.5
     }
    },
    "polymarket": {
     "v": 0.7,
-    "d": 0.1,
-    "d24": 0.2,
-    "d30": -0.9,
-    "vol": 2971347,
-    "vol7": 151163,
-    "haut": 1.6,
+    "d": 0.3,
+    "d24": null,
+    "d30": -0.5,
+    "vol": 3079346,
+    "vol7": 238236,
+    "haut": 1.4,
     "bas": 0.4
    },
    "declarations": [],
@@ -1784,53 +1852,12 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 1,
-    "attention": 18
+    "attention": 26
    },
-   "score": 10,
+   "score": 12,
    "rangs": {
     "sondage": 8,
     "polymarket": 10
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 43,
-    "d": -42,
-    "parts": {
-     "Wikipedia": 6.9,
-     "abonnés": 10.7,
-     "YouTube": 24.5
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": -0.1,
-    "d24": null,
-    "d30": -0.2,
-    "vol": 2630004,
-    "vol7": 135104,
-    "haut": 1.1,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 43
-   },
-   "score": 9,
-   "rangs": {
-    "polymarket": 8
    }
   },
   {
@@ -1842,31 +1869,45 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 3.2,
-    "d": -0.1
+    "v": 3.4,
+    "d": 0
    },
    "attention": {
-    "v": 5.5,
-    "d": 0.8,
+    "v": 7.2,
+    "d": 1.7,
     "parts": {
-     "Wikipedia": 1.7,
+     "Wikipedia": 2.3,
      "réseaux": 2.5,
      "citations": 1.5,
-     "abonnés": 0.5,
+     "abonnés": 0.9,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": 0.1,
-    "d30": null,
-    "vol": 4603277,
-    "vol7": 128034,
+    "d24": -0.1,
+    "d30": -0.1,
+    "vol": 4614997,
+    "vol7": 106583,
     "haut": null,
     "bas": null
    },
    "declarations": [
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
+     "texte": "« Il n'y a pas d'autre issue à cette journée du 17 octobre que sa démission »",
+     "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+     "source": "LCP",
+     "date": "2026-10-19",
+     "rubrique": "politique",
+     "sujet": "17 octobre : bilans en hausse, appels à la démission de Laurent Nuñez",
+     "href": "/politique/2026-10-19/2"
+    },
     {
      "fond": "#e2f7e9",
      "couleur": "#1f9d55",
@@ -1936,23 +1977,9 @@
      "rubrique": "politique",
      "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
      "href": "/politique/2026-10-08/2"
-    },
-    {
-     "fond": "#e2f7e9",
-     "couleur": "#1f9d55",
-     "parti": "ÉCOLOGISTES",
-     "qui": "Marine Tondelier",
-     "contexte": "candidate écologiste à la présidentielle",
-     "texte": "Elle qualifie de « une faute politique grave » l'absence, selon elle, de consigne de retenue du ministre de l'Intérieur aux policiers.",
-     "url": "https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de",
-     "source": "LCP",
-     "date": "2026-10-06",
-     "rubrique": "politique",
-     "sujet": "Lycées : un lycéen de 15 ans a la main arrachée par une grenade à Lens",
-     "href": "/politique/2026-10-06/1"
     }
    ],
-   "nbDeclarations": 7,
+   "nbDeclarations": 8,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -2058,9 +2085,9 @@
     ]
    },
    "composantes": {
-    "sondage": 9,
+    "sondage": 10,
     "polymarket": 0,
-    "attention": 6
+    "attention": 7
    },
    "score": 6,
    "rangs": {
@@ -2078,16 +2105,16 @@
    "source_statut": null,
    "sondage": {
     "v": 2.2,
-    "d": -0.4
+    "d": -0.3
    },
    "attention": {
-    "v": 2.6,
-    "d": -1.5,
+    "v": 3.1,
+    "d": -1.4,
     "parts": {
-     "Wikipedia": 0.4,
+     "Wikipedia": 0.6,
      "réseaux": 1.3,
      "citations": 0.7,
-     "abonnés": 0.6,
+     "abonnés": 0.5,
      "YouTube": 0
     }
    },
@@ -2271,23 +2298,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 4.2,
-    "d": -0.4,
+    "v": 5.2,
+    "d": -0.1,
     "parts": {
-     "Wikipedia": 1.3,
+     "Wikipedia": 1.8,
      "réseaux": 1.9,
      "citations": 1,
-     "abonnés": 0.1,
-     "YouTube": 0.9
+     "abonnés": 0,
+     "YouTube": 0.7
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": null,
+    "d24": -0.1,
     "d30": -0.1,
-    "vol": 4834302,
-    "vol7": 166030,
+    "vol": 4841638,
+    "vol7": 120381,
     "haut": null,
     "bas": null
    },
@@ -2400,7 +2427,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 4
+    "attention": 5
    },
    "score": 1,
    "rangs": {
@@ -2417,23 +2444,22 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 2.9,
-    "d": -4.1,
+    "v": 3.1,
+    "d": -2.6,
     "parts": {
-     "Wikipedia": 1.2,
      "réseaux": 1,
      "citations": 0.4,
-     "abonnés": 1.1,
+     "abonnés": 1.3,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.6,
-    "d24": -0.1,
-    "d30": -0.3,
-    "vol": 2605637,
-    "vol7": 143957,
+    "v": 0.5,
+    "d": -0.3,
+    "d24": 0.1,
+    "d30": -0.1,
+    "vol": 2647966,
+    "vol7": 161379,
     "haut": 1.2,
     "bas": 0.2
    },
@@ -2578,10 +2604,10 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 0.3,
-    "d": -0.8,
+    "v": 0.4,
+    "d": -0.9,
     "parts": {
-     "Wikipedia": 0.3,
+     "Wikipedia": 0.4,
      "réseaux": 0.1,
      "citations": 0,
      "abonnés": 0,
@@ -2591,10 +2617,10 @@
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": 0.1,
-    "d30": null,
-    "vol": 6163295,
-    "vol7": 8532,
+    "d24": -0.1,
+    "d30": -0.1,
+    "vol": 6180903,
+    "vol7": 26141,
     "haut": null,
     "bas": null
    },
@@ -3191,6 +3217,43 @@
     "Bruno Retailleau": 0.8,
     "Éric Zemmour": 0.7,
     "Dominique de Villepin": 0.4,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 89.5,
+    "Raphaël Glucksmann": 77.6,
+    "David Lisnard": 68.3,
+    "Marine Le Pen": 60.6,
+    "Éric Zemmour": 25.7,
+    "Gabriel Attal": 15.1,
+    "Édouard Philippe": 13.4,
+    "Bruno Retailleau": 10.3,
+    "Marine Tondelier": 7.2,
+    "François Hollande": 6.3,
+    "François Ruffin": 5.2,
+    "Dominique de Villepin": 3.1,
+    "Fabien Roussel": 3.1,
+    "Xavier Bertrand": 0.4
+   },
+   "polymarket": {
+    "Marine Le Pen": 48.2,
+    "Édouard Philippe": 19.5,
+    "David Lisnard": 11.8,
+    "Jean-Luc Mélenchon": 9.5,
+    "Raphaël Glucksmann": 4.3,
+    "François Hollande": 1.6,
+    "Gabriel Attal": 1.1,
+    "Sarah Knafo": 0.9,
+    "Bruno Retailleau": 0.8,
+    "Éric Zemmour": 0.7,
+    "Dominique de Villepin": 0.5,
     "Xavier Bertrand": 0.1,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,

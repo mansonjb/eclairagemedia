@@ -1,5 +1,205 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-19",
+  "url": "/podcasts/politique-2026-10-19.mp3",
+  "taille": 3275173,
+  "duree": 273,
+  "titre": "Éclairage politique, lundi 19 octobre 2026",
+  "titre_episode": "Allocution de Macron, bilans du 17 octobre, commission d'enquête, Ferrand : l'essentiel du lundi 19 octobre",
+  "description": "Ce lundi 19 octobre, Léa et Paul reprennent 4 sujets.\n• Allocution de Macron : pas d'état d'urgence, les préfets décideront, avec les maires, des mesures pour protéger villes et commerces.\n• Bilans du 17 octobre : plus de 2 000 interpellations selon le ministre de l'Intérieur, des chiffres provisoires et des appels à la démission de Laurent Nuñez.\n• Parlement : commission d'enquête et débat demandés au Sénat, réunion des présidents de groupe à l'Assemblée mardi.\n• Conseil constitutionnel : le RN et l'UDR demandent la démission d'office de Richard Ferrand, et ce que disent les articles 11 et 89 de la Constitution.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Allocution de Macron : pas d'état d'urgence, les préfets décideront"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "17 octobre : bilans en hausse, appels à la démission de Laurent Nuñez"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Violences du 17 octobre : le Parlement envisage une commission d'enquête"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Conseil constitutionnel : le RN et l'UDR visent Richard Ferrand"
+   },
+   {
+    "rubrique": "politique",
+    "n": 5,
+    "titre": "Budget de l'UE 2028-2034 : le montant divise les Vingt-Sept"
+   },
+   {
+    "rubrique": "politique",
+    "n": 6,
+    "titre": "Ukraine : l'UE réaffirme son soutien après la dispute Trump-Zelensky"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, ici Léa. Bienvenue dans Éclairage politique, pour ce lundi dix-neuf octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, Paul. Au programme, l'allocution d'Emmanuel Macron après les violences de samedi, les bilans qui grimpent, le Parlement qui veut enquêter, et une bataille autour du Conseil constitutionnel."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par dimanche soir. Vingt heures, le président s'adresse aux Français depuis l'Élysée. Qu'a-t-il dit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a parlé pendant huit minutes quarante. Il a attribué les violences à des factieux issus de groupuscules d'ultragauche, rejoints par de nombreux délinquants. Et cette phrase : rien ne le justifie, rien ne l'explique, rien ne l'excuse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur l'état d'urgence, que la droite réclamait ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas d'état d'urgence. Le président a choisi une autre méthode : les préfets prendront les décisions, en lien avec les maires, pour protéger villes, bâtiments publics et commerces. Ils pourront aller jusqu'à interdire certains rassemblements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, c'est le niveau local qui décide."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et pour comprendre l'enjeu, Public Sénat rappelle que l'état d'urgence élargit les pouvoirs de police administrative. Mais le droit commun permet déjà d'interdire une manifestation qui menace l'ordre public."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les commerçants touchés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre, Sébastien Lecornu, préside une cellule de crise ce lundi pour mobiliser des aides. Le président a aussi demandé au ministre de l'Intérieur de tirer toutes les leçons en matière de renseignement et d'anticipation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenons l'essentiel : pas d'état d'urgence, les préfets aux commandes, et une promesse de transparence."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Et justement, parlons des chiffres, parce qu'ils ont beaucoup bougé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Samedi soir, on parlait de mille deux cents interpellations. Et maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dimanche, le ministre de l'Intérieur, Laurent Nuñez, a annoncé plus de deux mille interpellations. Côté blessés, le bilan du ministère dimanche soir compte neuf cent quatre-vingt-dix-sept policiers et gendarmes blessés, dont sept grièvement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, neuf cent quatre-vingt-dix-sept ? Samedi soir, le Premier ministre en citait cent cinquante."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, et les sources ne détaillent pas l'écart. Les bilans diffèrent selon le moment et les personnes comptées. Ce sont des chiffres provisoires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les commerçants ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La Fédération du commerce et de la distribution estime que mille cinq cents commerçants ont été touchés directement. Pour la facture, son président parle de plusieurs centaines de millions d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et politiquement ? Laurent Nuñez est dans le viseur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des appels à sa démission viennent de la gauche et du Rassemblement national. Marine Tondelier, des élus de La France insoumise, et du côté du RN, Laurent Jacobelli, qui le juge incompétent pour gérer le chaos."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais pas pour les mêmes raisons ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. À gauche, on critique un dispositif jugé inadapté et des violences contre des manifestants pacifiques. Au RN, on met en cause une incapacité à faire face aux débordements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : le Parlement. Qui veut quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Au Sénat, le groupe socialiste de Patrick Kanner demande un débat au titre de l'article cinquante-un. Les Écologistes veulent demander immédiatement une commission d'enquête. La sénatrice Les Républicains Catherine Dumas dit : pourquoi pas une commission d'enquête, et en tout cas une parole forte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté du Rassemblement national ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Edwige Diaz, présidente du groupe au Sénat, estime qu'on n'a pas besoin d'une commission d'enquête, qu'on sait pourquoi on est là."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à l'Assemblée ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La présidente, Yaël Braun-Pivet, va proposer une commission d'enquête. Elle réunit mardi matin les présidents de groupe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelle-nous comment ça marche, une commission d'enquête."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le Sénat, c'est une instance temporaire, dotée de pouvoirs d'investigation, pour contrôler l'action du Gouvernement. Elle dépose son rapport dans un délai maximum de six mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatrième sujet. Le Conseil constitutionnel, et son président, Richard Ferrand."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans un podcast diffusé le neuf octobre, il a estimé qu'on ne peut pas réformer la Constitution par l'article onze, comme le propose Marine Le Pen par référendum. Il a dit : n'est pas de Gaulle qui veut."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le RN a répondu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi seize octobre, les parlementaires du RN et de l'UDR ont saisi le Conseil pour demander la démission d'office de son président. Ils invoquent le principe d'impartialité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que dit le Conseil ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il confirme avoir reçu la saisine, sans autre commentaire. Les juristes sont partagés : franceinfo les décrit sceptiques sur le fondement de la démarche, et pour Public Sénat, certains estiment que Richard Ferrand a pris parti sur une question non tranchée, d'autres y voient une tentative de déstabiliser l'institution."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc à retenir : l'article onze et l'article quatre-vingt-neuf, deux routes pour réformer la Constitution, et un désaccord entre juristes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. La suite dépend de ce que décidera le Conseil."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce lundi. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-18",
   "url": "/podcasts/essentiel-2026-10-18.mp3",
