@@ -430,3 +430,430 @@ Selon l'Insee, les 119 300 entreprises créées en France en septembre constitue
 Réponse : vrai. Vrai : l'Insee compte 119 307 créations en septembre (données corrigées des variations saisonnières), un niveau jamais atteint depuis le début de la série en 2000.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+lundi 19 octobre 2026 · 10 min de lecture
+
+1. Col de l'utérus : le robot réduit les incidents pendant l'opération
+
+CHIRURGIE
+
+900 : patientes atteintes d'un cancer du col de l'utérus débutant
+
+5,7 % : contre 10,0 % : incidents pendant l'opération, robot contre chirurgie ouverte
+
+33,4 % : contre 34,8 % : complications à 30 jours
+
+Ce qui s'est passé
+
+Le 7 octobre 2026, la revue JAMA Surgery a publié en ligne une analyse de l'essai randomisé RACC, coordonné par l'hôpital universitaire Karolinska à Stockholm, avec Sahar Salehi (Karolinska Institutet) comme première autrice. L'essai a comparé, chez 900 patientes atteintes d'un cancer du col de l'utérus à un stade précoce, l'ablation de l'utérus et des tissus voisins (hystérectomie radicale) par robot et par chirurgie ouverte, entre 2019 et 2025. Pendant l'opération, des incidents sont survenus chez 5,7 % des patientes opérées au robot (24 sur 419) et 10,0 % des patientes opérées en chirurgie ouverte (39 sur 390), surtout des incidents peu graves. Dans les 30 jours suivants, les complications concernaient 33,4 % et 34,8 % des patientes, un écart non significatif. Le séjour médian était de 3 jours contre 5, la perte de sang médiane de 75 mL contre 250 mL, mais l'opération durait plus longtemps au robot (237 contre 209 minutes). Il s'agit d'une analyse secondaire : le critère principal, la survie sans récidive, est encore suivi et sera publié séparément.
+
+L'éclairage
+
+Ce que prouve une analyse secondaire
+
+Le col de l'utérus est la partie basse de l'utérus. Quand le cancer est découvert tôt, l'hystérectomie radicale retire l'utérus et les tissus voisins ; elle peut se faire par une grande incision (chirurgie ouverte) ou par de petites incisions avec un robot que le chirurgien pilote à distance. Ici, l'essai est randomisé : le hasard a décidé de la technique, ce qui rend la comparaison solide. Mais les résultats présentés sont des critères secondaires, non conçus pour trancher. La question centrale, savoir si le cancer récidive autant avec l'une ou l'autre technique, reste ouverte, et les auteurs précisent que ces résultats ne doivent pas servir à juger la sécurité sur le plan du cancer. Moins d'incidents pendant l'opération ne veut pas dire de meilleurs résultats ensuite.
+
+Ce qu'ils en disent
+
+« We saw fewer complications during the robotic operation itself, but they were mainly less serious. »
+Sahar Salehi (Auteurs), Karolinska Institutet, première autrice
+
+« Oncologic outcome remains the primary determinant of surgical approach in early-stage cervical cancer. »
+Sahar Salehi (Auteurs), Karolinska Institutet, première autrice
+
+Ce qui change
+
+Pour les patientes concernées, l'étude montre moins d'incidents pendant l'opération et un séjour plus court avec le robot, sans différence nette de complications à 30 jours.
+
+Et après
+
+Les résultats sur la survie sans récidive, qui décideront de la place du robot, doivent être publiés séparément ; aucune date n'est donnée dans les sources consultées.
+
+Sources : JAMA Surgery (DOI) · Medical Xpress · CancerNetwork
+
+2. Pancréas : avis favorable de l'EMA pour le daraxonrasib
+
+TRAITEMENT
+
+13,2 : mois de survie médiane contre 6,7 sous chimiothérapie
+
+0,40 : rapport de risque de décès (IC 95 % : 0,30 à 0,53)
+
+500 : patients, 59 centres, essai de phase 3
+
+Ce qui s'est passé
+
+Le 15 octobre 2026, le comité des médicaments humains (CHMP) de l'Agence européenne des médicaments a émis un avis positif recommandant l'autorisation du daraxonrasib (nom commercial Rasonque), en monothérapie, chez les adultes atteints d'un adénocarcinome du pancréas métastatique ayant reçu au moins un traitement antérieur. L'avis s'appuie sur l'essai de phase 3 RASolute 302, en ouvert, qui a réparti 500 patients entre le daraxonrasib (300 mg par jour, par voie orale) et une chimiothérapie au choix de l'investigateur. Selon OncLive, la survie globale médiane est de 13,2 mois contre 6,7 mois, et la réponse tumorale confirmée de 31,6 % contre 11,2 %. Les effets indésirables de grade 3 ou plus ont concerné 43,6 % des patients sous daraxonrasib contre 57,5 % sous chimiothérapie ; l'éruption cutanée (85 %), la diarrhée (58 %) et l'inflammation de la bouche (53 %) sont les effets les plus fréquents, et un décès par pneumopathie est jugé lié au traitement. Il s'agit d'un avis du comité, pas d'une autorisation : la Commission européenne doit encore décider.
+
+L'éclairage
+
+Avis du comité, autorisation, remboursement : trois étapes
+
+Le pancréas est un organe situé derrière l'estomac ; quand son cancer est métastatique, les traitements sont limités. Le daraxonrasib cible la famille de protéines RAS, dont les mutations sont très fréquentes dans ce cancer et poussent les cellules à se multiplier. Un essai en ouvert signifie que patients et médecins savent qui reçoit quoi, ce qui peut influencer certaines mesures, mais la survie est difficile à biaiser. Un écart de 13,2 contre 6,7 mois est important, mais il décrit la médiane du groupe, pas ce que vivra chaque patient. Les chiffres viennent ici de la presse spécialisée et du fabricant : l'article scientifique correspondant n'est pas cité dans les sources consultées. Un avis du CHMP n'est ni une autorisation de mise sur le marché ni un remboursement. Le fabricant annonce l'avis positif du CHMP et attribue à l'essai RASolute 302 une réduction de 60 % du risque de décès par rapport à la chimiothérapie. Données de l'entreprise, non relues ici par un tiers.
+
+Ce qu'ils en disent
+
+« received a positive opinion from the CHMP for the treatment of adults with metastatic pancreatic adenocarcinoma »
+EMA (CHMP) (Autorité de santé), agence européenne des médicaments
+
+« this is not a magic bullet. It's not a cure. »
+Alok Khorana (Expert indépendant), médecin, cité par OncLive
+
+Le fabricant annonce l'avis positif du CHMP et attribue à l'essai RASolute 302 une réduction de 60 % du risque de décès par rapport à la chimiothérapie. Données de l'entreprise, non relues ici par un tiers.
+Revolution Medicines (Industrie), développeur du daraxonrasib
+
+Ce qui change
+
+Pour les personnes atteintes de ce cancer, un nouveau traitement oral pourrait devenir disponible en Europe, selon la décision de la Commission européenne ; ce n'est pas encore le cas. Le choix d'un traitement se fait avec l'équipe d'oncologie.
+
+Et après
+
+La Commission européenne doit décider de l'autorisation, valable pour l'Union européenne, l'Islande, la Norvège et le Liechtenstein. Selon OncLive, l'essai RASolute 303 évalue aussi le médicament en première ligne.
+
+Sources : EMA (CHMP) · OncLive · Revolution Medicines
+
+3. Ovaire : un vaccin personnalisé testé chez 10 patientes (phase 1)
+
+CANCER
+
+10 : patientes vaccinées sur 22 présélectionnées
+
+8/10 : patientes avec une réaction immunitaire (IFN-γ)
+
+59 % : des 144 peptides du vaccin ont déclenché une réponse
+
+Ce qui s'est passé
+
+Le 14 octobre 2026, la revue Nature Medicine a publié en ligne un essai de phase 1 mené autour de Panagiotis Konstantinopoulos (Dana-Farber Cancer Institute, Boston). Il testait, contre le cancer de l'ovaire, un vaccin personnalisé fabriqué à partir de mutations propres à chaque tumeur (quatre mélanges de peptides synthétiques avec un adjuvant), suivi d'un traitement d'immunothérapie, le nivolumab. Sur 22 patientes présélectionnées, 12 ont accepté le traitement et 10 ont été vaccinées, 9 d'entre elles recevant toutes les doses prévues ; les critères principaux étaient la faisabilité et la sécurité. Selon CancerNetwork, aucune patiente n'a arrêté le traitement pour cause de toxicité, des effets de grade 3 ont touché une patiente (réaction allergique) et une autre (neutropénie), et la survie sans progression médiane est de 3,3 mois, avec une grande variabilité. Une réaction immunitaire a été mesurée chez 8 patientes sur 10.
+
+L'éclairage
+
+Une phase 1 ne dit pas si le vaccin protège
+
+Un vaccin personnalisé contre le cancer n'a pas pour but d'éviter la maladie : il apprend au système immunitaire à reconnaître des néoantigènes, des marqueurs propres à la tumeur d'une patiente. Le nivolumab lève un frein des lymphocytes T pour qu'ils attaquent plus fort. Un essai de phase 1 sert d'abord à vérifier qu'un traitement est réalisable et sûr, avec très peu de patientes. Il ne compare pas à un groupe témoin : on ne peut donc pas dire s'il ralentit la maladie. Une réaction immunitaire mesurée en laboratoire n'est pas non plus un bénéfice pour la patiente. Les auteurs relèvent que la perte de molécules de présentation (HLA) dans certaines tumeurs explique une partie des échecs.
+
+Ce qu'ils en disent
+
+« introducing [personalized neoantigen-targeting cancer vaccines] with first-line treatment »
+Équipe de l'étude (Auteurs), dont Panagiotis Konstantinopoulos, Dana-Farber
+
+Ce qui change
+
+Rien pour les patientes aujourd'hui : cette étape établit seulement que l'approche est réalisable et sans signal de sécurité inattendu chez un petit groupe. Toute question de traitement relève de l'équipe d'oncologie.
+
+Et après
+
+Les auteurs suggèrent d'introduire ces vaccins dès le traitement de première ligne et de viser les maladies de faible volume ; il faudrait des essais plus grands, comparatifs, avant toute autorisation.
+
+Sources : Nature Medicine · CancerNetwork · ClinicalTrials.gov
+
+À venir
+
+- UE date nc : Commission européenne : décision attendue sur l'autorisation de Rasonque (daraxonrasib), après l'avis du CHMP ; aucune date n'est précisée dans les sources consultées.
+
+Les mots du jour
+
+Analyse secondaire
+Un résultat qu'une étude avait prévu de mesurer en plus de son critère principal ; il éclaire mais ne tranche pas la question centrale.
+Essai de phase 1
+La première étape de test d'un traitement chez l'humain, sur peu de personnes : on vérifie surtout qu'il est réalisable et sûr, pas qu'il marche.
+Avis du CHMP
+La recommandation du comité scientifique de l'Agence européenne des médicaments ; l'autorisation est ensuite décidée par la Commission européenne.
+Néoantigène
+Un marqueur né d'une mutation propre à la tumeur d'une personne, que le système immunitaire peut apprendre à reconnaître.
+
+Vrai ou faux ?
+
+Dans l'essai RACC, les complications dans les 30 jours suivant l'opération étaient nettement moins fréquentes avec le robot qu'avec la chirurgie ouverte.
+
+Réponse : faux. Faux. À 30 jours, 33,4 % des patientes opérées au robot et 34,8 % de celles opérées en chirurgie ouverte avaient eu une complication, un écart non significatif (intervalle de confiance de −7,9 à 5,2 points). La différence observée concernait les incidents pendant l'opération : 5,7 % contre 10,0 %.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+lundi 19 octobre 2026 · 5 min de lecture
+
+1. Hermione : l'association doit réunir 2,2 millions d'ici le 14 avril
+
+ÉCONOMIE
+
+2,2 M€ : à réunir avant le 14 avril 2027
+
+6 mois : de période d'observation en plus
+
+19 M€ : de subventions depuis la création
+
+Ce qui s'est passé
+
+Le 1er octobre 2026, le tribunal judiciaire de La Rochelle a accordé à l'association Hermione-La Fayette une troisième période d'observation de six mois, à compter du 18 septembre 2026. L'association est en redressement judiciaire depuis septembre 2025. Le tribunal a rejeté les deux offres de reprise restantes, celle de Tugdual et Kenan Jaouen et celle de Christophe Degnéro, et a pris acte du retrait de l'offre du Centre international de la mer de Rochefort. Une audience le 14 avril 2027 doit trancher entre la poursuite du redressement et la liquidation. Le 16 octobre, lors d'une conférence de presse à Bordeaux, la présidente Emilie Beau a indiqué que l'association cherche 2,2 millions d'euros d'ici cette date : 1,5 million pour reprendre une tranche de travaux et 700 000 euros pour l'entretien courant. La frégate est en cale sèche à Anglet (Pyrénées-Atlantiques) depuis septembre 2021, après la découverte de champignons dans le bois de la coque. Les sources donnent des montants totaux différents : environ 5 millions d'euros restent à trouver pour terminer la coque, sur une restauration estimée à 10 millions.
+
+- Le redressement judiciaire est une procédure ouverte devant le tribunal quand une structure ne peut plus payer ses dettes. Pendant la période d'observation, l'activité continue et un plan de redressement est préparé.
+- Le tribunal décide : il peut adopter un plan, accepter une reprise ou prononcer la liquidation. Les collectivités ne tranchent pas, mais elles peuvent financer.
+- L'association a reçu 19 millions d'euros de subventions depuis sa création, un chiffre qu'ICI attribue à la chambre régionale des comptes de Nouvelle-Aquitaine.
+
+L'éclairage
+
+Que signifie « redressement judiciaire », et qui décide ?
+
+Ce qu'ils en disent
+
+Pour que le plan de redressement soit adopté, la présidente indique qu'il « faut lever 2,2 millions d'euros » et ajoute qu'« il y a urgence à reprendre les travaux ».
+Hermione-La Fayette (Emilie Beau, présidente) (Association)
+
+Le tribunal a pris acte du retrait de son offre de reprise, ce qui laisse l'association seule dans la procédure.
+Centre international de la mer (Corderie royale, Rochefort) (Acteur local)
+
+Il rejette les offres de reprise qui lui ont été soumises (« Le tribunal rejette par ailleurs les offres qui lui ont été soumises ») et fixe l'audience au 14 avril 2027.
+Tribunal judiciaire de La Rochelle (Justice)
+
+Ce qui change
+
+Le navire reste en cale sèche à Anglet et ne revient pas à Rochefort à court terme. Selon ICI, les visites continuent et l'association compte 10 salariés permanents et 18 saisonniers, dont l'emploi dépend de l'issue de la procédure.
+
+Et après
+
+Audience du 14 avril 2027 à La Rochelle. L'association vise la fin des travaux de coque en 2029.
+
+Sources : ICI, 17 octobre (avec AFP) · ICI, 1er octobre · Bateaux.com · AquitaineOnLine
+
+À venir
+
+- 20 oct. : La Rochelle : début des animations des vacances d'automne, jusqu'au 30 octobre.
+- 22 oct. : La Rochelle : point d'écoute itinérant sur la santé mentale.
+- 19 nov. : Agglo : conseil communautaire (date prévisionnelle).
+- 10 déc. : Agglo : conseil communautaire (date prévisionnelle).
+
+Les mots du jour
+
+Redressement judiciaire
+Procédure devant le tribunal qui permet à une structure en difficulté de continuer son activité pendant qu'un plan est préparé.
+Période d'observation
+Le délai pendant lequel le tribunal examine la situation avant de choisir un plan, une reprise ou la liquidation.
+Liquidation judiciaire
+La fin de l'activité : les biens sont vendus pour payer les créanciers.
+
+Vrai ou faux ?
+
+Le tribunal de La Rochelle a prononcé la liquidation judiciaire de l'association Hermione-La Fayette le 1er octobre 2026.
+
+Réponse : faux. Faux : le 1er octobre 2026, le tribunal a accordé une dernière période d'observation de six mois. Une audience le 14 avril 2027 doit trancher entre poursuite du redressement et liquidation.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+lundi 19 octobre 2026 · 7 min de lecture
+
+1. Pommes de terre : la filière demande aux enseignes d'adapter leurs achats
+
+FILIÈRE
+
+-25 % : production 2026 vs record 2025
+
+37,9 t : rendement moyen par hectare
+
+45 mm : calibre minimal « frites » (50 avant)
+
+Ce qui s'est passé
+
+Le 13 octobre 2026, le CNIPT, l'interprofession de la pomme de terre, a demandé à la grande distribution de faire évoluer ses relations commerciales, ses cahiers des charges et ses pratiques d'agréage après une récolte marquée par l'été. Selon l'interprofession, les surfaces reculent de 10 % et le rendement moyen est de 37,9 tonnes par hectare, soit 7,5 de moins que la moyenne des dix dernières années, pour une production inférieure d'environ 2 millions de tonnes à celle de 2025. Le service statistique du ministère de l'Agriculture (Agreste) estimait au 15 septembre la récolte à 6,2 millions de tonnes, en baisse de 25 % sur le record de 2025, avec le rendement le plus faible depuis 1995. Le syndicat de producteurs UNPT table sur un recul de 25 à 30 %. Le CNIPT a aussi abaissé le 2 septembre le calibre minimal des pommes de terre de conservation portant l'allégation « frites », de 50 à 45 millimètres. Au 13 octobre, 60 % des surfaces destinées à l'industrie étaient arrachées, selon la presse spécialisée.
+
+L'éclairage
+
+Calibre, agréage : de quoi parle-t-on ?
+
+Le calibre est la taille d'un tubercule, mesurée en millimètres : les acheteurs fixent un minimum, plus bas cette année parce que les pommes de terre ont moins grossi. L'agréage est le contrôle que fait l'acheteur à la réception pour accepter ou refuser un lot. Quand les cahiers des charges des enseignes restent stricts, des tubercules sains mais petits peuvent être écartés. Le CNIPT précise que les exigences d'aptitude à la préparation de frites ne changent pas.
+
+Ce qu'ils en disent
+
+Elle juge que « Jouer collectif est indispensable pour assurer une juste valorisation de la récolte » et que « Toutes les enseignes ne se montrent pas aujourd'hui au même niveau d'engagement ».
+CNIPT (Filière / interprofession), interprofession de la pomme de terre
+
+Il décrit « L’ambiance générale est mauvaise, il y a eu beaucoup de casse cette année » et attend de la visibilité sur les prix « d’ici début novembre ».
+UNPT (Agriculteurs), syndicat des producteurs de pommes de terre
+
+Il estime la production à 6,2 millions de tonnes au 15 septembre et anticipe de fortes différences de rendement entre régions, notamment selon l'irrigation.
+Agreste (Pouvoirs publics), service statistique du ministère de l'Agriculture
+
+Ce qui change
+
+Moins de pommes de terre disponibles et plus de petits calibres : l'enjeu est de savoir qui supporte la perte de valeur, des producteurs aux distributeurs. Sans débouché satisfaisant en France, le CNIPT évoque l'export.
+
+Et après
+
+La visibilité sur les prix du marché libre est attendue d'ici début novembre, selon l'UNPT. Les arrachages se poursuivent.
+
+Sources : Terre-net · Réussir · dépêche AFP via L'Info Durable · Agreste (15 septembre)
+
+2. Engrais : la FNAB demande que le plan de 145 M€ aide aussi le bio
+
+AGRICULTURE
+
+145 M€ : enveloppe du plan (107 M€ de l'UE)
+
+50 €/t : aide sur les engrais azotés
+
+10-30 % : hausse des engrais organiques (FNAB)
+
+Ce qui s'est passé
+
+Le 1er octobre 2026, la Fédération nationale d'agriculture biologique (FNAB) a demandé que les producteurs bio puissent bénéficier du plan engrais de 145 millions d'euros, déclenché par la hausse des prix des engrais après la guerre au Moyen-Orient et le blocage du détroit d'Ormuz, par lequel transitait 30 % des engrais mondiaux. Le guichet, ouvert le 1er août et prolongé jusqu'à fin décembre, aide les achats d'engrais azotés simples faits entre le 1er juin et le 31 décembre 2026 : 50 euros par tonne, 70 pour les exploitations où les engrais pèsent plus de 10 % des charges, dans la limite de la moitié des tonnages de 2025 et avec un seuil de 350 euros. Sur l'enveloppe, 107 millions viennent de fonds d'urgence de l'Union européenne. La FNAB souligne que le dispositif ne concerne que les engrais de synthèse, ce qui exclut en pratique les fermes bio, et estime, à partir de données de l'Insee et de remontées de terrain, que les engrais organiques ont augmenté de 10 à 30 % en 2026 selon les régions et les produits. Elle demande que les achats depuis juin 2026 soient aidés et a écrit au ministère de l'Agriculture.
+
+L'éclairage
+
+Engrais de synthèse ou organiques ?
+
+Les engrais azotés de synthèse sont fabriqués par l'industrie, le plus souvent à partir de gaz naturel. Les engrais organiques viennent d'animaux ou de végétaux : fientes de volaille, fumier, sang ou lisier transformés. L'agriculture biologique n'autorise que les seconds. Selon la FNAB, la demande des agriculteurs conventionnels pour les engrais organiques, en hausse avec la crise, tire aussi leurs prix.
+
+Ce qu'ils en disent
+
+Elle dénonce un guichet qui cible « exclusivement les engrais azotés de synthèse » et affirme que « les chiffres confirment une hausse du prix des engrais organiques ».
+FNAB (Agriculteurs), fédération nationale d'agriculture biologique
+
+Il estime que « le dispositif actuel laisse de côté une partie des producteurs pourtant tout aussi impactés ».
+Olivier Chaloche (Agriculteurs), coprésident de la FNAB
+
+Ce qui change
+
+Pour une ferme bio, la facture de fertilisation augmente sans que l'aide actuelle s'applique. Pour les autres exploitations, l'aide couvre une partie de l'achat d'engrais azotés de synthèse jusqu'à fin décembre.
+
+Et après
+
+Le guichet reste ouvert jusqu'au 31 décembre 2026. Aucun critère d'éligibilité pour les engrais organiques n'existe à ce jour.
+
+Sources : dépêche AFP via Terre-net · L'Info Durable · Pleinchamp
+
+À venir
+
+- 1er nov. : Début novembre : visibilité attendue sur les prix de la pomme de terre du marché libre, selon l'UNPT.
+- 31 déc. : Fin du guichet du plan engrais de 145 M€.
+
+Les mots du jour
+
+Calibre
+La taille d'un fruit ou d'un tubercule, mesurée en millimètres, sur laquelle s'appuient les règles de commercialisation.
+Agréage
+Le contrôle de conformité d'un lot par l'acheteur à la réception.
+Interprofession
+Une organisation qui réunit les différents métiers d'une filière, des producteurs aux transformateurs et aux distributeurs.
+
+Vrai ou faux ?
+
+Le plan engrais de 145 millions d'euros aide aussi les achats d'engrais organiques des agriculteurs bio.
+
+Réponse : faux. Le guichet cible exclusivement les engrais azotés de synthèse, ce qui exclut en pratique les fermes bio, selon la FNAB.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+lundi 19 octobre 2026 · 11 min de lecture
+
+1. Anthropic : 5 % des actions engagées dans un fonds d'intérêt public
+
+IA
+
+5 % : des actions engagées, sous réserve d'approbation
+
++2 % : possibles par tranche de +50 % de valeur
+
+200 M$ : déjà engagés sur l'emploi, selon Anthropic
+
+Ce qui s'est passé
+
+Le 18 octobre, Anthropic a annoncé engager 5 % de ses actions dans un « Anthropic Public Benefit Fund », avec effet immédiat mais « subject to stockholder approval » (sous réserve de l'approbation des actionnaires). Son conseil d'administration pourra y ajouter 2 % supplémentaires à chaque hausse de 50 % de la valeur de l'entreprise ; le seuil de départ n'est pas précisé et Anthropic dit qu'elle donnera les paliers « dans les mois à venir ». Le fonds est une entité détenue en totalité par l'entreprise, qui peut verser de gros dons à des associations ou des versements directs à des populations ciblées ; l'exemple cité est l'effet de l'IA sur le marché du travail, sujet sur lequel Anthropic a déjà engagé 200 millions de dollars. Les actions du fonds ne pourront servir ni au lobbying ni à des dons politiques, aux États-Unis comme à l'étranger. La gouvernance n'est pas décrite : Anthropic promet des précisions plus tard. Selon Al Jazeera, une introduction en Bourse de l'entreprise est attendue avant la fin de 2026 ; l'annonce d'Anthropic ne la mentionne pas.
+
+L'éclairage
+
+Pourquoi une entreprise met-elle des actions dans un fonds ?
+
+Une action est une part de propriété de l'entreprise ; en engager 5 % dans un fonds revient à réserver cette part à des usages d'intérêt général plutôt qu'aux actionnaires, une fois l'accord de ceux-ci obtenu. Anthropic explique que cette réserve remplace des attributions d'actions de type rémunération de dirigeants, très courantes dans la tech. Le fonds prend la forme d'une LLC (société à responsabilité limitée américaine), choisie par l'entreprise pour sa souplesse plutôt qu'une association reconnue d'utilité publique. Ce qui est établi : le montant promis (sous réserve) et l'interdiction du lobbying. Ce qui ne l'est pas : qui décidera des dons, à quel rythme, et la valeur exacte, qui dépend de la valeur de l'entreprise.
+
+Ce qu'ils en disent
+
+L'entreprise écrit que « bolder approaches may be needed » (des approches plus audacieuses peuvent être nécessaires) face à l'effet de l'IA sur l'emploi, et dit que le fonds aura la souplesse pour les mener.
+Anthropic (Entreprise), annonce du 18 octobre
+
+TechCrunch rattache l'annonce à une défiance croissante du public envers l'IA, que le PDG qualifie de crise de confiance. L'article ne cite aucun avis extérieur.
+Dario Amodei, PDG d'Anthropic (Entreprise), cité par TechCrunch
+
+Il dit voir « a lot of order intake for 2028 » (beaucoup de commandes pour 2028) mais aussi un intérêt pour des commandes dès 2029, parfois 2030. Le directeur financier, Roger Dassen, dit que la mise à niveau des machines existantes et la vente de versions plus rapides apporteront « a significant enhancement to our customers' capacity » (un gain notable de capacité pour les clients).
+Christophe Fouquet, PDG d'ASML (Entreprise), 14 octobre
+
+Un dirigeant d'ASML dit : « From factory to chip design to cloud computing, very little happens here » (de l'usine à la conception de puces et au cloud, très peu se passe ici). Silicon Republic précise qu'ASML n'a rien vendu à des clients européens au trimestre précédent et présente cela comme un signal d'alerte pour l'Europe.
+Frank Heemskerk, ASML (Entreprise), cité par Silicon Republic
+
+Ce qui change
+
+Pour un salarié ou un utilisateur, rien ne change à court terme : le fonds n'est pas encore structuré et aucun versement n'est annoncé. Pour le secteur, l'annonce ne se mesurera qu'aux actes : seuls les prochains mois diront ce que le fonds finance.
+
+Et après
+
+Selon Anthropic, les actionnaires doivent approuver l'engagement, et l'entreprise publiera dans les prochains mois la structure, la gouvernance et les paliers de valeur, ainsi qu'un rapport d'intérêt public.
+
+Sources : Anthropic · TechCrunch · Al Jazeera
+
+3. Mistral AI rachète New Material et crée une équipe Solutions Design
+
+TECH FRANÇAISE
+
+14/10 : annonce du rachat par Mistral AI
+
+4e : rachat connu de Mistral AI en 2026
+
+6 ans : d'existence du studio New Material
+
+Ce qui s'est passé
+
+Le 14 octobre, Mistral AI a annoncé le rachat de New Material, studio de conception de produits fondés sur l'IA, qui revendique six ans d'expérience dans l'automobile, la distribution, le droit et la santé. Son équipe formera une nouvelle unité, « Solutions Design », qui associera conception, ingénierie et IA pour travailler directement avec les clients des entreprises et des administrations, avec pour but de « creating a tight feedback loop between real-world deployment and Mistral's products » (créer une boucle de retour serrée entre le déploiement réel et les produits de Mistral). Le montant du rachat et le nombre de salariés concernés n'ont pas été communiqués. Selon FrenchWeb, c'est la quatrième acquisition connue de Mistral cette année, après Koyeb, Emmi AI et Pimento.
+
+L'éclairage
+
+Pourquoi un laboratoire d'IA rachète-t-il un studio de design ?
+
+Un modèle d'IA seul ne règle pas un problème d'entreprise : il faut une interface, des données branchées et des usages que les employés adoptent. C'est ce que recouvre le terme déploiement. En intégrant des concepteurs, Mistral cherche à raccourcir le chemin entre un modèle et un produit utilisable, et à faire remonter les retours des clients vers ses équipes de produit. Ce choix est une orientation commerciale annoncée par l'entreprise ; aucune donnée d'adoption ou de revenus ne l'accompagne. Mistral met aussi en avant des « solutions souveraines », c'est-à-dire pensées pour que des clients européens gardent la maîtrise de leurs outils, selon Dealroom.
+
+Ce qu'ils en disent
+
+Il dit : « Great design is critical to delivering powerful AI solutions » (un bon design est essentiel pour fournir des solutions d'IA puissantes).
+Zach Krasner, responsable du design chez Mistral (Entreprise), 14 octobre
+
+Il juge que « Embedding product thinking into deployment will accelerate our mission » (intégrer la réflexion produit au déploiement accélérera notre mission).
+Nicolas Schuhl, responsable de l'IA appliquée chez Mistral (Entreprise), 14 octobre
+
+Ce qui change
+
+Pour un utilisateur, rien ne change aujourd'hui : il s'agit d'une organisation interne.
+
+Et après
+
+Mistral n'a pas annoncé de calendrier pour Solutions Design. Les poids du modèle Mistral Large 4 sont annoncés pour le 27 octobre (voir À venir).
+
+Sources : New Material · FrenchWeb · Dealroom
+
+À venir
+
+- 23 oct. : Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva).
+- 27 oct. : Mistral AI : publication annoncée des poids du modèle Mistral Large 4, selon l'entreprise (Mistral AI).
+
+Les mots du jour
+
+Lithographie
+Étape de fabrication qui grave les circuits d'une puce sur une plaquette de silicium à l'aide de lumière.
+Capacité
+Quantité de production qu'une usine ou un fabricant peut assurer sur une période donnée.
+LLC
+Société à responsabilité limitée américaine (limited liability company).
+Norme harmonisée
+Norme européenne dont la référence est publiée au Journal officiel et qui peut faciliter la preuve de conformité à une loi ; son usage est volontaire.
+
+Vrai ou faux ?
+
+Selon ASML, son offre prévue pour 2027 et 2028 ne couvrira pas entièrement la demande de ses clients.
+
+Réponse : vrai. Vrai : dans son communiqué du 14 octobre, ASML écrit que son offre telle que prévue pour 2027 et 2028 ne répondra pas pleinement à la demande. C'est une déclaration de l'entreprise sur ses propres prévisions.
+
+Retrouvez cette édition sur eclairagemedia.com.

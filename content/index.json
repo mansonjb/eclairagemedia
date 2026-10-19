@@ -254,6 +254,342 @@
   }
  },
  {
+  "rubrique": "food",
+  "date": "2026-10-19",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "FILIÈRE",
+    "titre": "Pommes de terre : la filière demande aux enseignes d'adapter leurs achats",
+    "court": "Pommes de terre : appel aux enseignes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Potato_Harvester_near_Manor_Wold_Farm_-_geograph.org.uk_-_2106795.jpg/1280px-Potato_Harvester_near_Manor_Wold_Farm_-_geograph.org.uk_-_2106795.jpg",
+    "legende": "Une récolteuse de pommes de terre au travail, entourée de tracteurs et de remorques",
+    "chapeau": "Le 13 octobre 2026, le CNIPT, l'interprofession de la pomme de terre, a demandé à la grande distribution de faire évoluer ses relations commerciales, ses cahiers des charges et ses pratiques d'agréage après une récolte marquée par l'été.",
+    "eclairage": "Calibre, agréage : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "-25 %",
+      "legende": "production 2026 vs record 2025"
+     },
+     {
+      "valeur": "37,9 t",
+      "legende": "rendement moyen par hectare"
+     },
+     {
+      "valeur": "45 mm",
+      "legende": "calibre minimal « frites » (50 avant)"
+     }
+    ],
+    "passe": "Le 13 octobre 2026, le CNIPT, l'interprofession de la pomme de terre, a demandé à la grande distribution de faire évoluer ses relations commerciales, ses cahiers des charges et ses pratiques d'agréage après une récolte marquée par l'été. Selon l'interprofession, les surfaces reculent de 10 % et le rendement moyen est de 37,9 tonnes par hectare, soit 7,5 de moins que la moyenne des dix dernières années, pour une production inférieure d'environ 2 millions de tonnes à celle de 2025. Le service statistique du ministère de l'Agriculture (Agreste) estimait au 15 septembre la récolte à 6,2 millions de tonnes, en baisse de 25 % sur le record de 2025, avec le rendement le plus faible depuis 1995. Le syndicat de producteurs UNPT table sur un recul de 25 à 30 %. Le CNIPT a aussi abaissé le 2 septembre le calibre minimal des pommes de terre de conservation portant l'allégation « frites », de 50 à 45 millimètres. Au 13 octobre, 60 % des surfaces destinées à l'industrie étaient arrachées, selon la presse spécialisée.",
+    "points": [],
+    "explication": "Le calibre est la taille d'un tubercule, mesurée en millimètres : les acheteurs fixent un minimum, plus bas cette année parce que les pommes de terre ont moins grossi. L'agréage est le contrôle que fait l'acheteur à la réception pour accepter ou refuser un lot. Quand les cahiers des charges des enseignes restent stricts, des tubercules sains mais petits peuvent être écartés. Le CNIPT précise que les exigences d'aptitude à la préparation de frites ne changent pas.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/pommes-de-terre/article/904745/petits-calibres-en-pommes-de-terre-le-cnipt-veut-plus-de-soutien-des-distributeu",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/pommes-de-terre-une-production-2026-en-repli-de-25-30",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.linfodurable.fr/recoltes-de-mais-betteraves-ou-pommes-de-terre-au-plus-bas-58981",
+      "nom": "dépêche AFP via L'Info Durable"
+     },
+     {
+      "url": "https://www.agreste.agriculture.gouv.fr/agreste-web/disaron/IraGcu26114/detail/",
+      "nom": "Agreste (15 septembre)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "CNIPT",
+      "contexte": "interprofession de la pomme de terre",
+      "texte": "Elle juge que « Jouer collectif est indispensable pour assurer une juste valorisation de la récolte » et que « Toutes les enseignes ne se montrent pas aujourd'hui au même niveau d'engagement ».",
+      "url": "https://www.terre-net.fr/pommes-de-terre/article/904745/petits-calibres-en-pommes-de-terre-le-cnipt-veut-plus-de-soutien-des-distributeu",
+      "source": "Terre-net"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "UNPT",
+      "contexte": "syndicat des producteurs de pommes de terre",
+      "texte": "Il décrit « L’ambiance générale est mauvaise, il y a eu beaucoup de casse cette année » et attend de la visibilité sur les prix « d’ici début novembre ».",
+      "url": "https://www.reussir.fr/articles/pommes-de-terre-une-production-2026-en-repli-de-25-30",
+      "source": "Réussir"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Agreste",
+      "contexte": "service statistique du ministère de l'Agriculture",
+      "texte": "Il estime la production à 6,2 millions de tonnes au 15 septembre et anticipe de fortes différences de rendement entre régions, notamment selon l'irrigation.",
+      "url": "https://www.linfodurable.fr/recoltes-de-mais-betteraves-ou-pommes-de-terre-au-plus-bas-58981",
+      "source": "AFP via L'Info Durable"
+     }
+    ],
+    "apres": "La visibilité sur les prix du marché libre est attendue d'ici début novembre, selon l'UNPT. Les arrachages se poursuivent.",
+    "change": "Moins de pommes de terre disponibles et plus de petits calibres : l'enjeu est de savoir qui supporte la perte de valeur, des producteurs aux distributeurs. Sans débouché satisfaisant en France, le CNIPT évoque l'export.",
+    "credit": {
+     "auteur": "David Wright",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Potato_Harvester_near_Manor_Wold_Farm_-_geograph.org.uk_-_2106795.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "Engrais : la FNAB demande que le plan de 145 M€ aide aussi le bio",
+    "court": "Engrais : la FNAB veut aider aussi le bio",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/JD_with_Acuspread_AS85_multi-purpose_spreader.jpg/1280px-JD_with_Acuspread_AS85_multi-purpose_spreader.jpg",
+    "legende": "Un tracteur avec un épandeur pour engrais et amendements dans un champ (illustration)",
+    "chapeau": "Le 1er octobre 2026, la Fédération nationale d'agriculture biologique (FNAB) a demandé que les producteurs bio puissent bénéficier du plan engrais de 145 millions d'euros, déclenché par la hausse des prix des engrais après la guerre au Moyen-Orient et le blocage du détroit d'Ormuz, par lequel transitait 30 % des engrais mondiaux.",
+    "eclairage": "Engrais de synthèse ou organiques ?",
+    "chiffres": [
+     {
+      "valeur": "145 M€",
+      "legende": "enveloppe du plan (107 M€ de l'UE)"
+     },
+     {
+      "valeur": "50 €/t",
+      "legende": "aide sur les engrais azotés"
+     },
+     {
+      "valeur": "10-30 %",
+      "legende": "hausse des engrais organiques (FNAB)"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, la Fédération nationale d'agriculture biologique (FNAB) a demandé que les producteurs bio puissent bénéficier du plan engrais de 145 millions d'euros, déclenché par la hausse des prix des engrais après la guerre au Moyen-Orient et le blocage du détroit d'Ormuz, par lequel transitait 30 % des engrais mondiaux. Le guichet, ouvert le 1er août et prolongé jusqu'à fin décembre, aide les achats d'engrais azotés simples faits entre le 1er juin et le 31 décembre 2026 : 50 euros par tonne, 70 pour les exploitations où les engrais pèsent plus de 10 % des charges, dans la limite de la moitié des tonnages de 2025 et avec un seuil de 350 euros. Sur l'enveloppe, 107 millions viennent de fonds d'urgence de l'Union européenne. La FNAB souligne que le dispositif ne concerne que les engrais de synthèse, ce qui exclut en pratique les fermes bio, et estime, à partir de données de l'Insee et de remontées de terrain, que les engrais organiques ont augmenté de 10 à 30 % en 2026 selon les régions et les produits. Elle demande que les achats depuis juin 2026 soient aidés et a écrit au ministère de l'Agriculture.",
+    "points": [],
+    "explication": "Les engrais azotés de synthèse sont fabriqués par l'industrie, le plus souvent à partir de gaz naturel. Les engrais organiques viennent d'animaux ou de végétaux : fientes de volaille, fumier, sang ou lisier transformés. L'agriculture biologique n'autorise que les seconds. Selon la FNAB, la demande des agriculteurs conventionnels pour les engrais organiques, en hausse avec la crise, tire aussi leurs prix.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/syndicalisme-agricole/article/904253/les-agriculteurs-bio-veulent-etre-eligibles-aux-aides-sur-les-engrais",
+      "nom": "dépêche AFP via Terre-net"
+     },
+     {
+      "url": "https://www.linfodurable.fr/les-agriculteurs-bio-veulent-etre-eligibles-aux-aides-sur-les-engrais-59211",
+      "nom": "L'Info Durable"
+     },
+     {
+      "url": "https://www.pleinchamp.com/actualite/plan-engrais-la-fnab-demande-son-elargissement-a-la-bio",
+      "nom": "Pleinchamp"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "FNAB",
+      "contexte": "fédération nationale d'agriculture biologique",
+      "texte": "Elle dénonce un guichet qui cible « exclusivement les engrais azotés de synthèse » et affirme que « les chiffres confirment une hausse du prix des engrais organiques ».",
+      "url": "https://www.terre-net.fr/syndicalisme-agricole/article/904253/les-agriculteurs-bio-veulent-etre-eligibles-aux-aides-sur-les-engrais",
+      "source": "AFP via Terre-net"
+     },
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "Olivier Chaloche",
+      "contexte": "coprésident de la FNAB",
+      "texte": "Il estime que « le dispositif actuel laisse de côté une partie des producteurs pourtant tout aussi impactés ».",
+      "url": "https://www.pleinchamp.com/actualite/plan-engrais-la-fnab-demande-son-elargissement-a-la-bio",
+      "source": "Pleinchamp"
+     }
+    ],
+    "apres": "Le guichet reste ouvert jusqu'au 31 décembre 2026. Aucun critère d'éligibilité pour les engrais organiques n'existe à ce jour.",
+    "change": "Pour une ferme bio, la facture de fertilisation augmente sans que l'aide actuelle s'applique. Pour les autres exploitations, l'aide couvre une partie de l'achat d'engrais azotés de synthèse jusqu'à fin décembre.",
+    "credit": {
+     "auteur": "Mark Robinson",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:JD_with_Acuspread_AS85_multi-purpose_spreader.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1er",
+    "mois": "NOV.",
+    "texte": "Début novembre : visibilité attendue sur les prix de la pomme de terre du marché libre, selon l'UNPT."
+   },
+   {
+    "jour": "31",
+    "mois": "DÉC.",
+    "texte": "Fin du guichet du plan engrais de 145 M€."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Calibre",
+    "definition": "La taille d'un fruit ou d'un tubercule, mesurée en millimètres, sur laquelle s'appuient les règles de commercialisation."
+   },
+   {
+    "terme": "Agréage",
+    "definition": "Le contrôle de conformité d'un lot par l'acheteur à la réception."
+   },
+   {
+    "terme": "Interprofession",
+    "definition": "Une organisation qui réunit les différents métiers d'une filière, des producteurs aux transformateurs et aux distributeurs."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le plan engrais de 145 millions d'euros aide aussi les achats d'engrais organiques des agriculteurs bio.",
+   "reponse": false,
+   "explication": "Le guichet cible exclusivement les engrais azotés de synthèse, ce qui exclut en pratique les fermes bio, selon la FNAB."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-19",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉCONOMIE",
+    "titre": "Hermione : l'association doit réunir 2,2 millions d'ici le 14 avril",
+    "court": "Hermione : 2,2 M€ à trouver d'ici avril",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hermione-fregat_replica_-DSC_5751.jpg/1280px-Hermione-fregat_replica_-DSC_5751.jpg",
+    "legende": "La proue de la réplique de l'Hermione amarrée dans le bassin de Rochefort (archive)",
+    "chapeau": "Le 1er octobre 2026, le tribunal judiciaire de La Rochelle a accordé à l'association Hermione-La Fayette une troisième période d'observation de six mois, à compter du 18 septembre 2026. L'association est en redressement judiciaire depuis septembre 2025.",
+    "eclairage": "Que signifie « redressement judiciaire », et qui décide ?",
+    "chiffres": [
+     {
+      "valeur": "2,2 M€",
+      "legende": "à réunir avant le 14 avril 2027"
+     },
+     {
+      "valeur": "6 mois",
+      "legende": "de période d'observation en plus"
+     },
+     {
+      "valeur": "19 M€",
+      "legende": "de subventions depuis la création"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, le tribunal judiciaire de La Rochelle a accordé à l'association Hermione-La Fayette une troisième période d'observation de six mois, à compter du 18 septembre 2026. L'association est en redressement judiciaire depuis septembre 2025. Le tribunal a rejeté les deux offres de reprise restantes, celle de Tugdual et Kenan Jaouen et celle de Christophe Degnéro, et a pris acte du retrait de l'offre du Centre international de la mer de Rochefort. Une audience le 14 avril 2027 doit trancher entre la poursuite du redressement et la liquidation. Le 16 octobre, lors d'une conférence de presse à Bordeaux, la présidente Emilie Beau a indiqué que l'association cherche 2,2 millions d'euros d'ici cette date : 1,5 million pour reprendre une tranche de travaux et 700 000 euros pour l'entretien courant. La frégate est en cale sèche à Anglet (Pyrénées-Atlantiques) depuis septembre 2021, après la découverte de champignons dans le bois de la coque. Les sources donnent des montants totaux différents : environ 5 millions d'euros restent à trouver pour terminer la coque, sur une restauration estimée à 10 millions.",
+    "points": [
+     "Le redressement judiciaire est une procédure ouverte devant le tribunal quand une structure ne peut plus payer ses dettes. Pendant la période d'observation, l'activité continue et un plan de redressement est préparé.",
+     "Le tribunal décide : il peut adopter un plan, accepter une reprise ou prononcer la liquidation. Les collectivités ne tranchent pas, mais elles peuvent financer.",
+     "L'association a reçu 19 millions d'euros de subventions depuis sa création, un chiffre qu'ICI attribue à la chambre régionale des comptes de Nouvelle-Aquitaine."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/apres-le-delai-accorde-a-l-hermione-l-association-doit-trouver-2-millions-d-euros-avant-le-14-avril-1482169",
+      "nom": "ICI, 17 octobre (avec AFP)"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/l-hermione-echappe-a-la-liquidation-judiciaire-un-nouveau-sursis-de-six-mois-accorde-a-l-association-qui-gere-le-bateau-7316340",
+      "nom": "ICI, 1er octobre"
+     },
+     {
+      "url": "https://www.bateaux.com/article/52777/l-hermione-six-mois-pour-eviter-la-liquidation-judiciaire",
+      "nom": "Bateaux.com"
+     },
+     {
+      "url": "https://www.aquitaineonline.com/actualites-en-aquitaine/poitou-charentes/13508-hermione-sursis-tribunal-rochelle-2027.html",
+      "nom": "AquitaineOnLine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION",
+      "qui": "Hermione-La Fayette (Emilie Beau, présidente)",
+      "contexte": null,
+      "texte": "Pour que le plan de redressement soit adopté, la présidente indique qu'il « faut lever 2,2 millions d'euros » et ajoute qu'« il y a urgence à reprendre les travaux ».",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/apres-le-delai-accorde-a-l-hermione-l-association-doit-trouver-2-millions-d-euros-avant-le-14-avril-1482169",
+      "source": "ici.fr"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "ACTEUR LOCAL",
+      "qui": "Centre international de la mer (Corderie royale, Rochefort)",
+      "contexte": null,
+      "texte": "Le tribunal a pris acte du retrait de son offre de reprise, ce qui laisse l'association seule dans la procédure.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/l-hermione-echappe-a-la-liquidation-judiciaire-un-nouveau-sursis-de-six-mois-accorde-a-l-association-qui-gere-le-bateau-7316340",
+      "source": "ici.fr"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "JUSTICE",
+      "qui": "Tribunal judiciaire de La Rochelle",
+      "contexte": null,
+      "texte": "Il rejette les offres de reprise qui lui ont été soumises (« Le tribunal rejette par ailleurs les offres qui lui ont été soumises ») et fixe l'audience au 14 avril 2027.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/rochefort/l-hermione-echappe-a-la-liquidation-judiciaire-un-nouveau-sursis-de-six-mois-accorde-a-l-association-qui-gere-le-bateau-7316340",
+      "source": "ici.fr"
+     }
+    ],
+    "apres": "Audience du 14 avril 2027 à La Rochelle. L'association vise la fin des travaux de coque en 2029.",
+    "change": "Le navire reste en cale sèche à Anglet et ne revient pas à Rochefort à court terme. Selon ICI, les visites continuent et l'association compte 10 salariés permanents et 18 saisonniers, dont l'emploi dépend de l'issue de la procédure.",
+    "credit": {
+     "auteur": "Pline",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Hermione-fregat_replica_-DSC_5751.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "La Rochelle : début des animations des vacances d'automne, jusqu'au 30 octobre."
+   },
+   {
+    "jour": "22",
+    "mois": "OCT.",
+    "texte": "La Rochelle : point d'écoute itinérant sur la santé mentale."
+   },
+   {
+    "jour": "19",
+    "mois": "NOV.",
+    "texte": "Agglo : conseil communautaire (date prévisionnelle)."
+   },
+   {
+    "jour": "10",
+    "mois": "DÉC.",
+    "texte": "Agglo : conseil communautaire (date prévisionnelle)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Redressement judiciaire",
+    "definition": "Procédure devant le tribunal qui permet à une structure en difficulté de continuer son activité pendant qu'un plan est préparé."
+   },
+   {
+    "terme": "Période d'observation",
+    "definition": "Le délai pendant lequel le tribunal examine la situation avant de choisir un plan, une reprise ou la liquidation."
+   },
+   {
+    "terme": "Liquidation judiciaire",
+    "definition": "La fin de l'activité : les biens sont vendus pour payer les créanciers."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le tribunal de La Rochelle a prononcé la liquidation judiciaire de l'association Hermione-La Fayette le 1er octobre 2026.",
+   "reponse": false,
+   "explication": "Faux : le 1er octobre 2026, le tribunal a accordé une dernière période d'observation de six mois. Une audience le 14 avril 2027 doit trancher entre poursuite du redressement et liquidation."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-19",
   "minutes": 19,
@@ -896,6 +1232,467 @@
    "affirmation": "Une commission d'enquête du Sénat doit déposer son rapport dans un délai maximum de six mois.",
    "reponse": true,
    "explication": "Vrai : selon le Sénat, les commissions d'enquête sont temporaires et prennent fin une fois le rapport déposé, dans un délai maximum de six mois."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-19",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Col de l'utérus : le robot réduit les incidents pendant l'opération",
+    "court": "Col de l'utérus : robot ou chirurgie ouverte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Surgeon_performing_robot-assisted_surgery.jpg/1280px-Surgeon_performing_robot-assisted_surgery.jpg",
+    "legende": "Un chirurgien à la console d'un robot da Vinci Xi (illustration)",
+    "chapeau": "Le 7 octobre 2026, la revue JAMA Surgery a publié en ligne une analyse de l'essai randomisé RACC, coordonné par l'hôpital universitaire Karolinska à Stockholm, avec Sahar Salehi (Karolinska Institutet) comme première autrice.",
+    "eclairage": "Ce que prouve une analyse secondaire",
+    "chiffres": [
+     {
+      "valeur": "900",
+      "legende": "patientes atteintes d'un cancer du col de l'utérus débutant"
+     },
+     {
+      "valeur": "5,7 %",
+      "legende": "contre 10,0 % : incidents pendant l'opération, robot contre chirurgie ouverte"
+     },
+     {
+      "valeur": "33,4 %",
+      "legende": "contre 34,8 % : complications à 30 jours"
+     }
+    ],
+    "passe": "Le 7 octobre 2026, la revue JAMA Surgery a publié en ligne une analyse de l'essai randomisé RACC, coordonné par l'hôpital universitaire Karolinska à Stockholm, avec Sahar Salehi (Karolinska Institutet) comme première autrice. L'essai a comparé, chez 900 patientes atteintes d'un cancer du col de l'utérus à un stade précoce, l'ablation de l'utérus et des tissus voisins (hystérectomie radicale) par robot et par chirurgie ouverte, entre 2019 et 2025. Pendant l'opération, des incidents sont survenus chez 5,7 % des patientes opérées au robot (24 sur 419) et 10,0 % des patientes opérées en chirurgie ouverte (39 sur 390), surtout des incidents peu graves. Dans les 30 jours suivants, les complications concernaient 33,4 % et 34,8 % des patientes, un écart non significatif. Le séjour médian était de 3 jours contre 5, la perte de sang médiane de 75 mL contre 250 mL, mais l'opération durait plus longtemps au robot (237 contre 209 minutes). Il s'agit d'une analyse secondaire : le critère principal, la survie sans récidive, est encore suivi et sera publié séparément.",
+    "points": [],
+    "explication": "Le col de l'utérus est la partie basse de l'utérus. Quand le cancer est découvert tôt, l'hystérectomie radicale retire l'utérus et les tissus voisins ; elle peut se faire par une grande incision (chirurgie ouverte) ou par de petites incisions avec un robot que le chirurgien pilote à distance. Ici, l'essai est randomisé : le hasard a décidé de la technique, ce qui rend la comparaison solide. Mais les résultats présentés sont des critères secondaires, non conçus pour trancher. La question centrale, savoir si le cancer récidive autant avec l'une ou l'autre technique, reste ouverte, et les auteurs précisent que ces résultats ne doivent pas servir à juger la sécurité sur le plan du cancer. Moins d'incidents pendant l'opération ne veut pas dire de meilleurs résultats ensuite.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1001/jamasurg.2026.4625",
+      "nom": "JAMA Surgery (DOI)"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html",
+      "nom": "Medical Xpress"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/robot-assisted-hysterectomy-yields-fewer-intraoperative-complications-in-cervical-cancer",
+      "nom": "CancerNetwork"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Sahar Salehi",
+      "contexte": "Karolinska Institutet, première autrice",
+      "texte": "« We saw fewer complications during the robotic operation itself, but they were mainly less serious. »",
+      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html",
+      "source": "Medical Xpress"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Sahar Salehi",
+      "contexte": "Karolinska Institutet, première autrice",
+      "texte": "« Oncologic outcome remains the primary determinant of surgical approach in early-stage cervical cancer. »",
+      "url": "https://www.cancernetwork.com/view/robot-assisted-hysterectomy-yields-fewer-intraoperative-complications-in-cervical-cancer",
+      "source": "CancerNetwork"
+     }
+    ],
+    "apres": "Les résultats sur la survie sans récidive, qui décideront de la place du robot, doivent être publiés séparément ; aucune date n'est donnée dans les sources consultées.",
+    "change": "Pour les patientes concernées, l'étude montre moins d'incidents pendant l'opération et un séjour plus court avec le robot, sans différence nette de complications à 30 jours.",
+    "credit": {
+     "auteur": "Navy Medicine",
+     "licence": "domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Surgeon_performing_robot-assisted_surgery.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "Pancréas : avis favorable de l'EMA pour le daraxonrasib",
+    "court": "Pancréas : l'EMA favorable au daraxonrasib",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pancreatic_Cancer.jpg/1280px-Pancreatic_Cancer.jpg",
+    "legende": "Représentation 3D d'une tumeur du pancréas (illustration)",
+    "chapeau": "Le 15 octobre 2026, le comité des médicaments humains (CHMP) de l'Agence européenne des médicaments a émis un avis positif recommandant l'autorisation du daraxonrasib (nom commercial Rasonque), en monothérapie, chez les adultes atteints d'un adénocarcinome du pancréas métastatique ayant reçu au moins un traitement antérieur.",
+    "eclairage": "Avis du comité, autorisation, remboursement : trois étapes",
+    "chiffres": [
+     {
+      "valeur": "13,2",
+      "legende": "mois de survie médiane contre 6,7 sous chimiothérapie"
+     },
+     {
+      "valeur": "0,40",
+      "legende": "rapport de risque de décès (IC 95 % : 0,30 à 0,53)"
+     },
+     {
+      "valeur": "500",
+      "legende": "patients, 59 centres, essai de phase 3"
+     }
+    ],
+    "passe": "Le 15 octobre 2026, le comité des médicaments humains (CHMP) de l'Agence européenne des médicaments a émis un avis positif recommandant l'autorisation du daraxonrasib (nom commercial Rasonque), en monothérapie, chez les adultes atteints d'un adénocarcinome du pancréas métastatique ayant reçu au moins un traitement antérieur. L'avis s'appuie sur l'essai de phase 3 RASolute 302, en ouvert, qui a réparti 500 patients entre le daraxonrasib (300 mg par jour, par voie orale) et une chimiothérapie au choix de l'investigateur. Selon OncLive, la survie globale médiane est de 13,2 mois contre 6,7 mois, et la réponse tumorale confirmée de 31,6 % contre 11,2 %. Les effets indésirables de grade 3 ou plus ont concerné 43,6 % des patients sous daraxonrasib contre 57,5 % sous chimiothérapie ; l'éruption cutanée (85 %), la diarrhée (58 %) et l'inflammation de la bouche (53 %) sont les effets les plus fréquents, et un décès par pneumopathie est jugé lié au traitement. Il s'agit d'un avis du comité, pas d'une autorisation : la Commission européenne doit encore décider.",
+    "points": [],
+    "explication": "Le pancréas est un organe situé derrière l'estomac ; quand son cancer est métastatique, les traitements sont limités. Le daraxonrasib cible la famille de protéines RAS, dont les mutations sont très fréquentes dans ce cancer et poussent les cellules à se multiplier. Un essai en ouvert signifie que patients et médecins savent qui reçoit quoi, ce qui peut influencer certaines mesures, mais la survie est difficile à biaiser. Un écart de 13,2 contre 6,7 mois est important, mais il décrit la médiane du groupe, pas ce que vivra chaque patient. Les chiffres viennent ici de la presse spécialisée et du fabricant : l'article scientifique correspondant n'est pas cité dans les sources consultées. Un avis du CHMP n'est ni une autorisation de mise sur le marché ni un remboursement. Le fabricant annonce l'avis positif du CHMP et attribue à l'essai RASolute 302 une réduction de 60 % du risque de décès par rapport à la chimiothérapie. Données de l'entreprise, non relues ici par un tiers.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
+      "nom": "EMA (CHMP)"
+     },
+     {
+      "url": "https://www.onclive.com/view/chmp-recommends-approval-of-daraxonrasib-for-previously-treated-metastatic-pancreatic-cancer",
+      "nom": "OncLive"
+     },
+     {
+      "url": "https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-rasonquetm-daraxonrasib-receives-positive",
+      "nom": "Revolution Medicines"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "EMA (CHMP)",
+      "contexte": "agence européenne des médicaments",
+      "texte": "« received a positive opinion from the CHMP for the treatment of adults with metastatic pancreatic adenocarcinoma »",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
+      "source": "EMA"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Alok Khorana",
+      "contexte": "médecin, cité par OncLive",
+      "texte": "« this is not a magic bullet. It's not a cure. »",
+      "url": "https://www.onclive.com/view/chmp-recommends-approval-of-daraxonrasib-for-previously-treated-metastatic-pancreatic-cancer",
+      "source": "OncLive"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Revolution Medicines",
+      "contexte": "développeur du daraxonrasib",
+      "texte": "Le fabricant annonce l'avis positif du CHMP et attribue à l'essai RASolute 302 une réduction de 60 % du risque de décès par rapport à la chimiothérapie. Données de l'entreprise, non relues ici par un tiers.",
+      "url": "https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-rasonquetm-daraxonrasib-receives-positive",
+      "source": "Revolution Medicines"
+     }
+    ],
+    "apres": "La Commission européenne doit décider de l'autorisation, valable pour l'Union européenne, l'Islande, la Norvège et le Liechtenstein. Selon OncLive, l'essai RASolute 303 évalue aussi le médicament en première ligne.",
+    "change": "Pour les personnes atteintes de ce cancer, un nouveau traitement oral pourrait devenir disponible en Europe, selon la décision de la Commission européenne ; ce n'est pas encore le cas. Le choix d'un traitement se fait avec l'équipe d'oncologie.",
+    "credit": {
+     "auteur": "Scientific Animations Inc.",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pancreatic_Cancer.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CANCER",
+    "titre": "Ovaire : un vaccin personnalisé testé chez 10 patientes (phase 1)",
+    "court": "Ovaire : vaccin sur mesure, phase 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Boostrix-IPV_vaccine.jpg/1280px-Boostrix-IPV_vaccine.jpg",
+    "legende": "Une seringue de vaccin préremplie, sans lien avec le vaccin de l'étude (illustration)",
+    "chapeau": "Le 14 octobre 2026, la revue Nature Medicine a publié en ligne un essai de phase 1 mené autour de Panagiotis Konstantinopoulos (Dana-Farber Cancer Institute, Boston).",
+    "eclairage": "Une phase 1 ne dit pas si le vaccin protège",
+    "chiffres": [
+     {
+      "valeur": "10",
+      "legende": "patientes vaccinées sur 22 présélectionnées"
+     },
+     {
+      "valeur": "8/10",
+      "legende": "patientes avec une réaction immunitaire (IFN-γ)"
+     },
+     {
+      "valeur": "59 %",
+      "legende": "des 144 peptides du vaccin ont déclenché une réponse"
+     }
+    ],
+    "passe": "Le 14 octobre 2026, la revue Nature Medicine a publié en ligne un essai de phase 1 mené autour de Panagiotis Konstantinopoulos (Dana-Farber Cancer Institute, Boston). Il testait, contre le cancer de l'ovaire, un vaccin personnalisé fabriqué à partir de mutations propres à chaque tumeur (quatre mélanges de peptides synthétiques avec un adjuvant), suivi d'un traitement d'immunothérapie, le nivolumab. Sur 22 patientes présélectionnées, 12 ont accepté le traitement et 10 ont été vaccinées, 9 d'entre elles recevant toutes les doses prévues ; les critères principaux étaient la faisabilité et la sécurité. Selon CancerNetwork, aucune patiente n'a arrêté le traitement pour cause de toxicité, des effets de grade 3 ont touché une patiente (réaction allergique) et une autre (neutropénie), et la survie sans progression médiane est de 3,3 mois, avec une grande variabilité. Une réaction immunitaire a été mesurée chez 8 patientes sur 10.",
+    "points": [],
+    "explication": "Un vaccin personnalisé contre le cancer n'a pas pour but d'éviter la maladie : il apprend au système immunitaire à reconnaître des néoantigènes, des marqueurs propres à la tumeur d'une patiente. Le nivolumab lève un frein des lymphocytes T pour qu'ils attaquent plus fort. Un essai de phase 1 sert d'abord à vérifier qu'un traitement est réalisable et sûr, avec très peu de patientes. Il ne compare pas à un groupe témoin : on ne peut donc pas dire s'il ralentit la maladie. Une réaction immunitaire mesurée en laboratoire n'est pas non plus un bénéfice pour la patiente. Les auteurs relèvent que la perte de molécules de présentation (HLA) dans certaines tumeurs explique une partie des échecs.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.nature.com/articles/s41591-026-04717-8",
+      "nom": "Nature Medicine"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/personalized-cancer-vaccine-combo-is-feasible-in-platinum-sensitive-ovarian-cancer",
+      "nom": "CancerNetwork"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT04024878",
+      "nom": "ClinicalTrials.gov"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Équipe de l'étude",
+      "contexte": "dont Panagiotis Konstantinopoulos, Dana-Farber",
+      "texte": "« introducing [personalized neoantigen-targeting cancer vaccines] with first-line treatment »",
+      "url": "https://www.cancernetwork.com/view/personalized-cancer-vaccine-combo-is-feasible-in-platinum-sensitive-ovarian-cancer",
+      "source": "CancerNetwork"
+     }
+    ],
+    "apres": "Les auteurs suggèrent d'introduire ces vaccins dès le traitement de première ligne et de viser les maladies de faible volume ; il faudrait des essais plus grands, comparatifs, avant toute autorisation.",
+    "change": "Rien pour les patientes aujourd'hui : cette étape établit seulement que l'approche est réalisable et sans signal de sécurité inattendu chez un petit groupe. Toute question de traitement relève de l'équipe d'oncologie.",
+    "credit": {
+     "auteur": "Whispyhistory",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Boostrix-IPV_vaccine.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "UE",
+    "mois": "DATE NC",
+    "texte": "Commission européenne : décision attendue sur l'autorisation de Rasonque (daraxonrasib), après l'avis du CHMP ; aucune date n'est précisée dans les sources consultées."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Analyse secondaire",
+    "definition": "Un résultat qu'une étude avait prévu de mesurer en plus de son critère principal ; il éclaire mais ne tranche pas la question centrale."
+   },
+   {
+    "terme": "Essai de phase 1",
+    "definition": "La première étape de test d'un traitement chez l'humain, sur peu de personnes : on vérifie surtout qu'il est réalisable et sûr, pas qu'il marche."
+   },
+   {
+    "terme": "Avis du CHMP",
+    "definition": "La recommandation du comité scientifique de l'Agence européenne des médicaments ; l'autorisation est ensuite décidée par la Commission européenne."
+   },
+   {
+    "terme": "Néoantigène",
+    "definition": "Un marqueur né d'une mutation propre à la tumeur d'une personne, que le système immunitaire peut apprendre à reconnaître."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai RACC, les complications dans les 30 jours suivant l'opération étaient nettement moins fréquentes avec le robot qu'avec la chirurgie ouverte.",
+   "reponse": false,
+   "explication": "Faux. À 30 jours, 33,4 % des patientes opérées au robot et 34,8 % de celles opérées en chirurgie ouverte avaient eu une complication, un écart non significatif (intervalle de confiance de −7,9 à 5,2 points). La différence observée concernait les incidents pendant l'opération : 5,7 % contre 10,0 %."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-19",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "IA",
+    "titre": "Anthropic : 5 % des actions engagées dans un fonds d'intérêt public",
+    "court": "Anthropic : 5 % des actions à un fonds",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jack_Clark%2C_co-founder_of_Anthropic%2C_giving_a_talk_on_AI_at_the_Schwarzman_Centre_in_Oxford.jpg/1280px-Jack_Clark%2C_co-founder_of_Anthropic%2C_giving_a_talk_on_AI_at_the_Schwarzman_Centre_in_Oxford.jpg",
+    "legende": "conférence sur l'IA donnée par un cofondateur d'Anthropic à Oxford, mai 2026 ; illustration",
+    "chapeau": "Le 18 octobre, Anthropic a annoncé engager 5 % de ses actions dans un « Anthropic Public Benefit Fund », avec effet immédiat mais « subject to stockholder approval » (sous réserve de l'approbation des actionnaires).",
+    "eclairage": "Pourquoi une entreprise met-elle des actions dans un fonds ?",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "des actions engagées, sous réserve d'approbation"
+     },
+     {
+      "valeur": "+2 %",
+      "legende": "possibles par tranche de +50 % de valeur"
+     },
+     {
+      "valeur": "200 M$",
+      "legende": "déjà engagés sur l'emploi, selon Anthropic"
+     }
+    ],
+    "passe": "Le 18 octobre, Anthropic a annoncé engager 5 % de ses actions dans un « Anthropic Public Benefit Fund », avec effet immédiat mais « subject to stockholder approval » (sous réserve de l'approbation des actionnaires). Son conseil d'administration pourra y ajouter 2 % supplémentaires à chaque hausse de 50 % de la valeur de l'entreprise ; le seuil de départ n'est pas précisé et Anthropic dit qu'elle donnera les paliers « dans les mois à venir ». Le fonds est une entité détenue en totalité par l'entreprise, qui peut verser de gros dons à des associations ou des versements directs à des populations ciblées ; l'exemple cité est l'effet de l'IA sur le marché du travail, sujet sur lequel Anthropic a déjà engagé 200 millions de dollars. Les actions du fonds ne pourront servir ni au lobbying ni à des dons politiques, aux États-Unis comme à l'étranger. La gouvernance n'est pas décrite : Anthropic promet des précisions plus tard. Selon Al Jazeera, une introduction en Bourse de l'entreprise est attendue avant la fin de 2026 ; l'annonce d'Anthropic ne la mentionne pas.",
+    "points": [],
+    "explication": "Une action est une part de propriété de l'entreprise ; en engager 5 % dans un fonds revient à réserver cette part à des usages d'intérêt général plutôt qu'aux actionnaires, une fois l'accord de ceux-ci obtenu. Anthropic explique que cette réserve remplace des attributions d'actions de type rémunération de dirigeants, très courantes dans la tech. Le fonds prend la forme d'une LLC (société à responsabilité limitée américaine), choisie par l'entreprise pour sa souplesse plutôt qu'une association reconnue d'utilité publique. Ce qui est établi : le montant promis (sous réserve) et l'interdiction du lobbying. Ce qui ne l'est pas : qui décidera des dons, à quel rythme, et la valeur exacte, qui dépend de la valeur de l'entreprise.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "nom": "Anthropic"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "nom": "TechCrunch"
+     },
+     {
+      "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund",
+      "nom": "Al Jazeera"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Anthropic",
+      "contexte": "annonce du 18 octobre",
+      "texte": "L'entreprise écrit que « bolder approaches may be needed » (des approches plus audacieuses peuvent être nécessaires) face à l'effet de l'IA sur l'emploi, et dit que le fonds aura la souplesse pour les mener.",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "Anthropic"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Dario Amodei, PDG d'Anthropic",
+      "contexte": "cité par TechCrunch",
+      "texte": "TechCrunch rattache l'annonce à une défiance croissante du public envers l'IA, que le PDG qualifie de crise de confiance. L'article ne cite aucun avis extérieur.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Christophe Fouquet, PDG d'ASML",
+      "contexte": "14 octobre",
+      "texte": "Il dit voir « a lot of order intake for 2028 » (beaucoup de commandes pour 2028) mais aussi un intérêt pour des commandes dès 2029, parfois 2030. Le directeur financier, Roger Dassen, dit que la mise à niveau des machines existantes et la vente de versions plus rapides apporteront « a significant enhancement to our customers' capacity » (un gain notable de capacité pour les clients).",
+      "url": "https://www.rte.ie/news/business/2026/1014/1595311-asml-wont-be-able-to-meet-ai-driven-demand-in-2027-2028/",
+      "source": "RTÉ"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Frank Heemskerk, ASML",
+      "contexte": "cité par Silicon Republic",
+      "texte": "Un dirigeant d'ASML dit : « From factory to chip design to cloud computing, very little happens here » (de l'usine à la conception de puces et au cloud, très peu se passe ici). Silicon Republic précise qu'ASML n'a rien vendu à des clients européens au trimestre précédent et présente cela comme un signal d'alerte pour l'Europe.",
+      "url": "https://www.siliconrepublic.com/business/ai-led-demand-overwhelms-asmls-2027-2028-supply-capacity",
+      "source": "Silicon Republic"
+     }
+    ],
+    "apres": "Selon Anthropic, les actionnaires doivent approuver l'engagement, et l'entreprise publiera dans les prochains mois la structure, la gouvernance et les paliers de valeur, ainsi qu'un rapport d'intérêt public.",
+    "change": "Pour un salarié ou un utilisateur, rien ne change à court terme : le fonds n'est pas encore structuré et aucun versement n'est annoncé. Pour le secteur, l'annonce ne se mesurera qu'aux actes : seuls les prochains mois diront ce que le fonds finance.",
+    "credit": {
+     "auteur": "Mvolz",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Jack_Clark,_co-founder_of_Anthropic,_giving_a_talk_on_AI_at_the_Schwarzman_Centre_in_Oxford.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TECH FRANÇAISE",
+    "titre": "Mistral AI rachète New Material et crée une équipe Solutions Design",
+    "court": "Mistral AI rachète le studio New Material",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Int%C3%A9rieur_de_la_Station_F_juin_2022_3.jpg/1280px-Int%C3%A9rieur_de_la_Station_F_juin_2022_3.jpg",
+    "legende": "halle de la Station F, campus d'entreprises numériques à Paris ; illustration",
+    "chapeau": "Le 14 octobre, Mistral AI a annoncé le rachat de New Material, studio de conception de produits fondés sur l'IA, qui revendique six ans d'expérience dans l'automobile, la distribution, le droit et la santé.",
+    "eclairage": "Pourquoi un laboratoire d'IA rachète-t-il un studio de design ?",
+    "chiffres": [
+     {
+      "valeur": "14/10",
+      "legende": "annonce du rachat par Mistral AI"
+     },
+     {
+      "valeur": "4e",
+      "legende": "rachat connu de Mistral AI en 2026"
+     },
+     {
+      "valeur": "6 ans",
+      "legende": "d'existence du studio New Material"
+     }
+    ],
+    "passe": "Le 14 octobre, Mistral AI a annoncé le rachat de New Material, studio de conception de produits fondés sur l'IA, qui revendique six ans d'expérience dans l'automobile, la distribution, le droit et la santé. Son équipe formera une nouvelle unité, « Solutions Design », qui associera conception, ingénierie et IA pour travailler directement avec les clients des entreprises et des administrations, avec pour but de « creating a tight feedback loop between real-world deployment and Mistral's products » (créer une boucle de retour serrée entre le déploiement réel et les produits de Mistral). Le montant du rachat et le nombre de salariés concernés n'ont pas été communiqués. Selon FrenchWeb, c'est la quatrième acquisition connue de Mistral cette année, après Koyeb, Emmi AI et Pimento.",
+    "points": [],
+    "explication": "Un modèle d'IA seul ne règle pas un problème d'entreprise : il faut une interface, des données branchées et des usages que les employés adoptent. C'est ce que recouvre le terme déploiement. En intégrant des concepteurs, Mistral cherche à raccourcir le chemin entre un modèle et un produit utilisable, et à faire remonter les retours des clients vers ses équipes de produit. Ce choix est une orientation commerciale annoncée par l'entreprise ; aucune donnée d'adoption ou de revenus ne l'accompagne. Mistral met aussi en avant des « solutions souveraines », c'est-à-dire pensées pour que des clients européens gardent la maîtrise de leurs outils, selon Dealroom.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://newmaterial.ai/stories/newmaterial-joins-mistral",
+      "nom": "New Material"
+     },
+     {
+      "url": "https://www.frenchweb.fr/avec-new-material-mistral-veut-maitriser-le-passage-du-modele-au-produit/463955",
+      "nom": "FrenchWeb"
+     },
+     {
+      "url": "https://dealroom.co/news/162811-mistral-buys-design-agency-new-material-to-build-enterprise-ai-team/",
+      "nom": "Dealroom"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Zach Krasner, responsable du design chez Mistral",
+      "contexte": "14 octobre",
+      "texte": "Il dit : « Great design is critical to delivering powerful AI solutions » (un bon design est essentiel pour fournir des solutions d'IA puissantes).",
+      "url": "https://newmaterial.ai/stories/newmaterial-joins-mistral",
+      "source": "New Material"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Nicolas Schuhl, responsable de l'IA appliquée chez Mistral",
+      "contexte": "14 octobre",
+      "texte": "Il juge que « Embedding product thinking into deployment will accelerate our mission » (intégrer la réflexion produit au déploiement accélérera notre mission).",
+      "url": "https://newmaterial.ai/stories/newmaterial-joins-mistral",
+      "source": "New Material"
+     }
+    ],
+    "apres": "Mistral n'a pas annoncé de calendrier pour Solutions Design. Les poids du modèle Mistral Large 4 sont annoncés pour le 27 octobre (voir À venir).",
+    "change": "Pour un utilisateur, rien ne change aujourd'hui : il s'agit d'une organisation interne.",
+    "credit": {
+     "auteur": "Artvill",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_la_Station_F_juin_2022_3.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Italie : entrée en vigueur du décret n° 179 sur l'AI Act (Normattiva)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Mistral AI : publication annoncée des poids du modèle Mistral Large 4, selon l'entreprise (Mistral AI)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Lithographie",
+    "definition": "Étape de fabrication qui grave les circuits d'une puce sur une plaquette de silicium à l'aide de lumière."
+   },
+   {
+    "terme": "Capacité",
+    "definition": "Quantité de production qu'une usine ou un fabricant peut assurer sur une période donnée."
+   },
+   {
+    "terme": "LLC",
+    "definition": "Société à responsabilité limitée américaine (limited liability company)."
+   },
+   {
+    "terme": "Norme harmonisée",
+    "definition": "Norme européenne dont la référence est publiée au Journal officiel et qui peut faciliter la preuve de conformité à une loi ; son usage est volontaire."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon ASML, son offre prévue pour 2027 et 2028 ne couvrira pas entièrement la demande de ses clients.",
+   "reponse": true,
+   "explication": "Vrai : dans son communiqué du 14 octobre, ASML écrit que son offre telle que prévue pour 2027 et 2028 ne répondra pas pleinement à la demande. C'est une déclaration de l'entreprise sur ses propres prévisions."
   }
  },
  {
