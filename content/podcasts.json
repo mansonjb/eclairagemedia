@@ -1,5 +1,468 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-19",
+  "url": "/podcasts/essentiel-2026-10-19.mp3",
+  "taille": 7457795,
+  "duree": 621,
+  "titre": "Éclairage, l'essentiel du lundi 19 octobre 2026",
+  "titre_episode": "Violences du 17 octobre, record de créations d'entreprises, vaccin et pancréas : l'essentiel du lundi 19 octobre",
+  "description": "Ce lundi 19 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : allocution d'Emmanuel Macron, pas d'état d'urgence\n• Politique : 17 octobre, bilans en hausse et appels à la démission de Laurent Nuñez\n• Économie : 119 307 entreprises créées en septembre, un record\n• Économie : KNDS, Berlin négocie l'achat de 50 % du capital\n• Santé : cancer du col de l'utérus, la chirurgie robotique réduit les incidents opératoires\n• Santé : pancréas, avis favorable de l'EMA pour le daraxonrasib\n• Alimentation : pommes de terre, la filière demande aux enseignes d'adapter leurs achats\n• Alimentation : engrais, la FNAB demande que le plan de 145 M€ aide aussi le bio\n• Tech : Anthropic engage 5 % de ses actions dans un fonds d'intérêt public\n• Tech : ASML, son offre de 2027 et 2028 ne couvrira pas la demande\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Allocution de Macron : pas d'état d'urgence, les préfets décideront"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "17 octobre : bilans en hausse, appels à la démission de Laurent Nuñez"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Créations d'entreprises : 119 300 en septembre, un record"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "KNDS : Berlin négocie l'achat de 50 % du fabricant de chars"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Col de l'utérus : le robot réduit les incidents pendant l'opération"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Pancréas : avis favorable de l'EMA pour le daraxonrasib"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Pommes de terre : la filière demande aux enseignes d'adapter leurs achats"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Engrais : la FNAB demande que le plan de 145 M€ aide aussi le bio"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Anthropic : 5 % des actions engagées dans un fonds d'intérêt public"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce lundi dix-neuf octobre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, avec huit minutes de discours dimanche soir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'allocution d'Emmanuel Macron, à vingt heures, au lendemain des violences en marge de la mobilisation du dix-sept octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a parlé de « factieux issus de groupuscules d'ultragauche, rejoints par de nombreux délinquants ». Et il a apporté le soutien de la nation aux forces de l'ordre, aux maires et aux commerçants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais pas d'état d'urgence. Ce sont les préfets qui décideront, avec les maires, et ils pourront aller jusqu'à interdire certains rassemblements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le droit commun suffit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le constitutionnaliste Benjamin Morel, cité par Public Sénat, le droit commun permet déjà d'interdire des manifestations qui menacent l'ordre public. Pour lui, l'état d'urgence relèverait davantage de la communication que de la nécessité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté aides ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre, Sébastien Lecornu, préside lundi une cellule de crise pour mobiliser des aides aux commerçants et artisans touchés. Il réunira aussi partis, syndicats et représentants des lycéens et des étudiants."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : pas d'état d'urgence, mais des préfets qui peuvent interdire localement. Et les bilans de cette journée du dix-sept, justement, ont bougé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Samedi soir, on parlait de mille deux cents interpellations et de cent cinquante policiers et gendarmes blessés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et dimanche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Laurent Nuñez, le ministre de l'Intérieur, annonce plus de deux mille interpellations. Le bilan de son ministère dimanche soir compte neuf cent quatre-vingt-dix-sept policiers et gendarmes blessés, dont sept grièvement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, de cent cinquante à presque mille ? Ah oui, quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les sources consultées ne détaillent pas l'écart, ces chiffres restent provisoires. Les bilans n'ont pas été établis au même moment ni sur les mêmes personnes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les commerçants ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La Fédération du commerce et de la distribution estime que mille cinq cents commerçants ont été touchés directement, pour plusieurs centaines de millions d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Politiquement, des appels à la démission de Laurent Nuñez sont venus de Marine Tondelier, d'élus de La France insoumise et d'élus du Rassemblement national. Il a défendu l'action des forces de l'ordre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les interpellés restent présumés innocents tant qu'ils n'ont pas été jugés. On retient : des bilans provisoires, et un ministre contesté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec un record."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cent dix-neuf mille trois cent sept. C'est le nombre d'entreprises créées en France en septembre, selon l'Insee, l'Institut national de la statistique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est le plus haut niveau depuis le début de ses mesures, en deux mille."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, avec un chiffre corrigé des variations saisonnières, en hausse de un virgule un pour cent sur un mois, après sept virgule deux pour cent en août."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais l'AFP parle d'un record à rebours d'une économie atone."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne formule. L'Insee prévoit zéro virgule quatre pour cent de croissance en deux mille vingt-six, le chômage est à huit virgule trois pour cent, et les défaillances atteignent soixante-dix mille sept cent soixante-six sur douze mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc beaucoup de créations et beaucoup de défaillances."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et attention, une création n'est pas un emploi. Les micro-entrepreneurs, environ les deux tiers du total, reculent de un virgule six pour cent, alors que les entreprises individuelles classiques progressent de onze virgule six pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le record dit que beaucoup de gens s'immatriculent, pas que beaucoup de salariés sont embauchés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : l'industrie de défense. Berlin négocierait l'achat de cinquante pour cent de KNDS."
+   },
+   {
+    "qui": "Paul",
+    "texte": "KNDS, c'est le fabricant franco-allemand de chars, les Leopard deux. Reuters rapporte, d'après une source proche du dossier, que le gouvernement allemand discute avec les familles actionnaires, regroupées dans Wegmann Holding."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ils seraient proches d'un accord sur le prix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, mais le prix n'est pas communiqué. Le projet d'introduction en Bourse, où l'État allemand reprenait quarante pour cent, est suspendu."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi un État entrerait au capital d'un fabricant d'armement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cela donne un droit de regard sur les technologies et les commandes. Selon le Handelsblatt, une décision est attendue dans les prochaines semaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui sont les actionnaires aujourd'hui ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux familles allemandes et l'État français, à cinquante pour cent chacun pour le groupe. Le ministère allemand de l'Économie évoque une participation à égalité avec la France et rappelle que la décision revient aux actionnaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et KNDS ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'entreprise n'a pas commenté et affirme que l'introduction en Bourse reste son objectif. Aucun accord signé n'est annoncé à ce jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On retient : des négociations, pas d'accord signé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passons à la santé, avec le cancer du col de l'utérus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une étude publiée le sept octobre dans JAMA Surgery, sur neuf cents patientes à un stade précoce."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essai, coordonné par l'hôpital Karolinska à Stockholm, compare l'ablation de l'utérus et des tissus voisins par robot et par chirurgie ouverte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pendant l'opération, des incidents chez cinq virgule sept pour cent des patientes opérées au robot, contre dix pour cent en chirurgie ouverte, surtout des incidents peu graves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, deux fois moins d'incidents. Et ensuite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans les trente jours, les complications concernent trente-trois virgule quatre pour cent et trente-quatre virgule huit pour cent, un écart non significatif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le séjour à l'hôpital est plus court ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois jours en médiane contre cinq, avec une perte de sang de soixante-quinze millilitres contre deux cent cinquante. Mais l'opération dure plus longtemps au robot, deux cent trente-sept minutes contre deux cent neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un point important, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui : c'est une analyse secondaire. Le critère principal, la survie sans récidive, est encore suivi et sera publié séparément."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On retient : moins d'incidents pendant l'opération, mais la réponse sur la survie reste à venir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On reste en cancérologie. Le comité des médicaments humains de l'Agence européenne des médicaments a donné un avis favorable au daraxonrasib, contre le cancer du pancréas métastatique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les adultes qui ont déjà reçu au moins un traitement. Et l'essai ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq cents patients, daraxonrasib en comprimé contre chimiothérapie. Selon OncLive, la survie globale médiane est de treize virgule deux mois contre six virgule sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Presque le double."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et la réponse tumorale confirmée atteint trente et un virgule six pour cent contre onze virgule deux. Les effets indésirables de grade trois ou plus touchent quarante-trois virgule six pour cent des patients, contre cinquante-sept virgule cinq pour cent sous chimiothérapie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quels sont les effets les plus fréquents ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'éruption cutanée, quatre-vingt-cinq pour cent, la diarrhée, cinquante-huit, et l'inflammation de la bouche, cinquante-trois. Un décès par pneumopathie est jugé lié au traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce n'est pas encore une autorisation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. C'est un avis du comité. La Commission européenne doit encore décider."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : avis favorable, décision européenne à venir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction l'alimentation, avec les pommes de terre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La filière demande aux enseignes d'adapter leurs achats. Le CNIPT, l'interprofession, parle d'une récolte marquée par l'été."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les surfaces reculent de dix pour cent, et le rendement moyen est de trente-sept virgule neuf tonnes par hectare, soit sept virgule cinq de moins que la moyenne des dix dernières années."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la récolte ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Agreste, le service statistique du ministère de l'Agriculture, l'estimait au quinze septembre à six virgule deux millions de tonnes, en baisse de vingt-cinq pour cent sur le record de deux mille vingt-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le rendement le plus faible depuis quand ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Depuis mille neuf cent quatre-vingt-quinze."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce que la filière demande, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "De faire évoluer les cahiers des charges et l'agréage, le contrôle à la réception. Quand les exigences restent strictes, des pommes de terre saines mais petites peuvent être écartées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le calibre minimal des pommes de terre pour frites a même été abaissé de cinquante à quarante-cinq millimètres."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les exigences d'aptitude à la préparation de frites ne changent pas, précise le CNIPT. On retient : une récolte en forte baisse, et une filière qui veut de la souplesse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file chez les agriculteurs. Les engrais."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FNAB, la Fédération nationale d'agriculture biologique, demande que le plan engrais de cent quarante-cinq millions d'euros aide aussi le bio."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce plan répond à la hausse des prix après la guerre au Moyen-Orient et le blocage du détroit d'Ormuz."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Par lequel transitait trente pour cent des engrais mondiaux. L'aide est de cinquante euros par tonne, soixante-dix pour les exploitations où les engrais pèsent plus de dix pour cent des charges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors pourquoi le bio est-il exclu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le dispositif ne concerne que les engrais azotés de synthèse. Or l'agriculture biologique n'autorise que les engrais organiques, comme le fumier ou les fientes de volaille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Leurs prix ont aussi augmenté ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FNAB estime de dix à trente pour cent en deux mille vingt-six selon les régions. Elle a écrit au ministère de l'Agriculture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le guichet reste ouvert jusqu'à fin décembre, mais pour le moment sans le bio."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour finir, l'intelligence artificielle et la tech."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Anthropic annonce engager cinq pour cent de ses actions dans un fonds d'intérêt public, l'Anthropic Public Benefit Fund."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avec effet immédiat, mais sous réserve de l'approbation des actionnaires. Le conseil pourra y ajouter deux pour cent à chaque hausse de cinquante pour cent de la valeur de l'entreprise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il servira à quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À de gros dons à des associations ou des versements directs à des populations ciblées. L'exemple cité est l'effet de l'IA sur le marché du travail, où Anthropic a déjà engagé deux cents millions de dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les actions du fonds ne pourront servir ni au lobbying ni à des dons politiques."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La gouvernance n'est pas décrite, Anthropic promet des précisions plus tard. On retient : le montant est promis sous réserve, et la question de qui décidera reste ouverte."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement d'échelle : ASML, le fabricant néerlandais de machines de lithographie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les machines qui gravent les circuits sur le silicium. En présentant ses résultats du troisième trimestre, ASML a déclaré que son offre prévue pour deux mille vingt-sept et deux mille vingt-huit ne répondra pas pleinement à la demande de ses clients."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourtant en juillet, elle prévoyait déjà trente pour cent de capacité en plus chaque année."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Son PDG, Christophe Fouquet, juge ce plan insuffisant. Les ventes du trimestre atteignent onze virgule sept milliards d'euros, pour un résultat net de cinq milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les machines vendues ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Silicon Republic, plus de cent vingt systèmes au trimestre, contre un peu plus de soixante-dix un an plus tôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et pour la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "ASML prévoit entre quatorze virgule deux et quinze virgule deux milliards d'euros de ventes au quatrième trimestre. Elle rattache cette demande aux investissements dans l'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On retient : une demande de machines qui dépasse la capacité prévue de l'entreprise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et tu l'as dit, ASML étudie un surcroît de capacité pour deux mille vingt-huit."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, c'est ce que l'entreprise indique, sans plus de précisions dans l'édition du jour. Voilà pour l'essentiel du jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de nous avoir écoutés. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-19",
   "url": "/podcasts/politique-2026-10-19.mp3",
