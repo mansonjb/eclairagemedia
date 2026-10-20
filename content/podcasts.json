@@ -1,5 +1,472 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-20",
+  "url": "/podcasts/essentiel-2026-10-20.mp3",
+  "taille": 7762174,
+  "duree": 647,
+  "titre": "Éclairage, l'essentiel du mardi 20 octobre 2026",
+  "titre_episode": "Violences du 17 octobre, commerces pillés, diabète et IA : l'essentiel du mardi 20 octobre",
+  "description": "Ce mardi 20 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : violences du 17 octobre, Laurent Nuñez maintenu, couvre-feux partiels, 2 513 gardes à vue selon Gérald Darmanin\n• Politique : commission d'enquête proposée par Yaël Braun-Pivet à l'Assemblée\n• Économie : commerces pillés, chômage partiel à 100 % et fonds de soutien annoncés\n• Économie : le CAC 40 recule de 1,11 % et les taux d'emprunt montent\n• Santé : un capteur de glucose en continu fait baisser l'HbA1c dans le diabète de type 2\n• Santé : VIH, une injection tous les deux mois face aux comprimés, essai en Afrique\n• Alimentation : 31 termes de viande réservés aux produits animaux\n• Alimentation : plan protéines de l'UE, 35 % de production européenne en 2035\n• IA et tech : Gartner alerte sur les investissements d'IA, CoreWeave chute en Bourse\n• IA et tech : la Chine veut contrôler l'exportation de 23 technologies d'IA\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Violences : Yaël Braun-Pivet propose une commission d'enquête"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Commerces pillés : chômage partiel à 100 % et fonds de soutien annoncés"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Bourse de Paris : le CAC 40 recule de 1,11 % et les taux d'emprunt montent"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Diabète de type 2 : un capteur de glucose en continu fait baisser l'HbA1c"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "VIH : une injection tous les deux mois face aux comprimés, essai en Afrique"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Dénominations : 31 termes de viande réservés aux produits animaux"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Plan protéines de l'UE : viser 35 % de production européenne en 2035"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Chine : Pékin veut contrôler l'exportation de 23 technologies d'IA"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce mardi 20 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Dix sujets, on y va."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par la politique. Deux mille cinq cent treize gardes à vue depuis samedi, selon le garde des Sceaux Gérald Darmanin. C'est le bilan judiciaire des violences du 17 octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et ce n'est pas tout. Plus de soixante-dix détentions provisoires, environ cinq cent quatre-vingts comparutions immédiates attendues, et une cinquantaine d'informations judiciaires ouvertes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et côté gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi, le ministre de l'Intérieur, Laurent Nuñez, a reconnu un manque d'anticipation et une perte de contrôle dans certaines grandes villes. Il dit avoir remis sa démission à Emmanuel Macron, qui l'a refusée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ce refus ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Élysée invoque la nécessité d'un commandement continu des forces de l'ordre. Le Premier ministre, Sébastien Lecornu, a aussi demandé aux préfets de décider dès lundi soir des couvre-feux très localisés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc pas d'état d'urgence ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas pour l'instant. Il le juge lourd, sans l'exclure. Et près de deux cents enquêteurs de la préfecture de police de Paris analysent les images de vidéosurveillance et des réseaux sociaux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des oppositions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau, candidat à la présidentielle, réclame une nouvelle doctrine du maintien de l'ordre. Gabriel Attal estime que le gouvernement a failli, et dit que si l'état d'urgence est nécessaire, il faut le décréter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : couvre-feux décidés localement par les préfets, et une très grosse opération judiciaire. Les personnes mises en cause sont présumées innocentes tant qu'elles n'ont pas été jugées."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours sur ce dossier, mais à l'Assemblée nationale. Sa présidente, Yaël Braun-Pivet, doit proposer ce mardi une commission d'enquête sur les débordements des 17 et 18 octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une commission d'enquête, concrètement, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une instance temporaire, dotée de pouvoirs d'investigation, qui contrôle l'action du Gouvernement. Elle se termine par un rapport, remis dans un délai maximum de six mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qui la soutient ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Parti socialiste, La France insoumise et le groupe Ensemble pour la République. Le Rassemblement national se montre réservé et doit fixer sa position ce mardi matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et au Sénat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Plusieurs sénateurs réclament eux aussi une commission d'enquête, et un débat au titre de l'article 50-1 de la Constitution. Ce débat permet au Gouvernement de faire une déclaration, suivie d'une discussion."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenez la date : conférence des présidents ce mardi 20 octobre. Boris Vallaud, pour les socialistes, évoque des conclusions au début de l'année suivante."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à l'économie, et justement aux conséquences de ces violences. Au moins trois mille commerces touchés, selon le ministre du Commerce, Serge Papin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, trois mille ? Les estimations concordent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas tout à fait. Le président de CCI France parle de plus de deux mille commerces directement touchés. La Confédération des commerçants de France, de près de quinze cents, un chiffre provisoire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour une grande enseigne ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Chez Etam, quatre magasins ont été pris d'assaut. Son co-gérant, Laurent Milchior, évalue les dégâts à un million d'euros, selon Challenges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement a annoncé quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Du chômage partiel pris en charge à cent pour cent, et un fonds de soutien spécifique pour la trésorerie des commerçants. Le montant n'est pas précisé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit : les salariés des magasins fermés gardent leur rémunération, sans licenciement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et le Crédit Agricole propose un moratoire sur les remboursements de crédits, et une ligne d'urgence à deux virgule cinq pour cent, jusqu'à vingt mille euros, sous quarante-huit heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un conseil exceptionnel des entreprises se réunit ce mardi à Bercy. Le montant du fonds reste à préciser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor, mais même sujet : la Bourse. Lundi, le CAC 40 a reculé de un virgule onze pour cent, à sept mille huit cent soixante-huit points."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Premier jour de cotation après les violences. Les banques ont mené la baisse, et les autres Bourses européennes ont aussi reculé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le taux d'emprunt de l'État ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il est reparti à la hausse. L'OAT à dix ans, c'est-à-dire l'obligation par laquelle l'État emprunte, atteignait quatre virgule quatre-vingt-quinze pour cent en soirée, contre quatre virgule soixante-dix-huit vendredi, selon France Épargne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'écart avec l'Allemagne ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Entre un virgule vingt et un virgule quarante-neuf point, selon les sources. C'est ce qu'on appelle le spread, une mesure de la prime de risque."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi est-ce important ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quand les investisseurs jugent la situation plus risquée, ils demandent un rendement plus élevé pour prêter. Cela alourdit la charge de la dette de l'État."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et un rendez-vous approche."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'agence Moody's réexamine la note de la France ce vendredi 23 octobre, déjà assortie d'une perspective négative."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Passons à la santé, avec une étude sur le diabète de type deux. Moins zéro virgule neuf point d'HbA1c. C'est l'écart observé avec un capteur de glucose en continu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'HbA1c, c'est la moyenne de la glycémie sur environ trois mois. L'essai s'appelle CONNECT, publié le 14 octobre dans le New England Journal of Medicine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien de participants ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux cent quatre-vingt-trois adultes, tirés au sort dans vingt-deux cabinets de médecine générale aux États-Unis. Ils ne prenaient pas d'insuline. Pendant vingt-six semaines, cent quarante-cinq ont eu le capteur, cent trente-huit les soins habituels."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avec le capteur, l'HbA1c passe de huit virgule huit à sept virgule deux pour cent. Dans le groupe témoin, de huit virgule sept à huit pour cent. Aucune hypoglycémie sévère n'a été signalée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Des réserves ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Vingt-six semaines seulement, les participants savent s'ils portent un capteur, et l'essai est financé par Dexcom, fabricant de capteurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce n'est pas la seule précision."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un média spécialisé cite quatre cent quarante participants, alors que le résumé de l'étude en retient deux cent quatre-vingt-trois. C'est ce dernier chiffre que nous retenons."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La phrase-clé : l'étude suggère un meilleur contrôle de la glycémie, mais elle ne dit rien des complications à long terme. Toute décision se prend avec le médecin."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre étude, autre pathologie : le VIH. Une injection tous les deux mois, face à des comprimés quotidiens. Essai IMPALA, publié le 15 octobre dans le même journal."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui était concerné ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq cent quarante adultes au Kenya, en Afrique du Sud et en Ouganda. Leur virus était contrôlé, mais ils avaient du mal à suivre un traitement quotidien."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats à quarante-huit semaines ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre-vingt-onze pour cent des participants du groupe injection avaient une charge virale inférieure à cinquante copies, contre quatre-vingt-neuf pour cent avec le traitement oral."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, donc l'injection est meilleure ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, et c'est subtil. L'essai montre qu'elle n'est pas moins efficace, au-delà d'une marge de dix points fixée à l'avance. C'est la non-infériorité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les réserves ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq échecs virologiques confirmés dans le groupe injection, aucun dans le groupe oral. L'essai est en ouvert, et financé par Johnson et Johnson."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des patients ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon i-Base, quatre-vingt-treize pour cent des participants du groupe injection la préféraient au traitement oral."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une option de plus pour ceux qui peinent avec le comprimé quotidien. L'étude ne dit rien du prix ni de l'accès dans les pays concernés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction l'alimentation. Peut-on encore écrire steak végétal sur un emballage ? Pas après le dix-neuf août deux mille vingt-neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Explique-nous."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le règlement européen deux mille vingt-six barre mille sept cent trente-neuf réserve le mot viande et une liste fermée de trente et une désignations aux produits d'origine animale. Selon AINIA, il y a notamment steak et bacon, et les noms d'espèces comme bœuf ou poulet."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et burger, saucisse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils ne figurent pas dans la liste. Donc ils restent utilisables. Les stocks fabriqués avant la date pourront être écoulés jusqu'au dix-neuf août deux mille trente-deux au plus tard."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ce n'est pas fini ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans une procédure distincte, des eurodéputés ont déposé des amendements pour étendre la liste. Vote en commission de l'Agriculture en décembre, séance plénière en deux mille vingt-sept. Des fabricants, dont Beyond Meat et Quorn, demandent de les rejeter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La phrase-clé : un règlement s'applique directement dans les vingt-sept États membres, et les entreprises ont environ trois ans pour changer leurs emballages."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours en Europe, le plan protéines de la Commission, publié le sept juillet. Un seul objectif chiffré : passer de vingt-cinq virgule huit à trente-cinq pour cent d'ici deux mille trente-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trente-cinq pour cent de quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "De la part de protéines produites dans l'Union dans les aliments pour le bétail. Aujourd'hui, soixante-quatorze pour cent des aliments riches en protéines utilisés dans l'Union sont importés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des incitations de la politique agricole commune pour les légumineuses et le soja, du soutien au stockage, des contrats dans la filière, un étiquetage d'origine, des achats publics, et plus de cent quatre-vingt-dix millions d'euros de recherche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une réserve, tout de même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le dix-neuf octobre, la revue Seed World Europe a rappelé que la cible n'est pas contraignante, et que le financement repose sur des instruments existants."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : l'objectif concerne l'alimentation des animaux, pas l'assiette des consommateurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Enfin, IA et tech. Trois mille cinq cents milliards de dollars. C'est ce que Gartner estime exposé à une dépréciation d'ici fin deux mille trente, dans les infrastructures d'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dépréciation, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une entreprise reconnaît dans ses comptes qu'un actif, puces ou centre de données, vaut moins que son prix d'achat. Gartner dit qu'il faudrait huit mille cinq cents milliards de revenus cumulés pour couvrir les dépenses, leur financement et un rendement de douze pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les neoclouds ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce sont des fournisseurs de calcul spécialisés dans l'IA. Gartner prévoit que plus de quatre-vingts pour cent cesseront d'opérer de façon indépendante d'ici deux mille trente."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la Bourse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'action de CoreWeave a perdu quinze virgule cinq pour cent le mercredi quatorze octobre, selon Reuters. Sa dette atteint environ cinquante milliards de dollars. Lundi, le Nasdaq a regagné un virgule onze pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À noter : ce sont des prévisions, qui décrivent un risque, pas des pertes constatées. Pour un utilisateur, rien ne change à court terme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier sujet, et on file à Pékin. La Chine veut contrôler l'exportation de vingt-trois technologies d'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vingt-trois ? Sur combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quarante au total, selon l'AP : vingt-trois d'IA, douze de solaire et cinq de biomédecine. C'est un projet publié le seize octobre par deux ministères."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour l'IA, qu'est-ce qui serait visé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les poids et le code source des modèles d'au moins deux mille milliards de paramètres, ou classés dans le top dix mondial à des tests de performance ou de sécurité, selon Bloomberg cité par The Next Web."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, les poids, c'est le gros fichier de nombres appris à l'entraînement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Selon The Next Web, l'accès par application ou API resterait permis, et le code open source serait exempté. Mais les sources divergent sur l'étendue des exemptions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que dit Pékin ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère du Commerce juge la mesure nécessaire, pour prévenir les usages abusifs, et dit ne viser aucun pays ni aucune entreprise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quel calendrier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Consultation publique jusqu'au quinze novembre. Aucune date d'entrée en vigueur connue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Merci de nous avoir écoutés, et à demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-20",
   "url": "/podcasts/politique-2026-10-20.mp3",
