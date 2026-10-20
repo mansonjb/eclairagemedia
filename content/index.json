@@ -1,8 +1,794 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-20",
+  "minutes": 14,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Commerces pillés : chômage partiel à 100 % et fonds de soutien annoncés",
+    "court": "Commerces pillés : l'État annonce des aides",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paris_riots%2C_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg/1280px-Paris_riots%2C_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg",
+    "legende": "des manifestants brisent la vitrine d'un magasin à Paris le 17 octobre 2026",
+    "chapeau": "Samedi 17 octobre, la journée de mobilisation contre la cherté de la vie a donné lieu à des pillages et des dégradations de commerces dans plusieurs grandes villes.",
+    "eclairage": "Comment le chômage partiel et l'assurance aident-ils un commerce saccagé ?",
+    "chiffres": [
+     {
+      "valeur": "3 000",
+      "legende": "commerces dégradés ou pillés (gouvernement)"
+     },
+     {
+      "valeur": "100 %",
+      "legende": "de chômage partiel pris en charge"
+     },
+     {
+      "valeur": "2,5 %",
+      "legende": "taux de la ligne d'urgence du Crédit Agricole"
+     }
+    ],
+    "passe": "Samedi 17 octobre, la journée de mobilisation contre la cherté de la vie a donné lieu à des pillages et des dégradations de commerces dans plusieurs grandes villes. Lundi 19 octobre, à l'issue d'une cellule interministérielle de crise, le Premier ministre Sébastien Lecornu a annoncé « déclencher le chômage partiel dès demain », à 100 %, et la création d'un « fonds de soutien spécifique » pour la trésorerie des commerçants, sans en préciser le montant. Le ministre du Commerce, Serge Papin, évalue à au moins 3 000 le nombre de commerces touchés. Les estimations divergent : le président de CCI France, Alain Di Crescenzo, évoque plus de 2 000 commerces directement touchés et « des centaines de millions d'euros » de dégâts, et la Confédération des commerçants de France près de 1 500, un chiffre provisoire. Le gouvernement a engagé des discussions avec les assureurs pour accélérer les expertises. Le Crédit Agricole propose un moratoire sur les remboursements de crédits et une ligne de crédit d'urgence à 2,5 %, jusqu'à 20 000 euros, mobilisable sous 48 heures.",
+    "points": [],
+    "explication": "Le chômage partiel (ou activité partielle) permet à un employeur dont l'activité s'arrête de continuer à payer ses salariés, l'État finançant une partie de leur rémunération : en temps normal, 60 % du salaire brut selon LCP, contre 100 % annoncés ici. L'assurance rembourse les dégâts matériels (vitrines, stocks volés) selon le contrat, mais les pertes d'exploitation, c'est-à-dire le chiffre d'affaires perdu pendant la fermeture, ne sont couvertes que si la garantie a été souscrite. Entre la déclaration du sinistre et l'indemnisation, la trésorerie (l'argent disponible pour payer fournisseurs et loyers) peut manquer : c'est ce que visent le fonds de soutien, le moratoire bancaire et les acomptes demandés aux assureurs.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.challenges.fr/entreprise/commerce-et-distribution/chomage-partiel-fonds-de-soutien-les-aides-du-gouvernement-pour-les-commerces-touches-par-les-violences-du-week-end_646444",
+      "nom": "Challenges"
+     },
+     {
+      "url": "https://tpeactu.fr/2026/10/19/pillages-17-octobre-aides-commercants-annonces-lecornu/",
+      "nom": "TPE Actu"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/economie/pillages-au-moins-3-000-commerces-touchees-pour-des-centaines-de-millions-deuros-de-degats",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro",
+      "nom": "BBC"
+     },
+     {
+      "url": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/au-moins-3-000-commerces-degrades-ou-pilles-le-gouvernement-annonce-des-aides-60352",
+      "nom": "Ecommercemag, citant une dépêche AFP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« Il n'est pas question qu'il y ait de la casse sociale dans cette affaire ».",
+      "url": "https://www.challenges.fr/entreprise/commerce-et-distribution/chomage-partiel-fonds-de-soutien-les-aides-du-gouvernement-pour-les-commerces-touches-par-les-violences-du-week-end_646444",
+      "source": "Challenges"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Etam",
+      "contexte": "Laurent Milchior, co-gérant",
+      "texte": "Quatre magasins de l'enseigne ont été pris d'assaut ; Challenges titre sur l'évaluation du patron : « Les pillages nous ont coûté 1 million d'euros ».",
+      "url": "https://www.challenges.fr/entreprise/les-pillages-nous-ont-coute-1-million-deuros-apres-les-emeutes-le-patron-detam-pousse-un-coup-de-gueule_646460",
+      "source": "Challenges"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Confédération des commerçants de France",
+      "contexte": "Pierre Bosche, président",
+      "texte": "« casser ou piller un commerce n'est pas manifester ».",
+      "url": "https://tpeactu.fr/2026/10/19/pillages-17-octobre-aides-commercants-annonces-lecornu/",
+      "source": "TPE Actu"
+     }
+    ],
+    "apres": "Un « conseil exceptionnel des entreprises » se réunit mardi 20 octobre à Bercy avec les ministres Jean-Pierre Farandou, Roland Lescure et Serge Papin. Le montant du fonds de soutien et ses conditions d'accès restent à préciser.",
+    "change": "Pour les salariés des commerces fermés, le chômage partiel annoncé maintient la rémunération sans passer par un licenciement.",
+    "credit": {
+     "auteur": "Jorge Jaramillo",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MARCHÉS",
+    "titre": "Bourse de Paris : le CAC 40 recule de 1,11 % et les taux d'emprunt montent",
+    "court": "Bourse de Paris : le CAC 40 perd 1,11 %",
+    "image": "https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?ixid=M3wxMDkzNTc5fDB8MXxhbGx8fHx8fHx8fHwxNzkyNDczMTk5fA&ixlib=rb-4.1.0&w=1280&q=80&fm=jpg",
+    "legende": "un écran affichant des indices boursiers européens (illustration)",
+    "chapeau": "Lundi 19 octobre, premier jour de cotation après les violences urbaines du samedi 17 octobre, l'indice CAC 40 a terminé en baisse de 1,11 %, à 7 868,05 points, selon Challenges, France Épargne et une dépêche AFP.",
+    "eclairage": "Pourquoi des violences dans la rue font-elles monter le taux d'emprunt de l'État ?",
+    "chiffres": [
+     {
+      "valeur": "-1,11%",
+      "legende": "CAC 40 à 7 868 points"
+     },
+     {
+      "valeur": "4,95 %",
+      "legende": "OAT à 10 ans en soirée (4,78 % vendredi)"
+     },
+     {
+      "valeur": "23/10",
+      "legende": "revue de la note par Moody's"
+     }
+    ],
+    "passe": "Lundi 19 octobre, premier jour de cotation après les violences urbaines du samedi 17 octobre, l'indice CAC 40 a terminé en baisse de 1,11 %, à 7 868,05 points, selon Challenges, France Épargne et une dépêche AFP. Les banques ont été en tête des baisses, selon France Épargne, et Challenges relève que l'assurance, l'hôtellerie, la distribution et l'immobilier ont été en difficulté. Les autres Bourses européennes ont aussi reculé. Le rendement de l'OAT à dix ans, le taux auquel l'État français emprunte, est reparti à la hausse : 4,95 % vers 19 h contre 4,78 % vendredi selon France Épargne, alors que Challenges cite 4,79 % dans la séance. L'écart avec le taux allemand à dix ans se situe entre 1,20 point (Challenges) et 1,44 à 1,49 point (France Épargne). L'agence Moody's doit réexaminer vendredi 23 octobre la note de la France, déjà assortie d'une perspective négative.",
+    "points": [],
+    "explication": "Pour financer son déficit, l'État émet des OAT (obligations assimilables du Trésor) : des prêts que les investisseurs lui consentent contre un intérêt, le taux ou rendement. Quand ils jugent la situation plus risquée (budget difficile à voter, croissance faible, note de crédit menacée), ils demandent un rendement plus élevé pour continuer à prêter. L'écart avec le taux allemand, le spread, mesure cette prime de risque. Un taux plus haut renchérit chaque nouvelle dette de l'État et influence en partie les taux des crédits aux entreprises et aux ménages.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.challenges.fr/argent-et-placements/les-actes-de-violence-urbaine-en-france-ont-eu-raison-du-moral-des-investisseurs-la-bourse-de-paris-est-en-berne_646457",
+      "nom": "Challenges"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/violences-du-week-end-loat-a-dix-ans-frole-5-et-le-cac-40-perd-plus-de-1",
+      "nom": "France Épargne"
+     },
+     {
+      "url": "https://medias24.com/agence-presse/la-bourse-de-paris-finit-dans-le-rouge-apres-les-violences-en-france",
+      "nom": "dépêche AFP via Médias24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Colin Graham",
+      "contexte": "Robeco",
+      "texte": "« La hausse des taux des obligations d'État conduit certains investisseurs à s'interroger sur l'intérêt de prendre des risques sur les marchés actions ».",
+      "url": "https://www.challenges.fr/argent-et-placements/les-actes-de-violence-urbaine-en-france-ont-eu-raison-du-moral-des-investisseurs-la-bourse-de-paris-est-en-berne_646457",
+      "source": "Challenges"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Charlotte de Montpellier",
+      "contexte": "ING",
+      "texte": "« Ces violences mettent de l'huile sur le feu d'une situation déjà tendue pour la France, entre finances publiques dégradées, difficultés à adopter un budget et perspectives de croissance très faibles ».",
+      "url": "https://www.france-epargne.fr/news/violences-du-week-end-loat-a-dix-ans-frole-5-et-le-cac-40-perd-plus-de-1",
+      "source": "France Épargne"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Christopher Dembik",
+      "contexte": "Pictet AM",
+      "texte": "« Une nouvelle dégradation de la note souveraine française est à prévoir si les finances publiques ne se redressent pas ».",
+      "url": "https://www.challenges.fr/argent-et-placements/les-actes-de-violence-urbaine-en-france-ont-eu-raison-du-moral-des-investisseurs-la-bourse-de-paris-est-en-berne_646457",
+      "source": "Challenges"
+     }
+    ],
+    "apres": "Moody's réexamine la note de la France vendredi 23 octobre. De nombreuses entreprises publient aussi leurs résultats trimestriels cette semaine.",
+    "change": "Pour l'État, un taux d'emprunt plus élevé alourdit la charge de la dette. Pour les entreprises cotées, la baisse des cours est un fait daté, qui ne préjuge pas de leurs résultats.",
+    "credit": {
+     "auteur": "Anne Nygård / Unsplash",
+     "licence": "licence Unsplash",
+     "licence_url": "https://unsplash.com/license",
+     "page": "https://unsplash.com/photos/graphical-user-interface-application-x07ELaNFt34"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Ikea France : jusqu'à 303 postes supprimés, 100 créés",
+    "court": "Ikea France : jusqu'à 303 postes supprimés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Magasin_IKEA_%C3%A0_Roques_2.jpg/1280px-Magasin_IKEA_%C3%A0_Roques_2.jpg",
+    "legende": "un rayon de luminaires d'un magasin Ikea en France (illustration)",
+    "chapeau": "Lundi 19 octobre, Ikea France a annoncé dans un communiqué un plan de transformation qui prévoit de supprimer « potentiellement un maximum de 303 postes », surtout au siège en région parisienne et dans les fonctions administratives, dans le cadre d'un plan de sauvegarde de l'emploi (PSE).",
+    "eclairage": "Qu'est-ce qu'un plan de sauvegarde de l'emploi, et pourquoi supprimer des postes en en créant ?",
+    "chiffres": [
+     {
+      "valeur": "303",
+      "legende": "postes supprimés au maximum"
+     },
+     {
+      "valeur": "100",
+      "legende": "postes créés en parallèle"
+     },
+     {
+      "valeur": "164",
+      "legende": "suppressions selon la CFDT"
+     }
+    ],
+    "passe": "Lundi 19 octobre, Ikea France a annoncé dans un communiqué un plan de transformation qui prévoit de supprimer « potentiellement un maximum de 303 postes », surtout au siège en région parisienne et dans les fonctions administratives, dans le cadre d'un plan de sauvegarde de l'emploi (PSE). L'entreprise invoque la nécessité de s'adapter à « une concurrence toujours plus forte » et prévoit de créer 100 postes « pour renforcer les expertises essentielles au développement de l'entreprise ». Selon la CFDT, syndicat majoritaire, le plan comprend 164 suppressions, le redéploiement d'« une centaine » d'autres postes et une quarantaine d'avenants aux contrats de travail ; il toucherait surtout l'administratif, la comptabilité et les ressources humaines. Ikea France compte plus de 12 000 salariés et 38 magasins. Le dialogue social a commencé lundi et doit durer jusqu'en mars 2027, avec une prochaine réunion début novembre.",
+    "points": [],
+    "explication": "Un plan de sauvegarde de l'emploi (PSE) est la procédure légale qu'une entreprise suit pour des licenciements économiques collectifs : elle doit consulter les représentants du personnel, proposer des reclassements et des mesures d'accompagnement. Le chiffre de 303 est un maximum : le nombre final de départs dépend des redéploiements internes et des négociations. Supprimer des postes dans un métier et en créer dans un autre est fréquent quand une entreprise réorganise ses fonctions, par exemple en automatisant des tâches administratives ou en renforçant des expertises, pour réduire ses coûts ou s'adapter à son marché.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.lefigaro.fr/societes/ikea-prevoit-de-supprimer-jusqu-a-300-postes-en-france-et-d-en-creer-100-20261019",
+      "nom": "Le Figaro avec AFP"
+     },
+     {
+      "url": "https://fr.news.yahoo.com/sport/ameublement-ikea-france-annonce-plan-184630306.html",
+      "nom": "20 Minutes avec AFP, via Yahoo"
+     },
+     {
+      "url": "https://lexpress-franchise.com/actualites/plans-social-ikea-suppression-jusqua-303-postes-en-france/",
+      "nom": "L'Express Franchise"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Ikea France",
+      "contexte": "communiqué",
+      "texte": "Un plan de transformation pour s'adapter à « une concurrence toujours plus forte », avec 100 créations de postes.",
+      "url": "https://www.lefigaro.fr/societes/ikea-prevoit-de-supprimer-jusqu-a-300-postes-en-france-et-d-en-creer-100-20261019",
+      "source": "Le Figaro avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "SYNDICATS",
+      "qui": "CFDT",
+      "contexte": "Abdel Mekki, délégué central",
+      "texte": "Une décision « paradoxale » vu la santé économique d'Ikea France ; « On pense que c'est un premier jalon avant d'autres suppressions violentes ».",
+      "url": "https://www.lefigaro.fr/societes/ikea-prevoit-de-supprimer-jusqu-a-300-postes-en-france-et-d-en-creer-100-20261019",
+      "source": "Le Figaro avec AFP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "SYNDICATS",
+      "qui": "CGT",
+      "contexte": "Roger Pouilly, délégué syndical central",
+      "texte": "Une décision « fort de café ».",
+      "url": "https://www.lefigaro.fr/societes/ikea-prevoit-de-supprimer-jusqu-a-300-postes-en-france-et-d-en-creer-100-20261019",
+      "source": "Le Figaro avec AFP"
+     }
+    ],
+    "apres": "Le dialogue social se poursuit jusqu'en mars 2027, avec une prochaine réunion avec les représentants du personnel début novembre.",
+    "change": "Pour les salariés du siège et des fonctions administratives, la consultation s'ouvre : reclassements, redéploiements et avenants seront discutés.",
+    "credit": {
+     "auteur": "Olybrius",
+     "licence": "domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Magasin_IKEA_%C3%A0_Roques_2.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "INDUSTRIE",
+    "titre": "Roche gèle ses investissements en Allemagne en plein sommet de Berlin",
+    "court": "Roche gèle ses investissements allemands",
+    "image": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixid=M3wxMDkzNTc5fDB8MXxhbGx8fHx8fHx8fHwxNzkyNDczMTgzfA&ixlib=rb-4.1.0&w=1280&q=80&fm=jpg",
+    "legende": "un technicien de laboratoire pipette un échantillon (illustration)",
+    "chapeau": "Lundi 19 octobre, le groupe pharmaceutique suisse Roche a annoncé suspendre ses futurs investissements en Allemagne, le jour de l'ouverture du sommet « Invest in Germany » à Berlin, selon Euronews et l'AFP.",
+    "eclairage": "Pourquoi une remise imposée sur les médicaments peut-elle freiner un investissement ?",
+    "chiffres": [
+     {
+      "valeur": "200",
+      "legende": "dirigeants invités au sommet de Berlin"
+     },
+     {
+      "valeur": "15,5 %",
+      "legende": "remise sur les médicaments de marque (Euronews)"
+     },
+     {
+      "valeur": "19 000",
+      "legende": "salariés de Roche en Allemagne (AFP)"
+     }
+    ],
+    "passe": "Lundi 19 octobre, le groupe pharmaceutique suisse Roche a annoncé suspendre ses futurs investissements en Allemagne, le jour de l'ouverture du sommet « Invest in Germany » à Berlin, selon Euronews et l'AFP. Daniel Steiners, responsable de Roche en Allemagne, a déclaré au quotidien Die Welt : « Nous devons être en mesure d'évaluer si l'Allemagne reste un partenaire qui offre des conditions cadres fiables ». Il critique la réforme du système de santé adoptée en juillet, qui relève la contribution des laboratoires ; selon Euronews seul, la remise obligatoire sur la plupart des médicaments de marque passerait de 7 % à 15,5 % l'an prochain (information d'une seule source, à confirmer). Roche emploie près de 19 000 personnes en Allemagne, selon l'AFP. La ministre de l'Économie, Katherina Reiche, a rappelé « la contribution importante que l'industrie pharmaceutique doit fournir » et indiqué qu'un mécanisme d'exemption est discuté pour certaines entreprises.",
+    "points": [],
+    "explication": "En Allemagne, l'assurance maladie obligatoire rembourse les médicaments, et l'État peut demander aux laboratoires une remise : une part du prix qu'ils reversent aux caisses. Cette remise réduit la marge (ce qui reste après les coûts) sur chaque boîte vendue. Or un groupe choisit où construire usines et laboratoires en comparant, pays par pays, le rendement qu'il en attend. Geler les décisions d'investissement revient à reporter de futurs projets, pas à fermer des sites existants : c'est un moyen de pression et de prudence.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.euronews.com/2026/10/20/why-pharma-giant-roche-is-putting-german-investments-on-hold",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/roche-gele-ses-investissements-en-allemagne-camouflet-pour-merz",
+      "nom": "dépêche AFP via Vermögenszentrum (AWP)"
+     },
+     {
+      "url": "https://www.blick.ch/fr/monde/allemagne-roche-gele-ses-investissements-merz-grimace/y33nreh",
+      "nom": "Blick"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Roche",
+      "contexte": "Daniel Steiners, responsable Allemagne",
+      "texte": "« Nous devons être en mesure d'évaluer si l'Allemagne reste un partenaire qui offre des conditions cadres fiables ».",
+      "url": "https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/roche-gele-ses-investissements-en-allemagne-camouflet-pour-merz",
+      "source": "dépêche AFP via Vermögenszentrum"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Katherina Reiche",
+      "contexte": "ministre allemande de l'Économie",
+      "texte": "Rappelle « la contribution importante que l'industrie pharmaceutique doit fournir » et admet qu'un mécanisme d'exemption est discuté.",
+      "url": "https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/roche-gele-ses-investissements-en-allemagne-camouflet-pour-merz",
+      "source": "dépêche AFP via Vermögenszentrum"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Siemens",
+      "contexte": "Roland Busch, président du directoire",
+      "texte": "Pour lui, l'annonce est un signal : « si les conditions d'investissement en Allemagne ne sont pas réunies, elles investiront ailleurs ».",
+      "url": "https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/roche-gele-ses-investissements-en-allemagne-camouflet-pour-merz",
+      "source": "dépêche AFP via Vermögenszentrum"
+     }
+    ],
+    "apres": "Le sommet se poursuit mardi 20 octobre à huis clos. Le mécanisme d'exemption évoqué par Mme Reiche doit encore être discuté au sein du gouvernement.",
+    "change": "Le gel concerne les décisions futures d'investissement ; les sources consultées ne font état d'aucune suppression de poste ni fermeture de site. Pour l'Allemagne, qui cherche à attirer les investisseurs étrangers, l'annonce intervient en plein sommet.",
+    "credit": {
+     "auteur": "Julia Koblitz / Unsplash",
+     "licence": "licence Unsplash",
+     "licence_url": "https://unsplash.com/license",
+     "page": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA"
+    }
+   },
+   {
+    "n": 5,
+    "theme": "TECH",
+    "titre": "Allemagne : déclaration d'intention avec Nvidia pour l'IA industrielle",
+    "court": "Allemagne et Nvidia : un partenariat IA",
+    "image": "https://images.unsplash.com/photo-1716191299980-a6e8827ba10b?ixid=M3wxMDkzNTc5fDB8MXxhbGx8fHx8fHx8fHwxNzkyNDczMTg0fA&ixlib=rb-4.1.0&w=1280&q=80&fm=jpg",
+    "legende": "un bras robotisé bleu sur une ligne de production industrielle (illustration)",
+    "chapeau": "Lundi 19 octobre, à l'ouverture du sommet « Invest in Germany » à Berlin, le chancelier Friedrich Merz, le ministère de l'Économie et de l'Énergie et le ministère de la Recherche ont signé avec Nvidia une déclaration d'intention (« Joint Declaration of Intent », selon Nvidia).",
+    "eclairage": "Qu'est-ce que l'« IA physique », et pourquoi l'industrie allemande s'y intéresse ?",
+    "chiffres": [
+     {
+      "valeur": "200",
+      "legende": "dirigeants au sommet de Berlin"
+     },
+     {
+      "valeur": "12",
+      "legende": "entreprises allemandes attendues (environ)"
+     }
+    ],
+    "passe": "Lundi 19 octobre, à l'ouverture du sommet « Invest in Germany » à Berlin, le chancelier Friedrich Merz, le ministère de l'Économie et de l'Énergie et le ministère de la Recherche ont signé avec Nvidia une déclaration d'intention (« Joint Declaration of Intent », selon Nvidia). Elle prévoit une initiative commune pour développer des modèles d'IA de pointe pour l'« IA physique » (robotique, usines, conduite autonome), à partir des données et du savoir-faire industriels allemands. Le montant n'a pas été dévoilé ; selon le Handelsblatt cité par BFM Business, il s'élèverait à plusieurs centaines de millions d'euros. Une douzaine d'entreprises, dont Siemens, Audi et Black Forest Labs, doivent y participer, selon le site officiel deutschland.de. Friedrich Merz a lancé : « S'il vous plaît, ouvrez vos portes à l'IA pour utiliser vos données, c'est décisif pour l'avenir de l'Allemagne » ; Jensen Huang, patron de Nvidia, a estimé que « chaque entreprise aura deux usines », l'une physique, l'autre numérique.",
+    "points": [],
+    "explication": "Les assistants comme ChatGPT produisent du texte ou des images. L'IA physique désigne des modèles qui pilotent des machines, des robots ou des véhicules, et qui apprennent à partir des données réelles des usines. L'Allemagne n'a pas de géant des grands modèles d'IA générative, mais elle possède des industries (automobile, mécanique, chimie) qui produisent beaucoup de données : c'est son pari. Une déclaration d'intention n'est pas un contrat : elle fixe une direction commune, sans engager de montant précis. Un jumeau numérique est la copie virtuelle d'une usine, utilisée pour simuler avant de produire : c'est l'idée des « deux usines » de Jensen Huang.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "nom": "Nvidia (blog officiel)"
+     },
+     {
+      "url": "https://www.bfmtv.com/economie/international/c-est-decisif-pour-l-avenir-de-l-allemagne-le-gouvernement-allemand-annonce-un-partenariat-avec-nvidia-pour-accelerer-dans-l-ia-industrielle_AD-202610190872.html",
+      "nom": "BFM Business"
+     },
+     {
+      "url": "https://finance.yahoo.com/technology/ai/articles/merz-unveils-nvidia-partnership-major-193335520.html",
+      "nom": "dpa via Yahoo Finance"
+     },
+     {
+      "url": "https://www.deutschland.de/en/news/merz-announces-ai-partnership-with-nvidia",
+      "nom": "deutschland.de"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Friedrich Merz",
+      "contexte": "chancelier",
+      "texte": "« S'il vous plaît, ouvrez vos portes à l'IA pour utiliser vos données, c'est décisif pour l'avenir de l'Allemagne ».",
+      "url": "https://www.bfmtv.com/economie/international/c-est-decisif-pour-l-avenir-de-l-allemagne-le-gouvernement-allemand-annonce-un-partenariat-avec-nvidia-pour-accelerer-dans-l-ia-industrielle_AD-202610190872.html",
+      "source": "BFM Business"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Nvidia",
+      "contexte": "Jensen Huang, patron",
+      "texte": "« chaque entreprise aura deux usines », l'une physique, l'autre numérique ; l'IA doit « augmenter » l'expertise industrielle plutôt que la remplacer.",
+      "url": "https://www.bfmtv.com/economie/international/c-est-decisif-pour-l-avenir-de-l-allemagne-le-gouvernement-allemand-annonce-un-partenariat-avec-nvidia-pour-accelerer-dans-l-ia-industrielle_AD-202610190872.html",
+      "source": "BFM Business"
+     }
+    ],
+    "apres": "Le sommet se poursuit mardi 20 octobre à huis clos. Les détails de l'initiative (financement, entreprises participantes) restent à publier.",
+    "change": "Pour les PME industrielles, le gouvernement les invite à partager davantage leurs données pour entraîner ces modèles. Pour Nvidia, c'est un débouché dans l'industrie européenne. Aucun calendrier ni montant officiel n'est publié.",
+    "credit": {
+     "auteur": "Homa Appliances / Unsplash",
+     "licence": "licence Unsplash",
+     "licence_url": "https://unsplash.com/license",
+     "page": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Chômage partiel",
+    "definition": "Dispositif par lequel l'État finance une partie du salaire d'un employé dont l'entreprise réduit ou arrête son activité, pour éviter un licenciement. Ici, la prise en charge annoncée est de 100 %."
+   },
+   {
+    "terme": "OAT et spread",
+    "definition": "L'OAT est une obligation émise par l'État français pour emprunter. Le spread est l'écart entre son taux et celui de l'Allemagne : plus il grandit, plus les investisseurs jugent la France risquée."
+   },
+   {
+    "terme": "Plan de sauvegarde de l'emploi (PSE)",
+    "definition": "Procédure légale d'une entreprise qui prévoit des licenciements économiques collectifs : consultation du personnel, reclassements et mesures d'accompagnement."
+   },
+   {
+    "terme": "Chiffre d'affaires",
+    "definition": "Le total des ventes d'une entreprise sur une période, avant déduction des coûts. Il se distingue du bénéfice, ce qui reste après les coûts."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Ikea France a annoncé supprimer jusqu'à 303 postes et n'en créer aucun.",
+   "reponse": false,
+   "explication": "Ikea France prévoit de supprimer « potentiellement un maximum de 303 postes », mais aussi de créer 100 postes pour renforcer des expertises, selon l'AFP."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-20",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Dénominations : 31 termes de viande réservés aux produits animaux",
+    "court": "Dénominations : 31 termes réservés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pflanzlicher_Fleischersatz.jpg/960px-Pflanzlicher_Fleischersatz.jpg",
+    "legende": "Rayon de substituts végétaux à la viande dans un supermarché de Vienne, en Autriche",
+    "chapeau": "Le règlement (UE) 2026/1739, daté du 8 juillet 2026 et publié au Journal officiel de l'Union européenne le 29 juillet, modifie l'organisation commune des marchés agricoles.",
+    "eclairage": "Qui décide du nom d'un aliment ?",
+    "chiffres": [
+     {
+      "valeur": "31",
+      "legende": "désignations de viande réservées"
+     },
+     {
+      "valeur": "2029",
+      "legende": "application le 19 août"
+     },
+     {
+      "valeur": "2032",
+      "legende": "fin d'écoulement des stocks"
+     }
+    ],
+    "passe": "Le règlement (UE) 2026/1739, daté du 8 juillet 2026 et publié au Journal officiel de l'Union européenne le 29 juillet, modifie l'organisation commune des marchés agricoles. Il réserve aux produits d'origine animale le mot « viande » et une liste fermée de 31 désignations ; selon AINIA, elle comprend notamment « steak » et « bacon », ainsi que les noms d'espèces comme le bœuf, le porc ou le poulet. Ces mots ne pourront plus figurer sur des produits végétaux ni sur des aliments issus de cellules cultivées à partir du 19 août 2029 ; les produits fabriqués ou importés avant cette date pourront être vendus jusqu'à épuisement des stocks, et au plus tard jusqu'au 19 août 2032. Les noms de format comme « burger », « saucisse » ou « nuggets » ne figurent pas dans la liste. Dans une procédure distincte, des eurodéputés du PPE, des Patriotes pour l'Europe et des Conservateurs et réformistes ont déposé des amendements pour étendre les mots réservés ; le vote en commission de l'Agriculture est attendu en décembre et la séance plénière en 2027. Début octobre, des fabricants et des associations, dont Beyond Meat et Quorn (une vingtaine à 28 signataires selon les décomptes), ont demandé aux eurodéputés de rejeter cette extension.",
+    "points": [],
+    "explication": "Le nom sous lequel un produit est vendu est encadré par le droit européen. Ici, le règlement fixe une liste fermée de mots réservés : ce qui n'y figure pas, comme « burger » ou « saucisse », reste utilisable. Les entreprises disposent d'environ trois ans pour adapter leurs emballages. Ce texte est un règlement : il s'applique directement dans les 27 États membres, sans loi nationale.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1739/oj",
+      "nom": "EUR-Lex (règlement 2026/1739)"
+     },
+     {
+      "url": "https://soundsvegan.com/2026/10/veggie-burger-verbot-eu",
+      "nom": "soundsvegan.com"
+     },
+     {
+      "url": "https://www.ainia.com/en/ainia-news/meat-designations-eu-2029/",
+      "nom": "AINIA"
+     },
+     {
+      "url": "https://www.greenqueen.com.hk/beyond-meat-quorn-food-industry-urge-eu-to-reject-extension-of-plant-based-labelling-ban/",
+      "nom": "Green Queen"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Règlement (UE) 2026/1739",
+      "contexte": "législateur européen",
+      "texte": "Il réserve « viande » et 31 désignations aux produits animaux et laisse les noms de format en dehors de la liste.",
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1739/oj",
+      "source": "EUR-Lex"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ENTREPRISE",
+      "qui": "Rutger Rozendaal",
+      "contexte": "PDG de The Vegetarian Butcher Collective, signataire de la lettre",
+      "texte": "« Consumers already understand terms such as 'burger' and 'sausage' in the context of plant-based food » (en anglais).",
+      "url": "https://www.greenqueen.com.hk/beyond-meat-quorn-food-industry-urge-eu-to-reject-extension-of-plant-based-labelling-ban/",
+      "source": "Green Queen"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ENTREPRISE",
+      "qui": "Lettre de fabricants et d'associations",
+      "contexte": "dont Beyond Meat, Quorn, Redefine Meat",
+      "texte": "Les signataires jugent que de nouvelles restrictions sont contraires au plan protéines de la Commission, qui vise à développer les protéines végétales européennes.",
+      "url": "https://www.greenqueen.com.hk/beyond-meat-quorn-food-industry-urge-eu-to-reject-extension-of-plant-based-labelling-ban/",
+      "source": "Green Queen"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Eurodéputés PPE, Patriotes pour l'Europe, CRE",
+      "contexte": "amendements déposés",
+      "texte": "Ils proposent d'étendre la liste des mots réservés à d'autres termes, dont des noms de format.",
+      "url": "https://soundsvegan.com/2026/10/veggie-burger-verbot-eu",
+      "source": "soundsvegan.com"
+     }
+    ],
+    "apres": "Vote de la commission de l'Agriculture du Parlement européen en décembre 2026, séance plénière en 2027, puis nouvelle négociation avec le Conseil si le texte est modifié.",
+    "change": "Dans les rayons, des intitulés comme « steak végétal » devront changer d'ici le 19 août 2029, alors que « burger » et « saucisse » restent possibles, sauf si les amendements en discussion sont adoptés.",
+    "credit": {
+     "auteur": "Tischbeinahe",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pflanzlicher_Fleischersatz.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PROTÉINES",
+    "titre": "Plan protéines de l'UE : viser 35 % de production européenne en 2035",
+    "court": "Plan protéines UE : 35 % d'ici 2035",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pea_field_in_Poczernino_kz01.jpg/960px-Pea_field_in_Poczernino_kz01.jpg",
+    "legende": "Champ de pois à maturité près de Karlino, en Pologne (illustration)",
+    "chapeau": "La Commission européenne a publié le 7 juillet 2026 son plan protéines, accompagné d'une stratégie pour l'élevage.",
+    "eclairage": "Pourquoi cette cible concerne surtout le bétail",
+    "chiffres": [
+     {
+      "valeur": "35 %",
+      "legende": "cible 2035 pour l'alimentation animale"
+     },
+     {
+      "valeur": "25,8 %",
+      "legende": "part européenne actuelle"
+     },
+     {
+      "valeur": "74 %",
+      "legende": "des aliments riches en protéines importés"
+     }
+    ],
+    "passe": "La Commission européenne a publié le 7 juillet 2026 son plan protéines, accompagné d'une stratégie pour l'élevage. Son seul objectif chiffré est de faire passer de 25,8 % à 35 % d'ici 2035 la part des protéines produites dans l'Union dans les aliments destinés au bétail ; selon la Commission, 74 % des aliments riches en protéines utilisés dans l'Union sont aujourd'hui importés. Le plan prévoit des incitations de la politique agricole commune pour les légumineuses et le soja, un soutien au stockage et à la transformation, des contrats entre agriculteurs et acteurs de la filière, un étiquetage d'origine, des achats publics de protéines locales et plus de 190 millions d'euros de recherche via Horizon. Il prévoit aussi des dialogues annuels avec les États membres et un observatoire du marché. Le 19 octobre, la revue Seed World Europe a rappelé que la cible est non contraignante et que le financement repose sur des instruments existants.",
+    "points": [],
+    "explication": "La cible de 35 % porte sur les protéines des aliments pour animaux (oléagineux et protéagineux), pas sur l'assiette des consommateurs. Selon Seed World, les importations de soja viennent surtout du Brésil, d'Argentine et des États-Unis. En Europe, l'apport en protéines est d'environ 60 % d'origine animale et 40 % d'origine végétale, selon la même source.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agriculture.ec.europa.eu/farming/crop-productions-and-plant-based-products/cereals/reducing-plant-protein-deficit-eu_en",
+      "nom": "Commission européenne (agriculture)"
+     },
+     {
+      "url": "https://www.seedworld.com/europe/2026/10/19/plant-based-proteins-europe-farmers-seed-sector/",
+      "nom": "Seed World Europe"
+     },
+     {
+      "url": "https://www.euroveg.eu/?p=5443",
+      "nom": "European Vegetarian Union"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Commission européenne",
+      "contexte": "plan protéines, 7 juillet 2026",
+      "texte": "Elle vise à renforcer la résilience, l'autonomie stratégique et la durabilité du système protéique de l'Union, avec une cible de 35 % en 2035.",
+      "url": "https://agriculture.ec.europa.eu/farming/crop-productions-and-plant-based-products/cereals/reducing-plant-protein-deficit-eu_en",
+      "source": "Commission européenne"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / ONG",
+      "qui": "Rafael Pinto",
+      "contexte": "European Vegetarian Union",
+      "texte": "Il y voit un jalon important, mais regrette l'absence de mesures concrètes, de cible d'équilibre entre protéines végétales et animales et de financement dédié. Il demande un plan européen de l'alimentation végétale.",
+      "url": "https://www.euroveg.eu/?p=5443",
+      "source": "European Vegetarian Union"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "Franco Brazzabeni",
+      "contexte": "chroniqueur de Seed World, membre d'Assosementi",
+      "texte": "Il relève que la cible n'est pas contraignante, que le plan s'appuie sur des fonds existants et qu'il vise surtout l'élevage, pas l'alimentation humaine.",
+      "url": "https://www.seedworld.com/europe/2026/10/19/plant-based-proteins-europe-farmers-seed-sector/",
+      "source": "Seed World Europe"
+     }
+    ],
+    "apres": "Dialogues annuels avec les États membres et observatoire du marché des céréales, oléagineux et protéagineux. Le budget de la prochaine PAC dira quelles incitations seront financées.",
+    "change": "Pour les consommateurs, aucun effet direct : le plan vise l'alimentation du bétail. Pour les agriculteurs, des incitations pour les cultures riches en protéines sont attendues dans la prochaine PAC, après 2027.",
+    "credit": {
+     "auteur": "Krzysztof Ziarnek, Kenraiz",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pea_field_in_Poczernino_kz01.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1er",
+    "mois": "DÉC.",
+    "texte": "com."
+   },
+   {
+    "jour": "3-4",
+    "mois": "DÉC.",
+    "texte": "Versailles : réunion scientifique du G7 sur la santé des sols et les nutriments, organisée par l'Inrae (Terre-net)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "OCM",
+    "definition": "L'organisation commune des marchés agricoles, le règlement européen qui encadre les marchés des produits agricoles."
+   },
+   {
+    "terme": "Protéagineux",
+    "definition": "Une plante cultivée pour ses graines riches en protéines, comme le pois ou la féverole."
+   },
+   {
+    "terme": "Dénomination de vente",
+    "definition": "Le nom sous lequel un aliment est vendu, encadré par la réglementation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Les noms « burger » et « saucisse » restent autorisés pour les produits végétaux dans le règlement européen publié en juillet 2026.",
+   "reponse": true,
+   "explication": "Le texte réserve « viande » et 31 désignations comme « steak » ou « bacon » aux produits animaux, mais les noms de format ne figurent pas dans la liste."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-20",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MOBILITÉS",
+    "titre": "Bus Yélo : l'agglo fait retirer la pub d'un livre de Villiers",
+    "court": "Bus Yélo : pub d'un livre retirée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bus_et_V%C3%A9los_Y%C3%A9lo_%28La_Rochelle%29.JPG/1280px-Bus_et_V%C3%A9los_Y%C3%A9lo_%28La_Rochelle%29.JPG",
+    "legende": "Un bus et des vélos Yélo près du Vieux-Port de La Rochelle (archive)",
+    "chapeau": "Le 15 octobre 2026, ICI La Rochelle a relevé que des bus du réseau Yélo, place de Verdun, diffusaient trois publicités, dont celle du livre « Résurrection » de Philippe de Villiers, paru le 7 octobre chez Fayard.",
+    "eclairage": "Qui décide de ce qui s'affiche sur un bus ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "publicités vues place de Verdun"
+     },
+     {
+      "valeur": "19 oct.",
+      "legende": "date limite de retrait"
+     },
+     {
+      "valeur": "1 an",
+      "legende": "environ, régie sous-traitée"
+     }
+    ],
+    "passe": "Le 15 octobre 2026, ICI La Rochelle a relevé que des bus du réseau Yélo, place de Verdun, diffusaient trois publicités, dont celle du livre « Résurrection » de Philippe de Villiers, paru le 7 octobre chez Fayard. Le même jour, Bertrand Ayral, vice-président de l'agglomération et président de Yélo Mobilités, a reconnu un « raté » et annoncé le retrait des affiches d'ici le lundi 19 octobre. Selon lui, la publicité est gérée par une régie, Cityz Media, sous-traitante depuis près d'un an. L'ancienne règle, qui écartait les livres de personnalités politiques, n'a pas été appliquée : le livre a été traité comme celui d'un auteur ordinaire, Philippe de Villiers n'étant pas candidat à la présidentielle. Le vice-président a dit : « Le filtre n'a pas fonctionné de façon satisfaisante ». Cityz Media affirme n'avoir commis « aucune erreur ». À Saint-Étienne, des affiches du même livre avaient été retirées des bus le 15 octobre.",
+    "points": [
+     "Le réseau Yélo dépend de l'agglomération, qui est l'autorité organisatrice des transports ; elle confie l'exploitation à Yélo Mobilités.",
+     "La vente des espaces publicitaires est confiée à une régie, ici Cityz Media. Elle applique une règle fixée par la collectivité, ici l'exclusion des livres de personnalités politiques.",
+     "À Saint-Étienne, selon ActuaLitté, le contrat de délégation prévoit « l'absence de promotion d'ordre politique ». Le texte du contrat rochelais n'a pas été consulté."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/publicite-pour-le-livre-de-philippe-de-villiers-sur-les-bus-de-la-rochelle-l-agglo-admet-un-rate-et-annonce-le-retrait-9841875",
+      "nom": "ICI, 15 octobre"
+     },
+     {
+      "url": "https://renseignementeconomique.fr/publicite-pour-philippe-de-villiers-sur-des-bus-de-la-rochelle-la-regie-reconnait-un-dysfonctionnement-retrait-annonce",
+      "nom": "Renseignement Économique"
+     },
+     {
+      "url": "https://actualitte.com/article/134729/droit-justice/philippe-de-villiers-prie-de-descendre-du-bus-son-nouveau-livre-fait-polemique",
+      "nom": "ActuaLitté"
+     },
+     {
+      "url": "https://www.titrespresse.com/25772582603/philippe-villiers-rochelle",
+      "nom": "BFM TV (via Titres Presse)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "MAJORITÉ MUNICIPALE",
+      "qui": "Bertrand Ayral (vice-président de l'agglomération, Yélo Mobilités)",
+      "contexte": null,
+      "texte": "Il attribue l'affichage à la régie : « Le filtre n'a pas fonctionné de façon satisfaisante ». Il annonce un retour à la règle excluant les livres de personnalités politiques.",
+      "url": "https://actualitte.com/article/134729/droit-justice/philippe-de-villiers-prie-de-descendre-du-bus-son-nouveau-livre-fait-polemique",
+      "source": "actualitte.com"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ACTEUR ÉCONOMIQUE",
+      "qui": "Cityz Media (Camille Malidin, directeur régional)",
+      "contexte": null,
+      "texte": "Il affirme n'avoir commis « aucune erreur » : la publicité ne contient pas de contenu politique et l'auteur n'est membre d'aucun parti ni candidat.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/publicite-pour-le-livre-de-philippe-de-villiers-sur-les-bus-de-la-rochelle-l-agglo-admet-un-rate-et-annonce-le-retrait-9841875",
+      "source": "ici.fr"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "USAGER",
+      "qui": "Fabrice Mignonneau (usager du réseau)",
+      "contexte": null,
+      "texte": "Il dit refuser de monter dans des bus qui font l'apologie d'une personnalité d'extrême droite, selon ICI.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/publicite-pour-le-livre-de-philippe-de-villiers-sur-les-bus-de-la-rochelle-l-agglo-admet-un-rate-et-annonce-le-retrait-9841875",
+      "source": "ici.fr"
+     }
+    ],
+    "apres": "Aucune date de nouveau contrôle n'est annoncée. Les prochains conseils communautaires sont prévus les 19 novembre et 10 décembre.",
+    "change": "Les affiches du livre doivent avoir quitté les bus. L'agglomération annonce revenir à une publicité grand public, sans livres de personnalités politiques.",
+    "credit": {
+     "auteur": "KiwiNeko14",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Bus_et_V%C3%A9los_Y%C3%A9lo_(La_Rochelle).JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "19",
+    "mois": "NOV.",
+    "texte": "Agglo : conseil communautaire (date prévisionnelle)."
+   },
+   {
+    "jour": "10",
+    "mois": "DÉC.",
+    "texte": "Agglo : conseil communautaire (date prévisionnelle)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Régie publicitaire",
+    "definition": "L'entreprise chargée de vendre les espaces d'affichage (bus, abribus, mobilier urbain) et de respecter les règles fixées par la collectivité."
+   },
+   {
+    "terme": "Autorité organisatrice des mobilités",
+    "definition": "La collectivité qui organise les transports publics d'un territoire. Ici, c'est l'agglomération."
+   },
+   {
+    "terme": "Délégation de service public",
+    "definition": "Contrat par lequel une collectivité confie l'exploitation d'un service à une entreprise, selon un cahier des charges."
+   }
+  ],
+  "quiz": {
+   "affirmation": "À La Rochelle, la publicité pour le livre de Philippe de Villiers devait être retirée des bus Yélo au plus tard le lundi 19 octobre 2026.",
+   "reponse": true,
+   "explication": "Vrai : Yélo Mobilités a demandé le retrait des affiches, à effectuer au plus tard le lundi 19 octobre, après l'annonce faite le 15 octobre par le vice-président de l'agglomération chargé des mobilités."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-20",
-  "minutes": 12,
+  "minutes": 13,
   "sujets": [
    {
     "n": 1,
@@ -418,6 +1204,546 @@
    "affirmation": "Le projet de loi « casseurs-payeurs » a déjà été adopté par le Sénat.",
    "reponse": false,
    "explication": "Faux : le texte n'a pas encore été examiné ; il doit l'être en première lecture au Sénat à partir du 27 octobre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-20",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉTUDE",
+    "titre": "Diabète de type 2 : un capteur de glucose en continu fait baisser l'HbA1c",
+    "court": "Diabète : le capteur en continu, −0,9 point",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-5.JPG/1280px-FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-5.JPG",
+    "legende": "Capteur de glycémie en continu posé sur le bras, avec son lecteur (illustration)",
+    "chapeau": "Le 14 octobre, le New England Journal of Medicine a publié l'essai CONNECT, mené dans 22 cabinets de médecine générale aux États-Unis.",
+    "eclairage": "Que mesure-t-on, et que prouve cet essai ?",
+    "chiffres": [
+     {
+      "valeur": "−0,9",
+      "legende": "point d'HbA1c d'écart avec les soins usuels"
+     },
+     {
+      "valeur": "283",
+      "legende": "adultes tirés au sort dans 22 cabinets"
+     },
+     {
+      "valeur": "+21",
+      "legende": "points de temps dans la cible (70-180 mg/dL)"
+     }
+    ],
+    "passe": "Le 14 octobre, le New England Journal of Medicine a publié l'essai CONNECT, mené dans 22 cabinets de médecine générale aux États-Unis. Il a comparé, pendant 26 semaines, un capteur de glucose en continu (CGM) aux soins usuels chez des adultes ayant un diabète de type 2 non traité par insuline : 145 ont reçu le capteur, 138 ont continué la surveillance habituelle. Le taux d'hémoglobine glyquée (HbA1c, reflet de la glycémie des trois derniers mois) est passé de 8,8 % à 7,2 % avec le capteur, et de 8,7 % à 8,0 % dans le groupe témoin, soit un écart ajusté de −0,9 point (intervalle de confiance à 95 % : −1,1 à −0,6). Le temps passé entre 70 et 180 mg/dL est supérieur de 21 points avec le capteur. Aucune hypoglycémie sévère n'a été signalée. L'essai est financé par Dexcom, fabricant de capteurs. Les résultats avaient été présentés au congrès de l'American Diabetes Association le 6 juin. Un média spécialisé cite 440 participants ; le résumé de l'étude retient 283 adultes tirés au sort.",
+    "points": [],
+    "explication": "Le capteur. Un petit filet posé sous la peau mesure le sucre en continu et l'affiche sur un lecteur, au lieu d'un test ponctuel au bout du doigt. L'HbA1c. C'est la moyenne de la glycémie sur environ trois mois. Plus elle baisse, plus la glycémie est contrôlée ; elle ne mesure pas directement les complications (cœur, reins, yeux). Ce que prouve un essai randomisé. Le tirage au sort rend les deux groupes comparables, donc l'écart observé vient bien de la méthode testée et pas d'un hasard de recrutement. Limites : 26 semaines seulement, les participants savent s'ils portent un capteur, et le fabricant a financé l'étude. Citation originale en anglais : la surveillance en continu permet de combler un manque visible de prise en charge. Il présente l'essai comme le premier grand essai randomisé du CGM chez des patients non traités par insuline.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2608571",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878622/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://diabetes.org/newsroom/press-releases/82-adults-type-2-diabetes-not-insulin-improve-blood-glucose-levels",
+      "nom": "American Diabetes Association"
+     },
+     {
+      "url": "https://www.hcplive.com/view/connect-trial-backs-cgm-for-non-insulin-type-2-diabetes-management",
+      "nom": "HCPLive"
+     },
+     {
+      "url": "https://www.medtechdive.com/news/nejm-study-supports-cgm-use-for-people-with-diabetes-who-dont-take-insulin/833124/",
+      "nom": "MedTech Dive"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Thomas Martens",
+      "contexte": "co-auteur de l'étude",
+      "texte": "« continuous glucose monitoring provides an opportunity to close a visible care gap »",
+      "url": "https://www.hcplive.com/view/connect-trial-backs-cgm-for-non-insulin-type-2-diabetes-management",
+      "source": "HCPLive"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Dexcom",
+      "contexte": "financeur de l'essai",
+      "texte": "Le fabricant attend une décision de l'assurance santé américaine Medicare sur l'élargissement de la prise en charge de ces capteurs.",
+      "url": "https://www.medtechdive.com/news/nejm-study-supports-cgm-use-for-people-with-diabetes-who-dont-take-insulin/833124/",
+      "source": "MedTech Dive"
+     }
+    ],
+    "apres": "Pas de décision française annoncée dans les sources consultées. Aux États-Unis, la décision de Medicare sur la prise en charge est attendue.",
+    "change": "Pour une personne avec un diabète de type 2 sans insuline, l'étude suggère qu'un capteur peut aider à mieux contrôler la glycémie en 26 semaines. Elle ne dit rien sur les complications à long terme ni sur le remboursement en France.",
+    "credit": {
+     "auteur": "Thirunavukkarasye-Raveendran",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-5.JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "VIH : une injection tous les deux mois face aux comprimés, essai en Afrique",
+    "court": "VIH : injection tous les 2 mois, essai IMPALA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Intramuscular_Injection.JPG/1280px-Intramuscular_Injection.JPG",
+    "legende": "Injection intramusculaire avec une seringue (illustration)",
+    "chapeau": "Le 15 octobre, le New England Journal of Medicine a publié l'essai IMPALA. Il a inclus 540 adultes vivant avec le VIH au Kenya, en Afrique du Sud et en Ouganda, dont le virus était contrôlé (charge virale sous 200 copies/mL) mais qui avaient du mal à suivre un traitement quotidien ou à rester dans le soin.",
+    "eclairage": "« Non inférieur », ça veut dire quoi ?",
+    "chiffres": [
+     {
+      "valeur": "91 %",
+      "legende": "charge virale < 50 avec l'injection"
+     },
+     {
+      "valeur": "89 %",
+      "legende": "idem avec le traitement oral"
+     },
+     {
+      "valeur": "5 / 0",
+      "legende": "échecs virologiques confirmés (injection / oral)"
+     }
+    ],
+    "passe": "Le 15 octobre, le New England Journal of Medicine a publié l'essai IMPALA. Il a inclus 540 adultes vivant avec le VIH au Kenya, en Afrique du Sud et en Ouganda, dont le virus était contrôlé (charge virale sous 200 copies/mL) mais qui avaient du mal à suivre un traitement quotidien ou à rester dans le soin. Les participants ont été répartis par tirage au sort : injections de cabotégravir et de rilpivirine toutes les 8 semaines, ou poursuite d'un traitement oral à base de dolutégravir. À 48 semaines, 244 des 268 participants du groupe injection (91,0 %) avaient une charge virale inférieure à 50 copies/mL, contre 240 sur 269 (89,2 %) avec le traitement oral : l'injection n'est pas moins efficace, à la marge prévue de 10 points. Un échec virologique confirmé est survenu chez 5 participants (1,9 %) du groupe injection et chez aucun du groupe oral ; des événements indésirables graves ont touché 4,1 % des participants du groupe injection et 3,0 % du groupe oral. L'essai est financé par Johnson & Johnson. Un cas d'hépatite B récente a été rapporté dans le groupe injection (i-Base).",
+    "points": [],
+    "explication": "Le problème. En Afrique de l'Est et australe, environ 1 million de personnes sous traitement oral n'ont pas un virus contrôlé, souvent à cause de la difficulté à prendre un comprimé chaque jour (résumé de l'étude). Non-infériorité. L'essai ne montre pas que l'injection est meilleure : il montre qu'elle n'est pas moins bonne, au-delà d'une marge fixée à l'avance (10 points). C'est une question différente de « supérieur ». Les réserves. Les participants savent quel traitement ils reçoivent (essai ouvert). Les échecs confirmés ne sont apparus que dans le groupe injection, et aucun test de résistance n'a été fait au départ. Le commentaire d'i-Base, association d'information sur le VIH, juge aussi que le seuil d'échec devrait être plus bas. Citation originale en anglais, rapportée par i-Base : l'accès au traitement antirétroviral injectable devrait devenir une priorité. Selon i-Base, 93 % des participants du groupe injection la préféraient au traitement oral.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2518753",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874104/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://i-base.info/htb/51876",
+      "nom": "i-Base"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT05546242",
+      "nom": "ClinicalTrials.gov"
+     },
+     {
+      "url": "https://www.aidsmap.com/news/jul-2025/injectable-hiv-treatment-works-people-poor-hiv-control-africa",
+      "nom": "aidsmap"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Équipe IMPALA",
+      "contexte": "présentation des résultats à 48 semaines",
+      "texte": "« access to injectable ART should be made a priority »",
+      "url": "https://i-base.info/htb/51876",
+      "source": "i-Base"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "PATIENTS",
+      "qui": "Participants",
+      "contexte": "sous-étude qualitative de l'essai (40 entretiens)",
+      "texte": "L'injection a été préférée au traitement oral parce qu'elle réduit la charge du traitement, protège l'intimité et soutient l'observance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742090/",
+      "source": "PubMed"
+     }
+    ],
+    "apres": "L'étude ne dit rien du prix ni de l'accès dans les pays concernés : c'est la prochaine étape, avec les décisions d'achat et de recommandation des autorités nationales et de l'OMS.",
+    "change": "Pour les personnes qui ont du mal à prendre un comprimé tous les jours, l'injection bimestrielle est une option supplémentaire, avec un suivi médical régulier. La décision se prend avec l'équipe soignante.",
+    "credit": {
+     "auteur": "Psychonaught",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Intramuscular_Injection.JPG"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Chirurgie cardiaque : des plaquettes conservées au froid, aussi efficaces",
+    "court": "Chirurgie cardiaque : plaquettes au froid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cardiac_surgery_operating_room.jpg/960px-Cardiac_surgery_operating_room.jpg",
+    "legende": "Équipe chirurgicale au bloc opératoire pendant une opération cardiaque (illustration)",
+    "chapeau": "L'essai CHIPS, dirigé par l'Université de Pittsburgh, est paru dans JAMA (mise en ligne en août, relayée par l'AABB le 19 août, numéro indexé le 13 octobre).",
+    "eclairage": "Pourquoi stocker des plaquettes au froid ?",
+    "chiffres": [
+     {
+      "valeur": "1 000",
+      "legende": "patients transfusés, 27 hôpitaux"
+     },
+     {
+      "valeur": "21 j",
+      "legende": "conservation au froid contre 7 j"
+     },
+     {
+      "valeur": "4,2 %",
+      "legende": "ré-intervention pour saignement (1,8 % en face)"
+     }
+    ],
+    "passe": "L'essai CHIPS, dirigé par l'Université de Pittsburgh, est paru dans JAMA (mise en ligne en août, relayée par l'AABB le 19 août, numéro indexé le 13 octobre). Il a porté sur 1 000 patients, enfants et adultes, opérés du cœur avec circulation extracorporelle dans 27 centres des États-Unis et d'Australie, de décembre 2021 à mars 2025. Les patients qui saignaient ont reçu, par tirage au sort 2 contre 1, des plaquettes conservées au froid (jusqu'à 21 jours) ou des plaquettes conservées à température ambiante (jusqu'à 7 jours). Sur 989 patients analysés, les plaquettes froides n'étaient pas moins efficaces pour arrêter le saignement (score moyen 3,08 contre 2,99 ; plus il est bas, moins le patient saigne). Le drainage de la poitrine à 24 heures était comparable. Les ré-interventions pour saignement dans les 24 heures ont été plus fréquentes avec les plaquettes froides (4,2 % contre 1,8 %). Le financeur n'est pas précisé dans les sources consultées.",
+    "points": [],
+    "explication": "Les plaquettes. Ce sont les éléments du sang qui aident à boucher une brèche et à arrêter un saignement. Après une opération du cœur, certains patients en reçoivent par transfusion. Le problème. Conservées à température ambiante, elles se gardent 5 à 7 jours seulement ; le froid pourrait allonger cette durée sans perdre l'effet sur le saignement (résumé de l'étude). Le type d'essai. Il s'agit d'un essai de non-infériorité : on cherche à montrer que les plaquettes froides ne sont pas pires, pas qu'elles sont meilleures. Les auteurs écrivent que l'on ne peut pas exclure qu'elles soient un peu moins efficaces. Citation originale en anglais : les hôpitaux ruraux et locaux ne peuvent le plus souvent pas justifier de garder des plaquettes à température ambiante en stock. Citation originale en anglais : on ne peut exclure que les plaquettes froides (CSP) soient un peu moins efficaces pour arrêter le saignement.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1001/jama.2026.13328",
+      "nom": "JAMA (DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606886/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://www.aabb.org/news-resources/news/article/2026/08/19/cold-stored-platelets-noninferior-to-conventional-platelets-in-cardiac-surgery",
+      "nom": "AABB"
+     },
+     {
+      "url": "https://criticalcarereviews.com/haematological/chips-trial",
+      "nom": "Critical Care Reviews"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT04834414",
+      "nom": "ClinicalTrials.gov"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Michael Boisen",
+      "contexte": "co-auteur, investigateur du site UPMC",
+      "texte": "« Rural and community hospitals, for the most part, simply cannot justify keeping room temperature platelets in stock. »",
+      "url": "https://www.aabb.org/news-resources/news/article/2026/08/19/cold-stored-platelets-noninferior-to-conventional-platelets-in-cardiac-surgery",
+      "source": "AABB"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Les auteurs",
+      "contexte": "limites reconnues dans l'article",
+      "texte": "« the possibility that CSPs were somewhat less hemostatically effective cannot be ruled out »",
+      "url": "https://www.aabb.org/news-resources/news/article/2026/08/19/cold-stored-platelets-noninferior-to-conventional-platelets-in-cardiac-surgery",
+      "source": "AABB"
+     }
+    ],
+    "apres": "Aucune décision d'autorité de santé ni de banque du sang n'est annoncée dans les sources consultées.",
+    "change": "Si elles sont adoptées, les plaquettes au froid pourraient permettre à des hôpitaux plus petits de garder un stock plus long. Ce n'est pas le cas aujourd'hui : l'essai ne porte que sur la chirurgie cardiaque.",
+    "credit": {
+     "auteur": "Pfree2014",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Cardiac_surgery_operating_room.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "CANCER",
+    "titre": "Leucémie Ph+ : ponatinib et blinatumomab font mieux que la chimiothérapie",
+    "court": "Leucémie Ph+ : l'essai sans chimiothérapie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acute_lymphoblastic_leukemia.jpg/1280px-Acute_lymphoblastic_leukemia.jpg",
+    "legende": "Cellules de leucémie aiguë lymphoblastique au microscope (illustration)",
+    "chapeau": "Le 15 octobre, le New England Journal of Medicine a publié l'essai de phase 3 GIMEMA ALL2820, mené en Italie chez 236 adultes (âge médian 55 ans) atteints d'une leucémie aiguë lymphoblastique avec chromosome Philadelphie (Ph+).",
+    "eclairage": "Comprendre ce traitement sans chimiothérapie",
+    "chiffres": [
+     {
+      "valeur": "86 %",
+      "legende": "sans événement à 24 mois (67 % en face)"
+     },
+     {
+      "valeur": "236",
+      "legende": "adultes tirés au sort"
+     },
+     {
+      "valeur": "94 %",
+      "legende": "réponse complète en fin d'induction (79 % en face)"
+     }
+    ],
+    "passe": "Le 15 octobre, le New England Journal of Medicine a publié l'essai de phase 3 GIMEMA ALL2820, mené en Italie chez 236 adultes (âge médian 55 ans) atteints d'une leucémie aiguë lymphoblastique avec chromosome Philadelphie (Ph+). Par tirage au sort 2 contre 1, 158 patients ont reçu le ponatinib avec le blinatumomab, sans chimiothérapie, et 78 ont reçu l'imatinib avec une chimiothérapie. À un suivi médian de 23,7 mois, la survie sans événement à 24 mois est de 86 % contre 67 % (P < 0,001), la survie sans maladie résiduelle mesurable de 68 % contre 42 %, la survie globale de 90 % contre 85 %, et l'incidence cumulée de rechute de 5 % contre 13 %. Les chiffres présentés au congrès de l'ASH en décembre 2025 étaient un peu différents (87 % contre 71 % selon ASCO Post, 90 % contre 74 % selon OncLive) car l'analyse a été mise à jour : on retient ceux du NEJM. L'essai est financé notamment par l'Associazione Italiana per la Ricerca sul Cancro.",
+    "points": [],
+    "explication": "Le chromosome Philadelphie. Chez ces patients, une anomalie génétique des cellules leucémiques fabrique une protéine (BCR-ABL) qui les fait proliférer. L'imatinib et le ponatinib sont des médicaments ciblés qui bloquent cette protéine. Le blinatumomab est une immunothérapie qui aide les défenses du corps à repérer les cellules leucémiques. La maladie résiduelle mesurable (MRD). Ce sont les quelques cellules leucémiques que seul un test très sensible détecte : plus elle disparaît, mieux c'est. Les limites. Le suivi (environ 2 ans) est court pour une leucémie ; la survie sans événement est un critère intermédiaire ; les patients venaient de centres italiens (ASCO Post). Citation originale en anglais, extrait de sa présentation à l'ASH (OncLive) : une approche sans chimiothérapie devrait devenir la référence. Elle a aussi dit que l'approche « significantly reduced the rate of death » (ASCO Post).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2606208",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874102/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://ascopost.com/news/december-2025/chemotherapy-free-regimen-improves-outcomes-in-newly-diagnosed-patients-with-ph-positive-all/",
+      "nom": "ASCO Post"
+     },
+     {
+      "url": "https://www.onclive.com/view/blinatumomab-plus-ponatinib-shows-significant-survival-advantage-over-chemo-tki-regimen-in-ph-all",
+      "nom": "OncLive"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Sabina Chiaretti",
+      "contexte": "Université Sapienza de Rome, autrice principale",
+      "texte": "« chemotherapy-free approach should be the new standard »",
+      "url": "https://www.onclive.com/view/blinatumomab-plus-ponatinib-shows-significant-survival-advantage-over-chemo-tki-regimen-in-ph-all",
+      "source": "OncLive"
+     }
+    ],
+    "apres": "Les sources consultées ne mentionnent ni autorisation ni remboursement de ce schéma en première ligne : ce sera aux autorités de santé de se prononcer.",
+    "change": "L'essai suggère qu'un schéma sans chimiothérapie donne de meilleurs résultats à deux ans chez des adultes atteints de ce type de leucémie. Il ne dit pas encore ce qu'il en est à plus long terme. Le choix du traitement se décide avec l'équipe d'hématologie.",
+    "credit": {
+     "auteur": "Animalculist",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Acute_lymphoblastic_leukemia.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Hémoglobine glyquée (HbA1c)",
+    "definition": "La part de l'hémoglobine du sang à laquelle du sucre s'est accroché. Elle reflète la glycémie moyenne des deux à trois derniers mois."
+   },
+   {
+    "terme": "Essai de non-infériorité",
+    "definition": "Un essai qui cherche à montrer qu'un traitement n'est pas moins bon qu'un autre, au-delà d'une marge fixée à l'avance. Il ne démontre pas qu'il est meilleur."
+   },
+   {
+    "terme": "Échec virologique confirmé",
+    "definition": "Une charge virale qui reste élevée sur deux mesures consécutives malgré le traitement. C'est le signal qu'il faut le revoir."
+   },
+   {
+    "terme": "Maladie résiduelle mesurable (MRD)",
+    "definition": "Les rares cellules de leucémie qui subsistent après le traitement et que seul un test très sensible détecte."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai IMPALA, l'injection tous les deux mois n'a pas été moins efficace que le traitement oral pour obtenir une charge virale sous 50 copies/mL à 48 semaines.",
+   "reponse": true,
+   "explication": "À 48 semaines, 91,0 % des participants du groupe injection et 89,2 % du groupe oral avaient une charge virale sous 50 copies/mL : l'injection est dite non inférieure. Elle n'est pas pour autant démontrée meilleure, et 5 échecs virologiques confirmés sont survenus dans le groupe injection, contre aucun dans le groupe oral."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-20",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 2,
+    "theme": "RÉGULATION",
+    "titre": "Chine : Pékin veut contrôler l'exportation de 23 technologies d'IA",
+    "court": "Chine : l'export de l'IA sous contrôle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Inside_view_of_Shenzhen_Huaqiang_Electronic_World.JPG/1280px-Inside_view_of_Shenzhen_Huaqiang_Electronic_World.JPG",
+    "legende": "Marché d'électronique Huaqiang à Shenzhen (illustration)",
+    "chapeau": "Le 16 octobre, le ministère chinois du Commerce et celui des Sciences et des Technologies ont publié un projet de mise à jour du catalogue des technologies dont l'exportation est interdite ou restreinte.",
+    "eclairage": "Que veut dire « exporter » un modèle d'IA ?",
+    "chiffres": [
+     {
+      "valeur": "40",
+      "legende": "technologies au total, selon l'AP"
+     },
+     {
+      "valeur": "23",
+      "legende": "technologies d'IA dans le projet"
+     },
+     {
+      "valeur": "15/11",
+      "legende": "fin de la consultation publique"
+     }
+    ],
+    "passe": "Le 16 octobre, le ministère chinois du Commerce et celui des Sciences et des Technologies ont publié un projet de mise à jour du catalogue des technologies dont l'exportation est interdite ou restreinte. Selon l'AP, il compte 40 technologies : 23 d'IA (grands modèles, agents, conceptions de puces, grappes de calcul), 12 de solaire et 5 de biomédecine ; Crypto Briefing en compte 14 interdites et 26 restreintes. Pour l'IA, selon Bloomberg cité par The Next Web, les poids et le code source seraient visés pour les modèles d'au moins 2 000 milliards de paramètres ou classés dans le top 10 mondial à des tests de performance ou de sécurité. Le projet ne nomme aucun modèle ; l'AP cite Kimi K3 (Moonshot) et Qwen 3.8-Max (Alibaba) comme dépassant ce seuil. Selon The Next Web, l'accès par application, site ou interface de programmation (API) resterait permis, et le code open source ainsi que les publications de recherche seraient exemptés. Faire tourner un modèle couvert sur des serveurs à l'étranger compterait comme une exportation, avec une licence accordée automatiquement aux entreprises qui l'exploitent sur leurs propres serveurs cloud à l'étranger. Un enregistrement préalable à l'export s'applique déjà depuis le 16 octobre.",
+    "points": [],
+    "explication": "Un modèle d'IA est un très gros fichier de nombres, les poids, appris pendant l'entraînement. Publier ces poids permet à n'importe qui de faire tourner le modèle chez soi : c'est ce qu'on appelle des « poids ouverts ». À l'inverse, un modèle accessible seulement par une API (une porte d'accès par internet) reste sur les serveurs de son éditeur. Le projet chinois traite surtout du premier cas : transférer les poids ou le code hors de Chine serait soumis à autorisation au-delà d'un certain niveau de performance. Précision : il s'agit d'un projet soumis à consultation, dont les seuils exacts restent à confirmer, et les sources divergent sur l'étendue des exemptions pour l'open source.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ksat.com/business/2026/10/16/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
+      "nom": "dépêche AP via KSAT"
+     },
+     {
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "nom": "The Next Web"
+     },
+     {
+      "url": "https://cryptobriefing.com/china-proposes-ai-export-controls/",
+      "nom": "Crypto Briefing"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Ministère chinois du Commerce",
+      "contexte": "16 octobre",
+      "texte": "Un porte-parole juge la mesure « necessary » (nécessaire), selon l'AP. Selon The Next Web, elle vise à « prevent misuse and abuse » (prévenir les usages abusifs) et à « ensure that AI remains under human control » (garder l'IA sous contrôle humain) ; le ministère dit ne viser aucun pays ni aucune entreprise.",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "source": "The Next Web"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "ANALYSTE",
+      "qui": "Lian Jye Su, Omdia",
+      "contexte": "cité par l'AP",
+      "texte": "Il y voit une réponse aux exigences de souveraineté que des pays occidentaux imposent sur l'IA, la robotique et les télécoms, et un moyen de mieux réguler l'accès aux technologies chinoises.",
+      "url": "https://www.ksat.com/business/2026/10/16/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
+      "source": "dépêche AP via KSAT"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "ANALYSTE",
+      "qui": "Gary Ng, Natixis",
+      "contexte": "cité par l'AP",
+      "texte": "Il note que l'IA est de plus en plus stratégique pour la Chine comme pour les États-Unis, et que le monde se fragmente aussi dans l'accès aux technologies.",
+      "url": "https://www.ksat.com/business/2026/10/16/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
+      "source": "dépêche AP via KSAT"
+     }
+    ],
+    "apres": "La consultation publique court jusqu'au 15 novembre. Le projet n'a pas de date d'entrée en vigueur connue.",
+    "change": "Pour un utilisateur, rien ne change : l'accès aux modèles par application ou API resterait permis selon le projet.",
+    "credit": {
+     "auteur": "そらみみ (Soramimi)",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Shenzhen_Huaqiang_Electronic_World.JPG"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "IA",
+    "titre": "Apple : HomeView à 299 $, mais pas en vente dans l'Union européenne",
+    "court": "Apple : HomeView absent de l'UE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Google_Home_with_Home_Hub_and_Home_Mini_on_table.jpg/1280px-Google_Home_with_Home_Hub_and_Home_Mini_on_table.jpg",
+    "legende": "Enceintes et écran domestiques d'une autre marque (illustration)",
+    "chapeau": "Le 13 octobre, Apple a présenté HomeView, un écran de 7 pouces monté sur une base à haut-parleur, ou fixé au mur, vendu 299 dollars américains dans les deux versions.",
+    "eclairage": "Qu'est-ce qu'un écran domestique piloté par un assistant d'IA ?",
+    "chiffres": [
+     {
+      "valeur": "299 $",
+      "legende": "prix américain, version posée ou murale"
+     },
+     {
+      "valeur": "6",
+      "legende": "personnes reconnues par le visage"
+     },
+     {
+      "valeur": "13/11",
+      "legende": "début de la disponibilité"
+     }
+    ],
+    "passe": "Le 13 octobre, Apple a présenté HomeView, un écran de 7 pouces monté sur une base à haut-parleur, ou fixé au mur, vendu 299 dollars américains dans les deux versions. Il reconnaît jusqu'à six personnes par le visage pour afficher à chacune ses contenus (Messages, FaceTime, Calendrier) et embarque « Siri AI », nouvelle version de l'assistant vocal d'Apple. Les précommandes ont ouvert le 13 octobre en Australie, au Canada, en Inde, en Nouvelle-Zélande, au Royaume-Uni et aux États-Unis (le 15 octobre à Singapour), pour une disponibilité le 13 novembre. Apple précise que HomeView n'est pas vendu dans l'Union européenne, car Siri AI n'est pas disponible sur iOS dans l'UE. Selon Geo News, l'appareil utilise une puce A18 et sert de contrôleur Matter et de routeur Thread.",
+    "points": [],
+    "explication": "Un assistant vocal comprend des demandes parlées (« allume le salon ») et déclenche une action. Siri AI est présenté par Apple comme une version plus conversationnelle, qui peut aussi s'appuyer sur le contexte personnel d'un iPhone ou d'un iPad associé. La reconnaissance faciale sert ici à choisir quel profil afficher ; ce type de donnée biométrique est strictement encadré en Europe par le RGPD. Matter et Thread sont des standards de communication entre objets connectés, cités par Geo News. Apple donne comme seule raison de son absence de l'UE l'indisponibilité de Siri AI sur iOS dans la zone ; elle ne détaille pas les causes. Les fonctions décrites sont celles annoncées par Apple : aucun test indépendant n'est cité.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "nom": "Apple"
+     },
+     {
+      "url": "https://www.geo.tv/latest/686350-apple-welcome-home-event-list-of-everything-apple-just-launched",
+      "nom": "Geo News"
+     },
+     {
+      "url": "https://www.bgr.com/2285087/apple-tv-4k-a19-pro-reveal-siri/",
+      "nom": "BGR"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Greg Joswiak, Apple",
+      "contexte": "13 octobre",
+      "texte": "Le dirigeant dit que HomeView est « designed to be shared by everyone in the home yet feel completely personal to each user » (conçu pour être partagé par tout le foyer tout en restant personnel pour chacun).",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "source": "Apple"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Apple, sur l'Union européenne",
+      "contexte": "13 octobre",
+      "texte": "L'entreprise écrit : « Apple is working constructively with the EU in an attempt to find a path forward » (Apple travaille de façon constructive avec l'UE pour trouver une voie).",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "source": "Apple"
+     }
+    ],
+    "apres": "Apple dit travailler avec l'UE sans calendrier. Les accessoires Apple Home Collection arrivent à partir de décembre, selon Apple.",
+    "change": "Pour un consommateur en France, HomeView ne peut pas être acheté auprès d'Apple dans l'Union européenne pour l'instant. Pour les marchés servis, la vente commence le 13 novembre.",
+    "credit": {
+     "auteur": "Y2kcrazyjoker4",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Google_Home_with_Home_Hub_and_Home_Mini_on_table.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "28",
+    "mois": "OCT.",
+    "texte": "GitHub Universe : conférence annoncée les 28 et 29 octobre à San Francisco, consacrée au développement assisté par l'IA (GitHub)."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Apple : disponibilité de HomeView et de la nouvelle Apple TV 4K, selon l'entreprise (Apple)."
+   },
+   {
+    "jour": "15",
+    "mois": "NOV.",
+    "texte": "Chine : fin de la consultation publique sur le projet de contrôle des exportations (The Next Web)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Neocloud",
+    "definition": "Fournisseur de puissance de calcul loué à la demande, spécialisé dans l'IA, par opposition aux grands services de cloud généralistes."
+   },
+   {
+    "terme": "Dépréciation",
+    "definition": "Baisse de valeur d'un actif constatée dans les comptes quand il rapporte moins que prévu."
+   },
+   {
+    "terme": "Poids (d'un modèle)",
+    "definition": "Ensemble des nombres appris par un modèle d'IA pendant son entraînement ; les publier permet de le faire tourner soi-même."
+   },
+   {
+    "terme": "Reconnaissance faciale",
+    "definition": "Technique qui identifie une personne à partir des traits de son visage ; c'est une donnée biométrique, strictement encadrée par le RGPD."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon Apple, son écran HomeView sera vendu dans l'Union européenne dès le 13 novembre.",
+   "reponse": false,
+   "explication": "Faux : dans son communiqué du 13 octobre, Apple écrit que HomeView n'est pas vendu dans l'Union européenne, car Siri AI n'est pas disponible sur iOS dans l'UE. La vente commence le 13 novembre dans d'autres pays."
   }
  },
  {
