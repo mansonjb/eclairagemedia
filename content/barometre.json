@@ -1201,6 +1201,20 @@
      "parti": "RENAISSANCE",
      "qui": "Gabriel Attal",
      "contexte": "candidat à la présidentielle",
+     "texte": "Sur RTL, lundi, il a jugé que le gouvernement avait failli et dit que, si un état d'urgence est nécessaire pour rétablir l'ordre, il faut le décréter.",
+     "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
+     "source": "LCP",
+     "date": "2026-10-20",
+     "rubrique": "politique",
+     "sujet": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés",
+     "href": "/politique/2026-10-20/1"
+    },
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
+     "contexte": "candidat à la présidentielle",
      "texte": "Il dénonce des scènes de pillage « indignes » et une « provocation envers l'autorité de l'État », et estime que « toutes les leçons de ces événements devront être tirées ».",
      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
      "source": "LCP",
@@ -1252,7 +1266,7 @@
      "href": "/politique/2026-09-30/1"
     }
    ],
-   "nbDeclarations": 4,
+   "nbDeclarations": 5,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
     "phase": {
@@ -1408,6 +1422,20 @@
      "parti": "LR",
      "qui": "Bruno Retailleau",
      "contexte": "candidat à la présidentielle",
+     "texte": "« lâcheté sur le maintien de l'ordre »",
+     "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
+     "source": "LCP",
+     "date": "2026-10-20",
+     "rubrique": "politique",
+     "sujet": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés",
+     "href": "/politique/2026-10-20/1"
+    },
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
+     "contexte": "candidat à la présidentielle",
      "texte": "Avant l'allocution, il demandait l'état d'urgence « sans délai » et un couvre-feu.",
      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
      "source": "Public Sénat",
@@ -1445,7 +1473,7 @@
      "href": "/politique/2026-10-15/2"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {

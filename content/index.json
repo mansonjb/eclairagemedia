@@ -1,5 +1,426 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-20",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SÉCURITÉ",
+    "titre": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés",
+    "court": "Violences du 17 octobre : Nuñez reste",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Paris_riots%2C_17_October_2026_-_Riot_police_outside_a_looted_shop_-_JJxFile_0028.jpg/1280px-Paris_riots%2C_17_October_2026_-_Riot_police_outside_a_looted_shop_-_JJxFile_0028.jpg",
+    "legende": "Des policiers en tenue de maintien de l'ordre dans une rue de Paris jonchée de débris après les violences du 17 octobre (illustration)",
+    "chapeau": "Lundi 19 octobre, deux jours après les violences en marge des manifestations du 17 octobre, le ministre de l'Intérieur, Laurent Nuñez, a reconnu sur France Inter « un manque d'anticipation » et « une perte de contrôle » dans certaines grandes villes.",
+    "eclairage": "Couvre-feu, état d'urgence : qui décide quoi ?",
+    "chiffres": [
+     {
+      "valeur": "2 513",
+      "legende": "gardes à vue selon Darmanin"
+     },
+     {
+      "valeur": "~200",
+      "legende": "enquêteurs sur les images"
+     },
+     {
+      "valeur": "580",
+      "legende": "comparutions immédiates prévues"
+     }
+    ],
+    "passe": "Lundi 19 octobre, deux jours après les violences en marge des manifestations du 17 octobre, le ministre de l'Intérieur, Laurent Nuñez, a reconnu sur France Inter « un manque d'anticipation » et « une perte de contrôle » dans certaines grandes villes. Il a indiqué avoir remis sa démission à Emmanuel Macron, qui l'a refusée ; l'Élysée a invoqué la nécessité d'un « commandement continu des forces de l'ordre ». Environ 2 400 personnes ont été interpellées selon LCP et Euronews. Le Premier ministre, Sébastien Lecornu, a demandé aux préfets de décider dès le soir des couvre-feux « très localisés », sans état d'urgence pour l'instant, et a annoncé une opération judiciaire de grande ampleur : près de 200 enquêteurs de la préfecture de police de Paris analysent les images des vidéosurveillances et des réseaux sociaux. Devant la commission des lois de l'Assemblée, le garde des Sceaux, Gérald Darmanin, a fait état de 2 513 gardes à vue depuis samedi, de plus de 70 détentions provisoires, d'environ 580 comparutions immédiates attendues et d'une cinquantaine d'informations judiciaires ouvertes. Les personnes mises en cause sont présumées innocentes tant qu'elles n'ont pas été jugées.",
+    "points": [],
+    "explication": "Selon Public Sénat, le droit commun permet déjà aux préfets et aux maires d'instaurer des couvre-feux et d'interdire des rassemblements. L'état d'urgence est un régime exceptionnel que Sébastien Lecornu juge « lourd » ; il ne l'exclut pas, mais le considère pour l'instant moins adapté que des couvre-feux localisés. Il a aussi précisé qu'il n'est « pas question que tout Paris soit sous couvre-feu ».",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/mobilisations-du-17-octobre-le-ministre-de-l-interieur-reconnait-un-manque-d",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://lcp.fr/actualites/violences-urbaines-sebastien-lecornu-annonce-des-couvre-feux-partiels-443968",
+      "nom": "LCP, Lecornu"
+     },
+     {
+      "url": "https://www.euronews.com/2026/10/19/france-launches-massive-law-enforcement-operation-after-weekend-looting-pm-says",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://lcp.fr/actualites/les-violences-du-17-octobre-s-invitent-dans-une-audition-de-gerald-darmanin-sur-le",
+      "nom": "LCP, Darmanin"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/budget-2027-audition-du-garde-des-sceaux-ministre-de-la-justice-sur-les-credits-alloues-a-son-ministere",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« Ma détermination à rétablir l'ordre est totale »",
+      "url": "https://lcp.fr/actualites/violences-urbaines-sebastien-lecornu-annonce-des-couvre-feux-partiels-443968",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« responsable de tout ce qui se passe »",
+      "url": "https://lcp.fr/actualites/mobilisations-du-17-octobre-le-ministre-de-l-interieur-reconnait-un-manque-d",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "candidat à la présidentielle",
+      "texte": "« lâcheté sur le maintien de l'ordre »",
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Gabriel Attal",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Sur RTL, lundi, il a jugé que le gouvernement avait failli et dit que, si un état d'urgence est nécessaire pour rétablir l'ordre, il faut le décréter.",
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Une rencontre entre le Premier ministre et les partis est prévue, sans date arrêtée ; Jordan Bardella et Marine Le Pen avaient refusé d'y participer. L'état d'urgence reste une option.",
+    "change": "Les préfets, en lien avec les maires, fixent localement les couvre-feux. La justice traite plus de 2 500 gardes à vue ; les images des réseaux sociaux servent de pièces d'enquête.",
+    "credit": {
+     "auteur": "Jorge Jaramillo",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Riot_police_outside_a_looted_shop_-_JJxFile_0028.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PARLEMENT",
+    "titre": "Violences : Yaël Braun-Pivet propose une commission d'enquête",
+    "court": "Violences : une commission d'enquête proposée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Manifestation_du_17_octobre_2026_%C3%A0_Paris_-_12.jpg/1280px-Manifestation_du_17_octobre_2026_%C3%A0_Paris_-_12.jpg",
+    "legende": "Le cortège parisien du 17 octobre 2026 avec des pancartes sur la vie chère (illustration)",
+    "chapeau": "Lundi 19 octobre au soir, selon LCP, la présidente de l'Assemblée nationale, Yaël Braun-Pivet, devait proposer mardi la création d'une commission d'enquête sur les « débordements » des 17 et 18 octobre, les méthodes des groupuscules violents et la stratégie de maintien de l'ordre.",
+    "eclairage": "Une commission d'enquête, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "20/10",
+      "legende": "conférence des présidents"
+     },
+     {
+      "valeur": "6 mois",
+      "legende": "durée maximale d'une commission"
+     }
+    ],
+    "passe": "Lundi 19 octobre au soir, selon LCP, la présidente de l'Assemblée nationale, Yaël Braun-Pivet, devait proposer mardi la création d'une commission d'enquête sur les « débordements » des 17 et 18 octobre, les méthodes des groupuscules violents et la stratégie de maintien de l'ordre. Le Parti socialiste, La France insoumise et le groupe Ensemble pour la République ont fait connaître leur soutien. Le Rassemblement national se montre réservé et doit arrêter sa position mardi matin. Au Sénat, plusieurs sénateurs réclament eux aussi une commission d'enquête et un débat au titre de l'article 50-1, selon Public Sénat. Une commission d'enquête peut durer six mois ; Boris Vallaud, président du groupe socialiste, évoque des conclusions au début de l'année suivante.",
+    "points": [],
+    "explication": "Une commission d'enquête est une instance temporaire d'une assemblée, dotée de pouvoirs d'investigation, qui contrôle l'action du Gouvernement et se termine par un rapport, remis dans un délai maximum de six mois. L'article 50-1 de la Constitution, lui, permet au Gouvernement de faire une déclaration devant une assemblée, suivie d'un débat et éventuellement d'un vote.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-pourquoi-letat-durgence-est-ecarte-par-le-gouvernement",
+      "nom": "Public Sénat, état d'urgence"
+     },
+     {
+      "url": "https://presidence.assemblee-nationale.fr/",
+      "nom": "presidence.assemblee-nationale.fr"
+     },
+     {
+      "url": "https://www.senat.fr/commission/enquete/index.html",
+      "nom": "senat.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Laurent Jacobelli",
+      "contexte": "porte-parole du groupe RN",
+      "texte": "Le groupe doit fixer sa position mardi matin. Il dénonce « quarante ans de laxisme généralisé » et estime que la commission ne donnera pas de solutions, car les causes sont déjà connues.",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Boris Vallaud",
+      "contexte": "président du groupe socialiste",
+      "texte": "Il soutient la commission pour « demander des comptes » au gouvernement et propose d'auditionner d'anciens ministres de l'Intérieur, des responsables étrangers, le gouvernement et la hiérarchie policière.",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Paul Vannier",
+      "contexte": "député",
+      "texte": "Il soutient la création de la commission, veut comprendre ce qui s'est passé et critique la conduite gouvernementale ; il affirme que 10 000 policiers étaient mobilisés en France le samedi matin, contre 14 000 à Paris le jour de la venue du pape.",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Prisca Thévenot",
+      "contexte": "Ensemble pour la République",
+      "texte": "Elle soutient la commission, juge les premières réponses du gouvernement insuffisantes et espère un vote à l'unanimité.",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Mardi 20 octobre : proposition de Yaël Braun-Pivet à la conférence des présidents et décision du groupe RN. LCP indique que les travaux parlementaires s'achèvent le 28 février, en raison de l'élection présidentielle.",
+    "change": "Si la commission est créée, ses auditions porteraient sur la préparation du maintien de l'ordre et sur le rôle des groupuscules, avec un rapport public à la clé.",
+    "credit": {
+     "auteur": "Silanoc",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_17_octobre_2026_%C3%A0_Paris_-_12.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "COMMERCES",
+    "titre": "Commerces saccagés : au moins 3 000 touchés, chômage partiel à 100 %",
+    "court": "Commerces saccagés : 3 000 touchés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/17_octobre_2026_%C3%89meute_Monoprix_saccag%C3%A9_et_pill%C3%A9_fbg_st_Denis_%C3%A0_Paris.jpg/1280px-17_octobre_2026_%C3%89meute_Monoprix_saccag%C3%A9_et_pill%C3%A9_fbg_st_Denis_%C3%A0_Paris.jpg",
+    "legende": "Un Monoprix du faubourg Saint-Denis à Paris, rideau forcé et marchandises au sol, après le 17 octobre (illustration)",
+    "chapeau": "Les saccages et pillages du week-end du 17 octobre ont touché au moins 3 000 commerces, selon le ministre des PME et du Commerce, Serge Papin ; Euronews note que ce chiffre double celui donné la veille.",
+    "eclairage": "Casseurs-payeurs : de quoi parle le texte ?",
+    "chiffres": [
+     {
+      "valeur": "3 000",
+      "legende": "commerces touchés au moins"
+     },
+     {
+      "valeur": "100 %",
+      "legende": "chômage partiel annoncé"
+     },
+     {
+      "valeur": "27/10",
+      "legende": "examen au Sénat casseurs-payeurs"
+     }
+    ],
+    "passe": "Les saccages et pillages du week-end du 17 octobre ont touché au moins 3 000 commerces, selon le ministre des PME et du Commerce, Serge Papin ; Euronews note que ce chiffre double celui donné la veille. À l'issue d'une cellule interministérielle de crise à Matignon, Sébastien Lecornu a annoncé un chômage partiel à 100 % dès mardi, un report des charges sociales et fiscales et un fonds de soutien spécifique ; des discussions sont engagées avec les assureurs pour accélérer les expertises et verser rapidement des acomptes. Parallèlement, le calendrier du projet de loi « casseurs-payeurs » est maintenu : il sera examiné en première lecture au Sénat à partir du 27 octobre. Le texte n'est donc pas adopté à ce stade.",
+    "points": [],
+    "explication": "Le projet de loi n° 952, déposé au Sénat en procédure accélérée, prévoit qu'une personne qui participe à un groupement formé pour commettre des violences ou des dégradations, ou qui reste dans un attroupement violent, puisse être tenue civilement responsable des dommages. La porte-parole du gouvernement, Maud Bregeon, parle d'une « forme de responsabilité collective » ; le recouvrement pourrait passer par les aides sociales.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.euronews.com/2026/10/20/frances-riot-damage-doubles-who-will-pay-for-thousands-of-wrecked-shops",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-projet-de-loi-casseurs-payeurs-sera-examine-au-senat-le-27-octobre-annonce-la-porte-parole-du-gouvernement_8223004.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.senat.fr/leg/pjl25-952.pdf",
+      "nom": "senat.fr, projet de loi n° 952"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Serge Papin",
+      "contexte": "ministre des PME et du Commerce",
+      "texte": "« doivent être poursuivis et punis »",
+      "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Maud Bregeon",
+      "contexte": "porte-parole du gouvernement",
+      "texte": "« paient pour les dégradations d'une minorité violente »",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-projet-de-loi-casseurs-payeurs-sera-examine-au-senat-le-27-octobre-annonce-la-porte-parole-du-gouvernement_8223004.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "David Margueritte",
+      "contexte": "sénateur, rapporteur du projet de loi",
+      "texte": "« Ce n'est pas toujours aux mêmes de payer la facture de ceux qui viennent tout saccager »",
+      "url": "https://www.franceinfo.fr/economie/greve/ce-n-est-pas-toujours-aux-memes-de-payer-la-facture-de-ceux-viennent-tout-saccager-defend-le-rapporteur-du-projet-de-loi-casseurs-payeurs-au-senat_8238466.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Mathilde Panot",
+      "contexte": "présidente du groupe LFI",
+      "texte": "« une arme de répression massive contre toutes les manifestations »",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-projet-de-loi-casseurs-payeurs-sera-examine-au-senat-le-27-octobre-annonce-la-porte-parole-du-gouvernement_8223004.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Examen du projet de loi au Sénat à partir du 27 octobre, puis transmission à l'Assemblée nationale. Les auteurs de dégradations restent présumés innocents tant qu'ils ne sont pas jugés.",
+    "change": "Les commerçants touchés peuvent prétendre à des mesures d'urgence ; la question de qui paie les dégâts sera débattue au Sénat dès le 27 octobre.",
+    "credit": {
+     "auteur": "Guallendra",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:17_octobre_2026_%C3%89meute_Monoprix_saccag%C3%A9_et_pill%C3%A9_fbg_st_Denis_%C3%A0_Paris.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : l'Assemblée passe au PLFSS, le PLF reprend le 27 octobre",
+    "court": "Budget 2027 : pause du PLF, place au PLFSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/H%C3%A9micycle_decor_3_Palais_Bourbon.jpg/1280px-H%C3%A9micycle_decor_3_Palais_Bourbon.jpg",
+    "legende": "Bas-relief de l'hémicycle du Palais Bourbon, où se tient le débat budgétaire (illustration)",
+    "chapeau": "Commencé le 13 octobre dans l'hémicycle, l'examen du projet de loi de finances (PLF) pour 2027 est suspendu à minuit lundi 19 octobre pour laisser place, dès mardi après-midi, au projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, en raison des délais constitutionnels, selon LCP.",
+    "eclairage": "Deux budgets, un calendrier serré",
+    "chiffres": [
+     {
+      "valeur": "2 600",
+      "legende": "amendements restants sur les recettes"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     },
+     {
+      "valeur": "27/10",
+      "legende": "reprise du PLF"
+     }
+    ],
+    "passe": "Commencé le 13 octobre dans l'hémicycle, l'examen du projet de loi de finances (PLF) pour 2027 est suspendu à minuit lundi 19 octobre pour laisser place, dès mardi après-midi, au projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, en raison des délais constitutionnels, selon LCP. Plus de 2 600 amendements restent à examiner sur la partie « recettes » du PLF, dont le vote devrait aboutir à un rejet. Le gouvernement vise un déficit public de 5 % du PIB en 2027, contre 5,4 % en 2026. La commission des finances avait rejeté la partie recettes le 9 octobre, par 31 voix contre 3 ; la commission des affaires sociales a, elle, rejeté le PLFSS du 12 au 16 octobre. Le PLF reprendra le 27 octobre.",
+    "points": [],
+    "explication": "Le PLF fixe les recettes et les dépenses de l'État ; le PLFSS, celles de la Sécurité sociale. Selon LCP, le Parlement dispose de 70 jours après le dépôt du PLF pour se prononcer ; passé ce délai, à partir du 18 décembre, une ordonnance budgétaire pourrait être utilisée. Sébastien Lecornu pourrait aussi recourir à l'article 49.3, au risque d'une motion de censure.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-commence-a-detricoter-le-projet-du-gouvernement-l-assemblee",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-financement-de-la-securite-sociale-pour-2027",
+      "nom": "assemblee-nationale.fr, PLFSS"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plfss-pour-2027-examen-et-rejet-du-projet-de-loi-en-commission-des-affaires-sociales",
+      "nom": "assemblee-nationale.fr, commission"
+     },
+     {
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4684-plf-2027-commission-finances-rejette-partie-recettes-creuse-deficit-environ-10-md.html",
+      "nom": "Legifiscal"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "David Amiel",
+      "contexte": "ministre des Comptes publics",
+      "texte": "Il dit que la première semaine de débats a « mené à une dégradation du déficit public de 10 milliards d'euros ».",
+      "url": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-commence-a-detricoter-le-projet-du-gouvernement-l-assemblee",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Philippe Juvin",
+      "contexte": "rapporteur général (Droite républicaine)",
+      "texte": "Il estime le déficit à 5,35 à 5,4 % du PIB avec les amendements de la commission, contre 5 % visé par le gouvernement (Legifiscal).",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4684-plf-2027-commission-finances-rejette-partie-recettes-creuse-deficit-environ-10-md.html",
+      "source": "Legifiscal"
+     }
+    ],
+    "apres": "Mardi 27 octobre : reprise du PLF et date théorique du vote sur le PLFSS, qui pourrait être rejeté plus tôt.",
+    "change": "3.",
+    "credit": {
+     "auteur": "Chatsam",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%A9micycle_decor_3_Palais_Bourbon.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "20",
+    "mois": "OCT.",
+    "texte": "fr)."
+   },
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Union européenne : Ursula von der Leyen et António Costa à Budapest pour l'anniversaire de 1956 (Euronews)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : début de l'examen du projet de loi « casseurs-payeurs » ; Assemblée : reprise du PLF 2027 (LCP, franceinfo)."
+   },
+   {
+    "jour": "18",
+    "mois": "DÉC.",
+    "texte": "Budget : à partir de cette date, une ordonnance budgétaire pourrait être utilisée si le Parlement ne s'est pas prononcé (LCP)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Commission d'enquête",
+    "definition": "Instance temporaire d'une assemblée, dotée de pouvoirs d'investigation, qui contrôle l'action du Gouvernement et rend son rapport dans un délai maximum de six mois."
+   },
+   {
+    "terme": "Couvre-feu partiel",
+    "definition": "Interdiction de circuler dans un secteur donné à certaines heures ; selon Public Sénat, les préfets et les maires peuvent déjà l'instaurer en droit commun."
+   },
+   {
+    "terme": "Responsabilité civile collective",
+    "definition": "Principe du projet de loi « casseurs-payeurs » : une personne présente dans un groupement violent peut être tenue de réparer les dégâts même sans en être l'auteur."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Projet de loi de financement de la Sécurité sociale : le texte qui fixe chaque année les recettes et les dépenses de la Sécurité sociale."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le projet de loi « casseurs-payeurs » a déjà été adopté par le Sénat.",
+   "reponse": false,
+   "explication": "Faux : le texte n'a pas encore été examiné ; il doit l'être en première lecture au Sénat à partir du 27 octobre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-19",
   "minutes": 9,
