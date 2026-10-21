@@ -1,5 +1,203 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-21",
+  "url": "/podcasts/politique-2026-10-21.mp3",
+  "taille": 3515917,
+  "duree": 293,
+  "titre": "Éclairage politique, mercredi 21 octobre 2026",
+  "titre_episode": "Commission d'enquête, maintien de l'ordre, ingérences, budget de la Sécu : l'essentiel du mercredi 21 octobre",
+  "description": "Ce mercredi 21 octobre, Léa et Paul reprennent 4 sujets.\n• Commission d'enquête : les députés de la commission des lois la lancent sur les violences du 17 octobre, ce qu'elle peut faire et ce qu'elle examinera.\n• Maintien de l'ordre : un dispositif « massif » promis pour samedi, et le désaccord entre LFI et le gouvernement sur le renseignement.\n• Ingérences étrangères : le Sénat adopte à l'unanimité le projet de loi, qui triple les peines pour les fausses informations en période électorale.\n• Budget de la Sécu : la motion de rejet est repoussée par 259 voix contre 128, et la Cour des comptes appelle à tenir l'objectif de 12,7 milliards d'euros de déficit.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Violences du 17 octobre : l'Assemblée lance une commission d'enquête"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Maintien de l'ordre : un dispositif « massif » promis pour samedi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Ingérences étrangères : le Sénat adopte le projet de loi à l'unanimité"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Budget de la Sécu : la motion de rejet écartée, l'examen commence"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, on est mercredi vingt et un octobre. Deux cent cinquante-neuf voix contre cent vingt-huit. C'est le score d'un vote hier à l'Assemblée sur le budget de la Sécurité sociale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa. Mais avant le budget, commençons par les suites du dix-sept octobre, avec une commission d'enquête."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui vient d'être lancée, c'est ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Hier, les députés de la commission des lois ont voté pour doter leur instance des pouvoirs d'une commission d'enquête sur les violences de samedi. L'idée vient de la présidente de l'Assemblée, Yaël Braun-Pivet."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, une commission d'enquête, qu'est-ce que ça change ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est une instance temporaire, avec des pouvoirs d'investigation, qui contrôle l'action du gouvernement et finit par un rapport. Ici, c'est la commission des lois, qui existe déjà, qui reçoit ces pouvoirs. Elle sera présidée par Vincent Caure."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur quoi va-t-elle enquêter ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur la préparation des pouvoirs publics, le travail du renseignement, l'information des maires, le maintien de l'ordre, le rôle des réseaux sociaux, d'éventuelles ingérences étrangères et la réponse pénale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, un périmètre large."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois rapporteurs doivent être désignés aujourd'hui, et la création sera définitive sauf opposition avant quinze heures. À retenir : l'Assemblée se donne les moyens d'enquêter, avec des conclusions possibles avant la fin de l'année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor, mais même sujet : samedi prochain."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Des appels à un deuxième acte de la mobilisation circulent pour le vingt-quatre octobre. Hier, aux questions au gouvernement, le Premier ministre, Sébastien Lecornu, a promis que le dispositif de samedi sera massif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui n'a pas marché le dix-sept ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Lecornu, le dispositif était trop statique et pas assez mobile. Il a aussi dit que le renseignement avait vu beaucoup de choses, mais pas tout. Et il a parlé de mille policiers et gendarmes blessés le week-end dernier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mille ? C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a ajouté que deux cents enquêteurs sont mobilisés à Paris contre les pillages. De son côté, le ministre de l'Intérieur, Laurent Nuñez, a dit que samedi, c'est lui qui sera aux commandes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a eu aussi une passe d'armes sur le renseignement, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Selon LCP, une enquête de Mediapart rapporte qu'un commissaire du renseignement territorial dit qu'on lui demande d'écrire que LFI est derrière le mouvement. Manuel Bompard, pour La France insoumise, a accusé le gouvernement de manipuler les services."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que répond le gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Laurent Nuñez dit que les services de renseignement ne travaillent pas sur les partis politiques. Sébastien Lecornu juge impensable qu'un gouvernement donne de telles instructions. À retenir : le gouvernement promet un dispositif plus mobile samedi, et l'accusation sur le renseignement reste un désaccord entre LFI et l'exécutif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file maintenant au Sénat, avec un texte sur les ingérences étrangères."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Hier, le Sénat a adopté ce projet de loi à l'unanimité. Il est maintenant transmis à l'Assemblée nationale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que prévoit-il ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois articles. Surtout, il triple les peines pour la diffusion de fausses informations en période électorale : on passe d'un an et quinze mille euros d'amende à trois ans et quarante-cinq mille euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que, selon Laurent Nuñez, près d'une centaine d'opérations numériques d'ingérence ont été détectées depuis l'été autour de la campagne présidentielle. Pour les élections européennes et législatives de deux mille vingt-quatre, le service Viginum en avait repéré vingt-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, de vingt-cinq à une centaine ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ce que dit le ministre. Au Sénat, le texte a été voté sans opposition, mais plusieurs sénateurs le jugent trop limité. Et un amendement du sénateur Claude Malhuret, adopté malgré l'opposition du gouvernement, vise la responsabilité des plateformes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un vote unanime au Sénat, mais un texte qui doit encore passer par l'Assemblée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet : l'argent. Le budget de la Sécurité sociale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Hier, les députés ont repoussé la motion de rejet préalable déposée par La France insoumise sur le projet de loi de financement de la Sécurité sociale pour deux mille vingt-sept. Résultat : deux cent cinquante-neuf voix contre, cent vingt-huit pour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qu'est-ce que ça veut dire, une motion de rejet préalable ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Si elle est adoptée, l'examen du texte s'arrête avant la discussion des articles. Elle a été écartée : les députés examinent donc les articles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quel est l'objectif du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ramener le déficit de la Sécurité sociale à douze virgule sept milliards d'euros en deux mille vingt-sept, contre vingt et un virgule huit milliards attendus cette année, selon le ministre du Travail, Jean-Pierre Farandou."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la Cour des comptes, elle en pense quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Hier aussi, elle a remis un rapport. Elle appelle à tenir cet objectif, mais juge le redressement prévu entaché de fragilités. Selon l'un de ses présidents de chambre, le déficit pourrait atteindre quatorze, quinze ou seize milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le mardi vingt-sept octobre est la date théorique du vote sur ce texte. À retenir : l'examen commence, avec un objectif de douze virgule sept milliards d'euros et des réserves de la Cour des comptes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-20",
   "url": "/podcasts/essentiel-2026-10-20.mp3",
