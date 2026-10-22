@@ -1,5 +1,525 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-22",
+  "url": "/podcasts/essentiel-2026-10-22.mp3",
+  "taille": 7618291,
+  "duree": 635,
+  "titre": "Éclairage, l'essentiel du jeudi 22 octobre 2026",
+  "titre_episode": "Commission d'enquête du 17 octobre, Carrefour et dette à 5 % : l'essentiel du jeudi 22 octobre",
+  "description": "Ce jeudi 22 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : commission d'enquête sur les violences du 17 octobre\n• Politique : Lecornu et LFI se renvoient la responsabilité\n• Économie : Carrefour abaisse ses objectifs 2026\n• Économie : taux à dix ans au-dessus de 5 %\n• Santé : préparation physique avant une greffe de foie\n• Santé : Foundayo, avis favorable de l'EMA\n• Food : G7 Agriculture et engrais\n• Food : acétamipride, débat du 29 octobre\n• Tech : Claude Duet, agent proactif d'Anthropic\n• Tech : publicité dans ChatGPT, 89 pays\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Violences du 17 octobre : trois rapporteurs désignés, le RN boycotte"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Violences du 17 octobre : Lecornu et LFI se renvoient la responsabilité"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Carrefour : objectifs 2026 abaissés après les violences du week-end"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Dette : le taux à dix ans dépasse 5 %, une première depuis 2002"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Greffe de foie : se préparer avant l'opération, moins de décès en attente"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Foundayo : l'EMA recommande une pilule contre l'obésité et le diabète"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "G7 Agriculture : les engrais au centre d'une réunion à Paris"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Acétamipride : LFI veut abroger les dérogations, débat le 29 octobre"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Anthropic : Claude Duet, un agent qui prend les devants"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "ChatGPT : la publicité arrive dans 26 pays de plus, soit 89 en tout"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce jeudi 22 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Dix sujets, on commence par la politique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trois rapporteurs, trois tours de scrutin à bulletin secret, et aucun élu du Rassemblement national. Voilà le décor de la commission d'enquête sur les violences du 17 octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Mercredi, la commission des lois de l'Assemblée a désigné Agnès Firmin Le Bodo, pour Horizons, Roger Vicot, pour les Socialistes, et Pouria Amirshahi, pour les Écologistes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le RN ? Il avait proposé quelqu'un, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, le député Michaël Taverne. Mais il n'a pas été retenu. Le soir même, le groupe a annoncé qu'il boycotterait la commission."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour quelle raison ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le RN affirme que son accord était conditionné à une répartition équilibrée des postes, et que cet engagement n'a pas été tenu. Marine Le Pen parle d'une mascarade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté pouvoirs de la commission ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'après l'AFP, elle pourra obtenir des documents et mener des auditions sous serment. Elle doit examiner la préparation des pouvoirs publics, le maintien de l'ordre, les réseaux sociaux et la réponse pénale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec une conclusion avancée pour fin décembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : trois rapporteurs de bords différents piloteront les auditions, sans le RN."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours sur ces violences, mais côté exécutif. Changement de décor : Sébastien Lecornu et La France insoumise se renvoient la responsabilité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ça a commencé samedi soir, quand le Premier ministre a accusé LFI d'avoir une part de responsabilité. Lundi, Mediapart a cité un commissaire du renseignement territorial."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui disait quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Qu'on lui avait demandé d'écrire que LFI était derrière le mouvement. Le Premier ministre dément toute consigne de ce type."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et mercredi, au Sénat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sébastien Lecornu a dénoncé un agenda de déstabilisation mené par l'extrême gauche radicale. Il dit que le parquet national antiterroriste s'est saisi, et qu'un premier suspect a été interpellé pour l'incendie de la mairie de Limoges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un suspect qui reste présumé innocent, bien sûr."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bien sûr. De son côté, LFI dénonce un scandale d'État, et Manuel Bompard a annoncé saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, deux versions qui s'affrontent frontalement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et ce jeudi, les responsables des partis, LFI comprise, sont reçus à Matignon. Une nouvelle journée de mobilisation est prévue le 24 octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. Et on reste dans le même dossier, avec un chiffre : entre quatre-vingts et deux cents millions d'euros."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est l'impact estimé par Carrefour sur son résultat 2026, après les violences et pillages des 17 et 18 octobre. Le groupe a abaissé ses objectifs de l'année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la Bourse a réagi fort ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'action a perdu environ treize virgule huit pour cent mercredi, à quatorze euros cinq. Autrement dit, près d'un septième de sa valeur en une séance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien de magasins touchés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ cinquante le premier jour, sur un réseau d'environ six mille en France. Il y a eu aussi des fermetures préventives, sans nombre communiqué."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les objectifs, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La progression de la marge opérationnelle est attendue entre zéro et quinze points de base, contre plus de vingt-cinq auparavant. Les investissements passent de un virgule sept à un virgule six milliard d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un point de base, c'est quoi, pour l'auditeur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un centième de point de pourcentage. Vingt-cinq points de base, c'est donc un quart de point de marge."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les analystes sont prudents ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le courtier Oddo BHF parle d'une visibilité faible avant le quatrième trimestre, avec un risque accru si les perturbations se prolongent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une fourchette large, parce que personne ne sait combien de temps durera la baisse de fréquentation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et l'économie, c'est aussi la dette. Mercredi, le taux français à dix ans a brièvement dépassé cinq pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. C'est la première fois depuis 2002."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq virgule zéro zéro deux pour cent vers onze heures cinq, selon l'AFP. Il est redescendu à quatre virgule quatre-vingt-quinze vers quinze heures dix."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le taux à dix ans, c'est l'intérêt que l'État paie pour emprunter pendant dix ans, c'est bien ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et il sert aussi de repère aux banques pour les crédits immobiliers. Plus les investisseurs doutent, plus ils réclament un taux élevé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'écart avec l'Allemagne ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le fameux spread. Il est passé de un virgule cinquante-trois point mardi soir à un virgule cinquante-neuf mercredi, un plus haut depuis 2011 selon l'AFP. La France emprunte plus cher que l'Italie et l'Espagne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les causes avancées ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les prix de l'énergie, les incertitudes sur le budget et la présidentielle de 2027, et les violences du week-end. Le budget 2027 prévoit quarante-trois milliards d'euros d'efforts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Prochain rendez-vous ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi 23 octobre : l'agence Moody's doit réexaminer la note de la France, actuellement Aa3 avec perspective négative."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de rubrique, direction la santé. Une question : peut-on se préparer à une greffe de foie comme à un marathon ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "En quelque sorte. Des chercheurs de Northwestern et de l'Université de Pittsburgh ont étudié un programme de préhabilitation, c'est-à-dire de préparation physique avant l'opération."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur combien de malades ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Près de treize cents adultes évalués pour une greffe à Pittsburgh entre 2018 et 2022. Trois cent cinquante-cinq sont revenus pour au moins deux visites de suivi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le programme, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des tests de force et de nutrition, puis des exercices à faire chez soi, ajustés toutes les quatre à douze semaines avec un kinésithérapeute et une diététicienne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante-quatre pour cent des participants ont amélioré leur score de fragilité. Et une amélioration d'au moins zéro virgule quatre point est associée à un risque de décès en liste d'attente environ deux fois plus faible."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, deux fois plus faible ? C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, mais attention : c'est une étude observationnelle, dans un seul centre. Ceux qui reviennent aux visites vont peut-être déjà mieux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, un lien, pas une preuve."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il faudrait un essai randomisé pour trancher. À retenir : une association encourageante, à confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toujours en santé : une pilule contre l'obésité et le diabète de type 2. Elle s'appelle Foundayo."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le comité des médicaments de l'Agence européenne des médicaments a donné un avis favorable le 15 octobre. Le produit vient du laboratoire Eli Lilly."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un comprimé, donc, alors que la plupart de ces traitements s'injectent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un comprimé par jour, de la famille des analogues du GLP-1, une hormone qui agit sur l'appétit et la glycémie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur quelles études repose l'avis ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux études sur plus de quatre mille sept cent quarante adultes pour le poids, et quatre études sur trois mille sept cent soixante-cinq adultes pour le diabète."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Des effets indésirables ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les plus fréquents cités par l'agence : nausées, vomissements et diarrhées."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce n'est pas encore une autorisation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. C'est ensuite la Commission européenne qui décide. À retenir : un avis, pas une autorisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'alimentation et à l'agriculture, avec un détroit : Ormuz."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ un tiers des engrais de synthèse y transitaient, selon les documents remis aux ministres. Avec la guerre dans la zone, les prix ont fortement augmenté depuis février."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et lundi, les ministres de l'Agriculture du G7 se sont réunis à Paris."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sous présidence française, pour la deuxième fois en quatre mois. Annie Genevard a jugé que la situation ne s'était pas améliorée depuis juin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ils ont décidé quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas de baisse de prix annoncée. Les pistes sont un usage plus efficace des engrais et la santé des sols, deux chantiers de moyen terme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'aide annoncée à Bangkok ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le 15 octobre, le G7 a promis deux milliards et demi pour aider des pays exposés à l'insécurité alimentaire. Des euros selon une source, des dollars selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ensuite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une réunion des responsables vétérinaires en novembre, puis une réunion scientifique les 3 et 4 décembre à l'INRAE de Versailles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : les engrais sont devenus un sujet de souveraineté alimentaire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et on reste dans les champs, avec un pesticide : l'acétamipride."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui revient dans le débat à l'Assemblée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La France insoumise a inscrit, à sa journée réservée du 29 octobre, une proposition de loi pour abroger les dérogations prévues par la loi du 19 août."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ces dérogations, elles concernent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'acétamipride en pulvérisation sur les noisetiers, et le flupyradifurone sur les pommiers, les cerisiers et pour les semences de betterave."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce n'est donc pas une autorisation générale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Elles sont exceptionnelles, durent un an, renouvelables deux fois. Le Conseil constitutionnel a validé la loi le 14 août, avec deux réserves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Lesquelles ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Anses peut limiter les dérogations à certaines zones, et l'absence de décision de l'agence sous deux mois vaut refus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les positions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mathilde Panot, pour LFI, parle d'une loi poison. Le député Renaissance Jean-René Cazeneuve répond que la loi crée un passage étroit, dont la clé est détenue par les scientifiques."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une dérogation encadrée, dont l'abrogation sera débattue le 29 octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernière rubrique, l'IA et la tech. On commence par Anthropic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui a présenté mercredi Claude Duet, un agent dit proactif."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Proactif, ça veut dire qu'il ne se contente pas d'attendre une question. Il envoie chaque matin un résumé des points importants de vos applications connectées, et ne prévient dans la journée que si quelque chose le justifie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il agit seul ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Il demande votre accord avant d'agir en votre nom. Selon MacRumors, l'accord est demandé avant d'envoyer un message, de payer, de signer ou de supprimer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui peut l'utiliser ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour l'instant, les abonnés Pro et Max aux États-Unis, sur liste d'attente. Sur iOS, Android et claude.ai."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la sécurité ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucune évaluation indépendante dans les sources consultées. Anthropic promet d'autres détails sur la sécurité dans les prochains jours."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un agent qui demande avant d'agir, mais réservé aux Américains."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre annonce : OpenAI étend la publicité dans ChatGPT à vingt-six pays de plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui fait quatre-vingt-neuf pays en tout."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et plus de cent mille annonceurs depuis le lancement, il y a un peu plus de huit mois. Ce sont les chiffres d'OpenAI, non confirmés de façon indépendante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, cent mille annonceurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Parmi les nouveaux marchés : l'Argentine, le Chili, la Colombie, le Nigeria, l'Afrique du Sud, l'Ukraine ou encore le Pakistan."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tout le monde en voit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les annonces apparaissent seulement sur les forfaits gratuit et Go. Plus, Pro et Entreprise restent sans publicité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi cette mesure, selon OpenAI ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour soutenir un accès gratuit ou peu coûteux à ChatGPT."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la publicité reste cantonnée aux offres gratuites."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pour finir, un mot sur Nvidia : à Berlin, son patron Jensen Huang a pressé l'Europe d'adopter l'IA dans l'industrie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-22",
   "url": "/podcasts/politique-2026-10-22.mp3",
