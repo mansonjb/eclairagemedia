@@ -1,5 +1,5 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "sondage": {
   "methode": "moyenne",
   "nb": 11,
@@ -59,10 +59,9 @@
   "Wikipedia",
   "réseaux",
   "citations",
-  "abonnés",
-  "YouTube"
+  "abonnés"
  ],
- "polymarket_volume": 154307325.321156,
+ "polymarket_volume": 154762583.437375,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -82,25 +81,24 @@
     "d": 1.7
    },
    "attention": {
-    "v": 63.2,
-    "d": -8.2,
+    "v": 76.4,
+    "d": 7.6,
     "parts": {
-     "Wikipedia": 4.6,
+     "Wikipedia": 4.7,
      "réseaux": 23,
      "citations": 13.3,
-     "abonnés": 22,
-     "YouTube": 7.7
+     "abonnés": 31.6
     }
    },
    "polymarket": {
     "v": 46.5,
-    "d": 3.3,
-    "d24": 0.6,
-    "d30": 9.1,
-    "vol": 4154698,
-    "vol7": 503849,
+    "d": 2.5,
+    "d24": null,
+    "d30": 8.1,
+    "vol": 4215953,
+    "vol7": 502388,
     "haut": 48.2,
-    "bas": 37
+    "bas": 38.1
    },
    "declarations": [
     {
@@ -296,9 +294,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 63
+    "attention": 76
    },
-   "score": 93,
+   "score": 95,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -318,13 +316,12 @@
    },
    "attention": {
     "v": 100,
-    "d": -31.1,
+    "d": -42.2,
     "parts": {
-     "Wikipedia": 9.3,
+     "Wikipedia": 9.5,
      "réseaux": 41.7,
      "citations": 19,
-     "abonnés": 13.9,
-     "YouTube": 28.4
+     "abonnés": 10.7
     }
    },
    "polymarket": {
@@ -332,8 +329,8 @@
     "d": -1,
     "d24": null,
     "d30": -2,
-    "vol": 2389239,
-    "vol7": 202002,
+    "vol": 2417201,
+    "vol7": 221864,
     "haut": 15.5,
     "bas": 9.5
    },
@@ -552,14 +549,12 @@
     "d": -1.7
    },
    "attention": {
-    "v": 14.2,
-    "d": 1.8,
+    "v": 17.6,
+    "d": 6.9,
     "parts": {
-     "Wikipedia": 3.1,
      "réseaux": 2.5,
      "citations": 7.7,
-     "abonnés": 0.7,
-     "YouTube": 0
+     "abonnés": 1.1
     }
    },
    "polymarket": {
@@ -567,8 +562,8 @@
     "d": -1,
     "d24": null,
     "d30": -5,
-    "vol": 2435267,
-    "vol7": 223068,
+    "vol": 2449549,
+    "vol7": 221611,
     "haut": 24.5,
     "bas": 17.5
    },
@@ -766,9 +761,9 @@
    "composantes": {
     "sondage": 43,
     "polymarket": 40,
-    "attention": 14
+    "attention": 18
    },
-   "score": 36,
+   "score": 37,
    "rangs": {
     "sondage": 3,
     "polymarket": 2
@@ -787,25 +782,24 @@
     "d": null
    },
    "attention": {
-    "v": 75.5,
-    "d": 31.3,
+    "v": 78.5,
+    "d": 28.1,
     "parts": {
-     "Wikipedia": 35.2,
+     "Wikipedia": 34.9,
      "réseaux": 12.2,
      "citations": 5.2,
-     "abonnés": 35.8,
-     "YouTube": 7.9
+     "abonnés": 29.2
     }
    },
    "polymarket": {
-    "v": 11.8,
-    "d": -0.6,
-    "d24": null,
-    "d30": 5.8,
-    "vol": 5156930,
-    "vol7": 354171,
+    "v": 12.2,
+    "d": -0.4,
+    "d24": 0.4,
+    "d30": 5.4,
+    "vol": 5212676,
+    "vol7": 351310,
     "haut": 14.5,
-    "bas": 5.1
+    "bas": 6.8
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -909,10 +903,10 @@
    },
    "composantes": {
     "sondage": 18,
-    "polymarket": 25,
-    "attention": 76
+    "polymarket": 26,
+    "attention": 79
    },
-   "score": 32,
+   "score": 33,
    "rangs": {
     "sondage": 8,
     "polymarket": 3
@@ -931,23 +925,22 @@
     "d": 0.6
    },
    "attention": {
-    "v": 51.1,
-    "d": 2.4,
+    "v": 57,
+    "d": -1.8,
     "parts": {
-     "Wikipedia": 15.5,
+     "Wikipedia": 13.1,
      "réseaux": 3.1,
      "citations": 32.8,
-     "abonnés": 0.3,
-     "YouTube": 0
+     "abonnés": 0.6
     }
    },
    "polymarket": {
-    "v": 5,
-    "d": 3.2,
-    "d24": 0.2,
-    "d30": 3.4,
-    "vol": 2912470,
-    "vol7": 589697,
+    "v": 4.4,
+    "d": 2.4,
+    "d24": -0.5,
+    "d30": 2.8,
+    "vol": 2932388,
+    "vol7": 555620,
     "haut": 5.3,
     "bas": 0.9
    },
@@ -1116,10 +1109,10 @@
    },
    "composantes": {
     "sondage": 35,
-    "polymarket": 11,
-    "attention": 51
+    "polymarket": 9,
+    "attention": 57
    },
-   "score": 31,
+   "score": 32,
    "rangs": {
     "sondage": 4,
     "polymarket": 5
@@ -1138,25 +1131,24 @@
     "d": -0.8
    },
    "attention": {
-    "v": 14.6,
-    "d": -7.6,
+    "v": 16.7,
+    "d": -8.2,
     "parts": {
      "Wikipedia": 2.8,
      "réseaux": 2.6,
      "citations": 8.4,
-     "abonnés": 0,
-     "YouTube": 0.7
+     "abonnés": 0.2
     }
    },
    "polymarket": {
     "v": 1.1,
-    "d": -0.4,
-    "d24": null,
-    "d30": -1.2,
-    "vol": 3150166,
-    "vol7": 173248,
+    "d": -0.5,
+    "d24": -0.1,
+    "d30": -1.1,
+    "vol": 3193734,
+    "vol7": 190270,
     "haut": 3,
-    "bas": 1.1
+    "bas": 0.9
    },
    "declarations": [
     {
@@ -1338,53 +1330,12 @@
    "composantes": {
     "sondage": 28,
     "polymarket": 2,
-    "attention": 15
+    "attention": 17
    },
    "score": 18,
    "rangs": {
     "sondage": 5,
     "polymarket": 7
-   }
-  },
-  {
-   "nom": "Sarah Knafo",
-   "wiki": "Sarah_Knafo",
-   "etiquette": "Reconquête",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 79.1,
-    "d": 19.4,
-    "parts": {
-     "Wikipedia": 15.1,
-     "abonnés": 17.9,
-     "YouTube": 28.5
-    }
-   },
-   "polymarket": {
-    "v": 0.9,
-    "d": 0,
-    "d24": null,
-    "d30": -0.1,
-    "vol": 2700755,
-    "vol7": 133560,
-    "haut": 1.1,
-    "bas": 0.9
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": null,
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 2,
-    "attention": 79
-   },
-   "score": 16,
-   "rangs": {
-    "polymarket": 8
    }
   },
   {
@@ -1400,23 +1351,22 @@
     "d": 0.1
    },
    "attention": {
-    "v": 11.2,
-    "d": -4.6,
+    "v": 13.2,
+    "d": -5.2,
     "parts": {
-     "Wikipedia": 4.1,
+     "Wikipedia": 4.2,
      "réseaux": 1.7,
      "citations": 4.9,
-     "abonnés": 0.7,
-     "YouTube": 0.3
+     "abonnés": 1.1
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.7,
-    "d24": -0.2,
-    "d30": -1,
-    "vol": 3050909,
-    "vol7": 246235,
+    "v": 0.7,
+    "d": -0.5,
+    "d24": 0.2,
+    "d30": -0.6,
+    "vol": 3066104,
+    "vol7": 184808,
     "haut": 1.9,
     "bas": 0.4
    },
@@ -1585,13 +1535,13 @@
    },
    "composantes": {
     "sondage": 23,
-    "polymarket": 1,
-    "attention": 11
+    "polymarket": 2,
+    "attention": 13
    },
-   "score": 14,
+   "score": 15,
    "rangs": {
     "sondage": 6,
-    "polymarket": 10
+    "polymarket": 9
    }
   },
   {
@@ -1607,23 +1557,22 @@
     "d": -0.7
    },
    "attention": {
-    "v": 6.1,
-    "d": -2,
+    "v": 6.8,
+    "d": -2.7,
     "parts": {
-     "Wikipedia": 1.5,
+     "Wikipedia": 1.4,
      "réseaux": 1.3,
      "citations": 2.7,
-     "abonnés": 0.6,
-     "YouTube": 0
+     "abonnés": 0.4
     }
    },
    "polymarket": {
-    "v": 2.2,
+    "v": 1.7,
     "d": -1.3,
-    "d24": 0.2,
-    "d30": -3.5,
-    "vol": 2606218,
-    "vol7": 187562,
+    "d24": -0.5,
+    "d30": -4.2,
+    "vol": 2623968,
+    "vol7": 161970,
     "haut": 6.3,
     "bas": 1.5
    },
@@ -1735,13 +1684,53 @@
    },
    "composantes": {
     "sondage": 22,
-    "polymarket": 5,
-    "attention": 6
+    "polymarket": 4,
+    "attention": 7
    },
    "score": 14,
    "rangs": {
     "sondage": 7,
     "polymarket": 6
+   }
+  },
+  {
+   "nom": "Sarah Knafo",
+   "wiki": "Sarah_Knafo",
+   "etiquette": "Reconquête",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 60.6,
+    "d": 21.3,
+    "parts": {
+     "Wikipedia": 14.2,
+     "abonnés": 13.7
+    }
+   },
+   "polymarket": {
+    "v": 0.9,
+    "d": 0,
+    "d24": null,
+    "d30": null,
+    "vol": 2717036,
+    "vol7": 135298,
+    "haut": 1.1,
+    "bas": 0.9
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": null,
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 2,
+    "attention": 61
+   },
+   "score": 13,
+   "rangs": {
+    "polymarket": 8
    }
   },
   {
@@ -1757,22 +1746,22 @@
     "d": 0.6
    },
    "attention": {
-    "v": 29.2,
-    "d": 12.1,
+    "v": 22.8,
+    "d": 10.9,
     "parts": {
+     "Wikipedia": 7,
      "réseaux": 5,
      "citations": 2.6,
-     "abonnés": 5.8,
-     "YouTube": 25.8
+     "abonnés": 7.9
     }
    },
    "polymarket": {
     "v": 0.7,
     "d": 0.1,
     "d24": -0.1,
-    "d30": -0.4,
-    "vol": 3119535,
-    "vol7": 228880,
+    "d30": -0.7,
+    "vol": 3128561,
+    "vol7": 231391,
     "haut": 1.4,
     "bas": 0.4
    },
@@ -1885,12 +1874,12 @@
    "composantes": {
     "sondage": 12,
     "polymarket": 2,
-    "attention": 29
+    "attention": 23
    },
-   "score": 12,
+   "score": 11,
    "rangs": {
     "sondage": 9,
-    "polymarket": 9
+    "polymarket": 10
    }
   },
   {
@@ -1906,14 +1895,13 @@
     "d": 0
    },
    "attention": {
-    "v": 8.4,
-    "d": 3.5,
+    "v": 9.2,
+    "d": 3.1,
     "parts": {
-     "Wikipedia": 3.8,
+     "Wikipedia": 3.2,
      "réseaux": 2.5,
      "citations": 1.5,
-     "abonnés": 1,
-     "YouTube": 0
+     "abonnés": 1
     }
    },
    "polymarket": {
@@ -1921,8 +1909,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 4614997,
-    "vol7": 0,
+    "vol": 4615047,
+    "vol7": 53884,
     "haut": null,
     "bas": null
    },
@@ -2120,7 +2108,7 @@
    "composantes": {
     "sondage": 9,
     "polymarket": 0,
-    "attention": 8
+    "attention": 9
    },
    "score": 6,
    "rangs": {
@@ -2141,14 +2129,13 @@
     "d": -0.3
    },
    "attention": {
-    "v": 3,
+    "v": 3.7,
     "d": -1.3,
     "parts": {
      "Wikipedia": 0.6,
      "réseaux": 1.3,
      "citations": 0.7,
-     "abonnés": 0.2,
-     "YouTube": 0
+     "abonnés": 0.6
     }
    },
    "polymarket": {
@@ -2313,7 +2300,7 @@
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
-    "attention": 3
+    "attention": 4
    },
    "score": 4,
    "rangs": {
@@ -2331,14 +2318,13 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 5.5,
-    "d": 0.7,
+    "v": 6.1,
+    "d": 1,
     "parts": {
-     "Wikipedia": 2.1,
+     "Wikipedia": 2,
      "réseaux": 1.9,
      "citations": 1,
-     "abonnés": 0.1,
-     "YouTube": 0.8
+     "abonnés": 0.4
     }
    },
    "polymarket": {
@@ -2346,8 +2332,8 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 4841638,
-    "vol7": 0,
+    "vol": 4841768,
+    "vol7": 68771,
     "haut": null,
     "bas": null
    },
@@ -2477,23 +2463,22 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 3.7,
-    "d": -2.6,
+    "v": 4.8,
+    "d": -2.4,
     "parts": {
-     "Wikipedia": 1.8,
+     "Wikipedia": 1.9,
      "réseaux": 1,
      "citations": 0.4,
-     "abonnés": 0.7,
-     "YouTube": 0
+     "abonnés": 1.4
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.5,
-    "d24": -0.2,
-    "d30": -0.6,
-    "vol": 2681885,
-    "vol7": 143345,
+    "v": 0.5,
+    "d": 0,
+    "d24": 0.2,
+    "d30": null,
+    "vol": 2696624,
+    "vol7": 154479,
     "haut": 1.2,
     "bas": 0.2
    },
@@ -2621,7 +2606,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 1,
-    "attention": 4
+    "attention": 5
    },
    "score": 1,
    "rangs": {
@@ -2639,13 +2624,12 @@
    "sondage": null,
    "attention": {
     "v": 0.5,
-    "d": -0.6,
+    "d": -0.7,
     "parts": {
      "Wikipedia": 0.5,
      "réseaux": 0.1,
      "citations": 0,
-     "abonnés": 0,
-     "YouTube": 0
+     "abonnés": 0
     }
    },
    "polymarket": {
@@ -2653,8 +2637,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 6213285,
-    "vol7": 0,
+    "vol": 6213460,
+    "vol7": 58485,
     "haut": null,
     "bas": null
    },
@@ -3325,6 +3309,43 @@
     "Éric Zemmour": 0.7,
     "Bruno Retailleau": 0.4,
     "Dominique de Villepin": 0.4,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "David Lisnard": 78.5,
+    "Marine Le Pen": 76.4,
+    "Sarah Knafo": 60.6,
+    "Raphaël Glucksmann": 57,
+    "Éric Zemmour": 22.8,
+    "Édouard Philippe": 17.6,
+    "Gabriel Attal": 16.7,
+    "Bruno Retailleau": 13.2,
+    "Marine Tondelier": 9.2,
+    "François Hollande": 6.8,
+    "François Ruffin": 6.1,
+    "Dominique de Villepin": 4.8,
+    "Fabien Roussel": 3.7,
+    "Xavier Bertrand": 0.5
+   },
+   "polymarket": {
+    "Marine Le Pen": 46.5,
+    "Édouard Philippe": 18.5,
+    "David Lisnard": 12.2,
+    "Jean-Luc Mélenchon": 10.5,
+    "Raphaël Glucksmann": 4.4,
+    "François Hollande": 1.7,
+    "Gabriel Attal": 1.1,
+    "Sarah Knafo": 0.9,
+    "Éric Zemmour": 0.7,
+    "Bruno Retailleau": 0.7,
+    "Dominique de Villepin": 0.5,
     "Xavier Bertrand": 0.1,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,

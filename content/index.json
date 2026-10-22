@@ -1,6 +1,660 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-22",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Carrefour : objectifs 2026 abaissés après les violences du week-end",
+    "court": "Carrefour abaisse ses objectifs 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hypermarch%C3%A9_Carrefour_Cusset_%28c%C3%B4t%C3%A9_sud-ouest%29_2026-03-08.JPG/1280px-Hypermarch%C3%A9_Carrefour_Cusset_%28c%C3%B4t%C3%A9_sud-ouest%29_2026-03-08.JPG",
+    "legende": "Hypermarché Carrefour à Cusset, enseigne et drive (illustration)",
+    "chapeau": "Mardi 20 octobre, après la clôture de la Bourse, le distributeur Carrefour a publié ses ventes du troisième trimestre et abaissé ses objectifs de l'année, en citant les violences et pillages des 17 et 18 octobre en France.",
+    "eclairage": "Que veut dire « abaisser ses objectifs » et pourquoi la Bourse réagit-elle si fort ?",
+    "chiffres": [
+     {
+      "valeur": "80-200",
+      "legende": "M€ d'impact estimé sur le résultat 2026"
+     },
+     {
+      "valeur": "~50",
+      "legende": "magasins touchés le premier jour"
+     },
+     {
+      "valeur": "-13,8 %",
+      "legende": "action à 14,05 € mercredi 21 octobre"
+     }
+    ],
+    "passe": "Mardi 20 octobre, après la clôture de la Bourse, le distributeur Carrefour a publié ses ventes du troisième trimestre et abaissé ses objectifs de l'année, en citant les violences et pillages des 17 et 18 octobre en France. Le groupe chiffre l'impact sur son résultat opérationnel courant 2026 entre 80 et 200 millions d'euros, dont des coûts directs (marchandises volées ou détruites, dégâts, sécurité) de « plusieurs dizaines de millions d'euros », selon son directeur financier, Matthieu Malige. Environ 50 magasins ont été touchés le premier jour, sur un réseau d'environ 6 000 magasins en France ; des fermetures préventives ont eu lieu, sans nombre communiqué. La progression de la marge opérationnelle est désormais attendue entre 0 et 15 points de base, contre plus de 25 auparavant. Le bénéfice net ajusté par action doit rester stable ou en légère hausse (haut de fourchette à un chiffre auparavant), le flux de trésorerie disponible net en léger repli (légère croissance auparavant), et les investissements passent de 1,7 à 1,6 milliard d'euros. Les ventes du trimestre atteignent 22,69 milliards d'euros (+2,3 % à magasins comparables ; France : 11,9 milliards, +1,2 %). Mercredi 21 octobre, l'action cédait environ 14 % en séance, à 14,05 euros.",
+    "points": [],
+    "explication": "Chaque trimestre, une grande entreprise cotée donne à ses actionnaires des objectifs annuels : croissance, marge, trésorerie. Ils servent de repère aux investisseurs, qui évaluent l'action sur les bénéfices attendus. La marge opérationnelle est la part du chiffre d'affaires qui reste après les coûts d'exploitation ; l'ajouter de 25 points de base, c'est gagner 0,25 point de marge. Quand une direction revoit ces objectifs à la baisse, les analystes baissent leurs prévisions de bénéfices, et le cours s'ajuste immédiatement. Ici, la fourchette de 80 à 200 millions d'euros est large parce que l'entreprise ne sait pas encore combien de temps durera la baisse de fréquentation.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/carrefour-abaisse-ses-objectifs-annuels-apres-les-violences-et-pillages-en-france-7bfa8af760a19aac39feb89a00c4a431",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.tradingsat.com/carrefour-FR0000120172/actualites/carrefour-les-violences-des-17-et-18-octobre-coutent-cher-a-carrefour-qui-s-effondre-de-11-en-bourse-1172139.html",
+      "nom": "BFM Bourse (TradingSat)"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/carrefour-abaisse-ses-objectifs-2026-et-chiffre-limpact-des-violences-jusqua-200-millions-deuros",
+      "nom": "France-Épargne"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Alexandre Bompard",
+      "contexte": "président-directeur général de Carrefour",
+      "texte": "« Notre groupe est confronté à une situation inédite en France ».",
+      "url": "https://www.tradingsat.com/carrefour-FR0000120172/actualites/carrefour-les-violences-des-17-et-18-octobre-coutent-cher-a-carrefour-qui-s-effondre-de-11-en-bourse-1172139.html",
+      "source": "BFM Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Alphavalue",
+      "contexte": "société d'analyse financière",
+      "texte": "Le consensus des analystes baisserait de 3 % à 9 % pour le résultat opérationnel courant du groupe, et de 7 % à 18 % pour la France, selon cette société d'analyse. Elle estime que le quatrième trimestre pourrait absorber 20 % à 55 % du profit attendu.",
+      "url": "https://www.tradingsat.com/carrefour-FR0000120172/actualites/carrefour-les-violences-des-17-et-18-octobre-coutent-cher-a-carrefour-qui-s-effondre-de-11-en-bourse-1172139.html",
+      "source": "BFM Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Oddo BHF",
+      "contexte": "courtier",
+      "texte": "La visibilité reste faible avant le quatrième trimestre, avec un risque accru si les perturbations se prolongent, selon le courtier.",
+      "url": "https://www.tradingsat.com/carrefour-FR0000120172/actualites/carrefour-les-violences-des-17-et-18-octobre-coutent-cher-a-carrefour-qui-s-effondre-de-11-en-bourse-1172139.html",
+      "source": "BFM Bourse"
+     }
+    ],
+    "apres": "L'enseigne publiera ses résultats annuels en début d'année prochaine ; une nouvelle mobilisation est annoncée samedi 24 octobre.",
+    "change": "Pour Carrefour, des investissements réduits en France d'ici la fin de l'année et une fréquentation attendue en baisse pendant les fermetures anticipées liées aux couvre-feux, selon Reuters.",
+    "credit": {
+     "auteur": "Tabl-trai",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Hypermarch%C3%A9_Carrefour_Cusset_(c%C3%B4t%C3%A9_sud-ouest)_2026-03-08.JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MARCHÉS",
+    "titre": "Dette : le taux à dix ans dépasse 5 %, une première depuis 2002",
+    "court": "Dette : le taux à dix ans dépasse 5 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg/1280px-Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg",
+    "legende": "Ministère de l'Économie et des Finances à Bercy et pont de Bercy (illustration)",
+    "chapeau": "Mercredi 21 octobre, le taux auquel la France emprunte sur dix ans a brièvement dépassé 5 % (5,002 % vers 11h05), son plus haut niveau depuis 2002, selon une dépêche de l'AFP. Il est redescendu à 4,95 % vers 15h10.",
+    "eclairage": "Pourquoi le taux à dix ans compte-t-il pour tout le monde ?",
+    "chiffres": [
+     {
+      "valeur": "5,00 %",
+      "legende": "taux français à 10 ans, pic en séance"
+     },
+     {
+      "valeur": "1,59",
+      "legende": "point d'écart avec l'Allemagne (AFP)"
+     },
+     {
+      "valeur": "4,95 %",
+      "legende": "taux vers 15h10, après le pic"
+     }
+    ],
+    "passe": "Mercredi 21 octobre, le taux auquel la France emprunte sur dix ans a brièvement dépassé 5 % (5,002 % vers 11h05), son plus haut niveau depuis 2002, selon une dépêche de l'AFP. Il est redescendu à 4,95 % vers 15h10. L'écart avec le taux allemand, le « spread », est passé de 1,53 point mardi soir à 1,59 point mercredi vers 11h, un plus haut depuis 2011 selon l'AFP ; d'autres sources donnent 1,57 point ou environ 1,60 point selon l'heure de relevé. La France emprunte plus cher que l'Italie (4,58 %) et l'Espagne (4,06 %). Les analystes cités par l'AFP avancent plusieurs causes : la hausse des prix de l'énergie, qui nourrit l'inflation et les anticipations de taux de la Banque centrale européenne, les incertitudes sur le budget et la présidentielle de 2027, et les violences du week-end. Le projet de budget 2027 prévoit 43 milliards d'euros d'efforts pour ramener le déficit à 5 % du PIB. Moody's doit réexaminer la note de la France, actuellement Aa3 avec perspective négative, vendredi 23 octobre.",
+    "points": [],
+    "explication": "Pour financer son déficit, l'État émet des obligations : des prêts que lui consentent des investisseurs, qui reçoivent un intérêt. Le taux à dix ans est l'intérêt demandé pour prêter à l'État pendant dix ans. Plus les investisseurs doutent de sa capacité à rembourser, plus ils réclament un taux élevé. L'Allemagne sert de référence : le spread mesure la prime que la France paie en plus. Ce taux sert aussi de repère aux banques pour les crédits immobiliers et aux entreprises qui empruntent. Une dégradation de la note par une agence comme Moody's peut renchérir encore la dette, car certains investisseurs n'achètent que des titres au-dessus d'une certaine note.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://imazpress.com/france-monde/dette-le-taux-d-emprunt-de-la-france-a-dix-ans-au-plus-haut-depuis-2002",
+      "nom": "dépêche AFP via Imaz Press"
+     },
+     {
+      "url": "https://fr.tradingeconomics.com/france/government-bond-yield/news/528655",
+      "nom": "Trading Economics"
+     },
+     {
+      "url": "https://www.cnews.fr/france/2026-10-21/dette-publique-le-taux-demprunt-de-la-france-dix-ans-atteint-un-niveau-inedit",
+      "nom": "CNews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Andrea Tueni",
+      "contexte": "Saxo Banque France",
+      "texte": "« Il y a une défiance assez nette ».",
+      "url": "https://imazpress.com/france-monde/dette-le-taux-d-emprunt-de-la-france-a-dix-ans-au-plus-haut-depuis-2002",
+      "source": "dépêche AFP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Ministère de l'Économie",
+      "contexte": null,
+      "texte": "Selon l'AFP, le ministère répond que la consolidation budgétaire est la seule voie crédible face aux marchés, qu'il n'en déviera pas et que l'objectif de déficit de 5 % en 2027 reste intangible.",
+      "url": "https://imazpress.com/france-monde/dette-le-taux-d-emprunt-de-la-france-a-dix-ans-au-plus-haut-depuis-2002",
+      "source": "dépêche AFP"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "UBP",
+      "contexte": "banque suisse",
+      "texte": "Les analystes de la banque jugent peu probable un assainissement budgétaire réaliste en France avant l'élection présidentielle de 2027, et estiment que la situation pourrait se dégrader avant de s'améliorer.",
+      "url": "https://imazpress.com/france-monde/dette-le-taux-d-emprunt-de-la-france-a-dix-ans-au-plus-haut-depuis-2002",
+      "source": "dépêche AFP"
+     }
+    ],
+    "apres": "Moody's réexamine la note de la France vendredi 23 octobre. Le budget 2027 doit être voté avant la fin de l'année.",
+    "change": "Pour l'État, chaque nouvel emprunt coûte plus cher. Pour les ménages et les entreprises, les taux des crédits suivent en partie ceux de l'État, avec un délai. Les chiffres cités sont des faits datés, pas des prévisions.",
+    "credit": {
+     "auteur": "SailEOuiAla",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "EssilorLuxottica : ventes en hausse de 9 % au T3, l'action gagne près de 15 %",
+    "court": "EssilorLuxottica : +9 %, l'action bondit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ray-Ban_Meta_Gen_1_smart_glasses_with_charging_case.jpg/1280px-Ray-Ban_Meta_Gen_1_smart_glasses_with_charging_case.jpg",
+    "legende": "Lunettes connectées Ray-Ban Meta et leur étui (illustration)",
+    "chapeau": "Mardi 20 octobre, EssilorLuxottica (verres, montures, lunettes connectées) a publié un chiffre d'affaires de 7,486 milliards d'euros au troisième trimestre, en hausse de 9,0 % (+7,2 % à taux de change constants), contre 7,34 à 7,37 milliards attendus par les analystes selon les sources.",
+    "eclairage": "Que veut dire « à taux de change constants » ?",
+    "chiffres": [
+     {
+      "valeur": "+9 %",
+      "legende": "ventes du T3 à 7,49 Md€"
+     },
+     {
+      "valeur": "+20 %",
+      "legende": "lunettes connectées (486 M€)"
+     },
+     {
+      "valeur": "+15 %",
+      "legende": "action mercredi à 173,80 €"
+     }
+    ],
+    "passe": "Mardi 20 octobre, EssilorLuxottica (verres, montures, lunettes connectées) a publié un chiffre d'affaires de 7,486 milliards d'euros au troisième trimestre, en hausse de 9,0 % (+7,2 % à taux de change constants), contre 7,34 à 7,37 milliards attendus par les analystes selon les sources. La vente directe aux consommateurs progresse de 10,6 % et la zone Asie-Pacifique de 15,7 %. Les verres contre la myopie gagnent 24 %. Les lunettes connectées, notamment avec Meta, atteignent 486 millions d'euros (+20 %), un net ralentissement après une hausse proche de 100 % entre avril et juin, selon Reuters. Sur neuf mois, le chiffre d'affaires atteint 22,304 milliards d'euros. Mercredi 21 octobre, l'action a gagné environ 14 % à 15 % (jusqu'à 173,80 euros), la meilleure performance du CAC 40 ; elle avait perdu environ la moitié de sa valeur en un an, selon Reuters. Le groupe maintient son ambition de croissance soutenue sur cinq ans.",
+    "points": [],
+    "explication": "EssilorLuxottica vend dans le monde entier, en dollars, en yens ou en euros, et publie ses comptes en euros. Quand le dollar baisse face à l'euro, les ventes américaines pèsent moins une fois converties. Le chiffre à taux de change constants recalcule la croissance avec les mêmes taux qu'un an plus tôt, pour isoler l'activité réelle : ici +7,2 %, contre +9,0 % en taux courants. La croissance à périmètre inchangé exclut aussi les rachats : l'Asie-Pacifique intègre notamment Top Charoen, environ 2 000 magasins en Thaïlande. Enfin, une action monte quand les investisseurs revoient à la hausse les bénéfices futurs : ici, les ventes ont dépassé les attentes.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384748/0/fr/essilorluxottica-chiffre-d-affaires-t3-chiffre-d-affaires-en-croissance-de-9-0-au-t3-7-2-%C3%A0-taux-de-change-constants.html",
+      "nom": "communiqué EssilorLuxottica"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/essilorluxottica-bondit-de-pres-de-15-apres-ses-resultats-du-t3-c1040bd83ed554d81b0284282e05d421",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/newsContent/704527",
+      "nom": "ABC Bourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Francesco Milleri et Paul du Saillant",
+      "contexte": "dirigeants d'EssilorLuxottica",
+      "texte": "« Trimestre après trimestre, le Groupe continue de démontrer la puissance de son modèle unique ».",
+      "url": "https://www.abcbourse.com/marches/newsContent/704527",
+      "source": "ABC Bourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Bernstein",
+      "contexte": "courtier",
+      "texte": "Selon Reuters, le courtier voit dans les lunettes connectées « une épée de Damoclès au-dessus d'EssilorLuxottica » et juge logique un discours prudent sur le quatrième trimestre, alors que Google prévoit de lancer ses propres lunettes d'ici la fin 2026.",
+      "url": "https://www.boursorama.com/bourse/actualites/essilorluxottica-bondit-de-pres-de-15-apres-ses-resultats-du-t3-c1040bd83ed554d81b0284282e05d421",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Goldman Sachs",
+      "contexte": "banque",
+      "texte": "Selon Reuters, la banque estime que le ralentissement des lunettes connectées est compensé par les activités historiques et la myopie, et que la direction n'a constaté aucun signe d'affaiblissement de la demande.",
+      "url": "https://www.boursorama.com/bourse/actualites/essilorluxottica-bondit-de-pres-de-15-apres-ses-resultats-du-t3-c1040bd83ed554d81b0284282e05d421",
+      "source": "Reuters via Boursorama"
+     }
+    ],
+    "apres": "Le groupe publie ses résultats annuels début 2027 ; Google doit lancer ses lunettes d'ici la fin 2026.",
+    "change": "Pour le groupe, la croissance repose désormais surtout sur ses activités historiques (verres, magasins, myopie) plus que sur les lunettes connectées. Pour les actionnaires, le titre regagne une partie de sa baisse sur un an.",
+    "credit": {
+     "auteur": "CCadio",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ray-Ban_Meta_Gen_1_smart_glasses_with_charging_case.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "TECH",
+    "titre": "Netflix : bénéfice net en hausse de 44 %, objectif publicitaire abaissé",
+    "court": "Netflix : bénéfice en hausse, pub revue",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sunnyvale_Netflix.jpg/1280px-Sunnyvale_Netflix.jpg",
+    "legende": "Bureaux Netflix à Sunnyvale, Californie (illustration)",
+    "chapeau": "Mardi 20 octobre, après la clôture de Wall Street, Netflix a publié ses résultats du troisième trimestre : 12,9 milliards de dollars de chiffre d'affaires (+12 %), un résultat opérationnel de 4,5 milliards (+37 %), une marge de 34,6 % contre 28,2 % un an plus tôt, et un bénéfice net de 3,66 milliards de dollars contre 2,55 milliards.",
+    "eclairage": "Pourquoi la publicité compte-t-elle autant pour Netflix ?",
+    "chiffres": [
+     {
+      "valeur": "12,9 Md$",
+      "legende": "chiffre d'affaires du T3 (+12 %)"
+     },
+     {
+      "valeur": "34,6 %",
+      "legende": "marge opérationnelle"
+     },
+     {
+      "valeur": "~1 000",
+      "legende": "postes supprimés (≈ 6 % des effectifs)"
+     }
+    ],
+    "passe": "Mardi 20 octobre, après la clôture de Wall Street, Netflix a publié ses résultats du troisième trimestre : 12,9 milliards de dollars de chiffre d'affaires (+12 %), un résultat opérationnel de 4,5 milliards (+37 %), une marge de 34,6 % contre 28,2 % un an plus tôt, et un bénéfice net de 3,66 milliards de dollars contre 2,55 milliards. Le groupe explique que la marge est supérieure à sa prévision « principalement à cause du calendrier des dépenses ». La comparaison est aussi gonflée par une charge fiscale exceptionnelle de 619 millions de dollars au Brésil au troisième trimestre 2025 : hors cet effet, la croissance du résultat opérationnel serait d'environ 15 %, selon Zonebourse. Netflix abaisse son objectif de revenus publicitaires 2026 à environ 2,7 milliards de dollars, contre environ 3 milliards, en raison d'un déploiement plus lent de certaines fonctionnalités. Pour le quatrième trimestre, il prévoit 13,4 milliards de dollars de ventes et une marge de 26 %, qui intègre un impact d'environ 120 points de base lié aux réductions d'effectifs : environ 1 000 postes, soit près de 6 % des effectifs, selon l'AFP vers le 14 octobre. Le titre reculait d'environ 5 % après la clôture.",
+    "points": [],
+    "explication": "Netflix gagne l'essentiel de son argent grâce aux abonnements. Quand le nombre d'abonnés et le temps passé sur la plateforme progressent moins vite, le groupe cherche d'autres revenus : l'offre moins chère avec publicité, où les annonceurs paient pour être diffusés. Réduire cet objectif de 3 à 2,7 milliards de dollars, soit environ 10 %, signifie que cette source monte moins vite que prévu. La marge opérationnelle est la part du chiffre d'affaires qui reste après les coûts de fonctionnement : plus elle est élevée, plus l'entreprise garde de résultat sur chaque dollar vendu.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm",
+      "nom": "SEC (communiqué aux actionnaires)"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/netflix-le-t3-convainc-les-previsions-de-fin-d-annee-beaucoup-moins-46ab68f06b4949e58d5aef39b448bf60",
+      "nom": "Boursorama (AOF / Zonebourse)"
+     },
+     {
+      "url": "https://www.noovo.info/nouvelles/economie/article/en-moindre-croissance-netflix-va-supprimer-environ-1000-postes/",
+      "nom": "AFP via Noovo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Netflix",
+      "contexte": "communiqué aux actionnaires",
+      "texte": "« we currently expect 2026 ad revenue of ~$2.7B vs. approximately $3B previously ».",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm",
+      "source": "SEC, communiqué Netflix"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Zonebourse (AOF)",
+      "contexte": "média financier",
+      "texte": "Selon cette analyse, Netflix doit montrer que sa très grande audience peut encore se traduire en croissance et en revenus publicitaires, face à YouTube et TikTok ; le groupe ne publie pas de chiffre mondial récent sur les heures visionnées.",
+      "url": "https://www.boursorama.com/bourse/actualites/netflix-le-t3-convainc-les-previsions-de-fin-d-annee-beaucoup-moins-46ab68f06b4949e58d5aef39b448bf60",
+      "source": "Boursorama (AOF / Zonebourse)"
+     }
+    ],
+    "apres": "Netflix publiera ses résultats du quatrième trimestre en janvier ; le groupe a donné pour 2026 des prévisions de 51,1 milliards de dollars de chiffre d'affaires et de 31,5 % de marge.",
+    "change": "Pour les salariés, des réductions d'effectifs surtout dans les équipes produit, technologie, juridique et ressources humaines. Pour les clients, une offre avec publicité dont le déploiement est plus lent que prévu.",
+    "credit": {
+     "auteur": "Coolcaesar",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Sunnyvale_Netflix.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Marge opérationnelle",
+    "definition": "Part du chiffre d'affaires qui reste après les coûts d'exploitation. Un point de base vaut 0,01 point de pourcentage."
+   },
+   {
+    "terme": "Taux à dix ans",
+    "definition": "Intérêt demandé par les investisseurs pour prêter à l'État pendant dix ans. Plus il monte, plus l'emprunt coûte cher."
+   },
+   {
+    "terme": "Taux de change constants",
+    "definition": "Calcul de la croissance avec les mêmes taux de change qu'un an plus tôt, pour mesurer l'activité sans l'effet des devises."
+   },
+   {
+    "terme": "Magasins comparables",
+    "definition": "Croissance des ventes des seuls magasins ouverts sur les deux périodes comparées, hors ouvertures et fermetures."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Après les violences des 17 et 18 octobre, Carrefour a relevé ses objectifs annuels pour 2026.",
+   "reponse": false,
+   "explication": "Le groupe les a abaissés mardi 20 octobre : la progression de sa marge opérationnelle est attendue entre 0 et 15 points de base, contre plus de 25 auparavant, selon Reuters."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-22",
+  "minutes": 14,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PARLEMENT",
+    "titre": "Violences du 17 octobre : trois rapporteurs désignés, le RN boycotte",
+    "court": "Commission d'enquête : le RN boycotte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paris_riots%2C_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg/1280px-Paris_riots%2C_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg",
+    "legende": "Une vitrine brisée et taguée pendant les violences du 17 octobre à Paris",
+    "chapeau": "Mercredi 21 octobre, la commission des lois de l'Assemblée nationale a désigné, au terme d'un scrutin à bulletin secret en trois tours, les trois rapporteurs de la commission d'enquête sur les violences en marge des manifestations du 17 octobre : Agnès Firmin Le Bodo (Horizons), Roger Vicot (Socialistes) et Pouria Amirshahi (Écologiste et Social).",
+    "eclairage": "À quoi sert une commission d'enquête ?",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "rapporteurs désignés"
+     },
+     {
+      "valeur": "3",
+      "legende": "tours de scrutin à bulletin secret"
+     },
+     {
+      "valeur": "0",
+      "legende": "rapporteur issu du RN"
+     }
+    ],
+    "passe": "Mercredi 21 octobre, la commission des lois de l'Assemblée nationale a désigné, au terme d'un scrutin à bulletin secret en trois tours, les trois rapporteurs de la commission d'enquête sur les violences en marge des manifestations du 17 octobre : Agnès Firmin Le Bodo (Horizons), Roger Vicot (Socialistes) et Pouria Amirshahi (Écologiste et Social). Le RN avait proposé le député Michaël Taverne. La commission est présidée par Vincent Caure (Ensemble pour la République), président de la commission des lois. Le soir même, le groupe RN a annoncé qu'il la boycotterait : il affirme que son accord était conditionné à une répartition équilibrée des postes et que cet engagement n'a pas été tenu. D'après l'AFP, la commission pourra obtenir des documents et mener des auditions sous serment ; elle doit examiner la préparation des pouvoirs publics, le maintien de l'ordre, l'influence des réseaux sociaux et la réponse pénale, avec une conclusion avancée pour fin décembre.",
+    "points": [
+     "Elle réunit des députés pour examiner des faits précis. Ici : les violences et pillages en marge des manifestations des 17 et 18 octobre.",
+     "Elle peut obtenir des documents et auditionner des personnes sous serment.",
+     "Les rapporteurs (ici trois, de bords différents) pilotent les travaux et les auditions, puis rédigent le rapport final.",
+     "Le Parlement suspend ses travaux fin février en raison de l'élection présidentielle : c'est ce qui borne la durée de l'enquête."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-le-rn-annonce-son-boycott-de-la-commission-d-enquete-444138",
+      "nom": "LCP (boycott)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/info-lcp-qui-sont-les-trois-rapporteurs-de-la-commission-d-enquete-sur-les-violences-du",
+      "nom": "LCP (rapporteurs)"
+     },
+     {
+      "url": "https://www.france24.com/fr/info-en-continu/20261020-violences-du-17-octobre-vers-une-commission-d-enqu%C3%AAte-%C3%A0-l-assembl%C3%A9e-nationale",
+      "nom": "dépêche AFP via France 24"
+     },
+     {
+      "url": "https://www.titrespresse.com/26039192603/pen-mascarade-marine",
+      "nom": "BFM TV via Titres Presse"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/violences-urbaines-commission-denquete-debat-50-1-auditions-le-parlement-exige-des-explications-apres-la-journee-chaotique-du-17-octobre",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [],
+    "apres": "Les rapporteurs doivent commencer leurs travaux dans les prochains jours ; une conclusion fin décembre a été avancée.",
+    "change": "Le groupe RN ne participera pas aux travaux de la commission. Les trois rapporteurs, issus d'Horizons, du PS et des Écologistes, piloteront les auditions et rédigeront le rapport.",
+    "credit": {
+     "auteur": "Jorge Jaramillo",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Smashed_and_graffitied_shopfront_-_JJxFile_0024.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "DÉMOCRATIE",
+    "titre": "Violences du 17 octobre : Lecornu et LFI se renvoient la responsabilité",
+    "court": "17 octobre : Lecornu et LFI s'accusent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Manifestation_du_17_octobre_2026_%C3%A0_Paris_81.jpg/1280px-Manifestation_du_17_octobre_2026_%C3%A0_Paris_81.jpg",
+    "legende": "Une manifestante tient une pancarte lors de la manifestation du 17 octobre à Paris",
+    "chapeau": "Depuis les violences et pillages du 17 octobre, le gouvernement et La France insoumise se renvoient la responsabilité. Samedi 17 au soir, Sébastien Lecornu a accusé LFI d'avoir une part de responsabilité.",
+    "eclairage": "Deux institutions citées dans le dossier",
+    "chiffres": [
+     {
+      "valeur": "19/10",
+      "legende": "révélations de Mediapart"
+     },
+     {
+      "valeur": "22/10",
+      "legende": "partis reçus à Matignon"
+     },
+     {
+      "valeur": "24/10",
+      "legende": "nouvelle journée de mobilisation"
+     }
+    ],
+    "passe": "Depuis les violences et pillages du 17 octobre, le gouvernement et La France insoumise se renvoient la responsabilité. Samedi 17 au soir, Sébastien Lecornu a accusé LFI d'avoir une part de responsabilité. Lundi 19, Mediapart a cité un commissaire du renseignement territorial affirmant qu'on lui avait demandé d'écrire que LFI était derrière le mouvement ; le Premier ministre dément toute consigne de ce type. Mercredi 21, au Sénat, Sébastien Lecornu a dénoncé un agenda de déstabilisation mené par l'extrême gauche radicale et jugé que la remise en cause de la justice était une atteinte très grave à l'État de droit. Selon lui, le parquet national antiterroriste s'est saisi et un premier suspect, fiché S et proche de l'ultragauche radicale, a été interpellé dans l'enquête sur l'incendie de la mairie de Limoges (cette personne est présumée innocente). LFI dénonce de son côté un scandale d'État et Manuel Bompard a annoncé saisir la Cour de justice de la République contre Laurent Nuñez. Les responsables des partis, LFI comprise, sont reçus à Matignon ce jeudi 22 octobre.",
+    "points": [
+     "La Cour de justice de la République (CJR) juge les membres du gouvernement pour les crimes et délits commis dans l'exercice de leurs fonctions.",
+     "Le parquet national antiterroriste (PNAT) est un parquet spécialisé dans les affaires de terrorisme. Selon le Premier ministre, il s'est saisi du dossier.",
+     "Les personnes interpellées sont présumées innocentes tant qu'elles ne sont pas jugées."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-sebastien-lecornu-accuse-lfi-de-porter-une-atteinte-tres-grave-a-letat-de-droit",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bouc-emissaire-scandale-d-etat-on-vous-raconte-le-bras-de-fer-entre-le-gouvernement-et-lfi-au-sujet-des-violences-du-17octobre_8247475.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "nom": "France 24 (direct, avec AFP et Reuters)"
+     }
+    ],
+    "cartes": [],
+    "apres": "Samedi 24 octobre : nouvelle journée de mobilisation. La commission d'enquête de l'Assemblée doit commencer ses travaux dans les prochains jours.",
+    "change": "Le gouvernement et LFI donnent des lectures opposées des violences du 17 octobre. Les responsables des partis, LFI comprise, sont réunis à Matignon ce jeudi, deux jours avant la nouvelle journée de mobilisation.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_17_octobre_2026_%C3%A0_Paris_81.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SÉCURITÉ",
+    "titre": "24 octobre : des militaires de Sentinelle déployés, pas d'état d'urgence",
+    "court": "24 octobre : Sentinelle, pas d'urgence",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Strasbourg_op%C3%A9ration_Sentinelle_f%C3%A9vrier_2015-2.jpg/1280px-Strasbourg_op%C3%A9ration_Sentinelle_f%C3%A9vrier_2015-2.jpg",
+    "legende": "Des soldats de l'opération Sentinelle derrière des barrières, à Strasbourg (illustration)",
+    "chapeau": "Mardi 20 octobre, Laurent Nuñez a annoncé que des militaires de l'opération Sentinelle seraient déployés samedi 24 octobre, jour d'une nouvelle mobilisation.",
+    "eclairage": "Sentinelle, état d'urgence : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "24/10",
+      "legende": "nouvelle journée de mobilisation"
+     },
+     {
+      "valeur": "3e",
+      "legende": "nuit de couvre-feu reconduit"
+     },
+     {
+      "valeur": "10 000",
+      "legende": "attendus à Orléans dimanche (RN)"
+     }
+    ],
+    "passe": "Mardi 20 octobre, Laurent Nuñez a annoncé que des militaires de l'opération Sentinelle seraient déployés samedi 24 octobre, jour d'une nouvelle mobilisation. Selon le ministère de l'Intérieur, ils agiront « en substitution des forces de sécurité intérieure », surtout pour des missions de sécurisation statique, afin de libérer policiers et gendarmes. La porte-parole du gouvernement, Maud Bregeon, avait d'abord écarté l'idée, selon France 24. Mercredi 21, au Sénat, Bruno Retailleau a demandé l'état d'urgence ; le ministre a répondu que le gouvernement s'en tenait aux mesures de droit commun : interdictions de regroupement, arrêtés de manifestation et couvre-feux, reconduits pour une troisième nuit. Le même week-end, le RN tient son congrès à Orléans : Laurent Nuñez attend plusieurs dizaines de milliers de contre-manifestants samedi. Ce jeudi 22, la préfecture de police interdit les rassemblements de 8 h à 20 h autour de l'Élysée, de Matignon, de l'Assemblée et du Sénat, et Emmanuel Macron réunit un conseil de sécurité avec les services de renseignement.",
+    "points": [
+     "Sentinelle : opération militaire créée en janvier 2015, après les attentats de Charlie Hebdo et de l'Hyper Cacher, pour répondre à la menace terroriste.",
+     "Les soldats sont affectés à des gardes fixes. Précédent : en mars 2019, des militaires de Sentinelle ont sécurisé des bâtiments publics après des violences lors des Gilets jaunes.",
+     "État d'urgence : régime d'exception, activé pour la dernière fois en Nouvelle-Calédonie en 2024."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france",
+      "nom": "France 24 (armée)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-urbaines-nous-ne-sommes-pas-a-un-stade-ou-il-y-aura-declaration-de-letat-durgence-affirme-le-ministre-de-linterieur",
+      "nom": "Public Sénat (état d'urgence)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/congres-du-rn-a-orleans-plusieurs-dizaines-de-milliers-de-contre-manifestants-attendus-samedi-selon-laurent-nunez",
+      "nom": "Public Sénat (Orléans)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-presidera-un-conseil-de-securite-jeudi-matin-en-presence-de-sebastien-lecornu-et-des-services-de-renseignement-annonce-l-elysee_8247982.html",
+      "nom": "franceinfo (conseil de sécurité)"
+     },
+     {
+      "url": "https://www.lecourrierdelamayenne.fr/actualite-41829-manifestations-du-24-octobre-le-ministre-de-l-interieur-annonce-le-recours-aux-forces-sentinelle-de-l-armee-ce-samedi",
+      "nom": "Le Courrier de la Mayenne"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "nom": "France 24 (direct, avec AFP et Reuters)"
+     }
+    ],
+    "cartes": [],
+    "apres": "Samedi 24 octobre : mobilisation et manifestations prévues à Orléans, où le RN tient son congrès. Dimanche : lancement de la campagne présidentielle de Marine Le Pen, selon Edwige Diaz.",
+    "change": "Des militaires tiendront des postes fixes pour permettre à davantage de policiers et de gendarmes d'intervenir sur le terrain. Le gouvernement exclut à ce stade l'état d'urgence et s'appuie sur les arrêtés préfectoraux et les couvre-feux.",
+    "credit": {
+     "auteur": "Claude Truong-Ngoc",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_op%C3%A9ration_Sentinelle_f%C3%A9vrier_2015-2.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget : le rapporteur général plaide pour le 49.3, les taux passent 5 %",
+    "court": "Budget : le 49.3 plaidé, les taux à 5 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG/1280px-Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG",
+    "legende": "Le ministère de l'Économie et des Finances à Bercy, à Paris (illustration)",
+    "chapeau": "Depuis mardi 20 octobre, les députés examinent en séance le budget de la Sécurité sociale (PLFSS). La première partie du budget de l'État (PLF), consacrée aux recettes, reste inachevée à cause des délais constitutionnels et reprendra mardi 27 octobre.",
+    "eclairage": "Le 49.3, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "5 %",
+      "legende": "taux à 10 ans, 1re fois depuis 2002"
+     },
+     {
+      "valeur": "10 Md€",
+      "legende": "de déficit en plus (selon Bercy)"
+     },
+     {
+      "valeur": "27/10",
+      "legende": "reprise du PLF à l'Assemblée"
+     }
+    ],
+    "passe": "Depuis mardi 20 octobre, les députés examinent en séance le budget de la Sécurité sociale (PLFSS). La première partie du budget de l'État (PLF), consacrée aux recettes, reste inachevée à cause des délais constitutionnels et reprendra mardi 27 octobre. Le gouvernement n'a pas de majorité à l'Assemblée. Mercredi 21, Philippe Juvin (Droite républicaine), rapporteur général du budget, s'est dit « très pessimiste » sur un compromis et a demandé à Sébastien Lecornu de recourir rapidement à l'article 49.3. Lundi, le ministre des Comptes publics, David Amiel, avait déclaré que le débat sur les recettes avait aggravé le déficit public de 10 milliards d'euros. Le même mercredi, le taux d'emprunt de la France à 10 ans a franchi 5 %, pour la première fois depuis 2002, selon France 24.",
+    "points": [],
+    "explication": "L'article 49, alinéa 3 de la Constitution permet au Premier ministre d'engager la responsabilité du gouvernement sur un texte. Le texte est adopté sans vote, sauf si une motion de censure est déposée et votée. Si elle est adoptée, le gouvernement tombe. Sébastien Lecornu y a eu recours en janvier pour le budget 2026, avec un accord de non-censure négocié avec le Parti socialiste. Le taux à 10 ans, c'est le taux auquel l'État emprunte sur dix ans : plus il monte, plus la dette coûte cher.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/la-france-a-besoin-d-un-budget-le-rapporteur-general-du-texte-a-l-assemblee-philippe",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261021-le-taux-d-emprunt-de-la-france-%C3%A0-10-ans-franchit-les-5",
+      "nom": "France 24"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-financement-de-la-securite-sociale-pour-2027",
+      "nom": "Assemblée nationale (séance PLFSS)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_2027",
+      "nom": "Assemblée nationale (dossier PLFSS 2027)"
+     }
+    ],
+    "cartes": [],
+    "apres": "Mardi 27 octobre : reprise de l'examen du PLF à l'Assemblée.",
+    "change": "Sans majorité, le gouvernement ne peut pas compter sur un vote classique. 3 ferait adopter le texte sans vote, mais l'exposerait à une motion de censure.",
+    "credit": {
+     "auteur": "Dinkum",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "22",
+    "mois": "OCT.",
+    "texte": "Matignon : Sébastien Lecornu reçoit les partis, puis les maires de Paris, Lyon et Marseille."
+   },
+   {
+    "jour": "24",
+    "mois": "OCT.",
+    "texte": "Nouvelle journée de mobilisation, avec des militaires de Sentinelle déployés ; manifestations à Orléans, où le RN tient son congrès."
+   },
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Congrès du RN à Orléans : lancement de la campagne présidentielle de Marine Le Pen."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Budget de l'État : reprise de l'examen du PLF à l'Assemblée."
+   },
+   {
+    "jour": "10",
+    "mois": "NOV.",
+    "texte": "Ukraine : reprise possible de pourparlers à trois (« vers le 10 novembre »)."
+   },
+   {
+    "jour": "FIN",
+    "mois": "DÉC.",
+    "texte": "Commission d'enquête sur le 17 octobre : conclusion avancée."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Rapporteur",
+    "definition": "Le parlementaire qui pilote les travaux d'une commission d'enquête, mène les auditions et rédige le rapport final."
+   },
+   {
+    "terme": "Article 49.3",
+    "definition": "Procédure qui permet au Premier ministre de faire adopter un texte sans vote, sauf si une motion de censure fait tomber le gouvernement."
+   },
+   {
+    "terme": "Sentinelle",
+    "definition": "Opération militaire lancée en janvier 2015 : des soldats déployés en gardes fixes dans l'espace public, ce qui libère policiers et gendarmes."
+   },
+   {
+    "terme": "Parquet européen",
+    "definition": "Autorité de l'Union européenne qui enquête sur les infractions touchant aux intérêts financiers de l'UE."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Un député RN figure parmi les trois rapporteurs de la commission d'enquête de l'Assemblée sur les violences du 17 octobre.",
+   "reponse": false,
+   "explication": "Faux : les trois rapporteurs sont Agnès Firmin Le Bodo (Horizons), Roger Vicot (Socialistes) et Pouria Amirshahi (Écologiste et Social). Le RN, dont le candidat n'a pas été retenu, a annoncé son boycott."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-21",
   "minutes": 12,
   "sujets": [
