@@ -106,6 +106,20 @@
      "couleur": "#0b1f4d",
      "parti": "RN",
      "qui": "Marine Le Pen",
+     "contexte": "présidente du groupe",
+     "texte": "« Nous ne participerons pas à cette mascarade et boycotterons donc cette commission d'enquête »",
+     "url": "https://lcp.fr/actualites/violences-du-17-octobre-le-rn-annonce-son-boycott-de-la-commission-d-enquete-444138",
+     "source": "LCP",
+     "date": "2026-10-22",
+     "rubrique": "politique",
+     "sujet": "Violences du 17 octobre : trois rapporteurs désignés, le RN boycotte",
+     "href": "/politique/2026-10-22/1"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
      "contexte": "candidate à la présidentielle",
      "texte": "« Il a rompu avec l'obligation qui est la sienne de neutralité »",
      "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-demande-la-demission-de-richard-ferrand-le-president-du-conseil-constitutionnel-est-il-vraiment-sorti-de-sa-reserve",
@@ -170,23 +184,9 @@
      "rubrique": "politique",
      "sujet": "Budget 2027 : l'examen s'ouvre dans l'hémicycle, sous la menace d'un rejet",
      "href": "/politique/2026-10-13/1"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Marine Le Pen",
-     "contexte": "candidate du RN à la présidentielle",
-     "texte": "« Comme d'habitude, ils finissent par mettre en œuvre nos propositions après les avoir ridiculisées »",
-     "url": "https://www.franceinfo.fr/economie/automobile/essence/liberation-de-10-millions-de-barils-de-gazole-comme-d-habitude-ils-finissent-par-mettre-en-uvre-nos-propositions-apres-les-avoir-ridiculisees-reagit-marine-le-pen_8227372.html",
-     "source": "franceinfo",
-     "date": "2026-10-08",
-     "rubrique": "politique",
-     "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
-     "href": "/politique/2026-10-08/2"
     }
    ],
-   "nbDeclarations": 9,
+   "nbDeclarations": 10,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -340,6 +340,20 @@
      "couleur": "#d7263d",
      "parti": "LFI",
      "qui": "Jean-Luc Mélenchon",
+     "contexte": "sur X",
+     "texte": "« Vous n'êtes pas un homme d'Etat. Juste un commis qui est en train de provoquer une crise de régime »",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bouc-emissaire-scandale-d-etat-on-vous-raconte-le-bras-de-fer-entre-le-gouvernement-et-lfi-au-sujet-des-violences-du-17octobre_8247475.html",
+     "source": "franceinfo",
+     "date": "2026-10-22",
+     "rubrique": "politique",
+     "sujet": "Violences du 17 octobre : Lecornu et LFI se renvoient la responsabilité",
+     "href": "/politique/2026-10-22/2"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
      "contexte": "candidat à la présidentielle",
      "texte": "Avant l'allocution, il prédisait sur LCI que le président parlerait « pour nous occuper ».",
      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
@@ -404,23 +418,9 @@
      "rubrique": "politique",
      "sujet": "Jeunesse : Attal à Lyon samedi, Mélenchon à Clermont-Ferrand dimanche",
      "href": "/politique/2026-10-11/2"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "candidat de La France insoumise à la présidentielle",
-     "texte": "Il estime que le programme va « condamner la France à faire des coupes budgétaires et de la récession pendant 120 ans ».",
-     "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
-     "source": "Public Sénat",
-     "date": "2026-10-07",
-     "rubrique": "politique",
-     "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
-     "href": "/politique/2026-10-07/2"
     }
    ],
-   "nbDeclarations": 12,
+   "nbDeclarations": 13,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -1376,6 +1376,20 @@
      "couleur": "#1d4ed8",
      "parti": "LR",
      "qui": "Bruno Retailleau",
+     "contexte": "sénateur de Vendée, président des Républicains",
+     "texte": "« Monsieur le Premier ministre, il faut décréter l'état d'urgence. »",
+     "url": "https://www.publicsenat.fr/actualites/politique/violences-urbaines-nous-ne-sommes-pas-a-un-stade-ou-il-y-aura-declaration-de-letat-durgence-affirme-le-ministre-de-linterieur",
+     "source": "Public Sénat",
+     "date": "2026-10-22",
+     "rubrique": "politique",
+     "sujet": "24 octobre : des militaires de Sentinelle déployés, pas d'état d'urgence",
+     "href": "/politique/2026-10-22/3"
+    },
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
      "contexte": "candidat à la présidentielle",
      "texte": "« lâcheté sur le maintien de l'ordre »",
      "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
@@ -1428,7 +1442,7 @@
      "href": "/politique/2026-10-15/2"
     }
    ],
-   "nbDeclarations": 4,
+   "nbDeclarations": 5,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {

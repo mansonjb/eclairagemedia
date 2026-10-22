@@ -1441,5 +1441,30 @@
  "Ministère de l'Économie": null,
  "UBP": null,
  "Goldman Sachs": null,
- "Netflix": null
+ "Netflix": null,
+ "Rob Larew": null,
+ "Jean-René Cazeneuve": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_Jean-Ren%C3%A9_Cazeneuve.jpg/250px-Photo_Jean-Ren%C3%A9_Cazeneuve.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Photo_Jean-René_Cazeneuve.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_Jean-Ren%C3%A9_Cazeneuve.jpg",
+  "auteur": "Hamuli",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Julien Dive": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Julien-Dive.jpg/250px-Julien-Dive.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Julien-Dive.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Julien-Dive.jpg",
+  "auteur": "Lionel Barbe",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Jean-Louis Thiériot": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-Louis_Thi%C3%A9riot.jpg/250px-Jean-Louis_Thi%C3%A9riot.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Jean-Louis_Thiériot.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jean-Louis_Thi%C3%A9riot.jpg",
+  "auteur": "Pascal CHOTTIN",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Andres Duarte-Rojo": null,
+ "EMA": null,
+ "Lily Davidson": null
 }
