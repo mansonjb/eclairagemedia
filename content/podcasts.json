@@ -1,5 +1,468 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-23",
+  "url": "/podcasts/essentiel-2026-10-23.mp3",
+  "taille": 7669700,
+  "duree": 639,
+  "titre": "Éclairage, l'essentiel du vendredi 23 octobre 2026",
+  "titre_episode": "Manifestations, Hermès, radiothérapie courte : l'essentiel du vendredi 23 octobre 2026",
+  "description": "Ce vendredi 23 octobre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : Matignon reçoit les partis après les violences du 17 octobre\n• Politique : manifestations non syndicales, recours devant le Conseil d'État\n• Économie : Hermès, croissance de 4,3 % au troisième trimestre\n• Économie : Meta relève ses dépenses d'IA\n• Santé : radiothérapie de 3 semaines après reconstruction du sein\n• Santé : choc septique et vasopressine\n• Alimentation : cadmium dans les engrais\n• Alimentation : pénurie de whey et protéines végétales\n• Tech : les États-Unis écartent DeepSeek des administrations civiles\n• Tech : Nvidia et les usines d'IA en conteneurs\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Matignon : les partis reçus, sans mesure annoncée"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Manifestations : Macron veut interdire celles qui ne sont pas syndicales"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Hermès : croissance de 4,3 % au T3, sous les attentes"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Meta : dépenses d'IA relevées et actions sans droit de vote"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Reconstruction du sein : une radiothérapie de 3 semaines aussi sûre qu'une de 5"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Choc septique : démarrer la vasopressine plus tôt ne change pas la survie"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Cadmium : le Sénat examine un plafond plus bas dans les engrais"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Whey : une pénurie qui ravive l'intérêt pour les protéines végétales"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "DeepSeek : les États-Unis l'écartent des administrations civiles"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le vendredi 23 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle. Deux sujets par rubrique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, avec une réunion à Matignon qui a duré trois heures."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, le Premier ministre Sébastien Lecornu a reçu les partis, après les violences du 17 octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui était autour de la table ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les ministres Laurent Nuñez, à l'Intérieur, et Gérald Darmanin, à la Justice, avec des responsables du renseignement et des forces de l'ordre. Marine Le Pen et Jordan Bardella ne sont pas venus. Le RN était représenté par Edwige Diaz et Louis Aliot."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à la sortie ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucune mesure concrète rapportée. Plusieurs responsables de gauche ont jugé la réunion technique, centrée sur la doctrine de maintien de l'ordre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les maires des grandes villes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans l'après-midi, Sébastien Lecornu a aussi reçu les maires de Paris, Lyon et Marseille. Emmanuel Grégoire, maire de Paris, estime que les premières orientations pourraient recréer un cadre de travail plus satisfaisant avec l'État, tout en précisant qu'il reste beaucoup de travail."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, ils attendaient des réponses sur les revendications sociales des manifestants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. À droite, Bruno Retailleau a regretté que l'état d'urgence n'ait pas été décrété. Le RN, lui, dit avoir reçu des assurances pour la sécurité de son congrès."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : trois heures de discussion, zéro mesure annoncée, et une nouvelle mobilisation samedi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor, mais même fil rouge : les manifestations de samedi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Emmanuel Macron a déclaré qu'on interdirait celles qui ne sont pas syndicales « partout où on le peut »."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour les cortèges déclarés par les syndicats, les préfets proposeront des tracés alternatifs. La porte-parole Maud Bregeon précise que les interdictions seront décidées au cas par cas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À Paris, le cortège de l'intersyndicale entre Bastille et Nation est autorisé. Celui des gilets jaunes et d'Interfac, entre Bastille et Opéra, est refusé. Interdiction aussi à Lyon, à Marseille et dans les Bouches-du-Rhône."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce vendredi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À quinze heures, Emmanuel Macron reçoit à l'Élysée des lycéens et des représentants d'organisations lycéennes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur le plan juridique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux organisations, l'Association de défense des libertés constitutionnelles et le Syndicat de la magistrature, ont saisi le Conseil d'État. Elles dénoncent une atteinte à la liberté de manifester et une discrimination entre organisateurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le Conseil d'État a quarante-huit heures pour statuer. Samedi sera le premier test de la consigne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passons à l'économie. Hermès a publié ses résultats du troisième trimestre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un mot du contexte : Hermès est le groupe du luxe français connu pour ses sacs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatre milliards quatre-vingt-seize millions d'euros de chiffre d'affaires. Soit quatre virgule trois pour cent de croissance à taux de change constants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est légèrement sous les attentes des analystes, et selon Reuters, la croissance la plus faible du groupe depuis six ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Où ça coince ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans le vêtement et les accessoires, en recul de deux pour cent. La direction pointe une faible demande chinoise. À l'inverse, la maroquinerie, les sacs Birkin et Kelly, progresse de dix virgule huit pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en Bourse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur neuf mois, le chiffre d'affaires atteint douze milliards deux cent soixante millions d'euros. Toutes les régions progressent au troisième trimestre, sauf le Moyen-Orient, et l'Asie-Pacifique hors Japon est stable."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'action a clôturé en baisse de presque cinq pour cent, à mille deux cent quatre-vingt-neuf euros cinquante, après un recul d'environ huit et demi en matinée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenez : un luxe qui ralentit, porté par les sacs, freiné par l'habillement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre géant, autre ambiance : Meta, la maison mère de Facebook, a publié ses comptes mercredi soir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soixante-quatre milliards six cents millions de dollars de chiffre d'affaires, au-dessus des soixante-trois milliards trois cent soixante-dix millions attendus."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais le flux de trésorerie disponible est négatif, à moins deux milliards cent vingt millions de dollars. Il était positif de dix milliards six cent trente millions un an plus tôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, négatif ? Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les investissements. Meta relève le bas de sa fourchette de dépenses pour 2026 : de cent trente à cent quarante-cinq milliards de dollars, elle passe à cent trente-cinq à cent quarante-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, la dépense d'IA monte encore. Et il y a aussi une charge exceptionnelle de neuf milliards huit cent quatre-vingt-dix millions de dollars, liée à un accord de règlement conclu en août avec des États américains."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sans cette charge, le bénéfice par action serait de sept dollars quarante, au lieu de trois dollars quatre-vingt-trois. Pour le quatrième trimestre, Meta prévoit entre soixante-treize et soixante-seize milliards de dollars de chiffre d'affaires."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et Meta annonce l'émission, en janvier 2027, d'actions de classe C sans droit de vote. Cela préserve le contrôle de Mark Zuckerberg."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Résultat : l'action a reculé de cinq virgule six pour cent jeudi, et en Europe, Legrand et Schneider Electric ont aussi reculé, sur des inquiétudes liées aux dépenses d'IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : de gros résultats, mais une facture d'IA qui inquiète les marchés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à la santé. Une bonne nouvelle pour les femmes opérées d'un cancer du sein."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une étude américaine et canadienne, publiée le 12 octobre dans le Journal of Clinical Oncology, compare deux calendriers de radiothérapie après une mastectomie avec reconstruction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi cette comparaison compte-t-elle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que moins de séances, c'est moins de déplacements et moins de fatigue pour les patientes. L'essai a inclus huit cent quatre-vingt-dix-huit femmes entre 2018 et 2021, d'un âge médian de quarante-six ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Seize séances sur trois semaines, contre vingt-cinq séances sur cinq semaines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Huit cent vingt-cinq femmes analysées. Les complications de la reconstruction touchent douze virgule trois pour cent des femmes du groupe court, contre dix virgule deux pour cent dans le groupe standard."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est un écart. Les auteurs en concluent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Que la cure courte est sûre et non inférieure. Et à trois ans, la récidive est de un virgule cinq pour cent contre deux virgule deux, un écart non significatif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Neuf séances de moins, sans perte de sécurité. C'est la phrase à retenir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre essai, autre urgence : le choc septique, une réaction extrême à une infection."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Question simple : faut-il donner plus tôt un médicament appelé vasopressine ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essai VASSPR, publié le 14 octobre dans JAMA, a suivi trois mille neuf cent cinquante-neuf adultes dans treize hôpitaux de l'Utah et de l'Idaho."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et alors ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À vingt-huit jours, la survie ne diffère pas de façon notable entre les deux stratégies. Le choc cardiogénique est un peu plus fréquent dans le groupe précoce, sans effet notable sur les critères centrés sur le patient."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Précision utile : les articles consultés ne donnent ni les taux de mortalité, ni les intervalles de confiance."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Donc : démarrer plus tôt ne change pas la survie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'essai a comparé deux stratégies, attribuées par hôpital en alternance, entre février 2024 et juillet 2025. Voilà pour le protocole."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cap sur l'alimentation, et un métal lourd : le cadmium."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Sénat devait examiner jeudi une proposition de loi pour réduire le cadmium dans les engrais phosphatés. Le résultat du vote n'était pas connu à la rédaction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le plafond actuel ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre-vingt-dix milligrammes par kilo. L'Assemblée avait voté quarante en 2027, puis vingt en 2030, par cent quarante-quatre voix contre vingt-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais la commission du Sénat a repoussé les échéances."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quarante milligrammes au premier janvier 2029, vingt au premier janvier 2034, en invoquant la notification à Bruxelles et le coût pour les agriculteurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le cadmium, pourquoi on s'en préoccupe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce qu'il s'accumule dans les sols, puis passe dans les cultures. Le texte, porté par le député Benoît Biteau, a été adopté contre l'avis du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il propose un arrêté, en consultation jusqu'au 9 novembre, avec soixante en 2027 et vingt en 2030."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trois calendriers pour un même objectif : vingt milligrammes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, une pénurie dans votre shaker : le whey."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le whey, c'est le lactosérum, ce liquide qui reste après la fabrication du fromage, séché en poudre riche en protéines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AP, son prix de gros a grimpé de deux cent cinquante pour cent en un an aux États-Unis. En Europe, record à vingt-six mille quatre cent cinquante euros la tonne fin mai."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et aujourd'hui ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les prix ont reflué depuis l'été, mais restent plus que doublés : plus cent trente-quatre pour cent aux États-Unis, environ cent vingt-deux en Europe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui tire la demande ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La mode des produits riches en protéines, et les personnes sous traitement GLP-1. Du coup, ADM a lancé huit produits à base de soja et de pois, Roquette et Puris ont présenté chacun une protéine de pois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ces chiffres viennent surtout d'Amérique du Nord, et les fabricants ne publient pas de part de marché pour le végétal."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : la hausse du whey pousse les industriels vers les protéines végétales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'IA et la tech."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le 20 octobre, le département américain de la Sécurité intérieure a publié au journal officiel fédéral un ordre visant DeepSeek."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que dit-il ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il exclut les produits de DeepSeek des achats civils fédéraux, et impose leur retrait des systèmes informatiques des agences civiles, y compris les produits tiers bâtis sur ses technologies."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur quelle base ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une loi de 2018 sur la sécurité de la chaîne d'approvisionnement. Selon SiliconANGLE, le DHS invoque des risques de suivi des utilisateurs et de transfert de données sensibles vers la Chine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les entreprises privées et les particuliers ne sont pas concernés, selon Techzine. Et aucune réaction de DeepSeek n'a été trouvée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère du Commerce et la marine américaine avaient déjà restreint l'usage de DeepSeek, et l'État de New York l'a interdit sur ses appareils publics."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Retenez : une exclusion limitée aux administrations civiles américaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet : Nvidia, qui promet des usines d'IA en conteneurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À la conférence GTC de Berlin, le 21 octobre, Nvidia a présenté DSX POD, un modèle d'usines fondées sur sa future génération de puces Vera Rubin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le chiffre qui frappe : quatorze jours."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Nvidia, l'installation sur un site préparé passerait de six mois à quatorze jours. Mais selon StorageReview, ce délai exclut la construction du bâtiment et des équipements du site."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, six mois contre quatorze jours ? C'est énorme, si c'est vrai."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et on sait quoi de la capacité ou du prix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rien : Nvidia n'a publié ni l'un ni l'autre. Les partenaires nommés sont Dell, HPE, Lenovo, Schneider Electric et Vertiv, avec un déploiement visé début 2027."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'Europe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ cinq pour cent de la capacité mondiale de calcul pour l'IA, contre soixante-quinze pour les États-Unis, selon l'AP. Ce sont des chiffres de l'entreprise ou de la dépêche, sans vérification indépendante."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une semaine chargée, donc, entre rue, marchés et laboratoires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est tout pour aujourd'hui. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-23",
   "url": "/podcasts/politique-2026-10-23.mp3",
