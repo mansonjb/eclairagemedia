@@ -107,6 +107,20 @@
      "parti": "RN",
      "qui": "Marine Le Pen",
      "contexte": "présidente du groupe",
+     "texte": "« Il n'y a que les associations apolitiques qui peuvent recevoir les subventions de l'État »",
+     "url": "https://www.publicsenat.fr/actualites/politique/subventions-aux-associations-le-rn-naura-pas-la-memoire-courte-en-cas-de-victoire-en-2027",
+     "source": "Public Sénat",
+     "date": "2026-10-23",
+     "rubrique": "politique",
+     "sujet": "Congrès du RN à Orléans : jusqu'à 25 000 manifestants attendus samedi",
+     "href": "/politique/2026-10-23/4"
+    },
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "présidente du groupe",
      "texte": "« Nous ne participerons pas à cette mascarade et boycotterons donc cette commission d'enquête »",
      "url": "https://lcp.fr/actualites/violences-du-17-octobre-le-rn-annonce-son-boycott-de-la-commission-d-enquete-444138",
      "source": "LCP",
@@ -170,23 +184,9 @@
      "rubrique": "politique",
      "sujet": "Carburants : Lecornu annonce une baisse du gazole « dès le 1er novembre »",
      "href": "/politique/2026-10-13/4"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Marine Le Pen",
-     "contexte": "députée",
-     "texte": "Elle préfère qu'un budget soit adopté, même imparfait",
-     "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
-     "source": "Sud Radio, avec AFP",
-     "date": "2026-10-13",
-     "rubrique": "politique",
-     "sujet": "Budget 2027 : l'examen s'ouvre dans l'hémicycle, sous la menace d'un rejet",
-     "href": "/politique/2026-10-13/1"
     }
    ],
-   "nbDeclarations": 10,
+   "nbDeclarations": 11,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -946,6 +946,20 @@
    },
    "declarations": [
     {
+     "fond": "#ffe8f0",
+     "couleur": "#e0457b",
+     "parti": "PS",
+     "qui": "Raphaël Glucksmann",
+     "contexte": "Place publique",
+     "texte": "Il regrette de ne pas avoir obtenu « de réponses claires » sur « le fiasco sécuritaire » et dit avoir proposé des pistes de sortie de crise.",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+     "source": "franceinfo",
+     "date": "2026-10-23",
+     "rubrique": "politique",
+     "sujet": "Matignon : les partis reçus, sans mesure annoncée",
+     "href": "/politique/2026-10-23/1"
+    },
+    {
      "fond": "#efe8ff",
      "couleur": "#7e57c2",
      "parti": "AUTRES",
@@ -1002,7 +1016,7 @@
      "href": "/politique/2026-10-04/2"
     }
    ],
-   "nbDeclarations": 4,
+   "nbDeclarations": 5,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/raphael-glucksmann/",
     "phase": {
@@ -1376,6 +1390,20 @@
      "couleur": "#1d4ed8",
      "parti": "LR",
      "qui": "Bruno Retailleau",
+     "contexte": "président des Républicains",
+     "texte": "Il critique le refus de recourir à l'état d'urgence et juge « cocasse » la présence d'élus LFI, qu'il tient pour responsables d'un climat de violence.",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+     "source": "franceinfo",
+     "date": "2026-10-23",
+     "rubrique": "politique",
+     "sujet": "Matignon : les partis reçus, sans mesure annoncée",
+     "href": "/politique/2026-10-23/1"
+    },
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
      "contexte": "sénateur de Vendée, président des Républicains",
      "texte": "« Monsieur le Premier ministre, il faut décréter l'état d'urgence. »",
      "url": "https://www.publicsenat.fr/actualites/politique/violences-urbaines-nous-ne-sommes-pas-a-un-stade-ou-il-y-aura-declaration-de-letat-durgence-affirme-le-ministre-de-linterieur",
@@ -1442,7 +1470,7 @@
      "href": "/politique/2026-10-15/2"
     }
    ],
-   "nbDeclarations": 5,
+   "nbDeclarations": 6,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {
@@ -1935,6 +1963,20 @@
      "parti": "ÉCOLOGISTES",
      "qui": "Marine Tondelier",
      "contexte": "secrétaire nationale",
+     "texte": "« De qui se moque-t-on »",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+     "source": "franceinfo",
+     "date": "2026-10-23",
+     "rubrique": "politique",
+     "sujet": "Matignon : les partis reçus, sans mesure annoncée",
+     "href": "/politique/2026-10-23/1"
+    },
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
      "texte": "« Il n'y a pas d'autre issue à cette journée du 17 octobre que sa démission »",
      "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
      "source": "LCP",
@@ -1998,23 +2040,9 @@
      "rubrique": "politique",
      "sujet": "Primaire de la gauche : Glucksmann désigné dès le premier tour",
      "href": "/politique/2026-10-12/1"
-    },
-    {
-     "fond": "#e2f7e9",
-     "couleur": "#1f9d55",
-     "parti": "ÉCOLOGISTES",
-     "qui": "Marine Tondelier",
-     "contexte": "secrétaire nationale des Écologistes",
-     "texte": "« La stratégie du gouvernement est claire, gagner du temps »",
-     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
-     "source": "franceinfo",
-     "date": "2026-10-08",
-     "rubrique": "politique",
-     "sujet": "Lecornu : 10 millions de barils de gazole libérés, décisions lycées fin octobre",
-     "href": "/politique/2026-10-08/2"
     }
    ],
-   "nbDeclarations": 8,
+   "nbDeclarations": 9,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
@@ -2169,6 +2197,20 @@
      "parti": "PCF",
      "qui": "Fabien Roussel",
      "contexte": "candidat à la présidentielle",
+     "texte": "Il se dit « extrêmement déçu » et juge que le gouvernement n'a pas répondu aux urgences sociales, dont le coût de la vie.",
+     "url": "https://www.publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+     "source": "Public Sénat",
+     "date": "2026-10-23",
+     "rubrique": "politique",
+     "sujet": "Matignon : les partis reçus, sans mesure annoncée",
+     "href": "/politique/2026-10-23/1"
+    },
+    {
+     "fond": "#ffe6e9",
+     "couleur": "#b0001e",
+     "parti": "PCF",
+     "qui": "Fabien Roussel",
+     "contexte": "candidat à la présidentielle",
      "texte": "Il a appelé à la convergence des luttes (propos résumés).",
      "url": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et",
      "source": "LCP",
@@ -2206,7 +2248,7 @@
      "href": "/politique/2026-09-29/1"
     }
    ],
-   "nbDeclarations": 3,
+   "nbDeclarations": 4,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/fabien-roussel/",
     "phase": {

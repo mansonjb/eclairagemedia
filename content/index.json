@@ -1,6 +1,1067 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-23",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Hermès : croissance de 4,3 % au T3, sous les attentes",
+    "court": "Hermès : +4,3 % au T3, sous les attentes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Croc_Birkin_bag.jpg/1280px-Croc_Birkin_bag.jpg",
+    "legende": "Un sac Birkin en crocodile, produit phare d'Hermès (illustration)",
+    "chapeau": "Jeudi 22 octobre, Hermès a publié un chiffre d'affaires de 4,096 milliards d'euros pour le troisième trimestre, en hausse de 5,5 % en données publiées et de 4,3 % à taux de change constants.",
+    "eclairage": "Pourquoi l'action baisse-t-elle alors que les ventes montent ?",
+    "chiffres": [
+     {
+      "valeur": "4,1 Md€",
+      "legende": "chiffre d'affaires du T3"
+     },
+     {
+      "valeur": "+4,3 %",
+      "legende": "croissance à taux de change constants"
+     },
+     {
+      "valeur": "-2 %",
+      "legende": "vêtement et accessoires"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, Hermès a publié un chiffre d'affaires de 4,096 milliards d'euros pour le troisième trimestre, en hausse de 5,5 % en données publiées et de 4,3 % à taux de change constants. Selon Reuters, c'est légèrement sous les attentes des analystes (environ 4,13 milliards d'euros) et la croissance la plus faible du groupe depuis six ans. La maroquinerie-sellerie (sacs Birkin et Kelly) progresse de 10,8 % à taux constants, tandis que la division vêtement et accessoires recule de 2,0 %, ce que la direction attribue à la faible demande chinoise pour des accessoires vendus en grands volumes. Sur neuf mois, le chiffre d'affaires atteint 12,26 milliards d'euros (+5,5 % à taux constants, +2,9 % en publié). Toutes les régions progressent au troisième trimestre sauf le Moyen-Orient ; l'Asie-Pacifique hors Japon est stable à taux constants. À la Bourse de Paris, l'action a clôturé en baisse de 4,94 %, à 1 289,50 euros, après un recul d'environ 8,5 % en matinée selon Reuters. Selon la même source, la boutique de Marseille, pillée lors des violences récentes, ne rouvrira pas de sitôt.",
+    "points": [],
+    "explication": "Le cours d'une action reflète ce que les investisseurs attendent des résultats futurs, pas seulement ce que l'entreprise a vendu. Les analystes publient avant chaque annonce une prévision moyenne, le consensus. Quand le chiffre publié est un peu en dessous, le titre peut reculer même si les ventes progressent, surtout quand l'action est valorisée très cher : selon Reuters, des investisseurs s'interrogent sur la valorisation d'Hermès. Autre repère : la croissance à taux de change constants (+4,3 %) écarte l'effet des devises, alors que la croissance publiée (+5,5 %) l'intègre.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386040/0/fr/herm%C3%A8s-international-chiffre-d-affaires-du-3%C3%A8me-trimestre-2026.html",
+      "nom": "communiqué Hermès"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/hermes-la-croissance-ralentit-au-t3-penalisee-par-les-accessoires-en-chine-ce785cd9d18dfe26",
+      "nom": "Reuters via Zonebourse"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-dans-le-rouge-la-dette-francaise-flambe-269950711b8efffbd5f1751d7c2d7282",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://fr.fashionnetwork.com/news/Hermes-publie-des-ventes-en-hausse-de-5-5-au-troisieme-trimestre-dopees-par-l-europe-et-l-amerique,1878085.html",
+      "nom": "FashionNetwork"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Direction financière d'Hermès",
+      "contexte": "selon Reuters",
+      "texte": "Elle juge le marché chinois très difficile mais l'activité stable jusqu'à fin septembre, affirme que l'attrait du Birkin reste intact et maintient une hausse des capacités de production d'environ 6 % par an.",
+      "url": "https://www.zonebourse.com/actualite-bourse/hermes-la-croissance-ralentit-au-t3-penalisee-par-les-accessoires-en-chine-ce785cd9d18dfe26",
+      "source": "Reuters via Zonebourse"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Investisseurs et revendeurs",
+      "contexte": "selon Reuters",
+      "texte": "Les investisseurs s'interrogent sur la valorisation élevée du groupe ; les revendeurs notent que l'offre de Birkin d'occasion réduit en partie leur attrait.",
+      "url": "https://www.zonebourse.com/actualite-bourse/hermes-la-croissance-ralentit-au-t3-penalisee-par-les-accessoires-en-chine-ce785cd9d18dfe26",
+      "source": "Reuters via Zonebourse"
+     }
+    ],
+    "apres": "Hermès publie ses résultats annuels début 2027 ; le groupe indique qu'aucun changement majeur n'est attendu au quatrième trimestre.",
+    "change": "Pour le groupe, la croissance repose presque entièrement sur la maroquinerie, alors que la Chine pèse sur les accessoires de volume. Pour les actionnaires, le titre cède une partie de sa valeur dans un secteur du luxe déjà sous pression.",
+    "credit": {
+     "auteur": "Ohconfucius",
+     "licence": "CC BY 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Croc_Birkin_bag.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TECH",
+    "titre": "Meta : dépenses d'IA relevées et actions sans droit de vote",
+    "court": "Meta : l'IA coûte plus, actions sans vote",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Facebook%2C_Highway_126%2C_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg/1280px-Facebook%2C_Highway_126%2C_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg",
+    "legende": "Un centre de données du groupe Facebook à Prineville, dans l'Oregon (illustration)",
+    "chapeau": "Mercredi 21 octobre, après la clôture de Wall Street, Meta a publié un chiffre d'affaires de 64,60 milliards de dollars pour le troisième trimestre, contre 63,37 milliards attendus par les analystes (LSEG).",
+    "eclairage": "Pourquoi un groupe rentable voit-il sa trésorerie passer au rouge ?",
+    "chiffres": [
+     {
+      "valeur": "145 Md$",
+      "legende": "haut de fourchette des dépenses 2026"
+     }
+    ],
+    "passe": "Mercredi 21 octobre, après la clôture de Wall Street, Meta a publié un chiffre d'affaires de 64,60 milliards de dollars pour le troisième trimestre, contre 63,37 milliards attendus par les analystes (LSEG). Le bénéfice par action dilué ressort à 3,83 dollars, après une charge de 9,89 milliards de dollars liée à l'accord de règlement conclu en août avec des États américains ; sans cette charge, il aurait été de 7,40 dollars. Le flux de trésorerie disponible est négatif de 2,12 milliards de dollars, contre un flux positif de 10,63 milliards un an plus tôt. Meta relève le bas de sa fourchette de dépenses d'investissement 2026, désormais de 135 à 145 milliards de dollars (130 à 145 auparavant), et prévoit 73 à 76 milliards de dollars de chiffre d'affaires au quatrième trimestre. Le groupe annonce aussi l'émission, en janvier 2027, d'actions ordinaires de classe C sans droit de vote, un fractionnement de fait de deux pour un qui doit financer des acquisitions et retenir les talents tout en préservant le contrôle de Mark Zuckerberg. Après une hausse en séance prolongée, l'action a reculé de 5,6 % jeudi à Wall Street ; en Europe, Legrand a perdu 5,8 % et Schneider Electric 5,4 %, sur des inquiétudes liées aux dépenses d'IA, selon BFM Bourse.",
+    "points": [],
+    "explication": "Le flux de trésorerie disponible est l'argent qui reste après les dépenses courantes et les investissements. Construire des centres de données et acheter des puces coûte des milliards avant que les revenus de l'IA n'arrivent : ce sont les dépenses d'investissement (« capex »). Meta reste très profitable, mais ces dépenses dépassent désormais l'argent qu'elle encaisse (-2,12 Md$ ce trimestre). D'où l'émission d'actions de classe C sans droit de vote : elles peuvent servir à payer des acquisitions ou des salaires en actions sans diluer le pouvoir de vote de Mark Zuckerberg, qui contrôle le groupe.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/meta-va-emettre-une-nouvelle-categorie-d-actions-alors-qu-elle-resserre-ses-previsions-de-depenses-en-matiere-d-ia-efc343d2be0f88a14e88c2a11184f686",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-mega-depenses-de-meta-et-la-chute-d-hermes-le-cac-40-reperd-14-1172291.html",
+      "nom": "BFM Bourse (dépêche AFP)"
+     },
+     {
+      "url": "https://fr.investing.com/news/transcripts/compte-rendu-dappel-aux-resultats--meta-depasse-les-previsions-du-t3-2026-grace-a-lia-93CH-3646755",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-21-meta-frappe-fort-au-troisieme-trimestre-et-mise-des-milliards-sur-lia.html",
+      "nom": "Option Finance"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Mark Zuckerberg",
+      "contexte": "fondateur et PDG de Meta",
+      "texte": "Selon Reuters, il affirme que l'agent d'IA Muse a dépassé 10 millions de comptes créés aux États-Unis et au Canada en environ six semaines, et qu'il pourrait servir des milliards de personnes.",
+      "url": "https://www.boursorama.com/bourse/actualites/meta-va-emettre-une-nouvelle-categorie-d-actions-alors-qu-elle-resserre-ses-previsions-de-depenses-en-matiere-d-ia-efc343d2be0f88a14e88c2a11184f686",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Susan Li",
+      "contexte": "directrice financière de Meta",
+      "texte": "Selon Reuters, elle estime que l'IA deviendra une source significative de diversification des revenus au fil du temps.",
+      "url": "https://www.boursorama.com/bourse/actualites/meta-va-emettre-une-nouvelle-categorie-d-actions-alors-qu-elle-resserre-ses-previsions-de-depenses-en-matiere-d-ia-efc343d2be0f88a14e88c2a11184f686",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Natixis",
+      "contexte": "banque, citée par l'AFP",
+      "texte": "Elle analyse les annonces de Meta dans la dépêche de l'AFP reprise par BFM Bourse, alors que le groupe doit financer ses dépenses avec une trésorerie disponible négative.",
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-les-mega-depenses-de-meta-et-la-chute-d-hermes-le-cac-40-reperd-14-1172291.html",
+      "source": "BFM Bourse"
+     }
+    ],
+    "apres": "Les actions de classe C doivent être émises en janvier 2027 ; Meta prévoit 73 à 76 milliards de dollars de chiffre d'affaires au quatrième trimestre.",
+    "change": "Pour Meta, le financement de l'IA passe désormais aussi par le marché, avec des actions qui ne donnent pas de pouvoir de vote.",
+    "credit": {
+     "auteur": "Gary Halvorson, Oregon State Archives",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Facebook,_Highway_126,_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "INDUSTRIE",
+    "titre": "Michelin : ventes de 19,2 Md€ sur neuf mois, volumes en recul",
+    "court": "Michelin : volumes en recul, objectifs tenus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michelin_Tires_%287612854630%29.jpg/1280px-Michelin_Tires_%287612854630%29.jpg",
+    "legende": "Des techniciens Michelin changent des pneus sous une tente de course, devant le Bibendum (illustration)",
+    "chapeau": "Mardi 20 octobre, Michelin a publié ses ventes à fin septembre : 19,2 milliards d'euros sur neuf mois, en recul de 0,5 % en données publiées, en hausse de 1,0 % à taux de change constants et de 0,1 % à périmètre et changes constants.",
+    "eclairage": "Première monte ou remplacement : deux marchés du pneu",
+    "chiffres": [
+     {
+      "valeur": "-0,8 %",
+      "legende": "volumes de pneus"
+     },
+     {
+      "valeur": "+2,2 %",
+      "legende": "croissance du T3 (taux constants)"
+     }
+    ],
+    "passe": "Mardi 20 octobre, Michelin a publié ses ventes à fin septembre : 19,2 milliards d'euros sur neuf mois, en recul de 0,5 % en données publiées, en hausse de 1,0 % à taux de change constants et de 0,1 % à périmètre et changes constants. L'effet de change pèse pour 1,6 % (environ 300 millions d'euros), surtout à cause de la baisse du dollar au premier semestre. Les volumes de pneus reculent de 0,8 %, ce que le groupe attribue principalement à la baisse des ventes en première monte, alors que ceux de la marque Michelin en remplacement progressent de 4 %. La croissance accélère au troisième trimestre, à +2,2 % à taux constants et +0,8 % à périmètre et changes constants, avec un effet prix redevenu positif. La division transport (poids lourds) réalise 4,3 milliards d'euros, en baisse de 3,7 % sur neuf mois. Michelin confirme ses objectifs 2026 : un résultat opérationnel des secteurs en croissance à taux et périmètre constants et un cash-flow libre avant acquisitions supérieur à 1,6 milliard d'euros. Mercredi 21 octobre, l'action a reculé de 7,16 %, selon Zonebourse, qui parle de chiffres inférieurs aux attentes.",
+    "points": [],
+    "explication": "Un fabricant vend ses pneus par deux canaux. La première monte : les pneus montés sur les véhicules neufs, vendus aux constructeurs automobiles. Elle dépend donc du nombre de voitures et de camions produits. Le remplacement : les pneus achetés par les automobilistes et les transporteurs pour remplacer des pneus usés, via des distributeurs. Il dépend plutôt de l'usage du parc existant. Chez Michelin, la première monte tire les volumes vers le bas (-0,8 % au total), alors que le remplacement de la marque progresse de 4 %. Autre repère : la hausse de 1,1 % de l'effet prix-mix combine les hausses de prix et la part croissante de pneus plus haut de gamme.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.michelin.com/publications/groupe/information-financiere-au-30-septembre-2026",
+      "nom": "communiqué Michelin"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/michelin-confirme-ses-objectifs-2026-la-croissance-accelere-au-3e-trimestre_704536",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://www.tradingsat.com/michelin-FR001400AJ45/actualites/michelin-michelin-accelere-au-troisieme-trimestre-1172103.html",
+      "nom": "Tradingsat"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/paris-retrouve-le-sourire-entre-resultats-contrastes-et-nervosite-obligataire-28252a15196252aa4bb994d4c0774928",
+      "nom": "Zonebourse via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Michelin",
+      "contexte": "communiqué du 20 octobre",
+      "texte": "Le groupe confirme ses objectifs annuels : croissance du résultat opérationnel des secteurs et cash-flow libre avant acquisitions supérieur à 1,6 milliard d'euros.",
+      "url": "https://www.michelin.com/publications/groupe/information-financiere-au-30-septembre-2026",
+      "source": "communiqué Michelin"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Marché",
+      "contexte": "selon Zonebourse",
+      "texte": "Le titre recule de 7,16 % mercredi 21 octobre : les chiffres sont jugés inférieurs aux attentes du marché, malgré l'accélération du troisième trimestre.",
+      "url": "https://www.boursorama.com/bourse/actualites/paris-retrouve-le-sourire-entre-resultats-contrastes-et-nervosite-obligataire-28252a15196252aa4bb994d4c0774928",
+      "source": "Zonebourse via Boursorama"
+     }
+    ],
+    "apres": "Michelin publie ses résultats annuels début 2027 et confirme viser un cash-flow libre supérieur à 1,6 milliard d'euros en 2026.",
+    "change": "Pour Michelin, l'objectif annuel reste inchangé, mais il repose sur un redressement des ventes en fin d'année. Pour les salariés et les clients, rien ne change à court terme : le groupe ne communique pas de mesure nouvelle.",
+    "credit": {
+     "auteur": "Tino Rossini",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Michelin_Tires_(7612854630).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "CONJONCTURE",
+    "titre": "Zone euro : inflation à 3,8 % en septembre, la BCE se réunit le 29",
+    "court": "Zone euro : 3,8 % d'inflation avant la BCE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Station-service_Hyper_U_Cusset_2026-04-19.JPG/1280px-Station-service_Hyper_U_Cusset_2026-04-19.JPG",
+    "legende": "Une station-service et son panneau de prix des carburants à Cusset, dans l'Allier (illustration)",
+    "chapeau": "Le 16 octobre, Eurostat a confirmé que l'inflation de la zone euro atteint 3,8 % sur un an en septembre, contre 3,2 % en août, son plus haut niveau depuis trois ans et près du double de l'objectif de 2 % de la BCE.",
+    "eclairage": "Pourquoi la BCE relève-t-elle ses taux quand les prix montent ?",
+    "chiffres": [
+     {
+      "valeur": "3,8 %",
+      "legende": "inflation en septembre"
+     },
+     {
+      "valeur": "+18,8 %",
+      "legende": "prix de l'énergie sur un an"
+     },
+     {
+      "valeur": "2,50 %",
+      "legende": "taux de dépôt de la BCE"
+     }
+    ],
+    "passe": "Le 16 octobre, Eurostat a confirmé que l'inflation de la zone euro atteint 3,8 % sur un an en septembre, contre 3,2 % en août, son plus haut niveau depuis trois ans et près du double de l'objectif de 2 % de la BCE. L'énergie concentre l'essentiel de la hausse : ses prix augmentent de 18,8 % sur un an, contre 14,3 % en août, dans le contexte du conflit au Moyen-Orient. Selon l'estimation rapide, les services progressent de 3,2 %, l'alimentation, l'alcool et le tabac de 1,4 %, et l'inflation sous-jacente (hors énergie et alimentation) atteint 2,5 %. La France affiche 3,4 % et l'Allemagne 3,3 %. Le 10 septembre, la BCE a relevé ses trois taux directeurs de 25 points de base ; le taux de dépôt est à 2,50 % depuis le 16 septembre. Ses projections tablent sur 3,0 % d'inflation en 2026, 2,5 % en 2027 et 2,1 % en 2028. La prochaine décision est attendue jeudi 29 octobre à 14h15.",
+    "points": [],
+    "explication": "La BCE a pour mission de maintenir l'inflation autour de 2 %. Relever ses taux directeurs renchérit le crédit : les ménages et les entreprises empruntent moins, la demande ralentit, et les prix montent moins vite. Ici, la hausse vient surtout de l'énergie, que la BCE ne contrôle pas : relever les taux ne baisse pas le prix du pétrole, mais vise à éviter que la hausse se diffuse aux salaires et aux autres prix. Le coût : une croissance plus faible et un crédit plus cher. L'inflation sous-jacente (2,5 %), qui exclut l'énergie et l'alimentation, mesure cette diffusion.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.fr.html",
+      "nom": "BCE"
+     },
+     {
+      "url": "https://www.connaissancedesenergies.org/afp/zone-euro-linflation-grimpe-a-38-en-septembre-nouveau-sommet-depuis-3-ans-261002",
+      "nom": "dépêche AFP via Connaissance des énergies"
+     },
+     {
+      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-16-zone-euro-linflation-confirmee-a-38-en-septembre.html",
+      "nom": "Option Finance"
+     },
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/analyse-de-la-tendance-des-marches/zone-euro-l-inflation-confirmee-a-3-8-en-septembre-zone-bourse-dd2fe34739029fc4a49889f3412c531ff7b91045",
+      "nom": "Zonebourse via Boursedirect"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Conseil des gouverneurs de la BCE",
+      "contexte": "décision du 10 septembre",
+      "texte": "« Nous ne nous engageons pas à l'avance sur une trajectoire de taux particulière. »",
+      "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.fr.html",
+      "source": "BCE"
+     }
+    ],
+    "apres": "Décision de la BCE jeudi 29 octobre ; première estimation de l'inflation française d'octobre et du PIB du troisième trimestre vendredi 30 octobre.",
+    "change": "Pour les ménages, l'énergie pèse sur le budget carburant et chauffage. Pour les emprunteurs, un nouveau relèvement renchérirait le crédit à taux variable.",
+    "credit": {
+     "auteur": "Tabl-trai",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Station-service_Hyper_U_Cusset_2026-04-19.JPG"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Dépenses d'investissement (capex)",
+    "definition": "Argent consacré à acheter ou construire des équipements durables : usines, centres de données, machines."
+   },
+   {
+    "terme": "Consensus",
+    "definition": "Prévision moyenne des analystes financiers avant une publication. Une entreprise « bat » ou « manque » le consensus."
+   },
+   {
+    "terme": "Croissance organique",
+    "definition": "Croissance des ventes sans l'effet des devises ni des rachats ou cessions d'activités."
+   },
+   {
+    "terme": "Inflation sous-jacente",
+    "definition": "Hausse des prix hors énergie et alimentation, plus stable, qui montre si la hausse se diffuse à l'ensemble de l'économie."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le 10 septembre 2026, la BCE a relevé ses taux directeurs de 25 points de base.",
+   "reponse": true,
+   "explication": "Le taux de dépôt est à 2,50 % depuis le 16 septembre, selon la BCE : c'était la deuxième hausse de l'année 2026."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-23",
+  "minutes": 16,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PARTIS",
+    "titre": "Matignon : les partis reçus, sans mesure annoncée",
+    "court": "Matignon : les partis reçus, sans annonce",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%B4tel_de_Matignon_2017.jpg/1280px-H%C3%B4tel_de_Matignon_2017.jpg",
+    "legende": "La façade de l'hôtel de Matignon, siège du Premier ministre, côté jardin (illustration)",
+    "chapeau": "Jeudi 22 octobre, Sébastien Lecornu a reçu à Matignon des responsables de partis, après les violences du 17 octobre. Les ministres Laurent Nuñez (Intérieur) et Gérald Darmanin (Justice) étaient présents, avec des responsables du renseignement et des forces de l'ordre.",
+    "eclairage": "Maintien de l'ordre : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "3 h",
+      "legende": "de réunion à Matignon"
+     },
+     {
+      "valeur": "0",
+      "legende": "mesure concrète rapportée"
+     },
+     {
+      "valeur": "24/10",
+      "legende": "nouvelle journée de mobilisation"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, Sébastien Lecornu a reçu à Matignon des responsables de partis, après les violences du 17 octobre. Les ministres Laurent Nuñez (Intérieur) et Gérald Darmanin (Justice) étaient présents, avec des responsables du renseignement et des forces de l'ordre. Marine Le Pen et Jordan Bardella ne s'y sont pas rendus ; le RN était représenté par Edwige Diaz et Louis Aliot. La réunion a porté sur la doctrine de maintien de l'ordre : plusieurs participants de gauche l'ont jugée « technique » et disent n'avoir obtenu aucune réponse sur les revendications sociales des manifestants. Bruno Retailleau a regretté que l'état d'urgence n'ait pas été décrété. Aucune mesure concrète n'a été rapportée à l'issue de la rencontre ; le RN dit avoir reçu des assurances pour la sécurité de son congrès. Dans l'après-midi, Sébastien Lecornu a aussi reçu les maires de Paris, Lyon et Marseille : Emmanuel Grégoire, maire de Paris, a jugé que les premières orientations pouvaient recréer un cadre de travail plus satisfaisant entre les villes et l'État, en précisant qu'il restait beaucoup de travail.",
+    "points": [
+     "Le maintien de l'ordre désigne les moyens employés par l'État pour encadrer les manifestations et limiter les violences.",
+     "Ce sont les préfets qui autorisent, encadrent ou interdisent une manifestation, au regard du risque pour l'ordre public.",
+     "L'état d'urgence est un régime d'exception ; le gouvernement a indiqué cette semaine s'en tenir aux mesures de droit commun."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "nom": "France 24 (direct, avec AFP et Reuters)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/reunion-des-partis-a-matignon-la-gauche-decue-le-gouvernement-defend-l-ordre-comme-une-priorite-0ae7d84abfffe27e0554b5b83074e75a",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur",
+      "texte": "« à aucun moment n'est rentré dans le débat précis sur les revendications des jeunes »",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale",
+      "texte": "« De qui se moque-t-on »",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Raphaël Glucksmann",
+      "contexte": "Place publique",
+      "texte": "Il regrette de ne pas avoir obtenu « de réponses claires » sur « le fiasco sécuritaire » et dit avoir proposé des pistes de sortie de crise.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Fabien Roussel",
+      "contexte": "candidat à la présidentielle",
+      "texte": "Il se dit « extrêmement déçu » et juge que le gouvernement n'a pas répondu aux urgences sociales, dont le coût de la vie.",
+      "url": "https://www.publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "président des Républicains",
+      "texte": "Il critique le refus de recourir à l'état d'urgence et juge « cocasse » la présence d'élus LFI, qu'il tient pour responsables d'un climat de violence.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Edwige Diaz",
+      "contexte": "présidente du groupe RN au Sénat",
+      "texte": "Elle affirme que le gouvernement a tenté de minimiser sa responsabilité, et dit avoir reçu des garanties pour la sécurité du congrès d'Orléans. Réaction résumée sans guillemets.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Samedi 24 octobre : nouvelle journée de mobilisation. Vendredi 23 à 15 h, Emmanuel Macron reçoit à l'Élysée des lycéens et des représentants d'organisations lycéennes.",
+    "change": "Les oppositions de gauche comme de droite disent ne pas avoir obtenu de réponse sur le fond. Le gouvernement maintient l'ordre public comme priorité et s'appuie sur les arrêtés préfectoraux et les couvre-feux.",
+    "credit": {
+     "auteur": "ScareCriterion12",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Matignon_2017.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "LIBERTÉS",
+    "titre": "Manifestations : Macron veut interdire celles qui ne sont pas syndicales",
+    "court": "Manifestations : les non-syndicales visées",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manifestation_du_17_octobre_2026_%C3%A0_Paris_93.jpg/1280px-Manifestation_du_17_octobre_2026_%C3%A0_Paris_93.jpg",
+    "legende": "Des jeunes brandissent des pancartes et un drapeau tricolore lors de la manifestation du 17 octobre à Paris",
+    "chapeau": "Jeudi 22 octobre, à l'issue d'un conseil de sécurité à l'Élysée consacré au renseignement et aux défaillances ayant précédé les violences du 17 octobre, Emmanuel Macron a déclaré que la recommandation générale était qu'il n'y ait pas de manifestation dans les jours à venir.",
+    "eclairage": "Qui peut interdire une manifestation ?",
+    "chiffres": [
+     {
+      "valeur": "24/10",
+      "legende": "samedi sous la nouvelle consigne"
+     },
+     {
+      "valeur": "48 h",
+      "legende": "au Conseil d'État pour statuer"
+     },
+     {
+      "valeur": "1",
+      "legende": "recours déposé en référé-liberté"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, à l'issue d'un conseil de sécurité à l'Élysée consacré au renseignement et aux défaillances ayant précédé les violences du 17 octobre, Emmanuel Macron a déclaré que la recommandation générale était qu'il n'y ait pas de manifestation dans les jours à venir. Pour les cortèges déclarés par des organisations syndicales, les préfets proposeront des tracés alternatifs ; pour les autres, il a annoncé qu'on interdirait « partout où on le peut ». La porte-parole du gouvernement, Maud Bregeon, a précisé que les interdictions seraient décidées « au cas par cas », avec des recours possibles devant le tribunal administratif. À Paris, le cortège de l'intersyndicale entre Bastille et Nation est autorisé samedi ; celui des gilets jaunes et d'Interfac entre Bastille et Opéra est refusé. Les manifestations sont interdites à Lyon, à Marseille et dans les Bouches-du-Rhône. Jeudi soir, l'Association de défense des libertés constitutionnelles et le Syndicat de la magistrature ont saisi le Conseil d'État d'un référé-liberté contre ces déclarations : ils invoquent une incompétence du président, une atteinte à la liberté de manifester et une discrimination entre organisateurs. Un conseiller de l'exécutif répond que le président reste dans ses prérogatives et que le préfet décide au regard de l'ordre public.",
+    "points": [
+     "La liberté de manifester est reconnue ; une manifestation peut être interdite si elle risque de troubler l'ordre public.",
+     "Dans les villes à police d'État, seul le préfet décide : un maire ne peut pas interdire un cortège.",
+     "Une interdiction se conteste en référé devant le tribunal administratif, puis devant le Conseil d'État, qui statue sous 48 heures.",
+     "Selon le juriste John-Christopher Rolland (Paris Nanterre) : « Il n'y a rien dans la loi qui permet de distinguer une manifestation organisée par un syndicat »."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/10/22/conseil-de-securite",
+      "nom": "Élysée (conseil de sécurité)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-serre-la-vis-sur-les-mobilisations-jusqua-quel-point-peut-on-restreindre-la-liberte-de-manifester",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/info-franceinfo-un-recours-depose-devant-le-conseil-d-etat-apres-les-declarations-d-emmanuel-macron-sur-l-interdiction-de-certaines-manifestations_8249314.html",
+      "nom": "franceinfo (recours)"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "nom": "France 24 (direct, avec AFP et Reuters)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« Quand ce ne sont pas des organisations syndicales, partout où on le peut, on interdira pour que le calme soit là »",
+      "url": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Maud Bregeon",
+      "contexte": "porte-parole du gouvernement",
+      "texte": "Les interdictions seront décidées « au cas par cas », dans le cadre de l'État de droit, avec des recours possibles devant le juge administratif.",
+      "url": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Alma Dufour",
+      "contexte": "députée",
+      "texte": "« Ainsi mourut le droit de manifester »",
+      "url": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Guilhem Carayon",
+      "contexte": "UDR",
+      "texte": "« Il était temps »",
+      "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Le Conseil d'État dispose de 48 heures pour statuer sur le référé-liberté. Samedi 24 octobre : premier test de la consigne dans les villes concernées.",
+    "change": "Le gouvernement demande aux préfets d'interdire les manifestations non syndicales « partout où on le peut » ; la légalité de cette distinction est contestée devant le Conseil d'État.",
+    "credit": {
+     "auteur": "FreCha",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_17_octobre_2026_%C3%A0_Paris_93.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "RETRAITES",
+    "titre": "Budget de la Sécu : les députés votent un départ à 62 ans, sous conditions",
+    "court": "Sécu : un départ à 62 ans voté, incertain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Manifestation_contre_la_r%C3%A9forme_des_retraites%2C_Paris%2C_le_28_mars_2023_%E2%80%94_12.jpg/1280px-Manifestation_contre_la_r%C3%A9forme_des_retraites%2C_Paris%2C_le_28_mars_2023_%E2%80%94_12.jpg",
+    "legende": "Des manifestants brandissent des pancartes lors d'une manifestation contre la réforme des retraites à Paris, en mars 2023 (illustration)",
+    "chapeau": "Jeudi 22 octobre, pendant l'examen du budget de la Sécurité sociale pour 2027 (PLFSS), les députés ont adopté par 45 voix contre 36 un amendement du groupe Écologiste et social, défendu par Sandrine Rousseau.",
+    "eclairage": "Un amendement adopté, est-ce une loi ?",
+    "chiffres": [
+     {
+      "valeur": "45/36",
+      "legende": "voix pour et contre"
+     },
+     {
+      "valeur": "168",
+      "legende": "trimestres validés (42 ans cotisés)"
+     },
+     {
+      "valeur": "27/10",
+      "legende": "vote d'ensemble sur la Sécu prévu"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, pendant l'examen du budget de la Sécurité sociale pour 2027 (PLFSS), les députés ont adopté par 45 voix contre 36 un amendement du groupe Écologiste et social, défendu par Sandrine Rousseau. Il crée un congé anticipatoire de départ à la retraite : les salariés d'au moins 62 ans ayant validé 168 trimestres, soit 42 ans de cotisation, pourraient cesser de travailler, leur employeur leur versant jusqu'à l'âge légal une rémunération équivalente à leur future pension à taux plein, compensée par une exonération de cotisations sociales. Le dispositif contourne le relèvement de l'âge légal à 64 ans, sans abroger la réforme de 2023. Son coût n'a pas été annoncé. Le rapporteur général du budget de la Sécurité sociale, Thibault Bazin (Droite républicaine), juge la mesure symbolique ; le ministre du Travail, Jean-Pierre Farandou, la critique en pointant une charge très lourde pour les employeurs. Le vote n'est pas définitif : l'adoption du budget de la Sécurité sociale dans son ensemble paraît incertaine faute de majorité, et le vote solennel est prévu mardi 27 octobre. En cas de recours au 49.3 ou aux ordonnances, le gouvernement ne retiendrait sans doute pas la mesure, selon LCP.",
+    "points": [
+     "Un amendement est une modification proposée à un texte ; il est voté en séance avant le vote sur l'ensemble du projet de loi.",
+     "Si le budget de la Sécurité sociale est rejeté ou modifié par la suite, la mesure disparaît avec lui.",
+     "Avec le 49.3, le gouvernement peut faire adopter le texte sans vote, dans une version qu'il choisit : il peut alors écarter cet amendement.",
+     "L'âge légal de départ est de 64 ans depuis la réforme de 2023 ; l'amendement ne le modifie pas formellement."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.moneyvox.fr/retraite/actualites/110942/budget-de-la-secu-les-deputes-votent-un-dispositif-pour-un-depart-en-retraite-a-62-ans",
+      "nom": "MoneyVox (avec AFP)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_2027",
+      "nom": "Assemblée nationale (dossier PLFSS 2027)"
+     },
+     {
+      "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+      "nom": "NosParlementaires"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTE ET SOCIAL",
+      "qui": "Sandrine Rousseau",
+      "contexte": "députée",
+      "texte": "Elle présente le dispositif comme « un congé, jusqu'à l'âge légal de la retraite », financé par l'entreprise et compensé à l'euro près par une exonération de cotisations sociales.",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Thibault Bazin",
+      "contexte": "rapporteur général du budget de la Sécurité sociale",
+      "texte": "Il juge le dispositif symbolique et doute de sa faisabilité. Le groupe Écologiste et social demande au gouvernement de ne pas effacer ce vote. Réaction résumée sans guillemets.",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Jean-Pierre Farandou",
+      "contexte": "ministre du Travail",
+      "texte": "« Qu'est-ce qu'elles vous ont fait, les entreprises ? »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Mardi 27 octobre : vote solennel sur l'ensemble du budget de la Sécurité sociale à l'Assemblée.",
+    "change": "Le vote ouvre la possibilité, si le texte était adopté en l'état, de partir dès 62 ans avec 42 ans de cotisation, sans changer l'âge légal.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_contre_la_r%C3%A9forme_des_retraites%2C_Paris%2C_le_28_mars_2023_%E2%80%94_12.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "PARTIS",
+    "titre": "Congrès du RN à Orléans : jusqu'à 25 000 manifestants attendus samedi",
+    "court": "Congrès du RN : Orléans sous haute sécurité",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Orl%C3%A9ans_%28Loiret%29_-_Cath%C3%A9drale_Sainte-Croix_-_Chevet.jpg/1280px-Orl%C3%A9ans_%28Loiret%29_-_Cath%C3%A9drale_Sainte-Croix_-_Chevet.jpg",
+    "legende": "Le chevet de la cathédrale Sainte-Croix d'Orléans, d'où part le cortège de samedi (illustration)",
+    "chapeau": "Le Rassemblement national tient son congrès à Orléans ce week-end. Samedi 24 octobre, environ 5 000 personnes sont attendues au congrès, où la réélection de Jordan Bardella à la tête du parti est attendue ; dimanche 25, environ 10 000 au meeting de Marine Le Pen, qui lance sa campagne présidentielle.",
+    "eclairage": "Subventions aux associations : quels ordres de grandeur ?",
+    "chiffres": [
+     {
+      "valeur": "25 000",
+      "legende": "manifestants attendus samedi (AFP)"
+     },
+     {
+      "valeur": "50",
+      "legende": "organisations appellent à défiler"
+     },
+     {
+      "valeur": "25/10",
+      "legende": "meeting de Marine Le Pen"
+     }
+    ],
+    "passe": "Le Rassemblement national tient son congrès à Orléans ce week-end. Samedi 24 octobre, environ 5 000 personnes sont attendues au congrès, où la réélection de Jordan Bardella à la tête du parti est attendue ; dimanche 25, environ 10 000 au meeting de Marine Le Pen, qui lance sa campagne présidentielle. Samedi matin, une contre-manifestation « contre le racisme, le fascisme et l'impérialisme » est appelée par une cinquantaine d'organisations, partis et syndicats, avec un départ à 10 h 30 du parvis de la cathédrale : l'AFP l'évalue entre 20 000 et 25 000 personnes. Laurent Nuñez a annoncé un dispositif de maintien de l'ordre important ; le maire d'Orléans, Serge Grouard, évoque un plan de sécurité comprenant l'arrêt du tramway et l'interdiction du stationnement dans le centre. Une manifestation prévue dimanche près du palais des congrès a été refusée. Dans son contre-budget, le RN prévoit par ailleurs 2 milliards d'euros d'économies dès 2027 en baissant les subventions de l'État aux associations « ne relevant pas de l'intérêt général ».",
+    "points": [
+     "Selon des données du gouvernement citées par Public Sénat, les subventions de l'ensemble des collectivités publiques ont atteint 23 milliards d'euros en 2023, pour 1,3 million d'associations.",
+     "Sur ce total, 8,3 milliards d'euros viennent de l'État.",
+     "Le RN prévoit 2 milliards d'euros d'économies dès 2027 sur les subventions de l'État aux associations, puis 3,7 milliards d'euros l'année suivante, d'après son contre-budget."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/subventions-aux-associations-le-rn-naura-pas-la-memoire-courte-en-cas-de-victoire-en-2027",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/marine-le-pen-n-a-pas-d-inquietude-sur-la-securite-du-congres-du-rn-a-orleans-3436797.html",
+      "nom": "France 3 Régions (avec AFP)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+      "nom": "franceinfo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "présidente du groupe",
+      "texte": "« Il n'y a que les associations apolitiques qui peuvent recevoir les subventions de l'État »",
+      "url": "https://www.publicsenat.fr/actualites/politique/subventions-aux-associations-le-rn-naura-pas-la-memoire-courte-en-cas-de-victoire-en-2027",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Edwige Diaz",
+      "contexte": "sénatrice",
+      "texte": "« En 2027, nous n'aurons pas la mémoire courte »",
+      "url": "https://www.publicsenat.fr/actualites/politique/subventions-aux-associations-le-rn-naura-pas-la-memoire-courte-en-cas-de-victoire-en-2027",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur",
+      "texte": "Il salue la mobilisation contre le RN et appelle à des « manifestations pacifiques et non violentes ».",
+      "url": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "Il promet un « dispositif de maintien de l'ordre important » à Orléans.",
+      "url": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "S&D",
+      "qui": "Chloé Ridel",
+      "contexte": "eurodéputée",
+      "texte": "« Le seul continent qui peut soutenir encore la CPI, c'est l'Europe »",
+      "url": "https://fr.news.yahoo.com/parlement-europ%C3%A9en-d%C3%A9cerne-prix-sakharov-101443558.html",
+      "source": "France 24 (AFP)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "PARLEMENT EUROPÉEN",
+      "qui": "Roberta Metsola",
+      "contexte": "présidente du Parlement",
+      "texte": "« L'Union européenne repose sur le respect du multilatéralisme et des institutions internationales »",
+      "url": "https://www.rtbf.be/article/le-parlement-europeen-attribue-le-prix-sakharov-a-la-cour-penale-internationale-11804213",
+      "source": "RTBF (Belga)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CPI",
+      "qui": "Tomoko Akane",
+      "contexte": "présidente de la Cour",
+      "texte": "« Cette distinction intervient à un moment où la Cour et ses fonctionnaires sont confrontés à des défis sans précédent »",
+      "url": "https://www.rtbf.be/article/le-parlement-europeen-attribue-le-prix-sakharov-a-la-cour-penale-internationale-11804213",
+      "source": "RTBF (Belga)"
+     }
+    ],
+    "apres": "Samedi 24 octobre : congrès et contre-manifestation. Dimanche 25 : meeting de Marine Le Pen, lancement de sa campagne présidentielle.",
+    "change": "Orléans devient ce week-end le point de rencontre du congrès du RN et d'une importante contre-manifestation, avec un dispositif de sécurité renforcé.",
+    "credit": {
+     "auteur": "Patrick",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_%28Loiret%29_-_Cath%C3%A9drale_Sainte-Croix_-_Chevet.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "23",
+    "mois": "OCT.",
+    "texte": "Élysée : à 15 h, Emmanuel Macron reçoit des lycéens et des représentants d'organisations lycéennes."
+   },
+   {
+    "jour": "24",
+    "mois": "OCT.",
+    "texte": "Journée de mobilisation sous la nouvelle consigne sur les manifestations ; congrès du RN et contre-manifestation à Orléans."
+   },
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Orléans : meeting de Marine Le Pen, lancement de sa campagne présidentielle."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Budget de la Sécu : vote solennel à l'Assemblée sur l'ensemble du PLFSS 2027."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Intersyndicale : appel à la mobilisation la plus large possible."
+   },
+   {
+    "jour": "16",
+    "mois": "DÉC.",
+    "texte": "Strasbourg : cérémonie de remise du prix Sakharov, selon La Libre."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Référé-liberté",
+    "definition": "Procédure d'urgence devant le juge administratif pour faire suspendre une décision qui porte atteinte à une liberté fondamentale ; le Conseil d'État statue sous 48 heures."
+   },
+   {
+    "terme": "Amendement",
+    "definition": "Modification proposée à un texte de loi, votée en séance avant le vote sur l'ensemble du texte."
+   },
+   {
+    "terme": "Prix Sakharov",
+    "definition": "Prix du Parlement européen qui récompense la défense de la liberté de pensée et des droits humains."
+   },
+   {
+    "terme": "Houthis",
+    "definition": "Mouvement yéménite pro-iranien, en conflit avec le gouvernement du Yémen et la coalition dirigée par l'Arabie saoudite."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Jeudi 22 octobre, le Parlement européen a attribué son prix Sakharov 2026 à la Cour pénale internationale.",
+   "reponse": true,
+   "explication": "Vrai : le lauréat est choisi par un vote des présidents des groupes politiques ; la CPI était finaliste avec les sœurs iraniennes Taraneh et Romina Rahimi et l'opposant tanzanien Tundu Lissu."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-23",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Reconstruction du sein : une radiothérapie de 3 semaines aussi sûre qu'une de 5",
+    "court": "Radiothérapie : 3 semaines au lieu de 5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Next_generation_CyberKnife_Machine_in_India.jpg/1280px-Next_generation_CyberKnife_Machine_in_India.jpg",
+    "legende": "Une machine de radiothérapie CyberKnife dans une salle de traitement (illustration)",
+    "chapeau": "Le 12 octobre 2026, les chercheurs de l'essai RT CHARM (Alliance A221505, financé par le National Cancer Institute américain) ont publié dans le Journal of Clinical Oncology les résultats d'un essai de phase 3 mené dans des centres des États-Unis et du Canada.",
+    "eclairage": "La radiothérapie après mastectomie. Elle vise les cellules cancéreuses qui pourraient rester dans la paroi du thorax. Elle est délivrée en « séances » (fractions) : le calendrier « hypofractionné » donne une dose un peu plus forte par séance, en moins de séances. Pourquoi la reconstruction complique le tableau. Les rayons peuvent abîmer les tissus d'une reconstruction, par implant ou avec la propre peau de la patiente. D'où la crainte qu'une cure plus courte ne soit moins sûre pour elle. « Non-inférieure », qu'est-ce que cela veut dire ? Le groupe court n'est pas meilleur, et 12,3 % n'est pas identique à 10,2 % : l'essai montre que l'écart reste dans une marge fixée à l'avance. Les sources consultées ne donnent pas cette marge. Le tirage au sort rend la comparaison solide, mais 3,9 ans de suivi reste court pour juger les récidives.",
+    "chiffres": [
+     {
+      "valeur": "898",
+      "legende": "femmes incluses (825 analysées)"
+     },
+     {
+      "valeur": "16 / 25",
+      "legende": "séances : cure courte contre standard"
+     },
+     {
+      "valeur": "12,3 %",
+      "legende": "complications (contre 10,2 %)"
+     }
+    ],
+    "passe": "Le 12 octobre 2026, les chercheurs de l'essai RT CHARM (Alliance A221505, financé par le National Cancer Institute américain) ont publié dans le Journal of Clinical Oncology les résultats d'un essai de phase 3 mené dans des centres des États-Unis et du Canada. Il comparait, chez des femmes opérées d'une mastectomie avec reconstruction du sein, deux calendriers de radiothérapie de la paroi du thorax : 16 séances sur environ 3 semaines, ou 25 séances sur 5 semaines, soit 9 séances de moins. Au total, 898 femmes ont été incluses entre 2018 et 2021, 825 ont été analysées, pour un âge médian de 46 ans. Les complications de la reconstruction, critère principal, ont touché 12,3 % des femmes du groupe court (52 sur 422) et 10,2 % du groupe standard (41 sur 403). Les auteurs concluent que la cure courte est sûre et non inférieure à la cure standard. À 3 ans, la récidive dans la paroi du thorax ou les ganglions proches est de 1,5 % contre 2,2 %, un écart non significatif, avec un suivi médian de 3,9 ans.",
+    "points": [],
+    "explication": "La radiothérapie après mastectomie. Elle vise les cellules cancéreuses qui pourraient rester dans la paroi du thorax. Elle est délivrée en « séances » (fractions) : le calendrier « hypofractionné » donne une dose un peu plus forte par séance, en moins de séances. Pourquoi la reconstruction complique le tableau. Les rayons peuvent abîmer les tissus d'une reconstruction, par implant ou avec la propre peau de la patiente. D'où la crainte qu'une cure plus courte ne soit moins sûre pour elle. « Non-inférieure », qu'est-ce que cela veut dire ? Le groupe court n'est pas meilleur, et 12,3 % n'est pas identique à 10,2 % : l'essai montre que l'écart reste dans une marge fixée à l'avance. Les sources consultées ne donnent pas cette marge. Le tirage au sort rend la comparaison solide, mais 3,9 ans de suivi reste court pour juger les récidives. Dans leur conclusion, ils écrivent qu'une cure hypofractionnée de 16 fractions est sûre et non inférieure à la radiothérapie conventionnelle (traduit de l'anglais).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1200/jco-26-00474",
+      "nom": "publication (DOI)"
+     },
+     {
+      "url": "https://www.curetoday.com/view/3-weeks-of-breast-radiation-as-safe-as-5-for-reconstruction",
+      "nom": "CURE"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-week-safe-option-breast-cancer.html",
+      "nom": "Medical Xpress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Matthew Poppe et al.",
+      "contexte": "premier auteur, Huntsman Cancer Institute (Université de l'Utah)",
+      "texte": "Dans leur conclusion, ils écrivent qu'une cure hypofractionnée de 16 fractions est sûre et non inférieure à la radiothérapie conventionnelle (traduit de l'anglais).",
+      "url": "https://www.curetoday.com/view/3-weeks-of-breast-radiation-as-safe-as-5-for-reconstruction",
+      "source": "CURE"
+     }
+    ],
+    "apres": "Un suivi plus long permettra de confirmer la maîtrise du cancer. Les sources consultées ne détaillent pas le ressenti des patientes ni l'aspect de la reconstruction.",
+    "change": "Pour les équipes de radiothérapie, c'est un argument pour proposer le calendrier court aux femmes qui ont une reconstruction, avec 9 séances et donc 9 déplacements de moins.",
+    "credit": {
+     "auteur": "BLK Cyberkife Hospital, New Delhi",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Next_generation_CyberKnife_Machine_in_India.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉTUDE",
+    "titre": "Choc septique : démarrer la vasopressine plus tôt ne change pas la survie",
+    "court": "Choc septique : vasopressine tôt ou tard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Syringe_infusion_pump.jpg/1280px-Syringe_infusion_pump.jpg",
+    "legende": "Un pousse-seringue électrique, appareil qui perfuse les médicaments en réanimation (illustration)",
+    "chapeau": "Le 14 octobre 2026, JAMA a publié l'essai VASSPR (Vasopressin for Septic Shock Pragmatic), conduit par Intermountain Health dans 13 hôpitaux de l'Utah et de l'Idaho.",
+    "eclairage": "Le choc septique. Une infection grave fait chuter la pression artérielle au point que les organes ne reçoivent plus assez de sang. Les médecins donnent des médicaments qui resserrent les vaisseaux, les vasopresseurs. La noradrénaline vient en premier ; la vasopressine peut s'y ajouter. La question posée. Il ne s'agissait pas de savoir si la vasopressine agit, mais à quel moment l'ajouter. Ce que prouve ce type d'essai. Le tirage au sort porte sur des hôpitaux entiers, en conditions de soins courants : le résultat reflète la pratique réelle. Les cliniciens pouvaient s'écarter de la stratégie assignée, ce qui peut atténuer une différence. Un « pas de différence notable » ne prouve pas l'équivalence exacte.",
+    "chiffres": [
+     {
+      "valeur": "3 959",
+      "legende": "adultes en choc septique"
+     },
+     {
+      "valeur": "13",
+      "legende": "hôpitaux de l'Utah et de l'Idaho"
+     },
+     {
+      "valeur": "28 jours",
+      "legende": "de suivi"
+     }
+    ],
+    "passe": "Le 14 octobre 2026, JAMA a publié l'essai VASSPR (Vasopressin for Septic Shock Pragmatic), conduit par Intermountain Health dans 13 hôpitaux de l'Utah et de l'Idaho. Entre février 2024 et juillet 2025, 3 959 adultes en choc septique ont été pris en charge selon l'une de deux stratégies, attribuées par hôpital en alternance : ajouter la vasopressine plus tôt, ou attendre que les doses du vasopresseur de première intention augmentent. À 28 jours, la survie, le temps vécu hors de l'hôpital et d'autres mesures de récupération ne diffèrent pas de façon notable entre les deux stratégies. Le choc cardiogénique est un peu plus fréquent dans le groupe « précoce », sans effet notable sur les critères centrés sur le patient. Les articles de presse consultés ne donnent ni les taux de mortalité ni les intervalles de confiance.",
+    "points": [],
+    "explication": "Le choc septique. Une infection grave fait chuter la pression artérielle au point que les organes ne reçoivent plus assez de sang. Les médecins donnent des médicaments qui resserrent les vaisseaux, les vasopresseurs. La noradrénaline vient en premier ; la vasopressine peut s'y ajouter. La question posée. Il ne s'agissait pas de savoir si la vasopressine agit, mais à quel moment l'ajouter. Ce que prouve ce type d'essai. Le tirage au sort porte sur des hôpitaux entiers, en conditions de soins courants : le résultat reflète la pratique réelle. Les cliniciens pouvaient s'écarter de la stratégie assignée, ce qui peut atténuer une différence. Un « pas de différence notable » ne prouve pas l'équivalence exacte. Il explique que la question n'était pas de savoir si la vasopressine fonctionne, et se demande s'il est sûr d'attendre l'aggravation du sepsis avant de donner des perfusions coûteuses dont le patient n'a peut-être pas besoin. Il répond que l'étude montre que c'est possible (propos traduits et résumés).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1001/jama.2026.21333",
+      "nom": "publication JAMA (DOI)"
+     },
+     {
+      "url": "https://www.news-medical.net/news/20261014/Early-vasopressin-use-does-not-improve-septic-shock-survival.aspx",
+      "nom": "News-Medical (communiqué Intermountain Health)"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-septic-trial-escalating-treatment-earlier.html",
+      "nom": "Medical Xpress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Ithan Peltan",
+      "contexte": "investigateur principal, médecin de réanimation, Intermountain Health",
+      "texte": "Il explique que la question n'était pas de savoir si la vasopressine fonctionne, et se demande s'il est sûr d'attendre l'aggravation du sepsis avant de donner des perfusions coûteuses dont le patient n'a peut-être pas besoin. Il répond que l'étude montre que c'est possible (propos traduits et résumés).",
+      "url": "https://www.news-medical.net/news/20261014/Early-vasopressin-use-does-not-improve-septic-shock-survival.aspx",
+      "source": "News-Medical"
+     }
+    ],
+    "apres": "Les résultats détaillés, par sous-groupe de patients, seront à lire dans l'article complet de JAMA. D'autres seuils et d'autres hôpitaux pourraient donner des résultats différents.",
+    "change": "Pour les équipes de réanimation, l'essai indique qu'attendre pour ajouter la vasopressine ne détériore pas les résultats mesurés à 28 jours, ce qui peut éviter des perfusions coûteuses à certains patients.",
+    "credit": {
+     "auteur": "Shyamal",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Syringe_infusion_pump.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Cannabis : plus d'hospitalisations cardiaques après la légalisation (États-Unis)",
+    "court": "Cannabis : légalisation et hospitalisations",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cannabis_Station.JPG/1280px-Cannabis_Station.JPG",
+    "legende": "Façade d'un magasin de cannabis à Denver, dans le Colorado",
+    "chapeau": "Une analyse publiée dans BMJ Open en octobre 2026 et relayée le 22 octobre compare les admissions à l'hôpital pour causes cardiovasculaires entre la région Ouest des États-Unis, où la vente légale de cannabis récréatif a commencé en janvier 2014, et des régions sans légalisation.",
+    "eclairage": "Comment lire ce type d'étude. La méthode dite de « différence de différences » compare l'évolution d'une région qui change de règle à celle de régions qui n'en changent pas. Elle réduit le risque de confondre la légalisation avec une tendance générale, sans l'éliminer. Ce qu'elle ne dit pas. Ce sont des admissions à l'hôpital de toute la population, pas des consommateurs suivis un à un : les sources consultées ne disent pas si les patients admis consommaient du cannabis. Corrélation n'est pas causalité, comme le rappellent les articles. Un recul limité. Les données s'arrêtent en 2018, avant les évolutions récentes des produits et des usages.",
+    "chiffres": [
+     {
+      "valeur": "50 M",
+      "legende": "dossiers d'hospitalisation"
+     },
+     {
+      "valeur": "+ 4 %",
+      "legende": "insuffisance cardiaque par an"
+     },
+     {
+      "valeur": "+ 3 %",
+      "legende": "infarctus par an"
+     }
+    ],
+    "passe": "Une analyse publiée dans BMJ Open en octobre 2026 et relayée le 22 octobre compare les admissions à l'hôpital pour causes cardiovasculaires entre la région Ouest des États-Unis, où la vente légale de cannabis récréatif a commencé en janvier 2014, et des régions sans légalisation. Elle s'appuie sur 50 042 564 dossiers de sortie d'hôpital de 2012 à 2018 (National Inpatient Sample). Après la légalisation, les admissions augmentent chaque année d'un peu plus de 2 % pour la fibrillation auriculaire (un trouble du rythme du cœur), de près de 4 % pour l'insuffisance cardiaque aiguë et d'un peu plus de 3 % pour l'infarctus. L'AVC ischémique, la thrombose veineuse et la tachycardie ventriculaire augmentent aussi, sans que ce soit statistiquement significatif. Les chercheurs n'ont pas pu analyser chaque État séparément, savoir comment le cannabis était consommé, ni tenir compte du cannabis illégal.",
+    "points": [],
+    "explication": "Comment lire ce type d'étude. La méthode dite de « différence de différences » compare l'évolution d'une région qui change de règle à celle de régions qui n'en changent pas. Elle réduit le risque de confondre la légalisation avec une tendance générale, sans l'éliminer. Ce qu'elle ne dit pas. Ce sont des admissions à l'hôpital de toute la population, pas des consommateurs suivis un à un : les sources consultées ne disent pas si les patients admis consommaient du cannabis. Corrélation n'est pas causalité, comme le rappellent les articles. Un recul limité. Les données s'arrêtent en 2018, avant les évolutions récentes des produits et des usages. Ils concluent que leurs résultats évoquent des effets négatifs possibles de la légalisation récréative sur la santé de la population, et qu'ils plaident pour une approche prudente des lois de légalisation (traduit de l'anglais).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1136/bmjopen-2025-111050",
+      "nom": "publication BMJ Open (DOI)"
+     },
+     {
+      "url": "https://www.news-medical.net/news/20261022/Study-links-recreational-cannabis-legalization-to-rising-heart-attack-admissions.aspx",
+      "nom": "News-Medical (source : groupe BMJ)"
+     },
+     {
+      "url": "https://medicalxpress.com/news/2026-10-cannabis-legalization-linked-cardiovascular-hospital.html",
+      "nom": "Medical Xpress"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Les chercheurs",
+      "contexte": "auteurs de l'étude, non nommés dans les articles consultés",
+      "texte": "Ils concluent que leurs résultats évoquent des effets négatifs possibles de la légalisation récréative sur la santé de la population, et qu'ils plaident pour une approche prudente des lois de légalisation (traduit de l'anglais).",
+      "url": "https://www.news-medical.net/news/20261022/Study-links-recreational-cannabis-legalization-to-rising-heart-attack-admissions.aspx",
+      "source": "News-Medical"
+     }
+    ],
+    "apres": "D'autres études, par État et avec des données plus récentes, seraient nécessaires pour confirmer ou nuancer ce lien.",
+    "change": "L'étude alimente le débat sur les effets de la légalisation sur la santé publique, sans permettre de dire qu'un consommateur donné a un risque précis. Pour une personne concernée, la question se pose avec son médecin.",
+    "credit": {
+     "auteur": "Jeffrey Beall",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Cannabis_Station.JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Bépirovirsen (hépatite B, Ionis et GSK) : date de décision de la FDA, selon un calendrier de décisions du site RTTNews."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Essai de non-infériorité",
+    "definition": "Essai qui cherche à montrer qu'un traitement n'est pas moins bon qu'un autre, dans une marge fixée à l'avance, par exemple parce qu'il est plus court ou plus simple."
+   },
+   {
+    "terme": "Hypofractionnement",
+    "definition": "En radiothérapie, donner une dose un peu plus forte à chaque séance pour réduire le nombre de séances."
+   },
+   {
+    "terme": "Essai randomisé par grappes",
+    "definition": "Le tirage au sort porte sur des groupes entiers, comme des hôpitaux, et non sur des patients un à un."
+   },
+   {
+    "terme": "Différence de différences",
+    "definition": "Méthode qui compare l'évolution d'une région touchée par un changement à celle de régions non touchées, pour isoler l'effet du changement."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai RT CHARM, la cure courte de radiothérapie (16 séances) a causé moins de complications de la reconstruction du sein que la cure standard (25 séances).",
+   "reponse": false,
+   "explication": "C'est faux : les complications ont touché 12,3 % des femmes du groupe court et 10,2 % du groupe standard. L'essai conclut que la cure courte est non inférieure, c'est-à-dire pas moins sûre dans la marge prévue, et non qu'elle fait mieux."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-22",
   "minutes": 13,
   "sujets": [

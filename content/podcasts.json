@@ -1,5 +1,179 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-23",
+  "url": "/podcasts/politique-2026-10-23.mp3",
+  "taille": 3044146,
+  "duree": 254,
+  "titre": "Éclairage politique, vendredi 23 octobre 2026",
+  "titre_episode": "Matignon, manifestations, retraites à 62 ans, congrès du RN : l'essentiel du vendredi 23 octobre",
+  "description": "Ce vendredi 23 octobre, Léa et Paul reprennent 4 sujets.\n• Matignon : les partis sont reçus après les violences du 17 octobre, sans mesure concrète rapportée.\n• Manifestations : Macron veut interdire celles qui ne sont pas syndicales, un recours est déposé devant le Conseil d'État.\n• Retraites : les députés votent un départ à 62 ans après 42 ans cotisés, vote non définitif.\n• Congrès du RN : Orléans attend jusqu'à 25 000 contre-manifestants samedi.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Matignon : les partis reçus, sans mesure annoncée"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Manifestations : Macron veut interdire celles qui ne sont pas syndicales"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Budget de la Sécu : les députés votent un départ à 62 ans, sous conditions"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Congrès du RN à Orléans : jusqu'à 25 000 manifestants attendus samedi"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, on est le vendredi vingt-trois octobre, et voici l'essentiel de l'actualité politique. Avec moi, Paul."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa. Quatre sujets France aujourd'hui, et on commence par Matignon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une réunion de trois heures, des responsables de presque tous les partis, et zéro mesure concrète rapportée à la sortie. Qu'est-ce qui s'est passé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, Sébastien Lecornu a reçu les partis, après les violences du dix-sept octobre. Les ministres Laurent Nuñez et Gérald Darmanin étaient là. Marine Le Pen et Jordan Bardella ne sont pas venus : le RN était représenté par Edwige Diaz et Louis Aliot."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le contenu de la réunion ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Surtout la doctrine de maintien de l'ordre. Plusieurs participants de gauche l'ont jugée technique. Marine Tondelier a demandé : « De qui se moque-t-on ». Raphaël Glucksmann dit n'avoir pas obtenu de réponses claires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et de l'autre côté de l'échiquier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau a regretté que l'état d'urgence ne soit pas décrété. Le RN, lui, dit avoir reçu des garanties pour la sécurité de son congrès. À retenir : aucune mesure concrète n'a été rapportée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de sujet, mais même fil rouge. Emmanuel Macron et les manifestations de ce week-end."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, après un conseil de sécurité à l'Élysée, le président a dit que la recommandation générale était qu'il n'y ait pas de manifestation dans les jours à venir. Les cortèges syndicaux auront des tracés alternatifs. Pour les autres, il a dit : « partout où on le peut, on interdira »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça donne quoi samedi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À Paris, le cortège de l'intersyndicale entre Bastille et Nation est autorisé. Celui des gilets jaunes et d'Interfac, entre Bastille et Opéra, est refusé. Lyon, Marseille et les Bouches-du-Rhône interdisent les manifestations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la porte-parole du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Maud Bregeon a précisé que les interdictions seront décidées au cas par cas, avec des recours possibles devant le juge administratif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y en a déjà un, de recours ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Jeudi soir, l'Association de défense des libertés constitutionnelles et le Syndicat de la magistrature ont saisi le Conseil d'État, en référé-liberté. Ils contestent la compétence du président et la distinction entre organisateurs. Un conseiller de l'exécutif répond que c'est le préfet qui décide."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le Conseil d'État doit trancher vite."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a quarante-huit heures. À retenir : le premier test, c'est samedi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file à l'Assemblée. Quarante-cinq voix contre trente-six : c'est le score d'un amendement sur les retraites."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, pendant l'examen du budget de la Sécurité sociale, les députés ont adopté un amendement des Écologistes, défendu par Sandrine Rousseau. Il permettrait de cesser de travailler dès soixante-deux ans, avec cent soixante-huit trimestres, donc quarante-deux ans de cotisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais l'âge légal ne change pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. L'employeur verserait un revenu équivalent à la pension jusqu'à l'âge légal, compensé par une exonération de cotisations. Le texte contourne le relèvement à soixante-quatre ans, sans abroger la réforme de deux mille vingt-trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre du Travail, Jean-Pierre Farandou, a lancé : « Qu'est-ce qu'elles vous ont fait, les entreprises ? ». Thibault Bazin, le rapporteur général, juge la mesure symbolique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, c'est acquis ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas du tout. Le vote n'est pas définitif. L'adoption du budget dans son ensemble paraît incertaine, et le vote solennel est prévu mardi vingt-sept octobre. Avec le quarante-neuf trois, la mesure serait sans doute écartée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet France : Orléans, ce week-end."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le RN y tient son congrès. Samedi, environ cinq mille personnes sont attendues, et la réélection de Jordan Bardella est attendue. Dimanche, Marine Le Pen tient un meeting pour lancer sa campagne présidentielle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et dans la rue ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une contre-manifestation est appelée samedi matin par une cinquantaine d'organisations. L'AFP l'évalue entre vingt mille et vingt-cinq mille personnes. Laurent Nuñez annonce un dispositif de maintien de l'ordre important, et une manifestation prévue dimanche près du palais des congrès a été refusée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi un volet budgétaire, côté RN."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Dans son contre-budget, le RN prévoit deux milliards d'euros d'économies dès deux mille vingt-sept, en baissant les subventions de l'État aux associations qui ne relèvent pas de l'intérêt général."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci Paul. Un dernier mot pour l'Europe : jeudi, le Parlement européen a attribué le prix Sakharov à la Cour pénale internationale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Une décision qui arrive après les sanctions américaines annoncées le neuf octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-22",
   "url": "/podcasts/essentiel-2026-10-22.mp3",
