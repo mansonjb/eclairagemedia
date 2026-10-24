@@ -1,5 +1,211 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-24",
+  "url": "/podcasts/politique-2026-10-24.mp3",
+  "taille": 2665788,
+  "duree": 222,
+  "titre": "Éclairage politique, samedi 24 octobre 2026",
+  "titre_episode": "Trappes, manifestations, budget de la Sécu, Parcoursup : l'essentiel du samedi 24 octobre",
+  "description": "Ce samedi 24 octobre, Léa et Paul reprennent 4 sujets.\n• Trappes : un tireur fait un mort, le parquet antiterroriste est saisi, et l'épisode explique ce que cela signifie.\n• Manifestations : 70 000 policiers et gendarmes mobilisés, et l'épisode explique qui décide des interdictions.\n• Budget de la Sécu : l'Assemblée rejette le volet recettes, et l'épisode explique la suite.\n• Lycéens : Emmanuel Macron reconnaît le besoin d'une refonte de Parcoursup.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Trappes : un tireur fait un mort, le parquet antiterroriste est saisi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "24 octobre : 70 000 policiers mobilisés, des cortèges encadrés ou interdits"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Budget de la Sécu : l'Assemblée rejette le volet recettes, texte au Sénat"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Lycéens : Macron reconnaît le besoin d'une refonte de Parcoursup"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Éclairage politique, samedi vingt-quatre octobre. Moi, c'est Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Quatre sujets aujourd'hui, et on commence par un drame."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Hier matin, vers dix heures trente, un homme a tiré en rafale depuis une voiture à Trappes, puis à La Verrière, dans les Yvelines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bilan : une personne tuée, un jeune homme de vingt-six ans. Quatre ou cinq blessés selon les sources, dont une fillette de douze ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le suspect ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un homme de trente-neuf ans, arrêté à Coignières moins de dix minutes après les premiers appels. Il est en garde à vue, et il est présumé innocent tant qu'il n'a pas été jugé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le parquet national antiterroriste s'est saisi. Autrement dit, c'est traité comme une affaire de terrorisme ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Le PNAT enquête pour assassinat en relation avec une entreprise terroriste, avec la circonstance d'un motif raciste. Et selon lui, le domicile du suspect était piégé avec des bouteilles de gaz et un minuteur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Emmanuel Macron a parlé d'un tournant."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Il a dit, je cite : « C'est un tournant parce que c'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes ». Le mobile exact, lui, reste à établir par l'enquête."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le parquet antiterroriste est saisi, le suspect est en garde à vue, l'enquête commence."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor : les manifestations de ce samedi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soixante-dix mille policiers et gendarmes mobilisés. Soixante-dix mille ! Contre soixante mille le dix-sept octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avec le Raid, le GIGN et la BRI pour protéger les bâtiments publics, une vingtaine de blindés, des hélicoptères et des drones. Le ministre de l'Intérieur, Laurent Nuñez, promet d'être, je cite, « intraitable avec les casseurs »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les manifestants, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À Paris, un seul cortège syndical est autorisé, sur un parcours modifié. À Marseille, l'intersyndicale est autorisée à titre dérogatoire. À Lyon, c'est interdit dans une large partie du centre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui décide d'interdire ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le préfet, par arrêté, s'il juge le risque pour l'ordre public trop élevé. Et on peut contester en référé devant le juge administratif, qui statue en urgence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'ailleurs, le Conseil d'État avait été saisi jeudi soir. A-t-il tranché ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas de décision relevée par nos sources au moment de l'écriture. On suit ça."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le point à retenir : un dispositif massif, des cortèges encadrés ou interdits, et des recours en cours."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On file à l'Assemblée nationale, pour le budget de la Sécurité sociale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vendredi, les députés ont rejeté la partie recettes du texte. Cent quinze voix contre, une seule pour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et c'est là que ça devient intéressant. Sans recettes adoptées, on ne peut pas examiner les dépenses. L'examen s'arrête."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le texte est mort ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Il part au Sénat dans sa version initiale, celle du gouvernement. Les sénateurs l'examineront à partir du neuf novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, donc les modifications des députés disparaissent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le mécanisme de la procédure. Les députés avaient supprimé l'essentiel des mesures du texte, et selon LCP, la version issue des débats portait le déficit à vingt-quatre milliards d'euros pour 2027, contre douze virgule sept milliards visés par le gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ensuite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre pourrait recourir à l'article quarante-neuf trois, qui permet d'adopter un texte sans vote, ou à des ordonnances. Rien n'est annoncé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : volet recettes rejeté, texte au Sénat dès le neuf novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier sujet : les lycéens."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vendredi, Emmanuel Macron a reçu à l'Élysée une vingtaine de représentants lycéens pendant près de trois heures."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon son entourage, il a reconnu un « besoin d'une refonte en profondeur de Parcoursup »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Parcoursup, pour ceux qui l'ignorent ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La plateforme nationale où les lycéens formulent leurs vœux d'études supérieures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Des mesures précises ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas à ce stade. L'entourage promet des « décisions concrètes » lundi, après la rencontre des lycéens avec le Premier ministre, Sébastien Lecornu."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les lycéens, satisfaits ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Globalement satisfaits de l'écoute, mais ils demandent toujours l'abrogation de Parcoursup et appellent à rester mobilisés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une refonte reconnue, des décisions attendues lundi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour aujourd'hui. Demain, le congrès du Rassemblement national se poursuit à Orléans, et le Brésil vote pour son second tour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com. Bon week-end."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-23",
   "url": "/podcasts/essentiel-2026-10-23.mp3",

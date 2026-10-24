@@ -1,6 +1,849 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-10-24",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "France : Moody's maintient la note Aa3, la perspective reste négative",
+    "court": "France : Moody's ne dégrade pas la note",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_Mars_2022.jpg/1280px-Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_Mars_2022.jpg",
+    "legende": "Le ministère de l'Économie et des Finances à Bercy, au bord de la Seine (illustration)",
+    "chapeau": "Vendredi 23 octobre, Moody's a maintenu la note de crédit de la France à Aa3, assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à un abaissement à A1, selon Reuters. L'agence précise que sa note « repose sur l'hypothèse qu'un budget réduisant le déficit sera adopté pour 2027 ».",
+    "eclairage": "Que change (ou pas) la note d'un État ?",
+    "chiffres": [
+     {
+      "valeur": "Aa3",
+      "legende": "note de Moody's, perspective négative"
+     },
+     {
+      "valeur": "5,04 %",
+      "legende": "rendement à 10 ans, vendredi matin"
+     },
+     {
+      "valeur": "5,4 %",
+      "legende": "déficit public 2026 attendu, en % du PIB"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, Moody's a maintenu la note de crédit de la France à Aa3, assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à un abaissement à A1, selon Reuters. L'agence précise que sa note « repose sur l'hypothèse qu'un budget réduisant le déficit sera adopté pour 2027 ». Moody's est la dernière des trois grandes agences à noter la France dans la catégorie Aa : S&P et Fitch la notent A+. Le déficit public est attendu à 5,4 % du PIB en 2026 et à 5,0 % en 2027, la dette à 121,7 % du PIB en 2027. Dans la semaine, le rendement des obligations françaises à 10 ans a dépassé 5 % pour la première fois depuis 2002 ; vendredi matin, il s'établissait à 5,04 % et l'écart avec le taux allemand à 1,71 point, contre près de 1,74 point jeudi, son plus haut niveau depuis 2011, selon l'AFP.",
+    "points": [],
+    "explication": "Une note souveraine est le jugement d'une agence sur la capacité d'un État à rembourser ses dettes. Plus elle est basse, plus les prêteurs peuvent demander un taux élevé. La perspective négative signale que l'agence voit un risque d'abaissement à venir : ici, le maintien de la note est conditionné à l'adoption d'un budget 2027. L'écart de taux (« spread ») avec l'Allemagne mesure la prime que le marché demande à la France pour lui prêter à 10 ans plutôt qu'à l'État allemand. Une note n'agit pas mécaniquement sur les taux : le marché fixe le rendement, et la note est l'un des éléments qu'il regarde.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-52e9ef42bff0b0b16c1ab1b8c10ca511",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.lespritfr.com/2026/10/24/moodys-note-france-aa3-repit-budget-2027/",
+      "nom": "L'Esprit FR"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-apres-des-resultats-en-cascade-339b1c7fea75df888ae3f3c88da74104",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/france-avoids-moody-s-downgrade-in-reprieve-after-week-of-crisis",
+      "nom": "Bloomberg"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTRES",
+      "qui": "Moody's",
+      "contexte": "agence de notation, communiqué du 23 octobre",
+      "texte": "La note « repose sur l'hypothèse qu'un budget réduisant le déficit sera adopté pour 2027 », indique l'agence.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-52e9ef42bff0b0b16c1ab1b8c10ca511",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie",
+      "texte": "Il prend acte de la décision et y voit « la reconnaissance de la solidité de notre économie ». Le Premier ministre Sébastien Lecornu estime, selon Reuters, que l'annonce contredit les pronostics de nombreux experts et appelle à un budget d'ici la fin de l'année.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-52e9ef42bff0b0b16c1ab1b8c10ca511",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Ipek Ozkardeskaya",
+      "contexte": "Swissquote Bank, citée par l'AFP",
+      "texte": "« Les turbulences françaises ne se sont pas encore transformées en une véritable crise de la dette européenne ».",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-apres-des-resultats-en-cascade-339b1c7fea75df888ae3f3c88da74104",
+      "source": "AFP via Boursorama"
+     }
+    ],
+    "apres": "S&P Global Ratings doit réexaminer la note de la France le 27 novembre, selon Selectra. Moody's attend l'adoption d'un budget 2027 réduisant le déficit, que le gouvernement souhaite voir voté d'ici la fin de l'année.",
+    "change": "Pour l'État, le maintien de la note évite un abaissement, mais la perspective négative reste et le coût de la dette dépend des marchés (5,04 % à 10 ans vendredi matin).",
+    "credit": {
+     "auteur": "Arthur Weidmann",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_Mars_2022.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "INDUSTRIE",
+    "titre": "Safran : ventes de 9 Md€ au T3, mais pas de relèvement des objectifs",
+    "court": "Safran : +13,4 %, objectifs non relevés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg/1280px-CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg",
+    "legende": "Un moteur LEAP-1B (CFM International, filiale commune de Safran et GE Aerospace) sur un Boeing 737 MAX (illustration)",
+    "chapeau": "Vendredi 23 octobre, Safran a publié son activité du troisième trimestre : un chiffre d'affaires ajusté d'environ 9 milliards d'euros, en hausse de 14,7 % sur un an et de 13,4 % en organique, au-dessus du consensus (8,99 milliards d'euros selon Reuters, 8,92 selon Zonebourse).",
+    "eclairage": "Pourquoi l'après-vente pèse-t-il autant pour un motoriste ?",
+    "chiffres": [
+     {
+      "valeur": "9 Md€",
+      "legende": "chiffre d'affaires du T3"
+     },
+     {
+      "valeur": "+13,4 %",
+      "legende": "croissance organique"
+     },
+     {
+      "valeur": "+17 %",
+      "legende": "pièces de rechange (+26,7 % au T2)"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, Safran a publié son activité du troisième trimestre : un chiffre d'affaires ajusté d'environ 9 milliards d'euros, en hausse de 14,7 % sur un an et de 13,4 % en organique, au-dessus du consensus (8,99 milliards d'euros selon Reuters, 8,92 selon Zonebourse). La division Propulsion, plus de la moitié des ventes, progresse de 13,2 % en organique, dont 18,7 % pour l'après-vente. Selon Zonebourse, les ventes de pièces de rechange des moteurs civils augmentent de 17 % contre 26,7 % au deuxième trimestre, et les services de 19 % contre 37,7 %. Le groupe n'a pas relevé ses prévisions annuelles, ce que l'AFP présente comme la déception des investisseurs. L'action a perdu 6,49 % à 282,30 euros en début de séance, puis a clôturé en baisse de 10,00 % à 271,80 euros. Selon Reuters, des investisseurs craignent un ralentissement des pièces de rechange jusqu'en 2027, des compagnies aériennes réduisant leurs capacités face à la hausse du prix du carburant.",
+    "points": [],
+    "explication": "Un motoriste vend d'abord des moteurs neufs (la « première monte », ou OE), puis fournit pendant des années les pièces de rechange et la maintenance de ceux qui volent : c'est l'après-vente. Quand le parc de moteurs en service grandit, cette activité récurrente grandit aussi, ce qui explique l'attention des investisseurs. Ici, la croissance de l'après-vente reste positive (+17 %), mais elle ralentit par rapport au deuxième trimestre (+26,7 %). Un taux de croissance plus bas ne signifie pas des ventes en baisse : c'est le rythme qui change, et les analystes divergent sur la cause (effet de base défavorable, ou moins de contenu dans chaque opération de maintenance).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/safran-chute-en-bourse-malgre-des-ventes-en-hausse-de-13-au-t3-2e3db50c3b075c36a1a5738436256dad",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/safran-chute-de-pres-de-7-en-bourse-malgre-des-ventes-en-hausse-de-13-4-_704801",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/safran-chute-en-bourse-le-ralentissement-de-l-apres-vente-refroidit-les-marches-ce785cded08cf527",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-apres-des-resultats-en-cascade-339b1c7fea75df888ae3f3c88da74104",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://news.jkn.co.kr/editions/french/post/1045061",
+      "nom": "JKN (clôture du CAC 40)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Safran",
+      "contexte": "communiqué du 23 octobre, cité par Reuters",
+      "texte": "La croissance est « portée par la montée en cadence de la production et la solide dynamique de l'après-vente pour moteurs civils ». Son directeur général Olivier Andriès estime que « nos activités bénéficient d'un marché porteur » dans la défense.",
+      "url": "https://www.boursorama.com/bourse/actualites/safran-chute-en-bourse-malgre-des-ventes-en-hausse-de-13-au-t3-2e3db50c3b075c36a1a5738436256dad",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "AlphaValue, Bernstein, Berenberg",
+      "contexte": "selon Zonebourse",
+      "texte": "AlphaValue déplore « le ralentissement de la dynamique de l'après-vente et l'absence de relèvement des prévisions ». Bernstein y voit une baisse du contenu des opérations de maintenance, Berenberg un effet de base défavorable, et Jefferies attend des précisions sur 2027.",
+      "url": "https://www.zonebourse.com/actualite-bourse/safran-chute-en-bourse-le-ralentissement-de-l-apres-vente-refroidit-les-marches-ce785cded08cf527",
+      "source": "Zonebourse"
+     }
+    ],
+    "apres": "Les analystes attendent des précisions de Safran sur 2027, selon Zonebourse, et le groupe n'a pas modifié ses prévisions annuelles.",
+    "change": "Pour les actionnaires, le titre perd une partie de sa valeur sur une journée alors que les ventes dépassent le consensus.",
+    "credit": {
+     "auteur": "Thyrome",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Kering : Gucci recule au T3, l'action chute de 16,6 % vendredi",
+    "court": "Kering : Gucci pèse, l'action perd 16,6 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gucci_store_at_PKX_2F_%2820190926161028%29.jpg/1280px-Gucci_store_at_PKX_2F_%2820190926161028%29.jpg",
+    "legende": "Une boutique Gucci dans l'aéroport de Pékin-Daxing, en Chine (illustration)",
+    "chapeau": "Jeudi 22 octobre, Kering a publié un chiffre d'affaires d'environ 3,3 milliards d'euros pour le troisième trimestre, en baisse de 1 % à données comparables.",
+    "eclairage": "Pourquoi une baisse de 4 % des ventes d'une marque fait-elle chuter l'action de 16 % ?",
+    "chiffres": [
+     {
+      "valeur": "-1 %",
+      "legende": "ventes du groupe, données comparables"
+     },
+     {
+      "valeur": "-16,6 %",
+      "legende": "action vendredi, à 178,12 €"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, Kering a publié un chiffre d'affaires d'environ 3,3 milliards d'euros pour le troisième trimestre, en baisse de 1 % à données comparables. Les ventes de Gucci s'établissent à 1,29 milliard d'euros, en baisse de 4 % en données publiées et de 6 % à données comparables, avec une fréquentation en recul dans les magasins, surtout en Chine, selon Reuters. La directrice financière, Armelle Poulou, déclare qu'il y a « encore beaucoup de travail à faire en Chine ». Gucci pèse près de la moitié du résultat opérationnel du groupe, d'après Reuters. Vendredi 23 octobre, l'action Kering a clôturé en baisse de 16,57 % à 178,12 euros, la plus forte baisse du CAC 40. Le directeur général Luca de Meo vise un doublement de la marge opérationnelle d'ici la fin de la décennie, à partir de 11,1 % en 2025 ; Reuters indique que le groupe a fermé 105 magasins depuis le début de l'année et en anticipe au moins 125 fermetures nettes sur 2026.",
+    "points": [],
+    "explication": "Le cours d'une action reflète ce que les investisseurs attendent des bénéfices futurs, pas seulement le chiffre d'affaires passé. Gucci pèse près de la moitié du résultat opérationnel de Kering : le marché lit donc chaque trimestre de cette marque comme un indicateur de la santé de tout le groupe. Autre repère : les données comparables (-6 % pour Gucci) écartent les effets de change et de périmètre, alors que les données publiées (-4 %) les intègrent. La marge opérationnelle (11,1 % en 2025) est la part du chiffre d'affaires qui reste après les coûts d'exploitation : c'est elle que le plan de redressement veut doubler.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/kering-le-recul-des-ventes-de-gucci-au-t3-pese-sur-les-espoirs-de-relance-ad90cde6c368fb091c44880926cfed2d",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/les-ventes-de-kering-restent-stables-au-3e-trimestre-mais-gucci-pese-cc9f5c2d85079ce5927195bf8c52690f",
+      "nom": "Boursorama (ventes du T3)"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/le-recul-des-ventes-de-gucci-s-accentue-au-t3-pesant-sur-les-espoirs-de-relance-ce785cdedc89f624",
+      "nom": "Zonebourse"
+     },
+     {
+      "url": "https://news.jkn.co.kr/editions/french/post/1045061",
+      "nom": "JKN (clôture du CAC 40)"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-recule-apres-des-resultats-en-cascade-339b1c7fea75df888ae3f3c88da74104",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Armelle Poulou",
+      "contexte": "directrice financière de Kering",
+      "texte": "Elle déclare : « Nous poursuivons l'exécution de notre plan avec la plus grande discipline ». Interrogée sur un retour à la croissance cette année, elle renvoie aux résultats annuels, selon Reuters.",
+      "url": "https://www.boursorama.com/bourse/actualites/kering-le-recul-des-ventes-de-gucci-au-t3-pese-sur-les-espoirs-de-relance-ad90cde6c368fb091c44880926cfed2d",
+      "source": "Reuters via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Analystes",
+      "contexte": "non nommés, selon Reuters",
+      "texte": "Ils estiment que les seules mesures d'efficacité ne suffiront pas à relancer des marques qui ont perdu de leur attrait.",
+      "url": "https://www.boursorama.com/bourse/actualites/kering-le-recul-des-ventes-de-gucci-au-t3-pese-sur-les-espoirs-de-relance-ad90cde6c368fb091c44880926cfed2d",
+      "source": "Reuters via Boursorama"
+     }
+    ],
+    "apres": "Armelle Poulou renvoie la question du retour à la croissance aux résultats annuels de Kering. Luca de Meo décrit la transformation comme un travail sur plusieurs saisons.",
+    "change": "Pour Kering, le plan de redressement repose sur une réduction du réseau de magasins et sur Gucci, dont la reprise n'est pas datée. Pour les actionnaires, la baisse de vendredi efface une part importante de la valeur du titre en une séance.",
+    "credit": {
+     "auteur": "N509FZ",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Gucci_store_at_PKX_2F_(20190926161028).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "L'Oréal : ventes de 11,6 Md€ au T3, en hausse de 11,9 %",
+    "court": "L'Oréal : ventes +11,9 % au T3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/L%27Or%C3%A9al%2C_promotion_in_D%C3%BCsseldorf%2C_September_2025.jpg/1280px-L%27Or%C3%A9al%2C_promotion_in_D%C3%BCsseldorf%2C_September_2025.jpg",
+    "legende": "Un stand promotionnel L'Oréal Paris à Düsseldorf, en septembre 2025 (illustration)",
+    "chapeau": "Jeudi 22 octobre, L'Oréal a publié un chiffre d'affaires de 11,6 milliards d'euros pour le troisième trimestre, en hausse de 11,9 % en données publiées et de 7,2 % à données comparables, au-dessus des attentes du marché.",
+    "eclairage": "Croissance publiée, croissance comparable : quelle différence ?",
+    "chiffres": [
+     {
+      "valeur": "+11,9 %",
+      "legende": "croissance publiée"
+     },
+     {
+      "valeur": "+7,2 %",
+      "legende": "croissance à données comparables"
+     }
+    ],
+    "passe": "Jeudi 22 octobre, L'Oréal a publié un chiffre d'affaires de 11,6 milliards d'euros pour le troisième trimestre, en hausse de 11,9 % en données publiées et de 7,2 % à données comparables, au-dessus des attentes du marché. Selon Reuters, le consensus Visible Alpha attendait une croissance comparable de 5,9 % (7,7 % une fois corrigée d'un effet de calendrier lié à la transformation informatique du groupe). Toutes les divisions progressent : produits professionnels +19,1 % (1,5 milliard d'euros), dermatologie +15,7 % (1,9 milliard), luxe +12,3 % (4,2 milliards, porté par les parfums dont Creed, récemment acquis) et grand public +7,5 % (4 milliards). L'Asie du Nord progresse de 14,1 % à 2,2 milliards d'euros, tirée par la Chine, l'Europe de 13,2 % et l'Amérique du Nord de 6 %. Le groupe affirme progresser en Chine « trois fois plus vite que le marché » depuis le début de l'année. Vendredi 23 octobre, l'action gagnait 3,81 % à 428,90 euros en début de séance, selon l'AFP, et environ 5 % en début d'après-midi, selon BFM Bourse.",
+    "points": [],
+    "explication": "La croissance publiée (+11,9 %) est celle qui figure dans les comptes : elle inclut les variations de change et les acquisitions. La croissance à données comparables (+7,2 %) les écarte, pour mesurer ce que les marques vendent réellement de plus à périmètre identique. Le consensus est la prévision moyenne des analystes avant la publication : une entreprise le « bat » quand elle fait mieux, ce que L'Oréal a fait ici (+7,7 % ajusté contre 5,9 % attendu, selon Reuters). Le communiqué ne donne que les ventes : marges et bénéfices ne seront connus qu'aux résultats annuels.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/l-oreal-les-ventes-bondissent-au-3e-trimestre-tirees-par-l-ensemble-des-divisions-68c889a8f501fd2ca7d35e12a9ea00ac",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/newsContent/704741",
+      "nom": "ABC Bourse (Reuters)"
+     },
+     {
+      "url": "https://fr.fashionnetwork.com/news/L-oreal-croissance-des-ventes-a-deux-chiffres-au-troisieme-trimestre,1878432.html",
+      "nom": "FashionNetwork"
+     },
+     {
+      "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-plombe-par-l-oreal-et-safran-le-cac-40-reperd-encore-du-terrain-1172362.html",
+      "nom": "BFM Bourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Nicolas Hieronimus",
+      "contexte": "directeur général de L'Oréal",
+      "texte": "« L'Oréal réalise un troisième trimestre exceptionnel », déclare-t-il, ajoutant que « une fois de plus, le marché mondial de la beauté démontre sa résilience dans un contexte difficile ». Il réitère sa confiance dans « une nouvelle année de croissance », sans chiffrage.",
+      "url": "https://www.boursorama.com/bourse/actualites/l-oreal-les-ventes-bondissent-au-3e-trimestre-tirees-par-l-ensemble-des-divisions-68c889a8f501fd2ca7d35e12a9ea00ac",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Visible Alpha",
+      "contexte": "consensus cité par Reuters",
+      "texte": "Les analystes interrogés attendaient une croissance comparable de 5,9 % au troisième trimestre ; le groupe annonce 7,2 % (7,7 % ajusté).",
+      "url": "https://www.abcbourse.com/marches/newsContent/704741",
+      "source": "ABC Bourse (Reuters)"
+     }
+    ],
+    "apres": "Marges et bénéfices seront publiés avec les résultats annuels ; le groupe se dit confiant dans une nouvelle année de croissance de ses ventes et de sa rentabilité.",
+    "change": "Pour L'Oréal, la demande en Chine, qui avait pesé sur les trimestres précédents, soutient désormais les ventes. Pour les actionnaires, le titre progresse vendredi à l'inverse de Kering et de Safran.",
+    "credit": {
+     "auteur": "Kürschner",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:L%27Or%C3%A9al,_promotion_in_D%C3%BCsseldorf,_September_2025.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Perspective (d'une note)",
+    "definition": "Indication donnée par l'agence sur la direction probable de la note : négative, elle signale un risque d'abaissement futur."
+   },
+   {
+    "terme": "Rendement d'une obligation",
+    "definition": "Taux d'intérêt demandé par les prêteurs à un État ou à une entreprise pour lui prêter de l'argent sur une durée donnée."
+   },
+   {
+    "terme": "Données comparables",
+    "definition": "Croissance des ventes à périmètre et taux de change identiques, sans l'effet des devises ni des rachats ou cessions."
+   },
+   {
+    "terme": "Après-vente",
+    "definition": "Pièces de rechange et services vendus pour entretenir un équipement déjà en service, comme un moteur d'avion."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 23 octobre 2026, l'agence Moody's a abaissé la note de crédit de la France à A1.",
+   "reponse": false,
+   "explication": "Moody's a maintenu la note à Aa3, avec une perspective négative, alors que la plupart des analystes attendaient un abaissement à A1, selon Reuters."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-10-24",
+  "minutes": 14,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "JUSTICE",
+    "titre": "Trappes : un tireur fait un mort, le parquet antiterroriste est saisi",
+    "court": "Trappes : un mort, le PNAT saisi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trappes_Mairie.JPG/1280px-Trappes_Mairie.JPG",
+    "legende": "La mairie de Trappes (Yvelines) (illustration)",
+    "chapeau": "Vendredi 23 octobre, vers 10 h 30, un homme a tiré en rafale depuis une voiture à Trappes puis à La Verrière (Yvelines). Une personne, un jeune homme de 26 ans, a été tuée ; les sources font état de quatre ou cinq blessés, dont une fillette de 12 ans.",
+    "eclairage": "Le parquet national antiterroriste, c'est quoi ?",
+    "chiffres": [
+     {
+      "valeur": "1",
+      "legende": "personne tuée"
+     },
+     {
+      "valeur": "4 à 5",
+      "legende": "blessés selon les sources"
+     },
+     {
+      "valeur": "39 ans",
+      "legende": "âge du suspect (garde à vue)"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, vers 10 h 30, un homme a tiré en rafale depuis une voiture à Trappes puis à La Verrière (Yvelines). Une personne, un jeune homme de 26 ans, a été tuée ; les sources font état de quatre ou cinq blessés, dont une fillette de 12 ans. Un homme de 39 ans a été arrêté à Coignières par des policiers de la brigade anticriminalité, moins de dix minutes après les premiers appels, et placé en garde à vue ; un proche l'est aussi. Le parquet national antiterroriste (PNAT) s'est saisi : l'enquête porte sur un assassinat en relation avec une entreprise terroriste et des tentatives d'assassinat, avec la circonstance d'un motif raciste, ethnique, national ou religieux. Selon le PNAT, le domicile du suspect, à Plaisir, était piégé avec des bouteilles de gaz et un minuteur. Le ministre de l'Intérieur, Laurent Nuñez, parle d'un « crime terroriste » ; Emmanuel Macron a évoqué un attentat commis sur la base d'une idéologie raciste. Le mobile exact reste à établir par l'enquête, et le suspect est présumé innocent tant qu'il n'a pas été jugé.",
+    "points": [
+     "Le PNAT est le parquet spécialisé, basé à Paris, qui se saisit des affaires de terrorisme.",
+     "Sa saisine ne vaut pas condamnation : elle ouvre une enquête, menée sous son autorité.",
+     "La garde à vue permet aux enquêteurs de retenir un suspect ; à son terme, il est libéré ou présenté à un juge.",
+     "Le bilan varie selon les sources : quatre blessés dans le communiqué du PNAT cité par France 24, cinq dans d'autres récits."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "nom": "France 24 (avec AFP)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+      "nom": "France 24 (PNAT)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« C'est un tournant parce que c'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes »",
+      "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+      "source": "France 24"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "MAIRE",
+      "qui": "Ali Rabeh",
+      "contexte": "maire de Trappes",
+      "texte": "« objectivement un attentat, à connotation raciste, probablement islamophobe »",
+      "url": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "source": "France 24"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "ENSEMBLE POUR LA RÉPUBLIQUE",
+      "qui": "Gabriel Attal",
+      "contexte": "président du groupe Ensemble pour la République",
+      "texte": "« La haine tue. La haine déchire notre pays. La haine doit cesser. »",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "candidat à l'élection présidentielle",
+      "texte": "« Le racisme tue »",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Olivier Faure",
+      "contexte": "premier secrétaire",
+      "texte": "« Chacun doit mesurer la gravité des discours qui banalisent le racisme »",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate à l'élection présidentielle",
+      "texte": "« un acte barbare »",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "candidat des Républicains",
+      "texte": "« violence terrifiante »",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Le suspect est en garde à vue ; la suite (présentation à un juge, mise en examen éventuelle) n'avait pas été communiquée vendredi soir.",
+    "change": "L'affaire est traitée comme une affaire terroriste par le parquet spécialisé. Les responsables politiques, de tous bords, ont condamné les faits.",
+    "credit": {
+     "auteur": "ℍenry Salomé",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Trappes_Mairie.JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ORDRE PUBLIC",
+    "titre": "24 octobre : 70 000 policiers mobilisés, des cortèges encadrés ou interdits",
+    "court": "24 octobre : 70 000 forces de l'ordre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Manifestations_du_17_octobre_0127.jpg/1280px-Manifestations_du_17_octobre_0127.jpg",
+    "legende": "Des CRS rue Roquepine, à Paris, le 17 octobre 2026",
+    "chapeau": "Vendredi 23 octobre, Laurent Nuñez a présenté le dispositif prévu pour la journée de mobilisation du samedi 24 : 70 000 policiers et gendarmes, contre 60 000 le 17 octobre, avec le Raid, le GIGN et la BRI pour protéger les bâtiments publics, une vingtaine de blindés Centaure, une quinzaine d'engins lanceurs d'eau, des hélicoptères et des drones.",
+    "eclairage": "Arrêté, couvre-feu, recours : qui décide ?",
+    "chiffres": [
+     {
+      "valeur": "70 000",
+      "legende": "policiers et gendarmes"
+     },
+     {
+      "valeur": "60 000",
+      "legende": "le 17 octobre"
+     },
+     {
+      "valeur": "24/10",
+      "legende": "journée de mobilisation"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, Laurent Nuñez a présenté le dispositif prévu pour la journée de mobilisation du samedi 24 : 70 000 policiers et gendarmes, contre 60 000 le 17 octobre, avec le Raid, le GIGN et la BRI pour protéger les bâtiments publics, une vingtaine de blindés Centaure, une quinzaine d'engins lanceurs d'eau, des hélicoptères et des drones. Le ministre cite environ 2 400 interpellations le 17 octobre et près de 500 depuis. À Paris, un seul cortège syndical est autorisé, sur un parcours modifié (Porte de Vincennes–Porte d'Italie) qui remplace celui convenu jeudi (Bastille–Nation) ; la CGT parisienne le juge « impossible à sécuriser ». À Marseille, l'intersyndicale est autorisée à titre dérogatoire ; à Lyon, les manifestations sont interdites dans une large partie du centre. Des interdictions sont aussi prises dans plusieurs autres villes, dont Nancy, Metz, Rouen et Limoges. Le couvre-feu reste en vigueur à Paris, de 23 h à 6 h, autour de la place de la République et des Halles jusqu'à lundi matin. La LDH a déposé des recours contre des arrêtés. Saisi jeudi soir d'un référé-liberté contre les déclarations d'Emmanuel Macron, le Conseil d'État n'avait pas rendu de décision que nos sources aient relevée au moment de la rédaction.",
+    "points": [
+     "Un préfet peut interdire une manifestation par arrêté s'il juge le risque pour l'ordre public trop élevé ; un couvre-feu limite les déplacements à certaines heures dans un secteur.",
+     "Une interdiction se conteste en référé devant le juge administratif, qui statue en urgence.",
+     "Pour l'usage de la force, les LBD et les grenades de maintien de l'ordre restent possibles « dans le cadre légal », a indiqué le ministre."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/territoires/mobilisation-du-24-octobre-laurent-nunez-annonce-le-deploiement-de-70-000-policiers-et-gendarmes-dont-plusieurs-unites-delite",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
+      "nom": "France 24 (avec AFP)"
+     },
+     {
+      "url": "https://www.france24.com/fr/info-en-continu/20261024-nouvelle-journ%C3%A9e-de-mobilisation-sous-tr%C3%A8s-haute-s%C3%A9curit%C3%A9-apr%C3%A8s-le-chaos-du-17-octobre",
+      "nom": "France 24 (direct du 24 octobre)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« On sera intraitable avec les casseurs »",
+      "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "LFI",
+      "contexte": "parti",
+      "texte": "« fuite en avant autoritaire »",
+      "url": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
+      "source": "France 24"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ONG",
+      "qui": "Amnesty International",
+      "contexte": "ONG",
+      "texte": "« glissement vers des pratiques autoritaires »",
+      "url": "https://www.france24.com/fr/info-en-continu/20261024-nouvelle-journ%C3%A9e-de-mobilisation-sous-tr%C3%A8s-haute-s%C3%A9curit%C3%A9-apr%C3%A8s-le-chaos-du-17-octobre",
+      "source": "France 24"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SYNDICAT",
+      "qui": "CGT Paris",
+      "contexte": "syndicat",
+      "texte": "« impossible à sécuriser »",
+      "url": "https://www.france24.com/fr/info-en-continu/20261024-nouvelle-journ%C3%A9e-de-mobilisation-sous-tr%C3%A8s-haute-s%C3%A9curit%C3%A9-apr%C3%A8s-le-chaos-du-17-octobre",
+      "source": "France 24"
+     }
+    ],
+    "apres": "Samedi 24 octobre : manifestations à Paris, Marseille, Strasbourg et ailleurs, couvre-feux dans plusieurs secteurs. Le Conseil d'État doit toujours statuer sur le référé-liberté déposé jeudi.",
+    "change": "Les rassemblements du samedi se tiennent sous un dispositif renforcé, avec des cortèges syndicaux encadrés et des interdictions ailleurs.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestations_du_17_octobre_0127.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget de la Sécu : l'Assemblée rejette le volet recettes, texte au Sénat",
+    "court": "Sécu : l'Assemblée rejette le volet recettes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vote_solennel_loi_mariage_23042013_41.jpg/1280px-Vote_solennel_loi_mariage_23042013_41.jpg",
+    "legende": "Des députés dans l'hémicycle, archive 2013 (illustration)",
+    "chapeau": "Vendredi 23 octobre, en première lecture, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 par 115 voix contre 1 pour.",
+    "eclairage": "Que se passe-t-il quand les recettes sont rejetées ?",
+    "chiffres": [
+     {
+      "valeur": "115",
+      "legende": "voix contre"
+     },
+     {
+      "valeur": "1",
+      "legende": "voix pour"
+     },
+     {
+      "valeur": "9/11",
+      "legende": "examen au Sénat dès cette date"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, en première lecture, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 par 115 voix contre 1 pour. Sans recettes adoptées, la partie « dépenses » n'est pas examinée : le texte est transmis au Sénat dans sa version initiale, celle du gouvernement, que les sénateurs examineront à partir du 9 novembre. La gauche, l'alliance RN-UDR et l'essentiel de LR ont voté contre ; le reste du camp gouvernemental s'est majoritairement abstenu. Avant le vote, les députés avaient supprimé l'essentiel des mesures du texte ; selon LCP, la version issue des débats portait le déficit à 24 milliards d'euros pour 2027, contre 12,7 milliards visés par le gouvernement. Le texte transmis étant la version initiale, l'amendement sur un départ à 62 ans voté jeudi n'y figure pas, selon cette procédure (déduction, non précisée par les sources). Le Premier ministre pourrait recourir à l'article 49.3 ou à des ordonnances, selon LCP.",
+    "points": [
+     "Le PLFSS comprend une partie recettes et une partie dépenses, votées séparément.",
+     "Si les recettes sont rejetées, les députés ne peuvent pas examiner les dépenses : l'examen en première lecture s'arrête là.",
+     "Le texte part alors au Sénat dans la version présentée par le gouvernement.",
+     "Si aucun accord n'émerge, le gouvernement peut recourir au 49.3 (adoption sans vote, sauf motion de censure) ou, à l'issue du délai d'examen, aux ordonnances."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html",
+      "nom": "franceinfo (avec AFP)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_2027",
+      "nom": "Assemblée nationale (dossier PLFSS 2027)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Sandrine Runel",
+      "contexte": "députée",
+      "texte": "« Ce texte n'apporte aucune recette à la hauteur des besoins »",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Sandrine Rousseau",
+      "contexte": "députée Écologiste et Social",
+      "texte": "« un gouvernement dans une citadelle, enfermé, seul, isolé »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Joëlle Mélin",
+      "contexte": "députée",
+      "texte": "« que les choses s'arrêtent là »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Olivier Fayssat",
+      "contexte": "député Union des droites pour la République",
+      "texte": "« trajectoire morbide »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "DROITE RÉPUBLICAINE",
+      "qui": "Justine Gruet",
+      "contexte": "députée",
+      "texte": "« L'impératif de redressement des comptes sociaux n'est pas tenu »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "LES DÉMOCRATES",
+      "qui": "Cyrille Isaac-Sibille",
+      "contexte": "député Les Démocrates",
+      "texte": "« une irresponsabilité folle »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Dès le 9 novembre : examen par les sénateurs. Le gouvernement n'a pas annoncé s'il recourrait au 49.3 ou aux ordonnances.",
+    "change": "Le budget de la Sécurité sociale repart de zéro au Sénat, dans la version du gouvernement, sans les modifications des députés.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_41.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ÉDUCATION",
+    "titre": "Lycéens : Macron reconnaît le besoin d'une refonte de Parcoursup",
+    "court": "Lycéens : Macron promet de revoir Parcoursup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blocus_de_la_porte_Nord-Ouest.jpg/1280px-Blocus_de_la_porte_Nord-Ouest.jpg",
+    "legende": "Des lycéens bloquent une porte de leur établissement, 29 septembre 2026",
+    "chapeau": "Vendredi 23 octobre, Emmanuel Macron a reçu à l'Élysée une vingtaine de représentants lycéens pendant près de trois heures. Selon son entourage, cité par franceinfo, il a reconnu un « besoin d'une refonte en profondeur de Parcoursup » et abordé la rénovation des bâtiments, les rythmes scolaires et les emplois du temps.",
+    "eclairage": "Parcoursup et les cinq chantiers",
+    "chiffres": [
+     {
+      "valeur": "3 h",
+      "legende": "d'échange à l'Élysée"
+     },
+     {
+      "valeur": "~20",
+      "legende": "représentants lycéens"
+     },
+     {
+      "valeur": "26/10",
+      "legende": "rencontre avec Lecornu"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, Emmanuel Macron a reçu à l'Élysée une vingtaine de représentants lycéens pendant près de trois heures. Selon son entourage, cité par franceinfo, il a reconnu un « besoin d'une refonte en profondeur de Parcoursup » et abordé la rénovation des bâtiments, les rythmes scolaires et les emplois du temps. Aucune mesure précise n'a été annoncée ; l'entourage promet des « décisions concrètes » lundi 26 octobre, après la rencontre des lycéens avec le Premier ministre, Sébastien Lecornu. Les représentants se disent globalement satisfaits de l'écoute mais continuent de demander l'abrogation de Parcoursup et appellent à rester mobilisés samedi. Le mouvement dure depuis la mi-septembre : une lettre de Sébastien Lecornu du 4 octobre fixait cinq chantiers (conditions d'enseignement, temps scolaire, bâti, Parcoursup, démocratie lycéenne).",
+    "points": [
+     "Parcoursup est la plateforme nationale où les lycéens formulent leurs vœux d'études supérieures.",
+     "Dans sa lettre du 4 octobre, le Premier ministre demandait de « rendre plus transparents les critères d'examen des vœux et de classement des dossiers » pour la session 2027.",
+     "Les quatre autres chantiers : conditions d'enseignement (remplacement des enseignants absents), temps scolaire, bâti et démocratie lycéenne."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
+      "nom": "France 24 (avec AFP)"
+     },
+     {
+      "url": "https://www.letudiant.fr/lycee/mouvement-lyceen-alors-que-la-mobilisation-continue-le-gouvernement-lance-cinq-chantiers-prioritaires.html",
+      "nom": "L'Étudiant"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Entourage d'Emmanuel Macron",
+      "contexte": "Élysée",
+      "texte": "Il décrit un échange « franc » et promet des « décisions concrètes » lundi. Réaction résumée sans guillemets.",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LYCÉENS",
+      "qui": "Ryad Rani",
+      "contexte": "président de l'Union syndicale lycéenne",
+      "texte": "« c'est déjà une victoire d'avoir été reçu »",
+      "url": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
+      "source": "France 24"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LYCÉENS",
+      "qui": "Nathanaël Combary",
+      "contexte": "Renouveau lycéen",
+      "texte": "Il attend la réunion avec le Premier ministre et appelle à maintenir la pression sur l'exécutif. Réaction résumée sans guillemets.",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre",
+      "texte": "« La confiance se rétablira lorsque chacun pourra constater ce qui change dans son lycée »",
+      "url": "https://www.letudiant.fr/lycee/mouvement-lyceen-alors-que-la-mobilisation-continue-le-gouvernement-lance-cinq-chantiers-prioritaires.html",
+      "source": "L'Étudiant"
+     }
+    ],
+    "apres": "Lundi 26 octobre : les représentants lycéens rencontrent Sébastien Lecornu ; des engagements du gouvernement sont attendus le même jour.",
+    "change": "Le chef de l'État admet la nécessité de revoir Parcoursup, sans mesure chiffrée ni calendrier détaillé à ce stade.",
+    "credit": {
+     "auteur": "Camille Hestaux",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Blocus_de_la_porte_Nord-Ouest.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "24",
+    "mois": "OCT.",
+    "texte": "Journée de mobilisation à Paris, Marseille, Strasbourg ; congrès du RN à Orléans (réélection de Jordan Bardella attendue) et contre-manifestation, jusqu'à 30 000 personnes attendues selon l'AFP."
+   },
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Brésil : second tour de la présidentielle. Orléans : meeting de Marine Le Pen."
+   },
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Matignon : Sébastien Lecornu reçoit les représentants lycéens ; engagements du gouvernement attendus."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Sénat : début de l'examen du budget de la Sécurité sociale 2027."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "PNAT",
+    "definition": "Parquet national antiterroriste : parquet spécialisé, basé à Paris, qui se saisit des affaires de terrorisme."
+   },
+   {
+    "terme": "Garde à vue",
+    "definition": "Mesure par laquelle les enquêteurs retiennent une personne soupçonnée ; à son terme, elle est libérée ou présentée à un juge."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Projet de loi de financement de la Sécurité sociale : le texte annuel qui fixe les recettes et les dépenses de la Sécu."
+   },
+   {
+    "terme": "Parcoursup",
+    "definition": "Plateforme nationale sur laquelle les lycéens formulent leurs vœux d'études supérieures."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 23 octobre, l'Assemblée nationale a adopté la partie « recettes » du budget de la Sécurité sociale pour 2027.",
+   "reponse": false,
+   "explication": "Faux : les députés l'ont rejetée par 115 voix contre et 1 pour ; sans recettes adoptées, la partie dépenses n'est pas examinée et le texte part au Sénat dans sa version initiale."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-10-23",
   "minutes": 12,
   "sujets": [
