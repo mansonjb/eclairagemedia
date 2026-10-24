@@ -404,3 +404,461 @@ Vendredi 23 octobre 2026, l'agence Moody's a abaissé la note de crédit de la F
 Réponse : faux. Moody's a maintenu la note à Aa3, avec une perspective négative, alors que la plupart des analystes attendaient un abaissement à A1, selon Reuters.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+samedi 24 octobre 2026 · 14 min de lecture
+
+1. Hépatite B : la FDA approuve le bépirovirsen, un premier traitement antisens
+
+TRAITEMENT
+
+19 % : guérison fonctionnelle (contre 0 % placebo)
+
+26 % : si antigène HBs ≤ 1 000 UI/mL
+
+24 sem. : d'injections sous-cutanées
+
+Ce qui s'est passé
+
+Le 20 octobre 2026, la FDA américaine a approuvé le bépirovirsen (nom commercial Hibsago, laboratoire GSK) pour des adultes atteints d'hépatite B chronique sans cirrhose, déjà traités par antiviral depuis au moins 6 mois, dont le virus est contrôlé et dont l'antigène HBs ne dépasse pas 3 000 UI/mL. Il s'ajoute au traitement antiviral et s'administre par injection sous la peau pendant 24 semaines. L'approbation repose sur deux essais de phase 3, B-Well 1 et B-Well 2, publiés dans le New England Journal of Medicine le 28 mai 2026 : 1 220 patients ont reçu le bépirovirsen et 614 un placebo. La guérison fonctionnelle (virus indétectable et antigène HBs disparu au moins 24 semaines après l'arrêt de tous les traitements) concerne 19 % des patients sous bépirovirsen (233 sur 1 220) contre 0 % sous placebo, et 26 % (200 sur 768) quand l'antigène HBs initial est à 1 000 UI/mL ou moins. Les événements indésirables de grade 3 ou plus touchent 16 % des patients traités contre 3 % sous placebo, avec surtout une hausse des transaminases (enzymes du foie). L'étiquette comporte un avertissement encadré pour des atteintes graves du foie et une baisse des plaquettes.
+
+L'éclairage
+
+L'hépatite B chronique. Un virus infecte durablement le foie. Les antiviraux actuels le gardent sous contrôle, souvent à vie, mais font rarement disparaître l'antigène HBs, la protéine du virus que l'on cherche dans le sang. Un médicament « antisens ». Il s'agit d'un court fragment de matériel génétique conçu pour se fixer sur les messages que le virus utilise pour fabriquer ses protéines, afin de les neutraliser. « Guérison fonctionnelle » n'est pas éradication. Le virus reste contrôlé sans traitement, mais il peut subsister dans les cellules du foie, et la durée de ce résultat n'est pas démontrée. Dans l'essai, la majorité des patients n'ont pas atteint ce stade.
+
+L'hépatite B chronique. Un virus infecte durablement le foie. Les antiviraux actuels le gardent sous contrôle, souvent à vie, mais font rarement disparaître l'antigène HBs, la protéine du virus que l'on cherche dans le sang. Un médicament « antisens ». Il s'agit d'un court fragment de matériel génétique conçu pour se fixer sur les messages que le virus utilise pour fabriquer ses protéines, afin de les neutraliser. « Guérison fonctionnelle » n'est pas éradication. Le virus reste contrôlé sans traitement, mais il peut subsister dans les cellules du foie, et la durée de ce résultat n'est pas démontrée. Dans l'essai, la majorité des patients n'ont pas atteint ce stade. Elle explique que, pour beaucoup de personnes, traiter l'hépatite B chronique signifie prendre un antiviral pendant des années, et que ce médicament offre une nouvelle approche de traitement (propos traduits et résumés). Il estime que les patients ayant une faible charge virale seront ceux qui en bénéficieront le plus (propos traduits et résumés).
+
+Ce qu'ils en disent
+
+Elle explique que, pour beaucoup de personnes, traiter l'hépatite B chronique signifie prendre un antiviral pendant des années, et que ce médicament offre une nouvelle approche de traitement (propos traduits et résumés).
+Wendy Carter (Autorité de santé), FDA, directrice par intérim du bureau des maladies infectieuses
+
+Il estime que les patients ayant une faible charge virale seront ceux qui en bénéficieront le plus (propos traduits et résumés).
+Mark Makhinson (Expert indépendant), pharmacien, Mount Sinai Health System, non impliqué dans les essais
+
+Ce qui change
+
+Aux États-Unis, une option de plus pour une partie des patients : ceux sans cirrhose, déjà sous antiviral et à faible antigène HBs. Elle suppose des prises de sang régulières et un test compagnon pour sélectionner les patients.
+
+Et après
+
+Les sources consultées ne donnent ni prix ni date d'arrivée en Europe. L'Agence européenne des médicaments devra examiner le dossier, puis la HAS évaluer le médicament avant tout remboursement en France.
+
+Sources : publication NEJM (DOI) · HCPLive · AJMC · bulletin FDA
+
+2. Grossesse : phtalates et bisphénols associés à un QI plus bas à 3 ans
+
+ÉTUDE
+
+380 : mères et enfants suivis
+
+26 : phtalates et phénols mesurés
+
+−2,86 : points de QI par niveau d'exposition
+
+Ce qui s'est passé
+
+Le 20 octobre 2026, une équipe de l'Inserm, du CNRS, de l'université Grenoble-Alpes, du CHU de Grenoble et de l'université de Grenade a publié dans Environmental Health Perspectives une étude issue de la cohorte Sepages : 380 femmes enceintes et leurs enfants. L'exposition a été mesurée sur des urines recueillies à plusieurs moments de la grossesse, pour 26 phtalates et phénols, dont des bisphénols et des parabènes. Les chercheurs ont retenu six substances jugées prioritaires, car des travaux antérieurs les liaient à des effets sur le développement cognitif : le bisphénol A, le bisphénol S et quatre phtalates (DEHP, DEP, DnBP, DiBP). L'exposition au mélange de ces six substances au troisième trimestre est associée à un QI plus bas à l'âge de 3 ans, évalué par un neuropsychologue avec un test standardisé : en moyenne 2,86 points de moins à chaque niveau d'exposition supplémentaire au mélange. Quatre des six substances, prises une à une, sont aussi associées à des scores plus bas. Les sources consultées ne donnent pas d'intervalle de confiance.
+
+L'éclairage
+
+Les phtalates et les bisphénols. Ce sont des substances utilisées pour assouplir ou fabriquer des plastiques, présentes dans de nombreux objets du quotidien. Plusieurs sont des perturbateurs endocriniens, c'est-à-dire qu'elles peuvent interférer avec les hormones. Ce que l'étude montre. Une association statistique : les enfants dont la mère était plus exposée au troisième trimestre ont en moyenne un QI un peu plus bas. La baisse de 2,86 points est une moyenne de population, pas une perte pour chaque enfant exposé. Ce qu'elle ne prouve pas. Une étude d'observation ne permet pas d'affirmer que ces substances causent la baisse : d'autres facteurs familiaux et environnementaux peuvent jouer. Les chercheurs précisent aussi qu'ils n'ont pas considéré toutes les substances potentiellement neurotoxiques.
+
+Les phtalates et les bisphénols. Ce sont des substances utilisées pour assouplir ou fabriquer des plastiques, présentes dans de nombreux objets du quotidien. Plusieurs sont des perturbateurs endocriniens, c'est-à-dire qu'elles peuvent interférer avec les hormones. Ce que l'étude montre. Une association statistique : les enfants dont la mère était plus exposée au troisième trimestre ont en moyenne un QI un peu plus bas. La baisse de 2,86 points est une moyenne de population, pas une perte pour chaque enfant exposé. Ce qu'elle ne prouve pas. Une étude d'observation ne permet pas d'affirmer que ces substances causent la baisse : d'autres facteurs familiaux et environnementaux peuvent jouer. Les chercheurs précisent aussi qu'ils n'ont pas considéré toutes les substances potentiellement neurotoxiques. « la réglementation et la restriction des substances avérées comme nocives est la mesure la plus efficace » pour protéger toute la population, selon elle. Elle ajoute que ces substances sont peu persistantes dans l'organisme : les doses internes pourraient baisser vite si les sources d'exposition sont réduites. « Les associations négatives avec les scores de QI étaient plus nettes sur ces substances priorisées. »
+
+Ce qu'ils en disent
+
+« la réglementation et la restriction des substances avérées comme nocives est la mesure la plus efficace » pour protéger toute la population, selon elle. Elle ajoute que ces substances sont peu persistantes dans l'organisme : les doses internes pourraient baisser vite si les sources d'exposition sont réduites.
+Claire Philippat (Auteurs), dernière autrice, chercheuse Inserm à Grenoble
+
+« Les associations négatives avec les scores de QI étaient plus nettes sur ces substances priorisées. »
+Rémy Slama (Auteurs), directeur de recherche Inserm, coauteur
+
+Ce qui change
+
+L'étude ajoute un argument au débat sur la réglementation de ces substances, que les auteurs jugent plus efficace que les gestes individuels. Elle ne permet pas de dire qu'un enfant précis sera touché.
+
+Et après
+
+D'autres cohortes devront confirmer ces résultats, suivre les enfants plus longtemps et tester d'autres substances. Aucune décision réglementaire liée à cette étude n'a été annoncée dans les sources consultées.
+
+Sources : communiqué Inserm · Actu-Environnement · Pourquoi Docteur · ID, avec AFP
+
+3. Chirurgie abdominale lourde : l'index cardiaque individualisé sans bénéfice
+
+CHIRURGIE
+
+1 095 : patients analysés
+
+44,3 % : complications à 7 jours (contre 46,9 %)
+
+12 : centres, 5 pays européens
+
+Ce qui s'est passé
+
+Le 19 octobre 2026, JAMA a publié l'essai PELICAN, conduit par l'équipe de Bernd Saugel (hôpital universitaire de Hambourg-Eppendorf) dans 12 centres d'Autriche, du Danemark, d'Allemagne, d'Espagne et de République tchèque. Entre octobre 2023 et octobre 2025, 1 111 adultes à haut risque, opérés d'une chirurgie abdominale lourde programmée, ont été tirés au sort : 1 095 sont dans l'analyse principale, d'âge médian 67 ans. Dans un groupe, les anesthésistes ont ajusté liquides et médicaments pour maintenir le débit du cœur (index cardiaque) à la valeur de repos mesurée avant l'opération ; dans l'autre, ils ont suivi la prise en charge habituelle. Le critère principal (insuffisance rénale aiguë, atteinte du muscle cardiaque, infection grave, arrêt cardiaque ou décès dans les 7 jours) touche 44,3 % des patients du groupe individualisé et 46,9 % du groupe habituel (risque relatif 0,94, intervalle de confiance à 95 % de 0,83 à 1,08). La différence n'est pas significative. À 90 jours, la mortalité est de 5,7 % contre 2,8 % (risque relatif 2,06, intervalle de 1,13 à 3,78), un critère secondaire sans correction pour les comparaisons multiples, que les auteurs invitent à interpréter avec prudence.
+
+L'éclairage
+
+L'index cardiaque. C'est la quantité de sang que le cœur envoie chaque minute, rapportée à la taille du patient. Pendant une grosse opération, l'anesthésiste cherche à ce que les organes reçoivent assez de sang et d'oxygène, en dosant perfusions et médicaments. L'idée testée. Viser pour chaque patient son propre niveau de repos, plutôt qu'une cible commune. Un essai pilote dans un seul centre avait suggéré un bénéfice. Ce que prouve ce type d'essai. Le tirage au sort rend la comparaison solide, mais l'essai est « en simple aveugle » : une partie seulement des personnes concernées ignorait le groupe attribué. La surmortalité à 90 jours est une piste à vérifier, pas une conclusion.
+
+L'index cardiaque. C'est la quantité de sang que le cœur envoie chaque minute, rapportée à la taille du patient. Pendant une grosse opération, l'anesthésiste cherche à ce que les organes reçoivent assez de sang et d'oxygène, en dosant perfusions et médicaments. L'idée testée. Viser pour chaque patient son propre niveau de repos, plutôt qu'une cible commune. Un essai pilote dans un seul centre avait suggéré un bénéfice. Ce que prouve ce type d'essai. Le tirage au sort rend la comparaison solide, mais l'essai est « en simple aveugle » : une partie seulement des personnes concernées ignorait le groupe attribué. La surmortalité à 90 jours est une piste à vérifier, pas une conclusion. Ils concluent que ces résultats ne soutiennent pas ce traitement individualisé chez les patients à haut risque. Ils notent qu'augmenter l'index cardiaque n'augmente pas forcément l'apport d'oxygène, car les liquides perfusés diluent le sang (propos traduits et résumés).
+
+Ce qu'ils en disent
+
+Ils concluent que ces résultats ne soutiennent pas ce traitement individualisé chez les patients à haut risque. Ils notent qu'augmenter l'index cardiaque n'augmente pas forcément l'apport d'oxygène, car les liquides perfusés diluent le sang (propos traduits et résumés).
+Bernd Saugel et al. (Auteurs), investigateur principal, hôpital universitaire de Hambourg-Eppendorf
+
+Ce qui change
+
+Pour les anesthésistes, l'essai ne soutient pas d'adopter cette stratégie individualisée pour la chirurgie abdominale lourde. Les patients n'ont rien à changer : les décisions d'anesthésie se prennent avec l'équipe qui les prend en charge.
+
+Et après
+
+Les analyses de sous-groupes et la piste de la mortalité à 90 jours demandent à être regardées dans l'article complet. D'autres stratégies de gestion du débit sanguin pendant l'opération restent à évaluer.
+
+Sources : publication JAMA (DOI) · résumé JAMA · Inside Precision Medicine
+
+4. Virus Shamonda : un premier cas humain détecté en France, à Lyon
+
+SANTÉ PUBLIQUE
+
+1er : cas humain documenté
+
+5 : départements avec des bovins touchés
+
+0 : signal de transmission entre personnes
+
+Ce qui s'est passé
+
+Le 22 octobre 2026, les ministères de la Santé et de l'Agriculture ont annoncé la première détection du virus Shamonda chez un être humain. Il s'agit d'un patient gravement immunodéprimé, pris en charge aux Hospices civils de Lyon pour une maladie grave, et décédé début octobre. Des symptômes neurologiques ont conduit les biologistes à des analyses génétiques, qui ont identifié le virus dans plusieurs prélèvements. Les autorités indiquent que les complications cérébrales observées avant le décès sont très probablement liées à l'infection, sans trancher sur sa part dans la mort : les investigations se poursuivent. L'hypothèse privilégiée est une piqûre de moucheron du genre Culicoides dans l'est de la France, où le virus circule chez les bovins depuis l'été (Doubs, Jura, Savoie, Haute-Savoie, Ain). Les autorités ne voient aucun risque sanitaire pour la population générale à ce jour, aucun signal de transmission entre personnes n'a été observé, et l'OMS et le Centre européen de prévention et de contrôle des maladies ont été informés.
+
+L'éclairage
+
+Le virus. Le Shamonda appartient aux orthobunyavirus. Découvert chez des bovins au Nigeria en 1965, il a été identifié en Europe pour la première fois à l'été 2026. Chez les animaux, il se transmet par des piqûres de moucherons, et touche surtout les bovins : fièvre, diarrhée, baisse de la production de lait. Pourquoi un seul cas compte. Jusqu'ici, on ne connaissait aucune infection humaine. Un cas isolé, chez une personne dont les défenses immunitaires étaient très affaiblies, n'indique pas que le virus circule chez les personnes en bonne santé. Ce qui reste incertain. Le rôle exact du virus dans le décès, l'espèce de moucheron impliquée et les réservoirs animaux ne sont pas établis. Aucun vaccin ni traitement spécifique n'existe à ce jour pour les animaux.
+
+Le virus. Le Shamonda appartient aux orthobunyavirus. Découvert chez des bovins au Nigeria en 1965, il a été identifié en Europe pour la première fois à l'été 2026. Chez les animaux, il se transmet par des piqûres de moucherons, et touche surtout les bovins : fièvre, diarrhée, baisse de la production de lait. Pourquoi un seul cas compte. Jusqu'ici, on ne connaissait aucune infection humaine. Un cas isolé, chez une personne dont les défenses immunitaires étaient très affaiblies, n'indique pas que le virus circule chez les personnes en bonne santé. Ce qui reste incertain. Le rôle exact du virus dans le décès, l'espèce de moucheron impliquée et les réservoirs animaux ne sont pas établis. Aucun vaccin ni traitement spécifique n'existe à ce jour pour les animaux. Ils indiquent que « aucun risque sanitaire pour la population générale n'est identifié à ce jour ». « Aucun signal de transmission du virus Shamonda d'une personne à une autre n'a été observé à ce jour. »
+
+Ce qu'ils en disent
+
+Ils indiquent que « aucun risque sanitaire pour la population générale n'est identifié à ce jour ».
+Ministères de la Santé et de l'Agriculture (Autorité de santé), communiqué du 22 octobre
+
+« Aucun signal de transmission du virus Shamonda d'une personne à une autre n'a été observé à ce jour. »
+Inserm (Autorité de santé), synthèse du 23 octobre
+
+Ce qui change
+
+À ce stade, il n'y a pas de consigne nouvelle pour le grand public. Les équipes de santé humaine, animale et environnementale mènent une enquête commune. Pour toute question sur une piqûre d'insecte ou des symptômes, on se tourne vers un médecin.
+
+Et après
+
+Les investigations doivent préciser le lien avec le décès, l'insecte responsable et les animaux porteurs. Les sources consultées ne donnent pas de date pour de prochains résultats.
+
+Sources : communiqué Inserm · franceinfo · Euronews · synthèse Inserm
+
+Les mots du jour
+
+Oligonucléotide antisens
+Court fragment de matériel génétique conçu pour se fixer sur un message génétique précis et empêcher la fabrication d'une protéine.
+Guérison fonctionnelle
+Le virus reste indétectable et sa protéine marqueur disparaît du sang après l'arrêt des traitements, sans que le virus soit forcément éliminé de l'organisme.
+Étude de cohorte
+Étude qui suit un groupe de personnes dans le temps pour relier ce à quoi elles sont exposées à ce qui leur arrive ensuite. Elle montre des associations, pas des causes.
+Index cardiaque
+Quantité de sang envoyée par le cœur chaque minute, rapportée à la surface du corps du patient.
+
+Vrai ou faux ?
+
+Dans l'essai PELICAN, ajuster la prise en charge de chaque patient sur son index cardiaque de repos n'a pas réduit de façon significative les complications dans les 7 jours après une chirurgie abdominale lourde.
+
+Réponse : vrai. C'est vrai : le critère principal touche 44,3 % des patients du groupe individualisé et 46,9 % du groupe habituel (risque relatif 0,94, intervalle de confiance à 95 % de 0,83 à 1,08), une différence non significative.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+samedi 24 octobre 2026 · 5 min de lecture
+
+1. 24 octobre : rassemblements interdits, centre-ville aménagé
+
+ÉTAT ET VILLE
+
+6 h 30 : fermeture des parkings de la place de Verdun
+
+10 h 30 : premier rassemblement annoncé, place de Verdun
+
+14 h : second appel, parvis de la gare
+
+Ce qui s'est passé
+
+Vendredi 23 octobre, le préfet de la Charente-Maritime a pris un arrêté d'interdiction des rassemblements prévus samedi 24 octobre. Selon ICI, il vise les manifestations non déclarées à La Rochelle, Saintes, Royan et Rochefort ; selon inf-info, il vise aussi Puilboreau et interdit les rassemblements et attroupements. Des appels circulent sur les réseaux sociaux pour 10 h 30 place de Verdun, puis 14 h devant la gare. La Ville a annoncé la fermeture des parkings de la place de Verdun dès 6 h 30 (« Aucune entrée ni sortie ne sont possibles »), la déviation des bus Yélo dès 8 h 30, l'annulation du marché non alimentaire et la fermeture de l'hôtel de ville toute la journée. Le Marché central et les autres marchés du matin sont maintenus.
+
+- Le préfet représente l'État dans le département. Il peut interdire par arrêté une manifestation sur la voie publique qu'il juge de nature à troubler l'ordre public (article L. 211-4 du code de la sécurité intérieure).
+- La Ville décide autre chose : stationnement, marchés, bâtiments municipaux. Ses mesures du jour sont des mesures d'organisation, pas l'interdiction elle-même.
+- Une manifestation sur la voie publique doit en principe être déclarée à l'avance. Un arrêté d'interdiction peut être contesté devant le tribunal administratif.
+
+L'éclairage
+
+Qui peut interdire un rassemblement ?
+
+Ce qu'ils en disent
+
+Selon ICI, l'arrêté vise à éviter des incidents comme ceux du samedi précédent. Selon inf-info, la préfecture indique que les parquets sont mobilisés et que les organisateurs de rassemblements non déclarés encourent des sanctions.
+Michel Prosic (État / préfecture), préfet de la Charente-Maritime
+
+La Ville annonce des fermetures de parkings, des déviations de bus et la fermeture de l'hôtel de ville, et demande aux habitants de rentrer leurs bacs de déchets après la collecte.
+Mairie (Ville de la rochelle), mesures d'organisation
+
+D'après inf-info, des appels citent le coût de la vie, notamment le prix des carburants, et mobilisent notamment des gilets jaunes, des étudiants, des familles et des retraités. Pas de réaction relevée à l'interdiction.
+Réseaux sociaux (Collectifs appelants), organisateurs non identifiés
+
+Ce qui change
+
+Samedi matin, le centre autour de la place de Verdun est difficile d'accès en voiture et en bus : parkings fermés, lignes déviées, pas de navette gratuite. Les marchés alimentaires restent ouverts.
+
+Et après
+
+Les mesures de la Ville courent jusqu'à la fin du rassemblement. Aucune date de levée de l'arrêté n'est publiée à ce stade.
+
+Sources : Ville de La Rochelle · ICI · inf-info · France 3 Nouvelle-Aquitaine
+
+À venir
+
+- 2 nov. : Rue de la Chaîne : travaux sur les eaux usées et le gaz jusqu'au 4 décembre, puis reprise le 4 janvier. Les livraisons aux commerces continuent.
+- 24 nov. : Rue Gargoulleau : fin de la première phase de travaux, circulation coupée entre Verdun et la place du Marché.
+- 11 déc. : Rue de la Sardinerie et Paradis : fin de la phase gaz ; les autres réseaux suivent au premier semestre 2027.
+
+Les mots du jour
+
+Arrêté préfectoral
+Une décision écrite du préfet, qui s'applique à tous sur le territoire qu'elle vise, ici pour une journée.
+Attroupement
+Un rassemblement de personnes sur la voie publique susceptible de troubler l'ordre public.
+Requalification
+Une rénovation lourde qui change l'usage ou l'organisation d'un lieu, sans le détruire.
+
+Vrai ou faux ?
+
+Le Marché central de La Rochelle est un bâtiment du XXe siècle.
+
+Réponse : faux. Faux : la Ville décrit le Marché central comme un marché du XIXe siècle. Son projet de requalification prévoit des travaux de 2029 à 2031.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+samedi 24 octobre 2026 · 7 min de lecture
+
+1. Canard cultivé : l'Australie et la Nouvelle-Zélande valident Gourmey
+
+PROTÉINES
+
+6 oct. : approbation par le conseil de FSANZ
+
+60 j : délai des ministres pour demander une révision
+
+17 : contributions à la consultation publique
+
+Ce qui s'est passé
+
+Le 6 octobre 2026, le conseil de Food Standards Australia New Zealand (FSANZ), l'autorité qui fixe les règles alimentaires des deux pays, a approuvé la demande A1341 déposée par Suprême SAS, qui commercialise sous le nom Gourmey. Elle concerne une biomasse de cellules de canard de Pékin, à utiliser avec d'autres ingrédients, par exemple dans du foie gras ou du pâté cultivés. La notification aux ministres a été publiée le 13 octobre : ils disposent de 60 jours pour demander une révision, et la modification du code alimentaire prend effet à sa publication officielle. FSANZ indique que l'analyse de risque n'a identifié aucun problème de santé publique ni de sécurité, ni pour la lignée cellulaire ni pour la biomasse. Selon vegconomist, la biomasse pourra être vendue en gros aux traiteurs et fabricants mais pas directement aux consommateurs, l'étiquette devra mentionner « cell-cultured » ou « cell-cultivated » et un emballage de détail ne pourra pas porter la mention « poultry meat ». Si la modification est confirmée, ce serait le deuxième aliment issu de cellules cultivées autorisé dans la zone, après la caille de Vow ; Parima, maison mère de la marque Gourmey, avait déjà obtenu un accord à Singapour en avril 2026. Aucune date de lancement n'est annoncée.
+
+- Il s'agit de cellules d'une lignée de canard de Pékin, multipliées en laboratoire plutôt que prélevées sur un animal abattu. La biomasse est la masse de cellules obtenue ; le dossier s'appuie sur un procédé de 200 litres, que l'entreprise veut porter à 2 500 litres, selon vegconomist.
+- L'autorisation vise la lignée évaluée et des usages précis : plats de restauration, aliments composés vendus au détail, vente en gros. Elle ne vaut pas pour un autre pays : selon le rapport de FSANZ cité par vegconomist, des demandes pour le canard ont aussi été déposées en Suisse, au Royaume-Uni et dans l'Union européenne.
+- Le processus a deux temps : le conseil de FSANZ évalue et approuve, puis les ministres de la zone peuvent demander une révision dans les 60 jours. L'évaluation de FSANZ porte sur la sécurité sanitaire et l'étiquetage ; elle ne se prononce pas sur le goût, le prix ni l'intérêt du produit.
+
+L'éclairage
+
+Que signifie « canard cultivé » ?
+
+Ce qu'ils en disent
+
+Le conseil a approuvé la demande sans modification du projet, après une consultation publique de quatre semaines (24 juin au 22 juillet), selon vegconomist. L’analyse de risque ne relève aucun problème de santé publique ni de sécurité.
+FSANZ (Pouvoirs publics), autorité australo-néo-zélandaise
+
+À propos de l’accord obtenu à Singapour, il dit que l’entreprise se concentre désormais sur la commercialisation, avec des produits sûrs et de qualité en volumes significatifs.
+Parima (Gourmey) (Entreprise), Nicolas Morin-Forest, directeur général
+
+Il a soulevé des inquiétudes sur les contrôles microbiologiques lors du passage à plus grande échelle et sur l’étiquetage ; il estime que le canard, contrairement à la caille, est une production agricole établie, dotée d’une filière nationale. Le conseil a approuvé le projet sans le modifier ; deux contributeurs s’y opposaient totalement.
+Luv-a-Duck (Entreprise), producteur australien de canards
+
+Ce qui change
+
+Rien dans les assiettes françaises à ce stade : l'accord ne vaut que pour l'Australie et la Nouvelle-Zélande, et aucune date de lancement n'est annoncée.
+
+Et après
+
+Les ministres ont jusqu’à environ le 12 décembre 2026 (60 jours après la notification du 13 octobre) pour demander une révision ; sans demande, la modification entre en vigueur à sa publication officielle.
+
+Sources : FSANZ (demande A1341) · vegconomist · Food Ingredients First
+
+À venir
+
+- 29 oct. : Assemblée nationale : journée réservée au groupe LFI, avec la proposition de loi sur l'acétamipride (LCP).
+- 7 nov. : Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS).
+- 9 nov. : Cadmium : fin de la consultation publique sur le projet d'arrêté du gouvernement (La France Agricole).
+- 12 déc. : Canard cultivé : fin, vers cette date, du délai de 60 jours des ministres australiens et néo-zélandais, calculé à partir de la notification du 13 octobre (vegconomist).
+
+Les mots du jour
+
+FSANZ
+Food Standards Australia New Zealand : l’autorité qui élabore le code alimentaire commun à l’Australie et à la Nouvelle-Zélande.
+Biomasse cellulaire
+Masse de cellules multipliées en cuve, utilisée comme ingrédient.
+Fermentation de précision
+Procédé où des micro-organismes produisent une molécule précise, par exemple une protéine, ensuite purifiée.
+
+Vrai ou faux ?
+
+L’autorisation examinée par FSANZ pour le canard cultivé de Gourmey couvre la vente en gros de la biomasse à des traiteurs et à des fabricants.
+
+Réponse : vrai. Le conseil de FSANZ a approuvé la demande le 6 octobre 2026 : la biomasse pourra être fournie en gros à des traiteurs et fabricants, mais pas vendue seule aux consommateurs, selon vegconomist.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+samedi 24 octobre 2026 · 13 min de lecture
+
+1. PHP : deux failles critiques, trouvées avec l'aide de l'IA
+
+CYBERSÉCURITÉ
+
+9,2 : note de gravité sur 10 (échelle CVSS v4)
+
+2 : failles, CVE-2026- 109618 et 109619
+
+70 % : des sites web utilisent PHP, selon Wiz
+
+Ce qui s'est passé
+
+Mercredi 21 octobre, l'équipe du langage PHP, qui fait tourner une grande partie des sites web, a publié les versions 8.5.12, 8.4.27, 8.3.36 et 8.2.35. Elles corrigent deux vulnérabilités qu'elle qualifie de critiques : un attaquant sans identifiant peut y exécuter du code sur le serveur. Les deux failles (CVE-2026-109618 et CVE-2026-109619) sont notées 9,2 sur 10 selon The Next Web. L'équipe PHP écrit qu'aucune mesure d'atténuation ne suffit à elle seule et que mettre à jour est le seul choix sûr. Deux équipes disent avoir trouvé les failles avec des modèles d'IA : la société de sécurité Calif, qui date ses premiers travaux du 1er août avec le modèle GPT-5.6 Sol d'OpenAI, et Wiz, qui date sa découverte du 19 août et cite l'outil Wiz Atlas, Gemini 4 Argon de Google et GPT-5.6 Sol. Les deux équipes affirment avoir travaillé de façon indépendante. Selon The Daily Record, des services publics ont été mis hors ligne par précaution aux Pays-Bas, au Danemark, en Finlande et en France, où le ministère de l'Intérieur a placé ses sites en maintenance. Le CERT-FR, l'équipe française de veille sur les alertes de sécurité, a publié une alerte le 21 octobre, mise à jour le 22. Selon des données de Censys citées par le même journal, environ 1,5 million de 2,6 millions d'hôtes recensés exécutaient encore une version non corrigée (information d'une seule source, à confirmer).
+
+L'éclairage
+
+Comment une simple requête peut prendre le contrôle d'un serveur
+
+PHP est un langage de programmation exécuté côté serveur : c'est lui qui assemble une page avant de l'envoyer au visiteur. Il tourne sur d'innombrables sites, dont des outils très répandus comme WordPress, Drupal ou Joomla. Les failles touchent la gestion de la mémoire : dans un cas, un manque de mémoire interrompt PHP alors que des données de la requête sont à moitié initialisées ; dans l'autre, un état interne survit alors que la mémoire qui le portait a été libérée. L'équipe PHP juge le risque le plus élevé avec mod_php (PHP intégré au serveur Apache), où une requête non authentifiée peut déclencher l'attaque avant que le code du site ne s'exécute. Démontré ou annoncé ? Les correctifs et les numéros CVE sont publics et vérifiables. Le rôle de l'IA repose sur le récit des deux sociétés, sans évaluation indépendante. Calif précise qu'aucun modèle n'est capable de trouver tous les bogues avec de simples consignes, et que la connaissance de l'historique du logiciel reste essentielle. Wiz estime qu'un seul chercheur a fait en une semaine ce qui aurait pris des mois à une équipe de haut niveau.
+
+Ce qu'ils en disent
+
+Le CERT-FR recommande d'« isoler les équipements affectés » et de migrer vers une version maintenue de PHP. Les contournements temporaires ne sont pas qualifiés par ses soins.
+CERT-FR (Régulateur), alerte du 21 octobre, mise à jour le 22
+
+Calif écrit : « No model is simply capable of unearthing 'all bugs' with simple prompts. » Elle dit avoir utilisé des modèles accessibles au public, sans outil spécial, pour la première découverte.
+Calif (Chercheurs), société de sécurité
+
+Wiz affirme que l'IA a permis de construire des attaques de démonstration sur plusieurs applications en quelques heures. L'entreprise écrit : « a single researcher completed in a week what previously would have taken a world-class team months of work. »
+Wiz (Entreprise), société de sécurité, groupe Google
+
+Ce qui change
+
+35. 1 et antérieures, le projet ne publie plus de mises à jour ; des correctifs existent à appliquer soi-même et chez certains hébergeurs.
+
+Et après
+
+PHP 8.2 arrive en fin de vie le 31 décembre 2026 et ne recevra plus de correctifs de sécurité après cette date. L'alerte du CERT-FR a été mise à jour le 22 octobre.
+
+Sources : CERT-FR (alerte) · PHP.net (avis officiel) · Wiz (annonce de l'entreprise) · Calif (annonce de l'entreprise) · The Next Web · The Daily Record
+
+2. Anthropic : un projet de loi où un juge pourrait stopper un modèle
+
+RÉGULATION
+
+50 : personnes tuées ou blessées : seuil de risque
+
+1 Md$ : de dégâts matériels : autre seuil
+
+72 h : pour alerter le ministère du Commerce
+
+Ce qui s'est passé
+
+Selon Politico, qui a révélé l'information le 16 octobre, Anthropic fait circuler auprès du Congrès américain un projet de loi sur la sécurité de l'IA ; un porte-parole de l'entreprise a confirmé l'existence du texte à Politico. Le texte n'est pas publié : tout ce qui suit vient des descriptions de la presse, notamment TechCrunch (20 octobre). Un modèle ne pourrait être bloqué qu'en cas de risque prévisible et imminent de plus de 50 morts ou blessés graves, ou de plus de 1 milliard de dollars de dégâts matériels, lié à une arme biologique, à un modèle qui échappe au contrôle de son développeur ou à une cyberattaque. Des évaluateurs indépendants, enregistrés auprès du ministère du Commerce et payés par les développeurs, examineraient les modèles ; l'évaluateur qui repère un risque aurait 72 heures pour prévenir le ministère, qui devrait alors demander à un juge fédéral de Washington d'arrêter la sortie du modèle. Les agences fédérales ne pourraient pas l'arrêter seules. Selon Anthropic, le projet reflète son « Advanced AI Framework » de juin 2026, que l'entreprise défend auprès des élus fédéraux et des États. Le texte reste une proposition, et TechCrunch note qu'on ne sait pas si l'administration ou le Congrès en reprendra une partie.
+
+L'éclairage
+
+Qui décide d'arrêter un modèle, et sur quelle base ?
+
+Aujourd'hui, aux États-Unis, aucune loi fédérale ne donne à un juge le pouvoir d'arrêter la sortie d'un modèle d'IA ; la Californie a sa propre loi, la SB 53, dont le projet reprend la définition du « risque catastrophique » et les mêmes seuils chiffrés. Dans le projet décrit, la chaîne est volontairement lente : un évaluateur (un laboratoire extérieur à l'entreprise) teste le modèle, alerte le ministère du Commerce, qui doit saisir un juge. Aucune autorité administrative ne peut trancher seule. Ce qui est établi, ce qui ne l'est pas. Le cadre d'Anthropic de juin 2026 est public : il demande des tests de risques catastrophiques, le recours à des évaluateurs externes et la publication des résultats. Le texte du projet, lui, n'est pas public. TechCrunch relève que le paiement des évaluateurs par les entreprises, même sans lien avec les résultats, pose la question de leur indépendance. Le cadre d'Anthropic prévoit lui-même que l'évaluateur ne doit avoir aucun lien financier dépendant du résultat.
+
+Ce qu'ils en disent
+
+L'entreprise indique que le projet reflète son « Advanced AI Framework », qu'elle défend auprès des élus depuis juin. Dans ce cadre, elle propose que le Congrès ne remplace pas les lois des États sauf adoption d'un régime fédéral au moins aussi strict.
+Anthropic (Entreprise), porte-parole, cadre de juin 2026
+
+Selon TechCrunch, il défend que l'industrie n'a pas besoin de nouvelles lois sur l'IA et que la sécurité doit être laissée aux entreprises. Propos résumés sans guillemets.
+Jensen Huang (Concurrent), PDG de Nvidia, propos du 15 septembre
+
+Ce qui change
+
+Pour un utilisateur ou une entreprise cliente : rien de concret à ce stade, le texte n'existe pas en loi. Pour un laboratoire d'IA, le texte fixerait un circuit d'évaluation extérieure et une seule porte d'arrêt, judiciaire.
+
+Et après
+
+Aucune date de dépôt ou de débat n'est donnée dans les sources consultées. Le texte pourrait être publié, modifié ou abandonné.
+
+Sources : TechCrunch · Anthropic (Advanced AI Framework, juin 2026) · TokenPost
+
+3. Meta : 34,9 Md$ d'investissements et une trésorerie libre négative
+
+PLATEFORMES
+
++26 % : de revenus sur un an, à 64,6 Md$
+
+35 Md$ : investis au trimestre (34,91 Md$)
+
+-2,1 : Md$ de flux de trésorerie disponible
+
+Ce qui s'est passé
+
+Mercredi 21 octobre, Meta a publié ses résultats du troisième trimestre. Le revenu atteint 64,60 milliards de dollars (+26 %). Les charges montent à 51,61 milliards (+68 %) et incluent 9,89 milliards liés à un accord avec 52 procureurs généraux américains sur la santé mentale des adolescents et les réseaux sociaux, qui prévoit jusqu'à environ 18,59 milliards de dollars de paiements selon Meta (les descriptions de cet accord varient d'une source à l'autre). Le résultat d'exploitation est de 12,99 milliards (-37 %), soit 22,88 milliards hors cette charge. Les dépenses d'investissement (serveurs, puces, centres de données) ont atteint 34,91 milliards ; le flux de trésorerie disponible est de -2,12 milliards de dollars. Meta vise 135 à 145 milliards de dépenses d'investissement en 2026 et n'a pas encore fixé son budget 2027. Elle indique que les effectifs ont reculé de 15 % sur un an, à 66 775 personnes. Mark Zuckerberg a cité le lancement de Muse et de Muse Wonder, qu'il présente comme le premier modèle de pointe de l'entreprise ; selon la retranscription de l'appel publiée par Investing.com, plus de 10 millions de personnes aux États-Unis et au Canada ont configuré Muse. Le conseil d'administration a aussi approuvé une nouvelle catégorie d'actions sans droit de vote, dite « classe C », effective le 19 janvier 2027. Le titre a gagné 0,46 % en séance puis entre 2,9 % et 3,8 % après la clôture, selon les sources.
+
+L'éclairage
+
+Pourquoi une entreprise rentable peut avoir une trésorerie libre négative
+
+Le flux de trésorerie disponible est l'argent généré par l'activité (32,79 milliards de dollars ce trimestre) moins ce qui est dépensé pour acheter ou construire des équipements (34,91 milliards, bail financier compris). Le solde d'environ -2,1 milliard signifie que Meta a dépensé plus qu'elle n'a encaissé sur ce trimestre, tout en gardant 82,45 milliards en trésorerie et placements. La part de ces investissements consacrée à l'IA n'est pas détaillée dans les sources consultées. Annonce ou résultat ? Les chiffres financiers viennent des documents de l'entreprise. En revanche, les affirmations selon lesquelles ses investissements en IA portent leurs fruits sont celles de la direction, présentées sans mesure indépendante. Meta attribue une partie de la hausse de la publicité à l'IA (meilleures recommandations et monétisation) sans chiffrer cette part.
+
+Ce qu'ils en disent
+
+Il déclare : « Our investments are paying off, the core business is strong, and we're seeing velocity across the board. »
+Mark Zuckerberg (Entreprise), fondateur et PDG de Meta
+
+Meta indique qu'elle compte continuer à investir fortement en 2027 pour son activité principale et l'IA, et que les pertes de Reality Labs, sa division de réalité virtuelle, devraient revenir à environ 15 milliards de dollars. Propos résumés sans guillemets.
+Meta (Entreprise), perspectives financières du communiqué
+
+Ce qui change
+
+Pour un annonceur : Meta affirme que l'IA améliore le ciblage et les recommandations ; aucune mesure indépendante n'est donnée. Pour un salarié du secteur : les effectifs de Meta ont baissé de 15 % sur un an.
+
+Et après
+
+Meta doit donner plus de détails sur le budget 2027 lors de son prochain appel de résultats (selon la retranscription d'Investing.com). La classe C est prévue le 19 janvier 2027.
+
+Sources : Meta (communiqué de résultats) · SEC (rapport 10-Q de Meta) · Boursorama · Investing.com
+
+À venir
+
+- 31 déc. : net).
+- 19 janv. : Meta : date d'effet prévue de la nouvelle classe C d'actions sans droit de vote (SEC).
+
+Les mots du jour
+
+CVE
+Numéro d'identification public d'une faille de sécurité connue, qui permet à tous de parler de la même faille.
+Divulgation coordonnée
+Pratique qui consiste à prévenir d'abord l'éditeur d'un logiciel et à publier les détails seulement quand le correctif existe.
+Flux de trésorerie disponible
+L'argent généré par l'activité, moins les dépenses d'équipement : ce qui reste réellement en caisse.
+Action sans droit de vote
+Part d'une société cotée qui donne droit à un dividende mais pas à une voix aux assemblées d'actionnaires.
+
+Vrai ou faux ?
+
+Selon le projet de loi décrit par la presse, un évaluateur indépendant pourrait lui-même interdire la sortie d'un modèle d'IA dangereux.
+
+Réponse : faux. Faux : l'évaluateur qui repère un risque doit prévenir le ministère du Commerce sous 72 heures, et c'est ce ministère qui devrait demander à un juge fédéral de Washington d'arrêter la sortie du modèle. Les agences ne pourraient pas l'arrêter seules.
+
+Retrouvez cette édition sur eclairagemedia.com.
