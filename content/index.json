@@ -1,5 +1,320 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-25",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PARTIS",
+    "titre": "RN : Jordan Bardella réélu président avec 98,98 % des voix",
+    "court": "RN : Bardella réélu avec 98,98 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Z%C3%A9nith_d%27Orl%C3%A9ans.jpg/1280px-Z%C3%A9nith_d%27Orl%C3%A9ans.jpg",
+    "legende": "Le Zénith d'Orléans, salle du congrès du RN",
+    "chapeau": "Samedi 24 octobre, au congrès du Rassemblement national (RN), ouvert peu avant 15h au Zénith d'Orléans, Jordan Bardella a été réélu président du parti. Seul candidat, il a recueilli 98,98 % des voix, soit 75 497 suffrages contre 779 bulletins blancs, pour une participation proche de 68 %.",
+    "eclairage": "Président du parti, candidate à la présidentielle : deux rôles distincts",
+    "chiffres": [
+     {
+      "valeur": "98,98 %",
+      "legende": "des voix, seul candidat"
+     },
+     {
+      "valeur": "75 497",
+      "legende": "suffrages (779 blancs)"
+     },
+     {
+      "valeur": "~68 %",
+      "legende": "de participation"
+     }
+    ],
+    "passe": "Samedi 24 octobre, au congrès du Rassemblement national (RN), ouvert peu avant 15h au Zénith d'Orléans, Jordan Bardella a été réélu président du parti. Seul candidat, il a recueilli 98,98 % des voix, soit 75 497 suffrages contre 779 bulletins blancs, pour une participation proche de 68 %. Les résultats ont été annoncés par le député Yoann Gillet, chargé de l'organisation du congrès. Le scrutin intervient après plusieurs semaines marquées par des accusations d'écrits antisémites visant Jordan Bardella, qu'il réfute. Dans son discours, il a appelé ses troupes au « sang-froid » face à des adversaires qui, selon lui, « légitiment la violence ». Marine Le Pen tient dimanche à Orléans son premier grand meeting de campagne présidentielle.",
+    "points": [],
+    "explication": "Jordan Bardella dirige le parti : il anime l'organisation, les cadres et les militants. La candidate à l'élection présidentielle du RN est, selon les propos de M. Bardella et le programme du week-end, Marine Le Pen. Il dit avoir besoin des militants « pour conduire Marine Le Pen à l'Elysée ». Le premier tour de la présidentielle est prévu le 18 avril 2027, le second le 2 mai.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/orleans-bardella-reelu-au-congres-du-rn-apres-une-matinee-de-contre-manifestation-dans-le-calme-fb2ab1f733fbe467ac8626e72d1133c3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.rts.ch/info/monde/2026/article/rn-jordan-bardella-reelu-president-avec-99-des-voix-29395402.html",
+      "nom": "RTS"
+     },
+     {
+      "url": "https://www.24heures.ch/bardella-le-president-du-rn-reelu-avec-pres-de-99-des-voix-642797530461",
+      "nom": "24 heures"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "Appelle au « sang-froid » face à des adversaires qui « légitiment la violence »",
+      "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Dimanche 25 octobre, 15h30 : premier grand meeting de campagne de Marine Le Pen à l'Arena Co'Met d'Orléans, environ 10 000 personnes attendues.",
+    "change": "Le RN ouvre sa campagne présidentielle avec un parti dont la direction est confirmée pour la suite, et une candidate qui prend la parole à son tour dimanche.",
+    "credit": {
+     "auteur": "U4you",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Z%C3%A9nith_d%27Orl%C3%A9ans.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "SOCIÉTÉ",
+    "titre": "Orléans : 13 000 manifestants contre le congrès du RN, sans heurts",
+    "court": "Orléans : 13 000 manifestants, sans heurts",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Manifestation_contre_le_racisme_du_22_mars_2025_%C3%A0_Paris_%E2%80%94_46.jpg/1280px-Manifestation_contre_le_racisme_du_22_mars_2025_%C3%A0_Paris_%E2%80%94_46.jpg",
+    "legende": "Cortège contre le racisme à Paris, mars 2025 (illustration)",
+    "chapeau": "Samedi 24 octobre, un cortège « antifasciste » s'est élancé vers 11h à Orléans, en marge du congrès du RN. Il a réuni 13 000 personnes selon les autorités, 26 000 selon les organisateurs ; les autorités en attendaient jusqu'à 30 000.",
+    "eclairage": "Un préfet peut-il interdire une manifestation ?",
+    "chiffres": [
+     {
+      "valeur": "13 000",
+      "legende": "selon les autorités"
+     },
+     {
+      "valeur": "26 000",
+      "legende": "selon les organisateurs"
+     },
+     {
+      "valeur": "~3 000",
+      "legende": "policiers et gendarmes"
+     }
+    ],
+    "passe": "Samedi 24 octobre, un cortège « antifasciste » s'est élancé vers 11h à Orléans, en marge du congrès du RN. Il a réuni 13 000 personnes selon les autorités, 26 000 selon les organisateurs ; les autorités en attendaient jusqu'à 30 000. La manifestation s'est dispersée dans le calme et plusieurs centaines de militants sont restés dans un « village antifasciste » en centre-ville. Olivier Faure (PS), Clémentine Autain (écologiste) et Bally Bagayoko (maire LFI de Saint-Denis) étaient en tête de cortège. Près de 3 000 policiers, gendarmes et CRS étaient mobilisés, avec des blindés Centaure, des hélicoptères et des drones ; les autorités redoutaient la présence de 2 000 à 3 000 « éléments radicaux ». Un couvre-feu vise les mineurs de moins de 15 ans pendant deux nuits. Le préfet du Loiret, Hugues Moutouh, a interdit dimanche les manifestations dans une grande partie de l'agglomération ; SUD-PTT Loiret, co-organisateur, annonce un recours devant le tribunal administratif.",
+    "points": [],
+    "explication": "En France, une manifestation sur la voie publique doit être déclarée en préfecture. Le préfet, représentant de l'État dans le département, peut l'interdire s'il estime que l'ordre public ne peut pas être garanti. Les organisateurs peuvent contester cette décision devant le tribunal administratif, ce qu'annonce SUD-PTT Loiret. Ici, la manifestation de samedi a eu lieu ; seule celle de dimanche est interdite.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/orleans-bardella-reelu-au-congres-du-rn-apres-une-matinee-de-contre-manifestation-dans-le-calme-fb2ab1f733fbe467ac8626e72d1133c3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/orleans/congres-du-rassemblement-national-mobilisations-antifascistes-et-manifestation-interdite-a-orleans-ce-week-end-3896817",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://www.politis.fr/articles/2026/10/mobilisation-antifascisme-un-large-front-anti-rn-mobilise-a-orleans/",
+      "nom": "Politis"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/congres-du-rn-et-contre-manifestations-en-ville-orleans-annonce-des-premieres-restrictions-pour-le-week-end-du-24-et-25-octobre-3437289.html",
+      "nom": "France 3 Centre-Val de Loire"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "Selon lui, la situation est « un peu la campagne à venir »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/orleans-bardella-reelu-au-congres-du-rn-apres-une-matinee-de-contre-manifestation-dans-le-calme-fb2ab1f733fbe467ac8626e72d1133c3",
+      "source": "dépêche AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "DIVERS DROITE",
+      "qui": "Serge Grouard",
+      "contexte": "maire d'Orléans",
+      "texte": "Il y avait « beaucoup moins de personnes que ce qui était annoncé »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/orleans-bardella-reelu-au-congres-du-rn-apres-une-matinee-de-contre-manifestation-dans-le-calme-fb2ab1f733fbe467ac8626e72d1133c3",
+      "source": "dépêche AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "GAUCHE",
+      "qui": "Olivier Faure, Clémentine Autain, Bally Bagayoko",
+      "contexte": "PS, écologiste, LFI",
+      "texte": "Les responsables de gauche ont dénoncé un climat raciste et islamophobe, en citant les tirs meurtriers de Trappes.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/orleans-bardella-reelu-au-congres-du-rn-apres-une-matinee-de-contre-manifestation-dans-le-calme-fb2ab1f733fbe467ac8626e72d1133c3",
+      "source": "dépêche AFP via Boursorama"
+     }
+    ],
+    "apres": "Dimanche : manifestation interdite dans l'agglomération, recours annoncé devant le tribunal administratif ; meeting de Marine Le Pen à 15h30.",
+    "change": "Un week-end sous haute surveillance : le déploiement de forces de l'ordre et les interdictions locales montrent le niveau de tension autour des rassemblements politiques à cinq mois de la campagne officielle.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_contre_le_racisme_du_22_mars_2025_%C3%A0_Paris_%E2%80%94_46.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "JUSTICE",
+    "titre": "Trappes : enquête antiterroriste, une phrase de Macron précisée",
+    "court": "Trappes : l'enquête et la phrase de Macron",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tribunal_de_Paris_seen_from_Batignolles_park.jpg/1280px-Tribunal_de_Paris_seen_from_Batignolles_park.jpg",
+    "legende": "Le tribunal de Paris, siège du parquet national antiterroriste (illustration)",
+    "chapeau": "Vendredi 23 octobre, en moins de quinze minutes, un homme a tiré en rafales depuis sa voiture à Trappes et La Verrière (Yvelines).",
+    "eclairage": "Pourquoi le parquet antiterroriste ?",
+    "chiffres": [
+     {
+      "valeur": "1",
+      "legende": "mort (26 ans)"
+     },
+     {
+      "valeur": "5",
+      "legende": "blessés, dont une fillette"
+     },
+     {
+      "valeur": "3",
+      "legende": "proches en garde à vue"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, en moins de quinze minutes, un homme a tiré en rafales depuis sa voiture à Trappes et La Verrière (Yvelines). Pengo Bossio Wangi, 26 ans, a été tué ; cinq personnes ont été blessées, dont une fillette de 12 ans dont l'état reste en « urgence absolue » selon le Parquet national antiterroriste (Pnat). Le suspect, 39 ans, a été interpellé par la BAC. Le Pnat s'est saisi pour « assassinat en relation avec une entreprise terroriste ». Samedi matin, sa garde à vue a été prolongée après une première audition ; sa mère, qui s'est rendue à la police, et deux autres proches sont également en garde à vue, et des analyses toxicologiques sont en cours. Le suspect est présumé innocent. Vendredi soir à Trappes, Emmanuel Macron a évoqué un « tournant » ; l'Élysée a ensuite précisé qu'il visait le premier attentat raciste fondé sur la couleur de peau. Samedi, plusieurs centaines de personnes se sont rassemblées à Trappes.",
+    "points": [],
+    "explication": "Le Pnat est un parquet national, basé à Paris, compétent pour les affaires de terrorisme sur tout le territoire. Il s'est saisi ici en retenant la qualification d'assassinat « en relation avec une entreprise terroriste » ; ce n'est pas un jugement, mais le cadre de l'enquête. Garde à vue : les enquêteurs retiennent une personne soupçonnée ; à son terme, elle est libérée ou présentée à un juge.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/10/23/deplacement-a-trappes",
+      "nom": "Élysée"
+     },
+     {
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/attentat-raciste-a-trappes-ce-que-l-on-sait-de-l-enquete-sur-kevin-t-et-ses-motivations-3438654.html",
+      "nom": "France 3 Paris Île-de-France"
+     },
+     {
+      "url": "https://www.i24news.tv/fr/actu/france/artc-attentat-de-trappes-la-phrase-de-macron-qui-ne-passe-pas",
+      "nom": "i24NEWS"
+     },
+     {
+      "url": "https://fr.news.yahoo.com/attentat-terroriste-raciste-%C3%A0-trappes-103253945.html",
+      "nom": "BFMTV via Yahoo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Emmanuel Macron",
+      "contexte": "président de la République",
+      "texte": "« C'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes, nos enfants »",
+      "url": "https://www.i24news.tv/fr/actu/france/artc-attentat-de-trappes-la-phrase-de-macron-qui-ne-passe-pas",
+      "source": "i24NEWS"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "Il a demandé à Emmanuel Macron de ne pas oublier les enfants juifs tués à Toulouse en 2012, les victimes de l'Hyper Cacher en 2015, le père Jacques Hamel en 2016 et les fidèles tués à Nice en 2020.",
+      "url": "https://www.i24news.tv/fr/actu/france/artc-attentat-de-trappes-la-phrase-de-macron-qui-ne-passe-pas",
+      "source": "i24NEWS"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Jérôme Guedj",
+      "contexte": "député",
+      "texte": "Cette déclaration est « factuellement fausse donc politiquement problématique »",
+      "url": "https://www.i24news.tv/fr/actu/france/artc-attentat-de-trappes-la-phrase-de-macron-qui-ne-passe-pas",
+      "source": "i24NEWS"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CRIF",
+      "qui": "Yonathan Arfi",
+      "contexte": "président",
+      "texte": "Selon lui, ces propos « méritent un correctif »",
+      "url": "https://www.i24news.tv/fr/actu/france/artc-attentat-de-trappes-la-phrase-de-macron-qui-ne-passe-pas",
+      "source": "i24NEWS"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "MAIRIE DE TRAPPES",
+      "qui": "Ali Rabeh",
+      "contexte": "maire",
+      "texte": "Il parle d'« un attentat, à connotation raciste, probablement islamophobe »",
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/attentat-raciste-a-trappes-ce-que-l-on-sait-de-l-enquete-sur-kevin-t-et-ses-motivations-3438654.html",
+      "source": "France 3"
+     }
+    ],
+    "apres": "Fin de garde à vue ou présentation à un juge d'instruction dans les prochains jours, selon la décision du parquet.",
+    "change": "Le Pnat est chargé de déterminer le mobile et le parcours du suspect ; la qualification retenue ouvre une enquête antiterroriste, pas un procès.",
+    "credit": {
+     "auteur": "Coppertarzan",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Tribunal_de_Paris_seen_from_Batignolles_park.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "Orléans : premier grand meeting de campagne de Marine Le Pen (15h30). Brésil : second tour de la présidentielle."
+   },
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Matignon : Sébastien Lecornu reçoit les représentants lycéens."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Sénat : début de l'examen du budget de la Sécurité sociale 2027."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Congrès (d'un parti)",
+    "definition": "Grande réunion des adhérents et des cadres d'un parti, où l'on vote pour désigner sa direction."
+   },
+   {
+    "terme": "Préfet",
+    "definition": "Représentant de l'État dans un département ; il peut notamment interdire une manifestation."
+   },
+   {
+    "terme": "Pnat",
+    "definition": "Parquet national antiterroriste : parquet spécialisé, basé à Paris, qui se saisit des affaires de terrorisme."
+   },
+   {
+    "terme": "Second tour",
+    "definition": "Deuxième vote d'une élection, réservé aux deux candidats arrivés en tête du premier ; celui qui obtient le plus de voix l'emporte."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Samedi 24 octobre, Jordan Bardella a été réélu président du RN alors qu'il était le seul candidat.",
+   "reponse": true,
+   "explication": "Vrai : il a recueilli 98,98 % des voix, soit 75 497 suffrages contre 779 bulletins blancs, pour une participation proche de 68 %."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-24",
   "minutes": 13,
