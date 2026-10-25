@@ -1,5 +1,334 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-25",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH",
+    "titre": "Meta : trésorerie négative au T3 et création d'actions sans droit de vote",
+    "court": "Meta : des actions sans droit de vote",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG/1280px-Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG",
+    "legende": "Vue aérienne du campus de Meta (ex-Facebook) à Menlo Park, en Californie (illustration)",
+    "chapeau": "Mercredi 21 octobre, Meta a publié ses résultats du troisième trimestre 2026 : 64,6 milliards de dollars de chiffre d'affaires (+26 % sur un an), pour un résultat net de 9,86 milliards et un bénéfice par action de 3,83 $, contre 1,05 $ un an plus tôt.",
+    "eclairage": "Pourquoi créer des actions « sans vote » ?",
+    "chiffres": [
+     {
+      "valeur": "64,6 Md$",
+      "legende": "chiffre d'affaires du T3, +26 % sur un an"
+     },
+     {
+      "valeur": "34,9 Md$",
+      "legende": "dépenses d'investissement du trimestre"
+     },
+     {
+      "valeur": "-2,1 Md$",
+      "legende": "flux de trésorerie disponible du T3"
+     }
+    ],
+    "passe": "Mercredi 21 octobre, Meta a publié ses résultats du troisième trimestre 2026 : 64,6 milliards de dollars de chiffre d'affaires (+26 % sur un an), pour un résultat net de 9,86 milliards et un bénéfice par action de 3,83 $, contre 1,05 $ un an plus tôt. Le résultat d'exploitation recule de 37 %, à 12,99 milliards, car le groupe a comptabilisé 9,89 milliards de dollars de charge liée à l'accord conclu en août avec 52 procureurs généraux américains sur les réseaux sociaux et la santé mentale des adolescents ; les paiements prévus peuvent atteindre environ 18,6 milliards au total. Les dépenses d'investissement du trimestre atteignent 34,91 milliards, la fourchette 2026 est resserrée à 135-145 milliards, et le flux de trésorerie disponible est négatif de 2,12 milliards (positif de 10,6 milliards un an plus tôt, selon XTB). Meta annonce aussi la création, en janvier 2027, d'une catégorie d'actions cotées sans droit de vote (classe C), distribuée à raison d'une action pour chaque action A ou B détenue. Le titre gagnait environ 3,5 % en échanges après clôture, selon XTB.",
+    "points": [],
+    "explication": "Une action donne une part de l'entreprise et, en général, un droit de vote aux assemblées. Meta crée une classe C qui garde la part de capital mais pas le vote : l'entreprise peut ainsi émettre des actions pour payer des acquisitions, des salariés ou des puces d'IA sans diluer le contrôle de ses dirigeants. Selon Semafor, c'est son but. L'enjeu de fond est le financement : le flux de trésorerie disponible (l'argent qui reste après les dépenses d'investissement) est passé en négatif, et selon XTB, Meta ne finance plus la course à l'IA uniquement avec ses profits. Meta dit que le pouvoir de vote des actionnaires ne change pas, et que le cours de l'action A devrait refléter un fractionnement 2 pour 1.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+      "nom": "Meta (dépôt SEC, 8-K)"
+     },
+     {
+      "url": "https://www.xtb.com/en/market-analysis/record-breaking-meta-though-with-a-cash-loss-investors-for-now-are-buying-zuckerberg-s-plan-anyway",
+      "nom": "XTB"
+     },
+     {
+      "url": "https://semafor.com/article/10/21/2026/meta-plans-nonvoting-shares-eyeing-more-stock-sales-to-fund-its-ai-dreams",
+      "nom": "Semafor"
+     },
+     {
+      "url": "https://www.newsquawk.com/headlines/meta-platforms-inc-meta-q3-2026-usd-eps-383-exp-667-revenue-646bln-exp-6331bln",
+      "nom": "Newsquawk"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Mark Zuckerberg",
+      "contexte": "fondateur et PDG de Meta, communiqué du 21 octobre",
+      "texte": "« Our investments are paying off, the core business is strong, and we're seeing velocity across the board. » (Ses investissements portent leurs fruits, le cœur de métier est solide et la dynamique est forte partout.)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+      "source": "Meta, dépôt SEC"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "XTB",
+      "contexte": "courtier et centre d'analyse",
+      "texte": "Selon XTB, « the market is paying for growth and not worrying about the bill » : le marché paie la croissance sans s'inquiéter de la facture.",
+      "url": "https://www.xtb.com/en/market-analysis/record-breaking-meta-though-with-a-cash-loss-investors-for-now-are-buying-zuckerberg-s-plan-anyway",
+      "source": "XTB"
+     }
+    ],
+    "apres": "La classe C doit entrer en vigueur en janvier 2027. Meta indique une fourchette de dépenses d'investissement 2026 de 135 à 145 milliards de dollars.",
+    "change": "Pour les actionnaires, le pouvoir de vote reste concentré, selon Meta, alors que de nouvelles actions pourront être émises.",
+    "credit": {
+     "auteur": "Pi.1415926535",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Facebook_campus_in_Menlo_Park,_September_2019.JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉNERGIE",
+    "titre": "Énergie : le Brent à 116,72 $, le gaz européen au plus haut depuis 2022",
+    "court": "Brent à 116,72 $, gaz au plus haut",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PumpjacksFull.JPG/1280px-PumpjacksFull.JPG",
+    "legende": "Des pompes à balancier dans un champ pétrolier, au coucher du soleil (illustration)",
+    "chapeau": "Vendredi 23 octobre, le Brent a clôturé à 116,72 dollars le baril (+3,14 % sur la séance) et le WTI américain à 103,27 dollars (+3,82 %), selon Reuters : sur la semaine, le Brent gagne environ 6 % et le WTI environ 2,3 %, à leurs plus hauts de clôture depuis près de six mois.",
+    "eclairage": "Pourquoi une attaque en Arabie saoudite fait monter le gaz en France ?",
+    "chiffres": [
+     {
+      "valeur": "116,7",
+      "legende": "$ le baril de Brent, clôture du vendredi 23"
+     },
+     {
+      "valeur": "+6 %",
+      "legende": "hausse du Brent sur la semaine"
+     },
+     {
+      "valeur": "93,7 €",
+      "legende": "le MWh de gaz (TTF), mi-journée vendredi"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, le Brent a clôturé à 116,72 dollars le baril (+3,14 % sur la séance) et le WTI américain à 103,27 dollars (+3,82 %), selon Reuters : sur la semaine, le Brent gagne environ 6 % et le WTI environ 2,3 %, à leurs plus hauts de clôture depuis près de six mois. Selon l'AFP, le Brent avait touché 115 dollars dans la journée, son plus haut depuis début mai. Les facteurs cités : des attaques attribuées aux rebelles houthis contre des infrastructures civiles saoudiennes (pétrole, aéroports) à une échelle jamais vue depuis le début du conflit au Yémen en 2014, les tensions entre Washington et Téhéran, et une fuite de pétrole signalée au large des Émirats arabes unis. Sur le gaz, le TTF européen gagnait 4,16 % à 93,72 euros le mégawattheure à la mi-journée, son plus haut depuis 2022, d'après l'AFP, qui cite de faibles livraisons de gaz naturel liquéfié (GNL) du Golfe, l'attaque d'un méthanier au large du Yémen et des stocks européens bas. Côté français, le contrat de novembre du PEG a clôturé à 92,12 euros le MWh (+4,1 % sur la journée, +7,3 % sur la semaine), selon Selectra ; les stocks de l'Union européenne sont remplis à 74,6 %, contre 82,9 % un an plus tôt.",
+    "points": [],
+    "explication": "Le Brent est le prix de référence du pétrole de la mer du Nord, le WTI celui du pétrole américain. Ces prix intègrent une prime de risque : quand une attaque menace l'offre, les acheteurs paient plus cher pour se garantir des livraisons. Le gaz suit une logique voisine : une partie du GNL arrive du Golfe par bateau, et quand ces livraisons faiblissent, l'Europe doit l'acheter ailleurs, à un prix plus élevé, alors que ses stocks sont moins remplis qu'il y a un an. Le TTF (marché néerlandais) et le PEG (marché français) sont les deux prix de gros du gaz en Europe. Ces prix de gros n'arrivent pas tout de suite sur la facture : la formule du prix repère de la CRE utilise des cours observés environ deux mois plus tôt, selon Selectra.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.connaissancedesenergies.org/afp/la-guerre-au-moyen-orient-pousse-le-petrole-au-plus-haut-depuis-mai-261023",
+      "nom": "dépêche AFP via Connaissance des Énergies"
+     },
+     {
+      "url": "https://rezonodwes.com/2026/10/petrole-le-wti-depasse-les-103-dollars-a-new-york-le-brent-atteint-11672-dollars/",
+      "nom": "Reuters via Rezo Nòdwès"
+     },
+     {
+      "url": "https://www.riotimesonline.com/oil-markets-latam-friday-october-23-2026",
+      "nom": "Rio Times"
+     },
+     {
+      "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-24",
+      "nom": "Selectra"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Barbara Lambrecht",
+      "contexte": "Commerzbank, citée par l'AFP",
+      "texte": "Elle évoque une grande incertitude sur le volume de pétrole physiquement disponible en ce moment, selon l'AFP.",
+      "url": "https://www.connaissancedesenergies.org/afp/la-guerre-au-moyen-orient-pousse-le-petrole-au-plus-haut-depuis-mai-261023",
+      "source": "AFP via Connaissance des Énergies"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Ole Hansen",
+      "contexte": "Saxo Bank, cité par l'AFP",
+      "texte": "Il dit que le marché s'inquiète de plus en plus de la possibilité que de nouvelles attaques endommagent les infrastructures, selon l'AFP.",
+      "url": "https://www.connaissancedesenergies.org/afp/la-guerre-au-moyen-orient-pousse-le-petrole-au-plus-haut-depuis-mai-261023",
+      "source": "AFP via Connaissance des Énergies"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Donald Trump",
+      "contexte": "président des États-Unis, sur Truth Social",
+      "texte": "Il accuse l'Iran de chercher à faire monter les prix du pétrole avant les élections américaines de mi-mandat du 3 novembre, rapporte l'AFP. Les analystes d'ING indiquent qu'il envisage de nouvelles frappes contre l'Iran.",
+      "url": "https://www.connaissancedesenergies.org/afp/la-guerre-au-moyen-orient-pousse-le-petrole-au-plus-haut-depuis-mai-261023",
+      "source": "AFP via Connaissance des Énergies"
+     }
+    ],
+    "apres": "Décision de la BCE jeudi 29 octobre à 14h15, inflation provisoire d'octobre publiée par l'Insee vendredi 30, puis élections américaines de mi-mandat le 3 novembre.",
+    "change": "Pour les ménages, le prix repère du gaz de la CRE pour novembre est de 0,1576 € le kWh TTC, en hausse de 8,3 % sur un mois (Selectra), avant les effets éventuels de la hausse des cours de gros.",
+    "credit": {
+     "auteur": "Arne Hückelheim",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:PumpjacksFull.JPG"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Brent et WTI",
+    "definition": "Deux prix de référence du pétrole : le Brent pour la mer du Nord et une grande partie du commerce mondial, le WTI pour le pétrole américain."
+   },
+   {
+    "terme": "Flux de trésorerie disponible",
+    "definition": "Argent qui reste à une entreprise après ses dépenses courantes et ses investissements. Négatif, il signifie qu'elle dépense plus qu'elle n'encaisse."
+   },
+   {
+    "terme": "Action sans droit de vote",
+    "definition": "Part du capital qui donne droit aux bénéfices et au cours de Bourse, mais pas à une voix en assemblée générale."
+   },
+   {
+    "terme": "GNL",
+    "definition": "Gaz naturel liquéfié : du gaz refroidi pour être transporté par bateau, puis regazéifié dans les terminaux méthaniers."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 23 octobre 2026, le Brent a clôturé au-dessus de 110 dollars le baril.",
+   "reponse": true,
+   "explication": "Le Brent a clôturé à 116,72 dollars, son plus haut niveau de clôture depuis près de six mois, selon Reuters."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-25",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CULTURE ET PATRIMOINE",
+    "titre": "Zarafa : la première girafe de France fête ses 200 ans à La Rochelle",
+    "court": "Zarafa : 200 ans au Muséum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zarafa_2010.jpg/1280px-Zarafa_2010.jpg",
+    "legende": "Zarafa, en haut des marches du Muséum d'histoire naturelle de La Rochelle",
+    "chapeau": "Zarafa est la première girafe arrivée en France. Débarquée à Marseille en octobre 1826 selon ICI et France 3, elle a rejoint Paris à pied.",
+    "eclairage": "Pourquoi radiographier un animal naturalisé ?",
+    "chiffres": [
+     {
+      "valeur": "200 ans",
+      "legende": "depuis son arrivée à Marseille, en 1826"
+     },
+     {
+      "valeur": "1931",
+      "legende": "don du spécimen naturalisé au musée de La Rochelle"
+     },
+     {
+      "valeur": "26 oct.",
+      "legende": "radiographie prévue au musée"
+     }
+    ],
+    "passe": "Zarafa est la première girafe arrivée en France. Débarquée à Marseille en octobre 1826 selon ICI et France 3, elle a rejoint Paris à pied. Le musée la dit offerte à Charles X en 1827 par Méhémet-Ali, pacha d'Égypte, et elle a vécu environ dix-sept ans à Paris. Le spécimen naturalisé, daté du 12 janvier 1845, a appartenu au Muséum national d'histoire naturelle avant d'être donné au musée de La Rochelle en 1931 ; il appartient aujourd'hui à la Ville et se trouve en haut des marches du premier étage. À l'occasion des 200 ans, une radiographie est prévue le lundi 26 octobre pour étudier la méthode de naturalisation ; des ateliers pour enfants, des conférences et des pièces de théâtre sont aussi annoncés. Zarafa mesure 4,40 m.",
+    "points": [
+     "La naturalisation prépare la dépouille d'un animal pour la conserver et l'exposer. Zarafa a été montée sur un mannequin de bois (ICI).",
+     "Une radiographie montre l'intérieur sans démonter l'animal. Selon ICI, la directrice du musée la prépare depuis plus d'un an pour comprendre comment la girafe a été naturalisée.",
+     "Le propriétaire est la Ville, qui décide avec le musée de la conservation. ICI indique que le musée veut adapter la conservation pour que la girafe dure encore 200 ans."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://museum.larochelle.fr/un-avant-gout/les-incontournables/zarafa-la-girafe",
+      "nom": "Muséum de La Rochelle"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/c-est-notre-mona-lisa-a-nous-la-girafe-zarafa-fete-ses-200-ans-au-museum-d-histoire-naturelle-de-la-rochelle-2000360",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/les-gens-viennent-de-loin-voir-la-premiere-girafe-arrivee-en-france-ce-musee-fete-les-200-ans-de-zarafa-sa-joconde-tachetee-3438507.html",
+      "nom": "France 3 Nouvelle-Aquitaine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#8b3dff",
+      "parti": "MUSÉUM",
+      "qui": "Élise Patole-Edoumba",
+      "contexte": "directrice du musée",
+      "texte": "Elle compare Zarafa à la Joconde : « notre Mona Lisa à nous ». Elle prévoit d'adapter la conservation de la girafe pour les 200 prochaines années.",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/c-est-notre-mona-lisa-a-nous-la-girafe-zarafa-fete-ses-200-ans-au-museum-d-histoire-naturelle-de-la-rochelle-2000360",
+      "source": "ICI"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "MAJORITÉ MUNICIPALE",
+      "qui": "Olivier Falorni",
+      "contexte": "maire de La Rochelle",
+      "texte": "Selon ICI, le maire qualifie Zarafa de « une star ». ICI rappelle qu'elle a le statut de « trésor national ».",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/la-rochelle/c-est-notre-mona-lisa-a-nous-la-girafe-zarafa-fete-ses-200-ans-au-museum-d-histoire-naturelle-de-la-rochelle-2000360",
+      "source": "ICI"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTEUR",
+      "qui": "Olivier Lebleu",
+      "contexte": "écrivain, cité par France 3",
+      "texte": "À propos de la girafe, installée dans l'escalier depuis 1931 : « Elle est ici, elle ne pourra plus en sortir. »",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/les-gens-viennent-de-loin-voir-la-premiere-girafe-arrivee-en-france-ce-musee-fete-les-200-ans-de-zarafa-sa-joconde-tachetee-3438507.html",
+      "source": "France 3"
+     }
+    ],
+    "apres": "Radiographie le lundi 26 octobre, puis adaptation de la conservation. Aucun calendrier de cette seconde étape n'est publié à ce stade.",
+    "change": "Pour un visiteur, Zarafa reste à sa place, en haut des marches du premier étage. Les sources ne précisent pas si la radiographie du 26 octobre modifie l'accès au public ce jour-là : le musée donne son agenda au 05 46 41 18 25.",
+    "credit": {
+     "auteur": "Jebulon",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Zarafa_2010.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Zarafa : radiographie prévue au Muséum d'histoire naturelle (source : France 3)."
+   },
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Rue de la Chaîne : début des travaux d'assainissement et de gaz, jusqu'au 4 décembre."
+   },
+   {
+    "jour": "24",
+    "mois": "NOV.",
+    "texte": "Rue Gargoulleau : fin de la première phase (gaz et assainissement), qui reprend du 1er février au 31 mars 2027."
+   },
+   {
+    "jour": "11",
+    "mois": "DÉC.",
+    "texte": "Rue de la Sardinerie, Paradis, Marionnettes : fin des travaux de gaz ; les autres réseaux suivent au premier semestre 2027."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Naturalisation",
+    "definition": "La préparation de la peau d'un animal mort pour la conserver et l'exposer, souvent sur un mannequin."
+   },
+   {
+    "terme": "Radiographie",
+    "definition": "Une image par rayons X qui montre l'intérieur d'un objet sans l'ouvrir."
+   },
+   {
+    "terme": "Trésor national",
+    "definition": "Un statut réservé à un bien culturel jugé d'intérêt majeur pour le patrimoine. ICI l'applique à Zarafa ; son fondement exact n'est pas détaillé dans les sources consultées."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Zarafa, la girafe exposée au Muséum de La Rochelle, est la première girafe arrivée en France.",
+   "reponse": true,
+   "explication": "Vrai : le musée la décrit comme la première girafe à arriver en France. Naturalisée, elle a été donnée au musée de La Rochelle en 1931."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-25",
   "minutes": 10,
@@ -312,6 +641,279 @@
    "affirmation": "Samedi 24 octobre, Jordan Bardella a été réélu président du RN alors qu'il était le seul candidat.",
    "reponse": true,
    "explication": "Vrai : il a recueilli 98,98 % des voix, soit 75 497 suffrages contre 779 bulletins blancs, pour une participation proche de 68 %."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-25",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TRAITEMENT",
+    "titre": "Mélanome opéré : un vaccin à ARN et pembrolizumab, moins de récidives",
+    "court": "Mélanome : vaccin à ARN, essai de phase 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dermatoscopio_ottico_a_Contatto.jpg/1280px-Dermatoscopio_ottico_a_Contatto.jpg",
+    "legende": "Un dermatoscope allumé, instrument d'examen des grains de beauté (illustration)",
+    "chapeau": "Samedi 24 octobre, à Madrid, au congrès de la Société européenne d'oncologie médicale (ESMO), Georgina Long a présenté les résultats de l'essai de phase 3 INTerpath-001, mené par Merck et Moderna.",
+    "eclairage": "Comment marche un vaccin à ARN contre un cancer ?",
+    "chiffres": [
+     {
+      "valeur": "0,58",
+      "legende": "rapport de risque de récidive"
+     },
+     {
+      "valeur": "82,2 %",
+      "legende": "sans récidive à 24 mois (70,0 %)"
+     },
+     {
+      "valeur": "1 137",
+      "legende": "patients dans l'essai"
+     }
+    ],
+    "passe": "Samedi 24 octobre, à Madrid, au congrès de la Société européenne d'oncologie médicale (ESMO), Georgina Long a présenté les résultats de l'essai de phase 3 INTerpath-001, mené par Merck et Moderna. Il a suivi 1 137 adultes opérés d'un mélanome de stade IIB à IV, tirés au sort (2 pour 1) entre pembrolizumab plus intismeran autogene, un traitement à ARN messager conçu pour chaque patient à partir des mutations de sa tumeur, et pembrolizumab plus placebo. Après 24,6 mois de suivi médian, le risque de récidive ou de décès est plus faible dans le groupe traité (rapport de risque 0,58 ; intervalle de confiance à 95 % de 0,45 à 0,75) : 82,2 % des patients sont sans récidive à 24 mois, contre 70,0 %. Le risque de métastases à distance est aussi plus faible (0,62). La survie globale ne diffère pas de façon significative à ce stade (0,77 ; 0,45 à 1,31), les données étant encore immatures. Des événements indésirables de grade 3 à 5 touchent 23,6 % des patients du groupe traité contre 20,3 %, et 16,6 % contre 9,5 % ont arrêté au moins un médicament pour un effet indésirable ; 8 décès liés à un effet indésirable (1,1 %) sont survenus dans le groupe traité, contre aucun, sans qu'aucun soit attribué à l'intismeran. Les chiffres détaillés viennent du compte rendu de Targeted Oncology, l'article scientifique complet n'étant pas encore publié.",
+    "points": [
+     "Le mélanome est un cancer de la peau né des cellules qui fabriquent le pigment. Aux stades IIB à IV, la tumeur est retirée par chirurgie, mais le cancer peut revenir : le traitement après l'opération vise à retarder ou éviter ce retour.",
+     "Le pembrolizumab est une immunothérapie : il aide le système immunitaire à reconnaître les cellules cancéreuses. L'intismeran autogene y ajoute un « mode d'emploi » en ARN messager, taillé sur mesure : il code jusqu'à 34 néoantigènes, des fragments de protéines propres à la tumeur de chaque patient (OncoDaily).",
+     "Pourquoi cet essai pèse lourd : il compare deux groupes tirés au sort, avec un placebo, sur plus de mille personnes. Mais il reste une analyse intermédiaire, présentée en congrès, et la survie globale (vivre plus longtemps) n'est pas encore démontrée."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.targetedonc.com/view/esmo-2026-presidential-symposium-i-late-breaking-recap",
+      "nom": "Targeted Oncology (compte rendu ESMO)"
+     },
+     {
+      "url": "https://www.healio.com/news/hematology-oncology/20260916/mrna-melanoma-vaccinepembrolizumab-combo-shows-survival-gains-in-latestage-trial",
+      "nom": "Healio (communiqué Merck et Moderna)"
+     },
+     {
+      "url": "https://oncodaily.com/not-to-miss/merck-esmo-2026-607545",
+      "nom": "OncoDaily"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT05933577",
+      "nom": "ClinicalTrials.gov NCT05933577"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Merck et Moderna",
+      "contexte": "les deux sociétés",
+      "texte": "Les deux sociétés présentent ce résultat comme la première lecture positive de phase 3 pour une thérapie néoantigène individualisée et pour une thérapie anticancéreuse à ARN messager (annonce d'août, reprise par OncoDaily).",
+      "url": "https://oncodaily.com/not-to-miss/merck-esmo-2026-607545",
+      "source": "OncoDaily"
+     }
+    ],
+    "apres": "Le suivi se poursuit pour la survie globale, jugée immature à ce stade. Une autorisation suppose le dépôt d'un dossier auprès des autorités de santé.",
+    "change": "Pas de disponibilité hors essais : ce traitement n'est autorisé nulle part pour cet usage dans les sources consultées. Pour les patients concernés, le résultat suggère un bénéfice sur la récidive, pas encore sur la durée de vie.",
+    "credit": {
+     "auteur": "Marcobiomed",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dermatoscopio_ottico_a_Contatto.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CANCER",
+    "titre": "Cancer du poumon à petites cellules : le tarlatamab allonge la survie",
+    "court": "Poumon : tarlatamab, 21,1 vs 12,7 mois",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Model_positioned_in_computed_tomography_scanner.jpg/1280px-Model_positioned_in_computed_tomography_scanner.jpg",
+    "legende": "Une personne installée dans un scanner, examen d'imagerie qui suit l'évolution des cancers (illustration)",
+    "chapeau": "Samedi 24 octobre, à l'ESMO, Jacob Sands (Dana-Farber) a présenté l'essai de phase 3 DeLLphi-305, dont Amgen avait annoncé le résultat principal le 8 septembre.",
+    "eclairage": "Pourquoi ce cancer est difficile à traiter",
+    "chiffres": [
+     {
+      "valeur": "21,1",
+      "legende": "mois de survie médiane (12,7)"
+     },
+     {
+      "valeur": "0,42",
+      "legende": "rapport de risque de décès"
+     },
+     {
+      "valeur": "563",
+      "legende": "patients dans l'essai"
+     }
+    ],
+    "passe": "Samedi 24 octobre, à l'ESMO, Jacob Sands (Dana-Farber) a présenté l'essai de phase 3 DeLLphi-305, dont Amgen avait annoncé le résultat principal le 8 septembre. Il porte sur 563 patients atteints d'un cancer du poumon à petites cellules de stade étendu, dont la maladie n'avait pas progressé après une première ligne de chimiothérapie plus durvalumab. Ils ont été tirés au sort (1 pour 1) entre tarlatamab plus durvalumab (282) et durvalumab seul (281), en traitement d'entretien. À l'analyse intermédiaire (243 décès, suivi médian d'environ 16 mois), la survie médiane est de 21,1 mois contre 12,7 (rapport de risque 0,42 ; intervalle de confiance à 95 % de 0,32 à 0,54) ; 79 % des patients sont en vie à 12 mois, contre 53 %. La survie sans progression médiane est de 7,4 mois contre 1,9. Les effets indésirables graves liés au traitement touchent 20,9 % des patients contre 10,8 %, et un syndrome de relargage de cytokines, réaction inflammatoire, survient chez 49,6 % des patients du groupe tarlatamab (un seul cas de grade 3).",
+    "points": [
+     "Le cancer du poumon à petites cellules de stade étendu répond souvent au premier traitement, mais revient généralement vite, et beaucoup de patients ne sont plus assez en forme pour un second traitement (CURE).",
+     "Le traitement d'entretien vise à garder la maladie sous contrôle après cette première réponse. Le tarlatamab est un anticorps à deux bras : l'un se fixe sur DLL3, une protéine fréquente à la surface de ces cellules, l'autre sur les lymphocytes T, qu'il rapproche de la tumeur pour la détruire.",
+     "Pourquoi le résultat compte : c'est, selon CURE, le premier essai de phase 3 où ce type de médicament améliore la survie en entretien de première ligne. Limite : essai en ouvert, analyse intermédiaire, publication à venir."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.amgen.com/newsroom/press-releases/2026/09/imdelltra-in-combination-with-imfinzi-demonstrated-landmark-improvement-in-overall-survival-in-first-line-extensive-stage-small-cell-lung-cancer",
+      "nom": "Amgen (communiqué)"
+     },
+     {
+      "url": "https://www.targetedonc.com/view/esmo-2026-presidential-symposium-i-late-breaking-recap",
+      "nom": "Targeted Oncology (compte rendu ESMO)"
+     },
+     {
+      "url": "https://www.curetoday.com/view/phase-3-trial-shows-adding-imdelltra-to-first-line-treatment-helps-patients-with-sclc-live-longer",
+      "nom": "CURE"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT06211036",
+      "nom": "ClinicalTrials.gov NCT06211036"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Jacob Sands",
+      "contexte": "Dana-Farber, présentateur de l'essai",
+      "texte": "« DeLLphi-305 represents an unprecedented milestone »",
+      "url": "https://www.amgen.com/newsroom/press-releases/2026/09/imdelltra-in-combination-with-imfinzi-demonstrated-landmark-improvement-in-overall-survival-in-first-line-extensive-stage-small-cell-lung-cancer",
+      "source": "Amgen"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Amgen",
+      "contexte": "promoteur de l'essai, avec un financement partiel d'AstraZeneca",
+      "texte": "« No new or unexpected safety signals were identified in DeLLphi-305. »",
+      "url": "https://www.amgen.com/newsroom/press-releases/2026/09/imdelltra-in-combination-with-imfinzi-demonstrated-landmark-improvement-in-overall-survival-in-first-line-extensive-stage-small-cell-lung-cancer",
+      "source": "communiqué du 8 septembre"
+     }
+    ],
+    "apres": "Amgen indique partager les données avec les autorités de santé. La publication complète dans une revue permettra de vérifier les chiffres.",
+    "change": "Le tarlatamab n'est pas encore approuvé pour cet usage (CURE). Si les résultats se confirment, il pourrait s'ajouter à la prise en charge de première ligne, avec une surveillance spécifique des réactions inflammatoires.",
+    "credit": {
+     "auteur": "Daniel Sone (Photographer)",
+     "licence": "Public domain",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Model_positioned_in_computed_tomography_scanner.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Vessie : un traitement avant l'opération, moins de récidives et de décès",
+    "court": "Vessie : durvalumab avant la cystectomie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Laparoscopic_operating_theatre.jpg/1280px-Laparoscopic_operating_theatre.jpg",
+    "legende": "Une salle d'opération équipée pour la chirurgie sous caméra (illustration)",
+    "chapeau": "Samedi 24 octobre, à l'ESMO, Thomas Powles a présenté l'essai de phase 3 VOLGA, mené par AstraZeneca. Il porte sur 695 patients atteints d'un cancer de la vessie infiltrant le muscle, qui ne pouvaient ou ne voulaient pas recevoir le cisplatine, la chimiothérapie habituelle avant l'opération.",
+    "eclairage": "Médicaments avant et après la chirurgie",
+    "chiffres": [
+     {
+      "valeur": "0,51",
+      "legende": "rapport de risque de récidive"
+     },
+     {
+      "valeur": "78 %",
+      "legende": "en vie à 2 ans (69 %)"
+     },
+     {
+      "valeur": "45 %",
+      "legende": "sans cancer à l'opération (10 %)"
+     }
+    ],
+    "passe": "Samedi 24 octobre, à l'ESMO, Thomas Powles a présenté l'essai de phase 3 VOLGA, mené par AstraZeneca. Il porte sur 695 patients atteints d'un cancer de la vessie infiltrant le muscle, qui ne pouvaient ou ne voulaient pas recevoir le cisplatine, la chimiothérapie habituelle avant l'opération. Ils ont été tirés au sort (1 pour 1 pour 1) entre trois groupes : durvalumab plus enfortumab vedotin avant la chirurgie, puis durvalumab après (233 patients) ; le même traitement avec un troisième médicament, le trémélimumab (233) ; ou l'ablation de la vessie (cystectomie) d'emblée (229). L'opération a pu être menée chez 85 % des patients du premier groupe contre 78 % du groupe témoin. Au 2 mars 2026, le risque de rechute, de progression ou de décès est plus faible avec le premier schéma (rapport de risque 0,51 ; intervalle de confiance à 95 % de 0,38 à 0,67), tout comme le risque de décès (0,58 ; 0,40 à 0,83). Le triplet réduit la rechute (0,61) mais pas la mortalité de façon significative (0,77 ; p = 0,123). Les effets indésirables de grade 3 ou 4 concernent 64 % des patients du premier groupe contre 44 % du groupe témoin, tous motifs confondus.",
+    "points": [
+     "Un cancer de la vessie infiltrant le muscle se traite en général par chimiothérapie puis cystectomie, l'ablation de la vessie. Pour les patients qui ne tolèrent pas le cisplatine, l'opération seule était la référence : c'est le groupe témoin de l'essai.",
+     "Ici, les médicaments encadrent l'opération : l'enfortumab vedotin, un anticorps qui transporte une chimiothérapie vers les cellules tumorales, et le durvalumab, une immunothérapie, sont donnés avant ; le durvalumab continue après.",
+     "La réponse complète pathologique signifie qu'aucune cellule tumorale n'est retrouvée dans la pièce opératoire : 45 % contre 10 % (évaluation locale). Limite : essai en ouvert, soignants et patients connaissent le traitement, et les effets indésirables graves sont plus fréquents."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.targetedonc.com/view/esmo-2026-presidential-symposium-i-late-breaking-recap",
+      "nom": "Targeted Oncology (compte rendu ESMO)"
+     },
+     {
+      "url": "https://oncodaily.com/genitourinary-oncology/volga-esmo-2026",
+      "nom": "OncoDaily"
+     },
+     {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2026/Perioperative-IMFINZI-durvalumab-plus-neoadjuvant-enfortumab-vedotin-reduced-risk-of-recurrence-by-49-percent-and-risk-of-death-by-42-percent-in-muscle-invasive-bladder-cancer.html",
+      "nom": "AstraZeneca (communiqué)"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT04960709",
+      "nom": "ClinicalTrials.gov NCT04960709"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Susan Galbraith",
+      "contexte": "AstraZeneca",
+      "texte": "« If approved, this would be the first perioperative regimen with enfortumab vedotin given only before surgery »",
+      "url": "https://www.targetedonc.com/view/durvalumab-enfortumab-regimen-fda-priority-review-mibc",
+      "source": "Targeted Oncology"
+     }
+    ],
+    "apres": "La FDA a accordé une revue prioritaire au dossier du durvalumab avec l'enfortumab vedotin, avec une décision attendue au quatrième trimestre 2026 (Targeted Oncology). Le suivi de survie globale du triplet se poursuit.",
+    "change": "Pour les patients qui ne peuvent pas recevoir le cisplatine, l'essai montre un bénéfice sur la récidive et la survie avec le premier schéma, au prix d'effets indésirables graves plus fréquents. Rien n'est encore approuvé pour cet usage.",
+    "credit": {
+     "auteur": "Dr.jayesh amin",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Laparoscopic_operating_theatre.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "25",
+    "mois": "OCT.",
+    "texte": "ESMO, Madrid : présentation prévue de l'essai sur l'ivonescimab dans les cancers des voies biliaires (Akeso)."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Fin du congrès ESMO (23 au 27 octobre)."
+   },
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Décision de la FDA attendue sur le povetacicept dans la néphropathie à IgA (Vertex)."
+   },
+   {
+    "jour": "T4",
+    "mois": "2026",
+    "texte": "Décision de la FDA attendue sur durvalumab plus enfortumab vedotin dans le cancer de la vessie (Targeted Oncology)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Rapport de risque",
+    "definition": "Mesure qui compare la fréquence d'un événement (récidive, décès) entre deux groupes à un instant donné. En dessous de 1, l'événement est moins fréquent dans le groupe étudié."
+   },
+   {
+    "terme": "Analyse intermédiaire",
+    "definition": "Examen des résultats prévu avant la fin d'un essai. Il permet d'arrêter ou de présenter plus tôt un résultat net, mais il peut changer ensuite."
+   },
+   {
+    "terme": "Survie sans événement",
+    "definition": "Durée pendant laquelle le patient vit sans rechute, sans progression de la maladie et sans autre événement défini à l'avance par l'essai."
+   },
+   {
+    "terme": "Essai en ouvert",
+    "definition": "Essai où soignants et patients savent quel traitement est donné, à la différence d'un essai en aveugle où le placebo est caché."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai VOLGA sur le cancer de la vessie, l'association de trois médicaments (avec le trémélimumab) a réduit la mortalité de façon significative par rapport à la chirurgie seule.",
+   "reponse": false,
+   "explication": "C'est faux : à l'analyse intermédiaire, seul le duo durvalumab plus enfortumab vedotin a réduit le risque de décès de façon significative (rapport de risque 0,58). Avec le triplet, le rapport de risque est de 0,77, non significatif (p = 0,123), même si la rechute baisse."
   }
  },
  {

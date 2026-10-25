@@ -1,5 +1,473 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-25",
+  "url": "/podcasts/essentiel-2026-10-25.mp3",
+  "taille": 7665311,
+  "duree": 639,
+  "titre": "Éclairage, l'essentiel du dimanche 25 octobre 2026",
+  "titre_episode": "Bardella réélu, Meta et le pétrole, vaccin contre le mélanome : l'essentiel du dimanche 25 octobre",
+  "description": "Ce dimanche 25 octobre, Léa et Paul font le tour de l'actualité : politique, économie et santé.\n• Politique : Jordan Bardella réélu président du RN avec 98,98 % des voix\n• Politique : Orléans, 13 000 manifestants selon les autorités, 26 000 selon les organisateurs\n• Économie : Meta, trésorerie négative au troisième trimestre et actions sans droit de vote\n• Économie : le Brent à 116,72 $, le gaz européen au plus haut depuis 2022\n• Santé : un vaccin à ARN personnalisé contre le mélanome opéré\n• Santé : tarlatamab dans le cancer du poumon à petites cellules\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "RN : Jordan Bardella réélu président avec 98,98 % des voix"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Orléans : 13 000 manifestants contre le congrès du RN, sans heurts"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Meta : trésorerie négative au T3 et création d'actions sans droit de vote"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Énergie : le Brent à 116,72 $, le gaz européen au plus haut depuis 2022"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Mélanome opéré : un vaccin à ARN et pembrolizumab, moins de récidives"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Cancer du poumon à petites cellules : le tarlatamab allonge la survie"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, dimanche vingt-cinq octobre deux mille vingt-six. Moi, c'est Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi, Paul. Au programme : politique, économie et santé, deux sujets chacun."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un score : quatre-vingt-dix-huit virgule quatre-vingt-dix-huit pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est celui de Jordan Bardella, réélu samedi président du Rassemblement national, le RN, lors du congrès à Orléans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatre-vingt-dix-huit pour cent, c'est énorme. Il y avait un adversaire ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, il était seul candidat. Soixante-quinze mille quatre cent quatre-vingt-dix-sept suffrages pour lui, sept cent soixante-dix-neuf bulletins blancs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la participation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Proche de soixante-huit pour cent. Les résultats ont été annoncés par le député Yoann Gillet, chargé de l'organisation du congrès."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le contexte, c'est quoi ? Ce vote arrive après plusieurs semaines un peu agitées."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Des accusations d'écrits antisémites visent Jordan Bardella, qu'il réfute. Dans son discours, il a appelé ses troupes au « sang-froid » face à des adversaires qui, selon lui, « légitiment la violence »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et attention à ne pas confondre : président du parti, ce n'est pas candidat à la présidentielle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Jordan Bardella dirige le parti. La candidate du RN est, selon ses propos, Marine Le Pen. Il dit avoir besoin des militants « pour conduire Marine Le Pen à l'Elysée »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et elle tient justement son premier grand meeting de campagne aujourd'hui."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À quinze heures trente, à Orléans, avec environ dix mille personnes attendues. Le premier tour de la présidentielle est prévu le dix-huit avril deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le RN ouvre sa campagne avec une direction confirmée et une candidate qui prend la parole à son tour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor, toujours à Orléans, mais dans la rue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Oui, samedi, un cortège antifasciste s'est élancé vers onze heures en marge du congrès. Combien de personnes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ça dépend qui compte. Treize mille selon les autorités, vingt-six mille selon les organisateurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, le double ? Et les autorités en attendaient combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jusqu'à trente mille. Près de trois mille policiers, gendarmes et CRS étaient mobilisés, avec des blindés, des hélicoptères et des drones."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ils redoutaient quoi, exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La présence de deux à trois mille éléments radicaux. Finalement, la manifestation s'est dispersée dans le calme, et plusieurs centaines de militants sont restés dans un village antifasciste en centre-ville."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui était en tête de cortège ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Olivier Faure, pour le PS, Clémentine Autain, écologiste, et Bally Bagayoko, maire LFI de Saint-Denis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté réactions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le maire d'Orléans, Serge Grouard, a dit qu'il y avait « beaucoup moins de personnes que ce qui était annoncé ». Les responsables de gauche ont dénoncé un climat raciste et islamophobe, en citant les tirs meurtriers de Trappes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un couvre-feu vise aussi les mineurs de moins de quinze ans pendant deux nuits. Et pour dimanche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le préfet du Loiret a interdit les manifestations dans une grande partie de l'agglomération. Un préfet, c'est le représentant de l'État dans le département, il peut interdire s'il estime que l'ordre public n'est pas garanti."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les organisateurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "SUD-PTT Loiret annonce un recours devant le tribunal administratif."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et côté politique, le ministre de l'Intérieur, Laurent Nuñez, a parlé d'une situation qui est « un peu la campagne à venir »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenons : une manifestation massive et calme samedi, une interdiction dimanche, et un chiffre qui dépend de qui le donne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à l'économie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Premier sujet : Meta, et un chiffre qui surprend. Moins deux virgule douze milliards de dollars."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le flux de trésorerie disponible de Meta au troisième trimestre. Autrement dit, l'argent qui reste après les dépenses d'investissement. Il est négatif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourtant, les ventes sont bonnes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Très bonnes : soixante-quatre virgule six milliards de dollars de chiffre d'affaires, en hausse de vingt-six pour cent sur un an. Le bénéfice par action est de trois dollars quatre-vingt-trois, contre un dollar cinq un an plus tôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors pourquoi la trésorerie est négative ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que les dépenses d'investissement atteignent trente-quatre virgule neuf milliards de dollars sur le trimestre. Pour l'année, la fourchette est resserrée entre cent trente-cinq et cent quarante-cinq milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et le résultat d'exploitation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il recule de trente-sept pour cent, à douze virgule quatre-vingt-dix-neuf milliards. Meta a comptabilisé neuf virgule quatre-vingt-neuf milliards de charge liée à un accord conclu en août avec cinquante-deux procureurs généraux américains, sur les réseaux sociaux et la santé mentale des adolescents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a une autre annonce : des actions sans droit de vote."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, en janvier deux mille vingt-sept, Meta crée une classe C. Une action pour chaque action A ou B détenue. Elle garde la part de capital, mais pas la voix en assemblée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça sert à quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Semafor, à émettre des actions pour payer des acquisitions, des salariés ou des puces d'IA, sans diluer le contrôle des dirigeants. Meta dit que le pouvoir de vote des actionnaires ne change pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les effectifs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Meta compte soixante-six mille sept cent soixante-quinze personnes au trente septembre, en baisse de quinze pour cent sur un an, selon le dépôt auprès de la SEC, le gendarme américain de la Bourse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la Bourse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le titre gagnait environ trois virgule cinq pour cent après la clôture, selon XTB. Un analyste de XTB résume que le marché paie la croissance sans s'inquiéter de la facture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : de fortes ventes, mais des investissements dans l'IA qui pèsent désormais sur la trésorerie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On file maintenant vers l'énergie. Cent seize virgule soixante-douze dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est le baril de Brent, à la clôture de vendredi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, en hausse de trois virgule quatorze pour cent sur la séance et d'environ six pour cent sur la semaine. Le Brent est la référence du pétrole de la mer du Nord. Le WTI américain a clôturé à cent trois virgule vingt-sept dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui fait monter les prix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois facteurs cités : des attaques attribuées aux rebelles houthis contre des infrastructures civiles saoudiennes, les tensions entre Washington et Téhéran, et une fuite de pétrole signalée au large des Émirats arabes unis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gaz ? Il suit ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le TTF européen, le prix de gros néerlandais, gagnait plus de quatre pour cent à quatre-vingt-treize virgule soixante-douze euros le mégawattheure. C'est son plus haut depuis deux mille vingt-deux, d'après l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi une attaque en Arabie saoudite pèse sur le gaz européen ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une partie du gaz naturel liquéfié arrive du Golfe par bateau. Quand ces livraisons faiblissent, l'Europe doit acheter ailleurs, plus cher. Et ses stocks sont remplis à soixante-quatorze virgule six pour cent, contre quatre-vingt-deux virgule neuf un an plus tôt."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Bonne question : est-ce que ça va se voir sur ma facture ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas tout de suite. Selon Selectra, la formule du prix repère de la CRE utilise des cours observés environ deux mois plus tôt. Pour novembre, ce prix repère est de zéro virgule un cinq sept six euro le kilowattheure, en hausse de huit virgule trois pour cent sur un mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté politique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Donald Trump accuse l'Iran de chercher à faire monter les prix du pétrole avant les élections américaines de mi-mandat du trois novembre, rapporte l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en France, côté gaz ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le contrat de novembre du PEG, le marché français, a clôturé à quatre-vingt-douze virgule douze euros le mégawattheure, en hausse de sept virgule trois pour cent sur la semaine, selon Selectra."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Prochain rendez-vous à surveiller ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La décision de la BCE, la Banque centrale européenne, jeudi vingt-neuf octobre, puis l'inflation provisoire d'octobre vendredi trente."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : le pétrole et le gaz montent ensemble, mais la facture suivra avec retard."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à la santé, et d'abord à Madrid, au congrès de la Société européenne d'oncologie médicale, l'ESMO."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Premier chiffre : zéro virgule cinquante-huit."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le rapport de risque de récidive d'un mélanome opéré avec un vaccin à ARN messager personnalisé. Quand il est inférieur à un, le risque baisse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un vaccin personnalisé, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un traitement conçu pour chaque patient à partir des mutations de sa tumeur. Il s'appelle intismeran autogene, et il est associé au pembrolizumab, une immunothérapie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'essai ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Phase trois, tirage au sort, placebo, mille cent trente-sept adultes opérés d'un mélanome de stade deux B à quatre. Il est mené par Merck et Moderna."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Après vingt-quatre virgule six mois de suivi médian, quatre-vingt-deux virgule deux pour cent des patients traités sont sans récidive à vingt-quatre mois, contre soixante-dix pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, et vivre plus longtemps, c'est démontré ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas encore. La survie globale ne diffère pas de façon significative à ce stade, les données sont immatures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les effets indésirables ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les événements de grade trois à cinq touchent vingt-trois virgule six pour cent des patients traités, contre vingt virgule trois. Huit décès liés à un effet indésirable dans le groupe traité, mais aucun attribué à l'intismeran."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le risque de métastases à distance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il est aussi plus faible, avec un rapport de risque de zéro virgule soixante-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre limite importante ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce sont des résultats présentés en congrès, pas encore relus par des pairs. Et ce traitement n'est autorisé nulle part pour cet usage."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : moins de récidives, mais la preuve d'un gain de survie reste à venir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Même congrès, autre cancer. Vingt et un virgule un mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La survie médiane, dans le cancer du poumon à petites cellules, avec le tarlatamab ajouté au durvalumab."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Contre douze virgule sept mois avec le durvalumab seul. Le rapport de risque de décès est de zéro virgule quarante-deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Qui sont ces patients ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq cent soixante-trois personnes, au stade étendu, dont la maladie n'avait pas progressé après une première chimiothérapie plus durvalumab. Le traitement testé est un traitement d'entretien."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ce cancer est si difficile ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il répond souvent au premier traitement, mais revient généralement vite. Et beaucoup de patients ne sont plus assez en forme pour un second traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le tarlatamab, il fait quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est un anticorps à deux bras. L'un se fixe sur DLL3, une protéine fréquente à la surface de ces cellules, l'autre sur les lymphocytes T, qu'il rapproche de la tumeur pour la détruire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le résultat était déjà connu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le résultat principal avait été annoncé par Amgen le huit septembre. Là, il est présenté en détail par Jacob Sands, du Dana-Farber, à l'ESMO."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'autres chiffres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soixante-dix-neuf pour cent des patients sont en vie à douze mois, contre cinquante-trois. La survie sans progression médiane est de sept virgule quatre mois contre un virgule neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le revers ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les effets indésirables graves liés au traitement touchent vingt virgule neuf pour cent des patients contre dix virgule huit. Un syndrome de relargage de cytokines, une réaction inflammatoire, survient chez quarante-neuf virgule six pour cent des patients du groupe tarlatamab, avec un seul cas de grade trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc surveillance à l'hôpital ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et les limites : essai en ouvert, analyse intermédiaire, publication complète à venir. Le médicament n'est pas encore approuvé pour cet usage."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : une survie nettement plus longue dans un cancer difficile, avec une surveillance spécifique des réactions inflammatoires."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour l'essentiel du jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de nous avoir écoutés. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-25",
   "url": "/podcasts/politique-2026-10-25.mp3",
