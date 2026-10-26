@@ -1629,5 +1629,35 @@
  "Jacob Sands": null,
  "Amgen": null,
  "Susan Galbraith": null,
- "Un sénateur communiste": null
+ "Un sénateur communiste": null,
+ "Christophe Le Caillec": null,
+ "Stephen Squeri": null,
+ "Kristina Hooper": null,
+ "Dan Schulman": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dan_Schulman.jpg/250px-Dan_Schulman.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Dan_Schulman.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dan_Schulman.jpg",
+  "auteur": "PopTech, Kris Klug",
+  "licence": "CC BY-SA 2.0"
+ },
+ "John Stankey": null,
+ "The Shift Project": null,
+ "Maria T. Abreu": null,
+ "Esi Lamousé-Smith": null,
+ "Vaidehi Dedania": null,
+ "Larry Benowitz": null,
+ "Juliette Hemery": null,
+ "ANRS MIE": null,
+ "Michael Gerstenhaber": null,
+ "Yashodha Bhavnani": null,
+ "Andy Jassy": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Andy_Jassy.jpg/250px-Andy_Jassy.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Andy_Jassy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Andy_Jassy.jpg",
+  "auteur": "Lisi Mezistrano Wolf",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Microsoft Threat Intelligence": null,
+ "Yash Kadakia": null,
+ "Yih Khai Wong": null
 }

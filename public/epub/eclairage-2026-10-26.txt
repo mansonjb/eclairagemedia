@@ -158,3 +158,439 @@ Vendredi 23 octobre, l'Assemblée nationale a adopté le budget de la Sécurité
 Réponse : faux. Faux : les députés ont rejeté la partie « recettes » par 115 voix contre 1, et l'ensemble du texte est transmis au Sénat, qui l'examine à partir du 9 novembre.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+lundi 26 octobre 2026 · 10 min de lecture
+
+1. American Express : 5 % des postes supprimés pour préparer l'IA
+
+ENTREPRISES
+
+5 % : des effectifs mondiaux concernés
+
+336 M$ : charge de restructuration avant impôt
+
+3 800 : postes environ, estimation sur 77 000 salariés
+
+Ce qui s'est passé
+
+Vendredi 23 octobre, en publiant ses résultats du troisième trimestre, American Express a annoncé la suppression d'environ 5 % de ses effectifs mondiaux, a indiqué son PDG Stephen Squeri aux analystes. Le groupe comptait près de 77 000 salariés fin 2025 (76 800 selon Upside24), ce qui représente environ 3 800 postes, un calcul de la presse et non un chiffre publié par l'entreprise. Il comptabilise une charge de restructuration de 336 millions de dollars avant impôt, financée en partie par la plus-value de 982 millions de dollars tirée de la vente de sa participation dans Global Business Travel Group. Sur le trimestre, le chiffre d'affaires atteint 20,1 milliards de dollars (+9 %), le bénéfice net 3,7 milliards (+28 %) et le bénéfice par action 5,42 dollars, soit 4,68 dollars hors plus-value (+13 % sur un an). Le groupe relève sa prévision 2026 de bénéfice par action à 18,30-18,60 dollars (17,60-17,90 dollars en ajusté). L'action reculait d'environ 3,7 % vendredi, selon Upside24 ; 3,65 % selon Reuters via Boursorama.
+
+L'éclairage
+
+Pourquoi supprimer des postes quand les résultats progressent ?
+
+Une charge de restructuration est une dépense comptabilisée d'un coup pour réorganiser l'entreprise (indemnités, départs). Elle pèse sur le bénéfice de l'année, d'où l'écart entre le bénéfice par action publié (5,42 $) et le bénéfice ajusté (4,68 $), qui retire la plus-value de la vente de GBTG. Le directeur financier explique la logique : réduire d'abord les niveaux hiérarchiques et élargir le nombre de personnes suivies par chaque responsable (spans of control), pour pouvoir ensuite automatiser. Selon Upside24, ni le communiqué ni le rapport trimestriel ne chiffrent les économies attendues ni le calendrier des départs.
+
+Ce qu'ils en disent
+
+Il dit que la restructuration vise à rendre American Express « leaner, more agile, and also to prepare for AI » (plus léger, plus agile, et préparé à l'IA), selon HR Reporter.
+Christophe Le Caillec (Entreprise), directeur financier, à CNBC
+
+« We had another strong quarter, delivering 9 percent revenue growth and EPS of $5.42, or $4.68 adjusted, up 13 percent year-over-year. » (Un autre bon trimestre : 9 % de croissance du chiffre d'affaires et un bénéfice par action de 5,42 $, ou 4,68 $ ajusté, en hausse de 13 %.)
+Stephen Squeri (Entreprise), PDG, communiqué du 23 octobre
+
+Ce qui change
+
+Pour les salariés, environ 5 % des postes sont concernés dans le monde, sans répartition par pays ni calendrier publiés (Upside24).
+
+Et après
+
+L'entreprise n'a pas détaillé le calendrier des départs, selon Upside24.
+
+Sources : American Express (communiqué, dépôt SEC 8-K) · HR Reporter, d'après CNBC · Upside24
+
+2. Wall Street : le Dow recule de 1,2 % vendredi, la semaine reste mitigée
+
+MARCHÉS
+
+52 215 : points, clôture du Dow Jones
+
++0,4 % : Dow Jones sur la semaine
+
+-0,7 % : Nasdaq sur la semaine
+
+Ce qui s'est passé
+
+Vendredi 23 octobre, le Dow Jones a perdu 652,82 points (-1,2 %) à 52 215,16, le S&P 500 a reculé de 0,5 % à 7 623,68 et le Nasdaq composite de 0,2 % à 25 955,34, selon l'AP. Sur la semaine, le S&P 500 cède 0,5 % et le Nasdaq 0,7 %, tandis que le Dow gagne 0,4 %, soutenu par les valeurs défensives, d'après Reuters. L'AP attribue la baisse à la pression de la hausse du pétrole : le Brent a gagné 3,1 % au-dessus de 116 dollars le baril. Reuters ajoute que le Nasdaq a pâti de l'inquiétude sur le coût de financement des investissements dans l'IA, après sa plus forte baisse quotidienne depuis juin la veille. Le rendement du bon du Trésor à dix ans est monté à 4,99 % selon l'AP (5,00 % selon Reuters). D'après les contrats à terme compilés par LSEG, les marchés donnent 81 % de probabilité à une hausse des taux de la Réserve fédérale (Fed) en décembre. Alphabet, Microsoft et Amazon publient leurs résultats la semaine prochaine.
+
+L'éclairage
+
+Pourquoi un baril plus cher pèse sur les actions et sur les taux ?
+
+Un pétrole plus cher renchérit le transport, la production et une grande partie de l'industrie. Cela fait craindre que l'inflation s'installe, ce qui peut conduire les banques centrales à garder des taux élevés plus longtemps, selon HurBra. Le rendement d'une obligation d'État, c'est le taux annuel que l'État paie pour emprunter : quand il monte, emprunter coûte plus cher aux entreprises aussi, et les placements sans risque deviennent plus attractifs face aux actions. Le Dow Jones regroupe 30 grandes entreprises américaines, le S&P 500 en regroupe 500, le Nasdaq est surtout composé de valeurs technologiques : c'est pourquoi ils ne bougent pas toujours ensemble.
+
+Ce qu'ils en disent
+
+« Les remous liés aux interrogations sur le secteur de l'IA se font encore sentir. » Elle juge que les dépenses dans les centres de données pourraient être inférieures aux prévisions l'an prochain.
+Kristina Hooper (Analystes), Man Group, citée par Reuters
+
+Ce qui change
+
+Pour les épargnants et les entreprises, des rendements à 5 % renchérissent le crédit.
+
+Et après
+
+Les trois géants du numérique publient leurs résultats cette semaine ; la BCE décide jeudi 29 octobre à 14h15 et l'Insee publie l'inflation d'octobre vendredi 30.
+
+Sources : dépêche AP via Yahoo Finance · Reuters via Boursorama · HurBra (d'après Reuters)
+
+3. SpaceX : des discussions sur des pylônes font chuter AT&T et T-Mobile
+
+TECH
+
+80 000 : sites de pylônes visés, selon Bloomberg
+
+-7,7 % : T-Mobile US vendredi
+
++8,7 % : Crown Castle, propriétaire de pylônes
+
+Ce qui s'est passé
+
+Jeudi 22 octobre, Bloomberg a rapporté, selon des sources proches du dossier, que SpaceX discute avec au moins un grand propriétaire de pylônes pour accéder à au moins 80 000 sites aux États-Unis, afin de bâtir un quatrième opérateur mobile national. Reuters indique que SpaceX était en négociations avec Crown Castle. Il s'agit de discussions, pas d'un accord confirmé. Plus tôt en octobre, SpaceX avait déjà accepté d'acquérir des licences de fréquences 800 MHz sur tout le territoire américain pour son offre Starlink Mobile, selon 24/7 Wall St. Vendredi 23 octobre, selon Reuters via Boursorama, AT&T a perdu 8,06 %, T-Mobile US 7,71 % et Verizon 1,24 %, tandis que Crown Castle gagnait 8,71 %. Le Motley Fool cite des mouvements proches en milieu de séance (AT&T -7,96 %, American Tower +4,08 %). Starlink compte plus de 13,6 millions d'abonnés dans le monde, selon 24/7 Wall St.
+
+L'éclairage
+
+Pourquoi les propriétaires de pylônes gagnent quand les opérateurs perdent ?
+
+Un opérateur comme AT&T, Verizon ou T-Mobile ne possède pas toujours ses pylônes : il loue de la place à des sociétés spécialisées, comme Crown Castle ou American Tower, qui touchent un loyer. Un nouvel opérateur qui louerait des sites ajouterait un locataire, donc des revenus pour ces propriétaires, mais un concurrent pour les trois opérateurs en place, qui se partagent déjà les abonnés. C'est ce que décrit 24/7 Wall St. : les trois titres reculent ensemble. Pour un opérateur, les fréquences (les ondes radio utilisées) et les sites (où poser les antennes) sont les deux ressources indispensables.
+
+Ce qu'ils en disent
+
+« It is basically not possible because of physics, not because of execution but because of physics for satellite to effectively compete against the terrestrial network in either mobility or broadband in urban and suburban geographies. » (Pour lui, un satellite ne peut pas concurrencer efficacement le réseau terrestre en ville et en banlieue.)
+Dan Schulman (Entreprise), PDG de Verizon, cité par 24/7 Wall St.
+
+« I wouldn't over rotate on what I would call one carrier of low band spectrum. » (Il ne faut pas surréagir à un opérateur disposant de fréquences basses.)
+John Stankey (Entreprise), PDG d'AT&T, cité par 24/7 Wall St.
+
+Ce qui change
+
+Pour les opérateurs en place, un concurrent disposant de fréquences et de sites élargirait la concurrence sur les forfaits et les abonnés. Pour les propriétaires de pylônes, un locataire supplémentaire signifierait des loyers de plus.
+
+Et après
+
+Aucune échéance n'est annoncée dans les sources consultées ; Reuters et Bloomberg décrivent des négociations en cours.
+
+Sources : Reuters via Boursorama · 24/7 Wall St. (d'après Bloomberg) · The Motley Fool
+
+Les mots du jour
+
+Charge de restructuration
+Dépense comptabilisée en une fois pour réorganiser une entreprise (départs, fermetures). Elle réduit le bénéfice publié de la période.
+Bénéfice par action ajusté
+Bénéfice divisé par le nombre d'actions, après retrait d'éléments exceptionnels, comme la plus-value d'une cession.
+Rendement d'une obligation
+Taux annuel que paie un État ou une entreprise pour emprunter. Quand le prix de l'obligation baisse, le rendement monte.
+Propriétaire de pylônes
+Société qui possède des pylônes et des sites d'antennes et les loue aux opérateurs mobiles.
+
+Vrai ou faux ?
+
+Vendredi 23 octobre 2026, American Express a annoncé supprimer environ 10 % de ses effectifs mondiaux.
+
+Réponse : faux. American Express a annoncé la suppression d'environ 5 % de ses effectifs mondiaux, soit environ 3 800 postes selon un calcul de la presse sur 77 000 salariés.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+lundi 26 octobre 2026 · 10 min de lecture
+
+1. Rectocolite : un comprimé anti-IL-23 efficace dans un essai de phase 2b
+
+TRAITEMENT
+
+63 % : réponse clinique à 12 semaines (400 mg)
+
+27 % : sous placebo
+
+252 : adultes dans l'essai
+
+Ce qui s'est passé
+
+Le 14 octobre, le centre Cedars-Sinai a annoncé la publication, dans le New England Journal of Medicine, de l'essai ANTHEM-UC. Cet essai de phase 2b, mené dans 21 pays et financé par Johnson & Johnson, a réparti 252 adultes atteints de rectocolite hémorragique modérée à sévère entre trois doses d'icotrokinra, un comprimé pris une fois par jour (100, 200 ou 400 mg), et un placebo. À 12 semaines, le critère principal, la réponse clinique, atteignait 63 % avec 400 mg, 58 % avec 200 mg et 55 % avec 100 mg, contre 27 % sous placebo. Avec 400 mg, la rémission clinique était de 30 % contre 11 %, et l'amélioration observée à l'endoscopie de 37 % contre 14 % ; à 200 mg, la rémission n'atteignait pas le seuil de significativité statistique. À 28 semaines, des événements indésirables graves étaient notés chez 2 % des participants sous 400 mg, 5 % sous 200 mg, 0 % sous 100 mg et 10 % sous placebo.
+
+L'éclairage
+
+Que veut dire « phase 2b » ?
+
+La rectocolite hémorragique est une maladie chronique où l'intestin s'enflamme par poussées. L'icotrokinra bloque un récepteur de l'interleukine 23, un messager du système immunitaire impliqué dans cette inflammation. Ce qui est nouveau, selon l'investigatrice principale, c'est de pouvoir le prendre par la bouche. Une phase 2b sert à comparer des doses et à repérer un premier signal d'efficacité sur quelques centaines de personnes ; seule une phase 3, plus grande, peut confirmer le bénéfice et surveiller la sécurité. Le groupe placebo compte aussi : 27 % de réponse sans médicament actif rappellent qu'un patient peut aller mieux pour d'autres raisons, ce que seule la comparaison permet de mesurer. Elle ajoute que la prise par voie orale « will help us improve the range of options we have for treating patients ».
+
+Ce qu'ils en disent
+
+« Icotrokinra was effective even in hard-to-treat patients who had failed previous drug regimens »
+Maria T. Abreu (Auteurs), Cedars-Sinai, auteure principale
+
+« We look forward to initiating our Phase 3 investigation of icotrokinra in UC »
+Esi Lamousé-Smith (Industrie), Johnson & Johnson, communiqué de 2025
+
+Ce qui change
+
+Rien n'est disponible à ce stade contre la rectocolite : selon Cedars-Sinai, la FDA américaine a approuvé l'icotrokinra plus tôt en 2026 uniquement dans le psoriasis en plaques.
+
+Et après
+
+Johnson & Johnson a lancé le protocole de phase 3 ICONIC-UC chez des adultes et des adolescents. Aucune demande d'autorisation dans la rectocolite n'est mentionnée dans les sources.
+
+Sources : NEJM (étude originale) · Cedars-Sinai · Medical Dialogues · Johnson & Johnson
+
+2. Greffe d'œil entier : trois ans après, l'œil est vivant mais ne voit pas
+
+CHIRURGIE
+
+1re : greffe d'œil entier chez l'humain
+
+21 h : d'opération (mai 2023)
+
+3 ans : depuis la greffe
+
+Ce qui s'est passé
+
+Le 12 octobre, la revue Ophthalmology Times a rapporté l'intervention de Vaidehi Dedania, ophtalmologue à la faculté de médecine NYU Grossman, au congrès de l'Académie américaine d'ophtalmologie à La Nouvelle-Orléans. Elle y a présenté l'expérience du centre NYU Langone, où a eu lieu en mai 2023 la première greffe d'œil entier chez l'humain, associée à une greffe partielle du visage. Trois ans plus tard, l'œil greffé fonctionne, mais le patient ne voit pas avec cet œil. Selon la même source, l'œil a pu être maintenu et irrigué à nouveau après son transfert du donneur au receveur, et certains photorécepteurs ont survécu malgré le manque d'oxygène, ce qui n'était pas attendu. Le principal obstacle reste le nerf optique, qui ne se régénère pas : la recherche explore sa régénération ou le contournement de la voie. Plus de 20 spécialités ont participé à l'intervention.
+
+L'éclairage
+
+Pourquoi un œil vivant ne suffit pas pour voir
+
+L'œil capte la lumière, mais c'est le nerf optique qui transmet l'image au cerveau, comme un câble. Greffer l'œil avec ses vaisseaux sanguins permet de le garder en vie ; rebrancher le câble est un autre défi. Selon EyeNet (2024), les chercheurs ont obtenu chez la souris une régénération importante de fibres nerveuses, mais seulement quelques centaines de cellules sur environ 60 000 ont repoussé jusqu'au cerveau, alors que l'œil humain en compte environ un million. Un cas unique montre qu'une intervention est faisable ; il ne dit pas si elle apportera un jour un bénéfice à d'autres patients.
+
+Ce qu'ils en disent
+
+Elle juge remarquable que l'œil fonctionne dans le corps du receveur et rappelle que le retour de la vue passe par la restauration du signal vers le cerveau.
+Vaidehi Dedania (Auteurs), ophtalmologue, NYU Grossman, équipe de la greffe
+
+Il estime que la régénération obtenue chez l'animal reste encore loin de suffire pour rendre une vision substantielle.
+Larry Benowitz (Expert indépendant), chercheur, interrogé par EyeNet en 2024
+
+Ce qui change
+
+Aucune restauration de la vue n'a été obtenue à ce jour ; la greffe d'œil entier n'est pas un traitement disponible pour les patients.
+
+Et après
+
+Selon EyeNet, l'agence américaine ARPA-H a annoncé en janvier 2024 le programme THEA, consacré à la conservation des yeux de donneur, à la réparation du nerf optique et à l'évaluation chirurgicale et fonctionnelle.
+
+Sources : Ophthalmology Times (12 oct. 2026) · NYU Langone Health · EyeNet (AAO) · JAMA (cas publié en 2024)
+
+3. VIH : chez les femmes trans, un traitement plus rapide, sauf si elles sont nées à l'étranger
+
+SANTÉ PUBLIQUE
+
+801 : femmes trans suivies
+
+15 j : diagnostic → traitement (4 mois en 1997-2004)
+
+95,5 % : virus supprimé (74,7 % avant)
+
+Ce qui s'est passé
+
+Le 16 octobre, l'Inserm a présenté une étude parue dans The Lancet Regional Health – Europe. Des équipes de l'Inserm, de Sorbonne Université et d'hôpitaux ont suivi 801 femmes transgenres vivant avec le VIH dans la cohorte hospitalière ANRS CO4-FHDH, entre 1997 et 2023. Le délai entre le diagnostic et le début du traitement antirétroviral est passé de 4 mois (1997-2004) à 15 jours (2013-2023). Parmi les femmes sous traitement, la part dont le virus est supprimé dans le sang est passée de 74,7 % à 95,5 %, soit l'objectif de l'ONUSIDA. Depuis 2013, année où le traitement a été proposé à toutes les personnes séropositives, les femmes nées à l'étranger, dont 65 % des participantes nées en Amérique latine, avaient 32 à 35 % de chances de moins de commencer vite un traitement que celles nées en France. Les auteurs évoquent des obstacles administratifs : accès à l'aide médicale d'État, logement, titre de séjour. L'étude est financée par l'ANRS MIE et l'Inserm.
+
+L'éclairage
+
+Ce que prouve (et ne prouve pas) une cohorte
+
+Une cohorte suit les mêmes personnes dans le temps. Elle montre ce qui change, ici les délais de soins, mais elle ne prouve pas pourquoi : l'écart selon le pays de naissance est une association, et les obstacles administratifs sont l'explication avancée par les auteurs, pas un résultat mesuré. Les données viennent d'hôpitaux : les personnes qui ne sont pas suivies n'y figurent pas. Selon l'Inserm, le VIH touche environ 20 % des femmes transgenres dans le monde et 7 % en Europe. Un traitement antirétroviral réduit la quantité de virus dans le sang ; plus il démarre tôt après le diagnostic, plus la chaîne de soins est courte.
+
+Ce qu'ils en disent
+
+« Les femmes transgenres sont confrontées à des obstacles sociaux et structurels qui se recoupent »
+Juliette Hemery (Auteurs), première auteure
+
+« Despite substantial progress in the care pathway, disparities linked to geographical origin have emerged. »
+ANRS MIE (Autorité de santé), agence, financeur de l'étude
+
+Ce qui change
+
+Les délais entre diagnostic et traitement ont fortement raccourci, mais l'accès rapide aux soins dépend encore de démarches administratives pour les femmes nées à l'étranger.
+
+Et après
+
+Aucune décision des autorités n'est mentionnée dans les sources consultées.
+
+Sources : Inserm (communiqué du 16 oct.) · EATG (relais du communiqué ANRS) · ANRS MIE · The Lancet Regional Health – Europe (étude originale)
+
+À venir
+
+- 31 oct. : Congrès des neurochirurgiens (CNS) à Washington, jusqu'au 4 novembre.
+- 1er déc. : Journée mondiale de lutte contre le sida.
+
+Les mots du jour
+
+Essai de phase 2b
+Étape où l'on compare plusieurs doses d'un médicament et où l'on cherche un premier signe d'efficacité, avant la phase 3 qui confirme sur un plus grand nombre de personnes.
+Placebo
+Un comprimé sans principe actif, donné à un groupe de comparaison pour mesurer ce que le médicament apporte vraiment.
+Étude de cohorte
+Un groupe de personnes suivi dans le temps : elle décrit des évolutions et des associations, sans prouver à elle seule une cause.
+Cas unique
+Le compte rendu d'un seul patient : il montre qu'une intervention est faisable, pas qu'elle est efficace en général.
+
+Vrai ou faux ?
+
+Trois ans après la première greffe d'œil entier chez l'humain, l'œil greffé fonctionne mais le patient ne voit pas avec.
+
+Réponse : vrai. C'est vrai : selon Ophthalmology Times (12 octobre 2026), l'œil greffé en mai 2023 à NYU Langone fonctionne, mais le patient ne voit pas, car le nerf optique ne se régénère pas.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+lundi 26 octobre 2026 · 6 min de lecture
+
+1. Shift Project : un rapport sur l’alimentation française en 2050
+
+ÉTUDE
+
+≈ 1/4 : des émissions de carbone des ménages (alimentation)
+
+≈ 20 % : de l’énergie fossile consommée en France
+
+−48 % : émissions agricoles, trajectoire privilégiée (selon Réussir)
+
+Ce qu'ils en disent
+
+Il appelle les professionnels de l’alimentation à commenter le document de travail partagé. Selon Réussir, il prévoit d’ici mars 2027 des tests de résistance (par exemple face aux sécheresses), une évaluation économique et des recommandations.
+The Shift Project (Association / ong), think tank, auteur du rapport
+
+Ce qui change
+
+Rien de concret dans les rayons ni dans les exploitations à ce stade : le rapport est un outil de réflexion qui nourrit le débat sur la souveraineté alimentaire et le climat à l’approche de la présidentielle de 2027.
+
+Et après
+
+Affinage des scénarios, évaluation économique, tests de résistance puis recommandations, avec une version définitive attendue vers mars 2027.
+
+Sources : The Shift Project (rapport) · Réussir · The Shift Project (lancement du projet)
+
+À venir
+
+- 29 oct. : Assemblée nationale : journée réservée au groupe LFI, avec la proposition de loi sur l’acétamipride (LCP).
+- 29 oct. : Anses : conférence conjointe sur les données et l’intelligence artificielle pour la surveillance des risques, à Maisons-Alfort (jusqu’au 30, en ligne possible) (Anses).
+- 7 nov. : Salon Marjolaine (jusqu’au 11), salon de la bio et de l’écologie, au Parc Floral de Paris (JDS).
+
+Les mots du jour
+
+Scénario tendanciel
+Projection qui prolonge les tendances actuelles, sans changement de politique ni de pratiques.
+AMM
+Autorisation de mise sur le marché : l’accord, délivré en France par l’Anses, qui permet de vendre un produit phytosanitaire.
+Souveraineté alimentaire
+Capacité d’un pays à produire l’alimentation dont il a besoin sans dépendre de façon excessive des importations.
+
+Vrai ou faux ?
+
+Le rapport « Manger en 2050 » publié par le Shift Project le 22 octobre 2026 est la version finale de ses travaux sur l’alimentation.
+
+Réponse : faux. Il s’agit d’un rapport intermédiaire : le Shift Project prévoit encore des tests de résistance, une évaluation économique et des recommandations, avec une version définitive attendue vers mars 2027.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+lundi 26 octobre 2026 · 11 min de lecture
+
+1. OpenAI sur Google Cloud : trois modèles GPT-6 en préversion privée
+
+MODÈLES
+
+3 : modèles GPT-6 proposés
+
+200+ : modèles au catalogue Model Garden
+
+1 : facture unique pour tout le cloud
+
+Ce qui s'est passé
+
+Mercredi 21 octobre, Google Cloud a annoncé l'arrivée de modèles d'OpenAI dans son catalogue Model Garden : GPT-6 Astra, positionné pour les tâches exigeantes (programmation, usage de l'ordinateur, recherche scientifique), GPT-6.1 Sol, présenté comme proche d'Astra pour un coût plus bas, et GPT-6 Luna, pour les usages quotidiens rapides et peu coûteux. L'offre est en préversion privée (accessible à une sélection de clients professionnels, sur demande). Les clients peuvent s'en servir par les interfaces de programmation (API) et brancher les outils Codex d'OpenAI à la plateforme Gemini de Google pour l'inférence, c'est-à-dire l'exécution d'un modèle déjà entraîné. L'achat passe par la place de marché de Google Cloud, sur une facture unique qui peut être déduite des engagements existants. Google affirme que les requêtes, le contexte et les réponses restent dans le périmètre de données du client et ne servent pas à entraîner les modèles. Les options de non-conservation des données et de calcul confidentiel sont annoncées « bientôt ». Selon Google, ce cloud est le seul à proposer à la fois Gemini, Claude et GPT ; ce positionnement est celui de l'entreprise.
+
+L'éclairage
+
+Pourquoi un cloud vend les modèles de ses concurrents
+
+Un cloud loue à des entreprises des ordinateurs, du stockage et des logiciels à distance. Un catalogue de modèles comme Model Garden y ajoute des modèles d'IA de plusieurs fabricants, choisis comme on choisit une application. L'intérêt pour une entreprise : utiliser un modèle d'OpenAI sans signer un nouveau contrat ni envoyer ses données ailleurs. L'intérêt pour Google : garder la dépense de ce client même s'il choisit un modèle concurrent du sien. Annonce ou fait ? L'existence de l'offre est documentée par Google. Les garanties de sécurité et de confidentialité sont des affirmations de l'entreprise, sans audit indépendant cité, et deux d'entre elles ne sont pas encore disponibles. Les modèles ne sont pas en vente libre : l'accès se demande.
+
+Ce qu'ils en disent
+
+Il écrit : « Modern enterprise AI requires matching each workload to the right model rather than relying on a single model for every task. »
+Michael Gerstenhaber (Entreprise), VP produit, Google Cloud
+
+Elle déclare : « Helping customers put AI to work across their enterprise content requires leading models backed by strong security and rigorous compliance standards »
+Yashodha Bhavnani (Entreprise), VP produits d'IA chez Box, client cité par Google
+
+Il juge que « 2027 is largely sold out », selon Reuters, et que la demande dépasse ce qu'Amazon parvient à construire.
+Andy Jassy (Entreprise), PDG d'Amazon
+
+Ce qui change
+
+Pour une entreprise cliente de Google Cloud : tester un modèle d'OpenAI sans nouveau fournisseur, si elle obtient l'accès à la préversion. Pour un développeur : choisir le modèle selon la tâche (coût, vitesse) plutôt que s'en tenir à un seul.
+
+Et après
+
+Google annonce l'arrivée prochaine des modèles OpenAI dans Gemini for business et Google Antigravity, ainsi que les options de non-conservation des données et de calcul confidentiel. Aucune date n'est donnée.
+
+Sources : Google Cloud (annonce officielle) · Techzine · Runtime Wire
+
+3. ConnectWise : des agents d'IA au cœur d'une attaque, selon Microsoft
+
+CYBERSÉCURITÉ
+
+2 250 : tenants Microsoft 365 ciblés
+
+2 900 : échecs de connexion par minute (pic)
+
+Ce qui s'est passé
+
+Le 21 octobre, Microsoft a publié un rapport attribuant à Storm-0940, un groupe qu'elle juge aligné sur l'État chinois, la compromission d'une application multi-clients de ConnectWise, éditeur d'outils pour prestataires informatiques. Selon Microsoft, le groupe a utilisé ARTEX, un cadre open source d'agents fondés sur des grands modèles de langage conçu pour les tests d'intrusion. Du 10 au 14 octobre, une campagne de devinette de mots de passe a produit plus de 151 000 échecs de connexion sur 327 comptes de huit organisations, sans réussite. Le groupe est ensuite passé par les identités applicatives de ConnectWise et a tenté de se connecter à plus de 2 250 tenants (espaces clients) Microsoft 365. Dans plusieurs cas, « the time from initial targeting to privileged access was less than 3 hours ». ConnectWise avait publié un avis le 16 octobre ; selon The Register, la société a désactivé trois de ses services (Cloud Backup, SaaS Security, Cloud Management). Microsoft ne dit pas combien de clients ont été compromis, ni si des données ont été volées, et précise que la faille ne vient pas de ses propres systèmes.
+
+L'éclairage
+
+Qu'est-ce qu'un agent d'IA utilisé pour attaquer ?
+
+Un agent d'IA est un programme qui enchaîne des actions seul, en s'appuyant sur un grand modèle de langage : il lit des résultats, décide de l'étape suivante et recommence. Un outil comme ARTEX en coordonne plusieurs, de la reconnaissance à l'extraction de données. Une attaque par chaîne d'approvisionnement vise un fournisseur pour atteindre ses clients : ici, les accès que les clients avaient déjà accordés à l'application de ConnectWise, ce qui évite le mot de passe et la validation en deux étapes d'une personne. Ce qui est établi, ce qui ne l'est pas : l'attribution à Storm-0940 et le rôle d'ARTEX sont les conclusions de Microsoft. Le chiffre de 2 250 compte des tentatives de connexion, pas des intrusions réussies, et le nombre de victimes n'est pas publié.
+
+Ce qu'ils en disent
+
+Elle écrit : « This activity demonstrates how threat actors are integrating agentic AI into existing offensive security workflows » (citation relevée par CSO Online).
+Microsoft Threat Intelligence (Entreprise), rapport du 21 octobre
+
+Il estime : « Defenders should focus on what the identity is doing, not whether a human or AI is controlling it » (cité par CSO Online).
+Yash Kadakia (Entreprise), Security Brigade, société de sécurité
+
+Il juge que la rapidité de ce type d'attaque dépasse ce que peut absorber une file d'analystes humains, et que valider chaque alerte à la main ne suffit pas. Propos résumés sans guillemets.
+Yih Khai Wong (Chercheurs), IDC Asia/Pacific, cabinet d'analyse
+
+Ce qui change
+
+Pour un administrateur Microsoft 365 qui utilise ConnectWise : Microsoft recommande de garder les connexions concernées désactivées tant que ConnectWise n'a pas donné ses consignes de rétablissement, de chercher les applications par leur identifiant (pas par leur nom), de conserver les journaux et de relire l'activité depuis au moins le 15 octobre.
+
+Et après
+
+ConnectWise doit publier ses consignes de rétablissement des services ; aucune date n'est donnée dans les sources.
+
+Sources : Microsoft (rapport) · The Register · CSO Online
+
+À venir
+
+- 29 oct. : Amazon : résultats du troisième trimestre, avec le chiffre d'affaires d'AWS (Reuters).
+- 9 nov. : AI Act : fin de la consultation de la Commission sur les procédures de sanction (Agence Europe).
+
+Les mots du jour
+
+Préversion privée
+Version d'un service ouverte à une sélection de clients, avant la mise à disposition générale.
+Inférence
+Exécution d'un modèle d'IA déjà entraîné pour produire une réponse à une demande.
+Chaîne d'approvisionnement (attaque)
+Attaque qui passe par un fournisseur pour atteindre ses clients.
+Tenant
+Espace propre à un client dans un service en ligne, comme Microsoft 365.
+
+Vrai ou faux ?
+
+Selon Microsoft, la campagne de devinette de mots de passe attribuée à Storm-0940 a permis de se connecter à des centaines de comptes.
+
+Réponse : faux. Faux : Microsoft a observé plus de 151 000 échecs de connexion sur 327 comptes, sans aucune connexion réussie dans cette phase. Les accès sont venus ensuite des identités applicatives de ConnectWise.
+
+Retrouvez cette édition sur eclairagemedia.com.
