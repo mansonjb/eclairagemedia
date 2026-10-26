@@ -1,5 +1,5 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "sondage": {
   "methode": "moyenne",
   "nb": 12,
@@ -63,7 +63,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 156398350.356815,
+ "polymarket_volume": 156907163.86580402,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -83,27 +83,41 @@
     "d": 1.3
    },
    "attention": {
-    "v": 95,
-    "d": 6.3,
+    "v": 90.9,
+    "d": 4.9,
     "parts": {
-     "Wikipedia": 3.9,
+     "Wikipedia": 4.9,
      "réseaux": 18.7,
      "citations": 32.5,
-     "abonnés": 38,
-     "YouTube": 16.5
+     "abonnés": 33.6,
+     "YouTube": 21.1
     }
    },
    "polymarket": {
-    "v": 45.8,
-    "d": -2.1,
-    "d24": -0.5,
-    "d30": 7.4,
-    "vol": 4387889,
-    "vol7": 380688,
+    "v": 43.2,
+    "d": -5,
+    "d24": -2.5,
+    "d30": 4.9,
+    "vol": 4477198,
+    "vol7": 420491,
     "haut": 48.2,
     "bas": 38.4
    },
    "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "candidate à la présidentielle",
+     "texte": "Elle souhaite « un gouvernement ouvert et pluraliste, un gouvernement que je souhaite d'union nationale »",
+     "url": "https://www.publicsenat.fr/actualites/politique/si-elle-gagne-en-2027-marine-le-pen-appelle-a-la-formation-dun-gouvernement-dunion-nationale",
+     "source": "Public Sénat",
+     "date": "2026-10-26",
+     "rubrique": "politique",
+     "sujet": "Le Pen à Orléans : un gouvernement d'union nationale, Bardella à Matignon",
+     "href": "/politique/2026-10-26/1"
+    },
     {
      "fond": "#e4e7f2",
      "couleur": "#0b1f4d",
@@ -173,23 +187,9 @@
      "rubrique": "politique",
      "sujet": "Conseil constitutionnel : le RN et l'UDR réclament la démission de Ferrand",
      "href": "/politique/2026-10-17/2"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Marine Le Pen",
-     "contexte": "candidate à la présidentielle",
-     "texte": "« Il n'y a pas de raison majeure qu'on accorde plus de 5 milliards d'euros de contributions nettes »",
-     "url": "https://lcp.fr/actualites/budget-2027-qu-est-ce-que-la-contribution-francaise-au-budget-de-l-union-europeenne-qui",
-     "source": "LCP",
-     "date": "2026-10-16",
-     "rubrique": "politique",
-     "sujet": "Budget de l'UE : l'Assemblée adopte la contribution française de 30,9 Md€",
-     "href": "/politique/2026-10-16/2"
     }
    ],
-   "nbDeclarations": 12,
+   "nbDeclarations": 13,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -297,9 +297,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 95
+    "attention": 91
    },
-   "score": 99,
+   "score": 98,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -319,22 +319,22 @@
    },
    "attention": {
     "v": 100,
-    "d": 6.5,
+    "d": 13.5,
     "parts": {
-     "Wikipedia": 9.5,
+     "Wikipedia": 9.3,
      "réseaux": 37.7,
      "citations": 17.9,
-     "abonnés": 10.2,
-     "YouTube": 38.1
+     "abonnés": 20.1,
+     "YouTube": 33.9
     }
    },
    "polymarket": {
-    "v": 11.5,
+    "v": 10.5,
     "d": 1,
-    "d24": 1,
-    "d30": -1,
-    "vol": 2495527,
-    "vol7": 233440,
+    "d24": -1,
+    "d30": -2,
+    "vol": 2525636,
+    "vol7": 222533,
     "haut": 15.5,
     "bas": 9.5
    },
@@ -531,10 +531,10 @@
    },
    "composantes": {
     "sondage": 48,
-    "polymarket": 25,
+    "polymarket": 24,
     "attention": 100
    },
-   "score": 52,
+   "score": 51,
    "rangs": {
     "sondage": 2,
     "polymarket": 4
@@ -553,24 +553,25 @@
     "d": -1.3
    },
    "attention": {
-    "v": 19.3,
-    "d": 7.9,
+    "v": 16.7,
+    "d": 6,
     "parts": {
+     "Wikipedia": 2.4,
      "réseaux": 1.3,
      "citations": 12.1,
-     "abonnés": 0.9,
+     "abonnés": 0.8,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 17.5,
-    "d": 0,
-    "d24": 1,
-    "d30": -6,
-    "vol": 2512277,
-    "vol7": 227230,
+    "v": 15.5,
+    "d": -4,
+    "d24": -2,
+    "d30": -7,
+    "vol": 2572101,
+    "vol7": 205670,
     "haut": 24.5,
-    "bas": 16.5
+    "bas": 15.5
    },
    "declarations": [
     {
@@ -765,10 +766,10 @@
    },
    "composantes": {
     "sondage": 43,
-    "polymarket": 38,
-    "attention": 19
+    "polymarket": 36,
+    "attention": 17
    },
-   "score": 37,
+   "score": 36,
    "rangs": {
     "sondage": 3,
     "polymarket": 2
@@ -787,23 +788,23 @@
     "d": null
    },
    "attention": {
-    "v": 66.2,
-    "d": 14.2,
+    "v": 60.9,
+    "d": 8.5,
     "parts": {
-     "Wikipedia": 29.1,
+     "Wikipedia": 28,
      "réseaux": 14.7,
      "citations": 1.7,
-     "abonnés": 24.8,
-     "YouTube": 8.8
+     "abonnés": 20.7,
+     "YouTube": 11.2
     }
    },
    "polymarket": {
-    "v": 13.8,
-    "d": 2.2,
-    "d24": 0.1,
+    "v": 14.3,
+    "d": 2.5,
+    "d24": 0.5,
     "d30": 6.8,
-    "vol": 5392381,
-    "vol7": 435468,
+    "vol": 5430297,
+    "vol7": 421617,
     "haut": 14.5,
     "bas": 7
    },
@@ -909,8 +910,8 @@
    },
    "composantes": {
     "sondage": 19,
-    "polymarket": 30,
-    "attention": 66
+    "polymarket": 33,
+    "attention": 61
    },
    "score": 32,
    "rangs": {
@@ -931,23 +932,23 @@
     "d": 1.9
    },
    "attention": {
-    "v": 14.3,
-    "d": -45.5,
+    "v": 13.3,
+    "d": -32.6,
     "parts": {
-     "Wikipedia": 7.6,
+     "Wikipedia": 7.2,
      "réseaux": 0.6,
      "citations": 6,
-     "abonnés": 0.5,
+     "abonnés": 0.4,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 3.6,
-    "d": -0.5,
-    "d24": -0.7,
-    "d30": 2,
-    "vol": 2997316,
-    "vol7": 329753,
+    "v": 4.8,
+    "d": 0.4,
+    "d24": 1.1,
+    "d30": 3.1,
+    "vol": 3052437,
+    "vol7": 339185,
     "haut": 5.3,
     "bas": 0.9
    },
@@ -1130,8 +1131,8 @@
    },
    "composantes": {
     "sondage": 37,
-    "polymarket": 8,
-    "attention": 14
+    "polymarket": 11,
+    "attention": 13
    },
    "score": 24,
    "rangs": {
@@ -1152,23 +1153,23 @@
     "d": -1.4
    },
    "attention": {
-    "v": 19.5,
-    "d": -2,
+    "v": 18.7,
+    "d": -0.9,
     "parts": {
      "Wikipedia": 2.6,
      "réseaux": 4.7,
      "citations": 10,
-     "abonnés": 0.3,
+     "abonnés": 0.2,
      "YouTube": 0.4
     }
    },
    "polymarket": {
-    "v": 0.7,
-    "d": -1.1,
-    "d24": -0.4,
-    "d30": -1.5,
-    "vol": 3236510,
-    "vol7": 157890,
+    "v": 1,
+    "d": -0.1,
+    "d24": 0.4,
+    "d30": -1.1,
+    "vol": 3246928,
+    "vol7": 125153,
     "haut": 3,
     "bas": 0.7
    },
@@ -1366,7 +1367,7 @@
    "composantes": {
     "sondage": 25,
     "polymarket": 2,
-    "attention": 20
+    "attention": 19
    },
    "score": 17,
    "rangs": {
@@ -1387,23 +1388,23 @@
     "d": -0.4
    },
    "attention": {
-    "v": 23.4,
-    "d": 12,
+    "v": 22.3,
+    "d": 10.7,
     "parts": {
-     "Wikipedia": 5.8,
+     "Wikipedia": 5.5,
      "réseaux": 5,
      "citations": 10.2,
-     "abonnés": 1.2,
-     "YouTube": 0.3
+     "abonnés": 1.6,
+     "YouTube": 0.1
     }
    },
    "polymarket": {
     "v": 1.4,
     "d": 0.6,
-    "d24": 0.2,
-    "d30": null,
-    "vol": 3200841,
-    "vol7": 224007,
+    "d24": null,
+    "d30": -0.2,
+    "vol": 3251364,
+    "vol7": 234600,
     "haut": 1.9,
     "bas": 0.4
    },
@@ -1601,9 +1602,9 @@
    "composantes": {
     "sondage": 22,
     "polymarket": 3,
-    "attention": 23
+    "attention": 22
    },
-   "score": 17,
+   "score": 16,
    "rangs": {
     "sondage": 7,
     "polymarket": 7
@@ -1622,8 +1623,8 @@
     "d": 1.7
    },
    "attention": {
-    "v": 4.2,
-    "d": -2.8,
+    "v": 4,
+    "d": -2.7,
     "parts": {
      "Wikipedia": 1.3,
      "réseaux": 1,
@@ -1633,13 +1634,13 @@
     }
    },
    "polymarket": {
-    "v": 2.4,
-    "d": 0.1,
-    "d24": null,
-    "d30": -3.4,
-    "vol": 2678615,
-    "vol7": 152971,
-    "haut": 6.3,
+    "v": 3.1,
+    "d": 1.6,
+    "d24": 0.8,
+    "d30": -1.8,
+    "vol": 2697542,
+    "vol7": 124990,
+    "haut": 5.8,
     "bas": 1.5
    },
    "declarations": [],
@@ -1750,10 +1751,10 @@
    },
    "composantes": {
     "sondage": 24,
-    "polymarket": 5,
+    "polymarket": 7,
     "attention": 4
    },
-   "score": 14,
+   "score": 15,
    "rangs": {
     "sondage": 6,
     "polymarket": 6
@@ -1769,21 +1770,21 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 68.1,
-    "d": 16,
+    "v": 62.2,
+    "d": 1.3,
     "parts": {
-     "Wikipedia": 18.8,
-     "abonnés": 12,
-     "YouTube": 15
+     "Wikipedia": 18.2,
+     "abonnés": 9.9,
+     "YouTube": 16
     }
    },
    "polymarket": {
-    "v": 0.7,
-    "d": -0.2,
-    "d24": null,
+    "v": 0.8,
+    "d": -0.1,
+    "d24": 0.1,
     "d30": -0.2,
-    "vol": 2753766,
-    "vol7": 123765,
+    "vol": 2773586,
+    "vol7": 97937,
     "haut": 1.1,
     "bas": 0.7
    },
@@ -1793,11 +1794,11 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 2,
-    "attention": 68
+    "attention": 62
    },
-   "score": 14,
+   "score": 13,
    "rangs": {
-    "polymarket": 10
+    "polymarket": 11
    }
   },
   {
@@ -1813,23 +1814,23 @@
     "d": 0.2
    },
    "attention": {
-    "v": 29.7,
-    "d": 1.1,
+    "v": 25.5,
+    "d": -5.4,
     "parts": {
-     "Wikipedia": 9,
+     "Wikipedia": 8.1,
      "réseaux": 5.5,
      "citations": 1.6,
-     "abonnés": 6.9,
-     "YouTube": 19.6
+     "abonnés": 6.2,
+     "YouTube": 15.3
     }
    },
    "polymarket": {
-    "v": 0.9,
-    "d": 0.2,
-    "d24": null,
-    "d30": -0.2,
-    "vol": 3171492,
-    "vol7": 200145,
+    "v": 1.1,
+    "d": 0.4,
+    "d24": 0.2,
+    "d30": null,
+    "vol": 3194028,
+    "vol7": 114683,
     "haut": 1.1,
     "bas": 0.4
    },
@@ -1941,8 +1942,8 @@
    },
    "composantes": {
     "sondage": 11,
-    "polymarket": 2,
-    "attention": 30
+    "polymarket": 3,
+    "attention": 26
    },
    "score": 12,
    "rangs": {
@@ -1963,20 +1964,20 @@
     "d": -0.4
    },
    "attention": {
-    "v": 12.8,
-    "d": -7.6,
+    "v": 11.6,
+    "d": -8.7,
     "parts": {
-     "Wikipedia": 3,
+     "Wikipedia": 2.2,
      "réseaux": 5.2,
      "citations": 2.6,
-     "abonnés": 0.9,
+     "abonnés": 1,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": null,
+    "d24": -0.1,
     "d30": -0.1,
     "vol": 4617547,
     "vol7": 0,
@@ -2177,7 +2178,7 @@
    "composantes": {
     "sondage": 9,
     "polymarket": 0,
-    "attention": 13
+    "attention": 12
    },
    "score": 7,
    "rangs": {
@@ -2198,8 +2199,8 @@
     "d": -0.4
    },
    "attention": {
-    "v": 3.6,
-    "d": -2.3,
+    "v": 3.5,
+    "d": -2,
     "parts": {
      "Wikipedia": 0.6,
      "réseaux": 1.6,
@@ -2393,152 +2394,6 @@
    }
   },
   {
-   "nom": "François Ruffin",
-   "wiki": "François_Ruffin",
-   "etiquette": "Debout !",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 8.1,
-    "d": 1.7,
-    "parts": {
-     "Wikipedia": 1.5,
-     "réseaux": 3.7,
-     "citations": 0.9,
-     "abonnés": 0.7,
-     "YouTube": 1.3
-    }
-   },
-   "polymarket": {
-    "v": 0.1,
-    "d": null,
-    "d24": null,
-    "d30": -0.1,
-    "vol": 4841770,
-    "vol7": 7465,
-    "haut": null,
-    "bas": null
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-ruffin/",
-    "phase": {
-     "note": "79 %",
-     "libelle": "en phase · Proche",
-     "texte": "Ses publications parlent d'abord d'économie et finances (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 3,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 296 posts"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en engagement",
-      "valeur": "6 991 364"
-     },
-     {
-      "rang": 14,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 627"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "127 776 526"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 353 493 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "17 décembre 2025 · TikTok",
-      "texte": "Y a quoi derrière vos colis ?",
-      "chiffres": "332 318 j'aime · 5 096 commentaires · 32 492 partages · 3 841 621 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7584874683435191574"
-     },
-     {
-      "quand": "21 novembre 2025 · TikTok",
-      "texte": "Sauvez Teisseire ! Sauvez le sirop de grenadine français, sauvez 205 emplois, 205 vies de famille, sauvez ce qu’il reste de notre industrie française, nos usines qu’on laisse…",
-      "chiffres": "240 184 j'aime · 3 562 commentaires · 19 913 partages · 3 023 922 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7575183811785329942"
-     },
-     {
-      "quand": "26 janvier 2026 · TikTok",
-      "texte": "Je suis candidat à la présidence de la République française. Pour les millions de travailleurs qui, en bas, dans les usines, les bureaux, les hôpitaux, tiennent le pays debout.…",
-      "chiffres": "134 194 j'aime · 2 469 commentaires · 11 072 partages · 1 751 193 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7599771786070215958"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "1 379",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "241",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "14",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "16",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "376",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 156 politiques"
-     },
-     {
-      "valeur": "77",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 36 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Antoine Oberdorff",
-      "role": "Journaliste",
-      "posts": "43 posts"
-     },
-     {
-      "nom": "Christine Lejoux",
-      "role": "Journaliste",
-      "posts": "19 posts"
-     },
-     {
-      "nom": "Françoise Degois",
-      "role": "Journaliste",
-      "posts": "11 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 0,
-    "attention": 8
-   },
-   "score": 2,
-   "rangs": {
-    "polymarket": 14
-   }
-  },
-  {
    "nom": "Dominique de Villepin",
    "wiki": "Dominique_de_Villepin",
    "etiquette": "La France humaniste",
@@ -2548,23 +2403,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 10.3,
-    "d": 4.3,
+    "v": 11.3,
+    "d": 5.7,
     "parts": {
-     "Wikipedia": 6.9,
+     "Wikipedia": 7.8,
      "réseaux": 0.3,
      "citations": 1.9,
-     "abonnés": 2.7,
+     "abonnés": 3.8,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 0.5,
-    "d": 0.1,
-    "d24": null,
-    "d30": -0.5,
-    "vol": 2773638,
-    "vol7": 168001,
+    "v": 0.9,
+    "d": 0.3,
+    "d24": 0.3,
+    "d30": 0.4,
+    "vol": 2798604,
+    "vol7": 150637,
     "haut": 1.2,
     "bas": 0.2
    },
@@ -2691,12 +2546,158 @@
    },
    "composantes": {
     "sondage": 0,
-    "polymarket": 1,
-    "attention": 10
+    "polymarket": 2,
+    "attention": 11
+   },
+   "score": 3,
+   "rangs": {
+    "polymarket": 10
+   }
+  },
+  {
+   "nom": "François Ruffin",
+   "wiki": "François_Ruffin",
+   "etiquette": "Debout !",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 8.1,
+    "d": 2,
+    "parts": {
+     "Wikipedia": 1.5,
+     "réseaux": 3.7,
+     "citations": 0.9,
+     "abonnés": 0.8,
+     "YouTube": 2
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null,
+    "d24": null,
+    "d30": -0.1,
+    "vol": 4841770,
+    "vol7": 0,
+    "haut": null,
+    "bas": null
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-ruffin/",
+    "phase": {
+     "note": "79 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 3,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "4 296 posts"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 991 364"
+     },
+     {
+      "rang": 14,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "1 627"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "127 776 526"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 353 493 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "17 décembre 2025 · TikTok",
+      "texte": "Y a quoi derrière vos colis ?",
+      "chiffres": "332 318 j'aime · 5 096 commentaires · 32 492 partages · 3 841 621 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7584874683435191574"
+     },
+     {
+      "quand": "21 novembre 2025 · TikTok",
+      "texte": "Sauvez Teisseire ! Sauvez le sirop de grenadine français, sauvez 205 emplois, 205 vies de famille, sauvez ce qu’il reste de notre industrie française, nos usines qu’on laisse…",
+      "chiffres": "240 184 j'aime · 3 562 commentaires · 19 913 partages · 3 023 922 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7575183811785329942"
+     },
+     {
+      "quand": "26 janvier 2026 · TikTok",
+      "texte": "Je suis candidat à la présidence de la République française. Pour les millions de travailleurs qui, en bas, dans les usines, les bureaux, les hôpitaux, tiennent le pays debout.…",
+      "chiffres": "134 194 j'aime · 2 469 commentaires · 11 072 partages · 1 751 193 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7599771786070215958"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 379",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "241",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "14",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "16",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "376",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 156 politiques"
+     },
+     {
+      "valeur": "77",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 36 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "43 posts"
+     },
+     {
+      "nom": "Christine Lejoux",
+      "role": "Journaliste",
+      "posts": "19 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "11 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 0,
+    "attention": 8
    },
    "score": 2,
    "rangs": {
-    "polymarket": 11
+    "polymarket": 14
    }
   },
   {
@@ -2722,10 +2723,10 @@
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": 0.1,
+    "d24": null,
     "d30": 0.1,
-    "vol": 6262235,
-    "vol7": 98941,
+    "vol": 6293923,
+    "vol7": 113019,
     "haut": null,
     "bas": null
    },
@@ -3507,6 +3508,43 @@
     "Gabriel Attal": 0.7,
     "Sarah Knafo": 0.7,
     "Dominique de Villepin": 0.5,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Marine Le Pen": 90.9,
+    "Sarah Knafo": 62.2,
+    "David Lisnard": 60.9,
+    "Éric Zemmour": 25.5,
+    "Bruno Retailleau": 22.3,
+    "Gabriel Attal": 18.7,
+    "Édouard Philippe": 16.7,
+    "Raphaël Glucksmann": 13.3,
+    "Marine Tondelier": 11.6,
+    "Dominique de Villepin": 11.3,
+    "François Ruffin": 8.1,
+    "François Hollande": 4,
+    "Fabien Roussel": 3.5,
+    "Xavier Bertrand": 1
+   },
+   "polymarket": {
+    "Marine Le Pen": 43.2,
+    "Édouard Philippe": 15.5,
+    "David Lisnard": 14.3,
+    "Jean-Luc Mélenchon": 10.5,
+    "Raphaël Glucksmann": 4.8,
+    "François Hollande": 3.1,
+    "Bruno Retailleau": 1.4,
+    "Éric Zemmour": 1.1,
+    "Gabriel Attal": 1,
+    "Dominique de Villepin": 0.9,
+    "Sarah Knafo": 0.8,
     "Xavier Bertrand": 0.1,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,

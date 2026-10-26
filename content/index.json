@@ -1,5 +1,334 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-26",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉLECTIONS",
+    "titre": "Le Pen à Orléans : un gouvernement d'union nationale, Bardella à Matignon",
+    "court": "Orléans : Le Pen promet l'union nationale",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Marine_Le_Pen%2C_meeting_de_pr%C3%A9sentation_de_son_projet_pr%C3%A9sidential_louis_maitrier_Paris_10-2011.jpg/1280px-Marine_Le_Pen%2C_meeting_de_pr%C3%A9sentation_de_son_projet_pr%C3%A9sidential_louis_maitrier_Paris_10-2011.jpg",
+    "legende": "Marine Le Pen saluant la salle lors d'un meeting à Paris en 2011 (archive, illustration)",
+    "chapeau": "Dimanche 25 octobre, Marine Le Pen, candidate du Rassemblement national (RN) à la présidentielle de 2027, a tenu son premier grand meeting de campagne à l'Arena d'Orléans, devant 8 500 militants. Elle a développé le thème de la « renaissance » de la France, sans « rupture brutale », selon l'AFP.",
+    "eclairage": "Qui nomme le Premier ministre ?",
+    "chiffres": [
+     {
+      "valeur": "8 500",
+      "legende": "militants dans la salle"
+     },
+     {
+      "valeur": "~3 000",
+      "legende": "policiers et gendarmes"
+     },
+     {
+      "valeur": "18/04",
+      "legende": "1er tour de 2027"
+     }
+    ],
+    "passe": "Dimanche 25 octobre, Marine Le Pen, candidate du Rassemblement national (RN) à la présidentielle de 2027, a tenu son premier grand meeting de campagne à l'Arena d'Orléans, devant 8 500 militants. Elle a développé le thème de la « renaissance » de la France, sans « rupture brutale », selon l'AFP. Elle a de nouveau indiqué que Jordan Bardella serait son Premier ministre en cas de victoire, à la tête d'un gouvernement qu'elle souhaite « d'union nationale », « ouvert et pluraliste ». Éric Ciotti, président de l'Union des droites pour la République (UDR), allié du RN, a introduit le meeting en appelant ses « anciens amis » des Républicains à « revenir à la maison ». Près de 3 000 policiers et gendarmes étaient déployés autour de la ville, et une centaine d'opposants ont été tenus à distance de la salle.",
+    "points": [],
+    "explication": "Selon l'article 8 de la Constitution, c'est le président de la République qui nomme le Premier ministre. Ce que dit une candidate sur son futur chef de gouvernement est donc une intention : elle ne vaut qu'en cas d'élection, puis de nomination. Un « gouvernement d'union nationale » est, dans le vocabulaire de Marine Le Pen, un gouvernement qui réunirait des personnalités de sensibilités différentes autour du RN. Le premier tour est fixé au 18 avril 2027, le second au 2 mai.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://actu.orange.fr/france/pour-son-premier-meeting-sous-tension-le-pen-promet-une-quot-renaissance-quot-sans-quot-rupture-brutale-quot-CNT000002tnd6d.html",
+      "nom": "Orange (avec AFP)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/si-elle-gagne-en-2027-marine-le-pen-appelle-a-la-formation-dun-gouvernement-dunion-nationale",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.lessentiel.lu/fr/story/france-marine-le-pen-promet-une-renaissance-sans-rupture-brutale-103656328",
+      "nom": "L'essentiel"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "candidate à la présidentielle",
+      "texte": "Elle souhaite « un gouvernement ouvert et pluraliste, un gouvernement que je souhaite d'union nationale »",
+      "url": "https://www.publicsenat.fr/actualites/politique/si-elle-gagne-en-2027-marine-le-pen-appelle-a-la-formation-dun-gouvernement-dunion-nationale",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Éric Ciotti",
+      "contexte": "président de l'UDR",
+      "texte": "À ses anciens collègues LR : « Je leur dis : revenez à la maison ! »",
+      "url": "https://www.publicsenat.fr/actualites/politique/si-elle-gagne-en-2027-marine-le-pen-appelle-a-la-formation-dun-gouvernement-dunion-nationale",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Premier tour de la présidentielle le 18 avril 2027, second tour le 2 mai. Aucune réponse de Les Républicains à l'appel de M. Ciotti n'a été relevée à ce stade.",
+    "change": "Marine Le Pen ouvre sa campagne en décrivant le cadre d'un futur gouvernement, et Éric Ciotti lance un appel public aux élus Les Républicains.",
+    "credit": {
+     "auteur": "NdFrayssinet",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen,_meeting_de_pr%C3%A9sentation_de_son_projet_pr%C3%A9sidential_louis_maitrier_Paris_10-2011.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "BUDGET",
+    "titre": "Sécu : l'Assemblée rejette les recettes du budget, le texte part au Sénat",
+    "court": "Sécu : l'Assemblée rejette, cap sur le Sénat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AN_216472.jpg/1280px-AN_216472.jpg",
+    "legende": "Un député prend la parole dans l'hémicycle de l'Assemblée nationale (illustration)",
+    "chapeau": "Vendredi 23 octobre, l'Assemblée nationale a rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, par 115 voix contre 1. Les groupes du bloc central (Ensemble pour la République, Les Démocrates et Horizons) se sont abstenus ; les autres groupes ont voté contre.",
+    "eclairage": "Pourquoi le rejet des recettes arrête l'examen",
+    "chiffres": [
+     {
+      "valeur": "115",
+      "legende": "voix contre"
+     },
+     {
+      "valeur": "1",
+      "legende": "voix pour"
+     },
+     {
+      "valeur": "24 Md€",
+      "legende": "déficit, version des députés"
+     }
+    ],
+    "passe": "Vendredi 23 octobre, l'Assemblée nationale a rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, par 115 voix contre 1. Les groupes du bloc central (Ensemble pour la République, Les Démocrates et Horizons) se sont abstenus ; les autres groupes ont voté contre. Les recettes n'ayant pas été adoptées, la partie « dépenses » n'a pas été examinée, et l'ensemble du texte est transmis au Sénat, dans la version initiale du gouvernement. Celle-ci prévoit un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026 ; la version modifiée par les députés, puis rejetée, le portait à 24 milliards. Le Sénat doit l'examiner en séance à partir du 9 novembre. Le Premier ministre, Sébastien Lecornu, pourrait à terme tenter de le faire adopter par l'article 49.3 de la Constitution.",
+    "points": [],
+    "explication": "Un PLFSS s'examine dans un ordre fixe : les recettes d'abord, les dépenses ensuite. Si l'Assemblée rejette les recettes, elle ne peut pas débattre des dépenses, puisque leur financement doit d'abord être prévu. Le texte part alors au Sénat, dans la version du gouvernement. Le 49.3 (article 49, alinéa 3) permet au gouvernement d'engager sa responsabilité sur un texte : celui-ci est considéré comme adopté, sauf si une motion de censure est votée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/",
+      "nom": "Le Club des juristes"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027",
+      "nom": "assemblee-nationale.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Justine Gruet",
+      "contexte": "députée, Droite républicaine",
+      "texte": "« L'impératif de redressement des comptes sociaux n'est pas tenu »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Sandrine Runel",
+      "contexte": "députée, Socialistes",
+      "texte": "Elle dénonce un « texte injuste dans ses choix et insuffisant dans ses moyens »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Joëlle Mélin",
+      "contexte": "députée",
+      "texte": "Selon elle, il fallait « que les choses s'arrêtent là »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Olivier Fayssat",
+      "contexte": "député",
+      "texte": "Il évoque une « trajectoire morbide »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "LES DÉMOCRATES",
+      "qui": "Cyrille Isaac-Sibille",
+      "contexte": "député",
+      "texte": "Il juge le projet du gouvernement « difficile, mais courageux pour permettre de financer notre système de Sécurité sociale »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Lundi 9 novembre : début de l'examen du PLFSS au Sénat. À défaut d'accord, un recours au 49.3 reste possible, selon LCP.",
+    "change": "L'Assemblée ne s'est pas prononcée sur les mesures de dépenses du gouvernement, qui prévoient notamment de geler certaines pensions de retraite et les allocations familiales.",
+    "credit": {
+     "auteur": "Assemblée nationale",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:AN_216472.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SÉCURITÉ",
+    "titre": "Casseurs-payeurs : le Sénat durcit le texte, séance le 27 octobre",
+    "court": "Casseurs-payeurs : le Sénat durcit le texte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Manifestations_du_17_octobre_0089.jpg/1280px-Manifestations_du_17_octobre_0089.jpg",
+    "legende": "Un policier face à des feux de mobilier urbain lors des manifestations du 17 octobre 2026 à Paris",
+    "chapeau": "Mardi 27 octobre, le Sénat doit examiner en séance le projet de loi « casseurs-payeurs », relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l'espace public.",
+    "eclairage": "Responsabilité civile solidaire : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "10 000",
+      "legende": "€ au plus par personne"
+     },
+     {
+      "valeur": "27/10",
+      "legende": "séance au Sénat"
+     }
+    ],
+    "passe": "Mardi 27 octobre, le Sénat doit examiner en séance le projet de loi « casseurs-payeurs », relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l'espace public. Présenté en Conseil des ministres le 16 septembre, il est examiné en procédure accélérée (une seule lecture par chambre). Son article 1er prévoit que toute personne ayant participé sciemment à un groupement où des violences, des vols ou des dégradations ont été commis est tenue solidairement, dans la limite de 10 000 euros, à la réparation des dommages. Mercredi 21 octobre, la commission des lois du Sénat a adopté une version durcie : le RSA pourrait faire l'objet de saisies, avec un « reste à vivre » possible, le recours aux drones en manifestation serait simplifié, et une interdiction du territoire pourrait être prononcée contre des étrangers condamnés pour certaines infractions. Le ministre de l'Intérieur indique que le gouvernement soutiendra la plupart de ces amendements. Après le Sénat, le texte doit être examiné à l'Assemblée avant fin février 2027.",
+    "points": [],
+    "explication": "La responsabilité civile est l'obligation de réparer un dommage, par des dommages et intérêts ; elle diffère de la responsabilité pénale, qui aboutit à une peine. Solidaire signifie que chacun peut être tenu de payer l'ensemble de la réparation, ici dans la limite de 10 000 euros. La procédure accélérée limite à une lecture par chambre, avant une éventuelle commission mixte paritaire si les deux assemblées divergent.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://lcp.fr/actualites/lycees-bloques-le-projet-de-loi-casseurs-payeurs-examine-fin-octobre-au-senat-442963",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.senat.fr/leg/pjl25-952.html",
+      "nom": "senat.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Un sénateur communiste",
+      "contexte": "Sénat",
+      "texte": "Il s'inquiète : « Plus aucune manifestation ne pourra avoir lieu dans ce pays » si le texte est voté",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Mathilde Panot",
+      "contexte": "présidente du groupe des députés LFI",
+      "texte": "Elle dénonce « une arme de répression massive contre toutes les mobilisations »",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« Il y a des réflexions que l'on peut avoir sur le fait de se dissimuler le visage »",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Gérard Larcher",
+      "contexte": "président du Sénat",
+      "texte": "« En cas de défaut (de paiement) il ne faut rien s'interdire, y compris sur les prestations sociales »",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Mardi 27 octobre : examen en séance au Sénat. Puis passage à l'Assemblée nationale, avant la fin février 2027.",
+    "change": "Si le texte est adopté, les victimes de dégradations pourraient obtenir réparation auprès de participants à un groupement, même sans être identifiés comme auteurs, avec des prélèvements possibles sur certaines prestations.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestations_du_17_octobre_0089.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "26",
+    "mois": "OCT.",
+    "texte": "Matignon : Sébastien Lecornu reçoit les représentants lycéens."
+   },
+   {
+    "jour": "27",
+    "mois": "OCT.",
+    "texte": "Sénat : examen en séance du projet de loi « casseurs-payeurs »."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat (midterms)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Sénat : début de l'examen du budget de la Sécurité sociale 2027."
+   },
+   {
+    "jour": "5",
+    "mois": "JANV.",
+    "texte": "Brésil : début du nouveau mandat présidentiel."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Procédure accélérée",
+    "definition": "Procédure qui limite l'examen d'un texte à une lecture par chambre du Parlement, avant une éventuelle commission mixte paritaire."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Projet de loi de financement de la Sécurité sociale : texte voté chaque année qui fixe les recettes et les dépenses de la Sécurité sociale."
+   },
+   {
+    "terme": "Responsabilité solidaire",
+    "definition": "Obligation pour chaque personne concernée de pouvoir être tenue de réparer l'ensemble du dommage, ici dans la limite de 10 000 euros."
+   },
+   {
+    "terme": "49.3",
+    "definition": "Article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est adoptée."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 23 octobre, l'Assemblée nationale a adopté le budget de la Sécurité sociale pour 2027.",
+   "reponse": false,
+   "explication": "Faux : les députés ont rejeté la partie « recettes » par 115 voix contre 1, et l'ensemble du texte est transmis au Sénat, qui l'examine à partir du 9 novembre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-25",
   "minutes": 9,
