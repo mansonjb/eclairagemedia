@@ -1,5 +1,531 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-26",
+  "url": "/podcasts/essentiel-2026-10-26.mp3",
+  "taille": 7687254,
+  "duree": 641,
+  "titre": "Éclairage, l'essentiel du lundi 26 octobre 2026",
+  "titre_episode": "Le Pen à Orléans, American Express et l'IA, un comprimé contre la rectocolite : l'essentiel du lundi 26 octobre",
+  "description": "Ce lundi 26 octobre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : Marine Le Pen à Orléans, Jordan Bardella Premier ministre\n• Politique : l'Assemblée rejette les recettes de la Sécurité sociale\n• Économie : American Express supprime 5 % de ses postes\n• Économie : Wall Street recule avec le pétrole\n• Santé : un comprimé contre la rectocolite\n• Santé : greffe d'œil entier, trois ans après\n• Alimentation : le Shift Project et l'alimentation en 2050\n• Tech : OpenAI sur Google Cloud\n• Tech : AWS, capacité 2027 largement vendue\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Le Pen à Orléans : un gouvernement d'union nationale, Bardella à Matignon"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Sécu : l'Assemblée rejette les recettes du budget, le texte part au Sénat"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "American Express : 5 % des postes supprimés pour préparer l'IA"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Wall Street : le Dow recule de 1,2 % vendredi, la semaine reste mitigée"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Rectocolite : un comprimé anti-IL-23 efficace dans un essai de phase 2b"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Greffe d'œil entier : trois ans après, l'œil est vivant mais ne voit pas"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Shift Project : un rapport sur l’alimentation française en 2050"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "OpenAI sur Google Cloud : trois modèles GPT-6 en préversion privée"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce lundi 26 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech. Neuf sujets, un seul fil : les faits."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique. Huit mille cinq cents militants dans une salle, dimanche à Orléans."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le premier grand meeting de campagne de Marine Le Pen, candidate du Rassemblement national à la présidentielle de 2027."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et elle a donné un détail sur son futur gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle a répété que Jordan Bardella serait son Premier ministre en cas de victoire. Et elle souhaite un gouvernement, je cite, « d'union nationale », « ouvert et pluraliste »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, des personnalités de sensibilités différentes autour du RN."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Mais une précision : selon l'article 8 de la Constitution, c'est le président de la République qui nomme le Premier ministre. Ce qu'elle annonce est donc une intention."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Éric Ciotti ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le président de l'UDR, allié du RN, a introduit le meeting. Il a appelé ses « anciens amis » des Républicains à « revenir à la maison ». Aucune réponse des Républicains n'a été relevée à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Marine Le Pen a aussi développé le thème de la « renaissance » de la France, sans « rupture brutale », selon l'AFP."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Près de trois mille policiers et gendarmes étaient déployés autour de la ville."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le premier tour est fixé au 18 avril 2027, le second au 2 mai."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor : le budget de la Sécurité sociale. Vendredi, l'Assemblée a rejeté la partie recettes, par cent quinze voix contre une."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, cent quinze contre une ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le bloc central s'est abstenu, les autres groupes ont voté contre. Et comme les recettes sont rejetées, la partie dépenses n'est même pas examinée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce qu'un projet de loi de financement de la Sécurité sociale s'examine dans un ordre fixe : recettes d'abord, dépenses ensuite. Sans financement voté, on ne débat pas des dépenses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le texte, il va où ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Au Sénat, dans la version initiale du gouvernement. Elle prévoit un déficit de la Sécurité sociale de douze virgule sept milliards d'euros en 2027, contre vingt et un virgule huit en 2026."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La version des députés, elle, montait à vingt-quatre milliards."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et le gouvernement prévoit notamment de geler certaines pensions de retraite et les allocations familiales, mais l'Assemblée ne s'est pas prononcée sur ces mesures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Sénat s'en saisit à partir du 9 novembre. Et le Premier ministre, Sébastien Lecornu, pourrait à terme recourir à l'article 49.3."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui veut dire que le texte est considéré comme adopté, sauf motion de censure. À retenir : le rejet des recettes envoie le texte au Sénat, sans examen des dépenses."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à l'économie, Léa."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq pour cent de ses effectifs mondiaux. C'est ce qu'American Express va supprimer, annoncé vendredi avec ses résultats du troisième trimestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soit environ trois mille huit cents postes, mais c'est un calcul de la presse, pas un chiffre publié par l'entreprise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourtant, les résultats sont bons ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Très bons. Chiffre d'affaires de vingt virgule un milliards de dollars, en hausse de neuf pour cent. Bénéfice net de trois virgule sept milliards, plus vingt-huit pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors pourquoi supprimer des postes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le directeur financier explique vouloir une entreprise plus légère, plus agile, et préparée à l'IA. D'abord réduire les niveaux hiérarchiques, ensuite automatiser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le coût ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une charge de restructuration de trois cent trente-six millions de dollars. Selon Upside24, ni le communiqué ni le rapport ne chiffrent les économies attendues, ni le calendrier des départs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et comment est-elle financée ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "En partie par une plus-value de neuf cent quatre-vingt-deux millions de dollars, tirée de la vente d'une participation dans Global Business Travel Group."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en Bourse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'action reculait d'environ trois virgule sept pour cent vendredi, selon Upside24."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : de bons résultats, des postes supprimés, et l'IA citée comme raison de la réorganisation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction Wall Street. Vendredi, le Dow Jones a perdu un virgule deux pour cent, à cinquante-deux mille deux cent quinze points."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui pèse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le pétrole. Le Brent a gagné trois virgule un pour cent, au-dessus de cent seize dollars le baril, selon l'agence AP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des taux ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le rendement du bon du Trésor américain à dix ans est monté à environ cinq pour cent. Et les marchés donnent quatre-vingt-un pour cent de probabilité à une hausse des taux de la Réserve fédérale en décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le rendement, c'est le taux que l'État paie pour emprunter. Quand il monte, emprunter coûte plus cher aux entreprises aussi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le Nasdaq, la bourse des valeurs technologiques ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il recule de zéro virgule deux pour cent. Selon Reuters, l'inquiétude porte sur le coût de financement des investissements dans l'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur la semaine ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le S&P 500, l'indice des cinq cents grandes entreprises, cède zéro virgule cinq pour cent et le Nasdaq zéro virgule sept, alors que le Dow gagne zéro virgule quatre, soutenu par les valeurs défensives."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La semaine qui vient sera chargée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Alphabet, Microsoft et Amazon publient leurs résultats. La BCE décide jeudi, et l'Insee publie l'inflation d'octobre vendredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : pétrole plus cher, taux plus hauts, et des marchés suspendus aux résultats de l'IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Place à la santé. Un comprimé contre la rectocolite hémorragique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est une maladie chronique où l'intestin s'enflamme par poussées. Le médicament s'appelle l'icotrokinra, et il se prend par la bouche, une fois par jour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essai, publié dans le New England Journal of Medicine, a suivi deux cent cinquante-deux adultes, de phase 2b, contre placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À douze semaines, la réponse clinique atteint soixante-trois pour cent avec la dose la plus forte, contre vingt-sept pour cent sous placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, vingt-sept pour cent sous placebo ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, et c'est pour cela que la comparaison compte : un patient peut aller mieux pour d'autres raisons."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la rémission ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trente pour cent avec quatre cents milligrammes, contre onze pour cent. Avec deux cents milligrammes, elle n'atteint pas le seuil de significativité statistique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la sécurité ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À vingt-huit semaines, des événements indésirables graves chez deux pour cent des participants à la dose la plus forte, et dix pour cent sous placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ce n'est qu'une phase 2b."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Une phase 2b compare des doses et repère un premier signal sur quelques centaines de personnes. Seule une phase 3, plus grande, peut confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'autorisation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La FDA américaine a approuvé l'icotrokinra plus tôt en 2026, mais uniquement dans le psoriasis en plaques. Dans la rectocolite, aucune demande n'est mentionnée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un signal prometteur, pas encore un traitement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre histoire, plus spectaculaire : la greffe d'œil entier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mai 2023, à New York, première greffe d'œil entier chez l'humain, associée à une greffe partielle du visage. Plus de vingt spécialités ont participé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et trois ans après ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'œil greffé fonctionne, il est vivant, mais le patient ne voit pas avec."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le nerf optique ne se régénère pas. L'œil capte la lumière, mais c'est le nerf qui transmet l'image au cerveau, comme un câble."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'œil est vivant, mais le câble n'est pas rebranché."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Chez la souris, quelques centaines de cellules sur soixante mille ont repoussé jusqu'au cerveau, alors que l'œil humain en compte environ un million."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les chercheurs, ils explorent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La régénération du nerf, ou le contournement de la voie. Mais un chercheur interrogé en 2024 estime la régénération obtenue chez l'animal encore loin de suffire pour une vision substantielle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce sont des résultats présentés en congrès, sur un seul patient."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, non relus par des pairs. À retenir : une intervention faisable, mais aucune vue restaurée à ce jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'assiette. Que mangera-t-on en 2050 ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la question du Shift Project, un think tank, qui a publié le 22 octobre « Manger en 2050 », un rapport intermédiaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un chiffre pour planter le décor ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'alimentation représente près d'un quart des émissions de carbone des ménages, et environ vingt pour cent de l'énergie fossile consommée en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vingt pour cent de l'énergie fossile ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Dans le scénario tendanciel, qui prolonge les tendances actuelles, les émissions baissent peu et la dépendance aux importations persiste."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'autre trajectoire ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Réussir, elle combine agriculture décarbonée, industrie moins énergivore et alimentation plus locale, plus végétale, moins transformée. Elle réduirait de quarante-huit pour cent les émissions agricoles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais avec un bémol."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La dépendance aux importations de volaille augmenterait. Et le rapport reconnaît que ces trajectoires ne remplissent pas encore tous les objectifs de souveraineté alimentaire, de santé et de nutrition."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attention aussi : un scénario n'est pas une prévision."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le rapport ne chiffre que des flux physiques, pas les prix ni le pouvoir d'achat. Les chiffres viennent de Réussir, seulement deux médias ont été trouvés : à confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le Shift Project appelle les professionnels à commenter son document de travail."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il prévoit des tests de résistance, par exemple face aux sécheresses, et une évaluation économique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un outil de réflexion, avec une version définitive attendue vers mars 2027."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernière rubrique : l'IA et la tech. Mercredi, Google Cloud a annoncé l'arrivée de modèles d'OpenAI dans son catalogue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trois modèles : GPT-6 Astra, GPT-6.1 Sol et GPT-6 Luna."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Astra pour les tâches exigeantes, Sol, proche d'Astra mais moins cher, et Luna pour les usages quotidiens rapides."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un cloud qui vend les modèles de ses concurrents ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne question. Un catalogue réunit des modèles de plusieurs fabricants. Pour l'entreprise, pas de nouveau contrat. Pour Google, elle garde la dépense du client."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tout le monde peut y accéder ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. C'est une préversion privée, sur demande. Et la non-conservation des données et le calcul confidentiel sont annoncés « bientôt »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et concrètement, comment on s'en sert ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Par les interfaces de programmation, et on peut brancher les outils Codex d'OpenAI à la plateforme Gemini de Google. L'achat passe par la place de marché de Google Cloud, sur une facture unique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les garanties de confidentialité sont donc des affirmations de Google, sans audit indépendant cité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. À retenir : l'offre existe, mais réservée à une sélection de clients."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet, toujours dans l'IA : le cloud d'Amazon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Andy Jassy, le patron d'Amazon, a dit que la capacité 2026 d'AWS est vendue, et que 2027 est « largement vendue »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, 2027 déjà ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une part importante de 2028 serait aussi réservée. Amazon prévoit environ deux cent vingt milliards de dollars d'investissements en 2026."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais « vendue », ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Engagée par contrat, pas forcément utilisée aujourd'hui. Et une part reste disponible à la demande."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce sont les chiffres d'un dirigeant, non audités."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les résultats d'Amazon du 29 octobre permettront de les comparer aux comptes. À retenir : la contrainte est physique, avec les puces, l'électricité et les bâtiments."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est la fin de cette édition. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-26",
   "url": "/podcasts/politique-2026-10-26.mp3",
