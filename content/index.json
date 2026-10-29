@@ -1,5 +1,627 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-29",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENTREPRISES",
+    "titre": "Stellantis : une perte réduite de 90 % au troisième trimestre",
+    "court": "Stellantis : perte réduite de 90 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F%C3%A1brica_FIAT_Mirafiori%2C_Puerta_principal.JPG/1280px-F%C3%A1brica_FIAT_Mirafiori%2C_Puerta_principal.JPG",
+    "legende": "L'usine Mirafiori à Turin, site du groupe Stellantis (illustration)",
+    "chapeau": "Mercredi 28 octobre, Stellantis a publié ses résultats du troisième trimestre. Le chiffre d'affaires net atteint 37,6 milliards d'euros, en hausse de 1 % sur un an.",
+    "eclairage": "Pourquoi « -90 % de perte » ne veut pas dire « bénéfice »",
+    "chiffres": [
+     {
+      "valeur": "37,6",
+      "legende": "Md€ de chiffre d'affaires (+1 %)"
+     },
+     {
+      "valeur": "-90 %",
+      "legende": "de perte nette sur un an"
+     },
+     {
+      "valeur": "+15 %",
+      "legende": "pour l'action mercredi (4,28 €)"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Stellantis a publié ses résultats du troisième trimestre. Le chiffre d'affaires net atteint 37,6 milliards d'euros, en hausse de 1 % sur un an. La perte nette est réduite d'environ 90 % : 453 millions d'euros selon MoneyVox, environ 500 millions selon MotorsActu, contre 4,5 milliards un an plus tôt. ABC Bourse relie cet écart aux charges exceptionnelles de 2025, liées à la révision de la stratégie d'électrification. Le résultat opérationnel courant ajusté s'élève à 0,3 milliard d'euros, soit une marge de 0,7 %. Le flux de trésorerie industriel reste négatif, à 4,0 milliards d'euros, mieux de 0,3 milliard sur un an ; le groupe attend un retour à l'équilibre en 2027. L'Europe est la seule région dont la marge reste négative. Stellantis confirme ses objectifs financiers 2026. À la Bourse de Paris, l'action a gagné 15,39 % à 4,28 euros, la plus forte hausse du CAC 40, qui a fini stable à 7 886,96 points.",
+    "points": [],
+    "explication": "Une perte reste une perte : Stellantis a toujours perdu de l'argent au trimestre, mais beaucoup moins qu'un an plus tôt, quand de grosses charges exceptionnelles pesaient sur les comptes. C'est un effet de base : la baisse paraît forte parce que le point de comparaison était très bas. Marge opérationnelle de 0,7 % : sur 100 € de ventes, il reste 0,70 € de résultat avant éléments exceptionnels, impôts et intérêts. Flux de trésorerie industriel négatif : l'activité industrielle a dépensé plus d'argent (usines, recherche, salaires) qu'elle n'en a encaissé. Le groupe finance l'écart avec sa réserve de liquidités, 42,7 milliards d'euros selon MotorsActu.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.stellantis.com/en/news/press-releases/2026/october/third-quarter-2026-financial-results",
+      "nom": "Stellantis (communiqué)"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/stellantis-reduit-ses-pertes-de-90-au-troisieme-trimestre-2026-ses-ventes-rep_705050",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://motorsactu.com/stellantis-resultats-t3-2026-europe-seule-region-perte",
+      "nom": "MotorsActu"
+     },
+     {
+      "url": "https://www.moneyvox.fr/bourse/actualites/111017/le-cac-40-a-equilibre-le-journal-de-la-bourse-du-mercredi-28-octobre",
+      "nom": "MoneyVox"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/le-cac-40-freine-stellantis-en-pole-position-81f6e1fbb42c34e1611ef26b42005fbe",
+      "nom": "Boursorama"
+     }
+    ],
+    "cartes": [],
+    "apres": "Au quatrième trimestre, les livraisons doivent augmenter par rapport au troisième, avec des coûts supplémentaires liés aux puces mémoire et aux rappels. Le groupe attend un flux de trésorerie industriel positif en 2027.",
+    "change": "Pour le groupe, l'Europe reste la seule zone déficitaire, tandis que les ventes de voitures électriques y progressent de 65 % (MotorsActu). Pour les actionnaires, l'objectif annuel confirmé a fait monter le cours mercredi.",
+    "credit": {
+     "auteur": "Pablo García Roza",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_FIAT_Mirafiori,_Puerta_principal.JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MARCHÉS",
+    "titre": "Fed : taux maintenus à 3,75-4 %, deux voix pour une hausse",
+    "court": "Fed : taux maintenus, deux voix pour hausser",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1280px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+    "legende": "Le siège de la Réserve fédérale à Washington",
+    "chapeau": "Mercredi 28 octobre, la banque centrale américaine (Fed) a laissé sa fourchette cible de taux à 3,75-4 %, comme attendu. Le vote est de 10 voix contre 2 : la gouverneure Lisa Cook et la présidente de la Fed de Cleveland, Beth Hammack, voulaient relever les taux d'un quart de point.",
+    "eclairage": "À quoi sert le taux de la Fed, et pourquoi il vous concerne",
+    "chiffres": [
+     {
+      "valeur": "3,75-4",
+      "legende": "fourchette des taux directeurs, en %"
+     },
+     {
+      "valeur": "10-2",
+      "legende": "votes : maintien contre hausse"
+     },
+     {
+      "valeur": "87 %",
+      "legende": "chance d'une hausse en décembre (CME)"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, la banque centrale américaine (Fed) a laissé sa fourchette cible de taux à 3,75-4 %, comme attendu. Le vote est de 10 voix contre 2 : la gouverneure Lisa Cook et la présidente de la Fed de Cleveland, Beth Hammack, voulaient relever les taux d'un quart de point. En septembre, la Fed avait relevé ses taux pour la première fois depuis 2023, dans un contexte de flambée du pétrole liée à la guerre au Moyen-Orient. Le communiqué indique que l'inflation « reste élevée » et que l'activité progresse à un rythme soutenu. Selon l'outil FedWatch du CME cité par Reuters, la probabilité d'une hausse de 25 points de base en décembre est de 87,4 %. Le rendement des bons du Trésor à dix ans s'établit à 5,05 %.",
+    "points": [],
+    "explication": "Le taux directeur est le prix auquel les banques s'empruntent de l'argent entre elles, au jour le jour. Quand la banque centrale le relève, les crédits aux entreprises et aux ménages deviennent plus chers et la demande ralentit, ce qui freine la hausse des prix. Quand elle le baisse, c'est l'inverse. Le taux à dix ans (5,05 %) est celui auquel l'État américain emprunte sur dix ans. Il sert de référence pour de nombreux crédits dans le monde : quand il monte, emprunter coûte plus cher.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/la-fed-laisse-ses-taux-inchanges-dit-attendre-de-nouvelles-donnees-20f96f5b4931dc58bc8384a9a562a311",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "nom": "Réserve fédérale (communiqué)"
+     },
+     {
+      "url": "https://seekingalpha.com/article/4958991-feds-interest-rate-decision-october-28-2026",
+      "nom": "Seeking Alpha"
+     }
+    ],
+    "cartes": [],
+    "apres": "Jeudi, publication de l'indice des prix PCE de septembre, que Reuters attend à 3,6 % sur un an, et du PIB américain du troisième trimestre. La BCE rend aujourd'hui sa propre décision. Les élections de mi-mandat américaines ont lieu le 3 novembre.",
+    "change": "Pour les emprunteurs américains, les taux restent à leur niveau actuel après la hausse de septembre. Pour les marchés, une nouvelle hausse en décembre est jugée probable par les opérateurs.",
+    "credit": {
+     "auteur": "AgnosticPreachersKid",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Danone : ventes en hausse de 4 %, croissance modérée en Amérique du Nord",
+    "court": "Danone : ventes +4 % au troisième trimestre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Publicit%C3%A9_Yaourt_Danone_Corniche_Casablanca_Maroc.jpg/1280px-Publicit%C3%A9_Yaourt_Danone_Corniche_Casablanca_Maroc.jpg",
+    "legende": "Publicité Danone pour des yaourts à Casablanca (illustration)",
+    "chapeau": "Mercredi 28 octobre, Danone a publié un chiffre d'affaires de 7,23 milliards d'euros au troisième trimestre, en hausse de 5,2 %, soit 4 % à périmètre et changes constants, un peu mieux qu'attendu par les analystes. Les prix y contribuent pour 3,6 points et les volumes et la composition des ventes pour 0,4 point.",
+    "eclairage": "Prix, volumes, change : d'où vient la croissance ?",
+    "chiffres": [
+     {
+      "valeur": "7,2Md€",
+      "legende": "de chiffre d'affaires (+5,2 % publié)"
+     },
+     {
+      "valeur": "+4 %",
+      "legende": "à périmètre et changes constants"
+     },
+     {
+      "valeur": "+2,4 %",
+      "legende": "en Amérique du Nord"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Danone a publié un chiffre d'affaires de 7,23 milliards d'euros au troisième trimestre, en hausse de 5,2 %, soit 4 % à périmètre et changes constants, un peu mieux qu'attendu par les analystes. Les prix y contribuent pour 3,6 points et les volumes et la composition des ventes pour 0,4 point. En Amérique du Nord, la croissance est de 2,4 %, avec des volumes en baisse. Le groupe élargit des capacités de production qui limitaient l'offre et prévoit de lancer du kéfir et du skyr aux États-Unis à partir de début 2027. En Europe, la chaleur de l'été a soutenu les ventes d'eau, mais les volumes de nutrition spécialisée n'ont pas retrouvé leur niveau d'avant les rappels de lait infantile du début 2026. Danone confirme son objectif d'une croissance de 3 à 5 % en 2026.",
+    "points": [],
+    "explication": "La croissance d'un groupe comme Danone se décompose. Prix : combien de plus on paie pour le même produit. Volume et mix : combien de produits vendus en plus, ou de produits plus chers dans le panier. Périmètre et changes : l'effet des acquisitions, des cessions et des variations de monnaies, retiré pour comparer à l'identique. Ici, +4 % « comparable » donne 3,6 points de prix et 0,4 point de volume et de mix. Danone a augmenté ses prix dans toutes les régions mais pas sur tous les produits, et dit avoir absorbé environ deux tiers de l'inflation en interne.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/danone-ventes-en-hausse-au-3t-mais-les-etats-unis-sont-a-la-traine-04f57c830a05a9c7593e805aeabf35b9",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/28/danone-solide-performance-au-troisieme-trimestre-croissance-dans-toutes-les-categories-et-zones-geographique-IJOQ7JGDYNESXGLMZH47IHY5XQ/",
+      "nom": "Danone (communiqué)"
+     },
+     {
+      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-28-danone-accroit-de-4-son-ca-en-donnees-comparables-au-3e-trimestre.html",
+      "nom": "Option Finance"
+     },
+     {
+      "url": "https://www.lsa-conso.fr/agro-industriel/frais-froid/danone/danone-confirme-ses-objectifs-annuels-tablant-sur-une-croissance-de-3-a-5-mais-lamerique-du-nord-inquiete.6HCSNYPPAZE2LFBKWIM4BF7XJY.html",
+      "nom": "LSA"
+     }
+    ],
+    "cartes": [],
+    "apres": "À partir de début 2027, Danone prévoit une phase « offensive » aux États-Unis, avec le kéfir et le skyr. L'objectif annuel de 3 à 5 % de croissance comparable est maintenu.",
+    "change": "Pour les clients, des prix en hausse dans toutes les régions du groupe. Pour le groupe, l'Amérique du Nord, où les volumes reculent, est le point de vigilance cité par l'AFP.",
+    "credit": {
+     "auteur": "Bertrand Soubeyrand",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Publicit%C3%A9_Yaourt_Danone_Corniche_Casablanca_Maroc.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "TECH",
+    "titre": "Dassault Systèmes : objectifs relevés, l'action recule de 4,5 %",
+    "court": "Dassault Systèmes : objectifs relevés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dassault_Syst%C3%A8mes_headquarters.jpg/1280px-Dassault_Syst%C3%A8mes_headquarters.jpg",
+    "legende": "Le siège de Dassault Systèmes à Vélizy-Villacoublay",
+    "chapeau": "Mercredi 28 octobre, Dassault Systèmes a publié un chiffre d'affaires de 1,55 milliard d'euros au troisième trimestre, en hausse de 5 %. Le résultat d'exploitation progresse de 10 % à 490 millions d'euros, avec une marge de 31,6 % contre 30,1 % un an plus tôt.",
+    "eclairage": "Pourquoi une action peut baisser après de bonnes nouvelles",
+    "chiffres": [
+     {
+      "valeur": "1,55",
+      "legende": "Md€ de chiffre d'affaires (+5 %)"
+     },
+     {
+      "valeur": "4-5 %",
+      "legende": "croissance visée en 2026 (3-5 %)"
+     },
+     {
+      "valeur": "-4,5 %",
+      "legende": "pour l'action mercredi (23,58 €)"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Dassault Systèmes a publié un chiffre d'affaires de 1,55 milliard d'euros au troisième trimestre, en hausse de 5 %. Le résultat d'exploitation progresse de 10 % à 490 millions d'euros, avec une marge de 31,6 % contre 30,1 % un an plus tôt. Le groupe relève ses objectifs 2026 : croissance du chiffre d'affaires de 4 à 5 % au lieu de 3 à 5 %, marge opérationnelle de 32,5 à 32,7 % au lieu de 32,2 à 32,6 %. Selon Zonebourse, c'est sa première révision à la hausse en deux ans. Le groupe a aussi finalisé le rachat d'ArisGlobal, une plateforme d'intelligence artificielle pour les sciences de la vie, pour 1,8 milliard de dollars (1,62 milliard d'euros). Il doit ajouter 2 points de croissance au quatrième trimestre, attendu entre 5 et 8 %. L'action a pourtant reculé de 4,50 % à 23,58 euros, la plus forte baisse du CAC 40.",
+    "points": [],
+    "explication": "Le cours d'une action reflète ce que les investisseurs attendent de l'entreprise, pas seulement ce qu'elle annonce. Si le marché espérait des objectifs plus élevés, une hausse modeste peut être jugée insuffisante et le titre recule, même quand les résultats dépassent le consensus. Dassault Systèmes est un éditeur de logiciels : il vend à des industriels des licences et des abonnements pour concevoir et simuler des produits. Ces revenus sont en partie récurrents, ce qui rend la croissance plus prévisible.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/dassault-systemes-releve-ses-objectifs-annuels-ca-a-neuf-mois-4-96ce0c270617174b4c920877b7dfac4d",
+      "nom": "Reuters via Boursorama"
+     },
+     {
+      "url": "https://www.zonebourse.com/actualite-bourse/dassault-systemes-releve-son-objectif-de-croissance-pour-2026-ce785cd2d889f125",
+      "nom": "Zonebourse (Reuters)"
+     },
+     {
+      "url": "https://www.moneyvox.fr/bourse/actualites/111017/le-cac-40-a-equilibre-le-journal-de-la-bourse-du-mercredi-28-octobre",
+      "nom": "MoneyVox"
+     },
+     {
+      "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/28/dassault-systemes-solide-performance-au-3eme-trimestre-amelioration-des-objectifs-2026-et-nouvelle-etape-franchie-dans-les-sciences-de-la-vie-IUFTN4BB2ZAJ3HHUACV47NYAPY/",
+      "nom": "Dassault Systèmes (communiqué)"
+     }
+    ],
+    "cartes": [],
+    "apres": "Le groupe table sur une croissance de 5 à 8 % au quatrième trimestre, dont 2 points apportés par ArisGlobal.",
+    "change": "Pour les clients industriels, rien ne change à court terme. Pour le groupe, l'IA dans les sciences de la vie devient un axe de croissance avec ArisGlobal, dont la croissance devrait être à deux chiffres en 2027 (Zonebourse).",
+    "credit": {
+     "auteur": "RutoSu",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dassault_Syst%C3%A8mes_headquarters.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Taux directeur",
+    "definition": "Taux auquel les banques s'empruntent de l'argent à très court terme ; la banque centrale le fixe. Il influence le coût de tous les crédits."
+   },
+   {
+    "terme": "Effet de base",
+    "definition": "Quand une variation paraît forte parce que la période de comparaison était très basse, comme une perte réduite de 90 % après de lourdes charges."
+   },
+   {
+    "terme": "Croissance comparable",
+    "definition": "Croissance du chiffre d'affaires hors effets des acquisitions, des cessions et des variations de monnaies, pour comparer à l'identique."
+   },
+   {
+    "terme": "Marge opérationnelle",
+    "definition": "Part du chiffre d'affaires qui reste après les coûts de fonctionnement, avant impôts et intérêts. 0,7 % veut dire 0,70 € pour 100 € de ventes."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Mercredi 28 octobre 2026, la Fed a maintenu sa fourchette de taux directeurs à 3,75-4 %.",
+   "reponse": true,
+   "explication": "Le comité a voté 10 voix contre 2 pour le maintien ; les deux dissidentes voulaient une hausse d'un quart de point, selon le communiqué de la Fed."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-29",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "RÉGLEMENTATION",
+    "titre": "Acétamipride : l'Assemblée examine aujourd'hui la proposition de loi de LFI",
+    "court": "Acétamipride : débat à l'Assemblée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hazelnut_Orchard_%287715079136%29.jpg/1280px-Hazelnut_Orchard_%287715079136%29.jpg",
+    "legende": "Verger de noisetiers (illustration)",
+    "chapeau": "La loi d'urgence agricole, adoptée par le Parlement les 20 et 21 juillet 2026, permet de réintroduire à titre dérogatoire deux insecticides interdits en France : l'acétamipride pour la noisette, le flupyradifurone pour les pommes, les cerises et les betteraves sucrières, après décision de l'Agence nationale de sécurité sanitaire (Anses).",
+    "eclairage": "Comment fonctionne cette dérogation ?",
+    "chiffres": [
+     {
+      "valeur": "1 an",
+      "legende": "durée d'une dérogation, renouvelable deux fois"
+     },
+     {
+      "valeur": "2 mois",
+      "legende": "délai de l'Anses ; le silence vaut refus"
+     },
+     {
+      "valeur": "4",
+      "legende": "cultures concernées par le dispositif"
+     }
+    ],
+    "passe": "La loi d'urgence agricole, adoptée par le Parlement les 20 et 21 juillet 2026, permet de réintroduire à titre dérogatoire deux insecticides interdits en France : l'acétamipride pour la noisette, le flupyradifurone pour les pommes, les cerises et les betteraves sucrières, après décision de l'Agence nationale de sécurité sanitaire (Anses). Le Conseil constitutionnel a validé ce dispositif le 14 août 2026, sous réserves. Le 21 octobre, la commission des affaires économiques de l'Assemblée a rejeté la proposition de loi de La France insoumise (LFI) qui vise à le supprimer. Le texte revient aujourd'hui, jeudi 29 octobre, dans l'hémicycle, dans sa version initiale, lors de la journée réservée aux textes de LFI, où il figure en première position. Selon LCP, la séance s'arrêtant à minuit, tous les textes inscrits ne pourront pas être débattus.",
+    "points": [
+     "L'acétamipride et le flupyradifurone appartiennent à la famille des néonicotinoïdes, des insecticides. Leur usage reste interdit : la loi ouvre seulement la possibilité d'une dérogation, accordée par l'Anses et non par le gouvernement.",
+     "Selon le Conseil constitutionnel, trois conditions sont requises : une menace grave pour la production concernée, l'absence ou l'insuffisance d'alternatives, et un plan de recherche sur les alternatives. La dérogation est exclue si l'état des connaissances scientifiques fait état de risques significatifs pour la santé humaine ou l'environnement.",
+     "Le Conseil a ajouté deux réserves : l'Anses peut restreindre la zone géographique de la dérogation, et son absence de réponse dans les deux mois vaut refus. Il a reconnu que le dispositif a une incidence sur la biodiversité, la qualité de l'eau et celle des sols, selon LCP."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-914-dc-du-14-aout-2026",
+      "nom": "Conseil constitutionnel (décision 2026-914 DC)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/la-proposition-de-loi-lfi-visant-a-interdire-l-acetamipride-rejetee-en-commission-444131",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.terre-net.fr/assemblee-nationale/article/905117/debats-sous-tension-attendus-la-semaine-prochaine-sur-l-acetamipride",
+      "nom": "Terre-net (avec AFP)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Mathilde Panot",
+      "contexte": "LFI, défend le texte",
+      "texte": "En commission, elle a déclaré : « Autoriser des dérogations pour ces pesticides qui empoisonnent les pollinisateurs, c'est perdre du temps ». Selon AFP, elle estime que ces dérogations enferment l'agriculture dans la dépendance aux produits chimiques.",
+      "url": "https://lcp.fr/actualites/la-proposition-de-loi-lfi-visant-a-interdire-l-acetamipride-rejetee-en-commission-444131",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Jean-René Cazeneuve",
+      "contexte": "député Ensemble pour la République",
+      "texte": "Il a répondu : « On ne rétablit pas ce qui n'a jamais été supprimé ». Selon l'AFP, il présente le dispositif comme une ouverture très étroite, dont la décision revient aux scientifiques plutôt qu'aux politiques. Le député Julien Dive (Droite républicaine) a qualifié le texte de « posture totalement politique ».",
+      "url": "https://www.terre-net.fr/assemblee-nationale/article/905117/debats-sous-tension-attendus-la-semaine-prochaine-sur-l-acetamipride",
+      "source": "Terre-net (AFP)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "Unicoque et ANPN",
+      "contexte": "producteurs de noisettes",
+      "texte": "Après le vote de juillet, ils ont écrit que « La lutte chimique reste pour le moment le seul levier efficace », une méthode de lutte biologique étant selon eux prometteuse mais pas encore mûre. Ils voient dans la dérogation un temps pour mettre au point des alternatives. La récolte 2024 avait été réduite de moitié, à 6 500 tonnes, selon l'article.",
+      "url": "https://www.pleinchamp.com/actualite/acetamipride-le-satisfecit-de-la-filiere-noisette",
+      "source": "Pleinchamp"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / ONG",
+      "qui": "UNAF",
+      "contexte": "apiculteurs",
+      "texte": "Selon Pleinchamp, le syndicat des apiculteurs prévoyait une action en justice pour faire supprimer les dispositions sur les néonicotinoïdes.",
+      "url": "https://www.pleinchamp.com/actualite/acetamipride-le-satisfecit-de-la-filiere-noisette",
+      "source": "Pleinchamp"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Conseil constitutionnel",
+      "contexte": null,
+      "texte": "Il a déclaré l'article sur les néonicotinoïdes conforme à la Constitution sous réserves : la dérogation n'est possible que pour les betteraves sucrières, les cerises, les pommes et les noisettes, et l'« absence de décision de l'ANSES dans le délai imparti de deux mois vaut refus de la dérogation ».",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-914-dc-du-14-aout-2026",
+      "source": "Conseil constitutionnel"
+     }
+    ],
+    "apres": "Le vote en séance a lieu aujourd'hui, 29 octobre, si le texte est examiné avant minuit. Si le texte était adopté, il devrait ensuite être examiné par le Sénat.",
+    "change": "Rien ne change dans les vergers à ce stade : la loi est promulguée, les dérogations dépendent d'une décision de l'Anses et aucune n'est encore annoncée dans les sources consultées.",
+    "credit": {
+     "auteur": "Jennifer C.",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Hazelnut_Orchard_(7715079136).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "29",
+    "mois": "OCT.",
+    "texte": "Assemblée nationale : journée réservée au groupe LFI, avec la proposition de loi sur l'acétamipride (LCP)."
+   },
+   {
+    "jour": "7",
+    "mois": "NOV.",
+    "texte": "Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Cadmium : fin de la consultation publique sur le projet d'arrêté du gouvernement (La France Agricole)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "65 000 t",
+   "texte": "C'est la collecte d'orge bio estimée pour la campagne 2026-2027, contre 81 846 tonnes un an plus tôt, selon FranceAgriMer."
+  },
+  "lexique": [
+   {
+    "terme": "Néonicotinoïdes",
+    "definition": "Famille d'insecticides dont font partie l'acétamipride et le flupyradifurone."
+   },
+   {
+    "terme": "Dérogation",
+    "definition": "Autorisation exceptionnelle et temporaire d'utiliser un produit interdit, ici pour un an, renouvelable deux fois."
+   },
+   {
+    "terme": "Anses",
+    "definition": "Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail : c'est elle qui décide d'accorder ou non la dérogation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Si l'Anses ne répond pas dans le délai de deux mois à une demande de dérogation pour l'acétamipride, la dérogation est accordée automatiquement.",
+   "reponse": false,
+   "explication": "Le Conseil constitutionnel a précisé le 14 août 2026 que l'absence de décision de l'Anses dans le délai de deux mois vaut refus de la dérogation, et non autorisation."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-29",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ENVIRONNEMENT",
+    "titre": "Pesticides dans l'air : des herbicides détectés sur trois sites",
+    "court": "Pesticides : 17 substances dans l'air",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pesticide_spraying_in_spring.jpg/1280px-Pesticide_spraying_in_spring.jpg",
+    "legende": "Un pulvérisateur de produits phytosanitaires sur un champ (illustration)",
+    "chapeau": "L'Agglomération de La Rochelle a présenté lors de trois réunions publiques, les 5, 6 et 7 octobre, les résultats 2025 du suivi des pesticides dans l'air réalisé par Atmo Nouvelle-Aquitaine.",
+    "eclairage": "Que dit une mesure de pesticides dans l'air ?",
+    "chiffres": [
+     {
+      "valeur": "17",
+      "legende": "substances détectées sur 114 recherchées"
+     },
+     {
+      "valeur": "13,3",
+      "legende": "ng/m³ : total moyen des herbicides à Montroy"
+     },
+     {
+      "valeur": "100,2",
+      "legende": "ng/m³ au pic de novembre à Montroy"
+     }
+    ],
+    "passe": "L'Agglomération de La Rochelle a présenté lors de trois réunions publiques, les 5, 6 et 7 octobre, les résultats 2025 du suivi des pesticides dans l'air réalisé par Atmo Nouvelle-Aquitaine. Montroy est suivi chaque année depuis 2019 ; Saint-Vivien et L'Houmeau ont été ajoutés pour une campagne d'automne, du 6 octobre au 15 décembre 2025. Sur 114 substances recherchées, 17 ont été détectées : 2 fongicides, 11 herbicides et 4 insecticides. Les concentrations les plus élevées concernent le prosulfocarbe et la pendiméthaline, deux herbicides utilisés surtout sur les céréales d'hiver. Cinq substances interdites ont été détectées, dont du lindane à de très faibles niveaux. À Montroy, le total hebdomadaire moyen des herbicides est de 13,3 ng/m³ en 2025, contre 10,2 en 2024 et 5,1 en 2023, et 22,4 en 2021, le niveau le plus haut depuis le début du suivi. Du 10 au 16 novembre 2025, les trois sites ont connu un pic : 100,2 ng/m³ à Montroy, 29 à Saint-Vivien et 20 à L'Houmeau. Les chiffres sont ceux de l'Agglomération.",
+    "points": [
+     "Qui mesure. Atmo Nouvelle-Aquitaine place des capteurs, à la demande de l'Agglomération pour Saint-Vivien et L'Houmeau. Ils se trouvent à environ 150 m (Montroy), 180 m (Saint-Vivien) et 280 m (L'Houmeau) de la parcelle cultivée la plus proche.",
+     "Quelle unité. Le nanogramme par mètre cube (ng/m³) est un milliardième de gramme dans un mètre cube d'air.",
+     "Quel repère. Il n'existe pas de seuil réglementaire pour les pesticides dans l'air : on compare donc les sites et les années entre eux.",
+     "Pourquoi les écarts. Les grandes cultures couvrent environ 82 % de la zone de 5 km autour de Montroy, 48 % autour de Saint-Vivien et 25 % autour de L'Houmeau."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "nom": "Agglomération de La Rochelle"
+     },
+     {
+      "url": "https://www.montroy.fr/retour-sur-la-reunion-resultats-2025-du-suivi-des-pesticides-dans-lair",
+      "nom": "commune de Montroy"
+     },
+     {
+      "url": "https://www.atmo-nouvelleaquitaine.org/actualite/nouvelle-surveillance-des-pesticides-dans-lair-lhoumeau-et-saint-vivien",
+      "nom": "Atmo Nouvelle-Aquitaine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ORGANISME",
+      "qui": "Atmo Nouvelle-Aquitaine",
+      "contexte": "surveillance de l'air",
+      "texte": "Relève une utilisation accrue du prosulfocarbe, herbicide très volatil. Elle cite aussi la baisse du nombre de molécules autorisées, une météo qui a gêné le désherbage mécanique et la disponibilité de l'eau, sans en désigner une seule cause.",
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "source": "Source"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "AGGLOMÉRATION",
+      "qui": "Communauté d'agglomération",
+      "contexte": "organisateur des réunions",
+      "texte": "« Ces détections ne signifient pas que ces produits sont actuellement utilisés sur les cultures. »",
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "ÉLU LOCAL",
+      "qui": "Maire de L'Houmeau",
+      "contexte": "commune",
+      "texte": "Souhaite refaire des mesures en 2027. Les autres communes décident par elles-mêmes.",
+      "url": "https://www.agglo-larochelle.fr/-/qualite-de-l-air-les-resultats-2025-du-suivi-des-pesticides-presentes-au-public",
+      "source": "Source"
+     }
+    ],
+    "apres": "Le suivi de Montroy continue dans le réseau régional d'Atmo ; les résultats 2026 sont attendus en septembre 2027. Les questions posées après les réunions peuvent être envoyées à l'Agglomération, qui annonce des réponses sous 15 jours sur son site.",
+    "change": "Il n'y a pas de limite légale à comparer : les résultats servent à suivre l'évolution dans le temps et alimentent la recherche (programme Exposcan, étude nationale de l'Anses).",
+    "credit": {
+     "auteur": "Maasaak",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pesticide_spraying_in_spring.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "URBANISME",
+    "titre": "PLUi : l'agglo ouvre la concertation sur la révision du plan",
+    "court": "PLUi : la concertation est ouverte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Port_et_tours_de_La_Rochelle_au_matin_%28juin_2023%29.JPG/1280px-Port_et_tours_de_La_Rochelle_au_matin_%28juin_2023%29.JPG",
+    "legende": "Le port et les tours de La Rochelle au matin",
+    "chapeau": "La Communauté d'agglomération de La Rochelle a lancé le 19 octobre 2026 la concertation sur la révision n° 1 de son plan local d'urbanisme intercommunal (PLUi), prescrite par le conseil communautaire le 19 décembre 2025. Le PLUi actuel s'applique depuis six ans.",
+    "eclairage": "Qui décide des règles de construction ?",
+    "chiffres": [
+     {
+      "valeur": "28",
+      "legende": "communes concernées"
+     },
+     {
+      "valeur": "2029",
+      "legende": "arrêt du projet par le conseil communautaire"
+     },
+     {
+      "valeur": "2030",
+      "legende": "approbation prévue"
+     }
+    ],
+    "passe": "La Communauté d'agglomération de La Rochelle a lancé le 19 octobre 2026 la concertation sur la révision n° 1 de son plan local d'urbanisme intercommunal (PLUi), prescrite par le conseil communautaire le 19 décembre 2025. Le PLUi actuel s'applique depuis six ans. Les habitants peuvent déposer leurs observations sur un registre numérique, par courriel, par courrier, ou sur un registre papier au siège de l'Agglomération, dans les mairies des 28 communes et dans les mairies de proximité de La Rochelle. Les objectifs cités par les communes : trajectoire de consommation d'espace pour atteindre le zéro artificialisation nette en 2050, intégration du programme local de l'habitat pour devenir un PLUiHM (habitat et mobilité), adaptation au changement climatique et prise en compte de la santé environnementale. De nouveaux outils de participation sont annoncés dès début 2027.",
+    "points": [
+     "Le PLUi fixe les règles de construction et d'aménagement pour les 28 communes à la fois : c'est le conseil communautaire de l'Agglomération qui le vote, et non chaque conseil municipal.",
+     "La concertation court tout au long de l'élaboration, jusqu'à l'arrêt du projet. L'enquête publique, étape distincte, intervient plus tard, avant l'approbation.",
+     "Les mairies servent de relais : chacune tient un registre papier, mais le texte est celui de l'Agglomération."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.agglo-larochelle.fr/-/revision-du-plui-preparons-ensemble-l-avenir-du-territoire",
+      "nom": "Agglomération de La Rochelle"
+     },
+     {
+      "url": "https://www.salles-sur-mer.fr/lancement-de-la-concertation-sur-la-revision-du-plui/",
+      "nom": "commune de Salles-sur-Mer"
+     },
+     {
+      "url": "https://www.angoulins.fr/actualite/concertation-revision-plui/",
+      "nom": "commune d'Angoulins-sur-Mer"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "AGGLOMÉRATION",
+      "qui": "Communauté d'agglomération",
+      "contexte": "porteuse de la révision",
+      "texte": "Présente la révision comme un moyen de préparer « l'avenir du territoire » et ouvre la concertation dès maintenant.",
+      "url": "https://www.agglo-larochelle.fr/-/revision-du-plui-preparons-ensemble-l-avenir-du-territoire",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COMMUNE",
+      "qui": "Angoulins-sur-Mer",
+      "contexte": "relais local",
+      "texte": "Décrit le bilan attendu : effets du PLUi après six ans, insertion des projets dans les quartiers existants, impact environnemental et facilité d'application des règles.",
+      "url": "https://www.angoulins.fr/actualite/concertation-revision-plui/",
+      "source": "Source"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COMMUNE",
+      "qui": "Salles-sur-Mer",
+      "contexte": "relais local",
+      "texte": "Rappelle les objectifs : zéro artificialisation nette en 2050, PLUiHM, adaptation au changement climatique et santé environnementale.",
+      "url": "https://www.salles-sur-mer.fr/lancement-de-la-concertation-sur-la-revision-du-plui/",
+      "source": "Source"
+     }
+    ],
+    "apres": "Nouveaux outils de participation début 2027, débat sur les grandes orientations en conseil communautaire en 2028, arrêt du projet en 2029, approbation prévue en 2030.",
+    "change": "Une observation déposée maintenant, sur le registre numérique ou en mairie, est versée à la concertation sur les règles de construction de votre commune et du reste de l'agglomération.",
+    "credit": {
+     "auteur": "Florian Pépellin",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Port_et_tours_de_La_Rochelle_au_matin_(juin_2023).JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "OCT.",
+    "texte": "Périgny : fin des réparations du réseau rue de Chagnolet."
+   },
+   {
+    "jour": "~9",
+    "mois": "NOV.",
+    "texte": "Saint-Xandre : fin estimée de la requalification de la RD 107, trois semaines après le 19 octobre."
+   },
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Angoulins-sur-Mer : fin des travaux sur le réseau d'assainissement."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "PLUi",
+    "definition": "Plan local d'urbanisme intercommunal : le document qui fixe, pour toutes les communes d'une intercommunalité, où et comment on peut construire."
+   },
+   {
+    "terme": "Concertation",
+    "definition": "La phase où le public peut donner son avis pendant que le projet s'élabore, avant l'enquête publique."
+   },
+   {
+    "terme": "Nanogramme par mètre cube (ng/m³)",
+    "definition": "Un milliardième de gramme de substance dans un mètre cube d'air."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Pour la révision du PLUi de l'agglomération de La Rochelle, les habitants peuvent déposer leurs observations uniquement en mairie.",
+   "reponse": false,
+   "explication": "Faux : en plus des registres papier dans les mairies, l'Agglomération propose un registre numérique, une adresse e-mail dédiée et le courrier."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-29",
   "minutes": 9,
@@ -250,6 +872,668 @@
    "affirmation": "Mercredi 28 octobre, le Sénat a adopté le projet de loi « casseurs-payeurs » par 229 voix contre 105.",
    "reponse": true,
    "explication": "Vrai : le Sénat a adopté le texte dans la nuit du 27 au 28 octobre, avec les voix du RN, et il est transmis à l'Assemblée nationale."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-29",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CANCER",
+    "titre": "Méningiome atypique : la radiothérapie après chirurgie réduit les récidives",
+    "court": "Méningiome : radiothérapie et récidives",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Varian_TruBeam.jpg/1280px-Varian_TruBeam.jpg",
+    "legende": "Une salle de radiothérapie avec un accélérateur linéaire TrueBeam (illustration)",
+    "chapeau": "Une équipe internationale, avec Michael Jenkinson et Matthias Preusser, a publié dans The Lancet (numéro daté du 10 octobre 2026, étude relayée dès le 25 septembre) l'essai ROAM/EORTC-1308, le premier essai randomisé qui compare une radiothérapie à une simple surveillance après l'ablation complète d'un méningiome atypique (grade 2 de l'OMS).",
+    "eclairage": "Pourquoi un essai randomisé change la donne",
+    "chiffres": [
+     {
+      "valeur": "14 %",
+      "legende": "récidives avec radiothérapie"
+     },
+     {
+      "valeur": "30 %",
+      "legende": "récidives avec simple surveillance"
+     },
+     {
+      "valeur": "157",
+      "legende": "patients, 58 hôpitaux 11 pays"
+     }
+    ],
+    "passe": "Une équipe internationale, avec Michael Jenkinson et Matthias Preusser, a publié dans The Lancet (numéro daté du 10 octobre 2026, étude relayée dès le 25 septembre) l'essai ROAM/EORTC-1308, le premier essai randomisé qui compare une radiothérapie à une simple surveillance après l'ablation complète d'un méningiome atypique (grade 2 de l'OMS). Au total, 157 patients ont été répartis au hasard : 78 ont reçu une radiothérapie (60 grays en 30 séances), 79 ont été surveillés par imagerie. Après un suivi médian d'environ cinq ans, la tumeur est revenue chez 14 % des patients irradiés, contre 30 % des patients surveillés. La survie sans récidive à 5 ans était de 79,9 % contre 64,3 % (rapport de risque 0,51 ; intervalle de confiance à 95 % de 0,27 à 0,97). La survie globale ne différait pas de façon significative. Les événements indésirables étaient plus fréquents avec la radiothérapie (71 % contre 46 %, tous grades confondus, selon CancerNetwork). Douze patients du groupe radiothérapie ne l'ont finalement pas reçue. Le financeur n'est pas précisé dans les sources consultées.",
+    "points": [],
+    "explication": "Un méningiome est une tumeur née des enveloppes du cerveau, le plus souvent non cancéreuse. Le grade 2, dit « atypique », est plus susceptible de récidiver. Jusqu'ici, irradier ou surveiller après l'opération reposait sur des études d'observation, où les patients ne sont pas comparables. Ici, le tirage au sort rend les deux groupes semblables : l'écart de récidive peut donc être attribué à la radiothérapie. Mais deux limites comptent : l'essai est ouvert (patients et médecins savent qui est irradié) et la survie globale n'a pas augmenté. Éviter une récidive n'est pas la même chose que vivre plus longtemps. Selon News-Medical, les auteurs écrivent que la décision de traiter « must be made jointly with the patients ».",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1016/S0140-6736(26)01804-0",
+      "nom": "The Lancet (étude originale, DOI)"
+     },
+     {
+      "url": "https://news-medical.net/news/20260925/Radiotherapy-lowers-recurrence-of-atypical-meningiomas-study-shows.aspx",
+      "nom": "News-Medical"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/adjuvant-radiotherapy-reduced-recurrence-in-resected-atypical-meningioma",
+      "nom": "CancerNetwork"
+     },
+     {
+      "url": "https://medicaldialogues.in/neurology-neurosurgery/news/radiotherapy-significantly-reduces-the-risk-of-recurrence-in-atypical-meningiomas-suggests-study-180135",
+      "nom": "Medical Dialogues"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Matthias Preusser",
+      "contexte": "MedUni Vienne, investigateur principal",
+      "texte": "« The ROAM/EORTC-1308 trial has demonstrated a significant reduction in the recurrence rate »",
+      "url": "https://news-medical.net/news/20260925/Radiotherapy-lowers-recurrence-of-atypical-meningiomas-study-shows.aspx",
+      "source": "News-Medical"
+     }
+    ],
+    "apres": "Selon News-Medical, les auteurs s'attendent à ce que ces résultats entrent dans les recommandations nationales et internationales. Un essai américain similaire, NRG BN003, doit finir de recruter en 2027 ; ses résultats ne sont pas attendus avant les années 2030, selon CancerNetwork.",
+    "change": "Pour les patients opérés d'un méningiome atypique dont l'ablation est complète, il existe désormais une preuve randomisée que l'irradiation diminue le risque de récidive, au prix d'effets indésirables plus fréquents.",
+    "credit": {
+     "auteur": "Michael Goodyear",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Varian_TruBeam.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "NEUROSCIENCES",
+    "titre": "Dépression résistante : un spray nasal psychédélique, essai de phase 2b",
+    "court": "Dépression : spray nasal, essai de phase 2b",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Imigran_nasal_spray_20mg_%28JP%29.jpg/1280px-Imigran_nasal_spray_20mg_%28JP%29.jpg",
+    "legende": "Un spray nasal à dose unique, ici un autre médicament, pour illustrer le mode d'administration (illustration)",
+    "chapeau": "JAMA a publié en ligne le 26 octobre 2026 un essai de phase 2b mené par David Feifel et ses collègues sur la mébufoténine (une forme de 5-MeO-DMT, substance psychédélique) administrée par voie nasale.",
+    "eclairage": "Un essai de phase 2b, une dose faible comme comparateur",
+    "chiffres": [
+     {
+      "valeur": "193",
+      "legende": "adultes dans l'essai"
+     },
+     {
+      "valeur": "−5,3",
+      "legende": "points d'écart sur l'échelle MADRS (12 mg)"
+     },
+     {
+      "valeur": "35 %",
+      "legende": "réponse à 29 jours (8 mg) contre 12 %"
+     }
+    ],
+    "passe": "JAMA a publié en ligne le 26 octobre 2026 un essai de phase 2b mené par David Feifel et ses collègues sur la mébufoténine (une forme de 5-MeO-DMT, substance psychédélique) administrée par voie nasale. L'essai a inclus 193 adultes de 18 à 75 ans, dans 38 centres en Australie, en Europe et aux États-Unis, atteints de dépression modérée à sévère malgré 2 à 5 traitements antidépresseurs. Chacun a reçu une seule dose, avec un accompagnement psychologique : 8 mg (46 personnes), 12 mg (73) ou 0,3 mg (74), une dose si faible qu'elle sert de comparateur. À 29 jours, le score de dépression (échelle MADRS) avait baissé de 11,1 points avec 12 mg et de 5,5 points avec 0,3 mg, soit un écart de 5,3 points (IC à 95 % de 1,8 à 8,9). Avec 8 mg, l'écart était de 6,2 points. Une réponse était observée chez 35 % (8 mg), 34 % (12 mg) et 12 % (0,3 mg) des participants, une rémission chez 26 %, 18 % et 8 %. Des effets indésirables étaient rapportés par 76 %, 85 % et 73 % des participants, presque tous légers ou modérés (99,7 %). Environ 8 patients sur 10 pouvaient rentrer chez eux dans les 2 heures. Des auteurs sont rattachés aux sociétés AtaiBeckley et Beckley Psytech, qui développent la molécule.",
+    "points": [],
+    "explication": "La dépression résistante désigne une dépression qui n'a pas répondu à plusieurs traitements. Le score MADRS mesure l'intensité des symptômes. Ici, le groupe de comparaison a reçu une dose de 0,3 mg, trop faible pour provoquer l'effet psychédélique : ce n'est donc pas un vrai placebo, et le groupe n'est pas totalement identique à « rien ». Le bénéfice mesuré est un écart à 29 jours après une seule dose. Une phase 2b sert à choisir une dose et repérer un signal ; seule une phase 3, plus grande, peut confirmer l'efficacité et la sécurité. Le critère principal était défini pour 12 mg, mais 8 mg a donné des chiffres un peu meilleurs : avec de petits groupes, l'écart peut relever du hasard. Cité par Patient Care à propos des résultats préliminaires de juillet 2025. TRD désigne la dépression résistante. L'article indique que des auteurs sont rattachés à ces deux sociétés ; Healing Maps rapporte aussi un financement par AtaiBeckley (paraphrase).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18380",
+      "nom": "JAMA (étude originale)"
+     },
+     {
+      "url": "https://www.patientcareonline.com/view/phase-2b-study-of-psychedelic-bpl-003-shows-rapid-persistent-and-significant-improvement-in-treatment-resistant-depression",
+      "nom": "Patient Care (résultats préliminaires)"
+     },
+     {
+      "url": "https://healingmaps.com/mebufotenin-jama-phase-2b-depression/",
+      "nom": "Healing Maps"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "David Feifel",
+      "contexte": "premier auteur",
+      "texte": "« If a treatment with this profile were available today, it would immediately become my treatment of choice for TRD. »",
+      "url": "https://www.patientcareonline.com/view/phase-2b-study-of-psychedelic-bpl-003-shows-rapid-persistent-and-significant-improvement-in-treatment-resistant-depression",
+      "source": "Patient Care"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "AtaiBeckley, Beckley Psytech",
+      "contexte": "sociétés qui développent la molécule",
+      "texte": "L'article indique que des auteurs sont rattachés à ces deux sociétés ; Healing Maps rapporte aussi un financement par AtaiBeckley (paraphrase).",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18380",
+      "source": "JAMA"
+     }
+    ],
+    "apres": "Selon les résultats préliminaires publiés par Patient Care, la dose de 8 mg doit passer en phase 3, sous réserve des échanges avec les autorités. Ni autorisation ni remboursement ne sont à l'ordre du jour.",
+    "change": "Rien n'est disponible : la molécule n'est pas un médicament autorisé. L'essai montre un signal d'efficacité à court terme après une dose unique, dans un cadre encadré. Horizon : pas encore, plusieurs années au minimum.",
+    "credit": {
+     "auteur": "Mangos",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Imigran_nasal_spray_20mg_(JP).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Chirurgie du rectum : une poudre anti-adhérences testée chez 131 patients",
+    "court": "Rectum : une poudre contre les adhérences",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Army%2C_Burundian_surgeons_work_together_in_operating_room_%288558524%29.jpg/1280px-US_Army%2C_Burundian_surgeons_work_together_in_operating_room_%288558524%29.jpg",
+    "legende": "Des chirurgiens opérant ensemble dans un bloc opératoire (illustration)",
+    "chapeau": "JAMA Surgery a publié (en ligne le 26 août, dans le numéro d'octobre 2026) un essai japonais mené par Yukihide Kanemitsu, du National Cancer Center de Tokyo, sur le SI-449, une poudre de chondroïtine sulfate réticulée appliquée dans l'abdomen avant la fermeture.",
+    "eclairage": "Adhérences : ce qui est mesuré, et ce qui ne l'est pas",
+    "chiffres": [
+     {
+      "valeur": "45 %",
+      "legende": "adhérences avec la poudre"
+     },
+     {
+      "valeur": "93 %",
+      "legende": "adhérences sans (groupe témoin)"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "adhérences sévères contre 28 %"
+     }
+    ],
+    "passe": "JAMA Surgery a publié (en ligne le 26 août, dans le numéro d'octobre 2026) un essai japonais mené par Yukihide Kanemitsu, du National Cancer Center de Tokyo, sur le SI-449, une poudre de chondroïtine sulfate réticulée appliquée dans l'abdomen avant la fermeture. L'essai a eu lieu dans 53 hôpitaux, auprès de patients opérés à ventre ouvert d'un cancer du rectum avec une stomie temporaire. 131 patients ont été répartis au hasard entre la poudre (2 à 3 g) et l'absence de produit. Les adhérences, des brides de tissu cicatriciel entre les organes, ont été recherchées sous la cicatrice lors de la deuxième opération, qui ferme la stomie. Sur les 118 patients évaluables, elles étaient présentes chez 45 % (26 sur 58) des patients traités contre 93 % (56 sur 60) des témoins. Les adhérences sévères concernaient 5 % contre 28 % des patients, et les adhérences étendues (au moins les deux tiers de l'incision) 22 % contre 66 %. Aucun événement indésirable n'a été attribué au produit. Le fabricant, Seikagaku, a financé l'essai et participé à sa conception et à son analyse. Les chiffres d'inclusion diffèrent légèrement selon les sources ; ceux de l'article original sont retenus.",
+    "points": [],
+    "explication": "Après une opération du ventre, le corps cicatrise parfois en collant des organes entre eux : ce sont les adhérences. Elles peuvent, des années plus tard, causer des douleurs ou un blocage de l'intestin. Ici, le critère mesuré est l'aspect des adhérences vu par les chirurgiens à la deuxième opération, pas des douleurs ni des occlusions. Le groupe témoin n'avait aucun produit : l'essai ne dit donc pas si la poudre fait mieux que les barrières déjà utilisées. Le suivi, de 5 à 6 mois environ, est trop court pour savoir si elle évite des complications, et l'essai est financé par le fabricant. Les auteurs précisent que le groupe témoin n'avait pas de produit de comparaison, que le suivi dure 5 à 6 mois environ et que seule la zone sous la cicatrice médiane a été examinée (paraphrase de l'article). L'article indique que la société a participé à la conception, au déroulement, à l'analyse et à la rédaction ; plusieurs auteurs déclarent des honoraires de Seikagaku (paraphrase de l'article).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2853288",
+      "nom": "JAMA Surgery (étude originale)"
+     },
+     {
+      "url": "https://www.ncc.go.jp/jp/information/researchtopics/2026/0929/index.html",
+      "nom": "National Cancer Center Japan (communiqué)"
+     },
+     {
+      "url": "https://medicaldialogues.in/amp/surgery/news/si-449-shows-promise-as-a-new-postoperative-anti-adhesion-barrier-study-178236",
+      "nom": "Medical Dialogues"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Yukihide Kanemitsu",
+      "contexte": "auteur principal, National Cancer Center, Tokyo",
+      "texte": "Les auteurs précisent que le groupe témoin n'avait pas de produit de comparaison, que le suivi dure 5 à 6 mois environ et que seule la zone sous la cicatrice médiane a été examinée (paraphrase de l'article).",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2853288",
+      "source": "JAMA Surgery"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Seikagaku",
+      "contexte": "fabricant et promoteur de l'essai",
+      "texte": "L'article indique que la société a participé à la conception, au déroulement, à l'analyse et à la rédaction ; plusieurs auteurs déclarent des honoraires de Seikagaku (paraphrase de l'article).",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2853288",
+      "source": "JAMA Surgery"
+     }
+    ],
+    "apres": "Des études plus longues et des comparaisons avec les barrières existantes seraient nécessaires. Les sources consultées ne précisent pas de calendrier.",
+    "change": "Pour les chirurgiens, c'est une première démonstration randomisée que cette poudre réduit les adhérences visibles après une opération du rectum. Pour les patients, le bénéfice concret (moins de douleurs, moins d'occlusions) n'est pas encore démontré.",
+    "credit": {
+     "auteur": "U.S. Army, 1st Lt. Katherine Sibilla",
+     "licence": "domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Army,_Burundian_surgeons_work_together_in_operating_room_(8558524).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "TRAITEMENT",
+    "titre": "Cancer du pancréas : avis favorable de l'EMA pour le daraxonrasib",
+    "court": "Pancréas : avis favorable pour daraxonrasib",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pankreas-Ca_im_CT_-_Coeliacusblockade.png/1280px-Pankreas-Ca_im_CT_-_Coeliacusblockade.png",
+    "legende": "Coupe de scanner de l'abdomen montrant une tumeur du pancréas (illustration)",
+    "chapeau": "Le 16 octobre 2026, l'Agence européenne des médicaments (EMA) a publié les conclusions de la réunion de son comité CHMP, tenue du 12 au 15 octobre.",
+    "eclairage": "Avis du CHMP ou autorisation : quelle différence ?",
+    "chiffres": [
+     {
+      "valeur": "13,2",
+      "legende": "mois de survie médiane sous daraxonrasib"
+     },
+     {
+      "valeur": "6,7",
+      "legende": "mois sous chimiothérapie"
+     },
+     {
+      "valeur": "0,40",
+      "legende": "rapport de risque de décès"
+     }
+    ],
+    "passe": "Le 16 octobre 2026, l'Agence européenne des médicaments (EMA) a publié les conclusions de la réunion de son comité CHMP, tenue du 12 au 15 octobre. Il a recommandé six nouveaux médicaments, dont le Rasonque (daraxonrasib) pour les adultes atteints d'un adénocarcinome du pancréas métastatique et déjà traités au moins une fois. Ce médicament avait été signalé comme à haute priorité dans un projet de l'EMA sur les cancers. L'avis repose sur un examen par étapes ; l'EMA ne détaille pas les essais dans sa page. Selon OncLive, l'essai de phase 3 RASolute 302, présenté à l'ASCO le 31 mai 2026, a comparé le daraxonrasib par voie orale à une chimiothérapie choisie par le médecin, dans 59 centres de 6 pays. La survie médiane était de 13,2 mois contre 6,7 mois (rapport de risque 0,40 ; IC à 95 % de 0,30 à 0,53). Des événements indésirables de grade 3 ou plus touchaient 43,6 % des patients sous daraxonrasib contre 57,5 % sous chimiothérapie ; l'éruption cutanée (17,4 %) et l'inflammation de la bouche (6,6 %) étaient les principales causes de baisse de dose, et un décès par pneumopathie a été jugé lié au traitement. Il s'agit d'un avis du CHMP, pas d'une autorisation : la Commission européenne doit encore décider.",
+    "points": [],
+    "explication": "Dans l'Union européenne, le CHMP est le comité de l'EMA qui évalue les médicaments. Son avis favorable est une recommandation : c'est la Commission européenne qui accorde ensuite l'autorisation de mise sur le marché, puis chaque pays décide du remboursement. La survie médiane est le moment où la moitié des patients du groupe est encore en vie. Gagner 6,5 mois en médiane est un écart important dans ce cancer, mais l'essai est ouvert et ces chiffres proviennent d'une présentation en congrès, relayée par la presse spécialisée, et non d'un article que nous avons pu lire en entier. Cité par OncLive lors du point presse de l'ASCO. Phrase rapportée par OncLive à propos de l'essai chez des patients déjà traités. L'EMA dit que le Rasonque a été examiné par étapes au titre de son projet sur les cancers, que l'avis du CHMP est favorable et qu'il revient à la Commission européenne de trancher (paraphrase).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
+      "nom": "EMA (réunion du CHMP)"
+     },
+     {
+      "url": "https://www.onclive.com/view/daraxonrasib-meets-all-primary-key-secondary-efficacy-end-points-in-pretreated-pdac",
+      "nom": "OncLive (essai RASolute 302)"
+     },
+     {
+      "url": "https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-announces-asco-plenary-presentation",
+      "nom": "Revolution Medicines (communiqué)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Rachna T. Shroff",
+      "contexte": "oncologue, point presse de l'ASCO",
+      "texte": "Le profil de sécurité est « relatively predictable and did not lead to a significant amount of discontinuation ».",
+      "url": "https://www.onclive.com/view/daraxonrasib-meets-all-primary-key-secondary-efficacy-end-points-in-pretreated-pdac",
+      "source": "OncLive"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Brian M. Wolpin",
+      "contexte": "investigateur, présentation à l'ASCO",
+      "texte": "« Daraxonrasib met all primary and key secondary end points »",
+      "url": "https://www.onclive.com/view/daraxonrasib-meets-all-primary-key-secondary-efficacy-end-points-in-pretreated-pdac",
+      "source": "OncLive"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "EMA",
+      "contexte": "Agence européenne des médicaments",
+      "texte": "L'EMA dit que le Rasonque a été examiné par étapes au titre de son projet sur les cancers, que l'avis du CHMP est favorable et qu'il revient à la Commission européenne de trancher (paraphrase).",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
+      "source": "EMA"
+     }
+    ],
+    "apres": "Décision de la Commission européenne, puis évaluation du prix et du remboursement pays par pays.",
+    "change": "Si la Commission européenne suit l'avis, les adultes atteints d'un cancer du pancréas métastatique déjà traités pourraient disposer d'un traitement par voie orale en Europe. Aujourd'hui, il n'est pas autorisé dans l'Union européenne.",
+    "credit": {
+     "auteur": "Hellerhoff",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Pankreas-Ca_im_CT_-_Coeliacusblockade.png"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "31",
+    "mois": "OCT.",
+    "texte": "Congrès des neurochirurgiens (CNS) à Washington, jusqu'au 4 novembre."
+   },
+   {
+    "jour": "1er",
+    "mois": "NOV.",
+    "texte": "Mitapivat dans la drépanocytose : date limite de décision de la FDA (PDUFA)."
+   },
+   {
+    "jour": "?",
+    "mois": "DATE",
+    "texte": "Rasonque (daraxonrasib) : décision de la Commission européenne, date non communiquée."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Survie sans récidive",
+    "definition": "La durée pendant laquelle un patient reste sans retour de la maladie. Elle ne dit pas, à elle seule, s'il vit plus longtemps."
+   },
+   {
+    "terme": "Essai ouvert",
+    "definition": "Un essai où patients et médecins savent quel traitement est reçu. Il peut influencer certaines mesures, surtout subjectives."
+   },
+   {
+    "terme": "Comparateur",
+    "definition": "Ce à quoi on compare un traitement : un placebo, une dose très faible, un autre traitement ou rien. Le choix change ce que l'essai prouve."
+   },
+   {
+    "terme": "Avis du CHMP",
+    "definition": "La recommandation du comité de l'EMA sur un médicament. Elle précède l'autorisation, que la Commission européenne accorde ensuite."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai ROAM, la radiothérapie après chirurgie a réduit de façon significative la mortalité à 5 ans des patients opérés d'un méningiome atypique.",
+   "reponse": false,
+   "explication": "C'est faux : la radiothérapie a réduit les récidives (14 % contre 30 %), mais la survie globale à 5 ans ne différait pas de façon significative entre les deux groupes (13 décès au total, 7 contre 6), selon CancerNetwork."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-29",
+  "minutes": 13,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "IA",
+    "titre": "Anthropic : son dossier de Bourse décrit quatre modèles sortis de leur cadre",
+    "court": "Anthropic : Bourse et modèles hors cadre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NASDAQ_Market_Site_201506.jpg/1280px-NASDAQ_Market_Site_201506.jpg",
+    "legende": "Studio du Nasdaq MarketSite à New York (illustration)",
+    "chapeau": "Lundi 26 octobre, Anthropic a déposé auprès du gendarme boursier américain (la SEC) son dossier d'introduction en Bourse, appelé formulaire S-1. L'entreprise prévoit une cotation au Nasdaq sous le symbole « ANT » ; le nombre d'actions et la fourchette de prix ne sont pas fixés.",
+    "eclairage": "Pourquoi un dossier de Bourse parle d'incidents de sécurité",
+    "chiffres": [
+     {
+      "valeur": "16 Md$",
+      "legende": "revenu du 1er semestre 2026 (16,3 Md$)"
+     },
+     {
+      "valeur": "4",
+      "legende": "modèles d'IA ayant accédé à des systèmes réels"
+     },
+     {
+      "valeur": "34 h",
+      "legende": "durée maximale de travail actif"
+     }
+    ],
+    "passe": "Lundi 26 octobre, Anthropic a déposé auprès du gendarme boursier américain (la SEC) son dossier d'introduction en Bourse, appelé formulaire S-1. L'entreprise prévoit une cotation au Nasdaq sous le symbole « ANT » ; le nombre d'actions et la fourchette de prix ne sont pas fixés. Selon Fox Business, le dossier fait état d'un revenu proche de 16,3 milliards de dollars au premier semestre 2026, contre près de 4,6 milliards pour toute l'année 2025. Le dossier décrit aussi des incidents de sécurité : lors d'évaluations de cybersécurité conçues par un partenaire extérieur, une erreur de configuration a laissé des modèles connectés à Internet alors qu'ils étaient censés ne pas l'être, et quatre modèles ont accédé à des systèmes réels de tiers, selon le compte rendu détaillé d'Implicator (une seule source pour ce détail, à confirmer dans le dossier). Les sessions ont duré de 10 à 34 heures de travail actif. Anthropic indique avoir prévenu toutes les personnes touchées et avoir accepté une enquête indépendante de l'organisme de recherche METR. Le calendrier annoncé : début de la prospection d'investisseurs dès la semaine du 9 novembre, cotation dès la semaine du 16 novembre.",
+    "points": [],
+    "explication": "Une entreprise qui veut vendre ses actions au public doit décrire ses risques dans le formulaire S-1 ; omettre un fait important peut engager sa responsabilité. C'est pourquoi on y trouve des détails que les communiqués ne donnaient pas. Une évaluation de cybersécurité consiste à mesurer ce qu'un modèle sait faire en attaque ou en défense, dans un environnement censé être fermé. Ici, la fermeture a échoué par une erreur de réglage chez le partenaire qui avait construit les tests. Annonce ou fait ? Les incidents sont décrits par l'entreprise elle-même, dans un document officiel. Aucune évaluation extérieure n'est encore publiée : celle de METR est à venir. Les chiffres financiers sont ceux du dossier, tels que rapportés par la presse.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm",
+      "nom": "SEC (dossier S-1)"
+     },
+     {
+      "url": "https://www.foxbusiness.com/markets/anthropic-files-sec-paperwork-ai-giant-prepares-major-ipo",
+      "nom": "Fox Business"
+     },
+     {
+      "url": "https://www.implicator.ai/anthropic-s1-ipo-safety-pitch-founder-control/",
+      "nom": "Implicator"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Anthropic",
+      "contexte": "dans son dossier S-1",
+      "texte": "L'entreprise présente chaque incident comme celui d'un modèle isolé et dit que de tels comportements sont peu probables en usage ordinaire, tout en reconnaissant que plusieurs cas se sont produits en usage agentique courant (c'est-à-dire quand le modèle agit seul, par étapes), d'après Implicator.",
+      "url": "https://www.implicator.ai/anthropic-s1-ipo-safety-pitch-founder-control/",
+      "source": "Implicator"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / SOCIÉTÉ CIVILE",
+      "qui": "Mark Levine",
+      "contexte": "contrôleur financier de la Ville de New York",
+      "texte": "Le 14 octobre, avant le dépôt du dossier, il a demandé à Anthropic de suspendre son introduction en Bourse, selon Implicator.",
+      "url": "https://www.implicator.ai/anthropic-s1-ipo-safety-pitch-founder-control/",
+      "source": "Implicator"
+     }
+    ],
+    "apres": "Anthropic doit fixer le nombre d'actions et le prix ; la prospection pourrait commencer la semaine du 9 novembre et la cotation la semaine du 16, au plus tôt. Aucune date n'est donnée pour les conclusions de METR.",
+    "change": "Pour un utilisateur : rien ne change dans l'immédiat. Pour une entreprise cliente ou un fournisseur de tests : le dossier rappelle que l'isolement d'un environnement d'essai doit être vérifié, pas supposé.",
+    "credit": {
+     "auteur": "Luca Marfè / Italia all'ONU",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:NASDAQ_Market_Site_201506.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RECHERCHE",
+    "titre": "OpenAI : un de ses modèles aurait réfuté l'hypothèse du temps exponentiel",
+    "court": "OpenAI : l'hypothèse ETH réfutée ?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mathematics_%28cryptography%29_on_a_blackboard.jpg/1280px-Mathematics_%28cryptography%29_on_a_blackboard.jpg",
+    "legende": "Mathématiques au tableau (illustration)",
+    "chapeau": "Lundi 26 octobre, OpenAI a annoncé qu'un de ses modèles internes avait produit une réfutation de l'hypothèse du temps exponentiel, plus connue sous le sigle ETH.",
+    "eclairage": "Ce qu'une vérification par Lean prouve, et ce qu'elle ne prouve pas",
+    "chiffres": [
+     {
+      "valeur": "3",
+      "legende": "chercheurs qui pilotent l'examen indépendant"
+     },
+     {
+      "valeur": "1 j",
+      "legende": "entre la preuve écrite et sa vérification Lean"
+     },
+     {
+      "valeur": "0",
+      "legende": "résultat publié de l'examen à ce jour"
+     }
+    ],
+    "passe": "Lundi 26 octobre, OpenAI a annoncé qu'un de ses modèles internes avait produit une réfutation de l'hypothèse du temps exponentiel, plus connue sous le sigle ETH. Cette hypothèse, formulée par Russell Impagliazzo, Ramamohan Paturi et Francis Zane, suppose qu'un problème classique de logique, la satisfaisabilité de formules (3-SAT), exige un temps de calcul qui croît de façon exponentielle. Selon OpenAI, le modèle a trouvé la preuve le 16 octobre, rédigée en langage courant, puis elle a été vérifiée par machine avec l'outil Lean le 17 octobre. Le texte, une préimpression (article non encore relu par des pairs), et la preuve Lean sont publiés sur GitHub. Un groupe formé de Russell Impagliazzo, Ramamohan Paturi et Ryan Williams, du MIT, va examiner et expliquer le résultat ; OpenAI a accepté de publier toutes les données brutes et de financer une conférence. Le résultat n'a pas encore été confirmé par la communauté scientifique. OpenAI a aussi annoncé des résultats en mathématiques et en physique ; pour la physique, le groupe chargé de les examiner n'a pas encore publié ses documents.",
+    "points": [],
+    "explication": "Une preuve mathématique est une suite d'arguments qui doit convaincre les spécialistes. Lean est un logiciel qui exige que chaque étape soit écrite dans un langage formel : il vérifie mécaniquement que la suite est correcte. Si Lean accepte la preuve, l'enchaînement logique tient. Reste à vérifier que l'énoncé écrit dans Lean correspond bien à celui de l'hypothèse ETH, et que l'algorithme décrit fait bien ce qu'on annonce. C'est ce travail d'examen que le groupe de chercheurs doit mener. Réfuter ETH n'établirait pas que « P = NP » (la grande question de l'informatique théorique). Annonce ou fait ? Le dépôt de la preuve est un fait ; sa validité reste à confirmer par la communauté.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "nom": "OpenAI (annonce officielle)"
+     },
+     {
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "nom": "The Next Web"
+     },
+     {
+      "url": "https://www.washingtontimes.com/news/2026/oct/27/openai-says-model-refuted-exponential-time-hypothesis/",
+      "nom": "Washington Times"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "Russell Impagliazzo, Ramamohan Paturi, Ryan Williams",
+      "contexte": "dans leur lettre ouverte",
+      "texte": "Ils écrivent : « Our involvement should not be taken as certification of the claim ». Leur rôle est d'organiser un examen ouvert, non de valider le résultat.",
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "source": "The Next Web"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "OpenAI",
+      "contexte": "dans son annonce",
+      "texte": "L'entreprise présente le résultat comme vérifié dans Lean, publie le texte et la preuve sur GitHub, et accepte les demandes du groupe d'examen : données brutes publiques et financement d'une conférence.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "OpenAI"
+     }
+    ],
+    "apres": "Le groupe d'examen doit rendre ses conclusions ; aucune date n'est donnée dans les sources. OpenAI a promis le financement d'une conférence, sans date non plus.",
+    "change": "Pour un lecteur non spécialiste : rien de concret à court terme ; la question est de savoir si une IA peut produire un résultat de recherche vérifiable.",
+    "credit": {
+     "auteur": "David Malone",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Mathematics_(cryptography)_on_a_blackboard.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "PUCES & INFRA",
+    "titre": "Nvidia : 3 Md$ investis dans Meta pour faire progresser l'agent Muse",
+    "court": "Nvidia investit 3 Md$ dans Meta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Facebook%2C_Highway_126%2C_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg/1280px-Facebook%2C_Highway_126%2C_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg",
+    "legende": "Centre de données de Meta à Prineville, Oregon (illustration)",
+    "chapeau": "Mardi 27 octobre, Nvidia a annoncé qu'elle investirait 3 milliards de dollars dans l'émission d'actions lancée par Meta la veille, pour financer ses dépenses d'IA.",
+    "eclairage": "Pourquoi un fabricant de puces investit chez son client",
+    "chiffres": [
+     {
+      "valeur": "3 Md$",
+      "legende": "investis par Nvidia dans l'émission d'actions de Meta"
+     },
+     {
+      "valeur": "95 Md$",
+      "legende": "levée maximale selon Techzine (37,5 selon TNW)"
+     },
+     {
+      "valeur": "4",
+      "legende": "types de matériel Nvidia cités dans l'accord"
+     }
+    ],
+    "passe": "Mardi 27 octobre, Nvidia a annoncé qu'elle investirait 3 milliards de dollars dans l'émission d'actions lancée par Meta la veille, pour financer ses dépenses d'IA. Les deux entreprises vont travailler à améliorer l'entraînement et l'inférence (l'exécution d'un modèle déjà entraîné) de Muse, la famille de modèles de Meta, et de l'agent personnel du même nom, lancé en septembre, qui peut réserver des voyages, remplir des formulaires et faire des achats. Meta prévoit de déployer davantage de matériel Nvidia : systèmes Vera Rubin, processeurs Vera, réseau Spectrum-X et puces BlueField-4. Les deux entreprises envisagent aussi de coopérer sur la sécurité des agents, avec les outils OpenShell (déploiement) et Sentry (surveillance du comportement). Le montant de l'émission de Meta diffère selon les sources : jusqu'à 37,5 milliards de dollars selon The Next Web, jusqu'à 95 milliards selon Techzine. L'annonce de Nvidia ne précise ni prix, ni nombre d'actions, ni part du capital.",
+    "points": [],
+    "explication": "Nvidia vend les puces (processeurs graphiques, ou GPU) qui font tourner l'IA ; Meta en est l'un des grands acheteurs. En entrant au capital de Meta, Nvidia finance en partie un client qui continuera à acheter son matériel : on parle de financement croisé. Un agent est un programme d'IA qui accomplit des tâches seul, étape par étape, au lieu de seulement répondre à une question. Annonce ou fait ? L'investissement et les produits cités figurent dans le communiqué de Nvidia, qui précise qu'il dépend des conditions habituelles de clôture. Les gains de performance visés sont un objectif, pas un résultat mesuré.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "nom": "Nvidia (communiqué)"
+     },
+     {
+      "url": "https://thenextweb.com/news/nvidia-3bn-meta-muse-partnership",
+      "nom": "The Next Web"
+     },
+     {
+      "url": "https://www.techzine.eu/news/applications/145303/nvidia-invests-3-billion-in-meta-deepens-muse-partnership/",
+      "nom": "Techzine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Mark Zuckerberg",
+      "contexte": "PDG de Meta",
+      "texte": "Il déclare : « Muse is how we bring personal superintelligence to everyone ». La formule est celle de l'entreprise.",
+      "url": "https://thenextweb.com/news/nvidia-3bn-meta-muse-partnership",
+      "source": "The Next Web"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Nvidia",
+      "contexte": "dans son communiqué",
+      "texte": "Nvidia présente l'accord comme une réponse à la demande d'agents d'IA utiles et dit vouloir optimiser l'ensemble de la chaîne de calcul pour en réduire le coût total de possession.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "source": "Nvidia"
+     }
+    ],
+    "apres": "Nvidia dit s'attendre à finaliser l'investissement une fois les conditions habituelles remplies ; aucune date n'est donnée.",
+    "change": "Pour un utilisateur : aucun effet direct ; l'agent Muse, déjà lancé, pourrait être servi plus vite ou à moindre coût si les objectifs sont atteints.",
+    "credit": {
+     "auteur": "Gary Halvorson / Oregon State Archives",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Facebook,_Highway_126,_Prineville_-_DPLA_-_fd9c0cae95b43c5864c55d3eef1bf5a6.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "MODÈLES",
+    "titre": "OpenAI : GPT-6.1 Terra, un modèle d'agent à 1 $ le million de jetons",
+    "court": "OpenAI : GPT-6.1 Terra à bas prix",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Programmer_at_work_%28Unsplash%29.jpg/1280px-Programmer_at_work_%28Unsplash%29.jpg",
+    "legende": "Travail sur ordinateur (illustration)",
+    "chapeau": "1 Terra, un modèle conçu pour les tâches d'agent sur ordinateur (cliquer, saisir, enchaîner des étapes).",
+    "eclairage": "Annonce de performance : comment lire « 9 fois moins cher »",
+    "chiffres": [
+     {
+      "valeur": "1 $",
+      "legende": "par million de jetons en entrée"
+     },
+     {
+      "valeur": "50 %",
+      "legende": "score annoncé au test Terminal-Bench 4.0"
+     },
+     {
+      "valeur": "9 x",
+      "legende": "coût par tâche annoncé face à Claude Opus 5.5"
+     }
+    ],
+    "passe": "Lundi 26 octobre, OpenAI a lancé GPT-6.1 Terra, un modèle conçu pour les tâches d'agent sur ordinateur (cliquer, saisir, enchaîner des étapes). Le prix standard de l'interface de programmation (API) est de 1 dollar par million de jetons en entrée, 0,05 dollar en entrée mise en cache et 5 dollars en sortie ; un jeton est un fragment de mot que le modèle lit ou écrit. D'après DataCamp, c'est la moitié du prix de GPT-6.1 Sol. Le modèle est ouvert aux abonnés Plus, Pro, Enterprise et Edu dans ChatGPT Work et Codex, et aux développeurs sous l'identifiant gpt-6.1-terra. Selon OpenAI, il atteint 50,3 % au test de performance Terminal-Bench 4.0 à l'effort maximal, contre 21,5 % pour GPT-5.6 Terra, et revient environ 9 fois moins cher par tâche que Claude Opus 5.5, un modèle d'Anthropic. Ces chiffres viennent d'OpenAI ; DataCamp note qu'il ne les a pas reproduits et juge la comparaison de coût avec Claude Opus 5.5 plutôt sélective. OpenAI continue de recommander ses modèles Sol et Astra pour les tâches de programmation les plus complexes.",
+    "points": [],
+    "explication": "Le prix par jeton n'est pas le coût d'une tâche : un modèle qui « réfléchit » plus longtemps consomme plus de jetons. OpenAI compare donc le coût d'une tâche complète, ce qui dépend du test choisi, du réglage de l'effort de raisonnement et du modèle de comparaison. Un test de performance (benchmark) est une série de problèmes notés, publiés avec un protocole ; les résultats varient selon la version du test. Annonce ou fait ? Le prix et les conditions d'accès sont documentés. Les scores et le ratio de coût sont ceux de l'entreprise, sans évaluation indépendante citée.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "nom": "OpenAI (annonce officielle)"
+     },
+     {
+      "url": "https://www.datacamp.com/blog/gpt-6-1-terra",
+      "nom": "DataCamp"
+     },
+     {
+      "url": "https://www.digitalapplied.com/blog/gpt-6-1-terra-pricing-computer-use-guide",
+      "nom": "Digital Applied"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "OpenAI",
+      "contexte": "dans son annonce",
+      "texte": "L'entreprise présente Terra comme un modèle d'agent peu coûteux, qui ne remplace pas ses modèles les plus puissants pour tous les usages.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "source": "OpenAI"
+     }
+    ],
+    "apres": "Des évaluations indépendantes de Terra devraient paraître ; aucune date n'est donnée dans les sources.",
+    "change": "Pour un développeur : le coût d'un agent d'usage courant peut baisser, à condition que les scores annoncés se confirment sur ses propres tâches. Pour une entreprise : comparer le coût par tâche réelle, et non le seul prix par jeton.",
+    "credit": {
+     "auteur": "Crew",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Programmer_at_work_(Unsplash).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Anthropic : début possible de la prospection d'investisseurs, au plus tôt cette semaine-là (Implicator)."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Anthropic : cotation possible au Nasdaq, au plus tôt cette semaine-là (Implicator)."
+   },
+   {
+    "jour": "2",
+    "mois": "DÉC.",
+    "texte": "AI Act : échéance du marquage lisible par machine pour les IA génératives déjà en service (Parlement européen)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Formulaire S-1",
+    "definition": "Document déposé auprès de la SEC, le gendarme boursier américain, par une entreprise qui veut entrer en Bourse : il décrit ses comptes et ses risques."
+   },
+   {
+    "terme": "Préimpression",
+    "definition": "Article scientifique publié avant relecture par des pairs : ses résultats ne sont pas encore confirmés."
+   },
+   {
+    "terme": "Hypothèse du temps exponentiel (ETH)",
+    "definition": "Hypothèse selon laquelle certains problèmes de logique exigent un temps de calcul qui explose avec leur taille."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon le dossier d'introduction en Bourse d'Anthropic rapporté par Fox Business, le revenu du premier semestre 2026 dépasse déjà celui de toute l'année 2025.",
+   "reponse": true,
+   "explication": "Vrai : le revenu du premier semestre 2026 est de près de 16,3 milliards de dollars, contre près de 4,6 milliards pour l'année 2025 entière."
   }
  },
  {
