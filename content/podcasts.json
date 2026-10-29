@@ -1,5 +1,193 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-29",
+  "url": "/podcasts/politique-2026-10-29.mp3",
+  "taille": 2601527,
+  "duree": 217,
+  "titre": "Éclairage politique, jeudi 29 octobre 2026",
+  "titre_episode": "Casseurs-payeurs, primaire d'Attal, Macron et les lycées : l'essentiel du jeudi 29 octobre",
+  "description": "Ce jeudi 29 octobre 2026, Léa et Paul reprennent 2 sujets et 2 brèves.\n• Casseurs-payeurs : ce que prévoit le texte adopté au Sénat, des saisies de prestations aux retraits de contenus en ligne.\n• Présidentielle : la « grande primaire des démocrates » proposée par Gabriel Attal et les premières réactions.\n• En bref : l'entretien d'Emmanuel Macron sur HugoDécrypte et la position de Bruno Retailleau sur un gouvernement du RN.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Casseurs-payeurs : le Sénat adopte le texte, avec saisies de prestations"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Présidentielle : Attal propose une « grande primaire des démocrates »"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour à toutes et à tous, nous sommes le jeudi vingt-neuf octobre. Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et Paul. Aujourd'hui, deux sujets France : la loi « casseurs-payeurs » adoptée au Sénat, et la proposition de primaire de Gabriel Attal. Puis deux brèves."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par le Sénat. Dans la nuit de mardi à mercredi, deux cent vingt-neuf voix pour, cent cinq contre. Le projet de loi dit « casseurs-payeurs » est adopté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Un texte présenté en Conseil des ministres le seize septembre, et examiné en procédure accélérée. Ça veut dire une seule lecture par chambre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le principe, c'est quoi, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quelqu'un qui a participé à des violences ou à des dégradations dans l'espace public peut être tenu de réparer les dommages. Dans la limite de dix mille euros par personne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends. Même s'il n'a pas lui-même causé le dommage ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. C'est ce qu'on appelle la responsabilité solidaire. Chaque participant peut être tenu de réparer l'ensemble."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, on ne cherche plus seulement l'auteur précis du dégât."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Et pour recouvrer l'argent, les sénateurs ont retenu la saisie de prestations sociales. Notamment les allocations familiales, les aides au logement et le RSA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a des garde-fous ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le texte prévoit qu'un « reste à vivre » soit préservé. C'est la part du revenu qui ne peut pas être saisie, pour que la personne puisse subvenir à ses besoins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a un volet sur internet, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, un amendement du gouvernement. L'administration pourrait demander, par la plateforme Pharos, le retrait en vingt-quatre heures de contenus qui incitent à des atteintes à la vie, au vol ou à la destruction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui a voté quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Rassemblement national a voté pour, la gauche contre. Le ministre de l'Intérieur, Laurent Nuñez, dit que faire payer ceux qui cassent, c'est « une question de bon sens »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à gauche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La sénatrice écologiste Mélanie Vogel dit que ce texte « ne résout pas le problème des casseurs, il désigne des payeurs de substitution »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc deux lectures très différentes. Et maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le texte part à l'Assemblée nationale, où aucune majorité ne se dessine. La date d'examen n'est pas annoncée. À retenir : le Sénat a adopté un texte qui élargit qui peut être tenu de payer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Direction la présidentielle de deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi soir, sur TF1, Gabriel Attal, candidat de Renaissance et ancien Premier ministre, a proposé une « grande primaire des démocrates »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une primaire, pour rappel, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un vote organisé avant le premier tour pour choisir un seul candidat parmi plusieurs personnalités d'un même camp. Elle n'est pas obligatoire. Chaque candidat reste libre de se présenter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pourquoi la proposer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon lui, pour éviter un second tour entre La France insoumise et le Rassemblement national. Elle réunirait les candidats qui refusent toute alliance avec l'extrême gauche et l'extrême droite."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a cité des noms ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon LCP, Édouard Philippe, Bruno Retailleau et David Lisnard. Au moment de la publication des articles, aucun des trois n'avait réagi officiellement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais il y a eu des réactions, quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des entourages. Celui de Bruno Retailleau juge l'idée « fantaisiste et ridicule ». Celui d'Édouard Philippe se montre peu enthousiaste."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Gabriel Attal, lui, que dit-il ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il dit qu'il est temps « d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc une proposition lancée, mais aucun engagement des principaux intéressés à ce stade."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. À retenir : une primaire est proposée, personne ne s'y est encore engagé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deux brèves pour finir. Précision : chacune repose sur une seule source, franceinfo, et il faut donc les prendre avec prudence."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Première brève. Dans un entretien sur la chaîne HugoDécrypte, Emmanuel Macron dit souhaiter que les lycées puissent rouvrir après les vacances de la Toussaint."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il reconnaît quelque chose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui : « On n'a pas été assez rapide, collectivement, dans la réponse ». Il défend aussi Parcoursup, qu'il juge meilleur que le système d'avant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième brève."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau, président des Républicains, affirme qu'il n'apporterait jamais son concours à un gouvernement du Rassemblement national. Il reconnaît des convergences avec Marine Le Pen sur l'ordre public."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce jeudi. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-26",
   "url": "/podcasts/essentiel-2026-10-26.mp3",

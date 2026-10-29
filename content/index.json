@@ -1,5 +1,258 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-29",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SÉCURITÉ",
+    "titre": "Casseurs-payeurs : le Sénat adopte le texte, avec saisies de prestations",
+    "court": "Casseurs-payeurs : le Sénat adopte le texte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Manifestation_du_8_mars_2025_%C3%A0_Paris_%284%29.jpg/1280px-Manifestation_du_8_mars_2025_%C3%A0_Paris_%284%29.jpg",
+    "legende": "Manifestation dans une rue de Paris (illustration)",
+    "chapeau": "Dans la nuit du mardi 27 au mercredi 28 octobre, le Sénat a adopté le projet de loi dit « casseurs-payeurs » par 229 voix contre 105. Le Rassemblement national a voté pour, la gauche contre.",
+    "eclairage": "Que prévoit ce texte, et où en est-il ?",
+    "chiffres": [
+     {
+      "valeur": "229",
+      "legende": "voix pour"
+     },
+     {
+      "valeur": "105",
+      "legende": "voix contre"
+     },
+     {
+      "valeur": "10 000",
+      "legende": "€ au plus par personne"
+     }
+    ],
+    "passe": "Dans la nuit du mardi 27 au mercredi 28 octobre, le Sénat a adopté le projet de loi dit « casseurs-payeurs » par 229 voix contre 105. Le Rassemblement national a voté pour, la gauche contre. Examiné en procédure accélérée, le texte prévoit que toute personne ayant participé à des violences ou à des dégradations commises dans l'espace public peut être tenue de réparer les dommages, dans la limite de 10 000 euros par personne, même si elle ne les a pas causés directement. Les sénateurs ont aussi retenu la saisie de prestations sociales pour recouvrer ces sommes, notamment les allocations familiales, les aides au logement et le RSA, un « reste à vivre » devant être préservé. Un amendement du gouvernement permet à l'autorité administrative de demander, par la plateforme Pharos, le retrait en 24 heures de contenus en ligne qui incitent à des atteintes à la vie, au vol ou à la destruction. Le texte est maintenant transmis à l'Assemblée nationale, où aucune majorité ne se dessine.",
+    "points": [],
+    "explication": "Responsabilité solidaire : chaque participant à un groupe où des violences ont eu lieu peut être tenu de réparer l'ensemble du dommage, dans la limite de 10 000 euros. Le projet vise à faciliter le recouvrement, car les auteurs de dégradations sont souvent insolvables, selon la présentation du texte par le Sénat. Procédure accélérée : une seule lecture par chambre.",
+    "chronologie": [
+     {
+      "quand": "16 SEPT.",
+      "texte": "Le texte est présenté en Conseil des ministres."
+     },
+     {
+      "quand": "21 OCT.",
+      "texte": "La commission des lois du Sénat adopte une version durcie."
+     },
+     {
+      "quand": "27-28 OCT.",
+      "texte": "Le Sénat adopte le projet de loi, 229 voix contre 105."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/derive-autoritaire-la-gauche-senatoriale-vent-debout-apres-ladoption-dun-amendement-sur-le-blocage-de-certains-contenus-sur-les-reseaux-sociaux",
+      "nom": "Public Sénat (amendement)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.politiquematin.fr/senat-casseurs-payeurs-vote-229-105-rassemblement-national",
+      "nom": "Politique Matin"
+     },
+     {
+      "url": "https://www.senat.fr/leg/pjl25-952.html",
+      "nom": "senat.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Fabien Gay",
+      "contexte": "sénateur",
+      "texte": "Il parle d'une « forfaiture juridique, qui confond volontairement manifestants et casseurs »",
+      "url": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "Faire payer ceux qui cassent : « c’est une question de bon sens »",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "David Margueritte",
+      "contexte": "sénateur, rapporteur",
+      "texte": "« Ce texte renforce au contraire la liberté de manifester. »",
+      "url": "https://www.politiquematin.fr/senat-casseurs-payeurs-vote-229-105-rassemblement-national",
+      "source": "Politique Matin"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Marie-Pierre de la Gontrie",
+      "contexte": "sénatrice",
+      "texte": "Sur la saisie des allocations familiales, le texte « fait payer aux membres d’une même famille la responsabilité d’un seul »",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Mélanie Vogel",
+      "contexte": "sénatrice",
+      "texte": "« Ce texte ne résout pas le problème des casseurs, il désigne des payeurs de substitution »",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Edwige Diaz",
+      "contexte": "sénatrice",
+      "texte": "Elle a défendu un plafond plus haut : « nous leur donnerons la possibilité de payer jusqu’à la fin de leur vie »",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Examen à l'Assemblée nationale, dont la date n'est pas annoncée à ce stade ; la gauche annonce une opposition frontale, selon Politique Matin.",
+    "change": "Si le texte est définitivement adopté, des personnes qui ont participé à un attroupement violent pourraient devoir réparer l'ensemble des dommages, dans la limite de 10 000 euros, y compris par saisie de certaines prestations.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_8_mars_2025_%C3%A0_Paris_(4).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Présidentielle : Attal propose une « grande primaire des démocrates »",
+    "court": "Attal propose une primaire des démocrates",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gabriel_Attal_and_Kristen_Michal%2C_04.03.2026.jpg/1280px-Gabriel_Attal_and_Kristen_Michal%2C_04.03.2026.jpg",
+    "legende": "Gabriel Attal (à droite) lors d'un déplacement en Estonie, mars 2026",
+    "chapeau": "Mercredi 28 octobre au soir sur TF1, Gabriel Attal, candidat de Renaissance à la présidentielle de 2027 et ancien Premier ministre, a proposé l'organisation d'une « grande primaire des démocrates ». Selon lui, elle permettrait d'éviter un second tour entre La France insoumise et le Rassemblement national.",
+    "eclairage": "C'est quoi, une primaire ?",
+    "chiffres": [
+     {
+      "valeur": "28/10",
+      "legende": "annonce sur TF1"
+     },
+     {
+      "valeur": "RN–LFI",
+      "legende": "le duel que Gabriel Attal veut éviter"
+     }
+    ],
+    "passe": "Mercredi 28 octobre au soir sur TF1, Gabriel Attal, candidat de Renaissance à la présidentielle de 2027 et ancien Premier ministre, a proposé l'organisation d'une « grande primaire des démocrates ». Selon lui, elle permettrait d'éviter un second tour entre La France insoumise et le Rassemblement national. Elle réunirait les candidats qui refusent toute alliance avec l'extrême gauche et l'extrême droite. Selon LCP, il a cité Édouard Philippe (Horizons), Bruno Retailleau (Les Républicains) et David Lisnard comme candidats possibles. Au moment de la publication des articles, aucun des trois n'avait réagi officiellement, mais les entourages d'Édouard Philippe et de Bruno Retailleau se sont montrés réservés. Gabriel Attal avait déjà indiqué, selon une dépêche de l'AFP, qu'il « n'a pas peur » d'une primaire.",
+    "points": [],
+    "explication": "Une primaire est un vote organisé avant le premier tour pour choisir un seul candidat parmi plusieurs personnalités d'un même camp. Elle n'est pas obligatoire : chaque candidat reste libre de se présenter à la présidentielle, qu'une primaire ait lieu ou non. L'enjeu décrit par Gabriel Attal : éviter la dispersion des voix de son camp au premier tour, de sorte qu'un second tour oppose LFI et le RN.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html",
+      "nom": "franceinfo (réaction LR)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-444417",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.titrespresse.com/26920512603/tf1-attal-philippe",
+      "nom": "Titres de presse"
+     },
+     {
+      "url": "https://www.lagazettefrance.fr/article/attal-n-a-pas-peur-d-une-primaire-renvoie-la-responsabilite-sur-philippe",
+      "nom": "dépêche AFP via La Gazette France"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Gabriel Attal",
+      "contexte": "candidat Renaissance",
+      "texte": "« Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent »",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Entourage de Bruno Retailleau",
+      "contexte": "candidat LR",
+      "texte": "L'idée est « fantaisiste et ridicule », selon son entourage",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Aucune réponse officielle d'Édouard Philippe, de Bruno Retailleau ou de David Lisnard n'était publiée au moment de ces articles.",
+    "change": "Si cette primaire avait lieu, elle viserait à désigner un candidat commun avant le premier tour. À ce stade, ni Édouard Philippe ni Bruno Retailleau ne s'y sont engagés.",
+    "credit": {
+     "auteur": "Stenbocki maja",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_and_Kristen_Michal,_04.03.2026.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat (midterms)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Sénat : début de l'examen du budget de la Sécurité sociale 2027."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Pharos",
+    "definition": "Plateforme du ministère de l'Intérieur où l'on signale des contenus illicites en ligne."
+   },
+   {
+    "terme": "Reste à vivre",
+    "definition": "Part du revenu qui ne peut pas être saisie, pour que la personne puisse subvenir à ses besoins."
+   },
+   {
+    "terme": "Primaire",
+    "definition": "Vote organisé avant le premier tour pour choisir un seul candidat parmi plusieurs personnalités d'un même camp."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Mercredi 28 octobre, le Sénat a adopté le projet de loi « casseurs-payeurs » par 229 voix contre 105.",
+   "reponse": true,
+   "explication": "Vrai : le Sénat a adopté le texte dans la nuit du 27 au 28 octobre, avec les voix du RN, et il est transmis à l'Assemblée nationale."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-26",
   "minutes": 10,
