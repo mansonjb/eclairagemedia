@@ -1,5 +1,221 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-30",
+  "url": "/podcasts/politique-2026-10-30.mp3",
+  "taille": 3593971,
+  "duree": 299,
+  "titre": "Éclairage politique, vendredi 30 octobre 2026",
+  "titre_episode": "Philippe témoin assisté, niche LFI, départ de Lagarde : l'essentiel du vendredi 30 octobre",
+  "description": "Ce vendredi 30 octobre 2026, Léa et Paul reprennent 3 sujets et un point sur Israël.\n• Justice : Édouard Philippe placé sous le statut de témoin assisté, ce que ce statut veut dire et où en est l'enquête.\n• Assemblée : trois textes adoptés lors de la niche de LFI, un autre bloqué, et la suite au Sénat.\n• Europe : l'annonce du départ de Christine Lagarde de la présidence de la BCE le 7 février 2027.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Philippe : témoin assisté dans l'enquête sur Le Havre Seine Métropole"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Niche LFI : trois textes adoptés à l'Assemblée, un autre bloqué"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour à toutes et à tous, nous sommes le vendredi trente octobre. Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et Paul. Au programme, trois sujets : Édouard Philippe et la justice, la journée de LFI à l'Assemblée, et le départ annoncé de Christine Lagarde."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par Le Havre. Jeudi, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et à la fin, il a été placé sous le statut de témoin assisté. Un statut un peu particulier, on y revient."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'abord, de quoi parle-t-on ? Quelle est l'enquête ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle porte sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de Le Havre Seine Métropole. Trois chefs. Le Parquet national financier avait mené des perquisitions en avril deux mille vingt-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et c'est parti d'une plainte."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Celle de Cornelia Findeisen, ancienne directrice générale adjointe, déposée en deux mille vingt-trois, puis de nouveau en deux mille vingt-cinq avec constitution de partie civile."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, témoin assisté. Ça veut dire quoi, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est un statut intermédiaire. Moins incriminant que la mise en examen. La personne est entendue par les juges, sans être mise en examen. Et ce statut peut évoluer si de nouveaux éléments apparaissent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, ce n'est ni une condamnation, ni la fin de l'affaire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Son avocat, maître Emmanuel Marsigny, se félicite d'une décision favorable. L'avocat de la plaignante, maître Jérôme Karsenti, se réjouit que l'instruction suive son cours."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Édouard Philippe, lui, avait dit fin mai qu'il n'avait pas enfreint la loi et qu'il était innocent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. À retenir : l'enquête continue, et Édouard Philippe est présumé innocent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Direction l'Assemblée nationale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, c'était la journée réservée au groupe LFI. Ce qu'on appelle une niche parlementaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une niche, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une journée où un groupe choisit lui-même l'ordre du jour. Et ce jour-là, trois textes ont été adoptés en première lecture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le premier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il crée un corps de fonctionnaires de catégorie B pour environ cent quarante mille accompagnants d'élèves en situation de handicap, les AESH. La gauche a voté pour, ainsi que la plupart des députés LR."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le deuxième texte est plus technique. Il rétablit trente ans pour acquérir un bien par occupation prolongée. Outre-mer, ce délai avait été ramené à dix ans en deux mille vingt-quatre. Adopté à main levée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le troisième, sur les violences sexuelles."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il garantit une prise en charge intégrale des soins des victimes. Cent cinquante-deux voix pour, cinq contre, cent dix abstentions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, cent dix abstentions ? C'est beaucoup."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, dont le groupe Ensemble pour la République. La ministre Camille Galliard-Minier a estimé que les questions trouveraient leur réponse dans la loi intégrale, qui est en navette avec le Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a eu un texte qui n'a pas pu être voté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Celui qui prolongeait jusqu'à vingt-cinq ans l'accompagnement des jeunes sortant de l'aide sociale à l'enfance. Le RN et l'UDR avaient déposé plus de cent quarante sous-amendements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté de LFI ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mathilde Panot accuse l'extrême droite d'organiser l'obstruction. Le député RN Kevin Mauvieux répond qu'il n'y a pas d'obstruction, et reproche à LFI d'en faire autant pendant les niches des autres."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce ne sont pas encore des lois. Il faut un vote du Sénat, et ce n'est pas à l'ordre du jour pour l'instant. À retenir : trois textes adoptés à l'Assemblée, mais le Sénat n'a pas encore dit son mot."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file à Francfort, pour la Banque centrale européenne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi, la BCE a annoncé que sa présidente, Christine Lagarde, quittera ses fonctions le sept février deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors que son mandat devait durer jusqu'en octobre deux mille vingt-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Elle en a informé le Conseil des gouverneurs et le président du Conseil européen, António Costa."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et qui choisit son successeur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Conseil européen, c'est-à-dire les chefs d'État ou de gouvernement. La BCE cite l'article deux cent quatre-vingt-trois du traité sur le fonctionnement de l'Union européenne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi part-elle plus tôt ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon RTÉ, qui cite une source proche du dossier, pour pouvoir s'exprimer sur des sujets politiques. Elle, elle dit quitter l'institution avec le sentiment du devoir accompli et une BCE prête pour l'avenir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les réactions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Emmanuel Macron a exprimé sa reconnaissance. Jean-Philippe Tanguy, du RN, parle de dérive illibérale. Éric Coquerel, de LFI, dit que le président veut verrouiller la politique monétaire. Et l'eurodéputé Markus Ferber, du PPE, juge, selon RTÉ, que le signal est mauvais."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Conseil européen doit désigner un successeur. Selon António Costa, le processus commence immédiatement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : Christine Lagarde partira le sept février deux mille vingt-sept, plusieurs mois avant la fin prévue de son mandat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pour terminer, un mot de l'actualité internationale. En Israël, après les législatives du vingt-sept octobre, aucun camp n'atteint les soixante et un sièges nécessaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les chiffres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinquante-trois sièges pour le bloc de Benyamin Netanyahou, quarante-huit pour celui de Gadi Eisenkot, dix-neuf pour les partis arabes. Sur cent vingt sièges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-29",
   "url": "/podcasts/essentiel-2026-10-29.mp3",

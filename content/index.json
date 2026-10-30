@@ -1,5 +1,276 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-30",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "JUSTICE",
+    "titre": "Philippe : témoin assisté dans l'enquête sur Le Havre Seine Métropole",
+    "court": "Philippe : témoin assisté dans l'enquête du Havre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg/1280px-Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Place de l'Hôtel de Ville du Havre avec ses fontaines (illustration)",
+    "chapeau": "Jeudi 29 octobre, Édouard Philippe, maire du Havre, ancien Premier ministre et candidat Horizons à la présidentielle de 2027, a été entendu toute la journée par deux juges d'instruction financiers. Il a été placé sous le statut de témoin assisté, moins incriminant que la mise en examen.",
+    "eclairage": "Que change le statut de témoin assisté ?",
+    "chiffres": [
+     {
+      "valeur": "29/10",
+      "legende": "audition des juges"
+     },
+     {
+      "valeur": "2",
+      "legende": "juges d'instruction financiers"
+     },
+     {
+      "valeur": "3",
+      "legende": "chefs visés par l'enquête"
+     }
+    ],
+    "passe": "Jeudi 29 octobre, Édouard Philippe, maire du Havre, ancien Premier ministre et candidat Horizons à la présidentielle de 2027, a été entendu toute la journée par deux juges d'instruction financiers. Il a été placé sous le statut de témoin assisté, moins incriminant que la mise en examen. L'information judiciaire porte sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de la communauté Le Havre Seine Métropole. Le Parquet national financier avait mené des perquisitions en avril 2024. L'enquête est née de plaintes de Cornelia Findeisen, ancienne directrice générale adjointe, déposées en 2023 puis en 2025 avec constitution de partie civile. Ce statut peut évoluer si de nouveaux éléments apparaissent. Il s'agit d'une enquête en cours : Édouard Philippe est présumé innocent.",
+    "points": [],
+    "explication": "Témoin assisté : statut intermédiaire, entre simple témoin et mis en examen. La personne est entendue par les juges mais n'est pas mise en examen. Mise en examen : étape où les juges estiment qu'il existe des indices d'une infraction. Le statut peut changer au fil de l'enquête. Présomption d'innocence : personne n'est considéré comme coupable avant un jugement définitif.",
+    "chronologie": [
+     {
+      "quand": "2023",
+      "texte": "Plainte de Cornelia Findeisen."
+     },
+     {
+      "quand": "AVRIL 2024",
+      "texte": "Perquisitions menées par le Parquet national financier."
+     },
+     {
+      "quand": "2025",
+      "texte": "Plainte avec constitution de partie civile."
+     },
+     {
+      "quand": "29 OCT. 2026",
+      "texte": "Audition d'Édouard Philippe et statut de témoin assisté."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html",
+      "nom": "franceinfo (avec AFP)"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261029-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds-publics-%C3%A9douard-philippe-plac%C3%A9-sous-le-statut-de-t%C3%A9moin-assist%C3%A9",
+      "nom": "France 24 (dépêche AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-70bf56a082941f0d32ab3e1723dd1e69",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Édouard Philippe",
+      "contexte": "maire du Havre, candidat à la présidentielle",
+      "texte": "Fin mai, il déclarait : « Je n'ai pas enfreint la loi et je suis innocent »",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AVOCAT",
+      "qui": "Emmanuel Marsigny",
+      "contexte": "avocat d'Édouard Philippe",
+      "texte": "Il se « félicite de cette décision favorable », qui confirme selon lui qu'il n'y a rien à reprocher à son client.",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AVOCAT",
+      "qui": "Jérôme Karsenti",
+      "contexte": "avocat de la plaignante, Cornelia Findeisen",
+      "texte": "Il se réjouit que l'instruction suive son cours et dit vouloir comprendre la motivation des juges.",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "L'instruction se poursuit ; aucune date de fin n'est annoncée dans les articles cités.",
+    "change": "Rien ne dit, à ce stade, quelle suite les juges donneront au dossier. Le statut de témoin assisté ne constitue ni une condamnation ni un abandon des poursuites.",
+    "credit": {
+     "auteur": "Marc Ryckaert",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ASSEMBLÉE",
+    "titre": "Niche LFI : trois textes adoptés à l'Assemblée, un autre bloqué",
+    "court": "Niche LFI : trois textes adoptés, un bloqué",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vote_solennel_loi_mariage_23042013_13.jpg/1280px-Vote_solennel_loi_mariage_23042013_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "legende": "Députés dans l'hémicycle de l'Assemblée nationale lors d'un vote (illustration)",
+    "chapeau": "Jeudi 29 octobre, lors de sa journée réservée à l'Assemblée nationale, le groupe LFI-NFP a fait adopter en première lecture trois textes.",
+    "eclairage": "C'est quoi une niche parlementaire ?",
+    "chiffres": [
+     {
+      "valeur": "152",
+      "legende": "voix pour (soins VSS)"
+     },
+     {
+      "valeur": "5",
+      "legende": "voix contre"
+     },
+     {
+      "valeur": "110",
+      "legende": "abstentions"
+     }
+    ],
+    "passe": "Jeudi 29 octobre, lors de sa journée réservée à l'Assemblée nationale, le groupe LFI-NFP a fait adopter en première lecture trois textes. Le premier crée un corps de fonctionnaires de catégorie B pour les quelque 140 000 accompagnants d'élèves en situation de handicap (AESH) ; la gauche et la plupart des députés LR ont voté pour. Le deuxième rétablit un délai de 30 ans pour acquérir un bien par occupation prolongée, y compris outre-mer, où il avait été ramené à 10 ans en 2024 ; il a été adopté à main levée. Le troisième garantit une prise en charge intégrale des soins des victimes de violences sexuelles, par 152 voix contre 5 et 110 abstentions. Un texte prolongeant jusqu'à 25 ans l'accompagnement des jeunes sortant de l'aide sociale à l'enfance n'a pas été voté : le RN et l'UDR avaient déposé plus de 140 sous-amendements. Les textes suivants, dont une hausse du Smic à 1 700 euros, n'ont pas été examinés. La séance s'est achevée à minuit.",
+    "points": [],
+    "explication": "Niche parlementaire : journée où un groupe de l'Assemblée fixe lui-même l'ordre du jour, selon l'article 48 du règlement. Première lecture : le texte adopté doit encore être examiné par le Sénat ; ce n'est pas encore une loi. Sous-amendement : modification d'un amendement ; en déposer beaucoup allonge les débats, et la séance s'arrête à minuit.",
+    "chronologie": [
+     {
+      "quand": "13 OCT.",
+      "texte": "L'Assemblée adopte la loi intégrale contre les violences sexistes et sexuelles."
+     },
+     {
+      "quand": "21 OCT.",
+      "texte": "Les textes de la niche sont examinés en commission."
+     },
+     {
+      "quand": "29 OCT.",
+      "texte": "Trois textes adoptés en séance."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/violences-sexuelles-l-assemblee-vote-un-texte-de-lfi-sur-la-prise-en-charge-integrale",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.france24.com/fr/info-en-continu/20261029-des-textes-moins-clivants-et-deux-victoires-pour-lfi-%C3%A0-l-assembl%C3%A9e",
+      "nom": "France 24 (dépêche AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/immobilier/actualites/des-textes-moins-clivants-et-deux-victoires-pour-lfi-a-l-assemblee-95c56aca7bc6356526383cb51cf66940",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/journee-reservee-du-groupe-lfi-nfp-examen-de-plusieurs-propositions-de-loi",
+      "nom": "Assemblée nationale"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Mathilde Panot",
+      "contexte": "présidente du groupe",
+      "texte": "Elle a dénoncé « la honte » et accusé l'extrême droite d'organiser l'obstruction avec l'appui de macronistes.",
+      "url": "https://www.france24.com/fr/info-en-continu/20261029-des-textes-moins-clivants-et-deux-victoires-pour-lfi-%C3%A0-l-assembl%C3%A9e",
+      "source": "France 24 (AFP)"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Kevin Mauvieux",
+      "contexte": "député",
+      "texte": "Il nie toute obstruction et dit vouloir corriger un texte « plein de lacunes ».",
+      "url": "https://www.france24.com/fr/info-en-continu/20261029-des-textes-moins-clivants-et-deux-victoires-pour-lfi-%C3%A0-l-assembl%C3%A9e",
+      "source": "France 24 (AFP)"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Camille Galliard-Minier",
+      "contexte": "ministre",
+      "texte": "Elle critique l'idée de réécrire les mêmes sujets peu après la loi intégrale et renvoie les questions à la navette de cette loi avec le Sénat.",
+      "url": "https://lcp.fr/actualites/violences-sexuelles-l-assemblee-vote-un-texte-de-lfi-sur-la-prise-en-charge-integrale",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Lionel Duparay",
+      "contexte": "député Droite républicaine",
+      "texte": "Il juge le texte une « pure opération de communication » de LFI.",
+      "url": "https://lcp.fr/actualites/violences-sexuelles-l-assemblee-vote-un-texte-de-lfi-sur-la-prise-en-charge-integrale",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Christopher Weissberg",
+      "contexte": "député Ensemble pour la République",
+      "texte": "Son groupe s'est abstenu. Il dit à LFI : « il faudra accepter qu'une réforme ambitieuse se construise avec d'autres ».",
+      "url": "https://lcp.fr/actualites/violences-sexuelles-l-assemblee-vote-un-texte-de-lfi-sur-la-prise-en-charge-integrale",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Les textes doivent être inscrits à l'ordre du jour du Sénat ; ce n'est pas prévu pour l'instant. Pour la loi intégrale, le gouvernement s'est engagé sur un examen au Sénat en janvier 2027.",
+    "change": "Trois textes de LFI ont passé le stade de l'Assemblée, mais aucun n'est une loi : il faut encore un vote du Sénat.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_13.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat (midterms)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Sénat : début de l'examen du budget de la Sécurité sociale 2027."
+   },
+   {
+    "jour": "7",
+    "mois": "FÉVR.",
+    "texte": "BCE : départ de Christine Lagarde (2027)."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Témoin assisté",
+    "definition": "Personne entendue par des juges d'instruction sans être mise en examen ; son statut peut évoluer."
+   },
+   {
+    "terme": "Niche parlementaire",
+    "definition": "Journée où un groupe de l'Assemblée choisit lui-même les textes examinés."
+   },
+   {
+    "terme": "Conseil européen",
+    "definition": "Instance réunissant les chefs d'État ou de gouvernement des pays de l'UE ; il nomme le président de la BCE."
+   },
+   {
+    "terme": "Knesset",
+    "definition": "Parlement israélien, composé de 120 sièges."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Christine Lagarde a annoncé qu'elle quitterait la présidence de la BCE à la fin de son mandat, en octobre 2027.",
+   "reponse": false,
+   "explication": "Faux : elle a annoncé le 29 octobre qu'elle partirait le 7 février 2027, soit plusieurs mois avant la fin de son mandat, prévue en octobre 2027."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-29",
   "minutes": 11,

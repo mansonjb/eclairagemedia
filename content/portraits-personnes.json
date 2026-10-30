@@ -1688,5 +1688,29 @@
  "Seikagaku": null,
  "Rachna T. Shroff": null,
  "Brian M. Wolpin": null,
- "Mark Levine": null
+ "Mark Levine": null,
+ "Emmanuel Marsigny": null,
+ "Jérôme Karsenti": null,
+ "Kevin Mauvieux": null,
+ "Camille Galliard-Minier": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Photo_Camille_Galliard-Minier.jpeg/250px-Photo_Camille_Galliard-Minier.jpeg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Photo_Camille_Galliard-Minier.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Photo_Camille_Galliard-Minier.jpeg",
+  "auteur": "YoussBass",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Lionel Duparay": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/12022026-P1360723_Duparay_Lionel_Wikipedia.jpg/250px-12022026-P1360723_Duparay_Lionel_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "12022026-P1360723_Duparay_Lionel_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:12022026-P1360723_Duparay_Lionel_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Christopher Weissberg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Christopher_Weissberg%2C_d%C3%A9put%C3%A9_de_la_premi%C3%A8re_circonscription_des_Fran%C3%A7ais_%C3%A9tablis_hors_de_France.jpg/250px-Christopher_Weissberg%2C_d%C3%A9put%C3%A9_de_la_premi%C3%A8re_circonscription_des_Fran%C3%A7ais_%C3%A9tablis_hors_de_France.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Christopher_Weissberg,_député_de_la_première_circonscription_des_Français_établis_hors_de_France.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Christopher_Weissberg%2C_d%C3%A9put%C3%A9_de_la_premi%C3%A8re_circonscription_des_Fran%C3%A7ais_%C3%A9tablis_hors_de_France.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY-SA 4.0"
+ }
 }
