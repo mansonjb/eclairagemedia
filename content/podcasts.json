@@ -1,5 +1,441 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-30",
+  "url": "/podcasts/essentiel-2026-10-30.mp3",
+  "taille": 8095078,
+  "duree": 675,
+  "titre": "Éclairage, l'essentiel du vendredi 30 octobre 2026",
+  "titre_episode": "Philippe témoin assisté, BCE et départ de Lagarde, TotalEnergies : l'essentiel du vendredi 30 octobre 2026",
+  "description": "Ce vendredi 30 octobre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : Édouard Philippe placé sous le statut de témoin assisté\n• Politique : trois textes de la niche LFI adoptés à l'Assemblée\n• Économie : la BCE maintient ses taux, Christine Lagarde annonce son départ\n• Économie : TotalEnergies, 8,26 milliards de dollars de résultat net au troisième trimestre\n• Santé : stent et chirurgie de la carotide n'améliorent pas la mémoire\n• Santé : le remibrutinib réduit les poussées dans la sclérose en plaques\n• Alimentation : l'avis de l'Anses sur les compléments à base de shiitaké, reishi et maïtaké\n• Alimentation : l'étude de la Commission européenne sur la fermentation de précision\n• IA et tech : Alphabet place des publicités dans le mode IA de Google\n• IA et tech : Apple propose un selfie pour prouver sa majorité\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Philippe : témoin assisté dans l'enquête sur Le Havre Seine Métropole"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Niche LFI : trois textes adoptés à l'Assemblée, un autre bloqué"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "BCE : taux maintenus à 2,50 %, Lagarde annonce son départ"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "TotalEnergies : un bénéfice net de 8,26 milliards de dollars au 3e trimestre"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Sténose carotidienne : stent et chirurgie n'améliorent pas la mémoire"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Sclérose en plaques : le remibrutinib réduit les poussées face au tériflunomide"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Shiitaké, reishi, maïtaké en compléments : l'avis de l'Anses"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Fermentation de précision : ce que dit l'étude de la Commission"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Alphabet : des pubs dans le mode IA de Google, la recherche croît de 12 %"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Apple : un selfie pour prouver qu'on est majeur, dans iOS 27.2"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce vendredi 30 octobre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et IA et tech. Dix sujets, on y va."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la justice. Jeudi, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le maire du Havre, ancien Premier ministre et candidat Horizons à la présidentielle de 2027. Il a été placé sous le statut de témoin assisté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, c'est quoi exactement ce statut ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un statut intermédiaire, entre simple témoin et mis en examen. Il est entendu par les juges, mais il n'est pas mis en examen. C'est moins incriminant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'enquête porte sur quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral, au sein de la communauté Le Havre Seine Métropole. Le Parquet national financier avait mené des perquisitions en avril 2024."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le point de départ, ce sont des plaintes de Cornelia Findeisen, ancienne directrice générale adjointe, déposées en 2023, puis en 2025."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour situer : cette plainte est née en 2023, et la constitution de partie civile date de 2025. L'instruction se poursuit, et aucune date de fin n'est annoncée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Du côté de l'avocat d'Édouard Philippe, on se félicite d'une décision favorable. L'avocat de la plaignante, lui, se réjouit que l'instruction suive son cours."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : ce statut n'est ni une condamnation ni un abandon des poursuites, et Édouard Philippe reste présumé innocent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor : l'Assemblée nationale. Jeudi, c'était la journée réservée au groupe LFI, ce qu'on appelle une niche parlementaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une journée où un groupe fixe lui-même l'ordre du jour. Et ce jour-là, trois textes ont été adoptés en première lecture."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le premier crée un corps de fonctionnaires de catégorie B pour environ cent quarante mille accompagnants d'élèves en situation de handicap."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le deuxième rétablit un délai de trente ans pour acquérir un bien par occupation prolongée, y compris outre-mer, où il était tombé à dix ans en 2024."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les deux premiers textes ont obtenu une large adhésion : la gauche et la plupart des députés LR ont voté pour le corps de fonctionnaires des accompagnants."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le troisième garantit une prise en charge intégrale des soins des victimes de violences sexuelles : cent cinquante-deux voix pour, cinq contre, cent dix abstentions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, et un quatrième texte, sur les jeunes sortant de l'aide sociale à l'enfance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il n'a pas été voté. Le RN et l'UDR avaient déposé plus de cent quarante sous-amendements. La séance s'arrête à minuit, donc la hausse du Smic à mille sept cents euros n'a même pas été examinée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mathilde Panot a dénoncé une obstruction. Le RN dit qu'il voulait corriger un texte plein de lacunes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Du côté de LR, un député juge le texte une opération de communication. Le groupe Renaissance, lui, s'est abstenu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce qu'il faut retenir : trois textes ont franchi l'Assemblée, mais aucun n'est une loi. Il faut encore un vote du Sénat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une double annonce à la Banque centrale européenne, la BCE."
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'abord, les taux. Elle les a laissés inchangés : deux virgule cinq pour cent pour le taux de dépôt. C'est une pause après deux hausses, en juin et en septembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi cette prudence ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que l'inflation de la zone euro a atteint trois virgule huit pour cent en septembre, contre trois virgule deux en août, pour une cible de deux. Et les prix de l'énergie ont continué d'augmenter."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le même jour, Christine Lagarde annonce son départ."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle quittera la présidence de la BCE le 7 février 2027, environ neuf mois avant la fin de son mandat. Emmanuel Macron demande une transition ordonnée et équilibrée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les emprunteurs, ils sentent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour eux, les taux restent à leur niveau de septembre. Mais la BCE note que les conditions de financement se sont durcies, avec une forte hausse des rendements des obligations d'État, surtout en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La BCE se réunit de nouveau en décembre, et les marchés misent largement sur une hausse. Le Conseil européen doit aussi désigner le successeur de Christine Lagarde."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une pause sur les taux, un départ à venir : voilà pour la BCE. Restons dans l'économie, avec des résultats records."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ceux de TotalEnergies. Un résultat net de huit virgule vingt-six milliards de dollars au troisième trimestre, contre trois virgule soixante-huit un an plus tôt. Soit plus cent vingt-quatre pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. D'où vient cette hausse ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Du prix du pétrole. Le Brent a coûté en moyenne quatre-vingt-dix-sept dollars le baril, contre soixante-neuf un an plus tôt. Et le raffinage a explosé : environ trois virgule cinq milliards de dollars, contre six cent quatre-vingt-sept millions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le patron, Patrick Pouyanné, parle d'un trimestre record pour l'aval, c'est-à-dire le raffinage, la chimie et la distribution."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les analystes attendaient un résultat net ajusté de huit virgule sept à huit virgule neuf milliards. Le groupe a publié neuf virgule un milliards."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le troisième acompte sur dividende est fixé à quatre-vingt-dix centimes d'euro par action, en hausse de cinq virgule neuf pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'essentiel : cette hausse vient surtout de prix de l'énergie et de marges de raffinage que le groupe ne contrôle pas."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passons à la santé, et à une question que se posent beaucoup de patients : opérer une carotide rétrécie, est-ce bon pour la mémoire ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "La carotide, c'est l'artère du cou qui amène le sang au cerveau. L'essai CREST-2, publié dans JAMA, a suivi deux mille trois cent soixante-six patients sans symptôme pendant quatre ans."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les uns avaient un traitement médical intensif seul. Les autres, ce traitement plus un stent, ou une endartériectomie, l'opération qui retire la plaque."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq tests de mémoire, d'attention et de fonctions exécutives, passés chaque année. Et plus de quatre-vingt-onze pour cent des patients les ont réalisés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucune différence significative sur les tests de mémoire, d'attention et de fonctions exécutives. L'écart de score est de zéro virgule zéro trois avec le stent, zéro virgule zéro deux avec la chirurgie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, ces gestes ne rendent pas plus malin."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Mais attention : cela ne remet pas en cause leur rôle contre l'AVC. La décision repose sur le risque d'AVC, pas sur l'espoir d'améliorer la mémoire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre sujet : la sclérose en plaques. Un comprimé, le remibrutinib, a été testé contre le tériflunomide."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux essais de phase 3, dans The Lancet, avec deux mille sept adultes. Les poussées par an baissent de trente-cinq pour cent dans le premier essai, trente et un pour cent dans le second."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est une comparaison avec un traitement déjà utilisé, pas avec un placebo."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement, un test plus exigeant. Côté sécurité, des enzymes du foie élevées chez deux pour cent des patients sous remibrutinib, contre sept virgule quatre pour cent sous tériflunomide."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais il y a des limites ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'effet sur le handicap est seulement nominal, les essais sont financés par Novartis, et le médicament n'est pas autorisé dans cette maladie. Novartis prévoit de demander une autorisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le risque de progression du handicap à six mois baisse de vingt-neuf pour cent, mais ce résultat n'est pas corrigé pour la multiplicité des tests."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : des résultats prometteurs, mais rien n'est disponible avant plusieurs années."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On file maintenant dans l'assiette, avec un avis de l'Anses sur les compléments alimentaires à base de champignons."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Shiitaké, reishi, maïtaké. L'agence s'appuie sur trente-huit cas de nutrivigilance entre 2009 et 2024, et soixante-six publications scientifiques."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour le shiitaké, elle retient un risque d'effets cutanés et digestifs. Pour le reishi, des effets sur le foie et le sang."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le maïtaké ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un manque de données, et seulement deux cas rapportés. Par prudence, ces compléments sont déconseillés aux femmes enceintes ou allaitantes, aux enfants et aux adolescents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Précision importante : l'avis porte sur les compléments, pas sur le champignon cuisiné."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il n'interdit rien. Il n'existe ni en France ni dans l'Union européenne de règle propre aux champignons dans les compléments. L'Anses appelle à une harmonisation européenne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'agence invite aussi consommateurs et professionnels de santé à signaler tout effet indésirable."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qu'il faut retenir : rien ne change dans les rayons, mais l'avis donne une base pour encadrer ces produits."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, des protéines fabriquées dans des cuves. La Commission européenne a fait réaliser une étude sur la fermentation de précision."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le principe : des micro-organismes cultivés dans des fermenteurs produisent des protéines. En précision, on programme le micro-organisme pour fabriquer une protéine précise."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'étude regarde l'effet sur les agriculteurs et les zones rurales. Selon Agra, elle conclut que l'impact à moyen terme sur l'agriculture conventionnelle devrait rester limité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec même des opportunités pour le secteur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cette étude vient d'une direction de la Commission, et elle examine les agriculteurs comme les zones rurales, sur le moyen et le long terme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un chiffre pour situer l'enjeu : les entreprises de fermentation ont capté quatre-vingt-quatre pour cent du financement privé des protéines alternatives au premier semestre 2026, selon l'ONG GFI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attention, le texte complet de l'étude n'a pas pu être consulté, et sa date de publication varie selon les sources."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'essentiel : selon les informations disponibles, cette technologie ne bouleverserait pas l'agriculture conventionnelle à moyen terme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : IA et tech. Chez Alphabet, la maison mère de Google, le chiffre d'affaires atteint cent vingt-sept virgule six milliards de dollars, en hausse de vingt-cinq pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Google Cloud fait un bond de cent trois pour cent, à trente virgule sept milliards. La recherche progresse de douze pour cent, contre dix-sept au deuxième trimestre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la grande nouveauté, ce sont les publicités dans le mode IA de la recherche."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce mode, c'est celui où l'on dialogue avec Google par questions successives. Des annonces « Sponsored » arrivent sur dix nouveaux marchés, dont l'Inde, le Canada et l'Australie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Puis le Brésil, le Mexique et le Royaume-Uni au quatrième trimestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le directeur commercial de Google, le taux de clic y est déjà comparable à celui des résultats non sponsorisés. Mais c'est un chiffre de l'entreprise."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sundar Pichai, le patron, décrit des requêtes plus longues, personnalisées et multimodales. Une recherche sur cinq dans ce mode utilise la voix, l'image ou un document."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre fait : la trésorerie disponible est négative de neuf virgule un milliards, car Alphabet construit des centres de données."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : Google place des annonces dans les réponses de l'IA, pour suivre la façon dont on cherche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet : chez Apple, un selfie pour prouver qu'on est majeur, avec iOS 27.2."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'utilisateur centre son visage, puis tourne lentement la tête à droite, à gauche, en haut et en bas. Quatre angles sont capturés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un modèle d'estimation de l'âge analyse l'image sur l'appareil et sur Private Cloud Compute, le service de calcul distant d'Apple."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Attention : estimer un âge, ce n'est pas identifier une personne. Apple dit que le selfie n'est accessible à personne et qu'il est supprimé après la confirmation. C'est une déclaration de l'entreprise, sans audit indépendant cité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une fois la majorité confirmée, il n'y a pas à recommencer. Et les mineurs peuvent devoir rejoindre un groupe de partage familial avec un adulte déjà vérifié."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et c'est où ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Australie, Brésil, Singapour, Corée du Sud, Royaume-Uni et Texas. La France ne figure pas dans la liste donnée par Apple."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qu'il faut retenir : le contrôle d'âge passe de plus en plus par le système du téléphone."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà pour l'essentiel du jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de nous avoir écoutés. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-30",
   "url": "/podcasts/politique-2026-10-30.mp3",
