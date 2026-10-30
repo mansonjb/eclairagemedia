@@ -126,3 +126,651 @@ Christine Lagarde a annoncé qu'elle quitterait la présidence de la BCE à la f
 Réponse : faux. Faux : elle a annoncé le 29 octobre qu'elle partirait le 7 février 2027, soit plusieurs mois avant la fin de son mandat, prévue en octobre 2027.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+vendredi 30 octobre 2026 · 13 min de lecture
+
+1. BCE : taux maintenus à 2,50 %, Lagarde annonce son départ
+
+MARCHÉS
+
+2,50 : taux de dépôt de la BCE, en %
+
+3,8 % : inflation de la zone euro en septembre
+
+7 fév. : départ annoncé de Lagarde (2027)
+
+Ce qui s'est passé
+
+Jeudi 29 octobre, la Banque centrale européenne (BCE) a laissé ses trois taux directeurs inchangés : 2,50 % pour la facilité de dépôt, 2,65 % pour les opérations de refinancement et 2,90 % pour la facilité de prêt marginal. C'est une pause après deux hausses, en juin et en septembre. La BCE indique que les prix de l'énergie ont continué d'augmenter, ce qui accroît les risques à la hausse pour l'inflation et à la baisse pour la croissance. L'inflation de la zone euro s'est établie à 3,8 % en septembre, contre 3,2 % en août, pour une cible de 2 %. La BCE note aussi que les conditions de financement se sont durcies depuis septembre, avec une forte hausse des rendements des obligations d'État, surtout en France. Le même jour, Christine Lagarde a annoncé qu'elle quitterait la présidence de la BCE le 7 février 2027, environ neuf mois avant la fin de son mandat.
+
+L'éclairage
+
+Pourquoi relever les taux quand les prix montent à cause de l'énergie ?
+
+Le taux directeur est le prix auquel les banques empruntent à la banque centrale ; il se répercute sur tous les crédits. Le relever rend l'emprunt plus cher, donc freine la dépense et, à terme, les prix. Quand la hausse vient de l'énergie, la BCE ne peut pas faire baisser le pétrole. Elle surveille surtout les effets de second tour : des salaires et des prix qui montent à leur tour pour compenser. Selon Reuters, l'inflation sous-jacente (hors énergie) est « globalement stable » pour l'instant. Le risque est de freiner une économie déjà fragile : c'est pourquoi la BCE parle d'une approche « mesurée ». Les emprunteurs (ménages, entreprises, États) sont les premiers concernés, car le coût de leurs crédits suit les taux.
+
+Ce qui change
+
+Pour les emprunteurs, les taux restent à leur niveau de septembre, mais les conditions de financement se sont durcies et la BCE s'attend à ce que cela pèse sur la croissance et l'inflation.
+
+Et après
+
+La BCE se réunit de nouveau en décembre ; selon Investing.com et Reuters, les marchés misent largement sur une hausse à ce moment. Le Conseil européen doit désigner le successeur de Christine Lagarde ; son président, Antonio Costa, indique que le processus est lancé.
+
+Sources : Reuters via Boursorama · Investing.com · Echos Plus · Option Finance (inflation)
+
+2. TotalEnergies : un bénéfice net de 8,26 milliards de dollars au 3e trimestre
+
+ÉNERGIE
+
+8,26 : Md$ de résultat net (+124 %)
+
+9,1 : Md$ de résultat net ajusté
+
+0,90 € : 3e acompte sur dividende (+5,9 %)
+
+Ce qui s'est passé
+
+Jeudi 29 octobre, TotalEnergies a publié un résultat net part du groupe de 8,26 milliards de dollars pour le troisième trimestre, contre 3,68 milliards un an plus tôt, soit +124 %. Le résultat net ajusté, qui exclut les éléments non récurrents, atteint 9,1 milliards de dollars ; les analystes interrogés par Visible Alpha attendaient 8,73 milliards, selon ABC Bourse, et ceux cités par RBC 8,9 milliards. Le Brent a coûté en moyenne 97 dollars le baril sur le trimestre, contre 69,1 dollars un an plus tôt. Le raffinage-chimie a dégagé un résultat d'environ 3,5 à 3,6 milliards de dollars selon les sources, contre 687 millions un an plus tôt, avec des marges de raffinage européennes multipliées par quatre. La marge brute d'autofinancement s'élève à 12,25 milliards de dollars. Le groupe a fixé le troisième acompte sur dividende 2026 à 0,90 euro par action.
+
+L'éclairage
+
+Pourquoi un pétrolier gagne plus quand le baril monte, et encore plus avec le raffinage
+
+Un groupe pétrolier a deux métiers. En amont, il produit du pétrole et du gaz : plus le prix de vente monte, plus il encaisse pour chaque baril. En aval, il raffine : il achète du brut et vend du diesel, de l'essence ou du kérosène. La marge de raffinage est l'écart entre les deux. Ce trimestre, cet écart a été très large en Europe, ce qui explique la part du raffinage dans la hausse. Résultat net ou ajusté ? Le net inclut les variations de valeur des stocks et les éléments exceptionnels ; l'ajusté les retire pour mieux comparer les trimestres. Dividende ou rachats d'actions ? Ce sont deux façons de reverser de l'argent aux actionnaires : le premier est versé en espèces, les seconds réduisent le nombre d'actions.
+
+Ce qui change
+
+Pour le groupe, la hausse du résultat vient surtout de prix de l'énergie plus élevés et de marges de raffinage exceptionnelles, deux facteurs qu'il ne contrôle pas. Pour les actionnaires, le dividende trimestriel augmente de 5,9 %.
+
+Et après
+
+Les prochains résultats trimestriels diront si les marges de raffinage européennes restent aussi élevées. Le groupe a indiqué que la production d'hydrocarbures a légèrement reculé sur un an, à cause du conflit au Moyen-Orient.
+
+Sources : dépêche AFP via Boursorama · ABC Bourse · BFM Bourse · MoneyVox
+
+3. Renault : chiffre d'affaires en hausse de 1,5 %, ventes de véhicules en baisse de 6 %
+
+INDUSTRIE
+
+11,6 : Md€ de chiffre d'affaires (+1,5 %)
+
+-6 % : ventes de véhicules (497 799)
+
+25,8 % : part des électriques dans les ventes
+
+Ce qui s'est passé
+
+Jeudi 29 octobre, Renault Group a publié un chiffre d'affaires de 11,6 milliards d'euros pour le troisième trimestre, en hausse de 1,5 % sur un an. Les ventes de véhicules reculent de 6 %, à 497 799 unités : la marque Renault perd 2,9 % et Dacia 12,8 %. L'activité automobile est stable à 9,8 milliards d'euros ; Mobilize Financial Services, la branche de financement, progresse de 11 % à 1,76 milliard. Selon Les Échos, cité par le Journal de l'Automobile, le chiffre d'affaires serait stable sans cette branche. Les ventes de voitures électriques augmentent de 84,7 % et représentent 25,8 % des ventes. Le groupe confirme ses objectifs 2026 : une marge opérationnelle d'environ 5,5 % du chiffre d'affaires et un flux de trésorerie libre de l'automobile d'environ 1 milliard d'euros. À la Bourse de Paris, l'action a gagné 6,91 %, à 28,17 euros, la plus forte hausse du CAC 40.
+
+L'éclairage
+
+Pourquoi le chiffre d'affaires monte quand on vend moins de voitures
+
+Le chiffre d'affaires est le total des ventes. Il dépend de deux choses : le volume (combien de voitures) et le prix moyen par voiture, selon le modèle et la version vendus. Renault vend moins de véhicules, mais le groupe encaisse plus, notamment grâce à Mobilize Financial Services : cette branche finance les achats des clients et gagne de l'argent sur les intérêts. La marge opérationnelle est la part du chiffre d'affaires qui reste après les coûts de fonctionnement : 5,5 % veut dire 5,50 € pour 100 € de ventes. Le flux de trésorerie libre est l'argent réellement encaissé après les investissements. La concurrence pèse sur les volumes : le Journal de l'Automobile cite l'arrivée de marques chinoises face à Dacia sur le segment C.
+
+Ce qui change
+
+Pour le groupe, la part des voitures électriques dans les ventes a gagné 12,2 points en un an. Pour les actionnaires, les objectifs annuels sont confirmés, ce qui a fait monter le cours jeudi.
+
+Et après
+
+Au second semestre, le groupe prévoit une légère amélioration de sa marge par rapport au premier, avec un effet saisonnier plus faible qu'habituellement à cause du coût des matières premières et de l'inflation. Il compte sur les lancements de la Mégane E-Tech renouvelée et du Trafic Van E-Tech.
+
+Sources : communiqué Renault Group · ABC Bourse · Journal de l'Automobile · L'argus · MoneyVox
+
+4. Société Générale : un bénéfice trimestriel record de 1,89 milliard d'euros
+
+ENTREPRISES
+
+1,89 : Md€ de résultat net (+24,1 %)
+
+13,0 % : rentabilité (ROTE), cible 2026 : ~11 %
+
+57,1 % : coefficient d'exploitation
+
+Ce qui s'est passé
+
+Jeudi 29 octobre, Société Générale a publié un résultat net part du groupe de 1 888 millions d'euros pour le troisième trimestre, en hausse de 24,1 % sur un an et un record pour un trimestre. Sur neuf mois, il atteint 5 374 millions d'euros (+17,3 %). Le produit net bancaire, c'est-à-dire le chiffre d'affaires de la banque, s'élève à 7 173 millions d'euros (+7,8 %). La rentabilité des fonds propres tangibles (ROTE) est de 13,0 % sur le trimestre, au-dessus de la cible d'environ 11 % pour 2026. Le coefficient d'exploitation, qui rapporte les coûts aux revenus, tombe à 57,1 % contre 61,0 % un an plus tôt. Le résultat dépasse les attentes des analystes, dont la médiane était de 1,65 milliard selon France Épargne. L'action a gagné 0,74 % jeudi, à 62,41 euros.
+
+L'éclairage
+
+Comment une banque gagne de l'argent, et ce que mesure le ROTE
+
+Une banque gagne de l'argent de trois façons : l'écart entre les intérêts qu'elle perçoit sur les crédits et ceux qu'elle verse sur les dépôts (la marge d'intérêt), les commissions sur ses services, et ses activités de marché (acheter et vendre des titres pour ses clients). Le ROTE mesure le bénéfice rapporté aux fonds propres de la banque, sans compter les actifs immatériels : 13 % veut dire 13 € de bénéfice annuel pour 100 € de fonds propres. Le coefficient d'exploitation est la part des revenus absorbée par les coûts : plus il baisse, plus la banque garde de revenus.
+
+Ce qui change
+
+Pour les actionnaires, le groupe a provisionné 3,42 euros de dividende par action à fin septembre, sur la base d'un taux de distribution de 50 %. Pour les salariés, les résultats servent d'argument aux syndicats dans les négociations salariales.
+
+Et après
+
+La banque vise un ROTE de 13 à 14 % en 2029 et un coefficient d'exploitation inférieur à 60 % en 2026. Les négociations salariales annuelles s'ouvrent en novembre et en décembre.
+
+Sources : communiqué Société Générale · Zonebourse · Boursorama · France Épargne
+
+Les mots du jour
+
+Effets de second tour
+Quand une hausse des prix, comme celle de l'énergie, se diffuse aux salaires puis aux autres prix, et entretient l'inflation.
+Marge de raffinage
+Écart entre le prix des produits raffinés (diesel, essence) et celui du pétrole brut acheté pour les fabriquer.
+Résultat net ajusté
+Bénéfice dont on retire les éléments non récurrents, comme les variations de valeur des stocks, pour comparer les trimestres.
+ROTE
+Rentabilité des fonds propres tangibles : le bénéfice annuel rapporté aux fonds propres d'une banque, hors actifs immatériels.
+
+Vrai ou faux ?
+
+Jeudi 29 octobre 2026, la BCE a relevé son taux de dépôt de 2,50 % à 2,75 %.
+
+Réponse : faux. La BCE a laissé ses taux inchangés : le taux de dépôt reste à 2,50 %, après deux hausses en juin et en septembre.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+vendredi 30 octobre 2026 · 12 min de lecture
+
+1. Sténose carotidienne : stent et chirurgie n'améliorent pas la mémoire
+
+CHIRURGIE
+
+2 366 : patients de l'essai CREST-2
+
+0,02 : écart du score cognitif à 4 ans (chirurgie)
+
+4 ans : de suivi des tests
+
+Ce qui s'est passé
+
+JAMA a publié les résultats cognitifs de l'essai CREST-2, dirigé par Ronald Lazar et James Meschia. L'étude porte sur 2 366 patients de 35 ans et plus, atteints d'un rétrécissement serré (70 % ou plus) d'une artère carotide, sans symptôme. Deux essais randomisés ont comparé un traitement médical intensif seul à ce traitement associé soit à la pose d'un stent, soit à une endartériectomie (opération qui retire la plaque de l'artère). Cinq tests de mémoire, d'attention et de fonctions exécutives ont été réalisés chaque année pendant 4 ans ; 2 165 patients (91,5 %) les ont passés. À 4 ans, le score cognitif moyen ne différait pas de façon significative : 0,22 avec stent contre 0,18 sans (écart de 0,03), et 0,25 avec endartériectomie contre 0,23 sans (écart de 0,02). Une sous-étude, CREST-H, a regardé si le résultat changeait quand le débit sanguin cérébral était réduit au départ : selon TCTMD, ce n'est pas le cas.
+
+L'éclairage
+
+Ce que l'essai ne dit pas
+
+La carotide est l'artère du cou qui amène le sang au cerveau. Quand elle est rétrécie, on peut la rouvrir par chirurgie (endartériectomie) ou avec un stent, un petit tube métallique. Ces gestes sont proposés avant tout pour prévenir l'AVC. L'essai pose une autre question : rouvrir l'artère aide-t-il aussi la mémoire ? La réponse est non, et cela ne remet pas en cause le rôle de ces gestes contre l'AVC. Le tirage au sort rend les groupes comparables, ce qui donne du poids au résultat, mais seuls des patients sans symptômes ont été étudiés. Selon TCTMD, il estime que la revascularisation n'apportera pas de bénéfice clinique sur la capacité à penser ou à se souvenir (paraphrase). Selon TCTMD, leur éditorial indique que les médecins ne devraient pas dire aux patients que leurs capacités cognitives s'amélioreront après une revascularisation d'une sténose carotidienne sans symptôme (paraphrase). Aravind Ganesh déclare des financements de Microvention.
+
+Ce qu'ils en disent
+
+Selon TCTMD, il estime que la revascularisation n'apportera pas de bénéfice clinique sur la capacité à penser ou à se souvenir (paraphrase).
+Ronald Lazar (Auteurs), auteur principal
+
+Selon TCTMD, leur éditorial indique que les médecins ne devraient pas dire aux patients que leurs capacités cognitives s'amélioreront après une revascularisation d'une sténose carotidienne sans symptôme (paraphrase). Aravind Ganesh déclare des financements de Microvention.
+Eric Smith et Aravind Ganesh (Expert indépendant), éditorial dans JAMA
+
+Ce qui change
+
+Pour les patients porteurs d'une sténose carotidienne sans symptôme, la décision d'opérer ou de poser un stent repose sur le risque d'AVC, et non sur l'espoir d'améliorer la mémoire. Elle se prend avec l'équipe médicale.
+
+Et après
+
+Les auteurs de l'éditorial écrivent, selon TCTMD, que la revascularisation peut se justifier, mais pas pour améliorer la cognition. Les résultats principaux de CREST-2 sur l'AVC restent la référence pour décider.
+
+Sources : JAMA (étude originale) · TCTMD · NeurologyLive
+
+2. Sclérose en plaques : le remibrutinib réduit les poussées face au tériflunomide
+
+NEUROSCIENCES
+
+2 007 : adultes dans les deux essais
+
+−35 % : poussées par an (REMODEL-1)
+
+−31 % : poussées par an (REMODEL-2)
+
+Ce qui s'est passé
+
+The Lancet a publié le 23 octobre 2026, avec une présentation au congrès MSToronto2026, les essais REMODEL-1 et REMODEL-2, dirigés par Heinz Wiendl. Ces deux essais randomisés en double aveugle de phase 3, financés et menés avec Novartis, ont comparé le remibrutinib (un comprimé quotidien de 100 mg) au tériflunomide chez 2 007 adultes atteints de sclérose en plaques à poussées. Le taux annuel de poussées était de 0,073 contre 0,112 dans REMODEL-1 (réduction de 35,2 %, p = 0,018) et de 0,080 contre 0,116 dans REMODEL-2 (réduction de 31,2 %, p = 0,034). Le risque de progression confirmée du handicap à 6 mois baisse de 29,2 %, un résultat « nominal », c'est-à-dire non corrigé pour la multiplicité des tests. Des enzymes du foie supérieures à trois fois la normale étaient notées chez 2,0 % des patients sous remibrutinib contre 7,4 % sous tériflunomide. Deux décès sont survenus sous remibrutinib, jugés sans lien avec le traitement par les investigateurs.
+
+L'éclairage
+
+Comparer à un médicament actif, pas à un placebo
+
+La sclérose en plaques est une maladie où le système immunitaire attaque la gaine des nerfs du cerveau et de la moelle. Dans la forme « à poussées », des crises alternent avec des phases de répit. Le remibrutinib agit sur une enzyme (la BTK) impliquée dans l'activité de certaines cellules immunitaires. Ici, il n'est pas comparé à un placebo mais à un traitement déjà utilisé, le tériflunomide : c'est un test plus exigeant. En revanche, l'effet sur le handicap n'est que « nominal », et les essais, financés par le fabricant, ne comparent pas le remibrutinib aux traitements les plus puissants de la maladie. Le laboratoire indique qu'il prévoit de demander une autorisation de mise sur le marché dans la sclérose en plaques à poussées, à l'échelle mondiale.
+
+Ce qu'ils en disent
+
+« The REMODEL trial results showed that oral remibrutinib delivered a significant reduction in relapse activity »
+Heinz Wiendl (Auteurs), université de Fribourg, auteur principal
+
+Le laboratoire indique qu'il prévoit de demander une autorisation de mise sur le marché dans la sclérose en plaques à poussées, à l'échelle mondiale.
+Novartis (Industrie), promoteur des essais
+
+Ce qui change
+
+Rien n'est disponible pour cette maladie : le remibrutinib n'est pas autorisé dans la sclérose en plaques (il l'est dans l'urticaire chronique spontanée).
+
+Et après
+
+Novartis prévoit de déposer des dossiers d'autorisation et mène un essai dans la forme secondairement progressive, REMASTER. Les essais comportent une extension ouverte de 5 ans pour suivre la sécurité à long terme.
+
+Sources : The Lancet (étude originale, DOI) · Novartis (communiqué) · NeurologyLive · Multiple Sclerosis News Today
+
+3. Cancer de l'endomètre : le sacituzumab tirumotecan allonge la survie
+
+CANCER
+
+19,0 : mois de survie médiane (contre 12,1)
+
+7,2 : mois sans progression (contre 3,9)
+
+776 : patientes dans l'essai
+
+Ce qui s'est passé
+
+Le 26 octobre 2026, The Lancet a mis en ligne l'essai de phase 3 TroFuse-005 (ENGOT-en23/GOG-3095), présenté au congrès de l'ESMO. Mené par Domenica Lorusso, il a inclus 776 patientes atteintes d'un cancer de l'endomètre avancé ou récidivant, déjà traitées par une chimiothérapie à base de platine et une immunothérapie. Elles ont reçu au hasard le sacituzumab tirumotecan (sac-TMT, 386 patientes) ou la chimiothérapie choisie par le médecin, doxorubicine ou paclitaxel (390). La survie médiane est de 19,0 mois contre 12,1 mois (rapport de risque 0,68 ; IC à 95 % de 0,55 à 0,84), et la survie sans progression de 7,2 mois contre 3,9 mois. Les effets indésirables graves liés au traitement (grade 3 ou plus) touchent 54,4 % des patientes contre 41,4 %, avec plus d'anémie, d'inflammation de la bouche (54,9 % contre 14,4 %) et de sécheresse oculaire. Merck, qui développe la molécule, avait annoncé en mai 2026 que l'essai atteignait ses critères principaux.
+
+L'éclairage
+
+Un « anticorps conjugué », comment ça marche ?
+
+Le cancer de l'endomètre touche la muqueuse de l'utérus. Quand il revient après la chimiothérapie et l'immunothérapie, les options sont limitées. Le sac-TMT est un anticorps conjugué : un anticorps qui reconnaît une protéine (TROP2) à la surface des cellules cancéreuses et leur apporte une substance toxique. L'essai est ouvert (médecins et patientes savent qui reçoit quoi) mais la survie globale est un critère difficile à influencer. L'effet est net, mais les effets indésirables graves sont plus fréquents, et la comparaison porte sur deux chimiothérapies classiques. Dans son communiqué de mai 2026, le laboratoire indique que le profil de sécurité est cohérent avec les études précédentes, sans nouveau signal.
+
+Ce qu'ils en disent
+
+« The curves separate early and remain separated over time, suggesting consistent benefit »
+Domenica Lorusso (Auteurs), investigatrice principale
+
+Dans son communiqué de mai 2026, le laboratoire indique que le profil de sécurité est cohérent avec les études précédentes, sans nouveau signal.
+Merck (Industrie), promoteur de l'essai
+
+Ce qui change
+
+Pas de changement immédiat : le médicament n'est pas encore autorisé pour cette indication. Pour les patientes, les résultats dessinent une nouvelle option après chimiothérapie et immunothérapie, à discuter avec l'équipe d'oncologie.
+
+Et après
+
+Les autorités (FDA, EMA) doivent examiner les dossiers. Les effets indésirables, notamment buccaux et oculaires, devront être suivis de près.
+
+Sources : The Lancet (étude originale) · CancerNetwork · Merck (communiqué) · Targeted Oncology
+
+4. Syndrome de Sjögren : l'ianalumab réduit l'activité de la maladie
+
+RECHERCHE
+
+779 : patients dans deux essais
+
+−1,3 : point d'activité (NEPTUNUS-1)
+
+−1,0 : point d'activité (NEPTUNUS-2)
+
+Ce qui s'est passé
+
+Selon l'Université Paris-Saclay, le New England Journal of Medicine a publié le 21 octobre 2026 les essais de phase 3 NEPTUNUS-1 et NEPTUNUS-2, coordonnés par Xavier Mariette (hôpital Bicêtre, AP-HP). Ces essais évaluent l'ianalumab, un anticorps qui cible le récepteur du facteur BAFF, chez des patients atteints de syndrome de Sjögren avec une activité systémique modérée à sévère. Novartis a indiqué en 2025 que les deux essais incluaient environ 275 et 504 adultes (soit 779 au total). Par rapport au placebo, l'ianalumab réduit en plus le score d'activité de la maladie (ESSDAI) de 1,3 point dans NEPTUNUS-1 (p = 0,05) et de 1,0 point dans NEPTUNUS-2 (p = 0,03). Selon l'AP-HP, les autres critères secondaires ne sont pas significatifs, la tolérance est qualifiée de favorable, et l'effet placebo est important.
+
+L'éclairage
+
+Un effet réel mais modeste
+
+Le syndrome de Sjögren est une maladie auto-immune : le système immunitaire s'attaque notamment aux glandes qui produisent les larmes et la salive, d'où des yeux et une bouche secs, parfois des atteintes d'autres organes. Il touche environ 0,1 % de la population, surtout des femmes, selon l'AP-HP. Aucun traitement n'a jusqu'ici démontré d'efficacité spécifique. Les valeurs de p proches de 0,05 indiquent un résultat à la limite de la significativité statistique, et une réduction d'un point d'un score ne dit pas encore ce que les patients ressentent au quotidien. Le communiqué précise que d'autres critères secondaires ne sont pas significatifs. Le laboratoire indiquait en 2025 que les deux essais avaient atteint leur critère principal et prévoyait de déposer des demandes d'autorisation.
+
+Ce qu'ils en disent
+
+« Les résultats des deux études ouvrent la perspective, pour la première fois, à un traitement spécifiquement indiqué »
+AP-HP (Autorité de santé), communiqué
+
+Le laboratoire indiquait en 2025 que les deux essais avaient atteint leur critère principal et prévoyait de déposer des demandes d'autorisation.
+Novartis (Industrie), promoteur des essais
+
+Ce qui change
+
+Rien n'est disponible : l'ianalumab n'est pas autorisé dans cette maladie. Si les autorités l'approuvaient, ce serait le premier traitement spécifiquement indiqué, pour les formes avec activité systémique. Horizon : pas encore, après examen des dossiers.
+
+Et après
+
+Novartis a annoncé vouloir déposer des demandes d'autorisation dans le monde. L'ianalumab a reçu en janvier 2026 le statut de « Breakthrough Therapy » de la FDA.
+
+Sources : AP-HP (communiqué) · Université Paris-Saclay · Novartis (résultats préliminaires, 2025)
+
+À venir
+
+- ? date : Remibrutinib dans la SEP : dépôt de dossiers d'autorisation annoncé par Novartis, date non communiquée.
+
+Les mots du jour
+
+Étude randomisée en double aveugle
+Les participants sont répartis au hasard entre les traitements, et ni eux ni les médecins ne savent qui reçoit quoi. Cela limite les biais.
+Résultat « nominal »
+Un résultat statistiquement significatif sans correction pour le grand nombre de tests réalisés. Il est moins solide qu'un critère principal.
+Survie médiane
+Le temps au bout duquel la moitié des patients sont encore en vie. C'est une durée typique, pas une promesse individuelle.
+Valeur de p
+La probabilité d'observer un tel écart par hasard si le traitement n'avait aucun effet. Plus elle est petite, moins le hasard explique le résultat.
+
+Vrai ou faux ?
+
+Dans l'essai TroFuse-005, les patientes atteintes d'un cancer de l'endomètre traitées par sacituzumab tirumotecan ont eu une survie médiane de 19,0 mois, contre 12,1 mois avec la chimiothérapie.
+
+Réponse : vrai. C'est vrai : l'essai de phase 3 (776 patientes) rapporte 19,0 mois contre 12,1 mois (rapport de risque 0,68), mais avec plus d'effets indésirables graves (54,4 % contre 41,4 %), selon CancerNetwork.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+vendredi 30 octobre 2026 · 7 min de lecture
+
+1. Pont d'Oléron : la concertation sur le péage est prolongée d'une semaine
+
+DÉPARTEMENT
+
+16 nov. : nouvelle date de clôture (9 nov. avant)
+
+55-72 M€ : à trouver pour la réhabilitation (ICI)
+
+1966 : mise en service, pont payant jusqu'en 1991
+
+Ce qui s'est passé
+
+Le Département de la Charente-Maritime, propriétaire du pont qui relie l'île d'Oléron au continent, a prolongé d'une semaine la concertation lancée le 9 octobre : elle se termine le 16 novembre 2026 au lieu du 9 novembre. Le visio-tchat prévu le 6 novembre est déplacé au lundi 9 novembre, de 18 h à 19 h. La réunion de clôture a lieu le lundi 16 novembre à 18 h 30, salle Le Sémaphore, à Bourcefranc-le-Chapus, et non plus le 9 novembre à Saint-Pierre-d'Oléron. Un questionnaire porte sur un éventuel péage : sa finalité, l'affectation des recettes, la tarification, les modes de perception et de paiement. Selon ICI, le Département doit trouver entre 55 et 72 millions d'euros pour réhabiliter l'ouvrage, une fourchette que le site de la concertation ne détaille pas. Un bilan sera rédigé par la tierce experte et publié sur le site du Département.
+
+- Le pont appartient au Département. C'est donc le conseil départemental qui décidera, et non la communauté de communes de l'île ni l'État.
+- Une concertation recueille des avis avant la décision ; elle ne vaut pas vote. Le Département indique qu'un bilan sera publié.
+- Le pont a déjà été payant : un péage avait été instauré pour financer sa construction et rembourser l'emprunt. Il l'a été de 1966 à 1991, selon ICI.
+
+L'éclairage
+
+Qui décide du péage ?
+
+Ce qu'ils en disent
+
+Écrit que le pont a besoin d'une « restauration d'ampleur » et que le péage de départ avait servi à financer sa construction. Il demande l'avis du public sur un éventuel péage.
+Département de la Charente-Maritime (Département), propriétaire du pont
+
+S'est prononcée en juin 2026 pour le retour d'un péage, selon ICI. Le conseil départemental doit encore trancher.
+Île d'Oléron (Communauté de communes), conseil communautaire
+
+Une pétition demande de conserver la gratuité du pont, selon ICI.
+Pétitionnaires (Association), habitants
+
+Ce qui change
+
+Pour un habitant ou un visiteur de l'île, un péage changerait le coût de chaque traversée ; le montant, les éventuelles exonérations et l'usage des recettes ne sont pas fixés, c'est précisément l'objet du questionnaire.
+
+Et après
+
+Visio-tchat le 9 novembre (18 h), réunion de clôture le 16 novembre (18 h 30), puis bilan de la tierce experte publié par le Département, avant toute décision du conseil départemental.
+
+Sources : Département de la Charente-Maritime · site de la concertation · ICI · Demoiselle FM
+
+2. Pons : la fabrique de madeleines Colibri a arrêté ses machines
+
+ÉCONOMIE
+
+1896 : madeleines fabriquées à Pons
+
+60-68 : salariés selon les sources
+
+28 oct. : arrêt des machines
+
+Ce qui s'est passé
+
+À Pons, la production de Maison Colibri, fabricant de madeleines connu nationalement, s'est arrêtée le mercredi 28 octobre 2026, selon ICI. L'entreprise appartient au groupe breton Roullier, par sa filiale Paticeo, qui transfère la fabrication vers une usine de Derval, en Loire-Atlantique ; la marque Colibri continue d'exister. Les sources divergent sur les effectifs : 68 salariés selon l'Assemblée nationale et France 3 (décembre 2025), environ 60 selon ICI (octobre 2026), dont une poignée suivra les lignes de production. La maire de Pons, Fabienne Dugas-Raveneau, parle d'un « immense gâchis » et dit qu'un repreneur qu'elle avait trouvé n'a pas pu examiner le dossier de reprise. Elle souhaite que les collectivités rachètent les bâtiments, situés en limite du centre-ville ; selon elle, le groupe évalue les locaux à 3 millions d'euros, un montant qu'elle refuse de payer. À l'Assemblée nationale, le député de la Charente-Maritime Fabrice Barusseau (socialistes et apparentés) a interrogé le gouvernement sur cette « cessation totale d'activité ».
+
+- Quand une entreprise ferme un site, elle doit proposer un plan de sauvegarde de l'emploi (PSE) : reclassements, formations, indemnités. France 3 indiquait en décembre 2025 que ce plan était prévu pour la fin du mois.
+- Le ministre de l'Économie, Roland Lescure, a répondu au député que le groupe « doit à ses salariés des mesures de reclassement et d'accompagnement », puis que l'État s'occuperait de trouver un repreneur pour le site.
+- La commune n'a pas de pouvoir sur la décision de l'entreprise. Elle peut en revanche racheter des bâtiments : c'est la piste évoquée par la maire.
+
+L'éclairage
+
+Que doit une entreprise à ses salariés ?
+
+Ce qu'ils en disent
+
+Parle d'un « immense gâchis » et affirme que le groupe a créé les difficultés du site, par exemple par un loyer élevé pour l'usage de la marque. Elle demande que les collectivités puissent racheter les bâtiments.
+Fabienne Dugas-Raveneau (Commune), maire de Pons
+
+Décrit une « cessation totale d'activité » et interroge le gouvernement sur la protection de l'industrie agroalimentaire locale.
+Fabrice Barusseau (Ps), député de Charente-Maritime
+
+Parle d'un « véritable drame industriel » et dit que le gouvernement veillera au traitement social des salariés, puis cherchera un repreneur.
+Roland Lescure (État), ministre de l'Économie
+
+Ce qui change
+
+Pour les salariés, la fin de l'activité à Pons ; pour la ville, un site industriel en limite du centre-ville dont l'avenir reste ouvert, avec une piste de rachat par les collectivités et un projet autour de la formation professionnelle au lycée Émile-Combes, selon la maire.
+
+Et après
+
+Nettoyage du site en fin de semaine, puis discussions sur le devenir des bâtiments, dont le prix demandé par le groupe (3 millions d'euros selon la maire) est le point de désaccord. Aucune date n'est annoncée.
+
+Sources : Assemblée nationale · ICI · France 3 Nouvelle-Aquitaine
+
+À venir
+
+- 9 nov. : Pont d'Oléron : visio-tchat du Département, de 18 h à 19 h.
+- 16 nov. : Pont d'Oléron : fin de la concertation, réunion de clôture à 18 h 30 à Bourcefranc-le-Chapus.
+- 20 nov. : Angoulins-sur-Mer : fin des travaux sur le réseau d'assainissement.
+
+Les mots du jour
+
+Concertation
+Une phase où le public donne son avis avant la décision. Elle ne vaut pas vote : c'est l'assemblée concernée, ici le conseil départemental, qui décide ensuite.
+Tierce experte
+Une personne indépendante chargée de rédiger le bilan d'une concertation et de le rendre public.
+Plan de sauvegarde de l'emploi (PSE)
+Le dispositif qui encadre les licenciements collectifs d'une entreprise : mesures de reclassement, de formation et d'accompagnement des salariés.
+
+Vrai ou faux ?
+
+La concertation sur l'avenir du pont de l'île d'Oléron a été prolongée jusqu'au 16 novembre 2026.
+
+Réponse : vrai. Vrai : initialement prévue jusqu'au 9 novembre, elle dure une semaine de plus, avec une réunion de clôture le 16 novembre à Bourcefranc-le-Chapus.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+vendredi 30 octobre 2026 · 7 min de lecture
+
+1. Shiitaké, reishi, maïtaké en compléments : l'avis de l'Anses
+
+ÉTUDE
+
+38 : cas de nutrivigilance entre 2009 et 2024
+
+66 : publications retenues dans la revue
+
+~100 : cas de dermatite flagellée (shiitaké cru ou mal cuit)
+
+Ce qui s'est passé
+
+L'Agence nationale de sécurité sanitaire (Anses) a mis en ligne le 19 octobre 2026 un avis signé le 1er octobre sur les effets indésirables des compléments alimentaires contenant du shiitaké, du reishi ou du maïtaké. Elle s'était saisie du sujet le 7 septembre 2022 ; les experts ont adopté leurs conclusions le 22 mai 2026. Ils s'appuient sur 38 cas transmis au dispositif de nutrivigilance entre 2009 et 2024 et sur 66 publications scientifiques. L'agence retient un risque d'effets cutanés et digestifs pour le shiitaké, et d'effets hépatiques et hématologiques pour le reishi. Pour le maïtaké, elle relève un manque de données toxicologiques et seulement deux cas rapportés. Faute de données, ces compléments sont déconseillés aux femmes enceintes ou allaitantes, aux enfants et aux adolescents.
+
+- Un complément alimentaire est un concentré ou un extrait, vendu en gélules, ampoules ou poudre. L'avis porte sur ces produits, pas sur le champignon cuisiné. La revue de la littérature a toutefois été étendue à tous les aliments.
+- Les noms « reishi » et « maïtaké » recouvrent plusieurs espèces : au moins six pour le reishi, trois pour le maïtaké. L'Anses en conclut qu'on ne peut pas attribuer les risques à une espèce précise. Le shiitaké, lui, désigne une seule espèce, Lentinula edodes.
+- Il n'existe ni en France ni dans l'Union européenne de règle propre aux champignons dans les compléments, alors que les plantes sont encadrées en France. L'avis demande une harmonisation européenne ; il n'interdit rien et, selon l'IMEP-CNRS, aucune mesure n'a été adoptée à ce stade.
+
+L'éclairage
+
+Que dit exactement cet avis, et que ne dit-il pas ?
+
+Ce qu'ils en disent
+
+Elle recommande aux industriels et aux équipes de recherche d'identifier les champignons par séquençage génétique, d'employer la dénomination scientifique conforme au code international et de bien caractériser leurs extraits. Elle invite aussi consommateurs et professionnels de santé à signaler les effets indésirables.
+Anses (Pouvoirs publics), agence sanitaire
+
+Dans son commentaire de l'avis, l'institut souligne que les produits vendus sous un même nom peuvent contenir des espèces différentes et relève quatre cas d'atteinte hépatique dans la littérature sur le reishi.
+IMEP-CNRS (Chercheurs), institut de recherche
+
+Selon la fiche Vidal, elles ont refusé en 2012 plusieurs allégations de santé pour ces champignons, dont le soutien des défenses immunitaires pour le shiitaké et le maïtaké. La fiche date de 2014.
+EFSA et Commission européenne (Pouvoirs publics), décision de 2012
+
+Ce qui change
+
+Rien ne change à court terme dans les rayons : l'avis ne crée pas d'interdiction ni d'obligation. Il fournit aux autorités une base pour encadrer ces compléments.
+
+Et après
+
+L'Anses appelle à une harmonisation européenne des listes de champignons, des usages et des doses autorisées. Dans l'attente, les experts jugent nécessaire un cadre réglementaire français. Aucune date n'est annoncée dans les sources consultées.
+
+Sources : Anses (avis 2022-AUTO-0158) · IMEP-CNRS · Vidal
+
+2. Fermentation de précision : ce que dit l'étude de la Commission
+
+DÉCRYPTAGE
+
+- Dans les deux cas, des micro-organismes cultivés dans des cuves, les fermenteurs, produisent des protéines. La fermentation de précision programme un micro-organisme pour fabriquer une protéine précise ; la fermentation de biomasse cultive le micro-organisme lui-même, riche en protéines.
+- Le « plan protéines » de la Commission, publié en juillet, présente ces technologies comme pouvant créer de nouveaux modèles économiques circulaires pour les agriculteurs et l'industrie de l'alimentation animale, selon Green Queen.
+- Les entreprises de fermentation ont capté 84 % du financement privé des protéines alternatives au premier semestre 2026, selon l'analyse de l'ONG GFI citée par Green Queen. L'association européenne de l'insecte IPIFF a, de son côté, jugé l'étude utile mais d'un champ trop étroit.
+
+L'éclairage
+
+De quoi parle-t-on ?
+
+Acétamipride : le résultat du vote n'est pas publié. La proposition de loi de LFI visant à supprimer les dérogations prévues par la loi d'urgence agricole était inscrite à l'ordre du jour de l'Assemblée nationale le 29 octobre. Le 30 octobre à 7 h, la page NosParlementaires indiquait « Résultat en attente de publication par l'Assemblée ». Source unique : NosParlementaires Volaille : une note de l'Anses sur la pasteurisation. L'agence a publié le 28 octobre 2026 une note sur la modification de la valeur de pasteurisation VP40 pour certains produits à base de volaille, dans le cadre du risque lié aux salmonelles. Source unique : Anses C'est le nombre de cas d'effets indésirables liés à des compléments contenant du shiitaké, du reishi ou du maïtaké transmis à la nutrivigilance de l'Anses entre 2009 et 2024. Réponse : Vrai. C'est le chiffre donné dans l'avis de l'Anses signé le 1er octobre 2026 : trente-huit cas transmis à la nutrivigilance entre 2009 et 2024, auxquels s'ajoutent des signalements d'autres dispositifs de vigilance.
+
+À venir
+
+- 31 oct. : Be Veggie (jusqu'au 1er novembre) : festival végétalien à Irun, au Pays basque espagnol (vegconomist).
+- 7 nov. : Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS).
+- 9 nov. : Cadmium : fin de la consultation publique sur le projet d'arrêté du gouvernement (La France Agricole).
+
+Les mots du jour
+
+Nutrivigilance
+Dispositif de l'Anses qui recueille les effets indésirables observés après la consommation d'aliments, de compléments alimentaires ou d'aliments enrichis.
+Dermatite flagellée
+Éruption cutanée en traînées, rapportée après la consommation de shiitaké cru ou insuffisamment cuit.
+Fermentation de précision
+Technique où un micro-organisme cultivé en cuve est programmé pour fabriquer une protéine précise.
+
+Vrai ou faux ?
+
+Entre 2009 et 2024, le dispositif de nutrivigilance de l'Anses a reçu 38 signalements d'effets indésirables liés à des compléments contenant du shiitaké, du reishi ou du maïtaké.
+
+Réponse : vrai. C'est le chiffre donné dans l'avis de l'Anses signé le 1er octobre 2026 : trente-huit cas transmis à la nutrivigilance entre 2009 et 2024, auxquels s'ajoutent des signalements d'autres dispositifs de vigilance.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+vendredi 30 octobre 2026 · 11 min de lecture
+
+1. Alphabet : des pubs dans le mode IA de Google, la recherche croît de 12 %
+
+PLATEFORMES
+
++103 % : revenu de Google Cloud (30,7 Md$)
+
++12 % : revenu de la recherche (63,4 Md$)
+
+10 : marchés qui reçoivent des pubs en mode IA
+
+Ce qui s'est passé
+
+Mercredi 28 octobre, Alphabet, la maison mère de Google, a publié ses résultats du troisième trimestre 2026. Le chiffre d'affaires atteint 127,6 milliards de dollars, en hausse de 25 %. Google Cloud (location de puissance de calcul et de services d'IA aux entreprises) progresse de 103 %, à 30,7 milliards. La recherche et autres services publicitaires rapportent 63,4 milliards, en hausse de 12 %, contre 17 % au deuxième trimestre et 19 % au premier selon TechCrunch. La trésorerie disponible du trimestre est négative de 9,1 milliards de dollars et l'action a perdu environ 8 % après la publication, selon TechCrunch. Sur la recherche, Alphabet indique que la croissance annuelle du nombre de requêtes est la plus forte depuis cinq ans. Le groupe a aussi annoncé que des annonces « Sponsored » (sponsorisées) arrivent dans le mode IA de la recherche, où l'utilisateur dialogue avec Google par questions successives : dix nouveaux marchés (dont l'Inde, le Canada et l'Australie), le Brésil, le Mexique et le Royaume-Uni au quatrième trimestre, et des annonces qui s'affichent aussi dans les questions de suivi aux États-Unis. Selon Philipp Schindler, directeur commercial de Google, le taux de clic des produits sponsorisés y est déjà comparable à celui des résultats non sponsorisés ; ce chiffre est celui de l'entreprise.
+
+L'éclairage
+
+Pourquoi la publicité suit la façon dont on cherche
+
+Google gagne l'essentiel de son argent grâce aux annonces affichées à côté des résultats. Quand l'utilisateur obtient une réponse rédigée par l'IA plutôt qu'une liste de liens, il clique moins sur les liens : l'entreprise cherche donc à placer des annonces dans la réponse elle-même. La trésorerie disponible (free cash flow) est l'argent qui reste après les dépenses d'investissement ; elle est négative ici parce que Alphabet construit des centres de données (51,4 milliards de dollars d'investissements sur le trimestre, selon le document déposé à la SEC). Annonce ou fait ? Les résultats sont des chiffres comptables publiés ; la comparaison des taux de clic et les propos sur l'usage du mode IA sont ceux de l'entreprise, sans mesure indépendante citée.
+
+Ce qu'ils en disent
+
+Il décrit ainsi les requêtes dans le mode IA : « Their queries are longer, personalized, and multimodal. » (plus longues, personnalisées et multimodales). Selon TechCrunch, une recherche sur cinq dans ce mode utilise la voix, l'image ou un document.
+Sundar Pichai (Entreprise), PDG d'Alphabet
+
+Il présente les annonces dans le mode IA comme déjà aussi cliquées que les résultats non sponsorisés.
+Philipp Schindler (Entreprise), directeur commercial de Google
+
+Ce qui change
+
+Pour un utilisateur : des annonces étiquetées « Sponsored » apparaîtront dans les réponses du mode IA, dans de plus en plus de pays.
+
+Et après
+
+Le Brésil, le Mexique et le Royaume-Uni sont prévus au quatrième trimestre 2026, selon Alphabet. Aucune date n'est donnée pour d'autres pays.
+
+Sources : SEC (résultats d'Alphabet) · TechCrunch · Storyboard18
+
+2. Apple : un selfie pour prouver qu'on est majeur, dans iOS 27.2
+
+PLATEFORMES
+
+4 : angles du visage à capturer
+
+6 : pays ou États où une vérification d'âge peut s'appliquer
+
+27.2 : version d'iOS nécessaire
+
+Ce qui s'est passé
+
+Avec iOS 27.2 et iPadOS 27.2, Apple propose de confirmer qu'on est adulte en prenant un selfie, en plus de la carte bancaire ou du document d'identité. L'utilisateur centre son visage puis tourne lentement la tête à droite, à gauche, en haut et en bas, pour que quatre angles soient capturés. Des modèles d'estimation de l'âge analysent l'image sur l'appareil et sur Private Cloud Compute, le service de calcul distant d'Apple, puis les résultats sont réunis sur l'appareil. Apple indique que la vérification peut s'appliquer en Australie, au Brésil, à Singapour, en Corée du Sud, au Royaume-Uni et au Texas, notamment pour créer un compte Apple, mettre à jour le système ou télécharger des applications réservées aux adultes ; l'option n'est pas proposée partout. Une fois la majorité confirmée, il n'y a pas à recommencer. Pour Apple, le selfie n'est accessible à personne, pas même à l'entreprise, et il est supprimé après la confirmation. Les mineurs peuvent devoir rejoindre un groupe de partage familial avec un adulte déjà vérifié.
+
+L'éclairage
+
+Estimer un âge n'est pas identifier une personne
+
+Un modèle d'estimation de l'âge regarde un visage et en déduit si la personne a probablement plus de 18 ans ; il ne cherche pas à savoir qui elle est. C'est ce qui distingue ce contrôle d'une reconnaissance faciale qui ouvre un téléphone. Le calcul se fait en partie sur l'appareil, ce qui évite d'envoyer la photo entière à un serveur, et en partie sur Private Cloud Compute. Annonce ou fait ? L'existence de l'option et son fonctionnement sont documentés par Apple. Les garanties de confidentialité (selfie inaccessible et supprimé) sont des déclarations de l'entreprise ; les sources consultées ne citent pas d'audit indépendant, et aucun taux d'erreur n'est publié.
+
+Ce qu'ils en disent
+
+L'entreprise écrit : « Once your age is confirmed, your selfie is deleted and isn't retained in any form. » (une fois l'âge confirmé, le selfie est supprimé et n'est conservé sous aucune forme). Elle précise que la vérification est exigée par la loi dans certains États, pays et régions.
+Apple (Entreprise), dans sa page d'assistance
+
+Ce qui change
+
+Pour un utilisateur concerné par la loi de son pays : une nouvelle façon de prouver sa majorité sans sortir un document d'identité. Pour les parents : un mineur peut devoir passer par un groupe de partage familial.
+
+Et après
+
+L'option est disponible avec iOS 27.2 là où Apple la propose ; la liste des pays pourrait évoluer avec les lois locales, sans calendrier dans les sources.
+
+Sources : Apple (page d'assistance) · 9to5Mac · Silicon Report
+
+3. Apple : des assistants d'IA dans Keynote, Pages et Numbers
+
+IA
+
+3 : applications concernées
+
+13 $ : par mois pour un nouvel abonné (12,99 $)
+
+1 : langue prise en charge : l'anglais américain
+
+Ce qui s'est passé
+
+Mardi 27 octobre, Apple a annoncé de nouvelles fonctions d'intelligence artificielle pour Creator Studio, son abonnement aux applications de création. Keynote (présentations), Pages (texte) et Numbers (tableurs) reçoivent un assistant en version bêta, c'est-à-dire en test, qui « understands document context » (comprend le contexte du document). Dans Keynote, il aide à concevoir et animer des diapositives ; dans Pages, à rédiger et restructurer un texte ; dans Numbers, à calculer, organiser des données et proposer des graphiques. Apple indique que ces assistants s'appuient sur ses propres modèles et sur ceux d'OpenAI. Les applications gagnent aussi la prise en charge du protocole MCP sur macOS 27 ou plus récent, qui « enables external AI agents and tools to read content, perform edits, and execute automated actions » (permet à des agents et outils d'IA externes de lire le contenu, de le modifier et d'exécuter des actions). Les assistants exigent un appareil compatible avec Apple Intelligence et ne fonctionnent qu'en anglais américain. La mise à jour arrive en novembre, gratuitement pour les abonnés actuels ; les nouveaux abonnés paient 12,99 dollars par mois ou 129 dollars par an aux États-Unis. Le communiqué ne décrit pas le traitement des données par ces assistants.
+
+L'éclairage
+
+Un assistant « dans le document » : ce que ça veut dire
+
+Un assistant intégré n'est pas un robot de conversation séparé : il lit le document ouvert (les diapositives, le texte, les cellules) pour répondre en tenant compte de son contenu. Le gain annoncé est de ne plus copier-coller entre l'application et un agent conversationnel ; la contrepartie est que le contenu du document est traité par un modèle, d'Apple ou d'OpenAI, ce que le communiqué ne détaille pas. Le MCP est expliqué plus bas. Annonce ou fait ? Les fonctions, le prix et le calendrier sont ceux d'Apple. Aucune évaluation indépendante de la qualité des assistants n'est citée, et ils sont encore en bêta.
+
+Ce qu'ils en disent
+
+L'entreprise présente les assistants comme un moyen de travailler sans quitter son document et précise qu'ils sont en bêta et disponibles en anglais américain uniquement. Le communiqué ne dit rien du traitement des données par ces assistants.
+Apple (Entreprise), dans son communiqué
+
+Ce qui change
+
+Pour un utilisateur de Creator Studio : un assistant dans le document, en anglais seulement et en bêta, à partir de novembre. Pour une entreprise : à vérifier avant usage sur des documents confidentiels, puisque le traitement des données n'est pas décrit.
+
+Et après
+
+Les mises à jour sont annoncées pour novembre ; Pixelmator Pro dans Freeform arrive en décembre, selon Apple. Aucune date de sortie en français n'est donnée.
+
+Sources : Apple (communiqué) · MacRumors · Silicon Report
+
+À venir
+
+- T4 2026 : Google : annonces dans le mode IA au Brésil, au Mexique et au Royaume-Uni (Storyboard18).
+
+Les mots du jour
+
+Private Cloud Compute
+Service de calcul à distance d'Apple, conçu pour traiter des données de l'utilisateur sans que l'entreprise y ait accès, selon Apple.
+
+Vrai ou faux ?
+
+Selon Apple, le selfie pris pour confirmer son âge dans iOS 27.2 est conservé par Apple après la confirmation.
+
+Réponse : faux. Faux : Apple indique que le selfie est supprimé une fois l'âge confirmé et qu'il n'est conservé sous aucune forme.
+
+Retrouvez cette édition sur eclairagemedia.com.
