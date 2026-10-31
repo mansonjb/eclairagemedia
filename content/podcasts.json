@@ -1,5 +1,460 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-10-31",
+  "url": "/podcasts/essentiel-2026-10-31.mp3",
+  "taille": 7717661,
+  "duree": 643,
+  "titre": "Éclairage, l'essentiel du samedi 31 octobre 2026",
+  "titre_episode": "Manifestations, PIB et capteur de glucose : l'essentiel du samedi 31 octobre",
+  "description": "Ce samedi 31 octobre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : manifestations du 31 octobre, parcours autorisé à Paris et appel de l'État\n• Politique : PIB du troisième trimestre et budget 2027\n• Économie : inflation d'octobre portée par l'énergie\n• Économie : PIB en recul de 0,1 % au troisième trimestre\n• Santé : un capteur de glucose dans le diabète de type 2\n• Santé : tozorakimab dans la BPCO\n• Food : transmission des fermes dans le budget 2027\n• Tech : extension piégée sur la boutique de Cursor\n• Tech : enquête de la CMA britannique sur Meta\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "31 octobre : un parcours autorisé à Paris, Laurent Nuñez fait appel"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "PIB : -0,1 % au troisième trimestre, Lescure juge l'économie « à l'arrêt »"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Inflation : 3,4 % en octobre, portée par l'énergie"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "PIB : la France recule de 0,1 % au troisième trimestre"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Diabète de type 2 : un capteur de glucose fait baisser l'HbA1c"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "BPCO : le tozorakimab réduit les exacerbations dans deux essais de phase 3"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Transmission des fermes : deux amendements au budget 2027"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Claude Code : une extension piégée diffusée via la boutique de Cursor"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Meta : la CMA britannique enquête sur ses conditions pour les éditeurs"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le samedi trente et un octobre deux mille vingt-six. Avec moi, Paul."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa, bonjour à tous. Au programme : politique, économie, santé, alimentation, et technologie. Neuf sujets, tous tirés des éditions parues ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, et par une journée sous haute surveillance. Soixante-dix mille policiers et gendarmes mobilisés ce samedi. Paul, pourquoi un tel dispositif ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que c'est la troisième journée de mobilisation contre la vie chère, après celles des dix-sept et vingt-quatre octobre. Environ deux cent cinquante manifestations sont recensées en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à Paris, le parcours a fait l'objet d'une bataille juridique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Vendredi, la préfecture de police a interdit les parcours proposés par la CGT, de Bastille à Nation, et par les gilets jaunes, de Bastille à Concorde. Elle proposait un trajet de la porte de Bagnolet à la porte de Charenton."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais le soir même, le tribunal administratif est intervenu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a suspendu l'interdiction du parcours Bastille-Nation. Le ministre de l'Intérieur, Laurent Nuñez, a annoncé faire appel devant le Conseil d'État, qui devait examiner la demande à vingt-deux heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et on connaît sa décision ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas au moment de la rédaction de l'édition. C'est donc un point à suivre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi l'État fait-il appel ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le ministre, des dégradations ont été commises le dix-sept octobre, donc le risque de trouble à l'ordre public est important. Il évoque, dans une note aux préfets, un risque très élevé de violences urbaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté CGT ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Adèle Telleze, coresponsable de la CGT Paris, dit que si l'on n'a pas le droit de manifester à l'intérieur du territoire parisien, la liberté de manifester y est abolie. La préfecture, elle, parle de concilier cette liberté avec celle du commerce et celle de circuler."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi un couvre-feu, c'est bien ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "De vingt-trois heures à six heures, du trente et un octobre au deux novembre, dans les secteurs République et Châtelet-Les Halles. C'est une décision distincte, que l'intersyndicale annonce vouloir contester."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour mémoire, le bilan du vingt-quatre octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le ministre, deux cent soixante-sept policiers et gendarmes et cent cinquante manifestants blessés, et mille quatre cent trente-cinq interpellations en marge des cortèges."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la décision du Conseil d'État, puis le déroulé de la journée, avec la rentrée des lycéens lundi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor, mais toujours dans l'actualité nationale : l'économie, avec un chiffre qui a fait réagir le gouvernement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Moins zéro virgule un pour cent. C'est l'évolution du produit intérieur brut, le PIB, au troisième trimestre, selon la première estimation de l'Insee publiée vendredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Après une stabilité au trimestre précédent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement, zéro pour cent au deuxième trimestre. Et en face, la consommation des ménages accélère : plus zéro virgule quatre pour cent, après plus zéro virgule deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le ministre de l'Économie, Roland Lescure, a parlé d'une économie à l'arrêt."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il a cité la canicule de l'été et les tensions autour du détroit d'Ormuz, qui font monter les prix des carburants."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur le budget ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il dit que le pays a besoin d'un déficit public de cinq pour cent ou moins, après cinq virgule quatre en deux mille vingt-six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce budget n'est pas encore voté."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le projet de loi de finances pour deux mille vingt-sept est examiné à l'Assemblée, où le gouvernement n'a pas de majorité. Il pourrait recourir à l'article quarante-neuf trois ou à des ordonnances."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur ce budget, l'Assemblée a déjà voté un point."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, elle a supprimé la surtaxe sur les grandes entreprises, par soixante-dix-neuf voix contre soixante-dix-sept. Un écart de deux voix seulement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, chaque vote compte, sans majorité claire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le contexte. À retenir : l'Insee donne une première estimation, donc provisoire, et le gouvernement lie le retour de la croissance à l'adoption d'un budget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On reste dans l'économie, mais cette fois avec l'édition dédiée. Premier sujet : l'inflation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois virgule quatre pour cent sur un an en octobre, contre trois virgule un en septembre, selon l'estimation de l'Insee. Le moteur, c'est l'énergie : plus vingt-quatre virgule un pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Vingt-quatre pour cent ? Ah oui, quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et c'est le quatrième mois de hausse d'affilée, avec le gaz et les produits pétroliers en tête. L'indice harmonisé européen atteint trois virgule huit pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce que ça veut dire, concrètement, ce petit poste qui pèse autant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'énergie ne représente que sept virgule six pour cent du panier de consommation. Mais avec une hausse aussi forte, elle apporte environ un point huit sur les trois virgule quatre. Un petit poste qui bouge beaucoup pèse lourd."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le chiffre n'est pas définitif."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, le résultat définitif est attendu le treize novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le PIB, on l'a vu côté politique. Qu'est-ce que l'édition économie ajoute ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le détail. Les exportations reculent de un virgule sept pour cent, et pour les matériels de transport, moins neuf virgule un. Le commerce extérieur retire zéro virgule six point à la croissance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'objectif du gouvernement pour l'année ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il prévoit zéro virgule cinq pour cent de croissance en deux mille vingt-six. L'Insee et la Banque de France disent zéro virgule quatre. Or l'acquis de croissance, la croissance déjà en poche, n'est que de zéro virgule deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, atteindre zéro virgule cinq suppose un rebond au dernier trimestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. L'AFP note que l'objectif devient difficile à atteindre. Un analyste de Rexecode dit qu'il n'y a pas de moteur de croissance aujourd'hui, avec quelques poches de dynamisme comme l'aéronautique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On quitte les marchés pour la santé. Premier sujet : le diabète de type deux."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un essai publié jeudi vingt-neuf octobre dans le New England Journal of Medicine, une revue scientifique de référence. Deux cent quatre-vingt-trois adultes, dans vingt-deux cabinets de médecine générale américains, tirés au sort."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qu'on compare ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un capteur de glucose en continu, collé sur la peau, contre les soins habituels. Ces adultes n'utilisaient pas d'insuline."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat, au bout de vingt-six semaines ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'hémoglobine glyquée, qui reflète la glycémie moyenne des deux à trois derniers mois, passe de huit virgule huit à sept virgule deux pour cent avec le capteur. Avec les soins habituels, de huit virgule sept à huit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soit un écart de combien ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Moins zéro virgule neuf point. Et le temps passé dans la cible de glucose est supérieur de vingt et un points avec le capteur. Aucune hypoglycémie sévère n'a été signalée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a quand même des limites."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'étude dure vingt-six semaines seulement, et elle est financée par Dexcom, le fabricant du capteur. Elle ne dit rien du coût ni du remboursement en France."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un essai randomisé de bon niveau montre un bénéfice du capteur, mais le choix se discute avec le médecin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Même revue, même jour, autre maladie : la bronchopneumopathie chronique obstructive, la BPCO."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une maladie chronique des bronches, le plus souvent liée au tabac. Le sujet, ce sont les exacerbations : des poussées brutales où la toux et l'essoufflement s'aggravent, parfois jusqu'à l'hospitalisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et un nouveau médicament est testé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le tozorakimab, d'AstraZeneca, un anticorps qui bloque une molécule de l'inflammation des poumons. Deux essais de phase trois, mille sept cent cinquante patients au total, pendant cinquante-deux semaines, contre placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Chez les anciens fumeurs, le nombre annuel d'exacerbations est de un virgule trente-quatre contre un virgule quatre-vingt-dix dans le premier essai, et de un virgule trente-sept contre deux virgule zéro sept dans le second, avec le placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deux essais, le même résultat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et c'est ce qui renforce la confiance : un hasard unique est moins probable. Mais attention, ça porte sur le nombre de poussées, pas sur la survie. Et les réactions au point d'injection sont plus fréquentes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La demande est en examen prioritaire auprès de l'agence américaine du médicament, avec une décision attendue au premier trimestre deux mille vingt-sept. Ce traitement s'ajouterait aux inhalateurs, il ne les remplacerait pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction les champs, avec l'édition food et bio. Aujourd'hui, un seul sujet, mais important : la transmission des fermes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le gouvernement a déposé deux amendements au budget deux mille vingt-sept, appelés le pacte Genevard, du nom de la ministre de l'Agriculture. Ils doivent courir jusqu'en deux mille vingt-neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Premier amendement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il double l'abattement sur la plus-value d'un agriculteur proche de la retraite qui transmet son exploitation. Il atteint un million d'euros, à condition que la cession profite à de nouveaux agriculteurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le second ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un taux réduit de droits de mutation de zéro virgule un pour cent sur le foncier rural. Mais seulement pour la fraction du prix inférieure à cent cinquante mille euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pas sur la totalité, donc."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. L'acquéreur doit aussi s'engager à exploiter le bien lui-même et à le conserver au moins cinq ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi cette mesure ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le contexte est démographique : près de soixante pour cent des agriculteurs avaient cinquante ans ou plus en deux mille vingt. Mais attention : il s'agit d'amendements déposés, aucun vote n'est rapporté."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : rien ne change pour l'instant, tout dépendra du vote du budget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : la tech. Et une histoire qui concerne les développeurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une version modifiée de l'extension Claude Code a été proposée le vingt-neuf octobre sur la boutique d'extensions de Cursor, un éditeur de code. Pendant environ onze heures, pour Windows et macOS."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que faisait ce code ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Cursor, il tente d'installer une porte dérobée : il collecte des informations sur la machine, ajoute une clé SSH de l'attaquant et tente d'ouvrir un accès à distance durable. Cinq mille utilisateurs au plus seraient concernés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il suffit de désinstaller l'extension ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, selon Cursor, le code installe des scripts qui restent actifs. Il faut chercher la clé nommée svc-telemetry, la retirer, supprimer la persistance et changer les identifiants accessibles depuis la machine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que disent les entreprises ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cursor dit avoir retiré la version dès la détection. Anthropic, qui développe Claude Code, affirme qu'il ne s'agit pas d'une compromission de ses systèmes, et a publié une version saine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et on sait comment le paquet a été publié ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Ni Cursor ni Anthropic ne l'ont expliqué à ce jour. À retenir : ce qui est établi, c'est l'existence de la version piégée. La méthode d'intrusion, elle, ne l'est pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file au Royaume-Uni, avec Meta."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'autorité britannique de la concurrence, la CMA, a ouvert vendredi une enquête formelle sur les conditions commerciales de Meta pour les entreprises qui utilisent ses services."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que reproche-t-on à ces conditions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon la CMA, elles pourraient permettre à Meta de collecter le contenu des sites d'éditeurs, puis de l'utiliser pour développer ses propres produits, y compris d'intelligence artificielle, sans que ces entreprises choisissent comment."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Meta réagit comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un porte-parole répond qu'il n'y a pas de motif d'enquête. La CMA précise de son côté qu'aucune décision n'est prise sur une infraction."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour le public ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À court terme, rien ne change : Meta devait réviser ses conditions le vingt novembre, mais les a mises en pause le vingt-huit octobre. Une enquête ouverte n'est pas une condamnation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce samedi. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Merci à vous. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-31",
   "url": "/podcasts/politique-2026-10-31.mp3",
