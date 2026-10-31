@@ -1,5 +1,190 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-31",
+  "url": "/podcasts/politique-2026-10-31.mp3",
+  "taille": 3160129,
+  "duree": 263,
+  "titre": "Éclairage politique, samedi 31 octobre 2026",
+  "titre_episode": "Manifestations, PIB et surtaxe : l'essentiel du samedi 31 octobre",
+  "description": "Ce samedi 31 octobre 2026, Léa et Paul reprennent 3 sujets.\n• Société : à Paris, le tribunal administratif suspend l'interdiction du parcours Bastille–Nation, Laurent Nuñez fait appel, et ce que cela veut dire.\n• Économie : le PIB recule de 0,1 % au troisième trimestre selon l'Insee, et ce que dit le ministre Roland Lescure.\n• Argent public : l'Assemblée supprime la surtaxe sur les grandes entreprises par 79 voix contre 77, et pourquoi ce vote n'est pas le dernier mot.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "31 octobre : un parcours autorisé à Paris, Laurent Nuñez fait appel"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "PIB : -0,1 % au troisième trimestre, Lescure juge l'économie « à l'arrêt »"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Budget 2027 : l'Assemblée supprime la surtaxe sur les grandes entreprises"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour à toutes et à tous, nous sommes le samedi trente et un octobre. Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et Paul. Au programme : une journée de manifestations sous haute surveillance, un chiffre de croissance qui recule, et un vote très serré sur les impôts des grandes entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par la rue. Aujourd'hui, c'est le troisième samedi de mobilisation contre la vie chère. Et soixante-dix mille policiers et gendarmes sont mobilisés. Soixante-dix mille !"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autant que le vingt-quatre octobre. Les gilets jaunes appellent à un acte trois, et l'intersyndicale de la jeunesse, avec l'Unef, la Fage, l'Union étudiante et l'Union syndicale lycéenne, appelle aussi à manifester."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et hier, une bonne partie du dossier s'est joué devant la justice, à Paris."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. La préfecture de police avait interdit les parcours proposés par la CGT et par les gilets jaunes dans le centre de Paris. Elle proposait à la place un trajet de la porte de Bagnolet à la porte de Charenton."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la CGT a saisi le tribunal."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Vendredi soir, le tribunal administratif a suspendu l'interdiction du parcours entre Bastille et Nation. Le ministre de l'Intérieur, Laurent Nuñez, a aussitôt annoncé qu'il faisait appel devant le Conseil d'État."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et on connaît la décision du Conseil d'État ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas au moment où nous enregistrons. L'examen était prévu vendredi à vingt-deux heures. Mieux vaut vérifier l'information ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi un couvre-feu, c'est bien ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, de vingt-trois heures à six heures, jusqu'à lundi matin, autour de la place de la République et du quartier Châtelet-Les Halles. L'intersyndicale a annoncé qu'elle le contesterait devant le tribunal administratif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, à retenir : à Paris, la préfecture peut interdire un parcours, les organisateurs peuvent saisir le juge, et l'État peut faire appel."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Un parcours de manifestation peut donc se décider devant le juge, en quelques heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : l'économie. Vendredi, l'Insee a publié le chiffre du PIB du troisième trimestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "PIB, c'est le produit intérieur brut : la richesse produite en France sur une période. Résultat : moins zéro virgule un pour cent, après zéro pour cent au deuxième trimestre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'économie a reculé, légèrement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, même si la consommation des ménages accélère : plus zéro virgule quatre pour cent, après plus zéro virgule deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le ministre de l'Économie, Roland Lescure, a réagi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur franceinfo, il a dit : « en 2026, l'économie française est à l'arrêt ». Il cite la canicule de l'été et les tensions autour du détroit d'Ormuz, qui font monter les prix des carburants."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il en tire quelle conclusion ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Qu'il faut un budget, avec un déficit public de cinq pour cent ou moins, après cinq virgule quatre pour cent cette année. Le déficit, c'est l'écart entre ce que les administrations dépensent et ce qu'elles encaissent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sauf que le gouvernement n'a pas de majorité à l'Assemblée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est pour ça qu'il pourrait utiliser l'article quarante-neuf trois, qui permet d'adopter un texte sans vote, sauf motion de censure adoptée, ou passer par des ordonnances budgétaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Justement, le budget. Un vote a été très serré mardi soir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi vingt-sept octobre, l'Assemblée a supprimé l'article quinze du projet de loi de finances, par soixante-dix-neuf voix contre soixante-dix-sept. Deux voix d'écart."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il prévoyait quoi, cet article ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il reconduisait, avec des taux réduits, la contribution exceptionnelle sur les bénéfices des grandes entreprises. Le gouvernement en attendait environ cinq milliards d'euros en deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq milliards. Et qui a voté pour la suppression ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des élus de la Droite républicaine, du RN, de l'UDR, d'Horizons, et deux députés du groupe Ensemble pour la République. Le gouvernement avait donné un avis défavorable, et la gauche s'y est opposée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Chacun a ses arguments, j'imagine."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Félicie Gérard, d'Horizons : « Une contribution exceptionnelle qui dure trois ans n'a plus rien d'exceptionnel ». Et Damien Maudet, de La France insoumise : « Ce cadeau de deux milliards est scandaleux »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la même nuit, il y a eu un autre vote."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un amendement pour taxer les multinationales sur la part de leurs bénéfices mondiaux réellement réalisée en France a été adopté, par soixante-quatorze voix contre soixante-douze, contre l'avis du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc tout cela est acté ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas du tout. LCP juge peu probable que ces mesures subsistent. La partie recettes devrait être rejetée à l'Assemblée, puis le texte irait au Sénat. Et si le gouvernement utilise le quarante-neuf trois ou des ordonnances, c'est le texte initial qui s'applique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, un vote à l'Assemblée n'est pas le dernier mot du budget."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la phrase à retenir. Voilà pour ce samedi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-10-30",
   "url": "/podcasts/essentiel-2026-10-30.mp3",

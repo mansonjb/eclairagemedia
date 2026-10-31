@@ -1,5 +1,366 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-10-31",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIÉTÉ",
+    "titre": "31 octobre : un parcours autorisé à Paris, Laurent Nuñez fait appel",
+    "court": "Manifestation : parcours autorisé, appel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_003.jpg/1280px-Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_003.jpg",
+    "legende": "Des CRS en ligne face à des manifestants à Paris, le 6 octobre 2026 (illustration)",
+    "chapeau": "Samedi 31 octobre est la troisième journée de mobilisation contre la vie chère, après celles des 17 et 24 octobre.",
+    "eclairage": "Qui décide du parcours d'une manifestation ?",
+    "chiffres": [
+     {
+      "valeur": "70 000",
+      "legende": "policiers et gendarmes"
+     },
+     {
+      "valeur": "~250",
+      "legende": "manifestations recensées"
+     },
+     {
+      "valeur": "23h-6h",
+      "legende": "couvre-feu à Paris"
+     }
+    ],
+    "passe": "Samedi 31 octobre est la troisième journée de mobilisation contre la vie chère, après celles des 17 et 24 octobre. La coordination des gilets jaunes appelle à un « acte III » et l'intersyndicale de la jeunesse (Union étudiante, Fage, Unef, Union syndicale lycéenne) appelle aussi à manifester, malgré les annonces du gouvernement cette semaine : remplacer Parcoursup, créer 15 000 places dans l'enseignement supérieur, plafonner les classes de seconde à 28 élèves. Vendredi 30 octobre, la préfecture de police de Paris a interdit les parcours proposés par la CGT (Bastille–Nation) et par les gilets jaunes (Bastille–Concorde) et proposé un trajet de la porte de Bagnolet à la porte de Charenton. Le soir, le tribunal administratif de Paris a suspendu l'interdiction du parcours Bastille–Nation. Laurent Nuñez, ministre de l'Intérieur, a annoncé qu'il faisait appel devant le Conseil d'État, qui devait examiner la demande à 22 h ; sa décision n'était pas connue à la rédaction de cette édition. Un couvre-feu de 23 h à 6 h s'applique du 31 octobre au 2 novembre dans les secteurs République et Châtelet-Les Halles.",
+    "points": [
+     "À Paris, c'est la préfecture de police qui peut interdire un parcours ou en proposer un autre, au nom de l'ordre public. Ici, elle invoque les dégradations du 17 octobre.",
+     "Les organisateurs peuvent contester cette décision devant le tribunal administratif, qui juge en urgence. C'est ce qui s'est passé vendredi.",
+     "L'État peut à son tour faire appel devant le Conseil d'État, la plus haute juridiction administrative, qui tranche vite quand la manifestation a lieu le lendemain."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://fr.news.yahoo.com/manifestation-31-octobre-%C3%A0-paris-175230372.html",
+      "nom": "Yahoo Actualités (avec AFP)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/societe/manifestations/la-cgt-saisit-la-justice-administrative-pour-contester-l-interdiction-de-manifester-le-31-octobre-dans-le-centre-ville-de-paris_8260553.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.cnews.fr/france/2026-10-30/mobilisation-du-31-octobre-quel-parcours-pour-la-manifestation-paris-1944300",
+      "nom": "CNews"
+     },
+     {
+      "url": "https://lcp.fr/actualites/manifestations-du-31-octobre-laurent-nunez-s-attend-a-ce-que-ce-soit-de-nouveau",
+      "nom": "LCP"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« On va faire appel car si on a suspendu c'est qu'il y a des dégradations qui ont été commises le 17 octobre, donc le risque de trouble à l'ordre public est important »",
+      "url": "https://www.cnews.fr/france/2026-10-30/mobilisation-du-31-octobre-quel-parcours-pour-la-manifestation-paris-1944300",
+      "source": "CNews"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "PRÉFECTURE DE POLICE",
+      "qui": "Porte-parole",
+      "contexte": "sur RMC",
+      "texte": "« la liberté constitutionnelle de manifester ne doit pas aller à l'encontre de la liberté du commerce, de la liberté d'aller et venir »",
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CGT",
+      "qui": "Adèle Telleze",
+      "contexte": "co-secrétaire générale de la CGT Paris",
+      "texte": "« Si nous n'avons pas le droit de manifester à l'intérieur du territoire parisien, ça veut dire qu'il y a des lieux de notre territoire où la liberté de manifester est abolie et ce n'est pas possible »",
+      "url": "https://www.franceinfo.fr/societe/manifestations/la-cgt-saisit-la-justice-administrative-pour-contester-l-interdiction-de-manifester-le-31-octobre-dans-le-centre-ville-de-paris_8260553.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "GILETS JAUNES",
+      "qui": "Benjamin Ball",
+      "contexte": "porte-parole de la coordination",
+      "texte": "Il présente l'objectif de la journée comme la « convergences des luttes », à l'avant-veille de la rentrée des lycéens.",
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Décision du Conseil d'État sur l'appel, puis déroulé de la journée du 31 octobre ; couvre-feu jusqu'au lundi 2 novembre au matin ; rentrée des lycéens le même jour.",
+    "change": "Un parcours dans le centre de Paris ou sur les boulevards des Maréchaux ne pose pas les mêmes questions de sécurité : c'est l'objet du désaccord entre la préfecture et les organisateurs.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_lyc%C3%A9enne_et_%C3%A9tudiante_du_6_octobre_2026_%C3%A0_Paris_003.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉCONOMIE",
+    "titre": "PIB : -0,1 % au troisième trimestre, Lescure juge l'économie « à l'arrêt »",
+    "court": "PIB : -0,1 % au 3e trimestre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg/1280px-Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg",
+    "legende": "Le ministère de l'Économie et des Finances à Bercy, au bord de la Seine (illustration)",
+    "chapeau": "Vendredi 30 octobre, l'Insee a publié sa première estimation du produit intérieur brut (PIB) du troisième trimestre 2026 : -0,1 %, après une stabilité (0,0 %) au deuxième trimestre. La consommation des ménages accélère (+0,4 % après +0,2 %).",
+    "eclairage": "Comment lit-on le chiffre du PIB ?",
+    "chiffres": [
+     {
+      "valeur": "-0,1 %",
+      "legende": "PIB du 3e trimestre"
+     },
+     {
+      "valeur": "0,0 %",
+      "legende": "PIB du 2e trimestre"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027 (5,4 % en 2026)"
+     }
+    ],
+    "passe": "Vendredi 30 octobre, l'Insee a publié sa première estimation du produit intérieur brut (PIB) du troisième trimestre 2026 : -0,1 %, après une stabilité (0,0 %) au deuxième trimestre. La consommation des ménages accélère (+0,4 % après +0,2 %). Le même jour, sur franceinfo, le ministre de l'Économie et des Finances, Roland Lescure, a jugé qu'« en 2026, l'économie française est à l'arrêt », en citant la canicule de l'été et les tensions autour du détroit d'Ormuz, qui font monter les prix des carburants. Il a affirmé que le pays a besoin d'un budget avec un déficit public de 5 % ou moins, après 5,4 % en 2026. Le projet de loi de finances pour 2027 est en cours d'examen à l'Assemblée nationale, où le gouvernement n'a pas de majorité ; il pourrait recourir à l'article 49.3 ou à des ordonnances budgétaires.",
+    "points": [
+     "Le PIB mesure la richesse produite en France sur une période : ici un trimestre, en volume, c'est-à-dire en retirant l'effet des hausses de prix.",
+     "Le chiffre publié vendredi est une première estimation de l'Insee, faite à partir de données encore partielles.",
+     "Le déficit public est l'écart entre les dépenses et les recettes de l'ensemble des administrations ; il se mesure en pourcentage du PIB."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9111036",
+      "nom": "Insee"
+     },
+     {
+      "url": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire",
+      "nom": "LCP (avec AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-pib-a-recule-de-0-1-au-troisieme-trimestre-selon-l-insee-35e4f698761dcf90a4658b15c05ccbe1",
+      "nom": "Boursorama (avec AFP)"
+     },
+     {
+      "url": "https://www.cnews.fr/france/2026-10-30/le-pib-recule-de-01-en-france-au-troisieme-trimestre-selon-linsee-1944526",
+      "nom": "CNews (avec AFP)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie et des Finances",
+      "texte": "« l'économie française est à l'arrêt »",
+      "url": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Le projet de loi de finances 2027 continue d'être examiné à l'Assemblée nationale ; son adoption par un vote reste incertaine faute de majorité.",
+    "change": "Le gouvernement lie le retour de la croissance à l'adoption d'un budget qui ramène le déficit à 5 % du PIB ou moins.",
+    "credit": {
+     "auteur": "SailEOuiAla",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Pont_de_Bercy_et_Minist%C3%A8re_des_Finances.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : l'Assemblée supprime la surtaxe sur les grandes entreprises",
+    "court": "Budget : la surtaxe supprimée à deux voix",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Assembl%C3%A9e_nationale-2_%2846824158164%29.jpg/1280px-Assembl%C3%A9e_nationale-2_%2846824158164%29.jpg",
+    "legende": "Des députés sur les bancs de l'hémicycle de l'Assemblée nationale (illustration)",
+    "chapeau": "Mardi 27 octobre, juste avant 20 h, pendant l'examen de la partie « recettes » du projet de loi de finances pour 2027, l'Assemblée nationale a supprimé l'article 15 par 79 voix contre 77.",
+    "eclairage": "Pourquoi un vote à l'Assemblée n'est-il pas le dernier mot ?",
+    "chiffres": [
+     {
+      "valeur": "79-77",
+      "legende": "vote de suppression"
+     },
+     {
+      "valeur": "~5 Md€",
+      "legende": "recette attendue en 2027"
+     },
+     {
+      "valeur": "74-72",
+      "legende": "taxe sur les bénéfices mondiaux"
+     }
+    ],
+    "passe": "Mardi 27 octobre, juste avant 20 h, pendant l'examen de la partie « recettes » du projet de loi de finances pour 2027, l'Assemblée nationale a supprimé l'article 15 par 79 voix contre 77. Cet article reconduisait, avec des taux réduits, la contribution exceptionnelle sur les bénéfices des grandes entreprises, instaurée dans le budget 2025 et déjà prolongée en 2026 ; le gouvernement en attendait environ 5 milliards d'euros en 2027, contre un peu plus de 7 milliards. Neuf amendements de suppression, déposés par des élus de la Droite républicaine, du RN, de l'UDR, d'Horizons et par deux députés du groupe Ensemble pour la République, ont été adoptés malgré l'avis défavorable du gouvernement et du rapporteur général du budget, Philippe Juvin (Droite républicaine). Dans la nuit, un amendement de Nicolas Sansu (Gauche démocrate et républicaine), qui vise à taxer les multinationales sur la part de leurs bénéfices mondiaux réellement réalisée en France, a été adopté par 74 voix contre 72, contre l'avis du gouvernement. LCP juge peu probable que ces mesures subsistent : la partie « recettes » devrait être rejetée à l'Assemblée, puis le gouvernement pourrait utiliser le 49.3 ou des ordonnances, auquel cas le texte initial s'appliquerait.",
+    "points": [
+     "Le budget de l'État se discute en deux parties : les recettes (impôts, taxes) d'abord, les dépenses ensuite.",
+     "Si l'Assemblée rejette la partie recettes, le texte part au Sénat sans que les dépenses aient été examinées.",
+     "Le gouvernement peut aussi recourir à l'article 49.3, ou à des ordonnances : dans ce cas, c'est le texte initial qui s'applique."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "nom": "LCP (surtaxe)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-vote-un-dispositif-pour-contrer-l-optimisation-fiscale-agressive",
+      "nom": "LCP (multinationales)"
+     },
+     {
+      "url": "https://nosparlementaires.fr/actualites/surtaxe-grandes-entreprises-supprimee-budget-2027-rn-macronistes",
+      "nom": "NosParlementaires"
+     },
+     {
+      "url": "https://www.aa.com.tr/fr/france/france-les-d%C3%A9put%C3%A9s-suppriment-la-surtaxe-sur-les-grandes-entreprises-pr%C3%A9vue-au-budget-2027/4103506",
+      "nom": "Anadolu (français)"
+     },
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9111036",
+      "nom": "Insee"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Damien Maudet",
+      "contexte": "député",
+      "texte": "« Ce cadeau de deux milliards est scandaleux »",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Estelle Mercier",
+      "contexte": "députée",
+      "texte": "Elle défend un effort maintenu au moins au niveau de 2025.",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Roland Lescure",
+      "contexte": "ministre de l'Économie et des Finances",
+      "texte": "Il voulait garder à la contribution son caractère exceptionnel en baissant le taux, et estime que les grandes multinationales qui font des profits peuvent contribuer à l'effort de redressement.",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Félicie Gérard",
+      "contexte": "députée",
+      "texte": "« Une contribution exceptionnelle qui dure trois ans n'a plus rien d'exceptionnel »",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "ENSEMBLE POUR LA RÉPUBLIQUE",
+      "qui": "Charles Sitzenstuhl",
+      "contexte": "député",
+      "texte": "« Cet impôt est un boulet aux pieds des entreprises dans la compétition internationale et européenne »",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jean-Philippe Tanguy",
+      "contexte": "député",
+      "texte": "« Cet article témoigne de l'impossibilité que vous avez à mener une politique fiscale cohérente »",
+      "url": "https://lcp.fr/actualites/budget-2027-la-surtaxe-sur-les-benefices-des-grandes-entreprises-supprimee-a-ce-stade",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Vote attendu sur la partie « recettes » à l'Assemblée, puis transmission au Sénat ; le gouvernement peut encore utiliser le 49.3 ou des ordonnances.",
+    "change": "Sans cet article, l'État renonce sur le papier à environ 5 milliards d'euros de recettes en 2027, sauf si la mesure est rétablie dans la suite de la procédure.",
+    "credit": {
+     "auteur": "Jacques Paquier",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale-2_(46824158164).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "31",
+    "mois": "OCT.",
+    "texte": "Manifestations à Paris et en France ; couvre-feu de 23 h à 6 h jusqu'au 2 novembre au matin."
+   },
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Rentrée des lycéens après les vacances."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Élections de mi-mandat aux États-Unis (midterms)."
+   },
+   {
+    "jour": "27",
+    "mois": "NOV.",
+    "texte": "Insee : résultats détaillés du PIB du troisième trimestre."
+   },
+   {
+    "jour": "7",
+    "mois": "FÉV.",
+    "texte": "Départ de Christine Lagarde de la présidence de la BCE."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "PIB",
+    "definition": "La richesse produite en France sur une période, mesurée ici en volume, hors effet des prix."
+   },
+   {
+    "terme": "Contribution exceptionnelle",
+    "definition": "Surtaxe d'impôt sur les bénéfices des grandes entreprises, créée en 2025 et prolongée en 2026."
+   },
+   {
+    "terme": "Référé",
+    "definition": "Procédure d'urgence devant un juge administratif, utilisée ici pour contester une interdiction de manifester."
+   },
+   {
+    "terme": "Article 49.3",
+    "definition": "Procédure qui permet au gouvernement de faire adopter un texte sans vote, sauf motion de censure adoptée."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'Insee, le PIB de la France a reculé de 0,1 % au troisième trimestre 2026.",
+   "reponse": true,
+   "explication": "L'Insee l'a publié le 30 octobre : le PIB recule de 0,1 % au troisième trimestre, après une stabilité au deuxième trimestre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-30",
   "minutes": 13,
