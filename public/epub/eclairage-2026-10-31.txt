@@ -166,3 +166,582 @@ Selon l'Insee, le PIB de la France a reculé de 0,1 % au troisième trimestre 2
 Réponse : vrai. L'Insee l'a publié le 30 octobre : le PIB recule de 0,1 % au troisième trimestre, après une stabilité au deuxième trimestre.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+samedi 31 octobre 2026 · 11 min de lecture
+
+1. Inflation : 3,4 % en octobre, portée par l'énergie
+
+CONJONCTURE
+
+3,4 % : inflation sur un an (3,1 % en sept.)
+
++24 % : prix de l'énergie sur un an
+
+3,8 % : inflation harmonisée (3,4 % en sept.)
+
+Ce qui s'est passé
+
+Vendredi 30 octobre, l'Insee a estimé que les prix à la consommation augmenteraient de 3,4 % sur un an en octobre, contre 3,1 % en septembre. Sur un mois, ils progresseraient de 0,4 %, après une baisse de 0,3 % en septembre. L'énergie accélère pour le quatrième mois de suite, à +24,1 % sur un an contre +21,3 %, avec le gaz et les produits pétroliers en tête. Les services passent de +2,4 % à +2,7 %, avec l'hébergement et les transports. L'alimentation ralentit à +1,2 % (+1,4 % en septembre), les produits manufacturés reculent de 0,2 % et le tabac progresse de 3,3 %. L'indice harmonisé européen, qui sert aux comparaisons entre pays, atteint 3,8 % contre 3,4 %. Les médias situent ce niveau au plus haut depuis janvier 2024 (franceinfo, Boursorama) ou depuis décembre 2023 (JeChange). Chiffre provisoire : l'Insee publiera le résultat définitif le 13 novembre.
+
+L'éclairage
+
+Comment lit-on un chiffre d'inflation ?
+
+L'inflation mesure la hausse moyenne des prix d'un panier de produits que les ménages achètent. Chaque poste pèse selon sa part dans le panier : l'énergie représente 7,6 % du panier, les services 52 %. Sa contribution à l'inflation est sa hausse multipliée par son poids. Ici : énergie +24,1 % × 7,6 % ≈ 1,8 point sur les 3,4 ; services +2,7 % × 52 % ≈ 1,4 point ; alimentation, tabac et produits manufacturés complètent.
+
+Ce qui change
+
+Un prix de l'énergie qui monte pèse sur le budget de tous les ménages, surtout chauffage et carburant. Pour les entreprises, c'est un coût de production en plus, qu'elles répercutent ou non sur leurs prix de vente.
+
+Et après
+
+Résultat définitif de l'Insee le 13 novembre ; estimation rapide de l'inflation de la zone euro le 4 novembre (Eurostat).
+
+Sources : Insee · franceinfo (avec AFP) · Zonebourse via Boursorama · JeChange
+
+2. PIB : la France recule de 0,1 % au troisième trimestre
+
+CONJONCTURE
+
+-0,1 % : PIB au 3e trimestre
+
+-1,7 % : exportations sur le trimestre
+
+0,2 % : acquis de croissance 2026
+
+Ce qui s'est passé
+
+Vendredi 30 octobre, l'Insee a publié sa première estimation de la croissance : le produit intérieur brut (PIB) de la France a reculé de 0,1 % au troisième trimestre, après une stagnation (0,0 %) au deuxième. Le commerce extérieur retire 0,6 point à la croissance : les exportations baissent de 1,7 % (matériels de transport : -9,1 %) alors que les importations sont stables (+0,1 %). La demande intérieure aide un peu : la consommation des ménages progresse de 0,4 %, mais l'investissement recule de 0,6 %, et la production manufacturière de 1,4 %. Les variations de stocks ajoutent 0,4 point. L'acquis de croissance pour 2026 est de 0,2 %. Le gouvernement prévoit 0,5 % pour l'année, l'Insee et la Banque de France 0,4 %. Chiffre provisoire : le détail sera publié le 27 novembre.
+
+L'éclairage
+
+Pourquoi le commerce extérieur pèse-t-il sur le PIB ?
+
+Le PIB compte ce qui est produit en France. Quand les exportations baissent, des biens qui devaient être vendus à l'étranger ne sont plus comptés ; les importations qui augmentent, elles, se retranchent. La contribution du commerce extérieur est la différence entre les deux : -0,6 point ce trimestre, contre +0,6 point au printemps. L'acquis de croissance est la croissance déjà « en poche » pour l'année si le PIB restait stable jusqu'en décembre : 0,2 %. Atteindre 0,5 % suppose donc un rebond au quatrième trimestre.
+
+Ce qu'ils en disent
+
+« Il n'y a pas de relais de croissance aujourd'hui dans l'économie française, pas de moteur. »
+Anthony Morlet-Lavidalie (Analystes), Rexecode
+
+Le gouvernement maintient 0,5 % de croissance pour 2026 ; l'AFP note que le recul du troisième trimestre rend cet objectif « difficile » à atteindre. Pas de déclaration ministérielle relevée.
+Prévision officielle (Gouvernement), projet de loi de finances 2027
+
+Ce qui change
+
+Une économie qui ne croît pas crée peu d'emplois et peu de recettes fiscales. Le budget 2027 repose sur des hypothèses de croissance : un PIB plus faible que prévu rend l'objectif de déficit plus difficile à tenir.
+
+Et après
+
+Détail du troisième trimestre (pouvoir d'achat, taux de marge) le 27 novembre ; première estimation du quatrième trimestre le 29 janvier 2027.
+
+Sources : Insee · dépêche AFP via Boursorama · France Épargne · Économie Matin
+
+3. Airbus : bénéfice net +20 %, résultat opérationnel -9 %
+
+INDUSTRIE
+
++20 % : bénéfice net du 3e trimestre
+
+-9 % : EBIT ajusté du 3e trimestre
+
+547 : avions livrés en 9 mois
+
+Ce qui s'est passé
+
+Mercredi 28 octobre, Airbus a publié ses résultats à neuf mois. Au troisième trimestre, le bénéfice net atteint 1 344 millions d'euros (+20 %), mais le résultat opérationnel ajusté (EBIT ajusté) recule de 9 %, à 1 768 millions d'euros, et le chiffre d'affaires de 2 %, à 17,47 milliards d'euros ; 196 avions commerciaux ont été livrés. Sur neuf mois, le chiffre d'affaires est de 50,6 milliards d'euros (+7 %), l'EBIT ajusté de 4 495 millions d'euros et le bénéfice net de 3 587 millions d'euros (2 641 millions un an plus tôt). 547 avions ont été livrés. La trésorerie nette tombe à 7,0 milliards d'euros, contre 12,2 milliards fin 2025, et le flux de trésorerie disponible avant financement des clients est de -1,3 milliard. Airbus confirme ses objectifs 2026 : environ 870 livraisons, un EBIT ajusté d'environ 7,5 milliards d'euros et un flux de trésorerie disponible d'environ 4,5 milliards.
+
+L'éclairage
+
+Pourquoi les livraisons comptent autant ?
+
+Un constructeur d'avions encaisse l'essentiel du prix à la livraison : tant que l'appareil n'est pas remis à la compagnie, l'argent n'arrive pas. Airbus a livré 547 avions en neuf mois pour un objectif d'environ 870 : il doit donc en livrer 323 entre octobre et décembre, soit environ 108 par mois. L'EBIT ajusté est le résultat opérationnel avant certains éléments exceptionnels ; il mesure ce que rapporte l'activité elle-même. Le bénéfice net peut monter alors que l'EBIT baisse, car il inclut aussi des éléments financiers et des ajustements comptables.
+
+Ce qu'ils en disent
+
+Airbus dit se concentrer « sur les livraisons tout en gardant une attention constante à la qualité ».
+Guillaume Faury (Entreprise), directeur général d'Airbus
+
+Le 25 septembre, il avertissait qu'un défaut de qualité sur des A321neo pourrait affecter la capacité d'Airbus à atteindre l'objectif de 870 livraisons, selon la réaction des clients et l'ampleur des réparations.
+Charles Armitage (Analystes), Citi
+
+Ce qui change
+
+Pour les salariés et les sous-traitants, le rythme des livraisons conditionne les cadences de production, que le groupe vise à 70-75 appareils par mois pour la famille A320 d'ici fin 2027.
+
+Et après
+
+Le quatrième trimestre dira si les 870 livraisons sont atteintes : résultats annuels publiés début 2027.
+
+Sources : communiqué Airbus · ABC Bourse · France Épargne · Zonebourse via Bourse Direct
+
+4. Sanofi : objectifs 2026 relevés, Dupixent à 5,7 Md€
+
+ENTREPRISES
+
++14,3 % : ventes du 3e trim. (taux constants)
+
+5,7 Md€ : ventes de Dupixent
+
++4,7 % : action Sanofi le 30 octobre
+
+Ce qui s'est passé
+
+Vendredi 30 octobre, Sanofi a publié un chiffre d'affaires de 14 444 millions d'euros pour le troisième trimestre, en hausse de 14,3 % à taux de change constants (+16,2 % aux taux publiés). Le bénéfice net par action des activités, indicateur que le groupe met en avant, atteint 3,55 euros (+19,6 % à taux constants). Les ventes de Dupixent, son médicament le plus vendu, progressent de 34,8 %, à 5 687 millions d'euros, soit environ 39 % du chiffre d'affaires du groupe ; celles des vaccins reculent de 6,6 %, à 3,2 milliards. Sanofi relève pour la deuxième fois ses objectifs 2026 : croissance des ventes à deux chiffres, dans le bas de la fourchette (« low-teens » dans le communiqué), et du bénéfice par action dans le milieu de la fourchette (« mid-teens »), contre environ 10 % pour les ventes dans l'objectif de juillet. À Paris, l'action a gagné 4,71 % et clôturé à 79,74 euros, la plus forte hausse du CAC 40 ce jour-là.
+
+L'éclairage
+
+Pourquoi Dupixent est-il si important ?
+
+Quand un médicament pèse près de 40 % des ventes d'un groupe, son avenir conditionne tout le reste. Un médicament est protégé par des brevets : à leur expiration, c'est la perte d'exclusivité et d'autres laboratoires peuvent vendre des versions moins chères, ce qui fait chuter les ventes de l'original. La directrice générale Belén Garijo a indiqué que la priorité est de protéger les résultats au moment de la perte d'exclusivité de Dupixent (communiqué). Les leviers cités : productivité de la recherche, acquisitions et nouveaux médicaments (« pharma launches », +31,4 % à 1,4 Md€ ce trimestre).
+
+Ce qu'ils en disent
+
+Elle attribue la performance aux nouveaux médicaments et à Dupixent, et affirme que la priorité est de protéger les résultats au-delà de la perte d'exclusivité de ce dernier. Selon le communiqué, les acquisitions seront déterminantes pour compléter cette transformation.
+Belén Garijo (Entreprise), directrice générale de Sanofi
+
+Ce qui change
+
+Pour les actionnaires, la hausse de l'objectif se reflète dans le cours du jour.
+
+Et après
+
+Sanofi dit vouloir détailler ses priorités stratégiques de moyen et long terme d'ici fin 2026.
+
+Sources : communiqué Sanofi · Boursorama · France Épargne · L'Usine Nouvelle
+
+À venir
+
+- 4 nov. : Zone euro : estimation rapide de l'inflation d'octobre par Eurostat.
+- 13 nov. : Insee : résultat définitif de l'inflation d'octobre.
+- 27 nov. : Insee : résultats détaillés du PIB du troisième trimestre (pouvoir d'achat, taux de marge).
+
+Les mots du jour
+
+Glissement annuel
+La variation d'un prix ou d'un indice entre un mois et le même mois un an plus tôt. Les 3,4 % d'inflation sont un glissement annuel.
+Acquis de croissance
+La croissance annuelle déjà garantie si l'activité restait stable jusqu'à la fin de l'année.
+EBIT ajusté
+Le résultat d'exploitation d'une entreprise, retraité de certains éléments exceptionnels : ce que rapporte son activité courante.
+Perte d'exclusivité
+Le moment où un brevet expire et où des concurrents peuvent vendre le même type de médicament moins cher.
+
+Vrai ou faux ?
+
+Au troisième trimestre 2026, le PIB de la France a reculé de 0,1 %, selon la première estimation de l'Insee.
+
+Réponse : vrai. L'Insee a publié le 30 octobre une première estimation de -0,1 % pour le troisième trimestre, après 0,0 % au deuxième. Le chiffre est provisoire.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+samedi 31 octobre 2026 · 10 min de lecture
+
+1. Diabète de type 2 : un capteur de glucose fait baisser l'HbA1c
+
+TECH SANTÉ
+
+−0,9 pt : HbA1c de moins vs soins habituels
+
++21 pts : temps passé dans la cible de glucose
+
+283 : adultes, 22 cabinets de médecine générale
+
+Ce qui s'est passé
+
+Le 29 octobre 2026, le New England Journal of Medicine a publié l'essai CONNECT, déjà présenté en juin au congrès de l'American Diabetes Association. Dans 22 cabinets de soins primaires américains, 283 adultes atteints de diabète de type 2 qui n'utilisaient pas d'insuline ont été répartis au hasard : 145 ont porté un capteur de glucose en continu (Dexcom G7), 138 ont gardé les soins habituels. Après 26 semaines, l'hémoglobine glyquée (HbA1c) était passée de 8,8 % à 7,2 % avec le capteur et de 8,7 % à 8,0 % avec les soins habituels, soit un écart ajusté de −0,9 point (intervalle de confiance à 95 % de −1,1 à −0,6). Le temps passé entre 70 et 180 mg/dL était supérieur de 21 points avec le capteur. Le temps sous 54 mg/dL était un peu plus faible dans le groupe capteur et aucune hypoglycémie sévère n'a été signalée. L'étude est financée par Dexcom, qui fabrique le capteur.
+
+L'éclairage
+
+Que mesure un capteur de glucose, et pourquoi l'HbA1c ?
+
+Un capteur de glucose en continu est un petit boîtier collé sur la peau, dont un filament mesure le sucre dans le liquide sous la peau toutes les quelques minutes. Il remplace les piqûres au doigt. L'HbA1c (hémoglobine glyquée) reflète la glycémie moyenne des deux à trois derniers mois ; le temps dans la cible indique combien d'heures le glucose reste entre 70 et 180 mg/dL. Un essai randomisé compare deux groupes tirés au sort, ce qui rend l'écart attribuable au capteur. Limites : 26 semaines seulement, des visites de suivi (par vidéo et en cabinet) dans les deux groupes, et un fabricant qui finance l'étude. Aucune donnée ici sur les complications du diabète à long terme. Elle espère que ces données influenceront les décisions de remboursement des assureurs américains.
+
+Ce qu'ils en disent
+
+« Not only did CGM show a benefit, it showed a highly clinically significant benefit in terms of the amount of HbA1c compared to blood glucose monitoring, as well as the increase in time in range. »
+Diana Isaacs (Expert indépendant), pharmacienne spécialiste du diabète, commentaire pour Healio
+
+« These results add to the evidence that CGM should be considered in all people with type 2 diabetes both using insulin and not using insulin. »
+Thomas Martens (Auteurs), International Diabetes Center, Minneapolis
+
+Ce qui change
+
+Pour les adultes atteints de diabète de type 2 sans insuline, il existe désormais un essai randomisé de bon niveau montrant qu'un capteur améliore l'HbA1c sur 26 semaines.
+
+Et après
+
+Selon ConsultantLive, les recommandations 2026 de l'ADA américaine ont déjà élargi l'usage des capteurs aux adultes sous tout type de traitement quand ils aident la prise en charge. Reste à voir les effets à plus long terme et la prise en charge par les systèmes de santé.
+
+Sources : NEJM (étude originale, DOI) · PubMed · Healio · U.S. Pharmacist · ConsultantLive
+
+2. BPCO : le tozorakimab réduit les exacerbations dans deux essais de phase 3
+
+TRAITEMENT
+
+−29 % : exacerbations, essai OBERON
+
+−34 % : exacerbations, essai TITANIA
+
+1 750 : patients au total, 52 semaines
+
+Ce qui s'est passé
+
+Le 29 octobre 2026, le New England Journal of Medicine a publié les essais de phase 3 OBERON et TITANIA, menés par AstraZeneca. Le tozorakimab est un anticorps qui bloque l'interleukine 33, une molécule impliquée dans l'inflammation des poumons. Des adultes atteints de bronchopneumopathie chronique obstructive (BPCO), fumeurs ou anciens fumeurs, qui avaient fait des exacerbations malgré leurs inhalateurs, ont reçu une injection sous la peau de 300 mg toutes les 4 semaines ou un placebo pendant 52 semaines : 877 patients dans OBERON, 873 dans TITANIA. Chez les anciens fumeurs, le taux annuel d'exacerbations modérées ou sévères était de 1,34 contre 1,90 dans OBERON (rapport de taux 0,71) et de 1,37 contre 2,07 dans TITANIA (0,66). Dans la population entière, le rapport était de 0,70 et 0,71. Selon EMJ, les réactions au point d'injection étaient plus fréquentes sous tozorakimab.
+
+L'éclairage
+
+Qu'est-ce qu'une exacerbation de BPCO ?
+
+La BPCO est une maladie chronique des bronches, le plus souvent liée au tabac, qui rend la respiration difficile. Une exacerbation est une poussée brutale : toux, essoufflement et crachats s'aggravent, parfois jusqu'à l'hospitalisation. Le tozorakimab est un anticorps monoclonal, une protéine fabriquée pour bloquer une cible précise, ici l'interleukine 33. Deux essais identiques qui donnent le même résultat renforcent la confiance, car un hasard unique est moins probable. Limite : la réduction porte sur le nombre de poussées, pas (dans ce que rapportent les sources consultées) sur la survie, et l'essai est financé par le fabricant.
+
+Ce qu'ils en disent
+
+« Reducing exacerbations is one of the most important goals in the treatment of COPD because flare-ups have a profound impact on patients’ health, quality of life and long-term outcomes. »
+Frank Sciurba (Auteurs), université de Pittsburgh, investigateur principal
+
+« Tozorakimab works in a fundamentally different way from other biologics »
+Sharon Barr (Industrie), vice-présidente exécutive R&D, AstraZeneca
+
+Ce qui change
+
+Pour les personnes atteintes de BPCO qui font des poussées malgré leur traitement inhalé, une nouvelle classe de médicament injectable se rapproche d'une autorisation. Elle ne remplace pas les inhalateurs : elle s'y ajoute.
+
+Et après
+
+Selon EMJ, la demande d'AstraZeneca est en examen prioritaire auprès de la FDA américaine, avec une décision attendue au premier trimestre 2027. Selon PharmaTimes, d'autres essais du programme, PROSPERO et MIRANDA, sont en cours.
+
+Sources : NEJM (étude originale, DOI) · EMJ · PharmaTimes · COPD News Today · PubMed
+
+3. Règles abondantes : un stérilet après l'ablation de l'endomètre réduit les hystérectomies
+
+CHIRURGIE
+
+4 % : hystérectomie à 2 ans avec stérilet
+
+10 % : hystérectomie à 2 ans sans stérilet
+
+715 : femmes, 34 hôpitaux néerlandais
+
+Ce qui s'est passé
+
+Le 31 octobre 2026, The Lancet publie l'essai néerlandais MIRA2. Il porte sur l'ablation de l'endomètre, une intervention qui détruit la muqueuse de l'utérus (par radiofréquence ou par résection) pour traiter des règles abondantes. Environ 10 % des patientes finissent par subir une hystérectomie dans les deux ans, rappellent les auteurs. Dans 34 hôpitaux, 715 femmes de moins de 60 ans, âgées de 45 ans en médiane, ont été réparties au hasard entre l'ablation seule (356) et l'ablation suivie, dans la même séance, de la pose d'un stérilet hormonal au lévonorgestrel (359). À 2 ans, une hystérectomie avait été réalisée chez 15 des 342 femmes avec stérilet (4 %) contre 34 des 331 femmes sans (10 %) : risque relatif de 0,43 (intervalle de confiance à 95 % de 0,24 à 0,77). Des événements indésirables graves sont survenus chez 8 % des femmes dans les deux groupes, sans décès lié au traitement. L'essai est financé par l'organisme public néerlandais ZonMw, et il est en ouvert : patientes et médecins savaient quel traitement était reçu.
+
+L'éclairage
+
+Ablation de l'endomètre, stérilet hormonal et hystérectomie
+
+L'endomètre est la muqueuse qui tapisse l'intérieur de l'utérus et saigne pendant les règles. Quand elle est détruite par ablation, les règles diminuent, sans ouvrir le ventre. Mais des îlots de muqueuse peuvent subsister ou repousser, et certaines femmes finissent par subir une hystérectomie (ablation de l'utérus). Le stérilet au lévonorgestrel libère une hormone qui freine la muqueuse ; l'idée testée ici est de le poser tout de suite après l'ablation. L'essai est « ouvert » : un biais est possible sur des critères subjectifs, mais l'hystérectomie est un fait objectif, ce qui limite ce risque. Limite : le suivi est de 2 ans, et l'essai a été mené aux Pays-Bas. Les auteurs concluent aussi que la combinaison a réduit de façon significative l'hystérectomie par rapport à l'ablation seule.
+
+Ce qu'ils en disent
+
+« The combined treatment appears to be a safe adjunctive strategy for heavy menstrual bleeding that does not increase the risk of complications. »
+Équipe de l'essai MIRA2 (Auteurs), Pays-Bas
+
+Ce qui change
+
+Pour une femme qui envisage une ablation de l'endomètre contre des règles abondantes, il existe maintenant un essai randomisé indiquant que poser un stérilet hormonal dans la même séance diminue le recours ultérieur à l'hystérectomie, sans excès de complications graves dans les deux ans.
+
+Et après
+
+Des recommandations de sociétés savantes pourraient intégrer ce résultat ; aucune annonce n'a été relevée. Le suivi à plus long terme reste à publier.
+
+Sources : The Lancet (étude originale, DOI) · PubMed · protocole de l'essai (BMC Women's Health) · Université de Maastricht
+
+À venir
+
+- T1 2027 : Tozorakimab dans la BPCO : décision attendue de la FDA américaine au premier trimestre 2027, selon EMJ.
+
+Les mots du jour
+
+Hémoglobine glyquée (HbA1c)
+Une prise de sang qui reflète la glycémie moyenne des deux à trois derniers mois. Elle sert à suivre le diabète.
+Risque relatif
+Le rapport entre le risque dans un groupe et celui de l'autre. Un risque relatif de 0,43 signifie un risque un peu plus de deux fois plus faible.
+Essai ouvert
+Un essai où patients et médecins savent quel traitement est reçu. Plus simple à mener, mais plus exposé aux biais pour les critères subjectifs.
+Anticorps monoclonal
+Une protéine fabriquée en laboratoire pour se fixer sur une cible précise, ici une molécule de l'inflammation des poumons.
+
+Vrai ou faux ?
+
+Dans l'essai MIRA2, ajouter un stérilet hormonal juste après l'ablation de l'endomètre n'a pas réduit le nombre d'hystérectomies à 2 ans.
+
+Réponse : faux. C'est faux : l'hystérectomie a été nécessaire chez 4 % des femmes avec stérilet (15 sur 342) contre 10 % sans (34 sur 331), soit un risque relatif de 0,43, selon l'étude publiée dans The Lancet.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+samedi 31 octobre 2026 · 5 min de lecture
+
+1. 31 octobre : manifestations interdites, centre-ville aménagé
+
+ÉTAT ET VILLE
+
+2 : manifestations déclarées
+
+6 h 30 : fermeture des parkings Verdun
+
+14 h : rassemblement annoncé, gare
+
+Ce qui s'est passé
+
+Samedi 31 octobre, de nouveaux appels à manifester circulent à La Rochelle, après les journées des 17 et 24 octobre. Selon la préfecture, seules deux manifestations ont été déclarées en Charente-Maritime, à Rochefort et à Saintes. Le préfet, Michel Prosic, interdit les manifestations, attroupements et rassemblements revendicatifs dans des périmètres définis à La Rochelle, Puilboreau, Saintes et Bourcefranc-le-Chapus. Selon inf-info, l'interdiction couvre à La Rochelle une large partie du centre-ville et la zone commerciale de Beaulieu, et la gare est hors du périmètre d'après la carte annexée. Un second arrêté interdit à La Rochelle, Puilboreau, Rochefort, Royan et Saintes la détention de fusées et d'artifices, ainsi que le port sans motif légitime d'équipements de protection individuelle. La Ville ferme les parkings de la place de Verdun dès 6 h 30, dévie les bus Yélo dès 10 h, annule le marché non alimentaire et ferme l'hôtel de ville.
+
+- Le préfet, qui représente l'État, prend les arrêtés : interdiction de manifester dans des périmètres, interdiction des artifices et des équipements de protection. Les cartes des périmètres sont en annexe de son communiqué.
+- La Ville et l'Agglomération organisent le quotidien : stationnement, marchés, bus Yélo, bâtiments municipaux. Ces mesures ne sont pas l'interdiction elle-même.
+- Une manifestation doit faire l'objet d'une déclaration préalable auprès des services de l'État. Un rassemblement non déclaré est jugé illégal par la préfecture ; une manifestation déclarée reste autorisée.
+
+L'éclairage
+
+Qui décide quoi ce samedi ?
+
+Ce qu'ils en disent
+
+Les parkings de surface et souterrain de la place de Verdun sont fermés dès 6 h 30 : « Aucune entrée ni sortie ne sera possible ». La Ville invite les usagers à se stationner au parking Vieux-Port Sud et demande de rentrer les bacs de déchets après la collecte.
+Mairie (Ville de la rochelle), mesures d'organisation
+
+Selon inf-info, il appelle à se retrouver à 14 h devant la gare, avec des déguisements pour un « Carnaval des ténèbres ». Les appels citent notamment le prix des carburants, des revendications étudiantes et la « défense des libertés publiques et le droit de manifester ».
+« Collectif du 17 octobre » (Collectif), compte relayé par inf-info
+
+Les rassemblements annoncés mais non déclarés sont « par nature illégaux ». La préfecture ajoute : « Aucun débordement ne sera toléré ». Elle précise que « La liberté de manifester ne saurait servir de prétexte aux violences et aux dégradations ».
+Michel Prosic (État / préfecture), préfet de la Charente-Maritime
+
+Ce qui change
+
+Autour de la place de Verdun, plus d'accès aux parkings, des bus déviés et des stations de vélo Yélo fermées, dont celle de la gare. Le marché central, celui de la place du Marché et le marché de rues restent ouverts samedi matin.
+
+Et après
+
+La préfecture active le centre opérationnel départemental samedi et indique que les parquets sont mobilisés. Aucun bilan de la journée n'était connu à l'envoi de cette édition.
+
+Sources : préfecture de la Charente-Maritime · Ville de La Rochelle · ICI · inf-info · Agglomération (déchèteries)
+
+À venir
+
+- 12 nov. : Forum Stage Emploi Alternance à l'Université de La Rochelle, avec Port Atlantique La Rochelle.
+- 16 nov. : Pont d'Oléron : fin de la consultation sur l'avenir de l'ouvrage.
+- 19 nov. : Maison du Port : dernier jour de l'exposition « Infiniment Rivage », du lundi au vendredi.
+
+Les mots du jour
+
+Arrêté préfectoral
+Une décision écrite du préfet, applicable sur un territoire et une durée précis. Ici, elle interdit des rassemblements ou des objets dans des périmètres définis.
+Déclaration préalable
+La démarche à faire auprès des services de l'État avant une manifestation sur la voie publique. Selon la préfecture, un rassemblement non déclaré est illégal.
+Métabolite
+Une substance issue de la dégradation d'une autre. Les métabolites de pesticides sont recherchés dans l'eau potable avec des seuils de qualité.
+
+Vrai ou faux ?
+
+Les forages de Fraise, à Vérines, sont toujours à l'arrêt après la détection de traces d'herbicides dans l'eau.
+
+Réponse : faux. Faux : après deux analyses sans trace des deux molécules, les forages ont été rouverts le 2 octobre 2026.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+samedi 31 octobre 2026 · 5 min de lecture
+
+1. Transmission des fermes : deux amendements au budget 2027
+
+AGRICULTURE
+
+1 M€ : abattement sur la plus-value du cédant (doublé)
+
+0,1 % : taux de droits de mutation sur le foncier rural
+
+5 ans : conservation du bien exigée de l'acquéreur
+
+Ce qui s'est passé
+
+Le gouvernement a déposé deux amendements au projet de budget 2027, a rapporté Terre-net (avec AFP) mercredi 28 octobre 2026. Ensemble, ils forment le « pacte Genevard », du nom de la ministre de l'Agriculture Annie Genevard, et doivent courir jusqu'en 2029. Le premier double l'abattement fixe sur la plus-value d'un agriculteur proche de la retraite qui transmet son exploitation, qui atteint ainsi un million d'euros, à condition que la cession profite à de nouveaux agriculteurs. Le second étend aux immeubles ruraux un taux réduit de droits de mutation de 0,1 %, pour la fraction du prix inférieure à 150 000 euros ; l'acquéreur doit s'engager à un usage exclusivement agricole, à exploiter le bien lui-même et à le conserver au moins cinq ans. Le pacte avait été annoncé le 15 octobre par le Premier ministre, dans un plan de 500 à 700 millions d'euros pris sur des crédits déjà inscrits au budget 2027, selon LégiFiscal. À ce stade, il s'agit d'amendements déposés : aucun vote n'est rapporté dans les sources consultées.
+
+- La plus-value est la différence entre le prix de vente et le prix d'achat ou de création. L'abattement est la somme retirée de ce calcul avant l'impôt : plus il est élevé, moins le cédant paie sur son départ.
+- Les droits de mutation sont les taxes payées par l'acheteur d'un bien immobilier. Le taux de 0,1 % ne s'appliquerait qu'à la fraction du prix sous 150 000 euros, pas à la totalité.
+- Le contexte est démographique : selon LégiFiscal, près de 60 % des agriculteurs avaient 50 ans ou plus en 2020. Le ministère rappelle que le guichet unique France Services agriculture, consacré à l'installation et à la transmission, ouvrira le 1er janvier 2027.
+
+L'éclairage
+
+Que changent ces deux mesures pour une reprise de ferme ?
+
+Ce qu'ils en disent
+
+Présentant le budget 2027 le 2 octobre, il indique que les dispositifs fiscaux de transmission et d'installation sont maintenus et fait de « transmettre » l'une des trois priorités du budget, avec protéger et produire.
+Ministère de l'Agriculture (Pouvoirs publics)
+
+Selon LégiFiscal, le pacte de transmission vise à éviter qu'une exploitation reste sans repreneur et s'inspirerait du pacte Dutreil, avec une exonération fiscale. Ses paramètres n'étaient alors pas connus : taux, durée des engagements, biens éligibles.
+Premier ministre (Pouvoirs publics), plan du 15 octobre
+
+Ce qui change
+
+Rien pour l'instant : les amendements ne sont pas votés.
+
+Et après
+
+Les amendements doivent être examinés par les députés puis les sénateurs avec le budget 2027 ; le calendrier de ces débats n'est pas précisé dans les sources consultées. Le guichet France Services agriculture doit ouvrir le 1er janvier 2027.
+
+Sources : Terre-net (avec AFP) · Ministère de l'Agriculture · LégiFiscal · Réussir
+
+À venir
+
+- 7 nov. : Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS).
+- 9 nov. : Cadmium : fin de la consultation publique sur le projet d'arrêté du gouvernement (La France Agricole).
+
+Les mots du jour
+
+Plus-value
+Différence entre le prix de vente d'un bien et son prix d'acquisition, sur laquelle le vendeur peut être imposé.
+Abattement
+Somme déduite d'une base avant le calcul de l'impôt.
+Pacte Dutreil
+Dispositif d'exonération fiscale pour la transmission d'entreprises (article 787 B du code général des impôts), dont le pacte Genevard est rapproché par LégiFiscal.
+
+Vrai ou faux ?
+
+Selon les amendements du gouvernement, le taux réduit de droits de mutation de 0,1 % s'appliquerait à la totalité du prix d'achat d'un immeuble rural.
+
+Réponse : faux. Le taux de 0,1 % ne s'appliquerait qu'à la fraction du prix inférieure à 150 000 euros, selon Terre-net (avec AFP), qui a consulté les amendements.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+samedi 31 octobre 2026 · 10 min de lecture
+
+1. Claude Code : une extension piégée diffusée via la boutique de Cursor
+
+CYBERSÉCURITÉ
+
+5 000 : utilisateurs au plus, selon Cursor
+
+11 h : de mise à disposition le 29 octobre
+
+1 clé : SSH de l'attaquant ajoutée
+
+Ce qui s'est passé
+
+Le 29 octobre, entre environ 2 h 27 et 13 h 35 (heure du Pacifique), une version modifiée de l'extension Claude Code, un petit programme ajouté à l'éditeur de code Cursor, a été proposée sur la boutique d'extensions de Cursor, pour Windows et macOS. Selon Cursor, ce code tente d'installer une porte dérobée : il collecte des informations sur la machine, ajoute une clé SSH de l'attaquant, tente d'ouvrir un tunnel d'accès à distance et de le rendre durable. Cursor précise que l'activation du service SSH exige des droits d'administrateur que l'extension n'a pas sur la plupart des machines, mais que la clé a été ajoutée, la persistance installée et les informations envoyées. La presse spécialisée, qui cite Cursor, évoque au plus 5 000 utilisateurs concernés. Anthropic a publié une version 2.1.314 qui ne contient pas le code malveillant. Ni Cursor ni Anthropic n'ont expliqué comment le paquet a pu être publié sur la boutique.
+
+L'éclairage
+
+Pourquoi cette attaque vise-t-elle un outil de confiance ?
+
+Une extension est un petit programme que l'on ajoute à un logiciel, ici un éditeur de code. Les extensions s'installent depuis une boutique et se mettent souvent à jour toutes seules. Une attaque de la chaîne d'approvisionnement (supply chain attack) consiste à glisser du code malveillant dans un outil que l'utilisateur installe de lui-même, plutôt qu'à le viser directement. Une porte dérobée (backdoor) est un accès caché à une machine. Une clé SSH permet de s'y connecter à distance sans mot de passe : celle de l'attaquant était nommée « svc-telemetry » pour passer inaperçue. Établi : la version piégée existait sur la boutique de Cursor. Non établi : la méthode d'intrusion.
+
+Ce qu'ils en disent
+
+« [We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution »
+Cursor (Entreprise), éditeur de la boutique
+
+« We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops. »
+Felix Rieseberg (Entreprise), Anthropic, équipe technique
+
+Ce qui change
+
+Désinstaller l'extension ne suffit pas, selon Cursor : le code installe des scripts qui restent actifs.
+
+Et après
+
+Cursor dit avoir fermé sa boutique, changé ses clés, vérifié les autres extensions puis rouvert. La méthode d'intrusion n'a pas été publiée à ce jour.
+
+Sources : Cursor (avis de sécurité) · The Register · The Hacker News
+
+2. Meta : la CMA britannique enquête sur ses conditions pour les éditeurs
+
+RÉGULATION
+
+30/10 : ouverture de l'enquête
+
+20/11 : révision prévue, mise en pause
+
+1998 : loi sur la concurrence
+
+Ce qui s'est passé
+
+Le 30 octobre, l'autorité britannique de la concurrence (CMA) a ouvert une enquête formelle sur les conditions commerciales de Meta pour les entreprises qui utilisent ses services. Meta prévoyait de les réviser le 20 novembre, puis les a mises en pause le 28 octobre, le temps d'une consultation. Selon la CMA, ces conditions pourraient permettre à Meta de collecter le contenu des sites d'éditeurs et d'entreprises, puis de l'utiliser pour développer ses propres produits, y compris ses fonctions d'IA, sans que ces entreprises choisissent si ou comment leur contenu est utilisé. L'enquête doit établir si Meta détient une position dominante sur un marché au Royaume-Uni et si ses conditions constituent un abus au sens du Competition Act 1998. La CMA précise qu'aucune décision n'est prise sur une infraction. Meta répond qu'il n'y a pas de motif d'enquête.
+
+L'éclairage
+
+Que reproche-t-on à Meta, et que peut-il se passer ?
+
+Une entreprise en position dominante a des obligations particulières : elle ne doit pas imposer à ses clients des conditions jugées déloyales. Les éditeurs de presse dépendent de Facebook et d'Instagram pour toucher leur public, ce qui limite leur marge de négociation. La question posée ici : Meta peut-il, par ses conditions, collecter le contenu de leurs sites (ce que font des robots d'exploration) pour nourrir ses outils d'IA ? Une enquête ouverte n'est pas une condamnation : la CMA va réunir des preuves, y compris auprès de Meta et de tiers. Elle dit aussi agir à la suite de préoccupations exprimées par la News Media Association et le Movement for an Open Web.
+
+Ce qu'ils en disent
+
+« But where a company holds a dominant position, it must not use that position to impose unfair terms. »
+Sarah Cardell (Régulateur), directrice générale de la CMA
+
+« There are no grounds for a competition investigation. »
+Un porte-parole de Meta (Entreprise)
+
+Elles ont fait part de leurs préoccupations à la CMA, qui les cite comme point de départ de l'enquête (paraphrase, sans citation).
+News Media Association et Movement for an Open Web (Créateurs / ayants droit), organisations d'éditeurs et d'entreprises
+
+Ce qui change
+
+À court terme, rien ne change pour les lecteurs : les nouvelles conditions sont suspendues. Pour les éditeurs, l'issue fixera ce que Meta peut faire de leur contenu pour l'IA.
+
+Et après
+
+La CMA collecte désormais des éléments. Meta indique s'être engagé à ne pas modifier ses conditions sans consulter éditeurs et parties prenantes. La date du 20 novembre était celle de la révision prévue.
+
+Sources : CMA (gov.uk) · Press Association via Yahoo · The Next Web
+
+3. Mistral AI : les poids de Mistral Large 4 sont publiés
+
+TECH FRANÇAISE
+
+1 000 Md : paramètres (1,05 T selon certains)
+
+160+ : langues, selon Mistral
+
+29/10 : poids publiés selon BDM
+
+Ce qui s'est passé
+
+La société française Mistral AI a publié les poids de Mistral Large 4, surnommé « Le Chonk », un modèle multimodal (texte et image) d'environ 1 000 milliards de paramètres, après un aperçu public ouvert le 6 octobre. Le Blog du Modérateur date la publication des poids du 29 octobre. Mistral annonce un modèle entraîné en Europe, disponible sous une licence « Mistral Ecosystem Open-Weight », une licence MIT modifiée : usage, modification et commercialisation libres, sauf pour les entreprises qui proposent le modèle en service, qui doivent obtenir une licence commerciale. Mistral affirme que c'est le meilleur modèle à poids ouverts pour le code et cite 19,7 % sur FrontierCode 2.0, un test privé de la société Cognition. Ce sont des chiffres de l'entreprise : aucune évaluation indépendante n'est citée dans les sources consultées. Le Blog du Modérateur note que des laboratoires chinois comme DeepSeek ou Kimi restent supérieurs sur plusieurs points. Le nombre de paramètres actifs varie selon les sources, de 49 à 52 milliards.
+
+L'éclairage
+
+Pourquoi publier les « poids » d'un modèle compte-t-il ?
+
+Un modèle d'IA est un très grand ensemble de nombres, les paramètres ou poids, réglés pendant l'entraînement. Les publier permet de télécharger le modèle, de le faire tourner sur ses propres machines et de l'adapter à ses données. C'est un enjeu de souveraineté : on ne dépend pas d'un service à distance. Mais cela ne dit pas tout : les données d'entraînement ne sont pas publiées, et la licence fixe les usages permis. Le modèle est de type mélange d'experts : à chaque mot, seule une partie des paramètres (les « actifs ») travaille, ce qui réduit le coût de calcul. Annonce : les performances. Établi : la publication des poids, confirmée par Mistral.
+
+Ce qu'ils en disent
+
+« Mistral Large 4 ranks as the best open-weight model for coding and among the world's most capable open models overall. »
+Mistral AI (Entreprise), billet officiel
+
+Ce qui change
+
+Une entreprise ou une administration peut installer ce modèle sur ses propres serveurs, à condition de disposer de machines puissantes. Pour un service qui revend le modèle, la licence commerciale est requise.
+
+Et après
+
+Mistral annonce un rapport technique complet « bientôt », sans date. Les évaluations indépendantes diront si les performances annoncées se confirment.
+
+Sources : Mistral AI · Blog du Modérateur · ForkLog
+
+À venir
+
+- 20 nov. : Meta : date initialement prévue pour la révision de ses conditions commerciales, aujourd'hui suspendue (CMA).
+
+Les mots du jour
+
+Clé SSH
+Fichier qui permet de se connecter à distance à une machine sans mot de passe, tant que la machine l'a enregistré.
+
+Vrai ou faux ?
+
+Selon Cursor, la version piégée de l'extension Claude Code est restée disponible sur sa boutique pendant environ 11 heures le 29 octobre.
+
+Réponse : vrai. Vrai : Cursor indique qu'elle a été proposée entre environ 2 h 27 et 13 h 35, heure du Pacifique.
+
+Retrouvez cette édition sur eclairagemedia.com.

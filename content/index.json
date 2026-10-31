@@ -1,5 +1,586 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-10-31",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "Inflation : 3,4 % en octobre, portée par l'énergie",
+    "court": "Inflation : 3,4 % en octobre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shell_petrol_station_fuel_prices%2C_Kleiwegkwartier%2C_Rotterdam_%282022%29_02.jpg/1280px-Shell_petrol_station_fuel_prices%2C_Kleiwegkwartier%2C_Rotterdam_%282022%29_02.jpg",
+    "legende": "Panneau des prix des carburants dans une station Shell de Rotterdam, aux Pays-Bas, en 2022 (illustration)",
+    "chapeau": "Vendredi 30 octobre, l'Insee a estimé que les prix à la consommation augmenteraient de 3,4 % sur un an en octobre, contre 3,1 % en septembre. Sur un mois, ils progresseraient de 0,4 %, après une baisse de 0,3 % en septembre.",
+    "eclairage": "Comment lit-on un chiffre d'inflation ?",
+    "chiffres": [
+     {
+      "valeur": "3,4 %",
+      "legende": "inflation sur un an (3,1 % en sept.)"
+     },
+     {
+      "valeur": "+24 %",
+      "legende": "prix de l'énergie sur un an"
+     },
+     {
+      "valeur": "3,8 %",
+      "legende": "inflation harmonisée (3,4 % en sept.)"
+     }
+    ],
+    "passe": "Vendredi 30 octobre, l'Insee a estimé que les prix à la consommation augmenteraient de 3,4 % sur un an en octobre, contre 3,1 % en septembre. Sur un mois, ils progresseraient de 0,4 %, après une baisse de 0,3 % en septembre. L'énergie accélère pour le quatrième mois de suite, à +24,1 % sur un an contre +21,3 %, avec le gaz et les produits pétroliers en tête. Les services passent de +2,4 % à +2,7 %, avec l'hébergement et les transports. L'alimentation ralentit à +1,2 % (+1,4 % en septembre), les produits manufacturés reculent de 0,2 % et le tabac progresse de 3,3 %. L'indice harmonisé européen, qui sert aux comparaisons entre pays, atteint 3,8 % contre 3,4 %. Les médias situent ce niveau au plus haut depuis janvier 2024 (franceinfo, Boursorama) ou depuis décembre 2023 (JeChange). Chiffre provisoire : l'Insee publiera le résultat définitif le 13 novembre.",
+    "points": [],
+    "explication": "L'inflation mesure la hausse moyenne des prix d'un panier de produits que les ménages achètent. Chaque poste pèse selon sa part dans le panier : l'énergie représente 7,6 % du panier, les services 52 %. Sa contribution à l'inflation est sa hausse multipliée par son poids. Ici : énergie +24,1 % × 7,6 % ≈ 1,8 point sur les 3,4 ; services +2,7 % × 52 % ≈ 1,4 point ; alimentation, tabac et produits manufacturés complètent.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9107965",
+      "nom": "Insee"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-accelere-a-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024_8260760.html",
+      "nom": "franceinfo (avec AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/france-l-inflation-en-rythme-annuel-accelere-a-3-4-en-octobre-5d2ee2662ed6bcad6f5f998d5f1145d3",
+      "nom": "Zonebourse via Boursorama"
+     },
+     {
+      "url": "https://www.jechange.fr/banques/news/inflation-3-4-pourcent-octobre-2026-energie-1-8-point-insee",
+      "nom": "JeChange"
+     }
+    ],
+    "cartes": [],
+    "apres": "Résultat définitif de l'Insee le 13 novembre ; estimation rapide de l'inflation de la zone euro le 4 novembre (Eurostat).",
+    "change": "Un prix de l'énergie qui monte pèse sur le budget de tous les ménages, surtout chauffage et carburant. Pour les entreprises, c'est un coût de production en plus, qu'elles répercutent ou non sur leurs prix de vente.",
+    "credit": {
+     "auteur": "Donald Trung Quoc Don",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
+     "page": "https://commons.wikimedia.org/wiki/File:Shell_petrol_station_fuel_prices,_Kleiwegkwartier,_Rotterdam_(2022)_02.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CONJONCTURE",
+    "titre": "PIB : la France recule de 0,1 % au troisième trimestre",
+    "court": "PIB : -0,1 % au troisième trimestre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Container-Terminal_Bremerhaven_01.jpg/1280px-Container-Terminal_Bremerhaven_01.jpg",
+    "legende": "Le terminal à conteneurs de Bremerhaven, en Allemagne (illustration)",
+    "chapeau": "Vendredi 30 octobre, l'Insee a publié sa première estimation de la croissance : le produit intérieur brut (PIB) de la France a reculé de 0,1 % au troisième trimestre, après une stagnation (0,0 %) au deuxième.",
+    "eclairage": "Pourquoi le commerce extérieur pèse-t-il sur le PIB ?",
+    "chiffres": [
+     {
+      "valeur": "-0,1 %",
+      "legende": "PIB au 3e trimestre"
+     },
+     {
+      "valeur": "-1,7 %",
+      "legende": "exportations sur le trimestre"
+     },
+     {
+      "valeur": "0,2 %",
+      "legende": "acquis de croissance 2026"
+     }
+    ],
+    "passe": "Vendredi 30 octobre, l'Insee a publié sa première estimation de la croissance : le produit intérieur brut (PIB) de la France a reculé de 0,1 % au troisième trimestre, après une stagnation (0,0 %) au deuxième. Le commerce extérieur retire 0,6 point à la croissance : les exportations baissent de 1,7 % (matériels de transport : -9,1 %) alors que les importations sont stables (+0,1 %). La demande intérieure aide un peu : la consommation des ménages progresse de 0,4 %, mais l'investissement recule de 0,6 %, et la production manufacturière de 1,4 %. Les variations de stocks ajoutent 0,4 point. L'acquis de croissance pour 2026 est de 0,2 %. Le gouvernement prévoit 0,5 % pour l'année, l'Insee et la Banque de France 0,4 %. Chiffre provisoire : le détail sera publié le 27 novembre.",
+    "points": [],
+    "explication": "Le PIB compte ce qui est produit en France. Quand les exportations baissent, des biens qui devaient être vendus à l'étranger ne sont plus comptés ; les importations qui augmentent, elles, se retranchent. La contribution du commerce extérieur est la différence entre les deux : -0,6 point ce trimestre, contre +0,6 point au printemps. L'acquis de croissance est la croissance déjà « en poche » pour l'année si le PIB restait stable jusqu'en décembre : 0,2 %. Atteindre 0,5 % suppose donc un rebond au quatrième trimestre.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.insee.fr/fr/statistiques/9111036",
+      "nom": "Insee"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-pib-a-recule-de-0-1-au-troisieme-trimestre-selon-l-insee-35e4f698761dcf90a4658b15c05ccbe1",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/le-pib-francais-recule-de-01-au-troisieme-trimestre-la-cible-de-05-pour-2026-seloigne",
+      "nom": "France Épargne"
+     },
+     {
+      "url": "https://www.economiematin.fr/pib-france-troisieme-trimestre-2026-recul-exportations-insee-301026-263",
+      "nom": "Économie Matin"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Anthony Morlet-Lavidalie",
+      "contexte": "Rexecode",
+      "texte": "« Il n'y a pas de relais de croissance aujourd'hui dans l'économie française, pas de moteur. »",
+      "url": "https://www.france-epargne.fr/news/le-pib-francais-recule-de-01-au-troisieme-trimestre-la-cible-de-05-pour-2026-seloigne",
+      "source": "France Épargne"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Prévision officielle",
+      "contexte": "projet de loi de finances 2027",
+      "texte": "Le gouvernement maintient 0,5 % de croissance pour 2026 ; l'AFP note que le recul du troisième trimestre rend cet objectif « difficile » à atteindre. Pas de déclaration ministérielle relevée.",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-pib-a-recule-de-0-1-au-troisieme-trimestre-selon-l-insee-35e4f698761dcf90a4658b15c05ccbe1",
+      "source": "AFP via Boursorama"
+     }
+    ],
+    "apres": "Détail du troisième trimestre (pouvoir d'achat, taux de marge) le 27 novembre ; première estimation du quatrième trimestre le 29 janvier 2027.",
+    "change": "Une économie qui ne croît pas crée peu d'emplois et peu de recettes fiscales. Le budget 2027 repose sur des hypothèses de croissance : un PIB plus faible que prévu rend l'objectif de déficit plus difficile à tenir.",
+    "credit": {
+     "auteur": "H. Zell",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.fr",
+     "page": "https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremerhaven_01.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "INDUSTRIE",
+    "titre": "Airbus : bénéfice net +20 %, résultat opérationnel -9 %",
+    "court": "Airbus : bénéfice +20 %, EBIT -9 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hamburg-Finkenwerder_Airport_Delta_Air_Lines_Airbus_A321-271NX_N701DH_%28DSC04004%29.jpg/1280px-Hamburg-Finkenwerder_Airport_Delta_Air_Lines_Airbus_A321-271NX_N701DH_%28DSC04004%29.jpg",
+    "legende": "Un Airbus A321neo de Delta Air Lines sur l'aéroport de Hambourg-Finkenwerder, site d'assemblage d'Airbus (illustration)",
+    "chapeau": "Mercredi 28 octobre, Airbus a publié ses résultats à neuf mois.",
+    "eclairage": "Pourquoi les livraisons comptent autant ?",
+    "chiffres": [
+     {
+      "valeur": "+20 %",
+      "legende": "bénéfice net du 3e trimestre"
+     },
+     {
+      "valeur": "-9 %",
+      "legende": "EBIT ajusté du 3e trimestre"
+     },
+     {
+      "valeur": "547",
+      "legende": "avions livrés en 9 mois"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Airbus a publié ses résultats à neuf mois. Au troisième trimestre, le bénéfice net atteint 1 344 millions d'euros (+20 %), mais le résultat opérationnel ajusté (EBIT ajusté) recule de 9 %, à 1 768 millions d'euros, et le chiffre d'affaires de 2 %, à 17,47 milliards d'euros ; 196 avions commerciaux ont été livrés. Sur neuf mois, le chiffre d'affaires est de 50,6 milliards d'euros (+7 %), l'EBIT ajusté de 4 495 millions d'euros et le bénéfice net de 3 587 millions d'euros (2 641 millions un an plus tôt). 547 avions ont été livrés. La trésorerie nette tombe à 7,0 milliards d'euros, contre 12,2 milliards fin 2025, et le flux de trésorerie disponible avant financement des clients est de -1,3 milliard. Airbus confirme ses objectifs 2026 : environ 870 livraisons, un EBIT ajusté d'environ 7,5 milliards d'euros et un flux de trésorerie disponible d'environ 4,5 milliards.",
+    "points": [],
+    "explication": "Un constructeur d'avions encaisse l'essentiel du prix à la livraison : tant que l'appareil n'est pas remis à la compagnie, l'argent n'arrive pas. Airbus a livré 547 avions en neuf mois pour un objectif d'environ 870 : il doit donc en livrer 323 entre octobre et décembre, soit environ 108 par mois. L'EBIT ajusté est le résultat opérationnel avant certains éléments exceptionnels ; il mesure ce que rapporte l'activité elle-même. Le bénéfice net peut monter alors que l'EBIT baisse, car il inclut aussi des éléments financiers et des ajustements comptables.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-reports-nine-month-9m-2026-results",
+      "nom": "communiqué Airbus"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/airbus-maintient-son-plan-de-vol-pour-2026-mais-le-4e-trimestre-s-annonce-inten_705109",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/airbus-le-resultat-operationnel-ajuste-recule-de-9-au-troisieme-trimestre-faute-de-livraisons",
+      "nom": "France Épargne"
+     },
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/actualites-financieres/resultats-contraste-pour-airbus-les-objectifs-annuels-confirmes-zone-bourse-2f3508e24856f3676f72ad624359aa1d70fd5634",
+      "nom": "Zonebourse via Bourse Direct"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Guillaume Faury",
+      "contexte": "directeur général d'Airbus",
+      "texte": "Airbus dit se concentrer « sur les livraisons tout en gardant une attention constante à la qualité ».",
+      "url": "https://www.france-epargne.fr/news/airbus-le-resultat-operationnel-ajuste-recule-de-9-au-troisieme-trimestre-faute-de-livraisons",
+      "source": "France Épargne"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Charles Armitage",
+      "contexte": "Citi",
+      "texte": "Le 25 septembre, il avertissait qu'un défaut de qualité sur des A321neo pourrait affecter la capacité d'Airbus à atteindre l'objectif de 870 livraisons, selon la réaction des clients et l'ampleur des réparations.",
+      "url": "https://www.france-epargne.fr/news/airbus-le-resultat-operationnel-ajuste-recule-de-9-au-troisieme-trimestre-faute-de-livraisons",
+      "source": "France Épargne"
+     }
+    ],
+    "apres": "Le quatrième trimestre dira si les 870 livraisons sont atteintes : résultats annuels publiés début 2027.",
+    "change": "Pour les salariés et les sous-traitants, le rythme des livraisons conditionne les cadences de production, que le groupe vise à 70-75 appareils par mois pour la famille A320 d'ici fin 2027.",
+    "credit": {
+     "auteur": "MarcelX42",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
+     "page": "https://commons.wikimedia.org/wiki/File:Hamburg-Finkenwerder_Airport_Delta_Air_Lines_Airbus_A321-271NX_N701DH_(DSC04004).jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "ENTREPRISES",
+    "titre": "Sanofi : objectifs 2026 relevés, Dupixent à 5,7 Md€",
+    "court": "Sanofi : objectifs 2026 relevés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dupixent_Pen_and_Packaging.jpg/1280px-Dupixent_Pen_and_Packaging.jpg",
+    "legende": "Stylo injecteur et boîte de Dupixent (version japonaise)",
+    "chapeau": "Vendredi 30 octobre, Sanofi a publié un chiffre d'affaires de 14 444 millions d'euros pour le troisième trimestre, en hausse de 14,3 % à taux de change constants (+16,2 % aux taux publiés). Le bénéfice net par action des activités, indicateur que le groupe met en avant, atteint 3,55 euros (+19,6 % à taux constants).",
+    "eclairage": "Pourquoi Dupixent est-il si important ?",
+    "chiffres": [
+     {
+      "valeur": "+14,3 %",
+      "legende": "ventes du 3e trim. (taux constants)"
+     },
+     {
+      "valeur": "5,7 Md€",
+      "legende": "ventes de Dupixent"
+     },
+     {
+      "valeur": "+4,7 %",
+      "legende": "action Sanofi le 30 octobre"
+     }
+    ],
+    "passe": "Vendredi 30 octobre, Sanofi a publié un chiffre d'affaires de 14 444 millions d'euros pour le troisième trimestre, en hausse de 14,3 % à taux de change constants (+16,2 % aux taux publiés). Le bénéfice net par action des activités, indicateur que le groupe met en avant, atteint 3,55 euros (+19,6 % à taux constants). Les ventes de Dupixent, son médicament le plus vendu, progressent de 34,8 %, à 5 687 millions d'euros, soit environ 39 % du chiffre d'affaires du groupe ; celles des vaccins reculent de 6,6 %, à 3,2 milliards. Sanofi relève pour la deuxième fois ses objectifs 2026 : croissance des ventes à deux chiffres, dans le bas de la fourchette (« low-teens » dans le communiqué), et du bénéfice par action dans le milieu de la fourchette (« mid-teens »), contre environ 10 % pour les ventes dans l'objectif de juillet. À Paris, l'action a gagné 4,71 % et clôturé à 79,74 euros, la plus forte hausse du CAC 40 ce jour-là.",
+    "points": [],
+    "explication": "Quand un médicament pèse près de 40 % des ventes d'un groupe, son avenir conditionne tout le reste. Un médicament est protégé par des brevets : à leur expiration, c'est la perte d'exclusivité et d'autres laboratoires peuvent vendre des versions moins chères, ce qui fait chuter les ventes de l'original. La directrice générale Belén Garijo a indiqué que la priorité est de protéger les résultats au moment de la perte d'exclusivité de Dupixent (communiqué). Les leviers cités : productivité de la recherche, acquisitions et nouveaux médicaments (« pharma launches », +31,4 % à 1,4 Md€ ce trimestre).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000112140426000009/pressreleaseq32026english.htm",
+      "nom": "communiqué Sanofi"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/sanofi-porte-par-dupixent-releve-ses-perspectives-pour-2026-8c45887fd50b584c6157f494d4c26a9c",
+      "nom": "Boursorama"
+     },
+     {
+      "url": "https://www.france-epargne.fr/news/sanofi-releve-ses-objectifs-2026-pour-la-deuxieme-fois-et-bondit-de-47-a-la-bourse-de-paris",
+      "nom": "France Épargne"
+     },
+     {
+      "url": "https://www.usinenouvelle.com/sante-pharma/sanofi/ses-nouveaux-medicaments-et-le-dupixent-performent-sanofi-releve-ses-objectifs-annuels-apres-un-troisieme-trimestre-au-dessus-des-attentes.MQURIRVBQNGUXLPWEYE4S4U4NQ.html",
+      "nom": "L'Usine Nouvelle"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Belén Garijo",
+      "contexte": "directrice générale de Sanofi",
+      "texte": "Elle attribue la performance aux nouveaux médicaments et à Dupixent, et affirme que la priorité est de protéger les résultats au-delà de la perte d'exclusivité de ce dernier. Selon le communiqué, les acquisitions seront déterminantes pour compléter cette transformation.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000112140426000009/pressreleaseq32026english.htm",
+      "source": "communiqué Sanofi"
+     }
+    ],
+    "apres": "Sanofi dit vouloir détailler ses priorités stratégiques de moyen et long terme d'ici fin 2026.",
+    "change": "Pour les actionnaires, la hausse de l'objectif se reflète dans le cours du jour.",
+    "credit": {
+     "auteur": "Lyall0",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
+     "page": "https://commons.wikimedia.org/wiki/File:Dupixent_Pen_and_Packaging.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Zone euro : estimation rapide de l'inflation d'octobre par Eurostat."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Insee : résultat définitif de l'inflation d'octobre."
+   },
+   {
+    "jour": "27",
+    "mois": "NOV.",
+    "texte": "Insee : résultats détaillés du PIB du troisième trimestre (pouvoir d'achat, taux de marge)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Glissement annuel",
+    "definition": "La variation d'un prix ou d'un indice entre un mois et le même mois un an plus tôt. Les 3,4 % d'inflation sont un glissement annuel."
+   },
+   {
+    "terme": "Acquis de croissance",
+    "definition": "La croissance annuelle déjà garantie si l'activité restait stable jusqu'à la fin de l'année."
+   },
+   {
+    "terme": "EBIT ajusté",
+    "definition": "Le résultat d'exploitation d'une entreprise, retraité de certains éléments exceptionnels : ce que rapporte son activité courante."
+   },
+   {
+    "terme": "Perte d'exclusivité",
+    "definition": "Le moment où un brevet expire et où des concurrents peuvent vendre le même type de médicament moins cher."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Au troisième trimestre 2026, le PIB de la France a reculé de 0,1 %, selon la première estimation de l'Insee.",
+   "reponse": true,
+   "explication": "L'Insee a publié le 30 octobre une première estimation de -0,1 % pour le troisième trimestre, après 0,0 % au deuxième. Le chiffre est provisoire."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-10-31",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGRICULTURE",
+    "titre": "Transmission des fermes : deux amendements au budget 2027",
+    "court": "Transmission des fermes : deux amendements",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tillage_on_a_field%2C_Roclincourt.jpg/1280px-Tillage_on_a_field%2C_Roclincourt.jpg",
+    "legende": "Un tracteur travaille un champ à Roclincourt, Pas-de-Calais (illustration)",
+    "chapeau": "Le gouvernement a déposé deux amendements au projet de budget 2027, a rapporté Terre-net (avec AFP) mercredi 28 octobre 2026. Ensemble, ils forment le « pacte Genevard », du nom de la ministre de l'Agriculture Annie Genevard, et doivent courir jusqu'en 2029.",
+    "eclairage": "Que changent ces deux mesures pour une reprise de ferme ?",
+    "chiffres": [
+     {
+      "valeur": "1 M€",
+      "legende": "abattement sur la plus-value du cédant (doublé)"
+     },
+     {
+      "valeur": "0,1 %",
+      "legende": "taux de droits de mutation sur le foncier rural"
+     },
+     {
+      "valeur": "5 ans",
+      "legende": "conservation du bien exigée de l'acquéreur"
+     }
+    ],
+    "passe": "Le gouvernement a déposé deux amendements au projet de budget 2027, a rapporté Terre-net (avec AFP) mercredi 28 octobre 2026. Ensemble, ils forment le « pacte Genevard », du nom de la ministre de l'Agriculture Annie Genevard, et doivent courir jusqu'en 2029. Le premier double l'abattement fixe sur la plus-value d'un agriculteur proche de la retraite qui transmet son exploitation, qui atteint ainsi un million d'euros, à condition que la cession profite à de nouveaux agriculteurs. Le second étend aux immeubles ruraux un taux réduit de droits de mutation de 0,1 %, pour la fraction du prix inférieure à 150 000 euros ; l'acquéreur doit s'engager à un usage exclusivement agricole, à exploiter le bien lui-même et à le conserver au moins cinq ans. Le pacte avait été annoncé le 15 octobre par le Premier ministre, dans un plan de 500 à 700 millions d'euros pris sur des crédits déjà inscrits au budget 2027, selon LégiFiscal. À ce stade, il s'agit d'amendements déposés : aucun vote n'est rapporté dans les sources consultées.",
+    "points": [
+     "La plus-value est la différence entre le prix de vente et le prix d'achat ou de création. L'abattement est la somme retirée de ce calcul avant l'impôt : plus il est élevé, moins le cédant paie sur son départ.",
+     "Les droits de mutation sont les taxes payées par l'acheteur d'un bien immobilier. Le taux de 0,1 % ne s'appliquerait qu'à la fraction du prix sous 150 000 euros, pas à la totalité.",
+     "Le contexte est démographique : selon LégiFiscal, près de 60 % des agriculteurs avaient 50 ans ou plus en 2020. Le ministère rappelle que le guichet unique France Services agriculture, consacré à l'installation et à la transmission, ouvrira le 1er janvier 2027."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/transmission/article/905467/deux-amendements-pour-faciliter-la-transmission-des-exploitations",
+      "nom": "Terre-net (avec AFP)"
+     },
+     {
+      "url": "https://agriculture.gouv.fr/projet-de-loi-de-finances-pour-2027-le-ministere-de-lagriculture-finance-les-priorites-agricoles",
+      "nom": "Ministère de l'Agriculture"
+     },
+     {
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4688-plan-relance-agricole-sebastien-lecornu-annonce-500-700-millions-euros-pacte-transmission.html",
+      "nom": "LégiFiscal"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/budget-2027-le-ministere-precise-les-mesures-fiscales-et-sociales-en-faveur-des",
+      "nom": "Réussir"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Ministère de l'Agriculture",
+      "contexte": null,
+      "texte": "Présentant le budget 2027 le 2 octobre, il indique que les dispositifs fiscaux de transmission et d'installation sont maintenus et fait de « transmettre » l'une des trois priorités du budget, avec protéger et produire.",
+      "url": "https://agriculture.gouv.fr/projet-de-loi-de-finances-pour-2027-le-ministere-de-lagriculture-finance-les-priorites-agricoles",
+      "source": "ministère de l'Agriculture"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Premier ministre",
+      "contexte": "plan du 15 octobre",
+      "texte": "Selon LégiFiscal, le pacte de transmission vise à éviter qu'une exploitation reste sans repreneur et s'inspirerait du pacte Dutreil, avec une exonération fiscale. Ses paramètres n'étaient alors pas connus : taux, durée des engagements, biens éligibles.",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4688-plan-relance-agricole-sebastien-lecornu-annonce-500-700-millions-euros-pacte-transmission.html",
+      "source": "LégiFiscal"
+     }
+    ],
+    "apres": "Les amendements doivent être examinés par les députés puis les sénateurs avec le budget 2027 ; le calendrier de ces débats n'est pas précisé dans les sources consultées. Le guichet France Services agriculture doit ouvrir le 1er janvier 2027.",
+    "change": "Rien pour l'instant : les amendements ne sont pas votés.",
+    "credit": {
+     "auteur": "Olivier",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Tillage_on_a_field,_Roclincourt.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "7",
+    "mois": "NOV.",
+    "texte": "Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS)."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Cadmium : fin de la consultation publique sur le projet d'arrêté du gouvernement (La France Agricole)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "150 000 €",
+   "texte": "C'est la fraction du prix d'un immeuble rural à laquelle s'appliquerait le taux réduit de 0,1 % de droits de mutation prévu par l'un des deux amendements."
+  },
+  "lexique": [
+   {
+    "terme": "Plus-value",
+    "definition": "Différence entre le prix de vente d'un bien et son prix d'acquisition, sur laquelle le vendeur peut être imposé."
+   },
+   {
+    "terme": "Abattement",
+    "definition": "Somme déduite d'une base avant le calcul de l'impôt."
+   },
+   {
+    "terme": "Pacte Dutreil",
+    "definition": "Dispositif d'exonération fiscale pour la transmission d'entreprises (article 787 B du code général des impôts), dont le pacte Genevard est rapproché par LégiFiscal."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon les amendements du gouvernement, le taux réduit de droits de mutation de 0,1 % s'appliquerait à la totalité du prix d'achat d'un immeuble rural.",
+   "reponse": false,
+   "explication": "Le taux de 0,1 % ne s'appliquerait qu'à la fraction du prix inférieure à 150 000 euros, selon Terre-net (avec AFP), qui a consulté les amendements."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-10-31",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉTAT ET VILLE",
+    "titre": "31 octobre : manifestations interdites, centre-ville aménagé",
+    "court": "31 octobre : manifestations interdites",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/B%C3%A2timent_Gare_de_La_Rochelle-Ville_en_soir%C3%A9e_%28juin_2023%29.JPG/1280px-B%C3%A2timent_Gare_de_La_Rochelle-Ville_en_soir%C3%A9e_%28juin_2023%29.JPG",
+    "legende": "Le parvis de la gare de La Rochelle, point de rassemblement annoncé à 14 h",
+    "chapeau": "Samedi 31 octobre, de nouveaux appels à manifester circulent à La Rochelle, après les journées des 17 et 24 octobre. Selon la préfecture, seules deux manifestations ont été déclarées en Charente-Maritime, à Rochefort et à Saintes.",
+    "eclairage": "Qui décide quoi ce samedi ?",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "manifestations déclarées"
+     },
+     {
+      "valeur": "6 h 30",
+      "legende": "fermeture des parkings Verdun"
+     },
+     {
+      "valeur": "14 h",
+      "legende": "rassemblement annoncé, gare"
+     }
+    ],
+    "passe": "Samedi 31 octobre, de nouveaux appels à manifester circulent à La Rochelle, après les journées des 17 et 24 octobre. Selon la préfecture, seules deux manifestations ont été déclarées en Charente-Maritime, à Rochefort et à Saintes. Le préfet, Michel Prosic, interdit les manifestations, attroupements et rassemblements revendicatifs dans des périmètres définis à La Rochelle, Puilboreau, Saintes et Bourcefranc-le-Chapus. Selon inf-info, l'interdiction couvre à La Rochelle une large partie du centre-ville et la zone commerciale de Beaulieu, et la gare est hors du périmètre d'après la carte annexée. Un second arrêté interdit à La Rochelle, Puilboreau, Rochefort, Royan et Saintes la détention de fusées et d'artifices, ainsi que le port sans motif légitime d'équipements de protection individuelle. La Ville ferme les parkings de la place de Verdun dès 6 h 30, dévie les bus Yélo dès 10 h, annule le marché non alimentaire et ferme l'hôtel de ville.",
+    "points": [
+     "Le préfet, qui représente l'État, prend les arrêtés : interdiction de manifester dans des périmètres, interdiction des artifices et des équipements de protection. Les cartes des périmètres sont en annexe de son communiqué.",
+     "La Ville et l'Agglomération organisent le quotidien : stationnement, marchés, bus Yélo, bâtiments municipaux. Ces mesures ne sont pas l'interdiction elle-même.",
+     "Une manifestation doit faire l'objet d'une déclaration préalable auprès des services de l'État. Un rassemblement non déclaré est jugé illégal par la préfecture ; une manifestation déclarée reste autorisée."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/MOUVEMENTS-SOCIAUX-EN-CHARENTE-MARITIME-SAMEDI-31-OCTOBRE-2026",
+      "nom": "préfecture de la Charente-Maritime"
+     },
+     {
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "nom": "Ville de La Rochelle"
+     },
+     {
+      "url": "https://www.ici.fr/nouvelle-aquitaine/charente-maritime-17/mobilisation-du-31-octobre-a-quoi-faut-il-s-attendre-dans-nos-deux-charentes-2918034",
+      "nom": "ICI"
+     },
+     {
+      "url": "https://inf-info.fr/manifestation-du-31-octobre-a-la-rochelle-centre-ville-et-beaulieu-interdits-un-defile-sur-le-theme-dhalloween-annonce-ce-quil-faut-savoir/",
+      "nom": "inf-info"
+     },
+     {
+      "url": "https://www.agglo-larochelle.fr/actualites",
+      "nom": "Agglomération (déchèteries)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "VILLE DE LA ROCHELLE",
+      "qui": "Mairie",
+      "contexte": "mesures d'organisation",
+      "texte": "Les parkings de surface et souterrain de la place de Verdun sont fermés dès 6 h 30 : « Aucune entrée ni sortie ne sera possible ». La Ville invite les usagers à se stationner au parking Vieux-Port Sud et demande de rentrer les bacs de déchets après la collecte.",
+      "url": "https://www.larochelle.fr/a-la-une/une/information-manifestations-en-cours",
+      "source": "larochelle.fr"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "COLLECTIF",
+      "qui": "« Collectif du 17 octobre »",
+      "contexte": "compte relayé par inf-info",
+      "texte": "Selon inf-info, il appelle à se retrouver à 14 h devant la gare, avec des déguisements pour un « Carnaval des ténèbres ». Les appels citent notamment le prix des carburants, des revendications étudiantes et la « défense des libertés publiques et le droit de manifester ».",
+      "url": "https://inf-info.fr/manifestation-du-31-octobre-a-la-rochelle-centre-ville-et-beaulieu-interdits-un-defile-sur-le-theme-dhalloween-annonce-ce-quil-faut-savoir/",
+      "source": "inf-info"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Michel Prosic",
+      "contexte": "préfet de la Charente-Maritime",
+      "texte": "Les rassemblements annoncés mais non déclarés sont « par nature illégaux ». La préfecture ajoute : « Aucun débordement ne sera toléré ». Elle précise que « La liberté de manifester ne saurait servir de prétexte aux violences et aux dégradations ».",
+      "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/MOUVEMENTS-SOCIAUX-EN-CHARENTE-MARITIME-SAMEDI-31-OCTOBRE-2026",
+      "source": "préfecture"
+     }
+    ],
+    "apres": "La préfecture active le centre opérationnel départemental samedi et indique que les parquets sont mobilisés. Aucun bilan de la journée n'était connu à l'envoi de cette édition.",
+    "change": "Autour de la place de Verdun, plus d'accès aux parkings, des bus déviés et des stations de vélo Yélo fermées, dont celle de la gare. Le marché central, celui de la place du Marché et le marché de rues restent ouverts samedi matin.",
+    "credit": {
+     "auteur": "Florian Pépellin",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_Gare_de_La_Rochelle-Ville_en_soir%C3%A9e_(juin_2023).JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "12",
+    "mois": "NOV.",
+    "texte": "Forum Stage Emploi Alternance à l'Université de La Rochelle, avec Port Atlantique La Rochelle."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Pont d'Oléron : fin de la consultation sur l'avenir de l'ouvrage."
+   },
+   {
+    "jour": "19",
+    "mois": "NOV.",
+    "texte": "Maison du Port : dernier jour de l'exposition « Infiniment Rivage », du lundi au vendredi."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Arrêté préfectoral",
+    "definition": "Une décision écrite du préfet, applicable sur un territoire et une durée précis. Ici, elle interdit des rassemblements ou des objets dans des périmètres définis."
+   },
+   {
+    "terme": "Déclaration préalable",
+    "definition": "La démarche à faire auprès des services de l'État avant une manifestation sur la voie publique. Selon la préfecture, un rassemblement non déclaré est illégal."
+   },
+   {
+    "terme": "Métabolite",
+    "definition": "Une substance issue de la dégradation d'une autre. Les métabolites de pesticides sont recherchés dans l'eau potable avec des seuils de qualité."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Les forages de Fraise, à Vérines, sont toujours à l'arrêt après la détection de traces d'herbicides dans l'eau.",
+   "reponse": false,
+   "explication": "Faux : après deux analyses sans trace des deux molécules, les forages ont été rouverts le 2 octobre 2026."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-10-31",
   "minutes": 10,
@@ -358,6 +939,512 @@
    "affirmation": "Selon l'Insee, le PIB de la France a reculé de 0,1 % au troisième trimestre 2026.",
    "reponse": true,
    "explication": "L'Insee l'a publié le 30 octobre : le PIB recule de 0,1 % au troisième trimestre, après une stabilité au deuxième trimestre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-10-31",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH SANTÉ",
+    "titre": "Diabète de type 2 : un capteur de glucose fait baisser l'HbA1c",
+    "court": "Diabète : le capteur de glucose, 0,9 point d'HbA1c",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_dexcom_g6_glucose_monitor_%2852075092685%29.jpg/1280px-A_dexcom_g6_glucose_monitor_%2852075092685%29.jpg",
+    "legende": "Un capteur de glucose en continu collé sur la peau (illustration)",
+    "chapeau": "Le 29 octobre 2026, le New England Journal of Medicine a publié l'essai CONNECT, déjà présenté en juin au congrès de l'American Diabetes Association.",
+    "eclairage": "Que mesure un capteur de glucose, et pourquoi l'HbA1c ?",
+    "chiffres": [
+     {
+      "valeur": "−0,9 pt",
+      "legende": "HbA1c de moins vs soins habituels"
+     },
+     {
+      "valeur": "+21 pts",
+      "legende": "temps passé dans la cible de glucose"
+     },
+     {
+      "valeur": "283",
+      "legende": "adultes, 22 cabinets de médecine générale"
+     }
+    ],
+    "passe": "Le 29 octobre 2026, le New England Journal of Medicine a publié l'essai CONNECT, déjà présenté en juin au congrès de l'American Diabetes Association. Dans 22 cabinets de soins primaires américains, 283 adultes atteints de diabète de type 2 qui n'utilisaient pas d'insuline ont été répartis au hasard : 145 ont porté un capteur de glucose en continu (Dexcom G7), 138 ont gardé les soins habituels. Après 26 semaines, l'hémoglobine glyquée (HbA1c) était passée de 8,8 % à 7,2 % avec le capteur et de 8,7 % à 8,0 % avec les soins habituels, soit un écart ajusté de −0,9 point (intervalle de confiance à 95 % de −1,1 à −0,6). Le temps passé entre 70 et 180 mg/dL était supérieur de 21 points avec le capteur. Le temps sous 54 mg/dL était un peu plus faible dans le groupe capteur et aucune hypoglycémie sévère n'a été signalée. L'étude est financée par Dexcom, qui fabrique le capteur.",
+    "points": [],
+    "explication": "Un capteur de glucose en continu est un petit boîtier collé sur la peau, dont un filament mesure le sucre dans le liquide sous la peau toutes les quelques minutes. Il remplace les piqûres au doigt. L'HbA1c (hémoglobine glyquée) reflète la glycémie moyenne des deux à trois derniers mois ; le temps dans la cible indique combien d'heures le glucose reste entre 70 et 180 mg/dL. Un essai randomisé compare deux groupes tirés au sort, ce qui rend l'écart attribuable au capteur. Limites : 26 semaines seulement, des visites de suivi (par vidéo et en cabinet) dans les deux groupes, et un fabricant qui finance l'étude. Aucune donnée ici sur les complications du diabète à long terme. Elle espère que ces données influenceront les décisions de remboursement des assureurs américains.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2608571",
+      "nom": "NEJM (étude originale, DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878622/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://www.healio.com/news/endocrinology/20260714/cgm-substantially-improves-glycemia-for-adults-with-type-2-diabetes-not-using-insulin",
+      "nom": "Healio"
+     },
+     {
+      "url": "https://www.uspharmacist.com/article/cgm-improves-glycemic-control-in-type-2-diabetes-without-insulin",
+      "nom": "U.S. Pharmacist"
+     },
+     {
+      "url": "https://www.consultantlive.com/view/connect-trial-backs-cgm-for-non-insulin-type-2-diabetes-management",
+      "nom": "ConsultantLive"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT INDÉPENDANT",
+      "qui": "Diana Isaacs",
+      "contexte": "pharmacienne spécialiste du diabète, commentaire pour Healio",
+      "texte": "« Not only did CGM show a benefit, it showed a highly clinically significant benefit in terms of the amount of HbA1c compared to blood glucose monitoring, as well as the increase in time in range. »",
+      "url": "https://www.healio.com/news/endocrinology/20260714/cgm-substantially-improves-glycemia-for-adults-with-type-2-diabetes-not-using-insulin",
+      "source": "Healio"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Thomas Martens",
+      "contexte": "International Diabetes Center, Minneapolis",
+      "texte": "« These results add to the evidence that CGM should be considered in all people with type 2 diabetes both using insulin and not using insulin. »",
+      "url": "https://www.healio.com/news/endocrinology/20260714/cgm-substantially-improves-glycemia-for-adults-with-type-2-diabetes-not-using-insulin",
+      "source": "Healio"
+     }
+    ],
+    "apres": "Selon ConsultantLive, les recommandations 2026 de l'ADA américaine ont déjà élargi l'usage des capteurs aux adultes sous tout type de traitement quand ils aident la prise en charge. Reste à voir les effets à plus long terme et la prise en charge par les systèmes de santé.",
+    "change": "Pour les adultes atteints de diabète de type 2 sans insuline, il existe désormais un essai randomisé de bon niveau montrant qu'un capteur améliore l'HbA1c sur 26 semaines.",
+    "credit": {
+     "auteur": "Geo Swan",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:A_dexcom_g6_glucose_monitor_(52075092685).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TRAITEMENT",
+    "titre": "BPCO : le tozorakimab réduit les exacerbations dans deux essais de phase 3",
+    "court": "BPCO : le tozorakimab réduit les exacerbations",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Easyhaler_Budesonid_%26_Buventol_inhalers.jpg/1280px-Easyhaler_Budesonid_%26_Buventol_inhalers.jpg",
+    "legende": "Deux inhalateurs, traitement de fond habituel de la BPCO (illustration)",
+    "chapeau": "Le 29 octobre 2026, le New England Journal of Medicine a publié les essais de phase 3 OBERON et TITANIA, menés par AstraZeneca. Le tozorakimab est un anticorps qui bloque l'interleukine 33, une molécule impliquée dans l'inflammation des poumons.",
+    "eclairage": "Qu'est-ce qu'une exacerbation de BPCO ?",
+    "chiffres": [
+     {
+      "valeur": "−29 %",
+      "legende": "exacerbations, essai OBERON"
+     },
+     {
+      "valeur": "−34 %",
+      "legende": "exacerbations, essai TITANIA"
+     },
+     {
+      "valeur": "1 750",
+      "legende": "patients au total, 52 semaines"
+     }
+    ],
+    "passe": "Le 29 octobre 2026, le New England Journal of Medicine a publié les essais de phase 3 OBERON et TITANIA, menés par AstraZeneca. Le tozorakimab est un anticorps qui bloque l'interleukine 33, une molécule impliquée dans l'inflammation des poumons. Des adultes atteints de bronchopneumopathie chronique obstructive (BPCO), fumeurs ou anciens fumeurs, qui avaient fait des exacerbations malgré leurs inhalateurs, ont reçu une injection sous la peau de 300 mg toutes les 4 semaines ou un placebo pendant 52 semaines : 877 patients dans OBERON, 873 dans TITANIA. Chez les anciens fumeurs, le taux annuel d'exacerbations modérées ou sévères était de 1,34 contre 1,90 dans OBERON (rapport de taux 0,71) et de 1,37 contre 2,07 dans TITANIA (0,66). Dans la population entière, le rapport était de 0,70 et 0,71. Selon EMJ, les réactions au point d'injection étaient plus fréquentes sous tozorakimab.",
+    "points": [],
+    "explication": "La BPCO est une maladie chronique des bronches, le plus souvent liée au tabac, qui rend la respiration difficile. Une exacerbation est une poussée brutale : toux, essoufflement et crachats s'aggravent, parfois jusqu'à l'hospitalisation. Le tozorakimab est un anticorps monoclonal, une protéine fabriquée pour bloquer une cible précise, ici l'interleukine 33. Deux essais identiques qui donnent le même résultat renforcent la confiance, car un hasard unique est moins probable. Limite : la réduction porte sur le nombre de poussées, pas (dans ce que rapportent les sources consultées) sur la survie, et l'essai est financé par le fabricant.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2606998",
+      "nom": "NEJM (étude originale, DOI)"
+     },
+     {
+      "url": "https://www.emjreviews.com/emj-gold/news/azs-copd-drug-cuts-flare-ups-in-two-phase-3-trials/",
+      "nom": "EMJ"
+     },
+     {
+      "url": "https://pharmatimes.com/news/tozorakimab-shows-significant-benefit-in-two-major-copd-trials/",
+      "nom": "PharmaTimes"
+     },
+     {
+      "url": "https://copdnewstoday.com/news/tozorakimab-cuts-flare-ups-adults-copd-two-phase-3-trials/",
+      "nom": "COPD News Today"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708515/",
+      "nom": "PubMed"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Frank Sciurba",
+      "contexte": "université de Pittsburgh, investigateur principal",
+      "texte": "« Reducing exacerbations is one of the most important goals in the treatment of COPD because flare-ups have a profound impact on patients’ health, quality of life and long-term outcomes. »",
+      "url": "https://www.emjreviews.com/emj-gold/news/azs-copd-drug-cuts-flare-ups-in-two-phase-3-trials/",
+      "source": "EMJ"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Sharon Barr",
+      "contexte": "vice-présidente exécutive R&D, AstraZeneca",
+      "texte": "« Tozorakimab works in a fundamentally different way from other biologics »",
+      "url": "https://pharmatimes.com/news/tozorakimab-shows-significant-benefit-in-two-major-copd-trials/",
+      "source": "PharmaTimes"
+     }
+    ],
+    "apres": "Selon EMJ, la demande d'AstraZeneca est en examen prioritaire auprès de la FDA américaine, avec une décision attendue au premier trimestre 2027. Selon PharmaTimes, d'autres essais du programme, PROSPERO et MIRANDA, sont en cours.",
+    "change": "Pour les personnes atteintes de BPCO qui font des poussées malgré leur traitement inhalé, une nouvelle classe de médicament injectable se rapproche d'une autorisation. Elle ne remplace pas les inhalateurs : elle s'y ajoute.",
+    "credit": {
+     "auteur": "Sadenäyttely",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Easyhaler_Budesonid_%26_Buventol_inhalers.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Règles abondantes : un stérilet après l'ablation de l'endomètre réduit les hystérectomies",
+    "court": "Règles abondantes : moins d'hystérectomies",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mirena_IUD_with_hand.jpg/1280px-Mirena_IUD_with_hand.jpg",
+    "legende": "Un stérilet hormonal au lévonorgestrel tenu dans une main (illustration)",
+    "chapeau": "Le 31 octobre 2026, The Lancet publie l'essai néerlandais MIRA2. Il porte sur l'ablation de l'endomètre, une intervention qui détruit la muqueuse de l'utérus (par radiofréquence ou par résection) pour traiter des règles abondantes.",
+    "eclairage": "Ablation de l'endomètre, stérilet hormonal et hystérectomie",
+    "chiffres": [
+     {
+      "valeur": "4 %",
+      "legende": "hystérectomie à 2 ans avec stérilet"
+     },
+     {
+      "valeur": "10 %",
+      "legende": "hystérectomie à 2 ans sans stérilet"
+     },
+     {
+      "valeur": "715",
+      "legende": "femmes, 34 hôpitaux néerlandais"
+     }
+    ],
+    "passe": "Le 31 octobre 2026, The Lancet publie l'essai néerlandais MIRA2. Il porte sur l'ablation de l'endomètre, une intervention qui détruit la muqueuse de l'utérus (par radiofréquence ou par résection) pour traiter des règles abondantes. Environ 10 % des patientes finissent par subir une hystérectomie dans les deux ans, rappellent les auteurs. Dans 34 hôpitaux, 715 femmes de moins de 60 ans, âgées de 45 ans en médiane, ont été réparties au hasard entre l'ablation seule (356) et l'ablation suivie, dans la même séance, de la pose d'un stérilet hormonal au lévonorgestrel (359). À 2 ans, une hystérectomie avait été réalisée chez 15 des 342 femmes avec stérilet (4 %) contre 34 des 331 femmes sans (10 %) : risque relatif de 0,43 (intervalle de confiance à 95 % de 0,24 à 0,77). Des événements indésirables graves sont survenus chez 8 % des femmes dans les deux groupes, sans décès lié au traitement. L'essai est financé par l'organisme public néerlandais ZonMw, et il est en ouvert : patientes et médecins savaient quel traitement était reçu.",
+    "points": [],
+    "explication": "L'endomètre est la muqueuse qui tapisse l'intérieur de l'utérus et saigne pendant les règles. Quand elle est détruite par ablation, les règles diminuent, sans ouvrir le ventre. Mais des îlots de muqueuse peuvent subsister ou repousser, et certaines femmes finissent par subir une hystérectomie (ablation de l'utérus). Le stérilet au lévonorgestrel libère une hormone qui freine la muqueuse ; l'idée testée ici est de le poser tout de suite après l'ablation. L'essai est « ouvert » : un biais est possible sur des critères subjectifs, mais l'hystérectomie est un fait objectif, ce qui limite ce risque. Limite : le suivi est de 2 ans, et l'essai a été mené aux Pays-Bas. Les auteurs concluent aussi que la combinaison a réduit de façon significative l'hystérectomie par rapport à l'ablation seule.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1016/S0140-6736(26)01536-9",
+      "nom": "The Lancet (étude originale, DOI)"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906565/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9235075",
+      "nom": "protocole de l'essai (BMC Women's Health)"
+     },
+     {
+      "url": "https://cris.maastrichtuniversity.nl/en/publications/endometrial-ablation-plus-levonorgestrel-releasing-intrauterine-s/",
+      "nom": "Université de Maastricht"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Équipe de l'essai MIRA2",
+      "contexte": "Pays-Bas",
+      "texte": "« The combined treatment appears to be a safe adjunctive strategy for heavy menstrual bleeding that does not increase the risk of complications. »",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906565/",
+      "source": "PubMed (résumé de l'étude)"
+     }
+    ],
+    "apres": "Des recommandations de sociétés savantes pourraient intégrer ce résultat ; aucune annonce n'a été relevée. Le suivi à plus long terme reste à publier.",
+    "change": "Pour une femme qui envisage une ablation de l'endomètre contre des règles abondantes, il existe maintenant un essai randomisé indiquant que poser un stérilet hormonal dans la même séance diminue le recours ultérieur à l'hystérectomie, sans excès de complications graves dans les deux ans.",
+    "credit": {
+     "auteur": "Sarahmirk",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Mirena_IUD_with_hand.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "T1",
+    "mois": "2027",
+    "texte": "Tozorakimab dans la BPCO : décision attendue de la FDA américaine au premier trimestre 2027, selon EMJ."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Hémoglobine glyquée (HbA1c)",
+    "definition": "Une prise de sang qui reflète la glycémie moyenne des deux à trois derniers mois. Elle sert à suivre le diabète."
+   },
+   {
+    "terme": "Risque relatif",
+    "definition": "Le rapport entre le risque dans un groupe et celui de l'autre. Un risque relatif de 0,43 signifie un risque un peu plus de deux fois plus faible."
+   },
+   {
+    "terme": "Essai ouvert",
+    "definition": "Un essai où patients et médecins savent quel traitement est reçu. Plus simple à mener, mais plus exposé aux biais pour les critères subjectifs."
+   },
+   {
+    "terme": "Anticorps monoclonal",
+    "definition": "Une protéine fabriquée en laboratoire pour se fixer sur une cible précise, ici une molécule de l'inflammation des poumons."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai MIRA2, ajouter un stérilet hormonal juste après l'ablation de l'endomètre n'a pas réduit le nombre d'hystérectomies à 2 ans.",
+   "reponse": false,
+   "explication": "C'est faux : l'hystérectomie a été nécessaire chez 4 % des femmes avec stérilet (15 sur 342) contre 10 % sans (34 sur 331), soit un risque relatif de 0,43, selon l'étude publiée dans The Lancet."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-10-31",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CYBERSÉCURITÉ",
+    "titre": "Claude Code : une extension piégée diffusée via la boutique de Cursor",
+    "court": "Claude Code : extension piégée sur Cursor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hand-laptop-notebook-typing_%2823698140194%29.jpg/1280px-Hand-laptop-notebook-typing_%2823698140194%29.jpg",
+    "legende": "Une main posée sur le clavier d'un ordinateur portable (illustration)",
+    "chapeau": "Le 29 octobre, entre environ 2 h 27 et 13 h 35 (heure du Pacifique), une version modifiée de l'extension Claude Code, un petit programme ajouté à l'éditeur de code Cursor, a été proposée sur la boutique d'extensions de Cursor, pour Windows et macOS.",
+    "eclairage": "Pourquoi cette attaque vise-t-elle un outil de confiance ?",
+    "chiffres": [
+     {
+      "valeur": "5 000",
+      "legende": "utilisateurs au plus, selon Cursor"
+     },
+     {
+      "valeur": "11 h",
+      "legende": "de mise à disposition le 29 octobre"
+     },
+     {
+      "valeur": "1 clé",
+      "legende": "SSH de l'attaquant ajoutée"
+     }
+    ],
+    "passe": "Le 29 octobre, entre environ 2 h 27 et 13 h 35 (heure du Pacifique), une version modifiée de l'extension Claude Code, un petit programme ajouté à l'éditeur de code Cursor, a été proposée sur la boutique d'extensions de Cursor, pour Windows et macOS. Selon Cursor, ce code tente d'installer une porte dérobée : il collecte des informations sur la machine, ajoute une clé SSH de l'attaquant, tente d'ouvrir un tunnel d'accès à distance et de le rendre durable. Cursor précise que l'activation du service SSH exige des droits d'administrateur que l'extension n'a pas sur la plupart des machines, mais que la clé a été ajoutée, la persistance installée et les informations envoyées. La presse spécialisée, qui cite Cursor, évoque au plus 5 000 utilisateurs concernés. Anthropic a publié une version 2.1.314 qui ne contient pas le code malveillant. Ni Cursor ni Anthropic n'ont expliqué comment le paquet a pu être publié sur la boutique.",
+    "points": [],
+    "explication": "Une extension est un petit programme que l'on ajoute à un logiciel, ici un éditeur de code. Les extensions s'installent depuis une boutique et se mettent souvent à jour toutes seules. Une attaque de la chaîne d'approvisionnement (supply chain attack) consiste à glisser du code malveillant dans un outil que l'utilisateur installe de lui-même, plutôt qu'à le viser directement. Une porte dérobée (backdoor) est un accès caché à une machine. Une clé SSH permet de s'y connecter à distance sans mot de passe : celle de l'attaquant était nommée « svc-telemetry » pour passer inaperçue. Établi : la version piégée existait sur la boutique de Cursor. Non établi : la méthode d'intrusion.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "nom": "Cursor (avis de sécurité)"
+     },
+     {
+      "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+      "nom": "The Register"
+     },
+     {
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "nom": "The Hacker News"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ENTREPRISE",
+      "qui": "Cursor",
+      "contexte": "éditeur de la boutique",
+      "texte": "« [We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution »",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+      "source": "The Register"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Felix Rieseberg",
+      "contexte": "Anthropic, équipe technique",
+      "texte": "« We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops. »",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+      "source": "The Register"
+     }
+    ],
+    "apres": "Cursor dit avoir fermé sa boutique, changé ses clés, vérifié les autres extensions puis rouvert. La méthode d'intrusion n'a pas été publiée à ce jour.",
+    "change": "Désinstaller l'extension ne suffit pas, selon Cursor : le code installe des scripts qui restent actifs.",
+    "credit": {
+     "auteur": "Pixel.la Free Stock Photos",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Hand-laptop-notebook-typing_(23698140194).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RÉGULATION",
+    "titre": "Meta : la CMA britannique enquête sur ses conditions pour les éditeurs",
+    "court": "Meta : enquête britannique sur ses conditions",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Newspapers_in_Yaound%C3%A9%2C_Cameroon_-_2020.jpg/1280px-Newspapers_in_Yaound%C3%A9%2C_Cameroon_-_2020.jpg",
+    "legende": "Un kiosque à journaux avec des lecteurs devant les unes affichées (illustration)",
+    "chapeau": "Le 30 octobre, l'autorité britannique de la concurrence (CMA) a ouvert une enquête formelle sur les conditions commerciales de Meta pour les entreprises qui utilisent ses services. Meta prévoyait de les réviser le 20 novembre, puis les a mises en pause le 28 octobre, le temps d'une consultation.",
+    "eclairage": "Que reproche-t-on à Meta, et que peut-il se passer ?",
+    "chiffres": [
+     {
+      "valeur": "30/10",
+      "legende": "ouverture de l'enquête"
+     },
+     {
+      "valeur": "20/11",
+      "legende": "révision prévue, mise en pause"
+     },
+     {
+      "valeur": "1998",
+      "legende": "loi sur la concurrence"
+     }
+    ],
+    "passe": "Le 30 octobre, l'autorité britannique de la concurrence (CMA) a ouvert une enquête formelle sur les conditions commerciales de Meta pour les entreprises qui utilisent ses services. Meta prévoyait de les réviser le 20 novembre, puis les a mises en pause le 28 octobre, le temps d'une consultation. Selon la CMA, ces conditions pourraient permettre à Meta de collecter le contenu des sites d'éditeurs et d'entreprises, puis de l'utiliser pour développer ses propres produits, y compris ses fonctions d'IA, sans que ces entreprises choisissent si ou comment leur contenu est utilisé. L'enquête doit établir si Meta détient une position dominante sur un marché au Royaume-Uni et si ses conditions constituent un abus au sens du Competition Act 1998. La CMA précise qu'aucune décision n'est prise sur une infraction. Meta répond qu'il n'y a pas de motif d'enquête.",
+    "points": [],
+    "explication": "Une entreprise en position dominante a des obligations particulières : elle ne doit pas imposer à ses clients des conditions jugées déloyales. Les éditeurs de presse dépendent de Facebook et d'Instagram pour toucher leur public, ce qui limite leur marge de négociation. La question posée ici : Meta peut-il, par ses conditions, collecter le contenu de leurs sites (ce que font des robots d'exploration) pour nourrir ses outils d'IA ? Une enquête ouverte n'est pas une condamnation : la CMA va réunir des preuves, y compris auprès de Meta et de tiers. Elle dit aussi agir à la suite de préoccupations exprimées par la News Media Association et le Movement for an Open Web.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "nom": "CMA (gov.uk)"
+     },
+     {
+      "url": "https://uk.news.yahoo.com/competition-watchdog-investigate-meta-terms-115744545.html",
+      "nom": "Press Association via Yahoo"
+     },
+     {
+      "url": "https://thenextweb.com/news/publishers-eu-uk-regulators-meta-ai-terms",
+      "nom": "The Next Web"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Sarah Cardell",
+      "contexte": "directrice générale de la CMA",
+      "texte": "« But where a company holds a dominant position, it must not use that position to impose unfair terms. »",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "source": "CMA (gov.uk)"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Un porte-parole de Meta",
+      "contexte": null,
+      "texte": "« There are no grounds for a competition investigation. »",
+      "url": "https://uk.news.yahoo.com/competition-watchdog-investigate-meta-terms-115744545.html",
+      "source": "Press Association via Yahoo"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "CRÉATEURS / AYANTS DROIT",
+      "qui": "News Media Association et Movement for an Open Web",
+      "contexte": "organisations d'éditeurs et d'entreprises",
+      "texte": "Elles ont fait part de leurs préoccupations à la CMA, qui les cite comme point de départ de l'enquête (paraphrase, sans citation).",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "source": "CMA (gov.uk)"
+     }
+    ],
+    "apres": "La CMA collecte désormais des éléments. Meta indique s'être engagé à ne pas modifier ses conditions sans consulter éditeurs et parties prenantes. La date du 20 novembre était celle de la révision prévue.",
+    "change": "À court terme, rien ne change pour les lecteurs : les nouvelles conditions sont suspendues. Pour les éditeurs, l'issue fixera ce que Meta peut faire de leur contenu pour l'IA.",
+    "credit": {
+     "auteur": "VOA / Emmanuel Jules Ntap",
+     "licence": "domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Newspapers_in_Yaound%C3%A9,_Cameroon_-_2020.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TECH FRANÇAISE",
+    "titre": "Mistral AI : les poids de Mistral Large 4 sont publiés",
+    "court": "Mistral Large 4 : poids ouverts publiés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Racks_Amravati_Data_Center.jpg/1280px-Racks_Amravati_Data_Center.jpg",
+    "legende": "Un couloir de baies de serveurs dans un centre de données (illustration)",
+    "chapeau": "La société française Mistral AI a publié les poids de Mistral Large 4, surnommé « Le Chonk », un modèle multimodal (texte et image) d'environ 1 000 milliards de paramètres, après un aperçu public ouvert le 6 octobre. Le Blog du Modérateur date la publication des poids du 29 octobre.",
+    "eclairage": "Pourquoi publier les « poids » d'un modèle compte-t-il ?",
+    "chiffres": [
+     {
+      "valeur": "1 000 Md",
+      "legende": "paramètres (1,05 T selon certains)"
+     },
+     {
+      "valeur": "160+",
+      "legende": "langues, selon Mistral"
+     },
+     {
+      "valeur": "29/10",
+      "legende": "poids publiés selon BDM"
+     }
+    ],
+    "passe": "La société française Mistral AI a publié les poids de Mistral Large 4, surnommé « Le Chonk », un modèle multimodal (texte et image) d'environ 1 000 milliards de paramètres, après un aperçu public ouvert le 6 octobre. Le Blog du Modérateur date la publication des poids du 29 octobre. Mistral annonce un modèle entraîné en Europe, disponible sous une licence « Mistral Ecosystem Open-Weight », une licence MIT modifiée : usage, modification et commercialisation libres, sauf pour les entreprises qui proposent le modèle en service, qui doivent obtenir une licence commerciale. Mistral affirme que c'est le meilleur modèle à poids ouverts pour le code et cite 19,7 % sur FrontierCode 2.0, un test privé de la société Cognition. Ce sont des chiffres de l'entreprise : aucune évaluation indépendante n'est citée dans les sources consultées. Le Blog du Modérateur note que des laboratoires chinois comme DeepSeek ou Kimi restent supérieurs sur plusieurs points. Le nombre de paramètres actifs varie selon les sources, de 49 à 52 milliards.",
+    "points": [],
+    "explication": "Un modèle d'IA est un très grand ensemble de nombres, les paramètres ou poids, réglés pendant l'entraînement. Les publier permet de télécharger le modèle, de le faire tourner sur ses propres machines et de l'adapter à ses données. C'est un enjeu de souveraineté : on ne dépend pas d'un service à distance. Mais cela ne dit pas tout : les données d'entraînement ne sont pas publiées, et la licence fixe les usages permis. Le modèle est de type mélange d'experts : à chaque mot, seule une partie des paramètres (les « actifs ») travaille, ce qui réduit le coût de calcul. Annonce : les performances. Établi : la publication des poids, confirmée par Mistral.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "nom": "Mistral AI"
+     },
+     {
+      "url": "https://www.blogdumoderateur.com/mistral-large-4-mistral-ai-veut-reduire-ecart-modeles-open-weight-chinois/",
+      "nom": "Blog du Modérateur"
+     },
+     {
+      "url": "https://forklog.com/en/mistral-launches-public-preview-of-ai-model-with-1-trillion-parameters/",
+      "nom": "ForkLog"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Mistral AI",
+      "contexte": "billet officiel",
+      "texte": "« Mistral Large 4 ranks as the best open-weight model for coding and among the world's most capable open models overall. »",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI"
+     }
+    ],
+    "apres": "Mistral annonce un rapport technique complet « bientôt », sans date. Les évaluations indépendantes diront si les performances annoncées se confirment.",
+    "change": "Une entreprise ou une administration peut installer ce modèle sur ses propres serveurs, à condition de disposer de machines puissantes. Pour un service qui revend le modèle, la licence commerciale est requise.",
+    "credit": {
+     "auteur": "PiDatacenters",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Racks_Amravati_Data_Center.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Meta : date initialement prévue pour la révision de ses conditions commerciales, aujourd'hui suspendue (CMA)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Clé SSH",
+    "definition": "Fichier qui permet de se connecter à distance à une machine sans mot de passe, tant que la machine l'a enregistré."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon Cursor, la version piégée de l'extension Claude Code est restée disponible sur sa boutique pendant environ 11 heures le 29 octobre.",
+   "reponse": true,
+   "explication": "Vrai : Cursor indique qu'elle a été proposée entre environ 2 h 27 et 13 h 35, heure du Pacifique."
   }
  },
  {
