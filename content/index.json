@@ -1,5 +1,253 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-01",
+  "minutes": 6,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIÉTÉ",
+    "titre": "Manifestations du 31 octobre : 565 interpellations en France",
+    "court": "Manifestations : 565 interpellations",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg/1280px-Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg",
+    "legende": "Lycéens défilant derrière un drapeau tricolore à Perpignan, le 6 octobre 2026 (illustration)",
+    "chapeau": "Samedi 31 octobre, troisième journée de mobilisation en trois semaines, des cortèges ont défilé dans plusieurs villes, notamment contre la vie chère et pour les moyens de l'Éducation nationale.",
+    "eclairage": "Qui décide du parcours d'une manifestation ?",
+    "chiffres": [
+     {
+      "valeur": "565",
+      "legende": "interpellations à 21 h"
+     },
+     {
+      "valeur": "70 000",
+      "legende": "manifestants à Paris (préfecture)"
+     },
+     {
+      "valeur": "3e",
+      "legende": "journée de mobilisation en 3 semaines"
+     }
+    ],
+    "passe": "Samedi 31 octobre, troisième journée de mobilisation en trois semaines, des cortèges ont défilé dans plusieurs villes, notamment contre la vie chère et pour les moyens de l'Éducation nationale. À Paris, le tribunal administratif avait levé l'interdiction du parcours Bastille-Nation ; le Conseil d'État a annulé cette décision et le cortège a suivi le tracé de la préfecture, de la porte de Bagnolet à la porte de Charenton. Le ministère de l'Intérieur a compté 320 000 manifestants en France dont 70 000 à Paris, la préfecture de police 70 000 à Paris ; l'intersyndicale jeunesse annonce près de 500 000 personnes, dont 200 000 à Paris. Le 24 octobre, le ministère en avait compté 410 000, dont 110 000 à Paris. Environ 70 000 policiers et gendarmes étaient mobilisés. Le nombre d'interpellations a évolué au fil de la journée : 296 à 18 h, entre 422 et 520 vers 20 h selon les relevés, 565 à 21 h. Porte de Charenton, des heurts ont éclaté en fin de cortège et un gendarme mobile a été touché par un cocktail Molotov, légèrement blessé.",
+    "points": [
+     "L'autorité de police peut interdire une manifestation « de nature à troubler l'ordre public », selon le Conseil d'État. À Paris, c'est le préfet de police.",
+     "Les organisateurs peuvent contester en urgence devant le juge des référés du tribunal administratif, qui peut suspendre l'interdiction.",
+     "La préfecture peut faire appel devant le Conseil d'État, qui peut confirmer ou annuler. C'est ce chemin qui a été suivi le 31 octobre."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "nom": "France 24 (avec AFP)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/manifestation-du-31-octobre-le-conseil-d-etat-annule-la-decision-du-tribunal",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.lejdd.fr/Societe/manifestations-un-gendarme-brule-a-paris-des-violences-dans-plusieurs-villes-187500",
+      "nom": "Le JDD"
+     },
+     {
+      "url": "https://www.shango.media/bfm-tv-on-va-rester-vigilants-422-interpellations-des-corteges-revendicatifs-calmes-laurent-nunez-tire-son-bilan-des-manifestations-du-31-octobre-12005641",
+      "nom": "BFMTV"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Marine Le Pen",
+      "contexte": "présidente du groupe à l'Assemblée",
+      "texte": "Elle condamne l'attaque contre le gendarme.",
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "source": "France 24"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "président du parti",
+      "texte": "« Celui qui a fait ça doit en répondre. »",
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "source": "France 24"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "Le jet du cocktail Molotov est une « tentative de meurtre »",
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "source": "France 24"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION ÉTUDIANTE",
+      "qui": "Sabrine Kharbach",
+      "contexte": "porte-parole",
+      "texte": "Elle annonce des blocages de lycées et d'universités mardi et jeudi, et une manifestation le 5 novembre.",
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "source": "France 24"
+     }
+    ],
+    "apres": "Blocages annoncés mardi 3 et jeudi 5 novembre par les lycéens et étudiants, avec une manifestation le 5 novembre.",
+    "change": "Les cortèges ont suivi un parcours en périphérie de Paris plutôt que dans le centre, choix que Laurent Nuñez juge « bon » pour ne pas entraver la liberté de manifester.",
+    "credit": {
+     "auteur": "Aurelio Cárdenas",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_des_lyc%C3%A9ens_et_des_%C3%A9tudiants_%C3%A0_Perpignan_%28Acte_III%29_03.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "MÉDIAS",
+    "titre": "Pétition contre CNews : 300 000 signatures sur le site de l'Assemblée",
+    "court": "Pétition CNews : 300 000 signatures",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plateau_principal_i-T%C3%A9l%C3%A9_-_avril_2009.jpg/1280px-Plateau_principal_i-T%C3%A9l%C3%A9_-_avril_2009.jpg",
+    "legende": "Plateau d'une chaîne d'information en continu, i-Télé, ancien nom de CNews (illustration)",
+    "chapeau": "La pétition « Supprimer CNews de l'audiovisuel français », déposée le 10 juin 2026 par Lucas Massoni sur la plateforme de l'Assemblée nationale, a dépassé 300 000 signatures samedi 31 octobre dans l'après-midi ; la page officielle en affichait 358 084 à la rédaction de cette édition.",
+    "eclairage": "Que peut une pétition à l'Assemblée ?",
+    "chiffres": [
+     {
+      "valeur": "300 k",
+      "legende": "signatures le 31 octobre"
+     },
+     {
+      "valeur": "500 k",
+      "legende": "seuil d'un débat possible en séance"
+     },
+     {
+      "valeur": "10/06",
+      "legende": "pétition déposée le 10 juin"
+     }
+    ],
+    "passe": "La pétition « Supprimer CNews de l'audiovisuel français », déposée le 10 juin 2026 par Lucas Massoni sur la plateforme de l'Assemblée nationale, a dépassé 300 000 signatures samedi 31 octobre dans l'après-midi ; la page officielle en affichait 358 084 à la rédaction de cette édition. Elle est restée peu suivie jusqu'à fin octobre, puis a franchi 100 000 signatures jeudi 29 octobre et 200 000 le lendemain, après l'attentat raciste de Trappes et La Verrière (Yvelines) du 24 octobre, qui a fait un mort et plusieurs blessés. Le texte demande le retrait de la convention de diffusion TNT de la chaîne et sa fermeture. Il cite 27 rappels à l'ordre de l'Arcom depuis 2019 et 630 000 euros d'amendes cumulées : ces chiffres sont ceux de l'auteur. La pétition est attribuée à la commission des affaires culturelles et de l'éducation.",
+    "points": [
+     "À 100 000 signatures, la pétition passe de la plateforme au site de l'Assemblée et peut être examinée par une commission permanente.",
+     "À 500 000 signatures venant d'au moins 30 départements ou collectivités d'outre-mer, un débat dans l'hémicycle devient possible, si les instances de l'Assemblée jugent la pétition recevable.",
+     "Un débat n'entraîne ni la fermeture de la chaîne, ni l'examen automatique d'un texte, ni une procédure de l'Arcom. Précédents : la pétition contre la loi Duplomb (plus de 500 000 signatures) a donné lieu à un débat ; celle sur la présomption de légitime défense des forces de l'ordre a été classée sans suite."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://petitions.assemblee-nationale.fr/initiatives/i-5820",
+      "nom": "assemblee-nationale.fr"
+     },
+     {
+      "url": "https://elections2027.com/article/2026-10-31-supprimer-cnews-une-petition-depasse-les-300-000-signatures",
+      "nom": "Elections2027"
+     },
+     {
+      "url": "https://www.saphirnews.com/Supprimer-CNews-de-l-audiovisuel-francais-une-petition-refait-surface-apres-l-attentat-de-Trappes_a31363.html",
+      "nom": "Saphirnews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AUTEUR DE LA PÉTITION",
+      "qui": "Lucas Massoni",
+      "contexte": null,
+      "texte": "« CNews n'est pas une chaîne d'information. C'est une machine de propagande. »",
+      "url": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Thomas Portes",
+      "contexte": "député, sur X",
+      "texte": "Il reproche à la chaîne de mettre « une cible dans le dos des musulmans ».",
+      "url": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Benjamin Lucas-Lundy et Léa Balage El Mariky",
+      "contexte": "députés",
+      "texte": "Ils demandent le retrait des accréditations des médias du groupe Bolloré à l'Assemblée.",
+      "url": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "MAIRIE DE TRAPPES",
+      "qui": "Ali Rabeh",
+      "contexte": "maire",
+      "texte": "« Si CNews avait été dans cette pièce, je pense que je n'aurais pas été capable d'y rester. »",
+      "url": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Si la pétition atteint 500 000 signatures, un débat en séance devient possible.",
+    "change": "Une pétition n'a pas de conséquence législative directe. Elle fait entrer le sujet à l'Assemblée, où la commission des affaires culturelles et de l'éducation est saisie.",
+    "credit": {
+     "auteur": "Bapti",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Plateau_principal_i-T%C3%A9l%C3%A9_-_avril_2009.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Blocages de lycées et d'universités annoncés mardi et jeudi."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Manifestation des lycéens et étudiants annoncée par l'Union étudiante."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Référé",
+    "definition": "Une procédure d'urgence devant un juge administratif, qui peut suspendre rapidement une décision, comme l'interdiction d'un cortège."
+   },
+   {
+    "terme": "Conseil d'État",
+    "definition": "La plus haute juridiction administrative : elle juge en appel les décisions des tribunaux administratifs."
+   },
+   {
+    "terme": "Arcom",
+    "definition": "L'autorité qui régule l'audiovisuel en France. Elle peut adresser des rappels à l'ordre et infliger des amendes aux chaînes."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon la préfecture de police, 110 000 personnes ont manifesté à Paris le 31 octobre.",
+   "reponse": false,
+   "explication": "La préfecture de police en a compté 70 000 à Paris le 31 octobre. Le chiffre de 110 000 est celui du samedi précédent, le 24 octobre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-10-31",
   "minutes": 11,

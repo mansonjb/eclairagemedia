@@ -1778,5 +1778,13 @@
  "Cursor": null,
  "Felix Rieseberg": null,
  "Sarah Cardell": null,
- "Un porte-parole de Meta": null
+ "Un porte-parole de Meta": null,
+ "Lucas Massoni": null,
+ "Thomas Portes": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Thomas_Portes.jpg/250px-Thomas_Portes.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Thomas_Portes.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Thomas_Portes.jpg",
+  "auteur": "Pioupiou838383",
+  "licence": "CC BY-SA 4.0"
+ }
 }

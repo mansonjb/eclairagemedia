@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-11-01",
  "sondage": {
   "methode": "moyenne",
   "nb": 12,
@@ -63,7 +63,7 @@
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 160024649.47570702,
+ "polymarket_volume": 161946146.60724902,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -83,27 +83,41 @@
     "d": 1.1
    },
    "attention": {
-    "v": 84.4,
-    "d": -10.1,
+    "v": 56.4,
+    "d": -33.5,
     "parts": {
-     "Wikipedia": 5.6,
+     "Wikipedia": 5.8,
      "réseaux": 18.7,
      "citations": 32.5,
-     "abonnés": 32.3,
-     "YouTube": 16.3
+     "abonnés": 4,
+     "YouTube": 11.4
     }
    },
    "polymarket": {
-    "v": 42.1,
-    "d": -4.2,
-    "d24": -1.3,
-    "d30": -0.6,
-    "vol": 4674388,
-    "vol7": 346912,
+    "v": 40.6,
+    "d": -5.2,
+    "d24": -0.2,
+    "d30": -3.5,
+    "vol": 4796800,
+    "vol7": 408911,
     "haut": 48.2,
     "bas": 39.4
    },
    "declarations": [
+    {
+     "fond": "#e4e7f2",
+     "couleur": "#0b1f4d",
+     "parti": "RN",
+     "qui": "Marine Le Pen",
+     "contexte": "présidente du groupe à l'Assemblée",
+     "texte": "Elle condamne l'attaque contre le gendarme.",
+     "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+     "source": "France 24",
+     "date": "2026-11-01",
+     "rubrique": "politique",
+     "sujet": "Manifestations du 31 octobre : 565 interpellations en France",
+     "href": "/politique/2026-11-01/1"
+    },
     {
      "fond": "#e4e7f2",
      "couleur": "#0b1f4d",
@@ -173,23 +187,9 @@
      "rubrique": "politique",
      "sujet": "Conseil constitutionnel : le RN et l'UDR visent Richard Ferrand",
      "href": "/politique/2026-10-19/4"
-    },
-    {
-     "fond": "#e4e7f2",
-     "couleur": "#0b1f4d",
-     "parti": "RN",
-     "qui": "Marine Le Pen",
-     "contexte": "candidate à la présidentielle",
-     "texte": "« Il a rompu avec l'obligation qui est la sienne de neutralité »",
-     "url": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html",
-     "source": "franceinfo",
-     "date": "2026-10-17",
-     "rubrique": "politique",
-     "sujet": "Conseil constitutionnel : le RN et l'UDR réclament la démission de Ferrand",
-     "href": "/politique/2026-10-17/2"
     }
    ],
-   "nbDeclarations": 13,
+   "nbDeclarations": 14,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-le-pen/",
     "phase": {
@@ -297,9 +297,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 84
+    "attention": 56
    },
-   "score": 97,
+   "score": 91,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -319,23 +319,23 @@
    },
    "attention": {
     "v": 100,
-    "d": 31.5,
+    "d": 41.5,
     "parts": {
-     "Wikipedia": 11,
+     "Wikipedia": 12.3,
      "réseaux": 37.7,
      "citations": 17.9,
-     "abonnés": 26.9,
-     "YouTube": 32.8
+     "abonnés": 55.5,
+     "YouTube": 29.1
     }
    },
    "polymarket": {
-    "v": 10.5,
+    "v": 11.5,
     "d": 0,
-    "d24": -1,
-    "d30": -4,
-    "vol": 2687158,
-    "vol7": 249594,
-    "haut": 14.5,
+    "d24": 1,
+    "d30": -1,
+    "vol": 2833149,
+    "vol7": 337622,
+    "haut": 13.5,
     "bas": 9.5
    },
    "declarations": [
@@ -531,10 +531,10 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 25,
+    "polymarket": 28,
     "attention": 100
    },
-   "score": 52,
+   "score": 53,
    "rangs": {
     "sondage": 2,
     "polymarket": 4
@@ -553,25 +553,25 @@
     "d": -1.9
    },
    "attention": {
-    "v": 15.7,
-    "d": 5.1,
+    "v": 13.4,
+    "d": 4.3,
     "parts": {
-     "Wikipedia": 2.3,
+     "Wikipedia": 2.5,
      "réseaux": 1.3,
      "citations": 12.1,
-     "abonnés": 0.7,
+     "abonnés": 0.2,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 16.5,
-    "d": -1,
-    "d24": -1,
-    "d30": -2,
-    "vol": 2762587,
-    "vol7": 300212,
+    "v": 13.5,
+    "d": -4,
+    "d24": null,
+    "d30": -6,
+    "vol": 2873767,
+    "vol7": 361490,
     "haut": 24.5,
-    "bas": 15.5
+    "bas": 13.5
    },
    "declarations": [
     {
@@ -766,13 +766,13 @@
    },
    "composantes": {
     "sondage": 42,
-    "polymarket": 39,
-    "attention": 16
+    "polymarket": 33,
+    "attention": 13
    },
-   "score": 36,
+   "score": 34,
    "rangs": {
     "sondage": 3,
-    "polymarket": 2
+    "polymarket": 3
    }
   },
   {
@@ -788,25 +788,25 @@
     "d": null
    },
    "attention": {
-    "v": 48.9,
-    "d": -7.5,
+    "v": 42.3,
+    "d": -0.7,
     "parts": {
-     "Wikipedia": 24.3,
+     "Wikipedia": 26,
      "réseaux": 14.7,
      "citations": 1.7,
-     "abonnés": 14.9,
-     "YouTube": 4.6
+     "abonnés": 12.2,
+     "YouTube": 6.3
     }
    },
    "polymarket": {
-    "v": 15.6,
-    "d": 1.9,
-    "d24": 0.6,
-    "d30": 8,
-    "vol": 5754230,
-    "vol7": 495351,
-    "haut": 16.4,
-    "bas": 7
+    "v": 17,
+    "d": 3,
+    "d24": -3.1,
+    "d30": 9,
+    "vol": 6040181,
+    "vol7": 647799,
+    "haut": 20.1,
+    "bas": 7.2
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -910,13 +910,13 @@
    },
    "composantes": {
     "sondage": 19,
-    "polymarket": 37,
-    "attention": 49
+    "polymarket": 42,
+    "attention": 42
    },
-   "score": 30,
+   "score": 31,
    "rangs": {
     "sondage": 8,
-    "polymarket": 3
+    "polymarket": 2
    }
   },
   {
@@ -932,23 +932,23 @@
     "d": 2.3
    },
    "attention": {
-    "v": 12.3,
-    "d": -13.4,
+    "v": 10.5,
+    "d": -10.1,
     "parts": {
-     "Wikipedia": 6.8,
+     "Wikipedia": 6.9,
      "réseaux": 0.6,
      "citations": 6,
-     "abonnés": 0.4,
+     "abonnés": 0,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 3,
-    "d": -1.6,
-    "d24": -0.9,
-    "d30": 1.4,
-    "vol": 3198907,
-    "vol7": 226589,
+    "v": 2.5,
+    "d": -1.2,
+    "d24": 0.3,
+    "d30": 1,
+    "vol": 3251109,
+    "vol7": 253823,
     "haut": 5.3,
     "bas": 0.9
    },
@@ -1131,10 +1131,10 @@
    },
    "composantes": {
     "sondage": 38,
-    "polymarket": 7,
-    "attention": 12
+    "polymarket": 6,
+    "attention": 11
    },
-   "score": 24,
+   "score": 23,
    "rangs": {
     "sondage": 4,
     "polymarket": 5
@@ -1153,23 +1153,23 @@
     "d": -1.5
    },
    "attention": {
-    "v": 17.9,
-    "d": -0.2,
+    "v": 15.5,
+    "d": -0.1,
     "parts": {
-     "Wikipedia": 2.8,
+     "Wikipedia": 3,
      "réseaux": 4.7,
      "citations": 10,
-     "abonnés": 0.3,
+     "abonnés": 0.2,
      "YouTube": 0.3
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.8,
-    "d24": -0.2,
-    "d30": -1.6,
-    "vol": 3347507,
-    "vol7": 137213,
+    "v": 0.9,
+    "d": 0.3,
+    "d24": 0.4,
+    "d30": -1.3,
+    "vol": 3466716,
+    "vol7": 230206,
     "haut": 3,
     "bas": 0.4
    },
@@ -1366,13 +1366,13 @@
    },
    "composantes": {
     "sondage": 26,
-    "polymarket": 1,
-    "attention": 18
+    "polymarket": 2,
+    "attention": 16
    },
    "score": 17,
    "rangs": {
     "sondage": 5,
-    "polymarket": 11
+    "polymarket": 7
    }
   },
   {
@@ -1388,27 +1388,41 @@
     "d": -0.4
    },
    "attention": {
-    "v": 21.2,
-    "d": 8.9,
+    "v": 17.3,
+    "d": 6,
     "parts": {
-     "Wikipedia": 4.8,
+     "Wikipedia": 3.5,
      "réseaux": 5,
      "citations": 10.2,
      "abonnés": 2.2,
-     "YouTube": 0.4
+     "YouTube": 0.5
     }
    },
    "polymarket": {
-    "v": 1.1,
-    "d": 0.5,
-    "d24": null,
-    "d30": -0.3,
-    "vol": 3459998,
-    "vol7": 337853,
+    "v": 0.9,
+    "d": -0.5,
+    "d24": 0.2,
+    "d30": -0.5,
+    "vol": 3539580,
+    "vol7": 338739,
     "haut": 1.6,
     "bas": 0.4
    },
    "declarations": [
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
+     "contexte": "président du parti",
+     "texte": "« Celui qui a fait ça doit en répondre. »",
+     "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+     "source": "France 24",
+     "date": "2026-11-01",
+     "rubrique": "politique",
+     "sujet": "Manifestations du 31 octobre : 565 interpellations en France",
+     "href": "/politique/2026-11-01/1"
+    },
     {
      "fond": "#e6ecff",
      "couleur": "#1d4ed8",
@@ -1478,23 +1492,9 @@
      "rubrique": "politique",
      "sujet": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés",
      "href": "/politique/2026-10-20/1"
-    },
-    {
-     "fond": "#e6ecff",
-     "couleur": "#1d4ed8",
-     "parti": "LR",
-     "qui": "Bruno Retailleau",
-     "contexte": "candidat à la présidentielle",
-     "texte": "Avant l'allocution, il demandait l'état d'urgence « sans délai » et un couvre-feu.",
-     "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence",
-     "source": "Public Sénat",
-     "date": "2026-10-19",
-     "rubrique": "politique",
-     "sujet": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
-     "href": "/politique/2026-10-19/1"
     }
    ],
-   "nbDeclarations": 8,
+   "nbDeclarations": 9,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {
@@ -1601,13 +1601,13 @@
    },
    "composantes": {
     "sondage": 22,
-    "polymarket": 3,
-    "attention": 21
+    "polymarket": 2,
+    "attention": 17
    },
-   "score": 16,
+   "score": 15,
    "rangs": {
     "sondage": 7,
-    "polymarket": 7
+    "polymarket": 8
    }
   },
   {
@@ -1620,35 +1620,35 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 74.9,
-    "d": -10.8,
+    "v": 77.1,
+    "d": 24.3,
     "parts": {
-     "Wikipedia": 19.1,
-     "abonnés": 5.8,
-     "YouTube": 38.2
+     "Wikipedia": 19.5,
+     "abonnés": 11,
+     "YouTube": 46.7
     }
    },
    "polymarket": {
-    "v": 0.7,
-    "d": -0.1,
-    "d24": null,
-    "d30": -0.3,
-    "vol": 2881048,
-    "vol7": 153421,
+    "v": 0.2,
+    "d": -0.4,
+    "d24": -0.1,
+    "d30": -0.7,
+    "vol": 2930898,
+    "vol7": 177132,
     "haut": 1.1,
-    "bas": 0.7
+    "bas": 0.2
    },
    "declarations": [],
    "nbDeclarations": 0,
    "reseaux": null,
    "composantes": {
     "sondage": 0,
-    "polymarket": 2,
-    "attention": 75
+    "polymarket": 0,
+    "attention": 77
    },
-   "score": 16,
+   "score": 15,
    "rangs": {
-    "polymarket": 10
+    "polymarket": 11
    }
   },
   {
@@ -1664,23 +1664,22 @@
     "d": 1.3
    },
    "attention": {
-    "v": 4,
-    "d": -1.8,
+    "v": 3.2,
+    "d": -1.7,
     "parts": {
-     "Wikipedia": 1.4,
      "réseaux": 1,
      "citations": 1.4,
-     "abonnés": 0.4,
+     "abonnés": 0.7,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 2.2,
-    "d": 0.6,
-    "d24": null,
+    "v": 1.8,
+    "d": -0.5,
+    "d24": 0.1,
     "d30": -3.5,
-    "vol": 2817647,
-    "vol7": 169762,
+    "vol": 2856288,
+    "vol7": 177673,
     "haut": 5.8,
     "bas": 1.4
    },
@@ -1792,10 +1791,10 @@
    },
    "composantes": {
     "sondage": 23,
-    "polymarket": 5,
-    "attention": 4
+    "polymarket": 4,
+    "attention": 3
    },
-   "score": 14,
+   "score": 13,
    "rangs": {
     "sondage": 6,
     "polymarket": 6
@@ -1814,23 +1813,23 @@
     "d": 0.2
    },
    "attention": {
-    "v": 18.8,
-    "d": -7,
+    "v": 14.1,
+    "d": -14.3,
     "parts": {
-     "Wikipedia": 7.5,
+     "Wikipedia": 7.1,
      "réseaux": 5.5,
      "citations": 1.6,
-     "abonnés": 4.8,
-     "YouTube": 5.2
+     "abonnés": 1,
+     "YouTube": 5.4
     }
    },
    "polymarket": {
     "v": 0.9,
-    "d": 0.2,
-    "d24": -0.1,
-    "d30": -0.3,
-    "vol": 3311844,
-    "vol7": 171493,
+    "d": -0.1,
+    "d24": null,
+    "d30": -0.2,
+    "vol": 3341934,
+    "vol7": 170442,
     "haut": 1.2,
     "bas": 0.4
    },
@@ -1943,12 +1942,12 @@
    "composantes": {
     "sondage": 11,
     "polymarket": 2,
-    "attention": 19
+    "attention": 14
    },
-   "score": 10,
+   "score": 9,
    "rangs": {
     "sondage": 9,
-    "polymarket": 8
+    "polymarket": 9
    }
   },
   {
@@ -1964,8 +1963,8 @@
     "d": -0.7
    },
    "attention": {
-    "v": 11.3,
-    "d": -8.2,
+    "v": 9.7,
+    "d": -7.1,
     "parts": {
      "Wikipedia": 2.5,
      "réseaux": 5.2,
@@ -1979,7 +1978,7 @@
     "d": null,
     "d24": null,
     "d30": -0.1,
-    "vol": 4617547,
+    "vol": 4627547,
     "vol7": 0,
     "haut": null,
     "bas": null
@@ -2178,7 +2177,7 @@
    "composantes": {
     "sondage": 8,
     "polymarket": 0,
-    "attention": 11
+    "attention": 10
    },
    "score": 6,
    "rangs": {
@@ -2199,13 +2198,13 @@
     "d": -0.4
    },
    "attention": {
-    "v": 3.5,
-    "d": -1.5,
+    "v": 3.6,
+    "d": -0.9,
     "parts": {
-     "Wikipedia": 0.7,
+     "Wikipedia": 1.7,
      "réseaux": 1.6,
      "citations": 0.6,
-     "abonnés": 0.8,
+     "abonnés": 0.6,
      "YouTube": 0
     }
    },
@@ -2214,7 +2213,7 @@
     "d": null,
     "d24": null,
     "d30": null,
-    "vol": 4264176,
+    "vol": 4274176,
     "vol7": 0,
     "haut": null,
     "bas": null
@@ -2403,23 +2402,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 13.4,
-    "d": 5.8,
+    "v": 11.1,
+    "d": 2.7,
     "parts": {
-     "Wikipedia": 8,
+     "Wikipedia": 6.2,
      "réseaux": 0.3,
      "citations": 1.9,
-     "abonnés": 8,
+     "abonnés": 9.6,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 0.8,
-    "d": 0.2,
-    "d24": 0.2,
+    "v": 0.7,
+    "d": 0.1,
+    "d24": null,
     "d30": 0.2,
-    "vol": 2968565,
-    "vol7": 268877,
+    "vol": 3058820,
+    "vol7": 285182,
     "haut": 1.2,
     "bas": 0.2
    },
@@ -2547,11 +2546,11 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 2,
-    "attention": 13
+    "attention": 11
    },
    "score": 3,
    "rangs": {
-    "polymarket": 9
+    "polymarket": 10
    }
   },
   {
@@ -2564,23 +2563,23 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 8.9,
-    "d": 2.6,
+    "v": 7.6,
+    "d": 2.3,
     "parts": {
-     "Wikipedia": 2.3,
+     "Wikipedia": 2.9,
      "réseaux": 3.7,
      "citations": 0.9,
-     "abonnés": 1.6,
-     "YouTube": 2.1
+     "abonnés": 2,
+     "YouTube": 0.2
     }
    },
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": -0.1,
+    "d24": null,
     "d30": -0.1,
-    "vol": 4848020,
-    "vol7": 4078,
+    "vol": 4855951,
+    "vol7": 0,
     "haut": null,
     "bas": null
    },
@@ -2693,7 +2692,7 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 9
+    "attention": 8
    },
    "score": 2,
    "rangs": {
@@ -2710,10 +2709,9 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.2,
-    "d": 0.7,
+    "v": 0.6,
+    "d": 0.4,
     "parts": {
-     "Wikipedia": 0.8,
      "réseaux": 0.1,
      "citations": 0.5,
      "abonnés": 0,
@@ -2723,10 +2721,10 @@
    "polymarket": {
     "v": 0.1,
     "d": null,
-    "d24": -0.1,
-    "d30": null,
-    "vol": 6378718,
-    "vol7": 158914,
+    "d24": null,
+    "d30": 0.1,
+    "vol": 6384282,
+    "vol7": 122047,
     "haut": null,
     "bas": null
    },
@@ -3619,6 +3617,43 @@
     "Dominique de Villepin": 0.8,
     "Sarah Knafo": 0.7,
     "Gabriel Attal": 0.4,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "attention": {
+    "Jean-Luc Mélenchon": 100,
+    "Sarah Knafo": 77.1,
+    "Marine Le Pen": 56.4,
+    "David Lisnard": 42.3,
+    "Bruno Retailleau": 17.3,
+    "Gabriel Attal": 15.5,
+    "Éric Zemmour": 14.1,
+    "Édouard Philippe": 13.4,
+    "Dominique de Villepin": 11.1,
+    "Raphaël Glucksmann": 10.5,
+    "Marine Tondelier": 9.7,
+    "François Ruffin": 7.6,
+    "Fabien Roussel": 3.6,
+    "François Hollande": 3.2,
+    "Xavier Bertrand": 0.6
+   },
+   "polymarket": {
+    "Marine Le Pen": 40.6,
+    "David Lisnard": 17,
+    "Édouard Philippe": 13.5,
+    "Jean-Luc Mélenchon": 11.5,
+    "Raphaël Glucksmann": 2.5,
+    "François Hollande": 1.8,
+    "Gabriel Attal": 0.9,
+    "Éric Zemmour": 0.9,
+    "Bruno Retailleau": 0.9,
+    "Dominique de Villepin": 0.7,
+    "Sarah Knafo": 0.2,
     "Xavier Bertrand": 0.1,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
