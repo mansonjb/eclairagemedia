@@ -1,5 +1,510 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-11-01",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TECH",
+    "titre": "Cloud : Amazon, Microsoft et Alphabet accélèrent et investissent davantage",
+    "court": "Cloud : AWS +39 %, Azure +48 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CERN_Server_03.jpg/1280px-CERN_Server_03.jpg",
+    "legende": "Une salle de serveurs informatiques au CERN (illustration)",
+    "chapeau": "Mercredi 28 octobre, Microsoft et Alphabet ont publié leurs résultats du troisième trimestre, Amazon l'a fait jeudi 29. Chez Microsoft, le chiffre d'affaires atteint 92,3 milliards de dollars (+19 %), dont 63,9 milliards pour Microsoft Cloud (+30 %), et celui d'Azure progresse de 48 %.",
+    "eclairage": "Pourquoi ces groupes dépensent-ils autant avant de gagner ?",
+    "chiffres": [
+     {
+      "valeur": "+39 %",
+      "legende": "AWS (Amazon) chiffre d'affaires"
+     },
+     {
+      "valeur": "+48 %",
+      "legende": "Azure (Microsoft) chiffre d'affaires"
+     },
+     {
+      "valeur": "+103 %",
+      "legende": "Google Cloud sur un an"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Microsoft et Alphabet ont publié leurs résultats du troisième trimestre, Amazon l'a fait jeudi 29. Chez Microsoft, le chiffre d'affaires atteint 92,3 milliards de dollars (+19 %), dont 63,9 milliards pour Microsoft Cloud (+30 %), et celui d'Azure progresse de 48 %. Chez Alphabet, Google Cloud réalise 30,71 milliards de dollars de ventes, plus du double d'il y a un an, pour un chiffre d'affaires total de 127,58 milliards (+25 %). Chez Amazon, AWS atteint 46,0 milliards de dollars (+39 %), sa croissance la plus rapide depuis près de cinq ans, et un résultat opérationnel de 17,8 milliards contre 11,4 milliards un an plus tôt. Amazon a aussi investi 77,3 milliards de dollars en équipements sur le trimestre et vise environ 220 milliards sur 2026 ; son flux de trésorerie disponible des douze derniers mois est négatif de 42,4 milliards, contre +14,8 milliards un an plus tôt. Les marchés ont réagi de façon contrastée : l'action Alphabet a reculé de 8 % à 12 % selon les médias et le moment de la mesure, celle de Microsoft a gagné environ 3 % après la clôture.",
+    "points": [],
+    "explication": "Le cloud consiste à louer de la puissance informatique à distance : le client paie à l'usage, le fournisseur possède les machines. Ces machines (serveurs, puces, centres de données) s'achètent d'avance : ce sont les capex, les dépenses d'investissement. Elles ne figurent pas d'un coup dans le bénéfice mais s'étalent sur des années, d'où un décalage entre l'argent dépensé et l'argent encaissé. Microsoft chiffre à 677 milliards de dollars (+73 %) ses contrats signés mais pas encore facturés : c'est ce carnet qui justifie, selon les groupes, de construire de la capacité en avance. Le flux de trésorerie disponible mesure ce qui reste en caisse une fois les investissements payés.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+      "nom": "communiqué Amazon"
+     },
+     {
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+      "nom": "communiqué Microsoft"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/alphabet-depasse-les-attentes-dans-le-cloud-grace-a-la-demande-soutenue-en-intelligence-artificielle-8454ba1cd6295ea6945ba28f935db931",
+      "nom": "Boursorama (Zonebourse)"
+     },
+     {
+      "url": "https://www.actuia.com/actualite/cloud-au-troisieme-trimestre-seul-microsoft-a-paye-ses-investissements-avec-sa-tresorerie/",
+      "nom": "ActuIA"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "nom": "CNBC"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Andy Jassy",
+      "contexte": "PDG d'Amazon",
+      "texte": "« There has never been a trillion dollar revenue business, and we may have two of them in the next 5-10 years. »",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+      "source": "communiqué Amazon"
+     },
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Amy Hood",
+      "contexte": "directrice financière de Microsoft",
+      "texte": "« We delivered a strong start to the fiscal year »",
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+      "source": "communiqué Microsoft"
+     }
+    ],
+    "apres": "Apple publie ses résultats lundi 2 novembre. Amazon, Microsoft et Alphabet détailleront leurs investissements 2027 lors de leurs prochaines publications ; Alphabet a indiqué en attendre une hausse significative (ActuIA).",
+    "change": "Pour les entreprises qui louent du cloud, la capacité reste un facteur limitant d'après Microsoft.",
+    "credit": {
+     "auteur": "Florian Hirzinger",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "EUROPE",
+    "titre": "Zone euro : le PIB progresse de 0,4 % au troisième trimestre",
+    "court": "Zone euro : PIB +0,4 % au 3e trimestre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hamburg_Port_10.jpg/1280px-Hamburg_Port_10.jpg",
+    "legende": "Un porte-conteneurs Hapag-Lloyd au terminal du port de Hambourg (illustration)",
+    "chapeau": "Vendredi 30 octobre, Eurostat a publié une première estimation de la croissance : le produit intérieur brut (PIB) de la zone euro a augmenté de 0,4 % au troisième trimestre, contre 0,6 % au deuxième, et de 1,3 % sur un an, contre 1,2 % au trimestre précédent.",
+    "eclairage": "Comment lire une croissance trimestrielle ?",
+    "chiffres": [
+     {
+      "valeur": "+0,4 %",
+      "legende": "PIB zone euro sur le trimestre"
+     },
+     {
+      "valeur": "+1,3 %",
+      "legende": "PIB zone euro sur un an"
+     },
+     {
+      "valeur": "-0,1 %",
+      "legende": "PIB France sur le trimestre"
+     }
+    ],
+    "passe": "Vendredi 30 octobre, Eurostat a publié une première estimation de la croissance : le produit intérieur brut (PIB) de la zone euro a augmenté de 0,4 % au troisième trimestre, contre 0,6 % au deuxième, et de 1,3 % sur un an, contre 1,2 % au trimestre précédent. Pour l'ensemble de l'Union européenne, la hausse est de 0,5 %. Les économistes interrogés par Reuters attendaient 0,2 %. Les écarts entre pays sont importants : Irlande +5,5 %, Estonie, Espagne et Pays-Bas +0,6 %, Allemagne +0,2 %, Italie 0,0 %, France -0,1 % et Lituanie -1,0 %. Sur un an, la France (-0,1 %) est le seul des pays pour lesquels les données sont disponibles à afficher un recul. Le taux de chômage de la zone euro est de 6,5 % en septembre, inchangé par rapport à août. Eurostat précise que cette estimation repose sur des données incomplètes et peut être révisée.",
+    "points": [],
+    "explication": "Le PIB mesure la valeur des biens et services produits sur un territoire. Eurostat le compare de deux façons : avec le trimestre précédent (+0,4 %) et avec le même trimestre un an plus tôt (+1,3 %). Une hausse de 0,4 % sur un trimestre, répétée quatre fois, donnerait environ 1,6 % sur l'année. Une estimation flash est publiée vite, avec les données disponibles, puis corrigée quand les chiffres complets arrivent. La zone euro est une moyenne de pays qui avancent à des rythmes très différents, comme le montre l'écart entre l'Irlande (+5,5 %) et la Lituanie (-1,0 %).",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+      "nom": "Eurostat"
+     },
+     {
+      "url": "https://www.eunews.it/en/2026/10/30/eurozone-q3-gdp-up-0-4-per-cent-eu-gdp-up-0-5-per-cent/",
+      "nom": "Eunews"
+     },
+     {
+      "url": "https://agenceurope.eu/en/bulletin/article/13972/13/euro-area-gdp-estimated-to-have-risen-by-04-in-third-quarter",
+      "nom": "Agence Europe"
+     },
+     {
+      "url": "https://www.boursorama.com/bourse/actualites/zone-euro-l-economie-progresse-de-0-4-au-t3-premiere-estimation-220da49520f849b1f47a1db857d27a49",
+      "nom": "Reuters via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Économistes interrogés par Reuters",
+      "contexte": "consensus",
+      "texte": "Ils attendaient une hausse de 0,2 % du PIB de la zone euro au troisième trimestre, contre 0,4 % publié.",
+      "url": "https://www.boursorama.com/bourse/actualites/zone-euro-l-economie-progresse-de-0-4-au-t3-premiere-estimation-220da49520f849b1f47a1db857d27a49",
+      "source": "Boursorama"
+     }
+    ],
+    "apres": "Eurostat actualisera l'estimation avec des données plus complètes. L'estimation rapide de l'inflation de la zone euro d'octobre est publiée mercredi 4 novembre.",
+    "change": "Une croissance positive dans la zone euro contraste avec le recul français : la France est le seul pays à reculer sur un an parmi ceux dont les données sont connues. Côté emploi, le chômage reste stable à 6,5 % (Eunews, données Eurostat).",
+    "credit": {
+     "auteur": "Ad Meskens",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Hamburg_Port_10.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ENTREPRISES",
+    "titre": "Worldline : le chiffre d'affaires repart à +2,5 % au troisième trimestre",
+    "court": "Worldline : retour de la croissance, +2,5 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Betaalpas_en_logo_contactloos_betalen_-_8966256167.jpg/1280px-Betaalpas_en_logo_contactloos_betalen_-_8966256167.jpg",
+    "legende": "Paiement sans contact par carte bancaire sur un terminal (illustration)",
+    "chapeau": "Mardi 27 octobre, Worldline, spécialiste français des paiements, a publié son chiffre d'affaires du troisième trimestre : 967 millions d'euros en données publiées (+2,0 % en organique) et 946 millions d'euros sur son périmètre ajusté, après cessions (+2,5 %).",
+    "eclairage": "Que veut dire « croissance organique » ?",
+    "chiffres": [
+     {
+      "valeur": "946 M€",
+      "legende": "chiffre d'affaires ajusté du 3e trim."
+     },
+     {
+      "valeur": "+2,5 %",
+      "legende": "croissance organique"
+     },
+     {
+      "valeur": "-3,3 %",
+      "legende": "services financiers"
+     }
+    ],
+    "passe": "Mardi 27 octobre, Worldline, spécialiste français des paiements, a publié son chiffre d'affaires du troisième trimestre : 967 millions d'euros en données publiées (+2,0 % en organique) et 946 millions d'euros sur son périmètre ajusté, après cessions (+2,5 %). Les analystes attendaient 925 millions d'euros, selon ABC Bourse. L'activité Services aux commerçants atteint 759 millions d'euros (+4,0 %), celle des Services financiers 186 millions (-3,3 %). Le chiffre d'affaires net, qui exclut les frais reversés aux réseaux de cartes et aux partenaires, recule de 1,0 %. Le groupe confirme ses objectifs 2026 : un chiffre d'affaires organique stable à légèrement positif, un EBITDA ajusté de 630 à 650 millions d'euros et un flux de trésorerie disponible de -60 à -40 millions. Le 28 octobre, l'action a gagné près de 14 % en séance, à 11,70 euros vers 11 h.",
+    "points": [],
+    "explication": "La croissance organique compare le chiffre d'affaires à celui de l'an dernier en retirant l'effet des changes et des achats ou ventes d'activités : elle mesure ce que l'entreprise vend de plus avec ce qu'elle possède déjà. Worldline a terminé ses cessions (Australie et Inde) l'été dernier, d'où deux chiffres, 967 millions en publié et 946 millions sur le périmètre restant. Le chiffre d'affaires net est plus proche de ce que le groupe garde réellement, puisqu'il exclut les frais qu'il reverse : ici, -1,0 % contre +2,5 % en chiffre ajusté. Les deux chiffres ne racontent pas la même chose, et c'est pourquoi il faut les lire ensemble.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://investors.worldline.com/en/home/news-events/financial-press-releases/2026/pr-2026_10_27_01",
+      "nom": "communiqué Worldline"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/worldline-renoue-avec-la-croissance-au-troisieme-trimestre-et-depasse-les-attent_704996",
+      "nom": "ABC Bourse"
+     },
+     {
+      "url": "https://www.ideal-investisseur.fr/en/stock-news/worldline-stock-leads-sbf-120-surging-nearly-14-following-q3-results/28053.html",
+      "nom": "Idéal Investisseur"
+     },
+     {
+      "url": "https://www.easybourse.com/international/news/1540381/worldline-bondit-apres-un-retour-croissance-t3.html",
+      "nom": "Reuters via EasyBourse"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Pierre-Antoine Vacheron",
+      "contexte": "directeur général de Worldline",
+      "texte": "« we remain on track to deliver our 2026 outlook »",
+      "url": "https://investors.worldline.com/en/home/news-events/financial-press-releases/2026/pr-2026_10_27_01",
+      "source": "communiqué Worldline"
+     }
+    ],
+    "apres": "Le groupe poursuit son plan « North Star 2030 » (Idéal Investisseur). Les objectifs 2026 seront vérifiés lors de la publication de ses résultats annuels.",
+    "change": "Pour Worldline, le trimestre marque une croissance organique positive après une période plus faible, tirée par les commerçants, tandis que les services bancaires continuent de reculer. Le flux de trésorerie disponible reste attendu négatif en 2026.",
+    "credit": {
+     "auteur": "ING Nederland",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Betaalpas_en_logo_contactloos_betalen_-_8966256167.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Apple : résultats du quatrième trimestre de son exercice 2026."
+   },
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Zone euro : estimation rapide de l'inflation d'octobre par Eurostat."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Insee : résultat définitif de l'inflation d'octobre."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Capex",
+    "definition": "Les dépenses d'investissement d'une entreprise : machines, bâtiments, serveurs. Elles s'étalent ensuite dans les comptes sur plusieurs années."
+   },
+   {
+    "terme": "Flux de trésorerie disponible",
+    "definition": "L'argent qui reste en caisse après avoir payé les dépenses courantes et les investissements."
+   },
+   {
+    "terme": "Croissance organique",
+    "definition": "La hausse du chiffre d'affaires hors effets de change et hors achats ou ventes d'activités."
+   },
+   {
+    "terme": "Estimation flash",
+    "definition": "Une première évaluation publiée vite, avec des données incomplètes, et corrigée ensuite."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Au troisième trimestre 2026, le PIB de la France et celui de la zone euro ont tous deux progressé de 0,4 %.",
+   "reponse": false,
+   "explication": "Le PIB de la zone euro a progressé de 0,4 % selon Eurostat, mais celui de la France a reculé de 0,1 %. Ces chiffres sont des estimations préliminaires."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-11-01",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Bio : ce que garantit le logo européen, et ce qu'il précise",
+    "court": "Bio : ce que garantit l'eurofeuille",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Organic_agriculture_in_the_Netherlands_%28P-025148-00-02%29.jpg/1280px-Organic_agriculture_in_the_Netherlands_%28P-025148-00-02%29.jpg",
+    "legende": "Ferme biologique aux Pays-Bas (illustration)",
+    "chapeau": "Aucun fait nouveau n'a réuni trois sources aujourd'hui sur le bio : voici donc un décryptage des règles de référence. Le logo bio européen, appelé eurofeuille, est encadré par le règlement (UE) 2018/848.",
+    "eclairage": "Comment lire l'étiquette d'un produit bio ?",
+    "chiffres": [
+     {
+      "valeur": "95 %",
+      "legende": "d'ingrédients bio au minimum pour porter le logo"
+     },
+     {
+      "valeur": "1 an",
+      "legende": "fréquence minimale d'audit (24 mois si faible risque)"
+     },
+     {
+      "valeur": "3",
+      "legende": "formes de mention d'origine UE, non UE, UE/non UE"
+     }
+    ],
+    "passe": "Aucun fait nouveau n'a réuni trois sources aujourd'hui sur le bio : voici donc un décryptage des règles de référence. Le logo bio européen, appelé eurofeuille, est encadré par le règlement (UE) 2018/848. Selon la Commission européenne, un produit ne peut le porter que s'il contient au moins 95 % d'ingrédients biologiques, les 5 % restants devant respecter des conditions strictes, et un même ingrédient ne peut pas être présent à la fois sous forme biologique et non biologique. À côté du logo doivent figurer le lieu de production des matières premières agricoles, sous la forme « Agriculture UE » ou « Agriculture non UE », et le numéro de code de l'organisme de contrôle. Une note d'étiquetage des produits biologiques, révisée en mars 2026 après l'avis du Comité national de l'agriculture biologique de l'INAO du 26 mars 2026, précise que le logo est obligatoire pour les denrées préemballées à 95 % et plus d'ingrédients biologiques, et facultatif pour les produits non préemballés. Côté contrôle, Agrinfo rapporte que les opérateurs doivent faire l'objet d'un audit, avec inspection physique sur place, au moins une fois par an, avec un intervalle pouvant aller jusqu'à 24 mois pour les opérateurs à faible risque sans non-conformité pendant trois années consécutives.",
+    "points": [
+     "Le seuil de 95 % porte sur les ingrédients : un plat peut donc contenir des ingrédients non biologiques, dans la limite de 5 % et sous conditions.",
+     "La mention d'origine prend l'une de trois formes : « Agriculture UE », « Agriculture non UE » ou « Agriculture UE/non UE ». Elle indique une zone, pas un pays.",
+     "Le logo AB français est facultatif et ne doit pas réduire la visibilité du logo européen, selon la note d'étiquetage. Le code de l'organisme de contrôle permet de savoir qui a certifié le produit."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agriculture.ec.europa.eu/farming/organic-farming/organic-logo_fr",
+      "nom": "Commission européenne"
+     },
+     {
+      "url": "https://www.certis.com.fr/storage/479/Note-GL-Etiquetage_01-04-2026.pdf",
+      "nom": "Note d'étiquetage bio (Certis, version mars 2026)"
+     },
+     {
+      "url": "https://agrinfo.eu/book-of-reports/new-eu-organic-regulation-explained/translate/fr",
+      "nom": "Agrinfo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Commission européenne",
+      "contexte": null,
+      "texte": "Elle indique que le logo peut aussi être utilisé pour les produits importés, à condition qu'ils respectent les règles de l'UE applicables à l'importation de produits biologiques.",
+      "url": "https://agriculture.ec.europa.eu/farming/organic-farming/organic-logo_fr",
+      "source": "Commission européenne"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "ENTREPRISE",
+      "qui": "Certis",
+      "contexte": "organisme de certification",
+      "texte": "Dans sa note d'étiquetage, l'organisme précise que le logo européen est facultatif pour les produits importés de pays tiers non conditionnés dans l'UE, et que la mention d'origine est obligatoire lorsque ce logo est utilisé.",
+      "url": "https://www.certis.com.fr/storage/479/Note-GL-Etiquetage_01-04-2026.pdf",
+      "source": "note d'étiquetage Certis"
+     }
+    ],
+    "apres": "Aucune échéance réglementaire nouvelle sur l'étiquetage bio n'est rapportée dans les sources consultées.",
+    "change": "Rien de nouveau : ces règles sont déjà en vigueur. En magasin, trois éléments se lisent côte à côte sur un produit préemballé : l'eurofeuille, la mention d'origine et le code de l'organisme de contrôle.",
+    "credit": {
+     "auteur": "Commission européenne, service audiovisuel",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-02).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Assises nationales de l'alimentation et de l'agriculture à Laval, organisées avec Ouest-France (AGRA)."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Végé'Tech 2026 : visioconférences organisées par Vegepolys Valley (AGRA)."
+   },
+   {
+    "jour": "7",
+    "mois": "NOV.",
+    "texte": "Salon Marjolaine (jusqu'au 11), salon de la bio et de l'écologie, au Parc Floral de Paris (JDS)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "95 %",
+   "texte": "C'est la part minimale d'ingrédients biologiques qu'un produit doit contenir pour porter le logo bio européen."
+  },
+  "lexique": [
+   {
+    "terme": "Eurofeuille",
+    "definition": "Nom courant du logo bio européen, défini à l'annexe V du règlement (UE) 2018/848."
+   },
+   {
+    "terme": "Organisme de contrôle",
+    "definition": "Organisme chargé de certifier les opérateurs bio ; son numéro de code est affiché à côté du logo."
+   },
+   {
+    "terme": "INAO",
+    "definition": "Institut national de l'origine et de la qualité, dont le Comité national de l'agriculture biologique a rendu l'avis du 26 mars 2026 sur la note d'étiquetage."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Un produit alimentaire préemballé doit contenir au moins 95 % d'ingrédients biologiques pour porter le logo bio européen.",
+   "reponse": true,
+   "explication": "La Commission européenne indique qu'un produit ne peut porter le logo biologique que s'il contient au moins 95 % d'ingrédients biologiques."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-11-01",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "MANIFESTATIONS",
+    "titre": "31 octobre : 4 150 manifestants en Charente-Maritime, deux interpellations",
+    "court": "31 octobre : le bilan de la préfecture",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Entr%C3%A9e_port_La_Rochelle_ao%C3%BBt_2015_Charente-Maritime.jpg/1280px-Entr%C3%A9e_port_La_Rochelle_ao%C3%BBt_2015_Charente-Maritime.jpg",
+    "legende": "Le Vieux-Port, que le cortège a longé samedi.",
+    "chapeau": "Samedi 31 octobre, troisième samedi de mobilisation contre la vie chère, la préfecture a recensé environ 4 150 manifestants en Charente-Maritime, dont près de 3 500 à La Rochelle au plus fort de la journée.",
+    "eclairage": "Qui décide d'interdire un rassemblement ?",
+    "chiffres": [
+     {
+      "valeur": "4 150",
+      "legende": "manifestants en Charente-Maritime"
+     },
+     {
+      "valeur": "3 500",
+      "legende": "à La Rochelle au plus fort"
+     },
+     {
+      "valeur": "2",
+      "legende": "interpellations aucun blessé"
+     }
+    ],
+    "passe": "Samedi 31 octobre, troisième samedi de mobilisation contre la vie chère, la préfecture a recensé environ 4 150 manifestants en Charente-Maritime, dont près de 3 500 à La Rochelle au plus fort de la journée. Les médias locaux donnent des chiffres voisins : entre 3 000 et 4 000 personnes selon Sud Ouest, entre 3 500 et 4 500 selon INF La Rochelle. Le cortège est parti de la gare et a traversé le centre-ville sans incident, alors qu'un arrêté préfectoral du 30 octobre interdisait les rassemblements revendicatifs dans une partie de La Rochelle et à Beaulieu (Puilboreau). Sud Ouest rapporte qu'un gradé a annoncé au cortège qu'il pouvait défiler. Plusieurs dizaines de manifestants ont tenté sans succès d'accéder à la zone commerciale de Beaulieu : les forces de sécurité ont utilisé du gaz lacrymogène, et la rocade a été interrompue dans les deux sens. En fin de journée, une centaine de personnes ont tenté d'accéder à la préfecture et lancé des projectiles, selon la préfecture. Près de 300 membres des forces de sécurité intérieure étaient mobilisés. Il y a eu deux interpellations à La Rochelle et aucun blessé. Ailleurs : Rochefort (environ 350), Saintes (environ 220), Montendre (environ 50), Jonzac (3) et Royan (1).",
+    "points": [],
+    "explication": "C'est le préfet, représentant de l'État dans le département, qui a pris les arrêtés du 30 octobre : interdiction des rassemblements revendicatifs dans des périmètres précis (La Rochelle, Puilboreau, Saintes, Bourcefranc-le-Chapus), restrictions sur les armes, fusées et équipements de protection à La Rochelle, Puilboreau, Rochefort, Royan et Saintes, et autorisation de filmer par drone à La Rochelle pour la police nationale. Le préfet rappelle que toute manifestation doit faire l'objet d'une déclaration préalable : deux avaient été déposées pour le 31 octobre, à Rochefort et à Saintes.",
+    "chronologie": [
+     {
+      "quand": "17 OCT.",
+      "texte": "Première journée de mobilisation, avec blocages et incidents selon la préfecture."
+     },
+     {
+      "quand": "24 OCT.",
+      "texte": "Deuxième samedi : près de 6 000 personnes à La Rochelle selon INF, malgré une interdiction."
+     },
+     {
+      "quand": "31 OCT.",
+      "texte": "Troisième samedi : environ 3 500 personnes à La Rochelle selon la préfecture."
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/MOUVEMENTS-SOCIAUX-EN-17-BILAN-DE-LA-JOURNEE-DU-SAMEDI-31-OCTOBRE-2026",
+      "nom": "préfecture de Charente-Maritime (bilan)"
+     },
+     {
+      "url": "https://larochelleinfo.media/manifestation-vie-chere-la-rochelle-31-octobre-2026/",
+      "nom": "La Rochelle info"
+     },
+     {
+      "url": "https://inf-info.fr/manifestation-du-31-octobre-entre-3-500-et-4-500-manifestants-pour-le-troisieme-acte-a-la-rochelle/",
+      "nom": "INF La Rochelle"
+     },
+     {
+      "url": "https://fr.headtopics.com/news/mobilisation-du-31-octobre-a-la-rochelle-plusieurs-89409345",
+      "nom": "Sud Ouest via Headtopics"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Préfecture de Charente-Maritime",
+      "contexte": null,
+      "texte": "« L'ensemble des rassemblements se sont déroulés globalement dans le calme, excepté au niveau du centre commercial de Beaulieu où des individus ont souhaité à nouveau pénétrer dans les commerces »",
+      "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/MOUVEMENTS-SOCIAUX-EN-17-BILAN-DE-LA-JOURNEE-DU-SAMEDI-31-OCTOBRE-2026",
+      "source": "préfecture"
+     }
+    ],
+    "apres": "Aucun appel à une nouvelle journée de mobilisation n'a été relevé dans les sources consultées ; la préfecture n'a pas annoncé de nouvelles mesures.",
+    "change": "Pour les habitants : une circulation coupée un temps sur la rocade, des bus Yélo déviés ou interrompus, selon Sud Ouest, et une zone commerciale de Beaulieu sous surveillance.",
+    "credit": {
+     "auteur": "Jebulon",
+     "licence": "CC0",
+     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_port_La_Rochelle_ao%C3%BBt_2015_Charente-Maritime.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "17",
+    "mois": "NOV.",
+    "texte": "Carrelets : fin de l'affichage en mairie et date limite des candidatures pour 24 emplacements de pontons de pêche."
+   },
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Eau potable : échéance de l'alerte renforcée, qui peut être levée, adaptée ou renforcée avant."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Arrêté préfectoral",
+    "definition": "Une décision écrite du préfet, qui s'applique dans le département ou sur un périmètre précis, pour une durée donnée."
+   },
+   {
+    "terme": "Déclaration préalable",
+    "definition": "La démarche à faire auprès des services de l'État avant une manifestation sur la voie publique."
+   },
+   {
+    "terme": "Forces de sécurité intérieure (FSI)",
+    "definition": "L'ensemble des policiers et gendarmes mobilisés sur le terrain."
+   },
+   {
+    "terme": "Étiage",
+    "definition": "La période de plus basses eaux des rivières, qui s'achève réglementairement le 31 octobre."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon la préfecture, la journée de mobilisation du 31 octobre en Charente-Maritime a donné lieu à deux interpellations, toutes deux à La Rochelle, et à aucun blessé.",
+   "reponse": true,
+   "explication": "Vrai : le bilan de la préfecture fait état de 2 interpellations à La Rochelle et d'aucun blessé, ni parmi les manifestants ni parmi les forces de l'ordre."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-01",
   "minutes": 6,
@@ -245,6 +750,248 @@
    "affirmation": "Selon la préfecture de police, 110 000 personnes ont manifesté à Paris le 31 octobre.",
    "reponse": false,
    "explication": "La préfecture de police en a compté 70 000 à Paris le 31 octobre. Le chiffre de 110 000 est celui du samedi précédent, le 24 octobre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-11-01",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Valve mitrale : opérer tôt serait lié à une meilleure survie",
+    "court": "Valve mitrale : opérer tôt, +66 jours",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2D_ECHOCARDIOGRAM_MACHINE_WITH_A_TABLE_AND_A_STETHOSCOPE.jpg/1280px-2D_ECHOCARDIOGRAM_MACHINE_WITH_A_TABLE_AND_A_STETHOSCOPE.jpg",
+    "legende": "Un échographe cardiaque, l'examen qui détecte la fuite de la valve mitrale (illustration)",
+    "chapeau": "Dans le numéro d'octobre 2026 de JAMA Network Open (relayé le 31 octobre), une équipe sud-coréenne compare deux stratégies chez des adultes atteints d'une fuite sévère de la valve mitrale sans aucun symptôme.",
+    "eclairage": "Pourquoi opérer quelqu'un qui n'a pas de symptômes ?",
+    "chiffres": [
+     {
+      "valeur": "802",
+      "legende": "patients suivis 7,4 ans en médiane"
+     },
+     {
+      "valeur": "0,69",
+      "legende": "rapport de risque de décès"
+     }
+    ],
+    "passe": "Dans le numéro d'octobre 2026 de JAMA Network Open (relayé le 31 octobre), une équipe sud-coréenne compare deux stratégies chez des adultes atteints d'une fuite sévère de la valve mitrale sans aucun symptôme. Sur 802 patients d'un registre de trois hôpitaux de Séoul (2000-2022), 344 ont été opérés dans les 6 mois suivant le diagnostic et 458 ont été surveillés. Après un suivi médian de 7,4 ans, on compte 27 décès dans le groupe opéré tôt et 103 dans le groupe surveillé. Après ajustement statistique, la survie moyenne sur 5 ans est de 1 717 jours avec une chirurgie précoce contre 1 651 jours avec la surveillance, soit 66 jours de plus (intervalle de confiance à 95 % : 19 à 129). Le rapport de risque de décès est de 0,69 (0,41 à 0,94). Il s'agit d'une étude observationnelle : elle ne compare pas des patients tirés au sort. Le financement n'est pas précisé dans les documents consultés.",
+    "points": [],
+    "explication": "La valve mitrale sépare deux cavités du cœur. Quand elle fuit, une partie du sang reflue en arrière et le cœur travaille davantage. Beaucoup de patients se sentent bien pendant des années, mais le muscle peut s'épuiser sans prévenir. La question est donc : opérer tôt, ou attendre l'apparition de symptômes ? Aucun essai randomisé n'a tranché, d'où cette émulation d'essai cible : les auteurs reconstituent par calcul un essai qui aurait tiré les patients au sort. C'est utile, mais cela ne remplace pas un vrai essai : des différences entre patients (état général, choix du chirurgien) peuvent rester cachées. Les auteurs signalent aussi que des hôpitaux n'avaient pas de données de suivi complètes. Les auteurs concluent qu'une chirurgie précoce est associée à une meilleure survie à long terme ce qui soutient l'idée d'envisager une intervention plus précoce. Ils demandent des études de confirmation.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854832",
+      "nom": "JAMA Network Open (étude originale)"
+     },
+     {
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.37061",
+      "nom": "DOI"
+     },
+     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832200/",
+      "nom": "PubMed"
+     },
+     {
+      "url": "https://www.2minutemedicine.com/early-mitral-valve-surgery-may-improve-long-term-survival-in-asymptomatic-severe-mitral-regurgitation/",
+      "nom": "2 Minute Medicine"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Ahn J., Kwak S., Sun B.J. et collègues",
+      "contexte": "équipe sud-coréenne",
+      "texte": "Les auteurs concluent qu'une chirurgie précoce est associée à une meilleure survie à long terme ce qui soutient l'idée d'envisager une intervention plus précoce. Ils demandent des études de confirmation.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854832",
+      "source": "JAMA Network Open"
+     }
+    ],
+    "apres": "Les auteurs réclament de nouvelles études. Les recommandations officielles devraient attendre des données plus solides, idéalement un essai randomisé.",
+    "change": "Pour les patients dont la fuite mitrale est sévère mais silencieuse, ce travail renforce l'argument d'une discussion précoce avec l'équipe cardiologique et chirurgicale. Il ne dit pas qui doit être opéré : le choix dépend de la valve, de l'âge et du risque.",
+    "credit": {
+     "auteur": "Dr D. Malleswara Rao",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2D_ECHOCARDIOGRAM_MACHINE_WITH_A_TABLE_AND_A_STETHOSCOPE.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CANCER",
+    "titre": "Immunothérapie : espacer les injections à 12 semaines n'a pas fait ses preuves",
+    "court": "Immunothérapie : espacer les doses, MOIO",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Infuuspomp.jpg/1280px-Infuuspomp.jpg",
+    "legende": "Une pompe à perfusion hospitalière, utilisée pour administrer des traitements par voie intraveineuse (illustration)",
+    "chapeau": "Le 27 octobre 2026, au congrès de l'ESMO à Madrid, la docteure Gwenaëlle Gravis (Institut Paoli-Calmettes, Marseille) a présenté les résultats intermédiaires de l'essai de phase 3 MOIO, mené par UNICANCER.",
+    "eclairage": "Pourquoi chercher à espacer un traitement qui marche ?",
+    "chiffres": [
+     {
+      "valeur": "340",
+      "legende": "patients randomisés (646 prévus)"
+     },
+     {
+      "valeur": "21,9 mois",
+      "legende": "survie sans progression espacé (25,0 en standard)"
+     },
+     {
+      "valeur": "19,9 %",
+      "legende": "de décès espacé contre 10,5 % standard"
+     }
+    ],
+    "passe": "Le 27 octobre 2026, au congrès de l'ESMO à Madrid, la docteure Gwenaëlle Gravis (Institut Paoli-Calmettes, Marseille) a présenté les résultats intermédiaires de l'essai de phase 3 MOIO, mené par UNICANCER. Chez des patients atteints de cancers solides avancés ou métastatiques, qui répondaient bien après six mois d'immunothérapie, 340 personnes ont reçu soit le traitement au rythme habituel, soit la même dose toutes les 12 semaines. La survie sans progression médiane est de 25,0 mois avec le rythme habituel et de 21,9 mois avec le rythme espacé (rapport de risque 1,35 ; intervalle de confiance de 0,90 à 2,04), si bien que la non-infériorité n'est pas démontrée. Les décès concernent 10,5 % des patients du groupe standard et 19,9 % du groupe espacé (rapport de risque 2,04 ; 1,08 à 3,85). L'essai a été arrêté plus tôt que prévu. Les effets indésirables sévères d'origine immunitaire sont proches (10,5 % contre 9,5 %). Les résultats n'ont pas encore été publiés dans une revue.",
+    "points": [],
+    "explication": "Les inhibiteurs de points de contrôle sont des immunothérapies qui aident le système immunitaire à attaquer la tumeur. Ils sont chers et astreignants (une perfusion toutes les 3 à 6 semaines). Espacer les doses allégerait les trajets et les coûts. Un essai de non-infériorité teste si le schéma allégé « n'est pas moins bon » que le standard, dans une marge fixée à l'avance. Ici, cette marge n'est pas respectée et un écart sur les décès est apparu. Attention : il s'agit d'une analyse intermédiaire, avec moins de patients que prévu, et les décès comptent parmi plusieurs causes possibles. Ce résultat concerne seulement le rythme de 12 semaines chez des patients qui répondaient déjà bien. L'institut indique que les analyses intermédiaires ne permettent pas de démontrer la non-infériorité du schéma espacé, ni de conclure formellement à son infériorité. Un signal sur la survie globale a conduit le comité de surveillance indépendant à recommander l'arrêt anticipé. Il juge que ces résultats ne soutiennent pas, à ce stade, un rythme de 12 semaines dans cette population.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.institutpaolicalmettes.fr/esmo-2026-etude-moio-gwenaelle-gravis/",
+      "nom": "Institut Paoli-Calmettes"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT05078047",
+      "nom": "ClinicalTrials.gov (NCT05078047)"
+     },
+     {
+      "url": "https://www.pharmacytimes.com/view/moio-trial-raises-survival-concerns-with-reduced-frequency-immunotherapy",
+      "nom": "Pharmacy Times"
+     },
+     {
+      "url": "https://oncodaily.com/oncolibrary/immune-oncology/moio-trial",
+      "nom": "OncoDaily"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Institut Paoli-Calmettes",
+      "contexte": "centre promoteur de l'étude",
+      "texte": "L'institut indique que les analyses intermédiaires ne permettent pas de démontrer la non-infériorité du schéma espacé, ni de conclure formellement à son infériorité. Un signal sur la survie globale a conduit le comité de surveillance indépendant à recommander l'arrêt anticipé. Il juge que ces résultats ne soutiennent pas, à ce stade, un rythme de 12 semaines dans cette population.",
+      "url": "https://www.institutpaolicalmettes.fr/esmo-2026-etude-moio-gwenaelle-gravis/",
+      "source": "IPC"
+     }
+    ],
+    "apres": "L'analyse finale et la publication dans une revue sont à attendre. Des essais restent nécessaires pour identifier d'éventuels patients pouvant recevoir moins de traitement en sécurité.",
+    "change": "Un patient sous immunothérapie ne doit jamais modifier seul le rythme de ses perfusions : cet essai indique que l'espacement à 12 semaines n'est pas validé pour les patients répondeurs. Toute décision se prend avec l'équipe d'oncologie.",
+    "credit": {
+     "auteur": "Harmid",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Infuuspomp.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TRAITEMENT",
+    "titre": "Uvéite : le brepocitinib en comprimé réussit deux essais de phase 3",
+    "court": "Uvéite : le brepocitinib réussit deux essais",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Slit_lamp_eye_exam.jpg",
+    "legende": "Un examen de l'œil à la lampe à fente chez un ophtalmologue (illustration)",
+    "chapeau": "Le 21 octobre 2026, les sociétés Roivant et Priovant ont annoncé les résultats préliminaires de deux essais de phase 3, CLARITY-1 (166 patients) et CLARITY-2 (204 patients), sur le brepocitinib, un comprimé qui bloque deux enzymes de l'inflammation (TYK2 et JAK1), dans l'uvéite non infectieuse, une inflammation de l'intérieur de l'œil.",
+    "eclairage": "Qu'est-ce que l'uvéite, et que signifie « résultats préliminaires » ?",
+    "chiffres": [
+     {
+      "valeur": "371",
+      "legende": "patients dans deux essais"
+     },
+     {
+      "valeur": "0,27 / 0,22",
+      "legende": "rapport de risque d'échec du traitement"
+     },
+     {
+      "valeur": "62 %",
+      "legende": "sans corticoïdes, œil calme contre 20 % (placebo)"
+     }
+    ],
+    "passe": "Le 21 octobre 2026, les sociétés Roivant et Priovant ont annoncé les résultats préliminaires de deux essais de phase 3, CLARITY-1 (166 patients) et CLARITY-2 (204 patients), sur le brepocitinib, un comprimé qui bloque deux enzymes de l'inflammation (TYK2 et JAK1), dans l'uvéite non infectieuse, une inflammation de l'intérieur de l'œil. Les patients, tirés au sort 1 pour 1, ont reçu 45 mg par jour ou un placebo pendant 48 semaines, après une cure de corticoïdes réduite à zéro en 6 semaines. L'échec du traitement entre les semaines 6 et 48 survient chez 35,4 % contre 78,7 % (CLARITY-1) et chez 32,4 % contre 77,8 % (CLARITY-2), soit des rapports de risque de 0,27 et 0,22. À la semaine 48, 58,8 % et 64,4 % des patients sous brepocitinib avaient les deux yeux calmes sans corticoïdes, contre environ 20 % sous placebo. Les sociétés disent que 3 % des participants ont arrêté pour effet indésirable, sans nouveau signal de sécurité. Ces chiffres viennent des promoteurs, sans publication complète revue par des pairs.",
+    "points": [],
+    "explication": "L'uvéite est une inflammation de l'uvée, la couche intermédiaire de l'œil. Elle peut causer douleurs, vision floue et, sans contrôle, des dommages durables. Le traitement de départ repose sur les corticoïdes, efficaces mais dont on cherche à limiter l'usage prolongé. Un essai randomisé contre placebo compare deux groupes tirés au sort, ce qui rend l'écart attribuable au traitement. Mais ces résultats sont des résultats préliminaires : annoncés par l'entreprise, avant l'examen par des experts indépendants. Les chiffres détaillés peuvent évoluer, et la sécurité à long terme reste à documenter. Une réduction rapide des corticoïdes était imposée aux deux groupes, ce qui rend l'épreuve exigeante. La société prévoit de déposer une demande d'autorisation complémentaire pour l'uvéite non infectieuse au premier semestre 2027. Le médicament est déjà approuvé aux États-Unis dans la dermatomyosite.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.ophthalmologytimes.com/view/brepocitinib-meets-all-phase-3-end-points-in-noninfectious-uveitis",
+      "nom": "Ophthalmology Times"
+     },
+     {
+      "url": "https://retinalphysician.com/news/2026/brepocitinib-meets-primary-endpoints-in-2-phase-3-uveitis-trials/",
+      "nom": "Retinal Physician"
+     },
+     {
+      "url": "https://www.healio.com/news/ophthalmology/20261022/oral-therapy-achieves-phase-3-primary-endpoint-for-noninfectious-uveitis",
+      "nom": "Healio"
+     },
+     {
+      "url": "https://clinicaltrials.gov/study/NCT06431373",
+      "nom": "ClinicalTrials.gov (CLARITY)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "EXPERT",
+      "qui": "Quan Dong Nguyen",
+      "contexte": "ophtalmologue, Stanford (lien éventuel avec les sociétés non précisé)",
+      "texte": "« This is the kind of outcome that can redefine expectations for an entire field. »",
+      "url": "https://www.ophthalmologytimes.com/view/brepocitinib-meets-all-phase-3-end-points-in-noninfectious-uveitis",
+      "source": "Ophthalmology Times"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Priovant Therapeutics",
+      "contexte": "co-promoteur des essais",
+      "texte": "La société prévoit de déposer une demande d'autorisation complémentaire pour l'uvéite non infectieuse au premier semestre 2027. Le médicament est déjà approuvé aux États-Unis dans la dermatomyosite.",
+      "url": "https://www.ophthalmologytimes.com/view/brepocitinib-meets-all-phase-3-end-points-in-noninfectious-uveitis",
+      "source": "Ophthalmology Times"
+     }
+    ],
+    "apres": "Dépôt du dossier prévu au premier semestre 2027, puis examen par les autorités. La publication complète des deux essais permettra de juger la sécurité et la solidité des résultats.",
+    "change": "Pour les personnes atteintes d'uvéite non infectieuse, c'est un signal encourageant, pas un traitement disponible : le brepocitinib n'est pas autorisé dans cette maladie. Les traitements actuels ne changent pas.",
+    "credit": {
+     "auteur": "Mike Blyth",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Slit_lamp_eye_exam.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "S1",
+    "mois": "2027",
+    "texte": "Brepocitinib dans l'uvéite : dépôt du dossier d'autorisation complémentaire prévu au premier semestre 2027, selon Priovant."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Étude observationnelle",
+    "definition": "Une étude qui observe des patients sans les tirer au sort. Elle repère des liens, mais ne prouve pas qu'un traitement est la cause d'un résultat."
+   },
+   {
+    "terme": "Non-infériorité",
+    "definition": "Un essai qui vérifie qu'un schéma allégé n'est pas moins efficace que le standard, dans une marge fixée à l'avance."
+   },
+   {
+    "terme": "Rapport de risque (hazard ratio)",
+    "definition": "Le rapport entre le risque d'un événement dans deux groupes. Un rapport de 0,69 signifie un risque environ un tiers plus faible ; au-dessus de 1, un risque plus élevé."
+   },
+   {
+    "terme": "Résultats préliminaires",
+    "definition": "Les premiers chiffres annoncés par les promoteurs d'un essai, avant la publication complète et la relecture par des experts indépendants."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai MOIO, espacer l'immunothérapie à une injection toutes les 12 semaines n'a pas démontré la non-infériorité sur la survie sans progression, et l'essai a été arrêté plus tôt que prévu.",
+   "reponse": true,
+   "explication": "C'est vrai : selon l'Institut Paoli-Calmettes, l'analyse intermédiaire présentée au congrès de l'ESMO sur 340 patients ne démontre pas la non-infériorité du schéma espacé, et un signal sur la survie globale a conduit à recommander l'arrêt anticipé."
   }
  },
  {

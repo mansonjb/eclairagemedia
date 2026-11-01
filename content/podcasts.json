@@ -1,5 +1,538 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-01",
+  "url": "/podcasts/essentiel-2026-11-01.mp3",
+  "taille": 7630516,
+  "duree": 636,
+  "titre": "Éclairage, l'essentiel du dimanche 1er novembre 2026",
+  "titre_episode": "Manifestations, cloud et immunothérapie : l'essentiel du dimanche 1er novembre",
+  "description": "Ce dimanche 1er novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé et alimentation.\n\n• Politique : manifestations du 31 octobre, 565 interpellations\n• Politique : pétition contre CNews, 300 000 signatures\n• Économie : cloud, Amazon, Microsoft et Alphabet accélèrent et investissent\n• Économie : PIB de la zone euro, +0,4 % au troisième trimestre\n• Santé : valve mitrale, opérer tôt et survie\n• Santé : immunothérapie, essai MOIO sur l'espacement des doses\n• Alimentation : ce que garantit le logo bio européen\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Manifestations du 31 octobre : 565 interpellations en France"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Pétition contre CNews : 300 000 signatures sur le site de l'Assemblée"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Cloud : Amazon, Microsoft et Alphabet accélèrent et investissent davantage"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Zone euro : le PIB progresse de 0,4 % au troisième trimestre"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Valve mitrale : opérer tôt serait lié à une meilleure survie"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Immunothérapie : espacer les injections à 12 semaines n'a pas fait ses preuves"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Bio : ce que garantit le logo européen, et ce qu'il précise"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce dimanche premier novembre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé et alimentation. Les faits viennent des éditions du matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Allez, on commence par la politique. Cinq cent soixante-cinq interpellations en France samedi soir à vingt et une heures."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, la troisième journée de mobilisation en trois semaines. Des cortèges contre la vie chère et pour les moyens de l'Éducation nationale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à Paris, le parcours a fait l'objet d'un bras de fer judiciaire, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Le tribunal administratif avait levé l'interdiction du parcours entre Bastille et Nation. Le Conseil d'État a annulé cette décision."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le cortège a suivi le tracé de la préfecture."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, de la porte de Bagnolet à la porte de Charenton, en périphérie de Paris plutôt qu'au centre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les chiffres de participation, ils sont les mêmes partout ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas du tout. Le ministère de l'Intérieur compte trois cent vingt mille manifestants en France, dont soixante-dix mille à Paris. La préfecture de police, soixante-dix mille à Paris aussi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des organisateurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'intersyndicale jeunesse annonce près de cinq cent mille personnes, dont deux cent mille à Paris. Le ministère, lui, en avait compté quatre cent dix mille le vingt-quatre octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, soixante-dix mille policiers et gendarmes mobilisés ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ, oui. Et le nombre d'interpellations a grimpé au fil de la journée : deux cent quatre-vingt-seize à dix-huit heures, puis cinq cent soixante-cinq à vingt et une heures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a eu aussi des heurts."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Porte de Charenton, en fin de cortège. Un gendarme mobile a été touché par un cocktail Molotov. Il est légèrement blessé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment le gouvernement a-t-il réagi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre de l'Intérieur, Laurent Nuñez, parle de « tentative de meurtre ». Il dénonce une « violence inouïe » de groupes de casseurs qu'il attribue à l'ultragauche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à droite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau, président des Républicains, dit : « Celui qui a fait ça doit en répondre. » Marine Le Pen condamne aussi l'attaque."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Union étudiante annonce des blocages de lycées et d'universités mardi et jeudi, et une manifestation le cinq novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Retenons ceci : un parcours imposé en périphérie, et une mobilisation qui continue cette semaine."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor, mais toujours à l'Assemblée. Une pétition fait beaucoup parler."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Celle contre CNews. Trois cent mille signatures dépassées samedi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle a été déposée le dix juin par Lucas Massoni sur la plateforme de l'Assemblée nationale. Elle demande de supprimer la chaîne de l'audiovisuel français."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et elle est restée discrète longtemps, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, jusqu'à fin octobre. Elle a franchi cent mille signatures jeudi, puis deux cent mille le lendemain, après l'attentat raciste de Trappes et La Verrière dans les Yvelines, le vingt-quatre octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un attentat qui a fait un mort et plusieurs blessés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le texte réclame le retrait de la convention de diffusion de la chaîne sur la TNT. Il cite vingt-sept rappels à l'ordre de l'Arcom depuis deux mille dix-neuf, et six cent trente mille euros d'amendes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Précision importante : ces chiffres sont ceux de l'auteur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. La page officielle affichait trois cent cinquante-huit mille quatre-vingt-quatre signatures à la rédaction de l'édition."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que peut vraiment faire une pétition à l'Assemblée ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À cent mille signatures, elle peut être examinée par une commission. À cinq cent mille, venant d'au moins trente départements ou collectivités d'outre-mer, un débat en séance devient possible."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais un débat, ça ne ferme pas une chaîne."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Ni fermeture, ni examen automatique d'un texte, ni procédure de l'Arcom. Pour comparer : la pétition contre la loi Duplomb, plus de cinq cent mille signatures, a donné lieu à un débat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les réactions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Thomas Portes, député de La France insoumise, reproche à la chaîne de mettre « une cible dans le dos des musulmans ». Des députés écologistes demandent le retrait des accréditations des médias du groupe Bolloré à l'Assemblée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le maire de Trappes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ali Rabeh dit : « Si CNews avait été dans cette pièce, je pense que je n'aurais pas été capable d'y rester. »"
+   },
+   {
+    "qui": "Léa",
+    "texte": "La chaîne et l'Arcom n'ont pas réagi dans les sources."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. À retenir : la commission des affaires culturelles est saisie, et le débat en séance n'est possible qu'à cinq cent mille signatures."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie. Et là, des chiffres de cloud qui donnent le vertige."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Amazon, Microsoft et Alphabet ont publié leurs résultats du troisième trimestre. Le cloud, c'est la location de puissance informatique à distance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par Amazon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Son cloud, AWS, atteint quarante-six milliards de dollars, en hausse de trente-neuf pour cent. Sa croissance la plus rapide depuis près de cinq ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et chez Microsoft ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Azure progresse de quarante-huit pour cent. Le chiffre d'affaires total atteint quatre-vingt-douze milliards et trois cents millions de dollars, en hausse de dix-neuf pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Google ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Google Cloud réalise trente milliards sept cent dix millions de dollars de ventes. Plus du double d'il y a un an."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais il y a un revers : les investissements."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Amazon a investi soixante-dix-sept milliards trois cents millions de dollars en équipements sur le seul trimestre. Il vise environ deux cent vingt milliards sur l'année deux mille vingt-six."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, deux cent vingt milliards ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Du coup, son flux de trésorerie disponible sur douze mois est négatif de quarante-deux milliards et quatre cents millions de dollars. Un an plus tôt, il était positif de quatorze milliards huit cents millions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, ils dépensent avant d'encaisser."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. Les serveurs, les puces, les centres de données s'achètent d'avance. Microsoft chiffre à six cent soixante-dix-sept milliards de dollars ses contrats signés mais pas encore facturés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les marchés ont réagi comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "De façon contrastée. L'action Alphabet a reculé de huit à douze pour cent selon les médias. Celle de Microsoft a gagné environ trois pour cent après la clôture."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le cloud accélère partout, mais la facture des équipements pèse sur la trésorerie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Direction l'Europe maintenant, avec une bonne surprise sur la croissance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le PIB de la zone euro, vendredi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Eurostat annonce plus zéro virgule quatre pour cent au troisième trimestre, et plus un virgule trois pour cent sur un an. Les économistes interrogés par Reuters attendaient zéro virgule deux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc mieux que prévu. Mais pas partout."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Loin de là. L'Irlande fait plus cinq virgule cinq pour cent. L'Espagne et les Pays-Bas plus zéro virgule six. L'Allemagne plus zéro virgule deux. L'Italie zéro."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Moins zéro virgule un pour cent sur le trimestre. Et sur un an, c'est le seul pays dont les données sont disponibles à reculer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le chômage ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Stable à six virgule cinq pour cent en septembre. Mais attention, c'est une première estimation, qui peut être révisée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Prochain rendez-vous : l'inflation d'octobre, mercredi quatre novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Phrase à retenir : une zone euro qui croît de zéro virgule quatre pour cent, et une France en léger recul."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à la santé, avec d'abord un sujet de cœur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une fuite sévère de la valve mitrale, mais sans aucun symptôme. Faut-il opérer tôt ou surveiller ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "La valve mitrale, c'est quoi exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle sépare deux cavités du cœur. Quand elle fuit, du sang reflue en arrière et le cœur travaille davantage."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'étude ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Publiée dans JAMA Network Open, par une équipe sud-coréenne. Elle porte sur huit cent deux patients de trois hôpitaux de Séoul. Trois cent quarante-quatre ont été opérés dans les six mois, quatre cent cinquante-huit surveillés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vingt-sept décès dans le groupe opéré tôt, cent trois dans le groupe surveillé. La survie moyenne sur cinq ans : mille sept cent dix-sept jours contre mille six cent cinquante et un."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soit soixante-six jours de plus."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Mais c'est une étude observationnelle. Les patients n'ont pas été tirés au sort."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc on ne peut pas conclure à un lien de cause à effet."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Des différences cachées entre patients peuvent rester. Les auteurs demandent des études de confirmation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce n'est pas un changement de pratique immédiat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Ça renforce l'idée d'une discussion précoce avec l'équipe médicale, rien de plus. Le choix dépend de la valve, de l'âge et du risque."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre sujet, cancer et immunothérapie. Peut-on espacer les doses ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'était la question de l'essai MOIO, mené par UNICANCER, présenté le vingt-sept octobre au congrès de l'ESMO à Madrid."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui l'a présenté ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La docteure Gwenaëlle Gravis, de l'Institut Paoli-Calmettes à Marseille. Trois cent quarante patients, avec des cancers solides avancés, qui répondaient bien après six mois d'immunothérapie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le principe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Soit le rythme habituel, soit la même dose toutes les douze semaines. L'idée : alléger les trajets et les coûts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Résultat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La survie sans progression médiane est de vingt-cinq mois avec le rythme habituel, et vingt et un virgule neuf mois avec le rythme espacé. La non-infériorité n'est pas démontrée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les décès ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dix virgule cinq pour cent dans le groupe standard, dix-neuf virgule neuf pour cent dans le groupe espacé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un signal sur la survie globale a conduit le comité de surveillance indépendant à recommander l'arrêt anticipé de l'essai."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il faut rester prudent sur ces chiffres."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. C'est une analyse intermédiaire, avec moins de patients que prévu, pas encore publiée dans une revue. Et ça concerne seulement le rythme de douze semaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un patient ne doit donc jamais changer seul le rythme de ses perfusions."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toute décision se prend avec l'équipe d'oncologie. À retenir : l'espacement à douze semaines n'est pas validé chez ces patients répondeurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'alimentation, avec un décryptage sur le bio."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une question simple : que garantit vraiment le logo bio européen, l'eurofeuille ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un chiffre pour commencer."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre-vingt-quinze pour cent. C'est la part minimale d'ingrédients biologiques pour porter le logo, selon la Commission européenne."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les cinq pour cent restants ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ils doivent respecter des conditions strictes. Et un même ingrédient ne peut pas être présent à la fois en version bio et non bio."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'y a-t-il à côté du logo ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La mention d'origine des matières premières : « Agriculture UE », « Agriculture non UE », ou « Agriculture UE/non UE ». Plus le numéro de code de l'organisme de contrôle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc la mention indique une zone, pas un pays."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Le cadre, c'est le règlement européen deux mille dix-huit slash huit cent quarante-huit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en France ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une note d'étiquetage révisée en mars deux mille vingt-six précise que le logo est obligatoire pour les denrées préemballées à quatre-vingt-quinze pour cent et plus d'ingrédients bio. Il est facultatif pour les produits non préemballés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le logo AB français ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Facultatif, et il ne doit pas réduire la visibilité du logo européen."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Côté contrôle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les opérateurs sont audités sur place au moins une fois par an. Jusqu'à vingt-quatre mois pour ceux à faible risque, sans non-conformité pendant trois années consécutives."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rien de nouveau, donc."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, ces règles sont déjà en vigueur. En magasin, on lit trois éléments côte à côte : l'eurofeuille, la mention d'origine et le code de l'organisme de contrôle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est la fin de cet épisode. Retenez ces rendez-vous : des blocages mardi et jeudi, une manifestation le cinq novembre, l'inflation de la zone euro mercredi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com. À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-01",
   "url": "/podcasts/politique-2026-11-01.mp3",
