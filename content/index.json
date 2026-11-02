@@ -1,6 +1,1289 @@
 [
  {
   "rubrique": "economie",
+  "date": "2026-11-02",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉNERGIE",
+    "titre": "Gaz : le TTF dépasse 100 € le MWh, une première depuis 2022",
+    "court": "Gaz : 100 € le MWh, plus haut depuis 2022",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lng_terminal_ship.jpg/1280px-Lng_terminal_ship.jpg",
+    "legende": "Le navire-terminal Eemshaven LNG, qui reçoit du gaz naturel liquéfié (illustration).",
+    "chapeau": "Mercredi 28 octobre 2026, le contrat à terme néerlandais TTF, référence du prix du gaz en Europe, a franchi 100 euros le mégawattheure pour la première fois depuis décembre 2022.",
+    "eclairage": "Pourquoi le prix du gaz bouge-t-il autant ?",
+    "chiffres": [
+     {
+      "valeur": "100 €",
+      "legende": "prix du MWh de gaz (TTF, 28 octobre)"
+     },
+     {
+      "valeur": "75 %",
+      "legende": "stocks de gaz de l'UE remplis (21 octobre)"
+     }
+    ],
+    "passe": "Mercredi 28 octobre 2026, le contrat à terme néerlandais TTF, référence du prix du gaz en Europe, a franchi 100 euros le mégawattheure pour la première fois depuis décembre 2022. Il cotait 100,37 € à 16h (heure de Bruxelles) selon Euronews et 100,45 € selon l'agence ATS, soit environ +4 % sur la journée ; le matin, la dépêche AFP le donnait à 98,28 €. Les sources avancent les mêmes causes : la guerre au Moyen-Orient, des exportations de gaz naturel liquéfié (GNL) du Golfe très limitées, et la crainte d'une nouvelle offensive américaine contre l'Iran après les élections américaines du 3 novembre. Les stocks de gaz de l'Union européenne étaient remplis à 75 % le 21 octobre selon l'agence européenne ACER (74,93 % mardi selon ATS, contre 82,91 % un an plus tôt), alors que l'objectif habituel est de 90 % au 1er novembre. Le commissaire européen à l'Énergie, Dan Jørgensen, a déclaré à Bruxelles que « l'Europe est confrontée à une nouvelle crise énergétique ».",
+    "points": [],
+    "explication": "Le TTF est le prix, sur le marché néerlandais, du gaz livré le mois suivant ; il sert de référence à toute l'Europe. Un mégawattheure (MWh) est une quantité d'énergie : environ ce que consomme un foyer chauffé au gaz en quelques jours d'hiver. L'été, l'Europe remplit des stocks souterrains pour l'hiver. Quand ils sont bas, les acheteurs sont prêts à payer plus cher pour avoir du gaz. Une grande partie arrive par bateau sous forme de GNL : le vendeur livre à celui qui paie le plus, et l'Europe est en concurrence avec l'Asie. Si un fournisseur majeur comme le Qatar est bridé, le prix monte pour tous.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://fr.euronews.com/2026/10/28/le-gaz-europeen-depasse-100-pour-la-premiere-fois-depuis-2022-lue-alerte-sur-une-crise",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://latele.ch/articles/le-gaz-europeen-atteint-les-100-euros-le-megawattheure",
+      "nom": "La Télé (agence ATS)"
+     },
+     {
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/10/28/prix-de-lenergie-le-gaz-naturel-coute-a-nouveau-100-euros-en-europe-6ZIFBNA2C5GCDMA42KAHCDGQM4/",
+      "nom": "DH.be (agence Belga)"
+     },
+     {
+      "url": "https://www.connaissancedesenergies.org/afp/le-petrole-monte-inquiet-dune-escalade-au-moyen-orient-apres-les-midterms-americaines-261028",
+      "nom": "Connaissance des Énergies (dépêche AFP)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "RÉGULATEUR",
+      "qui": "Dan Jørgensen",
+      "contexte": "commissaire européen à l'Énergie",
+      "texte": "« l'Europe est confrontée à une nouvelle crise énergétique »",
+      "url": "https://fr.euronews.com/2026/10/28/le-gaz-europeen-depasse-100-pour-la-premiere-fois-depuis-2022-lue-alerte-sur-une-crise",
+      "source": "Euronews"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Norman Liebke",
+      "contexte": "Commerzbank",
+      "texte": "Si les tensions au Moyen-Orient s'apaisent, le prix pourrait revenir vers « environ 50 euros le mégawattheure », sans retrouver son niveau d'avant-guerre.",
+      "url": "https://latele.ch/articles/le-gaz-europeen-atteint-les-100-euros-le-megawattheure",
+      "source": "La Télé (ATS)"
+     }
+    ],
+    "apres": "Élections américaines le 3 novembre, puis évolution des stocks et de la météo : un vent faible et un début de mois plus froid que la normale sont attendus, ce qui augmente la demande de gaz pour produire de l'électricité (ATS).",
+    "change": "Pour les ménages et les industriels, un gaz plus cher alourdit les factures de chauffage et les coûts de production. Selon Euronews, l'ACER estime que la guerre a fait passer la facture d'importation de gaz de l'UE de 18 à 33 milliards d'euros.",
+    "credit": {
+     "auteur": "Uberprutser",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Lng_terminal_ship.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "TECH",
+    "titre": "STMicro : ventes +17,9 % au 3e trimestre, 4,15 Md$ visés au T4",
+    "court": "STMicro : +17,9 % de ventes au T3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Micro-chips_wafer_%2825079%29.jpg/1280px-Micro-chips_wafer_%2825079%29.jpg",
+    "legende": "Une plaque de silicium (wafer), base des puces électroniques (illustration).",
+    "chapeau": "Jeudi 29 octobre 2026, le fabricant franco-italien de puces STMicroelectronics a publié un chiffre d'affaires net de 3,76 milliards de dollars pour le troisième trimestre, clos le 26 septembre : +17,9 % sur un an et +7,7 % sur le trimestre précédent.",
+    "eclairage": "Comment un fabricant de puces gagne-t-il de l'argent ?",
+    "chiffres": [
+     {
+      "valeur": "3,76 Md$",
+      "legende": "chiffre d'affaires du 3e trimestre"
+     },
+     {
+      "valeur": "37,3 %",
+      "legende": "marge brute (34,8 % au T2)"
+     },
+     {
+      "valeur": "4,15 Md$",
+      "legende": "objectif du T4 (point médian)"
+     }
+    ],
+    "passe": "Jeudi 29 octobre 2026, le fabricant franco-italien de puces STMicroelectronics a publié un chiffre d'affaires net de 3,76 milliards de dollars pour le troisième trimestre, clos le 26 septembre : +17,9 % sur un an et +7,7 % sur le trimestre précédent. La marge brute atteint 37,3 % (34,8 % au T2), soit 410 points de base de mieux qu'un an plus tôt. Selon ABC Bourse, le résultat d'exploitation est de 367 millions de dollars et le résultat net de 291 millions (0,31 $ par action diluée), en normes comptables américaines. Pour le quatrième trimestre, le groupe vise 4,15 milliards de dollars au point médian (marge brute d'environ 39 %), contre environ 4 milliards annoncés précédemment, et un chiffre d'affaires 2026 proche de 14,5 milliards (+22,8 %). Hors éléments exceptionnels, le résultat d'exploitation a atteint 429 millions de dollars, environ 7 % au-dessus du consensus d'analystes LSEG, selon Reuters.",
+    "points": [],
+    "explication": "ST vend des composants électroniques (pour voitures, usines, objets connectés, centres de données) fabriqués dans des usines très coûteuses. La marge brute est la part du prix de vente qui reste après le coût de fabrication : 37,3 % veut dire qu'il reste environ 37 cents sur chaque dollar vendu. Quand une usine tourne en dessous de sa capacité, ses coûts fixes pèsent sur la marge ; ABC Bourse attribue la hausse de 410 points de base surtout à des charges de sous-utilisation plus faibles et à un meilleur mix de produits. Un point de base vaut 0,01 point de pourcentage.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.abcbourse.com/marches/stmicroelectronics-annonce-un-chiffre-daffaires-de-3-76-milliards-de-dollars-au_705137",
+      "nom": "ABC Bourse (Agefi-Dow Jones)"
+     },
+     {
+      "url": "https://www.ideal-investisseur.fr/actions-b/stmicroelectronics-chiffre-daffaires-en-hausse-de-179-au-troisieme-trimestre-bpa-sous-les-attentes/28137.html",
+      "nom": "Idéal Investisseur"
+     },
+     {
+      "url": "https://culture-financiere.com/?p=6828",
+      "nom": "Reuters via Culture financière"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e8eaff",
+      "couleur": "#2f3cff",
+      "parti": "ENTREPRISE",
+      "qui": "Jean-Marc Chéry",
+      "contexte": "PDG de STMicroelectronics",
+      "texte": "Selon Culture financière, il estime que la demande reste supérieure à l'offre, notamment pour les centres de données d'IA et les opérateurs de satellites, ce qui pousse le groupe à créer de nouvelles capacités.",
+      "url": "https://culture-financiere.com/?p=6828",
+      "source": "Culture financière"
+     },
+     {
+      "fond": "#e3f5ee",
+      "couleur": "#0a7d5a",
+      "parti": "ANALYSTES",
+      "qui": "Consensus LSEG",
+      "contexte": "relevé par Reuters",
+      "texte": "Un résultat d'exploitation hors exceptionnels supérieur d'environ 7 % aux attentes des analystes.",
+      "url": "https://culture-financiere.com/?p=6828",
+      "source": "Culture financière (Reuters)"
+     }
+    ],
+    "apres": "Les résultats du quatrième trimestre diront si l'objectif de 4,15 milliards de dollars est tenu (date de publication non précisée dans les sources).",
+    "change": "Quand la demande dépasse l'offre, un fabricant peut remplir ses usines et vendre plus cher ; c'est ce que ST met en avant pour son objectif du quatrième trimestre. Les clients, eux, restent exposés à des délais et à des prix de composants plus élevés.",
+    "credit": {
+     "auteur": "Syced",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Micro-chips_wafer_(25079).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "2",
+    "mois": "NOV.",
+    "texte": "Apple publie ses résultats du quatrième trimestre fiscal."
+   },
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "États-Unis : élections de mi-mandat, que les marchés du pétrole et du gaz suivent de près."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Insee : résultat définitif de l’inflation d’octobre (estimation provisoire : 3,4 % sur un an)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "TTF",
+    "definition": "Le prix de référence du gaz en Europe, coté aux Pays-Bas, pour une livraison le mois suivant."
+   },
+   {
+    "terme": "GNL",
+    "definition": "Gaz naturel liquéfié : refroidi pour voyager en bateau, puis retransformé en gaz à l'arrivée."
+   },
+   {
+    "terme": "Marge brute",
+    "definition": "Ce qui reste du prix de vente après le coût de fabrication, avant les autres frais."
+   },
+   {
+    "terme": "Point de base",
+    "definition": "Un centième de point de pourcentage : 410 points de base valent 4,1 points."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Mercredi 28 octobre 2026, le prix du gaz européen (TTF) a dépassé 100 euros le mégawattheure, une première depuis décembre 2022.",
+   "reponse": true,
+   "explication": "Le TTF néerlandais a atteint environ 100,4 € le mégawattheure en séance, son plus haut niveau depuis décembre 2022. Le record de la crise de 2022 reste très supérieur."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-11-02",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Charente-Maritime : la coopérative bio Corab placée en redressement judiciaire",
+    "court": "Corab : coopérative bio en redressement",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Le_silo_%C3%A0_grains_portuaire_Lombard_%282%29.JPG/960px-Le_silo_%C3%A0_grains_portuaire_Lombard_%282%29.JPG",
+    "legende": "Silos à grains du port de La Pallice, à La Rochelle (illustration)",
+    "chapeau": "Le 5 octobre, le tribunal de commerce de Saintes a ouvert une procédure de redressement judiciaire à l'encontre de la Corab, coopérative 100 % bio installée à Saint-Jean-d'Angély (Charente-Maritime) ; la décision a été publiée au Bodacc le 15 octobre.",
+    "eclairage": "Qu'est-ce qu'une coopérative bio, et un redressement ?",
+    "chiffres": [
+     {
+      "valeur": "5 oct.",
+      "legende": "redressement judiciaire ouvert à Saintes"
+     },
+     {
+      "valeur": "÷ 2",
+      "legende": "volumes de la récolte vs prévisionnel"
+     },
+     {
+      "valeur": "~120",
+      "legende": "adhérents, selon Agra et Agro Distribution"
+     }
+    ],
+    "passe": "Le 5 octobre, le tribunal de commerce de Saintes a ouvert une procédure de redressement judiciaire à l'encontre de la Corab, coopérative 100 % bio installée à Saint-Jean-d'Angély (Charente-Maritime) ; la décision a été publiée au Bodacc le 15 octobre. Son président, Julien Veillat, explique que les volumes de la récolte 2026 ont été quasiment divisés par deux par rapport au prévisionnel. La collecte baisse depuis 2021, avec des années climatiques difficiles, la crise de la bio et une concurrence accrue sur le territoire. La coopérative avait investi dans l'extension de son silo de Saint-Jean-d'Angély au moment où ses volumes commençaient à baisser. Elle cherche désormais des partenaires pour partager les frais de ses installations, qu'elle juge surdimensionnées. L'été 2026 a été marqué par des canicules et une sécheresse qui ont fait chuter les rendements de nombreuses cultures, selon l'Agreste.",
+    "points": [],
+    "explication": "Une coopérative appartient à ses agriculteurs adhérents : ils lui apportent leur récolte, elle la collecte, la stocke, la trie et la vend. Un redressement judiciaire est une procédure ouverte par un tribunal de commerce pour une entreprise qui ne peut plus payer ses dettes avec ses ressources du moment : l'activité continue pendant une période d'observation, le temps de chercher des solutions. La suite n'est pas écrite d'avance et le tribunal décide. Le label bio (AB, eurofeuille) garantit un mode de production, pas la santé financière des entreprises de la filière.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.caracterres.fr/la-corab-placee-en-redressement-judiciaire",
+      "nom": "Caracterres (23 octobre)"
+     },
+     {
+      "url": "https://www.agrodistribution.fr/corab/article/905409/la-corab-en-redressement-judiciaire",
+      "nom": "Agro Distribution (28 octobre)"
+     },
+     {
+      "url": "https://agra.fr/fil/agra-fil-du-2-novembre-2026",
+      "nom": "Agra (2 novembre)"
+     },
+     {
+      "url": "https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/IraGcu26114/2026_114inforapgdescultures.pdf",
+      "nom": "Agreste (Infos rapides, septembre 2026)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "COOPÉRATIVE",
+      "qui": "Julien Veillat",
+      "contexte": "président de la Corab",
+      "texte": "« Cette récolte 2026 nous a mis un genou à terre »",
+      "url": "https://www.agrodistribution.fr/corab/article/905409/la-corab-en-redressement-judiciaire",
+      "source": "Agro Distribution"
+     }
+    ],
+    "apres": "Période d'observation en cours, avec la recherche de partenaires pour mutualiser les installations. Le tribunal de commerce de Saintes arrêtera la suite de la procédure.",
+    "change": "Pour les agriculteurs adhérents, la coopérative est un débouché pour leurs récoltes bio. Les articles consultés ne précisent ni la suite pour les adhérents ni l'existence d'un repreneur. Pour le consommateur, aucun effet n'est documenté à ce stade.",
+    "credit": {
+     "auteur": "Jean-Pierre Bazard",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Le_silo_%C3%A0_grains_portuaire_Lombard_(2).JPG"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "AGRICULTURE",
+    "titre": "Pomme de terre : la récolte française 2026 recule d'un quart après le record",
+    "court": "Pomme de terre : récolte en recul d'un quart",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Potato_Harvest_in_Armenia_2829.jpg/960px-Potato_Harvest_in_Armenia_2829.jpg",
+    "legende": "Ramassage de pommes de terre dans un champ (illustration)",
+    "chapeau": "Dans sa note de septembre, le service statistique du ministère de l'Agriculture (Agreste) estime la production française de pommes de terre de conservation et de demi-saison à 6,2 millions de tonnes en 2026, soit 25 % de moins que le record de 2025.",
+    "eclairage": "Pourquoi une année de record puis de creux ?",
+    "chiffres": [
+     {
+      "valeur": "6,2 Mt",
+      "legende": "production attendue (-25 % sur un an)"
+     },
+     {
+      "valeur": "37,4",
+      "legende": "tonnes par hectare, le plus bas depuis 1995"
+     },
+     {
+      "valeur": "-13 %",
+      "legende": "surfaces cultivées en France"
+     }
+    ],
+    "passe": "Dans sa note de septembre, le service statistique du ministère de l'Agriculture (Agreste) estime la production française de pommes de terre de conservation et de demi-saison à 6,2 millions de tonnes en 2026, soit 25 % de moins que le record de 2025. Il l'explique par un recul des surfaces (-13 %) et des rendements (-14 %). Le rendement moyen, de 37,4 tonnes par hectare, serait le plus bas depuis 1995. Du côté de la féculerie (pommes de terre pour l'amidon), la production reculerait de 28,5 %. Le comité interprofessionnel CNIPT rappelle que juillet a été le mois le plus chaud jamais observé en France, selon Météo-France, et que les surfaces ont baissé de près de 10 % selon l'UNPT et le CNIPT. À l'échelle du nord-ouest de l'Europe (France, Belgique, Allemagne, Pays-Bas), les producteurs du NEPG avaient annoncé en juin une baisse de 11 % des surfaces, de 604 100 à 536 900 hectares ; Terre-net rapporte une production d'environ 20,7 millions de tonnes, en recul de 25,4 % sur un an.",
+    "points": [],
+    "explication": "En 2025, la production française a atteint un record ; selon le NEPG, les prix du marché libre ont oscillé pendant des mois entre 0 et 2 € le quintal (100 kg), ce qui a conduit les producteurs à planter moins en 2026. En 2026, la chaleur et le manque d'eau ont fait baisser les rendements, très variables selon les parcelles et les possibilités d'irrigation. Le rendement se mesure en tonnes par hectare : moins il est élevé, moins chaque hectare planté donne de pommes de terre. Les prix dépendent aussi des contrats signés avant la récolte : le NEPG indique que des industriels ont proposé des contrats autour de 12,50 € le quintal, niveau qu'il juge préoccupant face à la hausse des coûts.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/IraGcu26114/2026_114inforapgdescultures.pdf",
+      "nom": "Agreste (Infos rapides, septembre 2026)"
+     },
+     {
+      "url": "https://www.cnipt.fr/wp-content/uploads/2026/08/CNIPT_CP-Debut-de-campagne-2026-2027.pdf",
+      "nom": "CNIPT (26 août)"
+     },
+     {
+      "url": "https://fiwap.be/wp-content/uploads/2026/06/260630-NEPG-press-release-final-FR.pdf",
+      "nom": "NEPG (30 juin)"
+     },
+     {
+      "url": "https://www.terre-net.fr/pommes-de-terre/article/903684/pommes-de-terre-une-recolte-2026-sous-pression-entre-recul-des-surfaces-et-aleas",
+      "nom": "Terre-net (19 septembre)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eaf4e0",
+      "couleur": "#4f8a1f",
+      "parti": "AGRICULTEURS",
+      "qui": "NEPG",
+      "contexte": "groupe des producteurs de pommes de terre du nord-ouest européen",
+      "texte": "Sa récolte 2026 serait « parmi les plus faibles de ces dix dernières années », rapporte Terre-net.",
+      "url": "https://www.terre-net.fr/pommes-de-terre/article/903684/pommes-de-terre-une-recolte-2026-sous-pression-entre-recul-des-surfaces-et-aleas",
+      "source": "Terre-net"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "FILIÈRE / INTERPROFESSION",
+      "qui": "CNIPT",
+      "contexte": "interprofession de la pomme de terre",
+      "texte": "Le CNIPT estime qu'il faut cesser de raisonner avec les références de prix de la campagne précédente.",
+      "url": "https://www.cnipt.fr/wp-content/uploads/2026/08/CNIPT_CP-Debut-de-campagne-2026-2027.pdf",
+      "source": "CNIPT"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Agreste",
+      "contexte": "service statistique du ministère de l'Agriculture",
+      "texte": "« Les rendements des pommes de terre sont nettement revus à la baisse »",
+      "url": "https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/IraGcu26114/2026_114inforapgdescultures.pdf",
+      "source": "Agreste"
+     }
+    ],
+    "apres": "Agreste publie ses estimations de récolte au fil de l'automne ; le CNIPT annonce un suivi régulier de l'offre et de la demande.",
+    "change": "Selon le CNIPT, le marché est à l'opposé de la campagne 2025-2026 et les recommandations de calibres évoluent, ce qui peut se voir dans les rayons.",
+    "credit": {
+     "auteur": "Narek75",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Potato_Harvest_in_Armenia_2829.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "DÉC.",
+    "texte": "Ouverture des négociations commerciales annuelles entre fournisseurs et distributeurs, selon Agra (Agra →)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "37,4 t/ha",
+   "texte": "Le rendement attendu des pommes de terre de conservation en France en 2026, selon Agreste : il faut remonter à 1995 (36,9 t/ha) pour trouver un niveau inférieur. Agreste →"
+  },
+  "lexique": [
+   {
+    "terme": "Agreste",
+    "definition": "Le service statistique du ministère de l'Agriculture, qui publie les surfaces, rendements et productions agricoles."
+   },
+   {
+    "terme": "Redressement judiciaire",
+    "definition": "Procédure ouverte par un tribunal de commerce pour une entreprise en difficulté, qui poursuit son activité pendant une période d'observation."
+   },
+   {
+    "terme": "Rendement",
+    "definition": "La quantité récoltée par hectare, en tonnes ou en quintaux (1 quintal = 100 kg)."
+   },
+   {
+    "terme": "Féculerie",
+    "definition": "L'industrie qui extrait la fécule (amidon) de la pomme de terre, avec des variétés cultivées pour cet usage."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En 2026, la production française de maïs grain est attendue à son plus haut niveau depuis 1980.",
+   "reponse": false,
+   "explication": "Selon Agreste, la production de maïs grain 2026 est estimée à 8,1 millions de tonnes, soit possiblement le niveau le plus faible depuis au moins 1980."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-11-02",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "LITTORAL",
+    "titre": "Biodiversité : La Rochelle, meilleure commune 2026, reçoit son trophée le 13 novembre",
+    "court": "Biodiversité : La Rochelle distinguée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20210811_aigrette_tasdon_5598.jpg/1280px-20210811_aigrette_tasdon_5598.jpg",
+    "legende": "Une aigrette garzette dans le marais de Tasdon, à La Rochelle",
+    "chapeau": "Le concours « Capitale française de la biodiversité », consacré en 2026 à la restauration de la nature, a distingué six collectivités selon le communiqué conjoint daté du 5 octobre 2026. Marseille est élue Capitale française de la biodiversité 2026.",
+    "eclairage": "Que récompense ce concours ?",
+    "chiffres": [
+     {
+      "valeur": "6",
+      "legende": "collectivités lauréates en 2026"
+     },
+     {
+      "valeur": "4,8 M€",
+      "legende": "HT, coût de la renaturation de Tasdon"
+     },
+     {
+      "valeur": "13 nov.",
+      "legende": "remise des trophées à Paris"
+     }
+    ],
+    "passe": "Le concours « Capitale française de la biodiversité », consacré en 2026 à la restauration de la nature, a distingué six collectivités selon le communiqué conjoint daté du 5 octobre 2026. Marseille est élue Capitale française de la biodiversité 2026. La Rochelle et Saintes reçoivent le titre de « Meilleure commune pour la biodiversité 2026 ». Trois intercommunalités sont aussi distinguées : Chinon, Vienne et Loire, Loire Forez Agglo et Valence Romans Agglo. La remise des trophées et un colloque de restitution sont prévus le vendredi 13 novembre 2026 à l'Hôtel de Roquelaure, à Paris. Dans sa présentation mise à jour le 26 octobre, la Ville de La Rochelle cite le marais de Tasdon, la rivière de la Moulinette, le site de Chef de Baie et la plage des Minimes. Le chantier de Tasdon, réalisé en 2020 et 2021, a coûté 4,8 millions d'euros HT selon la Banque des Territoires.",
+    "points": [
+     "Le concours existe depuis 2010. Il repère et fait connaître les actions des communes et des intercommunalités en faveur de la biodiversité.",
+     "Il est organisé par l'Office français de la biodiversité, avec les ministères concernés et le Cerema. C'est donc une distinction nationale, et non une décision de la Ville ou de l'agglomération.",
+     "Le thème 2026, la restauration de la nature, désigne des travaux qui redonnent à un milieu abîmé son fonctionnement, comme rouvrir un marais à la mer."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.larochelle.fr/a-la-une/une/la-rochelle-meilleure-commune-pour-la-biodiversite-2026",
+      "nom": "larochelle.fr"
+     },
+     {
+      "url": "https://ofb.gouv.fr/sites/ofb-gouv-fr/files/2026-10/communique-de-presse-concours-capitale-francaise-de-la-biodiversite-2026.pdf",
+      "nom": "Office français de la biodiversité, ofb.gouv.fr"
+     },
+     {
+      "url": "https://www.amf.asso.fr/documents-capitale-franaise-la-biodiversite-six-collectivites-distinguees-pour-leurs-actions-en-faveur-du-vivant/43386",
+      "nom": "Association des maires de France"
+     },
+     {
+      "url": "https://www.banquedesterritoires.fr/la-rochelle-redonne-vie-au-marais-cotier-de-tasdon-17",
+      "nom": "Banque des Territoires"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Ministère de la Transition écologique",
+      "contexte": "communiqué du 5 octobre",
+      "texte": "La ministre se félicite de la qualité des projets présentés et estime que les lauréats montrent qu'il est possible de redonner sa place au vivant dans les territoires. Réactions résumées sans guillemets.",
+      "url": "https://ofb.gouv.fr/sites/ofb-gouv-fr/files/2026-10/communique-de-presse-concours-capitale-francaise-de-la-biodiversite-2026.pdf",
+      "source": "Source"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "MAJORITÉ MUNICIPALE",
+      "qui": "Ville de La Rochelle",
+      "contexte": "page publiée le 5 octobre",
+      "texte": "Présente la distinction comme une reconnaissance des actions menées par la Ville et détaille les sites de Tasdon, de Chef de Baie et des Minimes.",
+      "url": "https://www.larochelle.fr/a-la-une/une/la-rochelle-meilleure-commune-pour-la-biodiversite-2026",
+      "source": "Source"
+     }
+    ],
+    "apres": "Remise des trophées le 13 novembre à Paris ; l'appel à candidatures de l'édition 2027 est déjà ouvert, selon le communiqué.",
+    "change": "Le titre ne crée ni budget ni obligation nouvelle. Il met en avant des sites ouverts aux habitants, comme le marais de Tasdon, et un modèle de projet que d'autres communes peuvent reprendre.",
+    "credit": {
+     "auteur": "Greenbox",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:20210811_aigrette_tasdon_5598.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Parc Condorcet : réunion d'information, 18 h 30, médiathèque de Villeneuve-les-Salines."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Biodiversité : remise des trophées du concours à Paris."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Conseil municipal de La Rochelle, 18 h, Hôtel de Ville ; le suivant est prévu le 7 décembre."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Pont d'Oléron : fin de la concertation du Département, réunion de clôture à 18 h 30 à Bourcefranc-le-Chapus."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Restauration écologique",
+    "definition": "Des travaux qui aident un milieu dégradé à retrouver son fonctionnement naturel, par exemple en rouvrant un marais aux marées."
+   },
+   {
+    "terme": "Maîtrise d'œuvre",
+    "definition": "L'équipe d'architectes et de bureaux d'études qui conçoit un chantier et en suit l'exécution pour le compte de la collectivité."
+   },
+   {
+    "terme": "Zone humide",
+    "definition": "Un terrain gorgé d'eau une partie de l'année, qui abrite une flore et une faune propres et peut stocker l'eau de pluie."
+   }
+  ],
+  "quiz": {
+   "affirmation": "La remise des trophées du concours Capitale française de la biodiversité 2026, où La Rochelle est distinguée, a lieu le 13 novembre 2026 à Paris.",
+   "reponse": true,
+   "explication": "Vrai : le communiqué de l'Office français de la biodiversité et des ministères annonce la remise des trophées et un colloque le vendredi 13 novembre 2026 à l'Hôtel de Roquelaure, à Paris."
+  }
+ },
+ {
+  "rubrique": "politique",
+  "date": "2026-11-02",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : la rentrée sous la menace de blocus, malgré les annonces",
+    "court": "Lycées : rentrée sous menace de blocus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg/1280px-Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg",
+    "legende": "Blocus du lycée Lamartine, à Paris, en septembre 2025 (illustration)",
+    "chapeau": "Le mouvement lycéen a commencé le 18 septembre au lycée Saint-Exupéry de Créteil (Val-de-Marne). Samedi 31 octobre, lors de la manifestation parisienne contre la vie chère, des représentants lycéens et étudiants ont appelé à reprendre la mobilisation lundi 2 novembre, jour de la rentrée après les vacances d'automne.",
+    "eclairage": "Ce que le gouvernement a annoncé fin octobre",
+    "chiffres": [
+     {
+      "valeur": "28",
+      "legende": "élèves max en seconde (annonce)"
+     },
+     {
+      "valeur": "+500",
+      "legende": "postes d'enseignants dans les lycées"
+     },
+     {
+      "valeur": "15 000",
+      "legende": "places en plus dans le supérieur"
+     }
+    ],
+    "passe": "Le mouvement lycéen a commencé le 18 septembre au lycée Saint-Exupéry de Créteil (Val-de-Marne). Samedi 31 octobre, lors de la manifestation parisienne contre la vie chère, des représentants lycéens et étudiants ont appelé à reprendre la mobilisation lundi 2 novembre, jour de la rentrée après les vacances d'automne. Les Lycéens !, l'Union syndicale lycéenne et l'Union étudiante annoncent des assemblées générales lundi, puis des blocages mardi 3 et jeudi 5 novembre, jour d'une grève interprofessionnelle. Le ministre de l'Éducation nationale, Édouard Geffray, a appelé à une reprise des cours dès lundi. Le nombre d'établissements concernés n'est pas connu à ce stade.",
+    "points": [
+     "Classes : secondes limitées à 28 élèves dans la moitié des lycées les moins favorisés à la rentrée 2027, puis dans tous les lycées en 2028 ; plus de 500 postes d'enseignants en plus, et aucune suppression de poste annoncée dans les collèges et lycées.",
+     "Parcoursup : la lettre de motivation devient exceptionnelle, les critères de sélection sont publiés et les candidats peuvent connaître les motifs d'un refus. Le dispositif doit être remplacé en 2028, ce qui demandera une nouvelle loi.",
+     "Études supérieures : 15 000 places supplémentaires dès la rentrée 2027 : 10 000 en BTS, 4 000 en IUT, 1 000 dans les filières universitaires de santé.",
+     "Bâtiments : un plan de 5 milliards d'euros pour rénover lycées et universités, dont un dispositif de prêt de 4 milliards pour les régions d'ici 2030."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "nom": "L'Express via Orange (6Médias)"
+     },
+     {
+      "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/rentree-scolaire-sous-tension-des-blocages-de-lycees-pourraient-commencer/",
+      "nom": "Entrevue"
+     },
+     {
+      "url": "https://aa.com.tr/fr/politique/france-le-ministre-de-l-%C3%A9ducation-annonce-des-mesures-pour-am%C3%A9liorer-les-conditions-des-lyc%C3%A9ens/4106946",
+      "nom": "Anadolu"
+     },
+     {
+      "url": "https://www.europe1.fr/politique/rentree-des-lycees-budget-de-letat-greve-du-5-novembre-une-semaine-a-haut-risque-pour-sebastien-lecornu-1198581",
+      "nom": "Europe 1"
+     },
+     {
+      "url": "https://www.info.gouv.fr/actualite/declaration-du-premier-ministre-a-l-assemblee-nationale",
+      "nom": "info.gouv.fr (mesures pour les lycéens)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale",
+      "texte": "Il appelle à reprendre les cours dès lundi. Selon Entrevue, il reconnaît que le gouvernement a tardé à répondre aux revendications et a ouvert des discussions avec les représentants des élèves et les régions.",
+      "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/rentree-scolaire-sous-tension-des-blocages-de-lycees-pourraient-commencer/",
+      "source": "Entrevue"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "USL",
+      "qui": "Ryad Rani",
+      "contexte": "président de l'Union syndicale lycéenne",
+      "texte": "« Mardi, on bloque. »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION ÉTUDIANTE",
+      "qui": "Sabrine Kharbach",
+      "contexte": "porte-parole de l'Union étudiante",
+      "texte": "« Dès ce mardi, on va bloquer nos universités et lycées »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LYCÉENS !",
+      "qui": "Pierre Sourzat",
+      "contexte": "président de Lycéens !",
+      "texte": "« On ne demande pas le luxe »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     }
+    ],
+    "apres": "Assemblées générales lundi 2 novembre, blocages mardi 3 et jeudi 5 novembre, grève interprofessionnelle jeudi 5.",
+    "change": "Le mouvement porte sur les moyens (effectifs, remplacements, bâtiments) et sur l'orientation après le bac. Une partie des annonces dépend d'une loi, notamment le remplacement de Parcoursup en 2028.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : vote clé mardi à l'Assemblée sur la partie recettes",
+    "court": "Budget : vote clé mardi sur les recettes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vote_solennel_loi_mariage_23042013_13.jpg/1280px-Vote_solennel_loi_mariage_23042013_13.jpg",
+    "legende": "Des députés dans l'hémicycle lors d'un vote solennel, en 2013 (illustration)",
+    "chapeau": "Mardi 3 novembre à 15 heures, après les questions au gouvernement, l'Assemblée nationale vote solennellement la première partie, consacrée aux recettes, du projet de loi de finances pour 2027.",
+    "eclairage": "Que se passe-t-il si les députés rejettent la partie recettes ?",
+    "chiffres": [
+     {
+      "valeur": "03/11",
+      "legende": "vote solennel des recettes"
+     },
+     {
+      "valeur": "115",
+      "legende": "voix contre le budget de la Sécu (1 pour)"
+     },
+     {
+      "valeur": "17/11",
+      "legende": "vote prévu sur l'ensemble"
+     }
+    ],
+    "passe": "Mardi 3 novembre à 15 heures, après les questions au gouvernement, l'Assemblée nationale vote solennellement la première partie, consacrée aux recettes, du projet de loi de finances pour 2027. Au 30 octobre, les députés avaient examiné 28 des 58 articles ; il restait environ 1 500 amendements à traiter lundi 2 novembre. Ils ont supprimé ou rejeté dix articles du gouvernement, dont la surtaxe sur les grandes entreprises (5 milliards d'euros), la réduction de l'abattement des retraités et un prélèvement de 2,5 milliards sur les collectivités, et ils ont ajouté des taxes que le gouvernement ne proposait pas. Le budget de la Sécurité sociale, lui, a été rejeté en première lecture le vendredi 23 octobre : la partie recettes a été repoussée par 115 voix contre 1, ce qui a fait tomber l'ensemble du texte. Il repart au Sénat dans sa version initiale, examiné à partir du 9 novembre.",
+    "points": [
+     "Tout le budget tombe en première lecture à l'Assemblée et les amendements adoptés disparaissent. Le Sénat reçoit le texte d'origine du gouvernement.",
+     "Une commission mixte paritaire (7 députés et 7 sénateurs) cherche ensuite un accord ; l'Assemblée a le dernier mot et le gouvernement peut recourir à l'article 49.3.",
+     "Le Parlement a jusqu'au 17 décembre. Passé ce délai, le gouvernement peut mettre le budget en vigueur par ordonnance.",
+     "Si la partie recettes est adoptée, la partie dépenses s'ouvre le jour même, avec un vote sur l'ensemble prévu le 17 novembre."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+      "nom": "Assemblée nationale (budget de l'État)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/rejet-en-premiere-lecture-du-projet-de-loi-de-financement-de-la-securite-sociale-pour-2027",
+      "nom": "Assemblée nationale (budget de la Sécu)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines",
+      "nom": "NosParlementaires"
+     },
+     {
+      "url": "https://www.europe1.fr/politique/rentree-des-lycees-budget-de-letat-greve-du-5-novembre-une-semaine-a-haut-risque-pour-sebastien-lecornu-1198581",
+      "nom": "Europe 1"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Sandrine Runel",
+      "contexte": "députée, groupe Socialistes",
+      "texte": "Le budget de la Sécu est un « texte injuste dans ses choix et insuffisant dans ses moyens »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Sandrine Rousseau",
+      "contexte": "députée, groupe Écologiste et Social",
+      "texte": "Elle décrit « un gouvernement dans une citadelle, enfermé, seul, isolé »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Joëlle Mélin",
+      "contexte": "députée RN",
+      "texte": "Elle évoque des « séries impressionnantes et toujours inattendues de rustines »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Olivier Fayssat",
+      "contexte": "député, Union des droites pour la République",
+      "texte": "Il parle d'une « trajectoire morbide »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "LES DÉMOCRATES",
+      "qui": "Cyrille Isaac-Sibille",
+      "contexte": "député, Les Démocrates",
+      "texte": "Le texte rejeté est « d'une irresponsabilité folle »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Justine Gruet",
+      "contexte": "députée, Droite républicaine",
+      "texte": "« L'impératif de redressement des comptes sociaux n'est pas tenu »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Vote solennel mardi 3 novembre ; Sénat sur le budget de la Sécu à partir du 9 novembre ; vote sur l'ensemble du budget de l'État prévu le 17 novembre.",
+    "change": "Le résultat de mardi décide du chemin du budget : adopté, il poursuit son examen ministère par ministère ; rejeté, il part au Sénat dans la version du gouvernement.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_13.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Vote solennel sur les recettes du budget 2027 à l'Assemblée (15 h) ; blocages annoncés dans les lycées ; élections de mi-mandat aux États-Unis."
+   },
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Rapports de la Commission européenne sur l'élargissement."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Grève et manifestations de l'intersyndicale."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Le Sénat commence l'examen du budget de la Sécurité sociale."
+   },
+   {
+    "jour": "17",
+    "mois": "NOV.",
+    "texte": "Vote sur l'ensemble du budget de l'État à l'Assemblée, si la partie recettes est adoptée."
+   },
+   {
+    "jour": "17",
+    "mois": "DÉC.",
+    "texte": "Fin du délai du Parlement pour adopter le budget ; ensuite, une ordonnance est possible."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Vote solennel",
+    "definition": "Un vote public sur l'ensemble d'un texte ou d'une partie, organisé à une heure fixée à l'avance, après l'examen article par article."
+   },
+   {
+    "terme": "Commission mixte paritaire",
+    "definition": "Une réunion de 7 députés et 7 sénateurs chargée de trouver un texte commun quand l'Assemblée et le Sénat ne sont pas d'accord."
+   },
+   {
+    "terme": "Élections de mi-mandat",
+    "definition": "Aux États-Unis, élections du Congrès organisées au milieu du mandat du président, deux ans après son élection."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le 23 octobre, l'Assemblée nationale a rejeté la partie recettes du budget de la Sécurité sociale pour 2027 par 115 voix contre 1.",
+   "reponse": true,
+   "explication": "Le rejet de la partie recettes entraîne celui de l'ensemble du texte, sans examen des dépenses. Il repart au Sénat dans sa version initiale, examiné à partir du 9 novembre."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-11-02",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "TRAITEMENT",
+    "titre": "Papillomatose respiratoire : la FDA approuve un premier traitement à ADN",
+    "court": "Papillomatose du larynx : un traitement à ADN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Laryngoskopie.jpg/1280px-Laryngoskopie.jpg",
+    "legende": "examen du larynx par laryngoscopie (illustration)",
+    "chapeau": "Le 30 octobre 2026, l'agence américaine des médicaments (FDA) a accordé une approbation accélérée à Voceryq, de la société Inovio, pour les adultes atteints de papillomatose respiratoire récidivante.",
+    "eclairage": "Pourquoi un médicament pour une maladie de la gorge ?",
+    "chiffres": [
+     {
+      "valeur": "32",
+      "legende": "adultes dans l'essai ouvert, sans placebo"
+     },
+     {
+      "valeur": "7 sur 26",
+      "legende": "sans aucune opération la 1re année (27 %)"
+     },
+     {
+      "valeur": "Accélérée",
+      "legende": "type d'approbation (FDA, 30 octobre)"
+     }
+    ],
+    "passe": "Le 30 octobre 2026, l'agence américaine des médicaments (FDA) a accordé une approbation accélérée à Voceryq, de la société Inovio, pour les adultes atteints de papillomatose respiratoire récidivante. Cette maladie rare est provoquée par les papillomavirus humains de types 6 et 11 : des excroissances ressemblant à des verrues se forment dans les voies respiratoires, le plus souvent autour des cordes vocales, et reviennent souvent après leur ablation chirurgicale. Voceryq est décrit par la FDA comme la première immunothérapie à base d'ADN plasmidique approuvée aux États-Unis. La décision repose sur une étude ouverte (sans groupe de comparaison) de 32 adultes ayant subi au moins deux opérations dans les 12 mois précédents : parmi les 26 patients qui avaient eu au moins trois opérations avant le traitement, 7 (27 %) n'ont eu besoin d'aucune intervention chirurgicale la première année. Les effets indésirables fréquents sont des réactions au point d'injection, des maux de tête, de la fatigue, de l'hypertension, des nausées et des vertiges. Inovio indique, selon Reuters, que le produit sera disponible à la commande d'ici environ 60 jours, avec un lancement commercial complet au premier trimestre 2027. Le fabricant doit mener une étude de confirmation.",
+    "points": [],
+    "explication": "Les cordes vocales sont deux replis dans le larynx qui vibrent pour produire la voix. Quand des excroissances bénignes y poussent, la voix change et la respiration peut se gêner. Le seul traitement jusqu'ici est de les enlever par opération, parfois plusieurs fois par an, avec un risque pour la voix à chaque fois. Voceryq cherche à entraîner le système immunitaire à reconnaître les cellules infectées par le virus : de petits morceaux d'ADN (des plasmides) y portent la recette de protéines du virus et d'une molécule d'alerte, l'interleukine 12, et une impulsion électrique brève facilite leur entrée dans les cellules. Attention à ce que prouve l'étude : sans groupe de comparaison, on ne peut pas savoir quelle part du résultat vient du traitement. L'approbation accélérée signifie que le bénéfice réel reste à confirmer. Elle présente Voceryq comme la première immunothérapie à ADN plasmidique approuvée aux États-Unis. Elle précise que l'approbation est accélérée, fondée sur la baisse du nombre d'opérations, et que le fabricant doit fournir des essais de confirmation. Elle explique à Reuters que chaque opération comporte un risque de lésion durable des cordes vocales, ce qui pousse les médecins à privilégier les traitements qui réduisent le recours à la chirurgie. Elle souligne aussi que Voceryq repose sur l'ADN, quand Papzimeos (Precigen, approuvé en 2025) utilise un virus modifié.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+      "nom": "FDA (communiqué)"
+     },
+     {
+      "url": "https://wmbdradio.com/2026/10/30/us-fda-approves-inovios-treatment-for-rare-throat-disease-shares-surge/",
+      "nom": "Reuters, via WMBD Radio"
+     },
+     {
+      "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-craters-27-after-hours-after-rival-inovio-s-rare-disease-drug-receives-fda-approval/cZULe5AR9ce",
+      "nom": "Stocktwits"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "FDA",
+      "contexte": "agence américaine",
+      "texte": "Elle présente Voceryq comme la première immunothérapie à ADN plasmidique approuvée aux États-Unis. Elle précise que l'approbation est accélérée, fondée sur la baisse du nombre d'opérations, et que le fabricant doit fournir des essais de confirmation.",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+      "source": "communiqué de la FDA"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "Jacqueline Shea",
+      "contexte": "directrice générale d'Inovio",
+      "texte": "Elle explique à Reuters que chaque opération comporte un risque de lésion durable des cordes vocales, ce qui pousse les médecins à privilégier les traitements qui réduisent le recours à la chirurgie. Elle souligne aussi que Voceryq repose sur l'ADN, quand Papzimeos (Precigen, approuvé en 2025) utilise un virus modifié.",
+      "url": "https://wmbdradio.com/2026/10/30/us-fda-approves-inovios-treatment-for-rare-throat-disease-shares-surge/",
+      "source": "Reuters via WMBD Radio"
+     }
+    ],
+    "apres": "Inovio doit remettre un projet de protocole d'étude de confirmation d'ici fin 2026 et finaliser le plan mi-2027, selon Reuters. Aucune demande n'est évoquée en Europe. La décision d'un traitement se prend avec l'équipe médicale.",
+    "change": "Pour les adultes qui doivent être opérés plusieurs fois par an, une option médicamenteuse s'ajoute à la chirurgie. Elle ne remplace pas les opérations : le résultat porte sur une partie des patients.",
+    "credit": {
+     "auteur": "Welleschik",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Laryngoskopie.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CANCER",
+    "titre": "Cancer du rectum : la FDA approuve le dostarlimab, sans chirurgie pour certains",
+    "court": "Rectum : dostarlimab approuvé aux USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Specialists%28Endoscopy%29.jpg/1280px-The_Specialists%28Endoscopy%29.jpg",
+    "legende": "salle d'endoscopie digestive (illustration)",
+    "chapeau": "Le 19 octobre 2026, la FDA a accordé une approbation accélérée à Jemperli (dostarlimab), du laboratoire GSK, utilisé seul chez l'adulte atteint d'un cancer du rectum localement avancé (stade II ou III) jamais traité, dont les cellules présentent une anomalie de réparation de l'ADN (profil « dMMR » ou « MSI-H »), selon un test autorisé.",
+    "eclairage": "Pourquoi cette tumeur-là réagit-elle autant ?",
+    "chiffres": [
+     {
+      "valeur": "154",
+      "legende": "patients dans l'essai AZUR-1 (phase 2)"
+     },
+     {
+      "valeur": "≈ 3 sur 4",
+      "legende": "sans chirurgie, chimio ni radiothérapie"
+     },
+     {
+      "valeur": "3 %",
+      "legende": "des cancers du rectum concernés (dMMR)"
+     }
+    ],
+    "passe": "Le 19 octobre 2026, la FDA a accordé une approbation accélérée à Jemperli (dostarlimab), du laboratoire GSK, utilisé seul chez l'adulte atteint d'un cancer du rectum localement avancé (stade II ou III) jamais traité, dont les cellules présentent une anomalie de réparation de l'ADN (profil « dMMR » ou « MSI-H »), selon un test autorisé. Selon la FDA, ce profil concerne environ 3 % des cancers du rectum localement avancés. La décision s'appuie sur l'analyse intermédiaire de l'essai de phase 2 AZUR-1 : 154 patients ont reçu jusqu'à neuf doses toutes les 3 semaines pendant 6 mois, et après plus de 2 ans de suivi médian, près de trois quarts n'avaient eu besoin ni de chirurgie, ni de radiothérapie, ni de chimiothérapie. GSK chiffre à 68 % (98 patients sur 144) la réponse clinique complète maintenue 12 mois, évaluée par les investigateurs. Des effets indésirables graves sont survenus chez 20 % des patients. La FDA précise qu'un suivi plus long est nécessaire pour connaître la durée des réponses et les récidives. L'examen, mené dans un programme de priorité nationale, a été bouclé près de quatre mois avant l'échéance.",
+    "points": [],
+    "explication": "Le rectum est la dernière partie du gros intestin. Le traitement habituel d'un cancer localement avancé associe radiothérapie, chimiothérapie et chirurgie, avec parfois des séquelles durables. Dans une petite part des tumeurs, le « correcteur d'orthographe » de l'ADN ne fonctionne pas (dMMR) : les cellules accumulent des anomalies que le système immunitaire peut repérer. Le dostarlimab lève un frein (la protéine PD-1) sur les cellules immunitaires. Attention : l'étude n'a pas de groupe de comparaison, donc on ne sait pas comparer directement à la chirurgie, et « pas de chirurgie » signifie ici « pas encore », avec une surveillance régulière. « Standard treatment for rectal cancer has major life-changing effects », déclare-t-il dans le communiqué de la FDA (traduction : le traitement standard du cancer du rectum a des conséquences majeures sur la vie). Le laboratoire annonce 68 % de réponse clinique complète maintenue à 12 mois et indique que l'étude AZUR-2, qui compare le traitement avant et après chirurgie à la chirurgie suivie d'une surveillance, doit servir à confirmer le bénéfice.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "nom": "FDA (communiqué)"
+     },
+     {
+      "url": "https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-approved-in-us-as-first-and-only-immunotherapy-for-adults-with-msi-hdmmr-locally-advanced-rectal-cancer/",
+      "nom": "GSK (communiqué)"
+     },
+     {
+      "url": "https://www.cancernetwork.com/view/fda-approves-dostarlimab-in-previously-untreated-locally-advanced-rectal-cancer",
+      "nom": "CancerNetwork"
+     },
+     {
+      "url": "https://pharmaphorum.com/news/jemperli-label-extended-include-rectal-cancer",
+      "nom": "pharmaphorum"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Angelo de Claro",
+      "contexte": "directeur du centre d'excellence en oncologie de la FDA",
+      "texte": "« Standard treatment for rectal cancer has major life-changing effects », déclare-t-il dans le communiqué de la FDA (traduction : le traitement standard du cancer du rectum a des conséquences majeures sur la vie).",
+      "url": "https://www.cancernetwork.com/view/fda-approves-dostarlimab-in-previously-untreated-locally-advanced-rectal-cancer",
+      "source": "CancerNetwork"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INDUSTRIE",
+      "qui": "GSK",
+      "contexte": "laboratoire fabricant et promoteur",
+      "texte": "Le laboratoire annonce 68 % de réponse clinique complète maintenue à 12 mois et indique que l'étude AZUR-2, qui compare le traitement avant et après chirurgie à la chirurgie suivie d'une surveillance, doit servir à confirmer le bénéfice.",
+      "url": "https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-approved-in-us-as-first-and-only-immunotherapy-for-adults-with-msi-hdmmr-locally-advanced-rectal-cancer/",
+      "source": "communiqué de GSK"
+     }
+    ],
+    "apres": "GSK doit poursuivre le suivi des patients et conduire AZUR-2 pour confirmer le bénéfice. Aucune décision européenne n'est mentionnée dans les sources consultées. Le choix d'un traitement se discute avec l'équipe de cancérologie.",
+    "change": "Pour les patients dont la tumeur a ce profil rare, l'approbation ouvre aux États-Unis une option sans chirurgie ni radiothérapie en première intention. Un test est nécessaire pour savoir si le traitement est possible.",
+    "credit": {
+     "auteur": "Peggy.poon",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Specialists(Endoscopy).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "CHIRURGIE",
+    "titre": "Cardiologie pédiatrique : une valve qui s'agrandit avec l'enfant approuvée",
+    "court": "Valve pulmonaire qui grandit avec l'enfant",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_cardiac_catheterization_procedure_in_the_Naval_Medical_Center_San_Diego_hospital%E2%80%99s_cardiac_catheterization_laboratory.jpg/1280px-A_cardiac_catheterization_procedure_in_the_Naval_Medical_Center_San_Diego_hospital%E2%80%99s_cardiac_catheterization_laboratory.jpg",
+    "legende": "cathétérisme cardiaque (illustration)",
+    "chapeau": "Le 1er octobre 2026, la FDA a approuvé la valve Autus à taille ajustable, développée par Autus Valve Technologies et approuvée pour Edwards Lifesciences. C'est une valve pulmonaire implantée chirurgicalement chez des enfants nés avec une malformation de cette valve du cœur.",
+    "eclairage": "Pourquoi une valve qui grandit change-t-elle la donne ?",
+    "chiffres": [
+     {
+      "valeur": "62",
+      "legende": "enfants dans l'étude (12 centres américains)"
+     },
+     {
+      "valeur": "13 à 22 mm",
+      "legende": "diamètre, élargi par ballonnet sans opération"
+     },
+     {
+      "valeur": "3",
+      "legende": "fractures du cadre sans symptôme"
+     }
+    ],
+    "passe": "Le 1er octobre 2026, la FDA a approuvé la valve Autus à taille ajustable, développée par Autus Valve Technologies et approuvée pour Edwards Lifesciences. C'est une valve pulmonaire implantée chirurgicalement chez des enfants nés avec une malformation de cette valve du cœur. Elle est posée à environ 13 mm, puis élargie jusqu'à environ 22 mm par un cathéter à ballonnet au fil de la croissance, ce qui doit éviter de répéter l'opération à cœur ouvert. Ses feuillets sont en polymère et non en tissu animal, une première selon la FDA. L'approbation repose sur une étude de 62 enfants dans 12 centres américains : à 6 mois, les 60 premiers avaient un flux sanguin acceptable et au plus une fuite légère, sans décès ni accident vasculaire cérébral. Trois fractures du cadre et deux cas de mobilité réduite des feuillets ont été observés, sans symptôme, et deux enfants dont la valve devenait trop petite ont été élargis avec succès sans chirurgie invasive. L'expérience de l'élargissement reste limitée et des études à plus long terme sont en cours.",
+    "points": [],
+    "explication": "Certains bébés naissent avec une valve pulmonaire (entre le cœur et les poumons) mal formée. Une valve artificielle classique ne grandit pas : l'enfant en grandissant la dépasse, et il faut le réopérer, souvent plusieurs fois avant l'âge adulte. Ici, la valve peut être élargie de l'intérieur par un cathéter, une technique peu invasive. Ce que prouve l'étude : que la pose et l'élargissement sont faisables et sûrs à court terme chez peu d'enfants. Ce qu'elle ne prouve pas : que ces enfants auront moins d'opérations au total, ce qui demandera des années de suivi. Elle présente la valve comme la première conçue pour être élargie après l'implantation et la première approuvée avec des feuillets en polymère, tout en notant que l'expérience de l'élargissement est limitée et que des études à plus long terme sont en cours.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "nom": "FDA (communiqué)"
+     },
+     {
+      "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/",
+      "nom": "Becker's Hospital Review"
+     },
+     {
+      "url": "https://www.tctmd.com/news/fda-approves-first-expandable-option-pediatric-patients-pulmonary-valve-disease",
+      "nom": "TCTMD"
+     },
+     {
+      "url": "https://www.ajmc.com/view/fda-approves-first-heart-valve-to-keep-pace-with-children-s-growth",
+      "nom": "AJMC"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "FDA",
+      "contexte": "agence américaine",
+      "texte": "Elle présente la valve comme la première conçue pour être élargie après l'implantation et la première approuvée avec des feuillets en polymère, tout en notant que l'expérience de l'élargissement est limitée et que des études à plus long terme sont en cours.",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "source": "communiqué de la FDA"
+     }
+    ],
+    "apres": "Le suivi à long terme doit montrer que l'élargissement garde la valve fonctionnelle avec moins d'opérations. Aucune démarche européenne n'est mentionnée dans les sources consultées.",
+    "change": "Pour les familles d'enfants concernés, l'objectif est de réduire le nombre de réinterventions à cœur ouvert au fil de la croissance. Horizon : approbation américaine, bénéfice à long terme encore à démontrer.",
+    "credit": {
+     "auteur": "Navy Medicine",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:A_cardiac_catheterization_procedure_in_the_Naval_Medical_Center_San_Diego_hospital%E2%80%99s_cardiac_catheterization_laboratory.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Approbation accélérée",
+    "definition": "Une autorisation donnée sur un critère intermédiaire jugé probablement prédictif d'un bénéfice (ici, moins d'opérations). Le fabricant doit ensuite confirmer le bénéfice réel par d'autres essais."
+   },
+   {
+    "terme": "Étude ouverte, sans groupe témoin",
+    "definition": "Tous les participants reçoivent le traitement et savent lequel. Sans comparaison, il est difficile de séparer l'effet du traitement de l'évolution naturelle de la maladie."
+   },
+   {
+    "terme": "Plasmide",
+    "definition": "Un petit morceau d'ADN circulaire qui porte la recette d'une protéine. Ici, il sert à présenter au système immunitaire des protéines du virus."
+   },
+   {
+    "terme": "dMMR (déficit de réparation de l'ADN)",
+    "definition": "Une anomalie des cellules d'une tumeur qui ne corrigent plus les erreurs de copie de leur ADN. Ces tumeurs répondent souvent bien à l'immunothérapie."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Voceryq, le premier traitement à ADN contre la papillomatose respiratoire, a reçu une approbation définitive de la FDA, sans étude de confirmation à mener.",
+   "reponse": false,
+   "explication": "C'est faux : la FDA a accordé une approbation accélérée le 30 octobre 2026, fondée sur la baisse du nombre d'opérations, et le fabricant doit mener des essais pour confirmer le bénéfice clinique."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-11-02",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PUCES & INFRA",
+    "titre": "Intel : l'action chute de près de 30 % après une prévision décevante",
+    "court": "Intel : l'action chute d'environ 30 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/1280px-Intel_Headquarters_in_2023.jpg",
+    "legende": "Siège d'Intel à Santa Clara (illustration)",
+    "chapeau": "Jeudi 29 octobre, Intel a publié un chiffre d'affaires de 16,5 milliards de dollars pour le troisième trimestre, en hausse de 21 % sur un an, dont 7,3 milliards pour les puces de centres de données (+78 %) et 8,1 milliards pour les ordinateurs (-5 %).",
+    "eclairage": "Pourquoi les ordinateurs pèsent sur Intel",
+    "chiffres": [
+     {
+      "valeur": "~12 Md$",
+      "legende": "perte sur le papier de l'État américain"
+     }
+    ],
+    "passe": "Jeudi 29 octobre, Intel a publié un chiffre d'affaires de 16,5 milliards de dollars pour le troisième trimestre, en hausse de 21 % sur un an, dont 7,3 milliards pour les puces de centres de données (+78 %) et 8,1 milliards pour les ordinateurs (-5 %). Son bénéfice par action hors éléments exceptionnels (0,52 $) a dépassé les attentes citées par la presse. Mais l'entreprise a prévu 15 à 16 milliards de dollars de chiffre d'affaires au quatrième trimestre, contre environ 17 milliards attendus par les analystes. Vendredi 30 octobre, l'action a perdu 28 % selon TechCrunch, près de 30 % en séance selon Reuters, soit environ 12 milliards de dollars de valeur sur la participation de l'État américain, qui détient environ 10 % du capital depuis août 2025. L'entreprise et la presse citent les prix élevés de la mémoire, qui freinent les ventes d'ordinateurs, et une offre de processeurs Xeon (puces pour serveurs) limitée.",
+    "points": [],
+    "explication": "Deux marchés, deux sorts. Un CPU (processeur) est la puce généraliste d'un ordinateur ou d'un serveur. Intel en vend pour les PC et pour les centres de données, où ils pilotent les puces d'IA. Mémoire. Les fabricants de mémoire réorientent leur production vers l'IA, ce qui renchérit les PC, selon Intel. Ce qui est annoncé. Le directeur financier prévoit un ralentissement des PC au moins jusqu'au premier semestre 2027 : c'est une prévision de l'entreprise, pas un constat.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/q326earningsrelease.htm",
+      "nom": "SEC (communiqué d'Intel)"
+     },
+     {
+      "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
+      "nom": "Intel"
+     },
+     {
+      "url": "https://wsau.com/2026/10/30/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround/",
+      "nom": "Reuters via WSAU"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "nom": "TechCrunch"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Lip-Bu Tan",
+      "contexte": "directeur général",
+      "texte": "« demand for our CPUs remains robust »",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
+      "source": "Intel"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ANALYSTE",
+      "qui": "Jay Goldberg",
+      "contexte": "Seaport Research Partners",
+      "texte": "La baisse reflète « a loss of faith in management's credibility » (citation en anglais).",
+      "url": "https://wsau.com/2026/10/30/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround/",
+      "source": "Reuters via WSAU"
+     }
+    ],
+    "apres": "Prochains résultats d'Intel : date non précisée dans le communiqué.",
+    "change": "Pour un acheteur d'ordinateur, Intel attribue le ralentissement du marché des PC aux prix de la mémoire. Pour le secteur, l'épisode montre que la demande en IA, forte dans les centres de données, ne compense pas partout la faiblesse des PC.",
+    "credit": {
+     "auteur": "Coolcaesar",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Intel_Headquarters_in_2023.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "IA",
+    "titre": "Amazon : AWS croît de 39 %, mais la trésorerie sort de 42,4 Md$",
+    "court": "Amazon : AWS +39 %, trésorerie en négatif",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Amazon_AWS_us-west-2_beach_AZ.jpg/1280px-Amazon_AWS_us-west-2_beach_AZ.jpg",
+    "legende": "Centres de données Amazon Web Services vus du ciel (illustration)",
+    "chapeau": "Jeudi 29 octobre, Amazon a publié un chiffre d'affaires de 201,9 milliards de dollars pour le troisième trimestre (+12 %).",
+    "eclairage": "Investir avant d'encaisser",
+    "chiffres": [
+     {
+      "valeur": "46 Md$",
+      "legende": "ventes d'AWS (+39 % sur un an)"
+     },
+     {
+      "valeur": "220 Md$",
+      "legende": "investissements prévus en 2026"
+     }
+    ],
+    "passe": "Jeudi 29 octobre, Amazon a publié un chiffre d'affaires de 201,9 milliards de dollars pour le troisième trimestre (+12 %). Sa branche de cloud (informatique en nuage, c'est-à-dire des serveurs loués à distance) AWS a vendu pour 46,0 milliards, en hausse de 39 %, avec un résultat d'exploitation de 17,8 milliards contre 11,4 milliards un an plus tôt. L'entreprise maintient environ 220 milliards de dollars de dépenses d'investissement (capex) en 2026, surtout pour l'IA. Son flux de trésorerie disponible (l'argent qui reste après les investissements) est négatif de 42,4 milliards sur douze mois. Selon TechCrunch, le chiffre d'affaires total et le bénéfice par action sont restés sous les attentes des analystes.",
+    "points": [],
+    "explication": "Le pari. Construire des centres de données coûte cher avant de rapporter : d'où une trésorerie négative alors que les ventes progressent. Ce qui est démontré. Les ventes d'AWS et son résultat augmentent. Ce qui reste à prouver. Que les clients paieront assez longtemps pour amortir ces investissements : c'est un pari de l'entreprise, que les investisseurs jugent.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+      "nom": "SEC (communiqué d'Amazon)"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "nom": "TechCrunch"
+     },
+     {
+      "url": "https://wsau.com/2026/10/30/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround/",
+      "nom": "Reuters via WSAU"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Andy Jassy",
+      "contexte": "directeur général d'Amazon",
+      "texte": "« Our AWS investment in functionality and infrastructure is working » (citation en anglais).",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+      "source": "Amazon (SEC)"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "INVESTISSEURS",
+      "qui": "Marchés",
+      "contexte": "d'après TechCrunch",
+      "texte": "Les investisseurs s'inquiètent des flux de trésorerie négatifs et de la dette des géants du numérique.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch"
+     }
+    ],
+    "apres": "Prévision d'Amazon pour le 4e trimestre : 240 à 247 milliards de dollars de ventes.",
+    "change": "Pour une entreprise cliente du cloud, la capacité de calcul disponible dépend de ces investissements. Pour le secteur, la question devient la rentabilité de l'IA, pas seulement sa demande. Horizon : 2027.",
+    "credit": {
+     "auteur": "Tedder",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Amazon_AWS_us-west-2_beach_AZ.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "RECHERCHE",
+    "titre": "Google : son prototype de calcul dans l'espace communique avec le sol",
+    "court": "Google : un satellite à puces TPU en orbite",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Falcon_9_Transporter-6_Launch_%287805962%29.jpg/1280px-Falcon_9_Transporter-6_Launch_%287805962%29.jpg",
+    "legende": "Lancement d'une Falcon 9, mission Transporter-6 (illustration)",
+    "chapeau": "Google a lancé début octobre un satellite d'essai, bâti avec l'entreprise Planet, qui embarque quatre puces TPU, ses processeurs conçus pour l'IA.",
+    "eclairage": "Pourquoi calculer dans l'espace ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "puces TPU à bord"
+     },
+     {
+      "valeur": "1 an",
+      "legende": "durée prévue de la mission"
+     },
+     {
+      "valeur": "2027",
+      "legende": "deux satellites de plus prévus"
+     }
+    ],
+    "passe": "Google a lancé début octobre un satellite d'essai, bâti avec l'entreprise Planet, qui embarque quatre puces TPU, ses processeurs conçus pour l'IA. Le 30 octobre, TechCrunch a rapporté qu'il communique avec le sol et fonctionne normalement, selon un porte-parole de Google, après environ trois semaines de tests de ses sous-systèmes. Faute de refroidissement, les puces ne tournent que par séquences d'environ 15 à 20 minutes selon les sources. La mission, prévue sur un an, doit mesurer la tenue des puces aux radiations et aux écarts de température. Google en prévoit deux autres, avec des liaisons laser, début 2027. Il s'agit d'un test de matériel, pas d'un centre de données.",
+    "points": [],
+    "explication": "L'idée. Des satellites alimentés par le Soleil pourraient faire tourner des puces sans peser sur les réseaux électriques terrestres. Le défi. Évacuer la chaleur dans le vide et protéger les puces des radiations, qui peuvent corrompre des données. Le coût. Il dépend du prix des lancements : Google estime qu'il faudrait un très grand nombre de vols de la fusée Starship (1 600 à 1 800 selon les articles de TechCrunch) pour que ce soit rentable. Aucune évaluation indépendante n'existe à ce stade.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blog.google/technology/research/google-project-suncatcher/",
+      "nom": "Google"
+     },
+     {
+      "url": "https://www.gpb.org/news/2026/10/01/google-launches-project-suncatcher-step-towards-ai-data-centers-in-space",
+      "nom": "GPB (NPR)"
+     },
+     {
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "nom": "TechCrunch"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Google",
+      "contexte": "blog du projet Suncatcher",
+      "texte": "Le projet vise « an interconnected network of solar-powered satellites, equipped with our Tensor Processing Unit (TPU) AI chips » (citation en anglais).",
+      "url": "https://blog.google/technology/research/google-project-suncatcher/",
+      "source": "Google"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "CHERCHEURS",
+      "qui": "Analyse du projet",
+      "contexte": "relue par des pairs, selon TechCrunch",
+      "texte": "Selon TechCrunch, l'étude estime à environ 1 600 le nombre de lancements de Starship nécessaires avant que le calcul spatial soit viable.",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "source": "TechCrunch"
+     }
+    ],
+    "apres": "Lancement de deux satellites supplémentaires début 2027, selon Google.",
+    "change": "Rien pour l'utilisateur à court terme : c'est un test, avec une seule puce active à la fois selon TechCrunch. L'enjeu à long terme est l'énergie que consomme l'IA, mais le calcul spatial reste à l'état de recherche. Horizon : après les tests de 2027.",
+    "credit": {
+     "auteur": "U.S. Space Force / Joshua Conti",
+     "licence": "Domaine public",
+     "licence_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Falcon_9_Transporter-6_Launch_(7805962).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1er",
+    "mois": "SEM. 2027",
+    "texte": "Intel : ralentissement du marché des PC prévu au moins jusqu'au premier semestre 2027, selon son directeur financier (Intel)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "TPU",
+    "definition": "Puce conçue par Google pour les calculs d'IA, utilisée dans ses centres de données."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon son communiqué, Intel a annoncé un chiffre d'affaires en baisse au troisième trimestre 2026.",
+   "reponse": false,
+   "explication": "Faux : Intel a publié 16,5 milliards de dollars, en hausse de 21 % sur un an. Ce sont ses prévisions du quatrième trimestre qui ont déçu."
+  }
+ },
+ {
+  "rubrique": "economie",
   "date": "2026-11-01",
   "minutes": 9,
   "sujets": [
