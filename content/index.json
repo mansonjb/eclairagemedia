@@ -1,5 +1,294 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-02",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Lycées : la rentrée sous la menace de blocus, malgré les annonces",
+    "court": "Lycées : rentrée sous menace de blocus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg/1280px-Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg",
+    "legende": "Blocus du lycée Lamartine, à Paris, en septembre 2025 (illustration)",
+    "chapeau": "Le mouvement lycéen a commencé le 18 septembre au lycée Saint-Exupéry de Créteil (Val-de-Marne). Samedi 31 octobre, lors de la manifestation parisienne contre la vie chère, des représentants lycéens et étudiants ont appelé à reprendre la mobilisation lundi 2 novembre, jour de la rentrée après les vacances d'automne.",
+    "eclairage": "Ce que le gouvernement a annoncé fin octobre",
+    "chiffres": [
+     {
+      "valeur": "28",
+      "legende": "élèves max en seconde (annonce)"
+     },
+     {
+      "valeur": "+500",
+      "legende": "postes d'enseignants dans les lycées"
+     },
+     {
+      "valeur": "15 000",
+      "legende": "places en plus dans le supérieur"
+     }
+    ],
+    "passe": "Le mouvement lycéen a commencé le 18 septembre au lycée Saint-Exupéry de Créteil (Val-de-Marne). Samedi 31 octobre, lors de la manifestation parisienne contre la vie chère, des représentants lycéens et étudiants ont appelé à reprendre la mobilisation lundi 2 novembre, jour de la rentrée après les vacances d'automne. Les Lycéens !, l'Union syndicale lycéenne et l'Union étudiante annoncent des assemblées générales lundi, puis des blocages mardi 3 et jeudi 5 novembre, jour d'une grève interprofessionnelle. Le ministre de l'Éducation nationale, Édouard Geffray, a appelé à une reprise des cours dès lundi. Le nombre d'établissements concernés n'est pas connu à ce stade.",
+    "points": [
+     "Classes : secondes limitées à 28 élèves dans la moitié des lycées les moins favorisés à la rentrée 2027, puis dans tous les lycées en 2028 ; plus de 500 postes d'enseignants en plus, et aucune suppression de poste annoncée dans les collèges et lycées.",
+     "Parcoursup : la lettre de motivation devient exceptionnelle, les critères de sélection sont publiés et les candidats peuvent connaître les motifs d'un refus. Le dispositif doit être remplacé en 2028, ce qui demandera une nouvelle loi.",
+     "Études supérieures : 15 000 places supplémentaires dès la rentrée 2027 : 10 000 en BTS, 4 000 en IUT, 1 000 dans les filières universitaires de santé.",
+     "Bâtiments : un plan de 5 milliards d'euros pour rénover lycées et universités, dont un dispositif de prêt de 4 milliards pour les régions d'ici 2030."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "nom": "L'Express via Orange (6Médias)"
+     },
+     {
+      "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/rentree-scolaire-sous-tension-des-blocages-de-lycees-pourraient-commencer/",
+      "nom": "Entrevue"
+     },
+     {
+      "url": "https://aa.com.tr/fr/politique/france-le-ministre-de-l-%C3%A9ducation-annonce-des-mesures-pour-am%C3%A9liorer-les-conditions-des-lyc%C3%A9ens/4106946",
+      "nom": "Anadolu"
+     },
+     {
+      "url": "https://www.europe1.fr/politique/rentree-des-lycees-budget-de-letat-greve-du-5-novembre-une-semaine-a-haut-risque-pour-sebastien-lecornu-1198581",
+      "nom": "Europe 1"
+     },
+     {
+      "url": "https://www.info.gouv.fr/actualite/declaration-du-premier-ministre-a-l-assemblee-nationale",
+      "nom": "info.gouv.fr (mesures pour les lycéens)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Édouard Geffray",
+      "contexte": "ministre de l'Éducation nationale",
+      "texte": "Il appelle à reprendre les cours dès lundi. Selon Entrevue, il reconnaît que le gouvernement a tardé à répondre aux revendications et a ouvert des discussions avec les représentants des élèves et les régions.",
+      "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/rentree-scolaire-sous-tension-des-blocages-de-lycees-pourraient-commencer/",
+      "source": "Entrevue"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "USL",
+      "qui": "Ryad Rani",
+      "contexte": "président de l'Union syndicale lycéenne",
+      "texte": "« Mardi, on bloque. »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNION ÉTUDIANTE",
+      "qui": "Sabrine Kharbach",
+      "contexte": "porte-parole de l'Union étudiante",
+      "texte": "« Dès ce mardi, on va bloquer nos universités et lycées »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LYCÉENS !",
+      "qui": "Pierre Sourzat",
+      "contexte": "président de Lycéens !",
+      "texte": "« On ne demande pas le luxe »",
+      "url": "https://actu.orange.fr/france/mouvement-lyceen-les-syndicats-appellent-a-reprendre-les-blocages-des-la-rentree-scolaire-l-express-via-6medias-CNT000002tuMI6.html",
+      "source": "L'Express via Orange"
+     }
+    ],
+    "apres": "Assemblées générales lundi 2 novembre, blocages mardi 3 et jeudi 5 novembre, grève interprofessionnelle jeudi 5.",
+    "change": "Le mouvement porte sur les moyens (effectifs, remplacements, bâtiments) et sur l'orientation après le bac. Une partie des annonces dépend d'une loi, notamment le remplacement de Parcoursup en 2028.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Blocus_du_lyc%C3%A9e_Lamartine_le_10_septembre_2025_%E2%80%94_02.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : vote clé mardi à l'Assemblée sur la partie recettes",
+    "court": "Budget : vote clé mardi sur les recettes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vote_solennel_loi_mariage_23042013_13.jpg/1280px-Vote_solennel_loi_mariage_23042013_13.jpg",
+    "legende": "Des députés dans l'hémicycle lors d'un vote solennel, en 2013 (illustration)",
+    "chapeau": "Mardi 3 novembre à 15 heures, après les questions au gouvernement, l'Assemblée nationale vote solennellement la première partie, consacrée aux recettes, du projet de loi de finances pour 2027.",
+    "eclairage": "Que se passe-t-il si les députés rejettent la partie recettes ?",
+    "chiffres": [
+     {
+      "valeur": "03/11",
+      "legende": "vote solennel des recettes"
+     },
+     {
+      "valeur": "115",
+      "legende": "voix contre le budget de la Sécu (1 pour)"
+     },
+     {
+      "valeur": "17/11",
+      "legende": "vote prévu sur l'ensemble"
+     }
+    ],
+    "passe": "Mardi 3 novembre à 15 heures, après les questions au gouvernement, l'Assemblée nationale vote solennellement la première partie, consacrée aux recettes, du projet de loi de finances pour 2027. Au 30 octobre, les députés avaient examiné 28 des 58 articles ; il restait environ 1 500 amendements à traiter lundi 2 novembre. Ils ont supprimé ou rejeté dix articles du gouvernement, dont la surtaxe sur les grandes entreprises (5 milliards d'euros), la réduction de l'abattement des retraités et un prélèvement de 2,5 milliards sur les collectivités, et ils ont ajouté des taxes que le gouvernement ne proposait pas. Le budget de la Sécurité sociale, lui, a été rejeté en première lecture le vendredi 23 octobre : la partie recettes a été repoussée par 115 voix contre 1, ce qui a fait tomber l'ensemble du texte. Il repart au Sénat dans sa version initiale, examiné à partir du 9 novembre.",
+    "points": [
+     "Tout le budget tombe en première lecture à l'Assemblée et les amendements adoptés disparaissent. Le Sénat reçoit le texte d'origine du gouvernement.",
+     "Une commission mixte paritaire (7 députés et 7 sénateurs) cherche ensuite un accord ; l'Assemblée a le dernier mot et le gouvernement peut recourir à l'article 49.3.",
+     "Le Parlement a jusqu'au 17 décembre. Passé ce délai, le gouvernement peut mettre le budget en vigueur par ordonnance.",
+     "Si la partie recettes est adoptée, la partie dépenses s'ouvre le jour même, avec un vote sur l'ensemble prévu le 17 novembre."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+      "nom": "Assemblée nationale (budget de l'État)"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/rejet-en-premiere-lecture-du-projet-de-loi-de-financement-de-la-securite-sociale-pour-2027",
+      "nom": "Assemblée nationale (budget de la Sécu)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines",
+      "nom": "NosParlementaires"
+     },
+     {
+      "url": "https://www.europe1.fr/politique/rentree-des-lycees-budget-de-letat-greve-du-5-novembre-une-semaine-a-haut-risque-pour-sebastien-lecornu-1198581",
+      "nom": "Europe 1"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Sandrine Runel",
+      "contexte": "députée, groupe Socialistes",
+      "texte": "Le budget de la Sécu est un « texte injuste dans ses choix et insuffisant dans ses moyens »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Sandrine Rousseau",
+      "contexte": "députée, groupe Écologiste et Social",
+      "texte": "Elle décrit « un gouvernement dans une citadelle, enfermé, seul, isolé »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Joëlle Mélin",
+      "contexte": "députée RN",
+      "texte": "Elle évoque des « séries impressionnantes et toujours inattendues de rustines »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ece9fb",
+      "couleur": "#4b3f9e",
+      "parti": "UDR",
+      "qui": "Olivier Fayssat",
+      "contexte": "député, Union des droites pour la République",
+      "texte": "Il parle d'une « trajectoire morbide »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#fff0e0",
+      "couleur": "#f58220",
+      "parti": "LES DÉMOCRATES",
+      "qui": "Cyrille Isaac-Sibille",
+      "contexte": "député, Les Démocrates",
+      "texte": "Le texte rejeté est « d'une irresponsabilité folle »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Justine Gruet",
+      "contexte": "députée, Droite républicaine",
+      "texte": "« L'impératif de redressement des comptes sociaux n'est pas tenu »",
+      "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Vote solennel mardi 3 novembre ; Sénat sur le budget de la Sécu à partir du 9 novembre ; vote sur l'ensemble du budget de l'État prévu le 17 novembre.",
+    "change": "Le résultat de mardi décide du chemin du budget : adopté, il poursuit son examen ministère par ministère ; rejeté, il part au Sénat dans la version du gouvernement.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_13.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "3",
+    "mois": "NOV.",
+    "texte": "Vote solennel sur les recettes du budget 2027 à l'Assemblée (15 h) ; blocages annoncés dans les lycées ; élections de mi-mandat aux États-Unis."
+   },
+   {
+    "jour": "4",
+    "mois": "NOV.",
+    "texte": "Rapports de la Commission européenne sur l'élargissement."
+   },
+   {
+    "jour": "5",
+    "mois": "NOV.",
+    "texte": "Grève et manifestations de l'intersyndicale."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Le Sénat commence l'examen du budget de la Sécurité sociale."
+   },
+   {
+    "jour": "17",
+    "mois": "NOV.",
+    "texte": "Vote sur l'ensemble du budget de l'État à l'Assemblée, si la partie recettes est adoptée."
+   },
+   {
+    "jour": "17",
+    "mois": "DÉC.",
+    "texte": "Fin du délai du Parlement pour adopter le budget ; ensuite, une ordonnance est possible."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Vote solennel",
+    "definition": "Un vote public sur l'ensemble d'un texte ou d'une partie, organisé à une heure fixée à l'avance, après l'examen article par article."
+   },
+   {
+    "terme": "Commission mixte paritaire",
+    "definition": "Une réunion de 7 députés et 7 sénateurs chargée de trouver un texte commun quand l'Assemblée et le Sénat ne sont pas d'accord."
+   },
+   {
+    "terme": "Élections de mi-mandat",
+    "definition": "Aux États-Unis, élections du Congrès organisées au milieu du mandat du président, deux ans après son élection."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le 23 octobre, l'Assemblée nationale a rejeté la partie recettes du budget de la Sécurité sociale pour 2027 par 115 voix contre 1.",
+   "reponse": true,
+   "explication": "Le rejet de la partie recettes entraîne celui de l'ensemble du texte, sans examen des dépenses. Il repart au Sénat dans sa version initiale, examiné à partir du 9 novembre."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-01",
   "minutes": 9,
