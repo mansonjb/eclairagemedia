@@ -1,5 +1,484 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-05",
+  "url": "/podcasts/essentiel-2026-11-05.mp3",
+  "taille": 7850885,
+  "duree": 654,
+  "titre": "Éclairage, l'essentiel du jeudi 5 novembre 2026",
+  "titre_episode": "Budget rejeté, grève, pétrole sous 100 dollars : l'essentiel du jeudi 5 novembre",
+  "description": "Ce jeudi 5 novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : Budget 2027 : l'Assemblée rejette la partie recettes par 458 voix contre 0\n• Politique : Grève du 5 novembre : syndicats, lycéens et étudiants se mobilisent\n• Économie : Wall Street : le Dow Jones gagne 3,03 % après la victoire démocrate\n• Économie : Pétrole : le Brent passe sous 100 $ et recule de 8,7 % en une séance\n• Économie : Uber : réservations +20 % à 59,8 Md$, 700 véhicules sans conducteur visés\n• Santé : Sténose aortique modérée : poser la valve plus tôt réduit les événements\n• Alimentation : Sols vivants : cinq associations lancent un pacte pour 2027\n• Tech : Google : sans IA activée, plus de recherche sur les comptes d'élèves\n• IA : Uber : 4 courses et 500 commandes Uber Eats passées par des agents IA\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : l'Assemblée rejette la partie recettes par 458 voix contre 0"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Grève du 5 novembre : syndicats, lycéens et étudiants se mobilisent"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Wall Street : le Dow Jones gagne 3,03 % après la victoire démocrate"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Pétrole : le Brent passe sous 100 $ et recule de 8,7 % en une séance"
+   },
+   {
+    "rubrique": "economie",
+    "n": 3,
+    "titre": "Uber : réservations +20 % à 59,8 Md$, 700 véhicules sans conducteur visés"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Sténose aortique modérée : poser la valve plus tôt réduit les événements"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Sols vivants : cinq associations lancent un pacte pour 2027"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Google : sans IA activée, plus de recherche sur les comptes d'élèves"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Uber : 4 courses et 500 commandes Uber Eats passées par des agents IA"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce jeudi cinq novembre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : le budget à l'Assemblée, la grève du jour, Wall Street, le pétrole, la santé, les sols, et deux histoires autour de l'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un score rare : quatre cent cinquante-huit voix contre, et aucune pour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le vote de mercredi soir à l'Assemblée sur la partie recettes du budget deux mille vingt-sept. Deux abstentions seulement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, tous les groupes ont voté contre ensemble ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le texte s'était éloigné du projet du gouvernement au fil de votes à des majorités variables. Au final, les groupes l'ont rejeté d'un même élan."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement chiffre ce que ça aurait donné ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre des Comptes publics, David Amiel, dit que le texte adopté en l'état aurait porté le déficit de l'État à cent soixante-dix-sept milliards d'euros. Soit vingt virgule sept milliards de plus que son projet."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La gauche conteste ce chiffrage, précisons-le."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement, notamment le député Nicolas Sansu. Le ministre parle aussi d'un déficit public qui passerait de cinq à cinq virgule neuf pour cent du PIB."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, qu'est-ce qui se passe maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Faute de recettes adoptées, la partie dépenses n'est pas examinée à l'Assemblée. Le Sénat reçoit le texte initial du gouvernement, à partir du vingt novembre selon vingt Minutes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc les modifications des députés disparaissent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Ensuite, le Sénat vote, puis une commission mixte paritaire, députés et sénateurs réunis, peut chercher un compromis. LCP le juge peu probable."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et si ça coince ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il y a une échéance : les soixante-dix jours se terminent le dix-sept décembre à minuit. Le Premier ministre peut alors recourir au quarante-neuf trois, ou faire appliquer le budget par ordonnances. Une loi spéciale reste une autre option citée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le budget s'arrête à l'Assemblée, et le Sénat repart de la copie du gouvernement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et dans la rue, justement, ça bouge aujourd'hui."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : la grève du cinq novembre. Cinq syndicats à l'origine de l'appel."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La CFDT, la CGT, FO, l'Unsa et la FSU, rejointes ensuite par les autres. Selon l'AFP, c'est le premier appel depuis la rentrée qui vise à la fois le public et le privé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le vingt-neuf septembre, c'était seulement la fonction publique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Cette fois, l'intersyndicale liste sept revendications : revalorisation du Smic et des salaires, défense des services publics, conditions d'études des jeunes. Elle dénonce aussi le projet de budget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les jeunes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lycéens et étudiants, mobilisés depuis la mi-septembre, se joignent à la journée. Les gilets jaunes aussi, qui parlent d'un « cinq novembre du peuple »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et l'ampleur du suivi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle reste incertaine à ce stade. Le nombre de grévistes ne sera connu qu'après la journée, et les chiffres varient souvent selon les sources, syndicats d'un côté, autorités de l'autre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et après ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "FO envisage d'autres manifestations et une grève reconductible. La FSU estime qu'une journée ne suffira pas. Les gilets jaunes évoquent des actions les six et sept novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : une journée qui teste la capacité du gouvernement à répondre sur le pouvoir d'achat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et justement, sur ce sujet, le ministre de l'Économie a lâché une piste sur le Smic. On y revient dans l'édition politique complète."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une séance de folie à Wall Street."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Dow Jones a gagné trois virgule zéro trois pour cent mercredi, à cinquante-trois mille trois cent cinquante-six points. C'est au lendemain des élections américaines de mi-mandat, où les démocrates ont remporté les deux chambres du Congrès."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de trois pour cent en une séance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le S&P cinq cents a pris un virgule cinquante-huit pour cent, le Nasdaq un virgule quarante-quatre. Et à Paris, le CAC quarante a gagné un virgule quatre-vingt-seize pour cent, à huit mille cent soixante-dix-huit points."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Tout le monde n'a pas profité de la hausse."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les valeurs liées à l'intelligence artificielle ont reculé, Nvidia d'environ trois pour cent, sur des craintes d'un encadrement plus strict des centres de données. Microsoft, Amazon et Apple, eux, ont grimpé de plus de cinq pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des taux ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le rendement de l'obligation américaine à dix ans est revenu à environ quatre virgule quatre-vingt-neuf pour cent, contre quatre virgule quatre-vingt-seize la veille, selon l'AFP. Le pétrole, lui, a baissé de plus de huit pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le pétrole, justement, on s'y arrête. Le Brent est repassé sous cent dollars."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est une première depuis début octobre. Il a été réglé à quatre-vingt-quatorze dollars soixante-deux selon Reuters, en baisse de huit virgule sept pour cent. C'est son plus bas niveau depuis début septembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi une telle chute ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le marché a intégré l'espoir d'une désescalade avec l'Iran. La victoire démocrate pourrait limiter la marge de manœuvre de Donald Trump dans la guerre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça, malgré une baisse des stocks américains de brut."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, d'environ neuf cent mille barils selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gaz ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le gaz européen s'échangeait autour de quatre-vingt-six euros le mégawattheure, contre cent quatre euros trente-cinq vendredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les ménages et les entreprises, ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un baril moins cher réduit, à terme, le coût des carburants et des transports. Un gaz plus bas allège la pression sur le chauffage et l'industrie. En revanche, les groupes pétroliers ont reculé, ExxonMobil de quatre virgule cinq pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le Brent sous cent dollars, le gaz sous quatre-vingt-dix euros, en une semaine."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre histoire d'économie, côté tech : Uber, qui a publié ses résultats du troisième trimestre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les réservations brutes, c'est-à-dire la valeur totale des courses et livraisons réglées par les clients, atteignent cinquante-neuf virgule huit milliards de dollars."
+   },
+   {
+    "qui": "Paul",
+    "texte": "En hausse de vingt pour cent. Le chiffre d'affaires, lui, est de quatorze virgule huit milliards, plus dix pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais le bénéfice net a déçu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cinq cent douze millions de dollars, soit vingt-cinq cents par action, contre quatre-vingt-seize cents attendus par les analystes selon CNBC. Il inclut une perte de quatre cent soixante-seize millions liée à la réévaluation de participations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, hors cet effet, le bénéfice par action ajusté ressort à quatre-vingt-huit cents."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pourtant, le titre a gagné plus de sept pour cent mercredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les véhicules sans conducteur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Uber vise environ sept cents véhicules sans conducteur sur sa plateforme fin deux mille vingt-six, et plus de deux mille en deux mille vingt-sept. À parts égales entre les États-Unis et l'international, selon CNBC."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui donne une mesure de l'ampleur encore limitée des robotaxis. On passe à la santé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une étude sur le cœur, présentée le deux novembre au congrès TCT de San Diego, avec publication dans le New England Journal of Medicine. Elle s'appelle PROGRESS."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Elle porte sur quoi exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La sténose aortique modérée, un rétrécissement de la valve du cœur. Sept cent quarante-quatre patients de soixante-cinq ans et plus, âge moyen soixante-dix-huit ans, avec au moins un signe de retentissement sur le cœur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le principe de l'essai ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un tirage au sort. Trois cent soixante-treize patients ont reçu une valve posée par l'artère fémorale, ce qu'on appelle un TAVI. Trois cent soixante et onze ont été suivis selon les recommandations, avec remplacement de valve si besoin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le résultat à deux ans ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Décès ou événement d'insuffisance cardiaque chez seize virgule sept pour cent du groupe TAVI, contre vingt-trois virgule neuf pour cent du groupe surveillance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, et les hospitalisations ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sept virgule quatre pour cent contre quatorze virgule neuf. Et dans le groupe surveillance, cinquante-sept pour cent des patients ont eu un remplacement de valve différé dans les deux ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qu'on ne sait pas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La mortalité toutes causes était similaire entre les deux groupes, d'après Edwards Lifesciences, qui a financé l'essai. Et les communiqués ne donnent ni rapport de risque ni intervalle de confiance."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc pas de changement de pratique pour l'instant."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les auteurs rappellent que ça ne veut pas dire que tous les patients doivent recevoir un TAVI. Les recommandations prévoient pour l'instant une surveillance clinique et échographique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : les patients concernés peuvent en parler avec leur cardiologue."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, cap sur nos assiettes, ou plutôt sur ce qu'il y a dessous : les sols agricoles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq associations ont lancé, le deux novembre, un « Pacte national pour les sols vivants »."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'Apad, Base, Bleu-Blanc-Cœur, Earthworm Foundation et Pour une Agriculture du Vivant. Elles s'adressent aux candidats à la présidentielle de deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Leur ambition ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Que la France devienne en deux mille trente-cinq la référence européenne en matière de régénération et de conservation des sols agricoles, selon Terre-net."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ce qu'elles demandent, concrètement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre engagements. Faire des sols une priorité des politiques publiques, y compris dans le code rural. Créer un observatoire de la santé des sols."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les deux autres ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Faire de ces pratiques un socle de la formation agricole. Et partager le risque financier de la transition, avec un mécanisme de couverture des pertes de récolte cofinancé par l'État, les filières et les assureurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc rien de concret dans les champs pour l'instant."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non : c'est une demande adressée aux candidats, le texte ne crée aucune règle. À retenir : les associations veulent la santé des sols dans les programmes de deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On termine avec la tech et l'IA. D'abord, Google et les écoles américaines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le trois novembre, Google annonce que Gemini et Google Search seront désactivés sur les comptes d'élèves, de la maternelle à la terminale, aux États-Unis, tant que les administrateurs des écoles ne les activent pas."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, y compris la recherche classique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Education Week, une recherche sans résumé généré par IA ne sera pas proposée. Une école qui veut l'IA éteinte doit renoncer à Search."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, un choix binaire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Google présente aussi « Guided Learning », un mode qui guide l'élève pas à pas au lieu de donner la réponse. Il est disponible dans Classroom dès le trois novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les réactions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des élus américains ont critiqué l'annonce. Google a précisé sur X que chaque outil peut être activé séparément, selon TechCrunch. Le calendrier sera précisé aux écoles dans les prochains mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : activer l'IA avec Search, ou ne plus proposer Search aux élèves."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernière histoire, et on reste chez Uber. Une question : combien de courses passées par des agents IA, ces assistants qui exécutent une tâche à votre place ?"
+   },
+   {
+    "qui": "Léa",
+    "texte": "Je dirais des milliers."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pendant la semaine d'Halloween, une des plus chargées de l'année, Uber a traité environ trois cent vingt millions de trajets et de commandes. Les agents IA ont passé environ cinq cents commandes Uber Eats, et quatre courses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatre ? Quatre courses ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre. C'est le directeur financier, Balaji Krishnamurthy, qui l'a indiqué. Le directeur général, Dara Khosrowshahi, parle d'une traction très, très limitée à ce stade."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pendant ce temps, sur le trimestre, Uber déclare quatre virgule un milliards de trajets, en hausse de seize pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Précision utile : ces chiffres sont ceux de l'entreprise, énoncés à l'oral devant des analystes, sans audit externe mentionné."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc réserver soi-même reste le geste dominant, et les agents un canal marginal."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais les entreprises de services discutent déjà des conditions avec les éditeurs d'IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel du jour : le budget, la grève, les marchés, le pétrole, Uber, la santé, les sols et l'IA."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de nous avoir écoutés, et à demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-05",
   "url": "/podcasts/politique-2026-11-05.mp3",
