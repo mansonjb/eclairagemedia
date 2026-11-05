@@ -315,3 +315,313 @@ Mercredi 4 novembre 2026, le Brent a clôturé au-dessus de 100 dollars le baril
 Réponse : faux. Le Brent a clôturé à 94,62 $, en baisse de 8,7 % sur la journée selon Reuters, après être repassé sous 100 $ pour la première fois depuis début octobre.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+jeudi 5 novembre 2026 · 7 min de lecture
+
+1. Sténose aortique modérée : poser la valve plus tôt réduit les événements
+
+CHIRURGIE
+
+744 : patients, 74 centres dans 6 pays
+
+16,7 % : décès ou insuffisance cardiaque (TAVI), 2 ans
+
+23,9 % : même critère, groupe surveillance
+
+Ce qui s'est passé
+
+Le 2 novembre 2026, au congrès TCT de San Diego, l'essai PROGRESS a été présenté, avec une publication simultanée dans le New England Journal of Medicine. Il a inclus 744 patients de 65 ans et plus (âge moyen : 78 ans) atteints d'une sténose aortique modérée et d'au moins un signe de retentissement sur le cœur, comme des symptômes ou une anomalie de la structure ou de la fonction cardiaque. Ils ont été tirés au sort : 373 ont reçu une valve Sapien 3 posée par l'artère fémorale (TAVI), 371 ont été suivis selon les recommandations, avec un remplacement de valve si besoin. À deux ans, le critère principal (décès ou événement d'insuffisance cardiaque) est survenu chez 16,7 % des patients du groupe TAVI contre 23,9 % du groupe surveillance. Les hospitalisations pour insuffisance cardiaque ont été de 7,4 % contre 14,9 %. Dans le groupe surveillance, 57 % des patients ont eu un remplacement de valve différé dans les deux ans. La mortalité toutes causes était similaire entre les deux groupes, d'après Edwards Lifesciences, qui a financé l'essai. Les communiqués consultés ne donnent ni rapport de risque ni intervalle de confiance : ils sont à lire dans l'article du NEJM.
+
+- La valve aortique est la porte de sortie du cœur vers le reste du corps. Avec l'âge, elle peut se calcifier et s'ouvrir mal : c'est la sténose aortique. Le cœur doit pousser plus fort.
+- Le TAVI remplace la valve sans ouvrir le thorax : une valve repliée est amenée par un cathéter, souvent par l'artère de l'aine, puis déployée dans l'ancienne valve.
+- Jusqu'ici, le geste est validé pour les sténoses sévères. Pour les sténoses modérées, on surveillait. PROGRESS teste si agir plus tôt change quelque chose.
+
+L'éclairage
+
+De quoi parle-t-on ?
+
+Le fabricant, qui finance l'essai, présente le résultat comme une supériorité du TAVI. Il précise que l'usage de la valve Sapien 3 dans la sténose modérée reste expérimental.
+
+Ce qu'ils en disent
+
+« Patients with moderate aortic stenosis can already have symptoms and signs that their heart is under strain. »
+Raj Makkar (Auteurs), Cedars-Sinai, investigateur principal pour les États-Unis
+
+« The PROGRESS trial validates TAVR as a treatment strategy for moderate AS patients with at-risk features »
+Philippe Généreux (Auteurs), Atlantic Health Morristown Medical Center
+
+Le fabricant, qui finance l'essai, présente le résultat comme une supériorité du TAVI. Il précise que l'usage de la valve Sapien 3 dans la sténose modérée reste expérimental.
+Edwards Lifesciences (Industrie)
+
+Ce qui change
+
+Pas encore de changement de pratique : les auteurs rappellent que les résultats ne signifient pas que tous les patients atteints de sténose aortique modérée doivent recevoir un TAVI.
+
+Et après
+
+Les participants seront suivis 10 ans pour savoir si la baisse des événements d'insuffisance cardiaque se traduit par une meilleure survie, et pour étudier la durabilité des valves. L'usage de la valve dans cette indication reste à autoriser.
+
+Sources : NEJM (DOI) · Cedars-Sinai · Cardiac Interventions Today · Edwards (communiqué) · Cath Lab Digest
+
+À venir
+
+- 30 nov. : Giredestrant : date limite de décision de la FDA pour le cancer du sein hormonodépendant, à un stade précoce.
+
+Les mots du jour
+
+Sténose aortique
+Un rétrécissement de la valve aortique, par où le sang quitte le cœur. Elle est dite modérée ou sévère selon l'ouverture de la valve et la vitesse du sang.
+TAVI (ou TAVR)
+Remplacement de la valve aortique par cathéter, sans ouvrir le thorax.
+Critère composite
+Un résultat qui regroupe plusieurs événements (ici : décès ou insuffisance cardiaque). Il augmente le nombre d'événements comptés, mais chaque événement n'a pas le même poids.
+Méta-analyse en réseau
+Une analyse qui combine de nombreux essais pour comparer plusieurs traitements, même quand ils n'ont pas été testés directement l'un contre l'autre.
+
+Vrai ou faux ?
+
+Dans l'essai PROGRESS, plus de la moitié des patients du groupe « surveillance » ont fini par recevoir une valve aortique dans les deux ans.
+
+Réponse : vrai. C'est vrai : 57 % des patients du groupe surveillance ont eu un remplacement valvulaire différé en deux ans, selon les résultats présentés à TCT 2026 et publiés dans le NEJM.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+jeudi 5 novembre 2026 · 4 min de lecture
+
+1. Sécheresse : l'eau reste limitée en Charente-Maritime jusqu'au 30 novembre
+
+LITTORAL ET ENVIRONNEMENT
+
+826 km : de cours d'eau à sec
+
+-30 % : de pluie en octobre
+
+-64 % : de pluie en septembre
+
+Ce qui s'est passé
+
+Le préfet de Charente-Maritime a signé le 30 octobre 2026 deux arrêtés qui prennent effet le dimanche 1er novembre à 0 h. Le premier (n° 26EB679) concerne l'eau du réseau d'eau potable, le second (n° 26EB680) les autres usages de l'eau. Le premier prolonge l'arrêté du 16 juillet 2026 et maintient l'ensemble du département en alerte renforcée. Selon VOG Radio, ce niveau reste en vigueur jusqu'au 30 novembre : il reste interdit d'arroser les jardins, de laver véhicules et toitures, de remplir ou de vidanger les piscines. Octobre a compté 30 % de pluie en moins que la normale et septembre 64 % en moins ; 826 km de cours d'eau sont à sec et 85 km connaissent un écoulement interrompu. Au Port de La Rochelle, le lavage des bateaux de plaisance est interdit sur les pontons, sauf pour les professionnels équipés d'un matériel haute pression.
+
+- C'est le préfet, représentant de l'État, qui fixe les limites par arrêté. Les communes et les gestionnaires d'eau les relaient auprès des habitants.
+- Il y a quatre niveaux : vigilance, alerte, alerte renforcée, crise. Les arrêtés distinguent l'eau du robinet (réseau d'eau potable) et les autres prélèvements (rivières, nappes).
+- Le département est passé en niveau « alerte » pour l'eau potable le 10 juillet, puis en alerte renforcée ; l'arrêté du 30 octobre prolonge ce second niveau.
+
+L'éclairage
+
+Qui décide des restrictions d'eau ?
+
+Ce qu'ils en disent
+
+Les deux arrêtés du 30 octobre s'appliquent à compter du 1er novembre à 0 h. Le premier vise l'eau du réseau d'eau potable, le second les autres usages.
+Préfecture de Charente-Maritime (État / préfecture), arrêtés 26EB679 et 26EB680
+
+La commune relaie l'arrêté du 30 octobre et appelle les habitants à la vigilance et à un usage responsable de l'eau.
+Ville de Pons (Commune), page du 3 novembre
+
+Le lavage des navires de plaisance est interdit sur les pontons, sauf par des professionnels équipés d'un matériel haute pression. La station de lavage à eau de mer du ponton 19 reste utilisable.
+Port de La Rochelle (Port), avis aux navigateurs n° 25quater/2026
+
+Ce qui change
+
+Pour un habitant : pas d'arrosage du jardin, pas de lavage de la voiture ni du toit, pas de remplissage ni de vidange de piscine. Les plaisanciers ne peuvent plus laver leur bateau sur les pontons.
+
+Et après
+
+Le niveau d'alerte renforcée court jusqu'au 30 novembre, selon VOG Radio. La préfecture publie les arrêtés en vigueur sur sa page des restrictions.
+
+Sources : Préfecture de Charente-Maritime · Port de La Rochelle · VOG Radio · Ville de Pons
+
+À venir
+
+- 16 nov. : Conseil municipal de La Rochelle (lundi). Suivant : 7 décembre.
+- 30 nov. : Fin annoncée de l'alerte renforcée sur l'eau potable, selon VOG Radio.
+
+Les mots du jour
+
+Arrêté préfectoral
+Une décision écrite du préfet, qui s'impose dans le département. Elle porte un numéro et une date d'effet.
+Alerte renforcée
+Le troisième des quatre niveaux de restriction de l'eau, entre « alerte » et « crise ».
+Réseau d'eau potable (AEP)
+L'eau distribuée au robinet, distincte de l'eau prélevée dans les rivières et les nappes.
+
+Vrai ou faux ?
+
+En Charente-Maritime, laver sa voiture avec l'eau du réseau est interdit aux particuliers depuis le 1er novembre.
+
+Réponse : vrai. L'arrêté du 30 octobre maintient l'alerte renforcée sur l'eau potable jusqu'au 30 novembre : arroser les jardins, laver véhicules et toitures et remplir ou vidanger les piscines restent interdits.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+jeudi 5 novembre 2026 · 5 min de lecture
+
+1. Sols vivants : cinq associations lancent un pacte pour 2027
+
+AGRICULTURE
+
+5 : associations signataires
+
+4 : engagements demandés
+
+2035 : échéance visée par le pacte
+
+Ce qui s'est passé
+
+Le 2 novembre, l'Apad, Base, Bleu-Blanc-Cœur, Earthworm Foundation et Pour une Agriculture du Vivant ont lancé un « Pacte national pour les sols vivants ». Elles s'adressent aux candidats à la présidentielle de 2027 et souhaitent que la France devienne en 2035 « la référence européenne en matière de régénération et de conservation des sols agricoles », selon Terre-net. Elles demandent quatre engagements : faire de la régénération et de la conservation des sols une « priorité des politiques publiques », y compris dans le code rural ; créer un observatoire de la santé des sols ; faire de ces pratiques un socle de la formation agricole ; partager le risque financier de la transition, avec un mécanisme de couverture des pertes de récolte cofinancé par l'État, les filières et les assureurs, et l'extension des paiements pour services environnementaux aux agriculteurs déjà engagés. Le texte est une demande adressée aux candidats : il ne crée aucune règle.
+
+L'éclairage
+
+Pourquoi parler de santé des sols ?
+
+Un sol agricole n'est pas qu'un support : il abrite des organismes vivants et stocke l'eau et les nutriments dont dépendent les cultures. Selon Terre-net, reconstituer un centimètre de sol arable peut prendre plusieurs décennies. Les associations distinguent la régénération (restaurer un sol dégradé) et la conservation (préserver un sol en bon état). Au niveau européen, la directive (UE) 2025/2360 du 12 novembre 2025 organise la surveillance de la santé des sols ; selon Réussir, elle doit être transposée en droit français d'ici 2028, et l'observatoire demandé s'y inscrirait. Ce que le pacte ne fixe pas : aucun objectif chiffré, ni budget, ni liste de pratiques obligatoires.
+
+Ce qu'ils en disent
+
+Leur deuxième engagement : « mesurer pour piloter »
+Les cinq associations (Association / ong), signataires du pacte
+
+Ce qui change
+
+Rien de concret pour l'instant dans les champs ni au supermarché : le pacte fixe des demandes, pas des règles. Il place la santé des sols parmi les sujets que les associations veulent voir dans les programmes de 2027.
+
+Et après
+
+Présidentielle en avril 2027, puis transposition de la directive européenne sur les sols d'ici 2028.
+
+Sources : Terre-net · Réussir · Agra Fil du 4 novembre · directive (UE) 2025/2360 (EUR-Lex)
+
+À venir
+
+- 1 déc. : Ouverture des négociations commerciales annuelles entre fournisseurs et distributeurs, selon Agra (Agra →).
+
+Les mots du jour
+
+Sol vivant
+Un sol qui abrite des organismes (vers de terre, champignons, bactéries) dont l'activité participe à sa fertilité.
+Paiement pour services environnementaux (PSE)
+Une rémunération versée à un agriculteur pour une pratique qui profite à l'environnement, par exemple la protection des sols.
+Interprofession
+L'organisation qui réunit les acteurs d'une même filière, des producteurs aux transformateurs, comme l'Unicid pour le cidre.
+Alternance
+Chez le pommier, la tendance à produire beaucoup une année puis moins la suivante.
+
+Vrai ou faux ?
+
+Selon l'interprofession cidricole, la récolte française de pommes à cidre 2026 serait en baisse d'environ 50 % par rapport à 2025.
+
+Réponse : vrai. L'Unicid l'a estimé dans un communiqué du 28 septembre, relayé par Agra, et parle de l'une des plus mauvaises récoltes qu'ait connues la filière. Début septembre, elle évoquait déjà plus de 30 % de pertes.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+jeudi 5 novembre 2026 · 8 min de lecture
+
+1. Google : sans IA activée, plus de recherche sur les comptes d'élèves
+
+PLATEFORMES
+
+4 : produits mis sur « off »
+
+3 nov. : annonce de Google
+
+K-12 : comptes élèves, maternelle à terminale
+
+Ce qui s'est passé
+
+Le 3 novembre, Google annonce que Gemini, Gemini Notebook, Gemini dans Classroom et Google Search seront entièrement désactivés sur les comptes d'élèves de la maternelle à la terminale (« K-12 », aux États-Unis) tant que les administrateurs des écoles ne les activent pas. Le groupe dit avoir consulté écoles, enseignants, chercheurs et responsables politiques, et précisera le calendrier aux écoles « dans les prochains mois ». Selon Education Week, une recherche classique sans résumé généré par IA ne sera pas proposée : une école qui veut l'IA éteinte doit renoncer à Search. Google présente en parallèle « Guided Learning », un mode qui guide l'élève pas à pas au lieu de donner la réponse : disponible dans Classroom dès le 3 novembre, il sera testé dans Search dans des écoles américaines « plus tard ce mois-ci ». L'annonce a déclenché des critiques d'élus américains, que Google a tenté d'apaiser en précisant sur X que chaque outil peut être activé séparément, selon TechCrunch.
+
+- Search n'est plus seulement une liste de liens. Google y affiche des résumés rédigés par un modèle d'IA, qui répondent à la question avant même que l'élève ouvre un site.
+- Le souci pédagogique. Si la réponse arrive toute faite, l'élève peut sauter l'étape de réflexion. C'est ce que Google dit vouloir corriger avec « Guided Learning » : des questions plutôt qu'une réponse finale.
+- Annonce ou démontré ? Google affirme que Guided Learning produit « des gains d'apprentissage mesurables » : ces résultats sont ceux de l'entreprise, aucune évaluation indépendante n'est citée dans les sources.
+
+L'éclairage
+
+Pourquoi Search est-il concerné ?
+
+Ce qu'ils en disent
+
+Objectif affiché, en anglais : « Our goal is simple: provide school leaders the control and confidence to use AI products in classrooms as they see fit. »
+Chris Phillips (Entreprise), vice-président éducation de Google
+
+Il qualifie la mesure d'« extortion » (« extorsion »), selon Education Week.
+Bernie Sanders (Élus), sénateur américain
+
+Selon Education Week, elle écrit que Google « is using its search monopoly to coerce schools into adopting AI. »
+Lina Khan (Ancienne régulatrice), ex-présidente de la FTC
+
+Ce qui change
+
+Pour une école américaine, le choix devient binaire : activer l'IA avec Search, ou ne plus proposer Search aux élèves. Le calendrier précis n'est pas publié ; les détails doivent être communiqués aux écoles « dans les prochains mois ».
+
+Et après
+
+Test de Guided Learning dans Search dans des écoles américaines en novembre, puis élargissement « dans les prochains mois » selon Google.
+
+Sources : Google (blog officiel) · Education Week · TechCrunch
+
+2. Uber : 4 courses et 500 commandes Uber Eats passées par des agents IA
+
+IA
+
+4 : courses via des agents
+
+500 : commandes Eats via des agents
+
+320 M : trajets et commandes sur la semaine
+
+Ce qui s'est passé
+
+Mercredi 4 novembre, lors de la présentation des résultats du troisième trimestre, Uber a donné un chiffre sur l'usage des agents IA, ces assistants qui exécutent une tâche à la place de l'utilisateur. Pendant la semaine d'Halloween, l'une des plus chargées de l'année, la plateforme a traité environ 320 millions de trajets et de commandes. Les agents IA ont passé environ 500 commandes sur Uber Eats et 4 courses, a indiqué le directeur financier, Balaji Krishnamurthy. Le directeur général, Dara Khosrowshahi, parle d'une traction « très, très limitée » à ce stade. Sur le trimestre, Uber déclare 4,1 milliards de trajets, en hausse de 16 % sur un an. Ces chiffres sont ceux de l'entreprise, énoncés à l'oral lors de la conférence aux analystes, et aucun audit externe n'est mentionné.
+
+- Un chatbot répond, un agent agit. Un agent reçoit un objectif (« commande-moi une voiture pour 18 h »), enchaîne plusieurs étapes et déclenche l'action sur un service.
+- Pourquoi l'écart ? Commander directement dans l'application prend en moyenne 50 secondes pour une course et 90 secondes pour recommander un plat, selon le directeur général cité par TechCrunch. L'agent ne fait pas forcément gagner de temps.
+- Ordre de grandeur. 4 courses sur environ 320 millions de trajets et de commandes : la part des agents est très inférieure à un millionième. C'est une photographie d'une semaine, pas une tendance.
+
+L'éclairage
+
+Un agent IA, c'est quoi, et pourquoi si peu de courses ?
+
+Ce qu'ils en disent
+
+Sur les volumes, en anglais : « very, very early and very limited traction that we are seeing so far » (« très, très tôt et une traction très limitée jusqu'ici »).
+Dara Khosrowshahi (Entreprise), directeur général d'Uber
+
+Ce qui change
+
+Aujourd'hui, pour un utilisateur, réserver soi-même reste le geste dominant. Pour les entreprises de services, les agents sont encore un canal marginal, mais elles discutent déjà des conditions avec les éditeurs d'IA.
+
+Et après
+
+Uber dit poursuivre ses discussions avec des agents tiers et développer ses propres assistants. Aucune date n'est communiquée.
+
+Sources : Transcription de la conférence (Motley Fool) · Uber, communiqué au régulateur américain (sec.gov) · TechCrunch
+
+À venir
+
+- 20 nov. : Fermeture du service en ligne de Conductor, selon TechCrunch.
+
+Les mots du jour
+
+Agent IA
+Un programme d'intelligence artificielle qui enchaîne des étapes et agit à la place de l'utilisateur, au lieu de seulement répondre.
+K-12
+Expression américaine pour l'enseignement de la maternelle à la terminale.
+Guided Learning (apprentissage guidé)
+Mode de Google où l'IA pose des questions et guide l'élève pas à pas plutôt que de donner la réponse.
+Traction
+Mot de la finance pour dire à quel point un produit est adopté par ses utilisateurs.
+
+Vrai ou faux ?
+
+Selon Uber, seules 4 courses ont été commandées par des agents IA pendant la semaine d'Halloween, sur environ 320 millions de trajets et de commandes.
+
+Réponse : vrai. Vrai : le directeur financier d'Uber l'a indiqué lors de la présentation des résultats du 4 novembre. Pour Uber Eats, environ 500 commandes sont venues d'agents IA.
+
+Retrouvez cette édition sur eclairagemedia.com.

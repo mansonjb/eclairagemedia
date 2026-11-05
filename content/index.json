@@ -267,6 +267,245 @@
   }
  },
  {
+  "rubrique": "food",
+  "date": "2026-11-05",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "AGRICULTURE",
+    "titre": "Sols vivants : cinq associations lancent un pacte pour 2027",
+    "court": "Sols vivants : un pacte pour 2027",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Norwood_Farms_5th_Generation_Farmers_with_a_Conservation_Plan_for_the_Future_%2820190919-NRCS-LSC-1057%29.jpg/1280px-Norwood_Farms_5th_Generation_Farmers_with_a_Conservation_Plan_for_the_Future_%2820190919-NRCS-LSC-1057%29.jpg",
+    "legende": "Un technicien examine un champ de soja et les résidus de culture au sol (illustration)",
+    "chapeau": "Le 2 novembre, l'Apad, Base, Bleu-Blanc-Cœur, Earthworm Foundation et Pour une Agriculture du Vivant ont lancé un « Pacte national pour les sols vivants ».",
+    "eclairage": "Pourquoi parler de santé des sols ?",
+    "chiffres": [
+     {
+      "valeur": "5",
+      "legende": "associations signataires"
+     },
+     {
+      "valeur": "4",
+      "legende": "engagements demandés"
+     },
+     {
+      "valeur": "2035",
+      "legende": "échéance visée par le pacte"
+     }
+    ],
+    "passe": "Le 2 novembre, l'Apad, Base, Bleu-Blanc-Cœur, Earthworm Foundation et Pour une Agriculture du Vivant ont lancé un « Pacte national pour les sols vivants ». Elles s'adressent aux candidats à la présidentielle de 2027 et souhaitent que la France devienne en 2035 « la référence européenne en matière de régénération et de conservation des sols agricoles », selon Terre-net. Elles demandent quatre engagements : faire de la régénération et de la conservation des sols une « priorité des politiques publiques », y compris dans le code rural ; créer un observatoire de la santé des sols ; faire de ces pratiques un socle de la formation agricole ; partager le risque financier de la transition, avec un mécanisme de couverture des pertes de récolte cofinancé par l'État, les filières et les assureurs, et l'extension des paiements pour services environnementaux aux agriculteurs déjà engagés. Le texte est une demande adressée aux candidats : il ne crée aucune règle.",
+    "points": [],
+    "explication": "Un sol agricole n'est pas qu'un support : il abrite des organismes vivants et stocke l'eau et les nutriments dont dépendent les cultures. Selon Terre-net, reconstituer un centimètre de sol arable peut prendre plusieurs décennies. Les associations distinguent la régénération (restaurer un sol dégradé) et la conservation (préserver un sol en bon état). Au niveau européen, la directive (UE) 2025/2360 du 12 novembre 2025 organise la surveillance de la santé des sols ; selon Réussir, elle doit être transposée en droit français d'ici 2028, et l'observatoire demandé s'y inscrirait. Ce que le pacte ne fixe pas : aucun objectif chiffré, ni budget, ni liste de pratiques obligatoires.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.terre-net.fr/agriculture-de-conservation/article/905597/faire-des-sols-vivants-une-priorite-nationale",
+      "nom": "Terre-net"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/sante-des-sols-cinq-associations-appellent-en-faire-une-priorite-nationale",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.agra.fr/fil/agra-fil-du-4-novembre-2026",
+      "nom": "Agra Fil du 4 novembre"
+     },
+     {
+      "url": "https://eur-lex.europa.eu/eli/dir/2025/2360/oj/fra",
+      "nom": "directive (UE) 2025/2360 (EUR-Lex)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ASSOCIATION / ONG",
+      "qui": "Les cinq associations",
+      "contexte": "signataires du pacte",
+      "texte": "Leur deuxième engagement : « mesurer pour piloter »",
+      "url": "https://www.terre-net.fr/agriculture-de-conservation/article/905597/faire-des-sols-vivants-une-priorite-nationale",
+      "source": "Terre-net"
+     }
+    ],
+    "apres": "Présidentielle en avril 2027, puis transposition de la directive européenne sur les sols d'ici 2028.",
+    "change": "Rien de concret pour l'instant dans les champs ni au supermarché : le pacte fixe des demandes, pas des règles. Il place la santé des sols parmi les sujets que les associations veulent voir dans les programmes de 2027.",
+    "credit": {
+     "auteur": "USDA NRCS",
+     "licence": "Domaine public",
+     "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Norwood_Farms_5th_Generation_Farmers_with_a_Conservation_Plan_for_the_Future_(20190919-NRCS-LSC-1057).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "1",
+    "mois": "DÉC.",
+    "texte": "Ouverture des négociations commerciales annuelles entre fournisseurs et distributeurs, selon Agra (Agra →)."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "950 Md$",
+   "texte": "Le soutien public total à l'agriculture dans le monde en 2025, un record selon l'OCDE : 121 milliards de dollars de plus, soit environ 15 % de hausse. Source unique : OCDE. OCDE →"
+  },
+  "lexique": [
+   {
+    "terme": "Sol vivant",
+    "definition": "Un sol qui abrite des organismes (vers de terre, champignons, bactéries) dont l'activité participe à sa fertilité."
+   },
+   {
+    "terme": "Paiement pour services environnementaux (PSE)",
+    "definition": "Une rémunération versée à un agriculteur pour une pratique qui profite à l'environnement, par exemple la protection des sols."
+   },
+   {
+    "terme": "Interprofession",
+    "definition": "L'organisation qui réunit les acteurs d'une même filière, des producteurs aux transformateurs, comme l'Unicid pour le cidre."
+   },
+   {
+    "terme": "Alternance",
+    "definition": "Chez le pommier, la tendance à produire beaucoup une année puis moins la suivante."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'interprofession cidricole, la récolte française de pommes à cidre 2026 serait en baisse d'environ 50 % par rapport à 2025.",
+   "reponse": true,
+   "explication": "L'Unicid l'a estimé dans un communiqué du 28 septembre, relayé par Agra, et parle de l'une des plus mauvaises récoltes qu'ait connues la filière. Début septembre, elle évoquait déjà plus de 30 % de pertes."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-11-05",
+  "minutes": 4,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "LITTORAL ET ENVIRONNEMENT",
+    "titre": "Sécheresse : l'eau reste limitée en Charente-Maritime jusqu'au 30 novembre",
+    "court": "Sécheresse : l'eau limitée jusqu'au 30 novembre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lit_de_la_Leysse_%C3%A0_sec_%C3%A0_Chamb%C3%A9ry_%28s%C3%A9cheresse_juillet_2022%29.JPG/1280px-Lit_de_la_Leysse_%C3%A0_sec_%C3%A0_Chamb%C3%A9ry_%28s%C3%A9cheresse_juillet_2022%29.JPG",
+    "legende": "Lit de rivière à sec pendant la sécheresse de 2022 à Chambéry (illustration)",
+    "chapeau": "Le préfet de Charente-Maritime a signé le 30 octobre 2026 deux arrêtés qui prennent effet le dimanche 1er novembre à 0 h. Le premier (n° 26EB679) concerne l'eau du réseau d'eau potable, le second (n° 26EB680) les autres usages de l'eau.",
+    "eclairage": "Qui décide des restrictions d'eau ?",
+    "chiffres": [
+     {
+      "valeur": "826 km",
+      "legende": "de cours d'eau à sec"
+     },
+     {
+      "valeur": "-30 %",
+      "legende": "de pluie en octobre"
+     },
+     {
+      "valeur": "-64 %",
+      "legende": "de pluie en septembre"
+     }
+    ],
+    "passe": "Le préfet de Charente-Maritime a signé le 30 octobre 2026 deux arrêtés qui prennent effet le dimanche 1er novembre à 0 h. Le premier (n° 26EB679) concerne l'eau du réseau d'eau potable, le second (n° 26EB680) les autres usages de l'eau. Le premier prolonge l'arrêté du 16 juillet 2026 et maintient l'ensemble du département en alerte renforcée. Selon VOG Radio, ce niveau reste en vigueur jusqu'au 30 novembre : il reste interdit d'arroser les jardins, de laver véhicules et toitures, de remplir ou de vidanger les piscines. Octobre a compté 30 % de pluie en moins que la normale et septembre 64 % en moins ; 826 km de cours d'eau sont à sec et 85 km connaissent un écoulement interrompu. Au Port de La Rochelle, le lavage des bateaux de plaisance est interdit sur les pontons, sauf pour les professionnels équipés d'un matériel haute pression.",
+    "points": [
+     "C'est le préfet, représentant de l'État, qui fixe les limites par arrêté. Les communes et les gestionnaires d'eau les relaient auprès des habitants.",
+     "Il y a quatre niveaux : vigilance, alerte, alerte renforcée, crise. Les arrêtés distinguent l'eau du robinet (réseau d'eau potable) et les autres prélèvements (rivières, nappes).",
+     "Le département est passé en niveau « alerte » pour l'eau potable le 10 juillet, puis en alerte renforcée ; l'arrêté du 30 octobre prolonge ce second niveau."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.charente-maritime.gouv.fr/Actions-de-l-Etat/Environnement-risques-naturels-et-technologiques/Eau-et-milieux-aquatiques/Gestion-quantitative-de-la-ressource/Gestion-etiage/Restrictions-des-usages-de-l-eau",
+      "nom": "Préfecture de Charente-Maritime"
+     },
+     {
+      "url": "https://www.portlarochelle.com/avis_aux_navigateurs/avis-n25quater-2026-annule-et-remplace-le-n25ter-2026-objet-restrictions-en-eau",
+      "nom": "Port de La Rochelle"
+     },
+     {
+      "url": "https://www.vogradio.fr/2026/11/02/charente-maritime-les-mesures-de-restriction-deau-prolongees/",
+      "nom": "VOG Radio"
+     },
+     {
+      "url": "https://www.pons-ville.fr/restrictions-des-usages-de-leau-4/",
+      "nom": "Ville de Pons"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉTAT / PRÉFECTURE",
+      "qui": "Préfecture de Charente-Maritime",
+      "contexte": "arrêtés 26EB679 et 26EB680",
+      "texte": "Les deux arrêtés du 30 octobre s'appliquent à compter du 1er novembre à 0 h. Le premier vise l'eau du réseau d'eau potable, le second les autres usages.",
+      "url": "https://www.charente-maritime.gouv.fr/Actions-de-l-Etat/Environnement-risques-naturels-et-technologiques/Eau-et-milieux-aquatiques/Gestion-quantitative-de-la-ressource/Gestion-etiage/Restrictions-des-usages-de-l-eau",
+      "source": "charente-maritime.gouv.fr"
+     },
+     {
+      "fond": "#e3f0fa",
+      "couleur": "#0066a6",
+      "parti": "COMMUNE",
+      "qui": "Ville de Pons",
+      "contexte": "page du 3 novembre",
+      "texte": "La commune relaie l'arrêté du 30 octobre et appelle les habitants à la vigilance et à un usage responsable de l'eau.",
+      "url": "https://www.pons-ville.fr/restrictions-des-usages-de-leau-4/",
+      "source": "pons-ville.fr"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#0a7d5a",
+      "parti": "PORT",
+      "qui": "Port de La Rochelle",
+      "contexte": "avis aux navigateurs n° 25quater/2026",
+      "texte": "Le lavage des navires de plaisance est interdit sur les pontons, sauf par des professionnels équipés d'un matériel haute pression. La station de lavage à eau de mer du ponton 19 reste utilisable.",
+      "url": "https://www.portlarochelle.com/avis_aux_navigateurs/avis-n25quater-2026-annule-et-remplace-le-n25ter-2026-objet-restrictions-en-eau",
+      "source": "portlarochelle.com"
+     }
+    ],
+    "apres": "Le niveau d'alerte renforcée court jusqu'au 30 novembre, selon VOG Radio. La préfecture publie les arrêtés en vigueur sur sa page des restrictions.",
+    "change": "Pour un habitant : pas d'arrosage du jardin, pas de lavage de la voiture ni du toit, pas de remplissage ni de vidange de piscine. Les plaisanciers ne peuvent plus laver leur bateau sur les pontons.",
+    "credit": {
+     "auteur": "Florian Pépellin",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lit_de_la_Leysse_%C3%A0_sec_%C3%A0_Chamb%C3%A9ry_(s%C3%A9cheresse_juillet_2022).JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Conseil municipal de La Rochelle (lundi). Suivant : 7 décembre."
+   },
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Fin annoncée de l'alerte renforcée sur l'eau potable, selon VOG Radio."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "826 km",
+   "texte": "de cours d'eau à sec en Charente-Maritime, selon VOG Radio, auxquels s'ajoutent 85 km à l'écoulement interrompu. Source →"
+  },
+  "lexique": [
+   {
+    "terme": "Arrêté préfectoral",
+    "definition": "Une décision écrite du préfet, qui s'impose dans le département. Elle porte un numéro et une date d'effet."
+   },
+   {
+    "terme": "Alerte renforcée",
+    "definition": "Le troisième des quatre niveaux de restriction de l'eau, entre « alerte » et « crise »."
+   },
+   {
+    "terme": "Réseau d'eau potable (AEP)",
+    "definition": "L'eau distribuée au robinet, distincte de l'eau prélevée dans les rivières et les nappes."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En Charente-Maritime, laver sa voiture avec l'eau du réseau est interdit aux particuliers depuis le 1er novembre.",
+   "reponse": true,
+   "explication": "L'arrêté du 30 octobre maintient l'alerte renforcée sur l'eau potable jusqu'au 30 novembre : arroser les jardins, laver véhicules et toitures et remplir ou vidanger les piscines restent interdits."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-05",
   "minutes": 14,
@@ -645,6 +884,331 @@
    "affirmation": "Le 4 novembre, l'Assemblée nationale a adopté la partie recettes du budget 2027, qui part au Sénat.",
    "reponse": false,
    "explication": "Elle a été rejetée par 458 voix contre 0 et 2 abstentions (scrutin n° 9759). Le Sénat reçoit donc le texte initial du gouvernement."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-11-05",
+  "minutes": 7,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Sténose aortique modérée : poser la valve plus tôt réduit les événements",
+    "court": "Sténose aortique : poser la valve plus tôt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Aortic_Karboniks-1_bileafter_prosthetic_heart_valve.jpg/1280px-Aortic_Karboniks-1_bileafter_prosthetic_heart_valve.jpg",
+    "legende": "Prothèse mécanique de valve aortique (illustration)",
+    "chapeau": "Le 2 novembre 2026, au congrès TCT de San Diego, l'essai PROGRESS a été présenté, avec une publication simultanée dans le New England Journal of Medicine.",
+    "eclairage": "De quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "744",
+      "legende": "patients, 74 centres dans 6 pays"
+     },
+     {
+      "valeur": "16,7 %",
+      "legende": "décès ou insuffisance cardiaque (TAVI), 2 ans"
+     },
+     {
+      "valeur": "23,9 %",
+      "legende": "même critère, groupe surveillance"
+     }
+    ],
+    "passe": "Le 2 novembre 2026, au congrès TCT de San Diego, l'essai PROGRESS a été présenté, avec une publication simultanée dans le New England Journal of Medicine. Il a inclus 744 patients de 65 ans et plus (âge moyen : 78 ans) atteints d'une sténose aortique modérée et d'au moins un signe de retentissement sur le cœur, comme des symptômes ou une anomalie de la structure ou de la fonction cardiaque. Ils ont été tirés au sort : 373 ont reçu une valve Sapien 3 posée par l'artère fémorale (TAVI), 371 ont été suivis selon les recommandations, avec un remplacement de valve si besoin. À deux ans, le critère principal (décès ou événement d'insuffisance cardiaque) est survenu chez 16,7 % des patients du groupe TAVI contre 23,9 % du groupe surveillance. Les hospitalisations pour insuffisance cardiaque ont été de 7,4 % contre 14,9 %. Dans le groupe surveillance, 57 % des patients ont eu un remplacement de valve différé dans les deux ans. La mortalité toutes causes était similaire entre les deux groupes, d'après Edwards Lifesciences, qui a financé l'essai. Les communiqués consultés ne donnent ni rapport de risque ni intervalle de confiance : ils sont à lire dans l'article du NEJM.",
+    "points": [
+     "La valve aortique est la porte de sortie du cœur vers le reste du corps. Avec l'âge, elle peut se calcifier et s'ouvrir mal : c'est la sténose aortique. Le cœur doit pousser plus fort.",
+     "Le TAVI remplace la valve sans ouvrir le thorax : une valve repliée est amenée par un cathéter, souvent par l'artère de l'aine, puis déployée dans l'ancienne valve.",
+     "Jusqu'ici, le geste est validé pour les sténoses sévères. Pour les sténoses modérées, on surveillait. PROGRESS teste si agir plus tôt change quelque chose."
+    ],
+    "explication": "Le fabricant, qui finance l'essai, présente le résultat comme une supériorité du TAVI. Il précise que l'usage de la valve Sapien 3 dans la sténose modérée reste expérimental.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1056/NEJMoa2607326",
+      "nom": "NEJM (DOI)"
+     },
+     {
+      "url": "https://www.cedars-sinai.org/newsroom/earlier-valve-replacement-benefits-some-patients-with-moderate-aortic-stenosis/",
+      "nom": "Cedars-Sinai"
+     },
+     {
+      "url": "https://citoday.com/news/edwards-progress-trial-shows-tavr-is-superior-to-clinical-surveillance-in-moderate-as",
+      "nom": "Cardiac Interventions Today"
+     },
+     {
+      "url": "https://finviz.com/news/413409/progress-trial-demonstrates-edwards-tavr-is-superior-to-clinical-surveillance-for-moderate-as-patients-with-at-risk-features",
+      "nom": "Edwards (communiqué)"
+     },
+     {
+      "url": "https://www.hmpgloballearningnetwork.com/site/cathlab/press-release/progress-tavr-improves-outcomes-patients-moderate-aortic-stenosis-and",
+      "nom": "Cath Lab Digest"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Raj Makkar",
+      "contexte": "Cedars-Sinai, investigateur principal pour les États-Unis",
+      "texte": "« Patients with moderate aortic stenosis can already have symptoms and signs that their heart is under strain. »",
+      "url": "https://www.cedars-sinai.org/newsroom/earlier-valve-replacement-benefits-some-patients-with-moderate-aortic-stenosis/",
+      "source": "Cedars-Sinai"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Philippe Généreux",
+      "contexte": "Atlantic Health Morristown Medical Center",
+      "texte": "« The PROGRESS trial validates TAVR as a treatment strategy for moderate AS patients with at-risk features »",
+      "url": "https://citoday.com/news/edwards-progress-trial-shows-tavr-is-superior-to-clinical-surveillance-in-moderate-as",
+      "source": "Cardiac Interventions Today"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "INDUSTRIE",
+      "qui": "Edwards Lifesciences",
+      "contexte": null,
+      "texte": "Le fabricant, qui finance l'essai, présente le résultat comme une supériorité du TAVI. Il précise que l'usage de la valve Sapien 3 dans la sténose modérée reste expérimental.",
+      "url": "https://finviz.com/news/413409/progress-trial-demonstrates-edwards-tavr-is-superior-to-clinical-surveillance-for-moderate-as-patients-with-at-risk-features",
+      "source": "communiqué Edwards"
+     }
+    ],
+    "apres": "Les participants seront suivis 10 ans pour savoir si la baisse des événements d'insuffisance cardiaque se traduit par une meilleure survie, et pour étudier la durabilité des valves. L'usage de la valve dans cette indication reste à autoriser.",
+    "change": "Pas encore de changement de pratique : les auteurs rappellent que les résultats ne signifient pas que tous les patients atteints de sténose aortique modérée doivent recevoir un TAVI.",
+    "credit": {
+     "auteur": "Stif Komar",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Aortic_Karboniks-1_bileafter_prosthetic_heart_valve.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Giredestrant : date limite de décision de la FDA pour le cancer du sein hormonodépendant, à un stade précoce."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "57 %",
+   "texte": "des patients du groupe surveillance de PROGRESS ont finalement eu un remplacement de valve dans les deux ans."
+  },
+  "lexique": [
+   {
+    "terme": "Sténose aortique",
+    "definition": "Un rétrécissement de la valve aortique, par où le sang quitte le cœur. Elle est dite modérée ou sévère selon l'ouverture de la valve et la vitesse du sang."
+   },
+   {
+    "terme": "TAVI (ou TAVR)",
+    "definition": "Remplacement de la valve aortique par cathéter, sans ouvrir le thorax."
+   },
+   {
+    "terme": "Critère composite",
+    "definition": "Un résultat qui regroupe plusieurs événements (ici : décès ou insuffisance cardiaque). Il augmente le nombre d'événements comptés, mais chaque événement n'a pas le même poids."
+   },
+   {
+    "terme": "Méta-analyse en réseau",
+    "definition": "Une analyse qui combine de nombreux essais pour comparer plusieurs traitements, même quand ils n'ont pas été testés directement l'un contre l'autre."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'essai PROGRESS, plus de la moitié des patients du groupe « surveillance » ont fini par recevoir une valve aortique dans les deux ans.",
+   "reponse": true,
+   "explication": "C'est vrai : 57 % des patients du groupe surveillance ont eu un remplacement valvulaire différé en deux ans, selon les résultats présentés à TCT 2026 et publiés dans le NEJM."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-11-05",
+  "minutes": 8,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "PLATEFORMES",
+    "titre": "Google : sans IA activée, plus de recherche sur les comptes d'élèves",
+    "court": "Google : l'IA ou plus de recherche pour les élèves",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Byrd_Chromebooks_%2833378719486%29.jpg/1280px-Byrd_Chromebooks_%2833378719486%29.jpg",
+    "legende": "Des élèves travaillent sur des Chromebook en classe",
+    "chapeau": "Le 3 novembre, Google annonce que Gemini, Gemini Notebook, Gemini dans Classroom et Google Search seront entièrement désactivés sur les comptes d'élèves de la maternelle à la terminale (« K-12 », aux États-Unis) tant que les administrateurs des écoles ne les activent pas.",
+    "eclairage": "Pourquoi Search est-il concerné ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "produits mis sur « off »"
+     },
+     {
+      "valeur": "3 nov.",
+      "legende": "annonce de Google"
+     },
+     {
+      "valeur": "K-12",
+      "legende": "comptes élèves, maternelle à terminale"
+     }
+    ],
+    "passe": "Le 3 novembre, Google annonce que Gemini, Gemini Notebook, Gemini dans Classroom et Google Search seront entièrement désactivés sur les comptes d'élèves de la maternelle à la terminale (« K-12 », aux États-Unis) tant que les administrateurs des écoles ne les activent pas. Le groupe dit avoir consulté écoles, enseignants, chercheurs et responsables politiques, et précisera le calendrier aux écoles « dans les prochains mois ». Selon Education Week, une recherche classique sans résumé généré par IA ne sera pas proposée : une école qui veut l'IA éteinte doit renoncer à Search. Google présente en parallèle « Guided Learning », un mode qui guide l'élève pas à pas au lieu de donner la réponse : disponible dans Classroom dès le 3 novembre, il sera testé dans Search dans des écoles américaines « plus tard ce mois-ci ». L'annonce a déclenché des critiques d'élus américains, que Google a tenté d'apaiser en précisant sur X que chaque outil peut être activé séparément, selon TechCrunch.",
+    "points": [
+     "Search n'est plus seulement une liste de liens. Google y affiche des résumés rédigés par un modèle d'IA, qui répondent à la question avant même que l'élève ouvre un site.",
+     "Le souci pédagogique. Si la réponse arrive toute faite, l'élève peut sauter l'étape de réflexion. C'est ce que Google dit vouloir corriger avec « Guided Learning » : des questions plutôt qu'une réponse finale.",
+     "Annonce ou démontré ? Google affirme que Guided Learning produit « des gains d'apprentissage mesurables » : ces résultats sont ceux de l'entreprise, aucune évaluation indépendante n'est citée dans les sources."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "nom": "Google (blog officiel)"
+     },
+     {
+      "url": "https://www.edweek.org/technology/googles-new-rules-hand-schools-hard-choices-about-ai-and-search/2026/11",
+      "nom": "Education Week"
+     },
+     {
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "nom": "TechCrunch"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Chris Phillips",
+      "contexte": "vice-président éducation de Google",
+      "texte": "Objectif affiché, en anglais : « Our goal is simple: provide school leaders the control and confidence to use AI products in classrooms as they see fit. »",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "source": "blog Google"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ÉLUS",
+      "qui": "Bernie Sanders",
+      "contexte": "sénateur américain",
+      "texte": "Il qualifie la mesure d'« extortion » (« extorsion »), selon Education Week.",
+      "url": "https://www.edweek.org/technology/googles-new-rules-hand-schools-hard-choices-about-ai-and-search/2026/11",
+      "source": "Education Week"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "ANCIENNE RÉGULATRICE",
+      "qui": "Lina Khan",
+      "contexte": "ex-présidente de la FTC",
+      "texte": "Selon Education Week, elle écrit que Google « is using its search monopoly to coerce schools into adopting AI. »",
+      "url": "https://www.edweek.org/technology/googles-new-rules-hand-schools-hard-choices-about-ai-and-search/2026/11",
+      "source": "Education Week"
+     }
+    ],
+    "apres": "Test de Guided Learning dans Search dans des écoles américaines en novembre, puis élargissement « dans les prochains mois » selon Google.",
+    "change": "Pour une école américaine, le choix devient binaire : activer l'IA avec Search, ou ne plus proposer Search aux élèves. Le calendrier précis n'est pas publié ; les détails doivent être communiqués aux écoles « dans les prochains mois ».",
+    "credit": {
+     "auteur": "Virginia Department of Education",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Byrd_Chromebooks_(33378719486).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "IA",
+    "titre": "Uber : 4 courses et 500 commandes Uber Eats passées par des agents IA",
+    "court": "Uber : 4 courses réservées par des agents IA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Taxi_stand%2C_Louisville_Muhammad_Ali_International_Airport.jpg/1280px-Taxi_stand%2C_Louisville_Muhammad_Ali_International_Airport.jpg",
+    "legende": "Zone de prise en charge dans un aéroport américain (illustration)",
+    "chapeau": "Mercredi 4 novembre, lors de la présentation des résultats du troisième trimestre, Uber a donné un chiffre sur l'usage des agents IA, ces assistants qui exécutent une tâche à la place de l'utilisateur.",
+    "eclairage": "Un agent IA, c'est quoi, et pourquoi si peu de courses ?",
+    "chiffres": [
+     {
+      "valeur": "4",
+      "legende": "courses via des agents"
+     },
+     {
+      "valeur": "500",
+      "legende": "commandes Eats via des agents"
+     },
+     {
+      "valeur": "320 M",
+      "legende": "trajets et commandes sur la semaine"
+     }
+    ],
+    "passe": "Mercredi 4 novembre, lors de la présentation des résultats du troisième trimestre, Uber a donné un chiffre sur l'usage des agents IA, ces assistants qui exécutent une tâche à la place de l'utilisateur. Pendant la semaine d'Halloween, l'une des plus chargées de l'année, la plateforme a traité environ 320 millions de trajets et de commandes. Les agents IA ont passé environ 500 commandes sur Uber Eats et 4 courses, a indiqué le directeur financier, Balaji Krishnamurthy. Le directeur général, Dara Khosrowshahi, parle d'une traction « très, très limitée » à ce stade. Sur le trimestre, Uber déclare 4,1 milliards de trajets, en hausse de 16 % sur un an. Ces chiffres sont ceux de l'entreprise, énoncés à l'oral lors de la conférence aux analystes, et aucun audit externe n'est mentionné.",
+    "points": [
+     "Un chatbot répond, un agent agit. Un agent reçoit un objectif (« commande-moi une voiture pour 18 h »), enchaîne plusieurs étapes et déclenche l'action sur un service.",
+     "Pourquoi l'écart ? Commander directement dans l'application prend en moyenne 50 secondes pour une course et 90 secondes pour recommander un plat, selon le directeur général cité par TechCrunch. L'agent ne fait pas forcément gagner de temps.",
+     "Ordre de grandeur. 4 courses sur environ 320 millions de trajets et de commandes : la part des agents est très inférieure à un millionième. C'est une photographie d'une semaine, pas une tendance."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/uber-uber-q3-2026-earnings-call-transcript/",
+      "nom": "Transcription de la conférence (Motley Fool)"
+     },
+     {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm",
+      "nom": "Uber, communiqué au régulateur américain (sec.gov)"
+     },
+     {
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "nom": "TechCrunch"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#5b21b6",
+      "parti": "ENTREPRISE",
+      "qui": "Dara Khosrowshahi",
+      "contexte": "directeur général d'Uber",
+      "texte": "Sur les volumes, en anglais : « very, very early and very limited traction that we are seeing so far » (« très, très tôt et une traction très limitée jusqu'ici »).",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/uber-uber-q3-2026-earnings-call-transcript/",
+      "source": "transcription de la conférence"
+     }
+    ],
+    "apres": "Uber dit poursuivre ses discussions avec des agents tiers et développer ses propres assistants. Aucune date n'est communiquée.",
+    "change": "Aujourd'hui, pour un utilisateur, réserver soi-même reste le geste dominant. Pour les entreprises de services, les agents sont encore un canal marginal, mais elles discutent déjà des conditions avec les éditeurs d'IA.",
+    "credit": {
+     "auteur": "Mxn",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Taxi_stand,_Louisville_Muhammad_Ali_International_Airport.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Fermeture du service en ligne de Conductor, selon TechCrunch."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Agent IA",
+    "definition": "Un programme d'intelligence artificielle qui enchaîne des étapes et agit à la place de l'utilisateur, au lieu de seulement répondre."
+   },
+   {
+    "terme": "K-12",
+    "definition": "Expression américaine pour l'enseignement de la maternelle à la terminale."
+   },
+   {
+    "terme": "Guided Learning (apprentissage guidé)",
+    "definition": "Mode de Google où l'IA pose des questions et guide l'élève pas à pas plutôt que de donner la réponse."
+   },
+   {
+    "terme": "Traction",
+    "definition": "Mot de la finance pour dire à quel point un produit est adopté par ses utilisateurs."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon Uber, seules 4 courses ont été commandées par des agents IA pendant la semaine d'Halloween, sur environ 320 millions de trajets et de commandes.",
+   "reponse": true,
+   "explication": "Vrai : le directeur financier d'Uber l'a indiqué lors de la présentation des résultats du 4 novembre. Pour Uber Eats, environ 500 commandes sont venues d'agents IA."
   }
  },
  {
