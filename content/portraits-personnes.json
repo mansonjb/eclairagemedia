@@ -1816,5 +1816,23 @@
  "Lip-Bu Tan": null,
  "Jay Goldberg": null,
  "Marchés": null,
- "Analyse du projet": null
+ "Analyse du projet": null,
+ "Schroders": null,
+ "Arne Lohmann Rasmussen": null,
+ "Dara Khosrowshahi": null,
+ "Balaji Krishnamurthy": null,
+ "Matthias Renault": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20260113-P1310692_Renault_Matthias_Wikipedia.jpg/250px-20260113-P1310692_Renault_Matthias_Wikipedia.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "20260113-P1310692_Renault_Matthias_Wikipedia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20260113-P1310692_Renault_Matthias_Wikipedia.jpg",
+  "auteur": "TrisHR",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Frédéric Souillot": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Fr%C3%A9d%C3%A9ric_Souillot_1_IMG_09352_%28cropped%29.jpg/250px-Fr%C3%A9d%C3%A9ric_Souillot_1_IMG_09352_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Frédéric_Souillot_1_IMG_09352_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9d%C3%A9ric_Souillot_1_IMG_09352_(cropped).jpg",
+  "auteur": "William Jexpire",
+  "licence": "CC BY-SA 4.0"
+ }
 }

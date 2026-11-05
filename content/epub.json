@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-05",
+  "url": "/epub/eclairage-2026-11-05.epub",
+  "txt": "/epub/eclairage-2026-11-05.txt",
+  "taille": 187082,
+  "rubriques": [
+   "politique",
+   "economie"
+  ],
+  "sujets": 6,
+  "empreinte": "2c9de34168c3"
+ },
+ {
   "date": "2026-11-02",
   "url": "/epub/eclairage-2026-11-02.epub",
   "txt": "/epub/eclairage-2026-11-02.txt",

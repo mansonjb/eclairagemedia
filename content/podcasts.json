@@ -1,5 +1,166 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-05",
+  "url": "/podcasts/politique-2026-11-05.mp3",
+  "taille": 2537893,
+  "duree": 211,
+  "titre": "Éclairage politique, jeudi 5 novembre 2026",
+  "titre_episode": "Budget rejeté, grève et Smic : l'essentiel du jeudi 5 novembre",
+  "description": "Ce jeudi 5 novembre 2026, Léa et Paul reprennent 3 sujets.\n• Argent public : l'Assemblée rejette la partie recettes du budget 2027 par 458 voix contre 0, et ce qui se passe ensuite.\n• Social : la journée de grève et de manifestations de l'intersyndicale, avec les lycéens et les étudiants.\n• Pouvoir d'achat : une hausse du Smic avant le 1er janvier est à l'étude, selon le ministre de l'Économie.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Budget 2027 : l'Assemblée rejette la partie recettes par 458 voix contre 0"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Grève du 5 novembre : syndicats, lycéens et étudiants se mobilisent"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Smic : une hausse avant le 1er janvier « sur la table », dit le ministre"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, nous sommes le jeudi cinq novembre. Bienvenue dans Éclairage politique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa. Au programme : le budget de l'État rejeté par les députés, une journée de grève et de manifestations, et le Smic, qui pourrait augmenter avant janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par le budget. Quatre cent cinquante-huit voix contre, zéro pour. Ça, c'est le résultat d'hier soir à l'Assemblée nationale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Mercredi quatre novembre, les députés ont rejeté la première partie du budget de l'État pour deux mille vingt-sept, celle qui fixe les recettes. Il y a eu deux abstentions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, tous les groupes ont voté contre ? Même ceux qui soutiennent le gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'après LCP, le texte avait été tellement modifié au fil des votes qu'il ne convenait plus à personne. L'examen avait commencé le treize octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et concrètement, qu'est-ce qui se passe maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les dépenses ne peuvent pas être examinées tant que les recettes ne sont pas adoptées. Donc le budget s'arrête à l'Assemblée, et le Sénat reçoit la version initiale du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, tout ce que les députés avaient voté disparaît."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Le ministre des Comptes publics, David Amiel, a d'ailleurs chiffré ce qu'aurait donné le texte des députés : un déficit de l'État de cent soixante-dix-sept milliards d'euros, soit vingt milliards sept cents millions de plus que le projet du gouvernement. La gauche conteste ce calcul."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et si le Parlement n'arrive pas à voter un budget ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre peut utiliser l'article quarante-neuf trois, au risque d'une motion de censure. Ou faire appliquer le budget par ordonnances, si le Parlement ne s'est pas prononcé dans les soixante-dix jours. Cette année, l'échéance tombe le dix-sept décembre, à minuit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la partie recettes rejetée, le Sénat repart du texte du gouvernement, et la date clé est le dix-sept décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Aujourd'hui, c'est jeudi de mobilisation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Une journée de grève et de manifestations, dans le privé comme dans le public. L'appel est parti début octobre de la CFDT, de la CGT, de FO, de l'Unsa et de la FSU. Ensuite, tous les syndicats s'y sont ralliés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est une première, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AFP, c'est le premier appel depuis la rentrée qui concerne à la fois le privé et le public. Le vingt-neuf septembre, la journée ne visait que la fonction publique."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les lycéens, où en sont-ils ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lycéens et étudiants sont mobilisés depuis la mi-septembre, et ils se joignent à la journée. Les gilets jaunes aussi, qui parlent d'un cinq novembre du peuple."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce que demandent les syndicats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une revalorisation du Smic et des salaires, la défense des services publics, de meilleures conditions d'études pour les jeunes. Et ils dénoncent le projet de budget. Sophie Binet, pour la CGT, annonce une grande journée de convergence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'ampleur ? On sait combien de personnes vont faire grève ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas encore. L'AFP indique que le suivi de la grève dans les entreprises reste incertain. Un ministre reconnaît, auprès de franceinfo, que les marges budgétaires du gouvernement sont très faibles."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une journée interprofessionnelle, des lycéens et des étudiants dans la rue, et un bilan chiffré qu'on ne connaîtra qu'ensuite."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Justement, le troisième sujet touche au pouvoir d'achat. Le Smic."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi, sur BFMTV, le ministre de l'Économie, Roland Lescure, a dit que les deux sujets sont sur la table : une hausse avant le premier janvier, et peut-être au-dessus de l'inflation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quelles sont les règles aujourd'hui ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Smic est à douze euros trente et un bruts de l'heure. Chaque premier janvier, il est réévalué selon l'inflation. Et le gouvernement peut décider un coup de pouce en plus. Le dernier remonte à deux mille douze, selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et du côté des syndicats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La CFDT demande cent euros nets de plus par mois, la CGT environ cent cinquante. Rien n'est décidé. Le ministre pense qu'on pourra annoncer quelque chose dans les jours qui viennent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, une annonce possible dès cette semaine, mais pas de décision à ce stade."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. Pour les entreprises, une hausse du Smic augmente le coût du travail, donc le gouvernement consulte les syndicats et les employeurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "C'est tout pour aujourd'hui. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-11-02",
   "url": "/podcasts/essentiel-2026-11-02.mp3",
