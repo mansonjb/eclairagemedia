@@ -1,5 +1,428 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-06",
+  "url": "/podcasts/essentiel-2026-11-06.mp3",
+  "taille": 7005772,
+  "duree": 584,
+  "titre": "Éclairage, l'essentiel du vendredi 6 novembre 2026",
+  "titre_episode": "Grève et conférence sociale, Nasdaq en correction, centres de données : l'essentiel du vendredi 6 novembre",
+  "description": "Ce vendredi 6 novembre, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : grève du 5 novembre et conférence sociale\n• Politique : budget 2027 rejeté par l'Assemblée\n• Économie : le Nasdaq chute de 5,52 %\n• Économie : le nouveau TGV entre en service\n• Santé : réévaluation européenne du Deanxit\n• Santé : immunoglobulines et réactions allergiques\n• Alimentation : le bio repart côté ventes\n• IA et tech : les électeurs américains et les centres de données\n• IA et tech : OpenAI et un modèle pour chercheurs en sécurité\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Grève du 5 novembre : conférence sociale convoquée lundi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget 2027 : rejeté par l'Assemblée, le texte part au Sénat"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Wall Street : le Nasdaq chute de 5,52 % et entre en correction"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Alstom : le nouveau TGV entre en service avec deux ans et demi de retard"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Deanxit : l'Europe réévalue la sécurité de ce médicament"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Immunoglobulines : l'Europe enquête sur des réactions allergiques"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Bio : la consommation repart, la production n'a pas encore suivi"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Centres de données : les électeurs américains disent non aux projets locaux"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "OpenAI : un modèle réservé aux chercheurs en sécurité pour trouver des failles"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce vendredi six novembre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, IA et tech. Neuf sujets, deux lectures rapides, et on commence par la rue."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Jeudi, cinq cent soixante-quinze mille manifestants selon le ministère de l'Intérieur. Un million six cent mille selon la CGT. Même journée, deux chiffres."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, c'est la grève du cinq novembre, sur les salaires et le pouvoir d'achat. Le ministère compte soixante-cinq mille personnes à Paris, quatre cent quarante-huit interpellations et cinquante-trois membres des forces de l'ordre blessés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le gouvernement a réagi vite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dès la soirée. Matignon convoque une conférence sociale lundi neuf novembre, avec les syndicats et le patronat, pour répondre aux questions de salaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une conférence sociale, concrètement, ça décide quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rien par elle-même. Elle ne vote pas : elle prépare des décisions que le gouvernement ou le Parlement prendront ensuite. Le ministre du Travail, Jean-Pierre Farandou, doit finaliser les concertations d'ici dimanche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Côté revendications, la CFDT demande cent euros nets de plus pour le Smic, le salaire minimum. La CGT réclame dix pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et Farandou a dit qu'une hausse du Smic n'est « pas tabou », sous réserve de son effet sur l'emploi. À retenir : lundi, le gouvernement doit dire s'il ouvre la porte à un coup de pouce du Smic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : l'Assemblée nationale. Quatre cent cinquante-huit voix contre, zéro pour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le vote sur la partie recettes du budget de l'État pour deux mille vingt-sept, mercredi quatre novembre. Aucun groupe n'a voté pour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et ça veut dire quoi pour la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce rejet entraîne celui de tout le texte, qui part au Sénat dans sa version initiale, sans les amendements des députés. Le budget de la Sécurité sociale avait déjà été rejeté le vingt-trois octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le calendrier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sécurité sociale au Sénat du neuf au dix-huit novembre, budget de l'État du vingt novembre au neuf décembre. Ensuite, une commission mixte de sept députés et sept sénateurs cherchera un compromis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et jeudi, Jordan Bardella, du Rassemblement national, a demandé le vote en urgence d'une « règle d'or » budgétaire dans la Constitution."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bruno Retailleau, pour Les Républicains, soutient aussi l'idée. Le gouvernement, lui, fixe une ligne rouge : un déficit de cinq pour cent en deux mille vingt-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et si aucun accord ne vient ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois options : un compromis suivi du 49.3, c'est-à-dire une adoption sans vote, des ordonnances, ce qui serait une première, ou une loi spéciale qui prolonge le budget de deux mille vingt-six. Sans majorité, le budget passe par l'une de ces voies."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une séance qui a secoué New York. Moins cinq virgule cinquante-deux pour cent pour le Nasdaq."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi cinq novembre, c'est sa plus forte baisse depuis avril deux mille vingt-cinq, selon l'AFP. Le S&P cinq cents perd quatre virgule trente-cinq pour cent, le Dow Jones trois virgule quarante-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le Nasdaq entre en « correction », ce terme revient souvent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une correction, c'est quand un indice perd plus de dix pour cent par rapport à son plus haut récent. Ici, son sommet date de début octobre. C'est un repère de vocabulaire, pas une prévision."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui a le plus souffert ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les puces électroniques. Nvidia a perdu huit virgule quatre-vingt-onze pour cent, environ quatre cents milliards de dollars de capitalisation. Broadcom, Intel, Micron et AMD ont reculé de plus de dix pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatre cents milliards en une séance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AFP, oui. Les investisseurs redoutent un ralentissement des centres de données après la victoire des démocrates aux élections de mi-mandat, plusieurs villes américaines ayant adopté des restrictions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et en Europe ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les Bourses avaient fini avant la chute : le CAC quarante a gagné zéro virgule trente-quatre pour cent, à huit mille deux cent cinq points."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ASML, Soitec et Siltronic ont reculé entre six et seize pour cent. Retenez que ces baisses reflètent des anticipations, qui peuvent changer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une bonne nouvelle ferroviaire, maintenant. Le nouveau TGV entre en service, avec deux ans et demi de retard."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le TGV M, que son constructeur Alstom appelle Avelia Horizon, fait son premier voyage Paris-Marseille avec des passagers ce vendredi. Départ gare de Lyon à neuf heures cinquante-six, arrivée à treize heures cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec du beau monde à bord."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jean Castex, président de la SNCF, et le ministre des Transports Philippe Tabarot. Selon l'AFP, ce train devait circuler pour les Jeux olympiques de deux mille vingt-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il a été repoussé plusieurs fois, à cause de désaccords entre constructeur et exploitant et d'une série d'essais."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté voyageurs, qu'est-ce qui change ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cent soixante rames sont commandées depuis deux mille dix-huit. La SNCF annonce vingt pour cent d'énergie en moins. Sur Paris-Marseille, cinq cent soixante-treize places selon l'AFP, contre cinq cents actuellement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un détail : la date de l'exploitation commerciale varie selon les sources."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'AFP parle d'un premier service vendredi, un autre média d'une exploitation à partir du neuf novembre. À retenir : le train arrive, et le déploiement s'étalera sur une dizaine d'années."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Passons à la santé. Un médicament dans le viseur de l'Europe : le Deanxit."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le trente octobre, l'Agence européenne des médicaments a annoncé la réévaluation de sa sécurité. Il associe un antipsychotique, le flupentixol, et un antidépresseur, le mélitracène, dans la dépression et l'anxiété."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui pose problème ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Des signalements d'effets neurologiques et psychiatriques graves : tremblements, raideurs, mouvements involontaires, troubles de la mémoire. Selon l'agence, les symptômes ont parfois persisté après l'arrêt du traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien de cas ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Reuters, l'agence belge a reçu vingt-trois signalements graves entre deux mille vingt-quatre et deux mille vingt-six. Mais attention : un signalement spontané dit qu'un effet a été observé chez quelqu'un qui prenait le médicament, pas qu'il en est la cause."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, c'est un signal, pas une preuve."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Et en France, l'ANSM précise que cette association n'a pas d'autorisation de mise sur le marché. Le flupentixol seul n'est pas concerné."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la suite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le comité décidera de maintenir, modifier, suspendre ou retirer les autorisations. Une conclusion est attendue d'ici mars deux mille vingt-sept, selon Reuters. Aucun arrêt n'est demandé à ce stade : en cas de doute, on parle à son médecin ou à son pharmacien."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième dossier de santé, même réunion européenne : les immunoglobulines."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce sont des anticorps extraits du plasma de donneurs. Ils servent à prévenir des infections chez des personnes qui en manquent, et à traiter certaines maladies auto-immunes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le problème ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une hausse de signalements de réactions allergiques liées à certains lots. Des éruptions, des démangeaisons, mais aussi des formes graves : choc anaphylactique, gonflement rapide du visage ou de la gorge."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On sait pourquoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. L'agence européenne dit que la cause de ces regroupements n'est pas établie. Des lots de Flebogamma DIF, Yimmugo et Gamunex ont été retirés dans certains pays. En France, des rappels de Gamunex en mai et de Flebogamma DIF en mai et septembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc la revue couvre toutes les voies d'administration."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, veine, peau et muscle, puisqu'on ignore si d'autres produits sont touchés. Les patients doivent consulter sans attendre en cas d'éruption, de vertiges, de palpitations ou de gêne respiratoire. Mais l'agence n'a pas demandé d'arrêter les traitements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On change d'assiette. Une nouvelle plus encourageante pour le bio : plus quatre virgule huit pour cent de ventes en valeur au premier semestre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'Agence Bio, relayée par l'AFP. Plus neuf virgule trois pour cent en magasins spécialisés, plus deux pour cent en grande distribution, qui réalise environ la moitié des achats."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté producteurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "De janvier à août, les conversions vers le bio progressent de quatorze pour cent, et les arrêts d'activité reculent de treize pour cent. Solde : six cent quatre-vingt-sept producteurs en plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors pourquoi le titre dit que la production n'a pas encore suivi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce qu'une ferme ne devient pas bio du jour au lendemain. Pendant la conversion, elle suit le cahier des charges sans vendre au prix du bio. Un éleveur laitier attend deux ans avant de vendre du lait certifié."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui fait un décalage entre l'offre et la demande."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Le bio représente environ dix pour cent des terres agricoles, pour une cible de vingt et un pour cent en deux mille trente. Le président de l'Agence Bio estime d'ailleurs cette cible trop ambitieuse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'année entière ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas encore connue. Un média spécialisé prévient que le résultat pourrait être moins bon, après un été difficile. Retenez : la demande repart, la production a besoin de temps."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Place à l'IA et à la tech, et le sujet rejoint celui de Wall Street. Quarante et une mesures locales sur les centres de données soumises aux électeurs américains, le trois novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans dix États, selon CNBC, qui cite Ballotpedia. Vingt et une rien qu'en Ohio. Et les électeurs ont voté contre dans toutes les mesures sauf une."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, toutes sauf une ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. L'exception, à Harwood, dans le Dakota du Nord : les électeurs ont refusé qu'un examen supplémentaire des projets industriels soit ajouté. Des candidats démocrates favorables à un moratoire ou à un encadrement l'ont emporté, en Ohio, au Texas, dans le Wisconsin et en Géorgie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et l'importance de ce sujet dans le vote ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans un sondage CNBC, cinquante-six pour cent des électeurs disent que les centres de données ont pesé de façon cruciale ou majeure."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des entreprises ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le cinq novembre, la présidente de Meta, Dina Powell McCormick, a déclaré que ces résultats rendront plus difficile la construction de centres de données."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Meta en exploite dans vingt-trois États. Elle dit compter payer sa propre électricité, ce que les sources ne permettent pas de vérifier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : l'accord local devient une étape aussi décisive que le permis, sans calendrier précis pour la suite."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet, en cybersécurité : OpenAI et un modèle réservé aux chercheurs."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'entreprise développe un programme nommé Daybreak. Daybreak Red, le niveau le plus élevé, s'adresse aux chercheurs qui testent des attaques de façon autorisée. Daybreak Blue, aux défenseurs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le modèle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "GPT-cinq-point-six-Cyber, lancé le dix août. Il refuse moins de requêtes sensibles : environ quatre-vingt-quinze pour cent traitées, contre cinquante-sept pour cent pour le précédent, sur un test interne d'OpenAI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi vouloir un modèle qui refuse moins ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce qu'un chercheur autorisé doit tester une faille pour la corriger, et les garde-fous du grand public l'en empêchent. L'accès exige donc une vérification d'identité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du nouveau le cinq novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon TechCrunch, OpenAI veut étendre Daybreak à des organisations de toutes tailles et aux mainteneurs de logiciels libres, avec une initiative d'un milliard de dollars pour les défenseurs d'infrastructures critiques."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un bémol quand même."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui : aucune évaluation indépendante des performances annoncées n'est citée. Et une faille liée à Ubuntu, trouvée avec un modèle d'OpenAI selon un chercheur, repose sur une seule source. À retenir : ce sont des chiffres de l'entreprise, à confirmer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce vendredi six novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Merci de nous avoir écoutés. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Bonne journée, et à bientôt."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-06",
   "url": "/podcasts/politique-2026-11-06.mp3",
