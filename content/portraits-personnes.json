@@ -1849,5 +1849,20 @@
   "auteur": "Anderseidesvik",
   "licence": "CC BY-SA 4.0"
  },
- "Lina Khan": null
+ "Lina Khan": null,
+ "Philippe Balard": null,
+ "Stéphane Peu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/St%C3%A9phane_Peu.jpg/250px-St%C3%A9phane_Peu.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Stéphane_Peu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:St%C3%A9phane_Peu.jpg",
+  "auteur": "PCF - Parti communiste français (PCF)",
+  "licence": "CC BY 3.0"
+ },
+ "Yannick Monnet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Yannick_Monnet_%C3%A0_la_F%C3%AAte_de_l%27Humanit%C3%A9_2023.jpg/250px-Yannick_Monnet_%C3%A0_la_F%C3%AAte_de_l%27Humanit%C3%A9_2023.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Yannick_Monnet_à_la_Fête_de_l'Humanité_2023.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yannick_Monnet_%C3%A0_la_F%C3%AAte_de_l'Humanit%C3%A9_2023.jpg",
+  "auteur": "Pamputt",
+  "licence": "CC BY-SA 4.0"
+ }
 }

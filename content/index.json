@@ -1,5 +1,359 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-06",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIAL",
+    "titre": "Grève du 5 novembre : conférence sociale convoquée lundi",
+    "court": "Grève : une conférence sociale lundi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paris%2C_1er_mai_2019_(47706529752).jpg/1280px-Paris%2C_1er_mai_2019_(47706529752).jpg",
+    "legende": "Un cortège de la CGT à Paris, le 1er mai 2019 (illustration)",
+    "chapeau": "Jeudi 5 novembre, les syndicats ont appelé à une journée de grève et de manifestations sur les salaires et le pouvoir d'achat. Le ministère de l'Intérieur a compté près de 600 000 manifestants à 17 heures, puis 575 000 selon le chiffrage définitif, dont 65 000 à Paris ; la CGT en revendique près de 1,6 million.",
+    "eclairage": "Qu'est-ce qu'une conférence sociale ?",
+    "chiffres": [
+     {
+      "valeur": "575 k",
+      "legende": "manifestants selon les autorités"
+     },
+     {
+      "valeur": "1,6 M",
+      "legende": "manifestants selon la CGT"
+     },
+     {
+      "valeur": "448",
+      "legende": "interpellations"
+     }
+    ],
+    "passe": "Jeudi 5 novembre, les syndicats ont appelé à une journée de grève et de manifestations sur les salaires et le pouvoir d'achat. Le ministère de l'Intérieur a compté près de 600 000 manifestants à 17 heures, puis 575 000 selon le chiffrage définitif, dont 65 000 à Paris ; la CGT en revendique près de 1,6 million. Le ministère fait état de 448 interpellations et de 53 membres des forces de l'ordre blessés, et juge que les cortèges déclarés se sont globalement bien déroulés. Dans la soirée, Matignon a annoncé une « conférence sociale » avec les organisations syndicales et patronales lundi 9 novembre, afin « d'apporter des réponses aux questions de pouvoir d'achat et de salaires ». Le ministre du Travail, Jean-Pierre Farandou, doit finaliser d'ici dimanche les concertations en cours. Les chiffres de participation divergent fortement selon les sources.",
+    "points": [],
+    "explication": "C'est une réunion organisée par le gouvernement avec les syndicats de salariés et les organisations patronales (Medef, U2P, Entrepreneurs) pour discuter d'un sujet commun, ici les salaires. Elle ne vote rien : elle prépare des décisions que le gouvernement ou le Parlement prendront ensuite. Le Smic est le salaire minimum légal ; un « coup de pouce » est une hausse décidée par le gouvernement en plus de la revalorisation automatique liée à l'inflation. La CFDT demande 100 euros nets de plus, la CGT 10 % d'augmentation.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-convoque-une-conference-sociale-apres-une-journee-de-colere-sociale-68f8c3351ea9fcafb4a769ddb01c28f3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/greve/matignon-annonce-la-tenue-d-une-conference-sociale-lundi-en-presence-des-syndicats-et-du-patronat_8269589.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
+      "nom": "France 24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SYNDICATS",
+      "qui": "Marylise Léon",
+      "contexte": "secrétaire générale de la CFDT",
+      "texte": "« Il y a une forte attente sur un véritable geste significatif »",
+      "url": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SYNDICATS",
+      "qui": "Sophie Binet",
+      "contexte": "secrétaire générale de la CGT",
+      "texte": "« La France est le pays européen qui a le moins augmenté son salaire minimum depuis dix ans. »",
+      "url": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Jean-Pierre Farandou",
+      "contexte": "ministre du Travail",
+      "texte": "Il a indiqué qu'une hausse du Smic n'est « pas tabou », sous réserve de son effet sur l'emploi. Lui et les partenaires sociaux ont posé, mardi, « les bases d'un logiciel ».",
+      "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "ÉCOLOGISTES",
+      "qui": "Marine Tondelier",
+      "contexte": "secrétaire nationale",
+      "texte": "« Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous »",
+      "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-5-novembre-emmanuel-macron-finit-son-mandat-comme-il-a-gouverne-cest-a-dire-seul-contre-tous-estime-marine-tondelier",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Conférence sociale à Matignon lundi 9 novembre. L'Unef appelle à poursuivre la mobilisation le 7 novembre.",
+    "change": "Lundi, le gouvernement doit dire s'il ouvre la porte à un coup de pouce du Smic, au dégel du point d'indice des fonctionnaires ou à d'autres mesures sur les salaires.",
+    "credit": {
+     "auteur": "Olivier Ortelpa",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Paris,_1er_mai_2019_(47706529752).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ARGENT PUBLIC",
+    "titre": "Budget 2027 : rejeté par l'Assemblée, le texte part au Sénat",
+    "court": "Budget : rejeté, il part au Sénat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Palais_du_Luxembourg_-_S%C3%A9nat.jpg/1280px-Palais_du_Luxembourg_-_S%C3%A9nat.jpg",
+    "legende": "Le Palais du Luxembourg, siège du Sénat, où part le budget (illustration)",
+    "chapeau": "Mercredi 4 novembre, l'Assemblée nationale a rejeté la partie recettes du projet de loi de finances (PLF) pour 2027 par 458 voix contre 0 : aucun groupe n'a voté pour. Ce rejet entraîne celui de l'ensemble du texte, qui part au Sénat dans sa version initiale, sans les amendements adoptés par les députés.",
+    "eclairage": "Et maintenant, que peut faire le gouvernement ?",
+    "chiffres": [
+     {
+      "valeur": "458",
+      "legende": "voix contre, 0 pour"
+     },
+     {
+      "valeur": "20/11",
+      "legende": "PLF au Sénat"
+     },
+     {
+      "valeur": "5 %",
+      "legende": "déficit visé en 2027"
+     }
+    ],
+    "passe": "Mercredi 4 novembre, l'Assemblée nationale a rejeté la partie recettes du projet de loi de finances (PLF) pour 2027 par 458 voix contre 0 : aucun groupe n'a voté pour. Ce rejet entraîne celui de l'ensemble du texte, qui part au Sénat dans sa version initiale, sans les amendements adoptés par les députés. Le projet de budget de la Sécurité sociale (PLFSS) avait déjà été rejeté le 23 octobre. Le Sénat examinera le PLFSS du 9 au 18 novembre et le PLF du 20 novembre au 9 décembre. Une commission mixte paritaire de 7 députés et 7 sénateurs cherchera ensuite un compromis. Jeudi 5 novembre, Jordan Bardella (RN) a demandé le vote « en urgence » d'une « règle d'or » budgétaire dans la Constitution.",
+    "points": [],
+    "explication": "1. Négocier un compromis avec une force politique, puis engager le 49.3 (adoption sans vote, sauf motion de censure). 2. Attendre l'expiration des délais (26 novembre pour le PLFSS, 17 décembre pour le PLF) et agir par ordonnances, ce qui serait une première. 3. Une loi spéciale qui prolongerait le budget 2026. Réviser la Constitution, comme le propose Jordan Bardella, passe par l'article 89 : même texte voté par les deux assemblées, puis référendum ou majorité des trois cinquièmes du Congrès.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+      "nom": "Assemblée nationale"
+     },
+     {
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2027.html",
+      "nom": "Sénat"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
+      "nom": "France 24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Jordan Bardella",
+      "contexte": "président du parti",
+      "texte": "Il demande de « voter en urgence cette règle d'or »",
+      "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Bruno Retailleau",
+      "contexte": "président du parti",
+      "texte": "Il soutient aussi l'idée d'une règle d'or budgétaire et souhaite un référendum avant la fin de l'année.",
+      "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Philippe Balard",
+      "contexte": "député de l'Oise",
+      "texte": "« C'est un bazar sans nom. »",
+      "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Gouvernement",
+      "contexte": "ligne rouge",
+      "texte": "Il se dit à l'écoute des oppositions pour trouver un compromis et fixe comme ligne rouge un déficit de 5 % en 2027.",
+      "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html",
+      "source": "franceinfo"
+     }
+    ],
+    "apres": "Sénat : PLFSS du 9 au 18 novembre, PLF du 20 novembre au 9 décembre, puis commissions mixtes paritaires.",
+    "change": "3 ou par ordonnances, avec dans les deux derniers cas un risque de motion de censure.",
+    "credit": {
+     "auteur": "Nicolas Le Filous",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg_-_S%C3%A9nat.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ÉLECTIONS",
+    "titre": "Présidentielle : neuf députés du groupe GDR soutiennent Mélenchon",
+    "court": "Neuf députés GDR soutiennent Mélenchon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2022-01-19_21-07-06_meeting-M%C3%A9lenchon-Strasbourg.jpg/1280px-2022-01-19_21-07-06_meeting-M%C3%A9lenchon-Strasbourg.jpg",
+    "legende": "Jean-Luc Mélenchon lors d'un meeting à Strasbourg, en janvier 2022 (illustration)",
+    "chapeau": "Jeudi 5 novembre, neuf députés du groupe communiste et ultramarin (GDR) ont annoncé, dans une déclaration transmise à l'AFP, soutenir la candidature de Jean-Luc Mélenchon (LFI) à la présidentielle.",
+    "eclairage": "Un groupe parlementaire, ça sert à quoi ?",
+    "chiffres": [
+     {
+      "valeur": "9",
+      "legende": "députés signataires"
+     },
+     {
+      "valeur": "4",
+      "legende": "communistes sur 8"
+     },
+     {
+      "valeur": "5",
+      "legende": "élus ultramarins"
+     }
+    ],
+    "passe": "Jeudi 5 novembre, neuf députés du groupe communiste et ultramarin (GDR) ont annoncé, dans une déclaration transmise à l'AFP, soutenir la candidature de Jean-Luc Mélenchon (LFI) à la présidentielle. Parmi eux figurent quatre des huit députés communistes, dont le président du groupe, Stéphane Peu, et cinq élus ultramarins. Fabien Roussel, secrétaire national du PCF et candidat de son parti, n'a pas réagi : son entourage indique qu'aucune réaction n'est prévue pour l'instant. Le député communiste Yannick Monnet, qui soutient toujours Roussel, précise que cette décision n'est « en aucun cas une position de groupe ».",
+    "points": [],
+    "explication": "À l'Assemblée, un groupe réunit au moins 15 députés. Il donne du temps de parole, des places en commission et des moyens de fonctionnement. Le groupe GDR rassemble les communistes et des élus ultramarins. Un soutien individuel à un candidat à la présidentielle n'engage pas le groupe comme tel : chaque député garde sa liberté de choix. Yannick Monnet estime que le départ de trois députés entraînerait la disparition du groupe, faute d'atteindre le seuil.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-majorite-du-groupe-communiste-a-l-assemblee-apporte-son-soutien-a-jean-luc-melenchon-plutot-qu-a-fabien-roussel_8269403.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/la-majorite-du-groupe-communiste-a-l-assemblee-soutiendra-melenchon-a-la-presidentielle-afp-92c5a0ee59409750236a1151bc18cf503e695499",
+      "nom": "dépêche AFP via Boursedirect"
+     },
+     {
+      "url": "https://www.france24.com/fr/info-en-continu/20261105-la-majorit%C3%A9-du-groupe-communiste-%C3%A0-l-assembl%C3%A9e-soutiendra-m%C3%A9lenchon-%C3%A0-la-pr%C3%A9sidentielle",
+      "nom": "France 24"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Stéphane Peu",
+      "contexte": "député, président du groupe GDR",
+      "texte": "« J'assume cet acte que j'assimile à un acte de désobéissance civile. »",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Elsa Faucillon",
+      "contexte": "députée",
+      "texte": "Elle estime que les communistes ont beaucoup plus de convergences que de divergences avec LFI.",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Yannick Monnet",
+      "contexte": "député, soutien de Fabien Roussel",
+      "texte": "Il évoque « une forme d'opportunisme » et juge le moment mal choisi, un jour de mobilisation syndicale.",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "candidat",
+      "texte": "Il se dit « Très ému de me retrouver au coude-à-coude avec le groupe communiste »",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Selon LCP, la nouvelle version du programme « L'Avenir en commun » doit être publiée vendredi 6 novembre, avec un meeting de LFI au Bourget deux jours plus tard.",
+    "change": "À gauche, les candidatures ne sont pas encore rassemblées : ce soutien est celui de députés à titre personnel, pas une décision du Parti communiste.",
+    "credit": {
+     "auteur": "Thomas Bresson",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:2022-01-19_21-07-06_meeting-M%C3%A9lenchon-Strasbourg.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "7",
+    "mois": "NOV.",
+    "texte": "Mobilisation étudiante : l'Unef donne rendez-vous aux étudiants et lycéens."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Conférence sociale à Matignon avec syndicats et patronat. Début de l'examen du budget de la Sécurité sociale au Sénat (jusqu'au 18)."
+   },
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Budget de l'État au Sénat : début de l'examen du PLF 2027 (jusqu'au 9 décembre)."
+   },
+   {
+    "jour": "17",
+    "mois": "DÉC.",
+    "texte": "Fin des délais constitutionnels pour le PLF 2027, avant un éventuel recours aux ordonnances."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Commission mixte paritaire",
+    "definition": "Réunion de 7 députés et 7 sénateurs chargée de trouver un texte commun quand les deux assemblées ne votent pas le même."
+   },
+   {
+    "terme": "Ordonnance",
+    "definition": "Texte pris par le gouvernement dans le domaine de la loi, sans vote du Parlement sur son contenu. Pour le budget, ce serait une première."
+   },
+   {
+    "terme": "Règle d'or",
+    "definition": "Principe inscrit dans la loi ou la Constitution qui limite le déficit ou la dette. La réviser exige l'accord des deux assemblées, puis un référendum ou le Congrès."
+   },
+   {
+    "terme": "Coup de pouce du Smic",
+    "definition": "Hausse du salaire minimum décidée par le gouvernement, en plus de la revalorisation automatique liée à l'inflation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Jeudi 5 novembre, aucun explosif n'a été trouvé à bord des avions visés par les alertes à la bombe en Europe.",
+   "reponse": true,
+   "explication": "Les autorités n'ont découvert aucun engin suspect : tous les appareils visés ont atterri sans incident, selon l'AFP. L'origine des alertes reste inconnue à ce stade."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-05",
   "minutes": 10,

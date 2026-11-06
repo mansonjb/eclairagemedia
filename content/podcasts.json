@@ -1,5 +1,214 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-06",
+  "url": "/podcasts/politique-2026-11-06.mp3",
+  "taille": 3192417,
+  "duree": 266,
+  "titre": "Éclairage politique, vendredi 6 novembre 2026",
+  "titre_episode": "Grève, budget rejeté et soutien à Mélenchon : l'essentiel du vendredi 6 novembre",
+  "description": "Ce vendredi 6 novembre 2026, Léa et Paul reprennent 3 sujets.\n• Social : la journée de grève du 5 novembre, les chiffres qui divergent et la conférence sociale convoquée lundi à Matignon.\n• Argent public : le budget 2027 rejeté par l'Assemblée nationale, son parcours au Sénat et la demande de « règle d'or » de Jordan Bardella.\n• Présidentielle : neuf députés du groupe communiste et ultramarin soutiennent Jean-Luc Mélenchon.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Grève du 5 novembre : conférence sociale convoquée lundi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget 2027 : rejeté par l'Assemblée, le texte part au Sénat"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Présidentielle : neuf députés du groupe GDR soutiennent Mélenchon"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, nous sommes le vendredi six novembre. Bienvenue dans Éclairage politique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa. Au programme : une journée de grève qui débouche sur une conférence sociale, un budget rejeté à l'unanimité par les députés, et un soutien inattendu à Jean-Luc Mélenchon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Commençons par la rue. Jeudi, des centaines de milliers de personnes ont manifesté en France."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le ministère de l'Intérieur en a compté cinq cent soixante-quinze mille, selon le chiffrage définitif. La CGT, elle, revendique près d'un million six cent mille personnes."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, l'écart est énorme. Comment l'expliquer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Ce sont deux méthodes de comptage différentes, et personne ne les concilie. Les syndicats comptent large, les autorités comptent sur des points précis. Retenons donc une fourchette."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et côté forces de l'ordre, quel bilan ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère fait état de quatre cent quarante-huit interpellations et de cinquante-trois membres des forces de l'ordre blessés. Il juge que les cortèges déclarés se sont globalement bien déroulés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la réponse du gouvernement est tombée dans la soirée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Matignon a annoncé une conférence sociale lundi neuf novembre, avec les syndicats et le patronat. L'objectif affiché : apporter des réponses aux questions de pouvoir d'achat et de salaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une conférence sociale, concrètement, ça décide quelque chose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, elle ne vote rien. C'est une réunion autour de la table. Elle prépare des décisions que le gouvernement ou le Parlement prendront ensuite."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le sujet central, c'est le Smic."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. La CFDT demande un coup de pouce de cent euros nets. La CGT réclame dix pour cent d'augmentation. Le ministre du Travail, Jean-Pierre Farandou, dit qu'une hausse n'est pas taboue, en regardant son effet sur l'emploi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : lundi, le gouvernement doit dire s'il ouvre la porte à un coup de pouce du Smic."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Le budget de l'État pour deux mille vingt-sept, et un vote qui a peu de précédents."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi, l'Assemblée nationale a rejeté la partie recettes du budget par quatre cent cinquante-huit voix contre zéro. Aucun groupe n'a voté pour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Zéro voix pour ? Même pas la majorité ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Aucune voix pour. Et ce rejet entraîne celui de tout le texte, qui part au Sénat dans sa version initiale, sans les amendements des députés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le budget de la Sécurité sociale avait déjà connu le même sort."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, le vingt-trois octobre. Le Sénat examinera la Sécurité sociale du neuf au dix-huit novembre, puis le budget de l'État du vingt novembre au neuf décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et après le Sénat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une commission mixte paritaire : sept députés et sept sénateurs qui cherchent un compromis. Si cela échoue, le gouvernement a plusieurs options."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Lesquelles ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Négocier avec une force politique, puis utiliser le quarante-neuf trois, l'adoption sans vote, avec un risque de motion de censure. Ou attendre l'expiration des délais, et agir par ordonnances, ce qui serait une première."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et jeudi, Jordan Bardella a réagi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il demande le vote en urgence d'une règle d'or dans la Constitution. Elle reprend le principe de Marine Le Pen : qu'aucun budget ne puisse être voté s'il augmente l'endettement du pays."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Peut-on changer la Constitution aussi vite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas si vite. Il faut le même texte voté par l'Assemblée et le Sénat, puis un référendum, ou les trois cinquièmes du Congrès. Bruno Retailleau soutient aussi l'idée et souhaite un référendum avant la fin de l'année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : sans majorité, le budget passera par un compromis, le quarante-neuf trois ou des ordonnances."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est cela."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Troisième sujet, à gauche, à six mois de la présidentielle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Neuf députés du groupe communiste et ultramarin ont annoncé jeudi leur soutien à Jean-Luc Mélenchon. Parmi eux, quatre des huit députés communistes, dont le président du groupe, Stéphane Peu, et cinq élus ultramarins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le candidat du Parti communiste, Fabien Roussel ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Son entourage indique qu'aucune réaction n'est prévue pour l'instant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment les signataires expliquent-ils leur choix ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Stéphane Peu dit assumer un acte qu'il assimile à de la désobéissance civile. Elsa Faucillon estime que les communistes ont beaucoup plus de convergences que de divergences avec La France insoumise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et chez les communistes qui restent derrière Roussel ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le député Yannick Monnet parle d'une forme d'opportunisme et précise que ce n'est en aucun cas une position de groupe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un groupe parlementaire, c'est justement ce qui est en jeu, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Un groupe réunit au moins quinze députés. Monnet estime que le départ de trois députés ferait disparaître le groupe. Mais ce soutien est personnel, pas une décision du Parti communiste."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : neuf députés, à titre personnel, soutiennent Mélenchon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de cette édition. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-11-05",
   "url": "/podcasts/essentiel-2026-11-05.mp3",

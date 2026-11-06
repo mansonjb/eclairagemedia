@@ -344,6 +344,20 @@
      "couleur": "#d7263d",
      "parti": "LFI",
      "qui": "Jean-Luc Mélenchon",
+     "contexte": "candidat",
+     "texte": "Il se dit « Très ému de me retrouver au coude-à-coude avec le groupe communiste »",
+     "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+     "source": "LCP",
+     "date": "2026-11-06",
+     "rubrique": "politique",
+     "sujet": "Présidentielle : neuf députés du groupe GDR soutiennent Mélenchon",
+     "href": "/politique/2026-11-06/3"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
      "contexte": "candidat à l'élection présidentielle",
      "texte": "« Le racisme tue »",
      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
@@ -408,23 +422,9 @@
      "rubrique": "economie",
      "sujet": "Taux français : la Banque de France écarte une intervention de la BCE",
      "href": "/economie/2026-10-17/2"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "candidat à la présidentielle",
-     "texte": "« Si vous nous jugez d'après les critères du néolibéralisme, nos projets sont inacceptables. »",
-     "url": "https://lcp.fr/actualites/contre-budget-lfi-propose-1064-milliards-d-euros-de-recettes-supplementaires-et-817",
-     "source": "LCP",
-     "date": "2026-10-15",
-     "rubrique": "politique",
-     "sujet": "Contre-budgets : LFI chiffre le sien, Lecornu critique celui du RN",
-     "href": "/politique/2026-10-15/3"
     }
    ],
-   "nbDeclarations": 14,
+   "nbDeclarations": 15,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -1456,6 +1456,20 @@
      "parti": "LR",
      "qui": "Bruno Retailleau",
      "contexte": "président du parti",
+     "texte": "Il soutient aussi l'idée d'une règle d'or budgétaire et souhaite un référendum avant la fin de l'année.",
+     "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html",
+     "source": "franceinfo",
+     "date": "2026-11-06",
+     "rubrique": "politique",
+     "sujet": "Budget 2027 : rejeté par l'Assemblée, le texte part au Sénat",
+     "href": "/politique/2026-11-06/2"
+    },
+    {
+     "fond": "#e6ecff",
+     "couleur": "#1d4ed8",
+     "parti": "LR",
+     "qui": "Bruno Retailleau",
+     "contexte": "président du parti",
      "texte": "« Celui qui a fait ça doit en répondre. »",
      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
      "source": "France 24",
@@ -1519,23 +1533,9 @@
      "rubrique": "politique",
      "sujet": "24 octobre : des militaires de Sentinelle déployés, pas d'état d'urgence",
      "href": "/politique/2026-10-22/3"
-    },
-    {
-     "fond": "#e6ecff",
-     "couleur": "#1d4ed8",
-     "parti": "LR",
-     "qui": "Bruno Retailleau",
-     "contexte": "candidat à la présidentielle",
-     "texte": "« lâcheté sur le maintien de l'ordre »",
-     "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
-     "source": "LCP",
-     "date": "2026-10-20",
-     "rubrique": "politique",
-     "sujet": "Violences du 17 octobre : Nuñez reste, des couvre-feux partiels décidés",
-     "href": "/politique/2026-10-20/1"
     }
    ],
-   "nbDeclarations": 9,
+   "nbDeclarations": 10,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/bruno-retailleau/",
     "phase": {
@@ -1991,6 +1991,20 @@
      "parti": "ÉCOLOGISTES",
      "qui": "Marine Tondelier",
      "contexte": "secrétaire nationale",
+     "texte": "« Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous »",
+     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-5-novembre-emmanuel-macron-finit-son-mandat-comme-il-a-gouverne-cest-a-dire-seul-contre-tous-estime-marine-tondelier",
+     "source": "Public Sénat",
+     "date": "2026-11-06",
+     "rubrique": "politique",
+     "sujet": "Grève du 5 novembre : conférence sociale convoquée lundi",
+     "href": "/politique/2026-11-06/1"
+    },
+    {
+     "fond": "#e2f7e9",
+     "couleur": "#1f9d55",
+     "parti": "ÉCOLOGISTES",
+     "qui": "Marine Tondelier",
+     "contexte": "secrétaire nationale",
      "texte": "« De qui se moque-t-on »",
      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
      "source": "franceinfo",
@@ -2054,23 +2068,9 @@
      "rubrique": "politique",
      "sujet": "Présidentielle : Glucksmann remporte la primaire de la gauche",
      "href": "/politique/2026-10-14/4"
-    },
-    {
-     "fond": "#e2f7e9",
-     "couleur": "#1f9d55",
-     "parti": "ÉCOLOGISTES",
-     "qui": "Marine Tondelier",
-     "contexte": "secrétaire nationale",
-     "texte": "Elle déplore la victoire de « celui qui fait le choix du repli »",
-     "url": "https://www.sudradio.fr/societe/apres-une-primaire-reussie-les-choses-serieuses-commencent-pour-glucksmann",
-     "source": "Sud Radio, avec AFP",
-     "date": "2026-10-12",
-     "rubrique": "politique",
-     "sujet": "Primaire de la gauche : Glucksmann désigné dès le premier tour",
-     "href": "/politique/2026-10-12/1"
     }
    ],
-   "nbDeclarations": 9,
+   "nbDeclarations": 10,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/marine-tondelier/",
     "phase": {
