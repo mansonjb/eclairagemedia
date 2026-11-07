@@ -202,3 +202,413 @@ Jeudi 5 novembre, aucun explosif n'a été trouvé à bord des avions visés par
 Réponse : vrai. Les autorités n'ont découvert aucun engin suspect : tous les appareils visés ont atterri sans incident, selon l'AFP. L'origine des alertes reste inconnue à ce stade.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+samedi 7 novembre 2026 · 9 min de lecture
+
+1. Emploi américain : 165 000 créations en octobre, chômage à 4,1 %
+
+CONJONCTURE
+
+165 000 : emplois créés en octobre
+
+4,1 % : taux de chômage (4,2 % en sept.)
+
++3,1 % : salaire horaire sur un an
+
+Ce qui s'est passé
+
+Vendredi 6 novembre, le Bureau of Labor Statistics (BLS) a publié le rapport sur l'emploi d'octobre : 165 000 emplois non agricoles créés, contre environ 60 000 à 65 000 attendus selon les sources. Le taux de chômage passe de 4,2 % à 4,1 %. Les chiffres d'août et de septembre sont révisés à la hausse de 84 000 emplois au total. Le salaire horaire moyen progresse de 3,1 % sur un an, moins vite que les prix à la consommation (+3,7 % sur un an en septembre, dernière donnée disponible). Les services aux entreprises (+70 000), la santé (+42 000) et le transport-entreposage (+25 000) ont le plus embauché. Le PIB du troisième trimestre a progressé de 3,4 % en rythme annualisé.
+
+L'éclairage
+
+Pourquoi un rapport sur l'emploi fait bouger les marchés
+
+1. Chaque mois, le BLS estime le nombre d'emplois créés à partir d'une enquête auprès des entreprises, et le taux de chômage à partir d'une enquête auprès des ménages. 2. Les banques centrales surveillent ces chiffres. Quand l'emploi est solide, les salaires et la demande peuvent soutenir les prix : la Réserve fédérale (Fed) peut alors relever ses taux directeurs, le taux auquel les banques se prêtent entre elles, qui influence le coût des crédits. 3. Selon l'AFP, ces chiffres devraient permettre à la Fed de se concentrer sur l'inflation lors de sa réunion de début décembre, où une hausse des taux est attendue, la deuxième depuis septembre. Selon Investing.com, les marchés lui attribuent environ 75 % de chances.
+
+Ce qui change
+
+Pour les salariés américains, l'embauche reste solide mais les salaires progressent moins vite que les prix. Pour les marchés, une hausse des taux de la Fed en décembre devient plus probable, ce qui renchérit le crédit.
+
+Et après
+
+Prochain rapport sur l'emploi (novembre) le 4 décembre ; réunion de la Fed début décembre.
+
+Sources : BLS · dépêche AFP via Boursorama · Investing.com · ABC Bourse
+
+2. Zone euro : l'inflation atteint 4,0 % en octobre, portée par l'énergie
+
+CONJONCTURE
+
+4,0 % : inflation annuelle (3,8 % en sept.)
+
++20,8 % : énergie sur un an (18,9 % en sept.)
+
+2,5 % : hors énergie et alimentation
+
+Ce qui s'est passé
+
+Mercredi 4 novembre, Eurostat a publié son estimation rapide de l'inflation en zone euro pour octobre : 4,0 % sur un an, contre 3,8 % en septembre. L'énergie affiche le taux annuel le plus élevé des grandes composantes, à 20,8 % contre 18,9 % un mois plus tôt, et reste le principal moteur de la hausse. Les services passent de 3,2 % à 3,3 %, l'alimentation, l'alcool et le tabac de 1,3 % à 1,6 %. L'inflation hors énergie, alimentation, alcool et tabac reste à 2,5 %. Il s'agit d'une estimation rapide : Eurostat publiera les données complètes d'octobre le 18 novembre.
+
+L'éclairage
+
+Comment lit-on l'inflation ?
+
+1. L'inflation mesure la hausse moyenne des prix d'un panier de biens et de services, comparée à celle d'il y a un an. Eurostat calcule un indice commun aux pays de la zone euro. 2. Le chiffre « hors énergie, alimentation, alcool et tabac », dit sous-jacent, retire les prix les plus volatils. Ici il est à 2,5 % alors que l'ensemble est à 4,0 % : l'écart vient surtout de l'énergie. 3. La Banque centrale européenne (BCE) vise une inflation de 2 % et agit sur son taux de dépôt : plus il est élevé, plus le crédit coûte cher et plus la demande tend à ralentir.
+
+Ce qui change
+
+Quand l'énergie coûte plus cher, les transports, le chauffage et l'industrie sont touchés en premier ; les autres prix suivent plus lentement. Une hausse des taux de la BCE renchérirait aussi les crédits des ménages et des entreprises.
+
+Et après
+
+Données complètes d'octobre le 18 novembre ; réunion de la BCE le 17 décembre (selon StockAnalysis).
+
+Sources : Eurostat · StockAnalysis · Zonebourse via Tradingsat · Option Finance
+
+3. Pétrole : le Brent à 98 $ vendredi, en baisse de 16 à 20 % sur la semaine
+
+ÉNERGIE
+
+98 $ : Brent vendredi (échéance janvier)
+
+-16 à -20 % : variation sur la semaine
+
+104,77 $ : Brent lundi (-7,64 %)
+
+Ce qui s'est passé
+
+Vendredi 6 novembre, le baril de Brent pour livraison en janvier a clôturé à 98,32 dollars, quasi stable sur la séance (+0,03 %). Sur la semaine, la baisse atteint 19,65 % selon l'agence EFE, entre 16 % et 17 % selon deux autres sources qui retiennent d'autres références de prix. Lundi 2 novembre, le Brent avait déjà reculé de 7,64 % à 104,77 dollars, selon l'AFP, sur l'espoir d'un accord entre les États-Unis et l'Iran par la médiation du Qatar. Les investisseurs ont aussi tenu compte de la victoire des démocrates aux élections de mi-mandat américaines. Le détroit d'Ormuz reste restreint : l'Iran a indiqué que deux nouveaux pétroliers avaient heurté des mines.
+
+L'éclairage
+
+Pourquoi le détroit d'Ormuz pèse sur le prix du pétrole
+
+1. Le Brent est le prix de référence du pétrole de mer du Nord, utilisé pour fixer ceux de nombreux autres pétroles. Selon l'AFP, il valait environ 70 dollars avant le début de la guerre. 2. Le détroit d'Ormuz, entre l'Iran et Oman, est un passage maritime par lequel transite une part importante du pétrole mondial. Quand la circulation y est restreinte, les acheteurs craignent un manque de barils et le prix monte ; quand un accord semble possible, il baisse. 3. Les prix réagissent donc autant aux annonces diplomatiques qu'aux quantités réellement livrées.
+
+Ce qui change
+
+Un baril moins cher réduit la pression sur les prix de l'énergie, mais la baisse reste liée à des négociations non conclues : elle peut s'inverser vite. L'énergie représente le principal moteur de l'inflation en zone euro (sujet 2).
+
+Et après
+
+Évolution des discussions entre Washington et Téhéran via le Qatar ; circulation des pétroliers dans le détroit d'Ormuz.
+
+Sources : dépêche AFP via Connaissance des énergies · EFE via Infobae · Prix du baril · Cercle de l'Épargne
+
+À venir
+
+- 10 nov. : États-Unis : indice des prix à la consommation d'octobre, attendu mardi selon ABC Bourse.
+- 18 nov. : Eurostat : publication des données complètes d'inflation d'octobre.
+- 27 nov. : Insee : résultats détaillés de l'emploi du troisième trimestre, à 8h45.
+- 4 déc. : BLS : rapport sur l'emploi de novembre.
+- 17 déc. : BCE : réunion de politique monétaire, selon StockAnalysis.
+
+Les mots du jour
+
+Emplois non agricoles
+Le nombre d'emplois créés hors agriculture, publié chaque mois par le BLS aux États-Unis.
+Inflation sous-jacente
+L'inflation hors énergie, alimentation, alcool et tabac, dont les prix varient plus vite.
+Taux directeur
+Le taux fixé par une banque centrale, qui influence le coût de tous les crédits.
+Brent
+Le prix de référence du pétrole de mer du Nord, en dollars le baril.
+
+Vrai ou faux ?
+
+Vendredi 6 novembre 2026, l'économie américaine a créé moins de 100 000 emplois en octobre.
+
+Réponse : faux. Selon le Bureau of Labor Statistics, 165 000 emplois non agricoles ont été créés en octobre, bien au-dessus des 60 000 à 65 000 attendus.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+samedi 7 novembre 2026 · 10 min de lecture
+
+1. Cancer du poumon : plus de décès à 3 ans après SABR qu'après chirurgie
+
+CHIRURGIE
+
+21,6 % : décès à 3 ans après chirurgie
+
+30,3 % : décès à 3 ans après SABR
+
+12 546 : patients comparés
+
+Ce qui s'est passé
+
+Le 2 novembre 2026, le Journal of Clinical Oncology a publié une étude de Eva Kagenaar et de ses collègues (université de Manchester et London School of Hygiene & Tropical Medicine) sur le cancer du poumon non à petites cellules de stade précoce. Elle compare l'opération à la SABR, une radiothérapie très ciblée délivrée en quelques séances, chez 12 546 adultes diagnostiqués en Angleterre entre 2015 et 2020 : 10 247 opérés et 2 299 traités par SABR. La mortalité toutes causes à 3 ans, ajustée, est de 21,6 % après chirurgie contre 30,3 % après SABR, soit 8,8 points d'écart (intervalle de confiance à 95 % : 1,4 à 16,2). Chez les 80 ans et plus, l'écart (4,3 points) n'est pas significatif. Pour la mortalité due au cancer lui-même (14,5 % contre 20,6 %), la différence n'est pas significative non plus. L'étude est financée par le National Institute for Health and Care Research ; aucun conflit d'intérêts n'est mentionné dans les sources consultées.
+
+L'éclairage
+
+Pourquoi ce n'est pas la preuve d'un essai randomisé
+
+Les stades précoces du cancer du poumon sont des tumeurs petites, sans atteinte des ganglions. On peut les enlever par chirurgie ou les détruire par SABR. Les essais randomisés (tirage au sort du traitement) comparant les deux ont recruté trop peu de patients. Les auteurs ont donc imité un essai à partir des dossiers médicaux, avec une méthode statistique qui limite les biais. Elle reste moins solide qu'un vrai tirage au sort : les patients opérés sont en général en meilleure forme, et le stade n'est pas toujours bien noté dans le registre. Corrélation n'est pas causalité. Elle ajoute que les dossiers médicaux peuvent guider les décisions de traitement. Selon lui, l'opération reste le traitement le plus susceptible d'améliorer la survie.
+
+Ce qu'ils en disent
+
+« we found that surgery resulted in better survival than SABR for people with early-stage lung cancer »
+Eva Kagenaar (Auteurs), autrice principale
+
+« Our findings support current NICE guidance »
+Richard Grieve (Auteurs), co-auteur
+
+Ce qui change
+
+Pour les patients opérables, les auteurs jugent que la chirurgie doit rester le traitement de référence. Pour les personnes trop fragiles pour l'opération, la SABR reste une option. Le choix se fait avec l'équipe soignante.
+
+Et après
+
+Des essais randomisés sont en cours mais n'ont pas encore publié leurs résultats.
+
+Sources : JCO (DOI) · CancerNetwork · Targeted Oncology · LSHTM (communiqué)
+
+2. Diabète de type 2 : rémission chez 58 % des opérés, 3 % sans chirurgie
+
+ÉTUDE
+
+58 % : en rémission après chirurgie
+
+3 % : en rémission sans chirurgie
+
+11 ans : de suivi médian
+
+Ce qui s'est passé
+
+Publiée dans Diabetes Care, une analyse de l'alliance d'essais ARMMS-T2D suit 262 personnes atteintes de diabète de type 2 et d'obésité : 166 ont eu une chirurgie bariatrique métabolique, 96 une prise en charge par médicaments et hygiène de vie. Le suivi médian est de 11 ans, jusqu'à 14 ans pour certains. La rémission, définie par une HbA1c inférieure à 6,5 % sans médicament contre le diabète, est observée chez 58 % des opérés contre 3 % de l'autre groupe. Elle est plus fréquente quand le diabète est plus récent, quand le patient n'est pas sous insuline et quand la perte de poids est plus importante la première année. Les auteurs ont aussi étudié les rechutes, plus fréquentes avec un diabète ancien. Le financeur et les conflits d'intérêts ne sont pas précisés dans les sources consultées.
+
+L'éclairage
+
+« Rémission », ce n'est pas « guérison »
+
+L'HbA1c mesure la glycémie moyenne des 3 derniers mois. Sous 6,5 % sans médicament, on parle de rémission : la maladie est silencieuse mais peut revenir, d'où l'importance du suivi. La chirurgie bariatrique métabolique modifie l'estomac ou l'intestin pour réduire l'appétit et agir sur les hormones de la glycémie. Les groupes ne sont pas parfaitement comparables, et l'effectif de 262 personnes reste modeste. Selon lui, ces résultats pourraient permettre de proposer la chirurgie plus tôt aux patients les plus susceptibles d'obtenir une rémission durable.
+
+Ce qu'ils en disent
+
+« Now we have a durable answer. »
+John P. Kirwan (Auteurs), chercheur principal, OU Health
+
+Ce qui change
+
+L'étude renforce l'idée que la durée du diabète et la perte de poids précoce comptent pour la rémission. Elle ne dit pas qui doit se faire opérer : cette décision relève d'une équipe médicale.
+
+Et après
+
+Pas de changement de recommandation annoncé à ce stade.
+
+Sources : Diabetes Care (DOI) · OU Health (communiqué) · MDLinx
+
+3. Inhibiteurs de JAK : cinq traitements prescriptibles en ville
+
+TRAITEMENT
+
+5 : médicaments concernés
+
+22/10 : entrée en vigueur
+
+65 ans : et plus : usage encadré
+
+Ce qui s'est passé
+
+Depuis le 22 octobre 2026, l'ANSM a supprimé l'obligation de prescription initiale hospitalière et de suivi annuel à l'hôpital pour cinq inhibiteurs de Janus kinase : Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Jyseleca (filgotinib) et Cibinqo (abrocitinib). Les spécialistes concernés (rhumatologues, dermatologues, gastro-entérologues, internistes, allergologues, pédiatres) peuvent les initier et les renouveler en ville comme à l'hôpital. Les médecins généralistes ne sont pas inclus. Les restrictions de sécurité demeurent : chez les personnes de 65 ans et plus, celles qui ont des facteurs de risque cardiovasculaire ou un cancer actuel ou passé, ces médicaments ne sont à utiliser qu'en l'absence d'alternative appropriée.
+
+L'éclairage
+
+Prescrire en ville n'est pas rembourser
+
+Les inhibiteurs de JAK sont des médicaments qui freinent des signaux de l'inflammation dans des maladies comme la polyarthrite rhumatoïde, la maladie de Crohn ou la dermatite atopique. Ils peuvent provoquer des effets graves : troubles cardiovasculaires, infections graves, perforations intestinales, cancers. La décision porte sur qui peut prescrire et où, pas sur le remboursement : selon Caducée, elle n'élargit pas le périmètre déjà fixé par la HAS. L'agence indique avoir réévalué ces conditions avec les conseils nationaux des professionnels et les associations de patients.
+
+Ce qu'ils en disent
+
+« ces mêmes médecins, qu'ils exercent en ville ou à l'hôpital, peuvent initier et renouveler un traitement »
+ANSM (Autorité de santé), agence du médicament
+
+« Les médecins généralistes ne bénéficient pas de cette ouverture de prescription »
+Caducée (Autorité de santé), presse médicale
+
+Ce qui change
+
+Pour un patient suivi par un spécialiste de ville, le renouvellement n'exige plus de passage à l'hôpital. Le suivi et l'évaluation des risques restent obligatoires. Toute décision de traitement se prend avec le médecin.
+
+Et après
+
+Les fiches de mesures de réduction des risques restent disponibles sur le site de l'ANSM pour chaque molécule.
+
+Sources : ANSM · Caducée · Le Quotidien du Pharmacien · Ordre des pharmaciens
+
+4. Aflibercept : rappel de deux lots de seringues pour l'œil
+
+SANTÉ PUBLIQUE
+
+2 : lots rappelés
+
+0 : cas déclaré en France
+
+3 : effets oculaires dans 2 autres pays
+
+Ce qui s'est passé
+
+Le 29 octobre 2026, l'ANSM a annoncé le rappel de deux lots de seringues préremplies d'aflibercept, utilisées en injection dans l'œil pour la DMLA et d'autres maladies qui réduisent la vue : Afiveg 40 mg/ml (Biogaran), lot 2461572, et Mynzepli 40 mg/ml (Advanz Pharma), lot 2393229. Un défaut de fabrication de la collerette d'appui des doigts peut la desserrer ou la détacher pendant l'injection, avec un risque de mouvement involontaire de l'aiguille, de blessure de l'œil ou de dose incomplète. Trois événements oculaires ont été signalés dans deux autres pays européens, aucun en France. L'agence précise que la qualité, la stérilité et l'efficacité du médicament ne sont pas en cause.
+
+L'éclairage
+
+Que faire si on est concerné ?
+
+L'ANSM demande aux ophtalmologues de vérifier le numéro de lot avant toute injection. Les pharmaciens doivent contacter les patients qui ont reçu une boîte de ces lots pour l'échanger ; des lots de remplacement sont disponibles en quantité suffisante. Selon l'agence, les patients déjà injectés ne sont pas exposés à ce défaut. Un patient qui a un doute peut vérifier le numéro de lot sur sa boîte et en parler à sa pharmacie. Message adressé aux ophtalmologues dans l'avis de rappel.
+
+Ce qu'ils en disent
+
+« Vérifiez systématiquement le numéro de lot des seringues avant toute administration »
+ANSM (Autorité de santé), agence du médicament
+
+Ce qui change
+
+Seuls ces deux lots sont visés ; les autres lots de ces médicaments ne le sont pas.
+
+Et après
+
+Le défaut a été identifié et corrigé, selon l'ANSM.
+
+Sources : ANSM · Vidal · Le Quotidien du Pharmacien
+
+Les mots du jour
+
+Essai émulé
+Une étude qui imite un essai randomisé à partir de dossiers médicaux existants, avec des méthodes statistiques pour limiter les biais. Moins solide qu'un vrai tirage au sort.
+SABR
+Radiothérapie stéréotaxique : de fortes doses de rayons très ciblées, délivrées en peu de séances sur une petite tumeur.
+Rémission du diabète
+HbA1c sous 6,5 % sans médicament contre le diabète. La maladie peut revenir.
+Inhibiteur de JAK
+Médicament qui freine des signaux de l'inflammation, utilisé dans plusieurs maladies inflammatoires chroniques.
+
+Vrai ou faux ?
+
+Dans l'étude publiée dans le Journal of Clinical Oncology, la mortalité à 3 ans ajustée est plus faible après chirurgie (21,6 %) qu'après SABR (30,3 %) chez les patients atteints d'un cancer du poumon précoce.
+
+Réponse : vrai. C'est vrai : cette étude observationnelle de 12 546 patients en Angleterre rapporte 21,6 % contre 30,3 % (8,8 points d'écart), mais il ne s'agit pas d'un essai randomisé, selon CancerNetwork.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+samedi 7 novembre 2026 · 6 min de lecture
+
+À venir
+
+- 9 nov. : Pont d’Oléron : second visio-tchat de la concertation du Département.
+- 13 nov. : Biodiversité : La Rochelle reçoit son trophée de meilleure commune 2026.
+- 16 nov. : Pont d’Oléron : réunion publique de clôture de la concertation, à Bourcefranc-le-Chapus.
+- 20 nov. : Angoulins-sur-Mer : fin prévue des travaux sur le réseau d’assainissement.
+- 30 nov. : Eau : fin prévue de l’alerte renforcée sur l’eau potable en Charente-Maritime.
+
+Les mots du jour
+
+Maître d'œuvre
+Le professionnel qui conçoit un chantier et en suit l'exécution pour le compte de la collectivité.
+Malfaçon
+Un défaut de réalisation d'un ouvrage, qui ne respecte pas ce qui était prévu.
+Homologation
+La validation par une fédération sportive qui permet à un équipement d'accueillir des compétitions officielles.
+Décision modificative
+Un vote qui modifie un budget déjà adopté, par exemple pour ajouter une somme à une dépense.
+
+Vrai ou faux ?
+
+La piscine Lucien-Maylin, à La Rochelle, est fermée au public depuis le 2 juillet 2025.
+
+Réponse : vrai. Le site d'information INF La Rochelle indique que la piscine est fermée depuis le 2 juillet 2025 pour une rénovation lourde ; la réouverture, d'abord attendue en 2026, est de nouveau repoussée selon France 3.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+samedi 7 novembre 2026 · 5 min de lecture
+
+1. Cantines : 31,1 % de produits durables en 2025, dont 12,1 % de bio
+
+BIO
+
+59 % : des sites de restauration collective ont déclaré
+
+12,1 % : de bio en moyenne (objectif légal : 20 %)
+
++47 % : de déclarants sur un an
+
+Ce qui s'est passé
+
+Le 28 octobre, le ministère de l'Agriculture a présenté le bilan de la télédéclaration « ma cantine », qui porte sur les achats alimentaires de 2025. Près de 50 000 cantines ont déclaré leurs achats, soit 59 % des sites de restauration collective et 47 % de déclarants de plus que lors de la campagne précédente, qui en comptait environ 34 000. En moyenne, les établissements déclarants ont consacré 31,1 % de leurs achats à des produits durables et de qualité, dont 12,1 % de bio. Un an plus tôt, pour les achats de 2024, le ministère donnait 29,5 % et 11,8 %. Les écoles primaires dépassent l'objectif de 20 % de bio et les crèches atteignent les deux objectifs, selon Réussir et la Banque des Territoires. La prochaine campagne, sur les achats de 2026, se tiendra du 13 janvier au 31 mars 2027.
+
+- La loi EGalim fixe un objectif d'au moins 50 % de produits durables et de qualité, dont 20 % de bio, dans les repas des cantines, calculé en valeur d'achat.
+- Le taux est une moyenne des seules cantines qui ont déclaré : 41 % des sites n'y figurent pas. Pour suivre une évolution à périmètre comparable, le ministère regarde aussi les cantines qui déclarent plusieurs années de suite : elles atteignent en moyenne 34,3 % de produits durables et de qualité et 15,9 % de bio.
+- La déclaration est obligatoire, mais l'AFP note que, « faute de sanction », elle n'est pas encore généralisée.
+
+L'éclairage
+
+Que mesure ce chiffre ?
+
+Ce qu'ils en disent
+
+Il salue la forte progression des déclarations d'achats et qualifie les résultats de dynamiques, tout en reconnaissant qu'ils restent éloignés des objectifs nationaux. Propos résumés, sans guillemets.
+Ministère de l'Agriculture (Pouvoirs publics)
+
+Le ministère relève une « très légère augmentation » des taux d'approvisionnement par rapport à 2024.
+Dépêche AFP (Pouvoirs publics)
+
+Ce qui change
+
+Pour les gestionnaires de cantines, la télédéclaration reste l'outil de mesure national des achats.
+
+Et après
+
+Le bilan statistique doit être transmis au Parlement puis publié sur « ma cantine ». La campagne sur les achats 2026 s'ouvre le 13 janvier 2027 et se clôt le 31 mars 2027.
+
+Sources : dépêche AFP via Weka · Réussir · Banque des Territoires · ministère de l’Agriculture (communiqué du 8 janvier 2026)
+
+À venir
+
+- 17 nov. : Mirecourt (Vosges) : l'unité INRAE ASTER présente dix ans d'expérimentation d'un système de polyculture-élevage biologique, les 17 et 18 novembre.
+- 13 janv. : Cantines : ouverture de la campagne de télédéclaration sur les achats 2026, jusqu'au 31 mars 2027.
+
+Les mots du jour
+
+EGalim
+Loi de 2018, complétée par la loi Climat et résilience de 2021, qui fixe pour les cantines un objectif de 50 % de produits durables et de qualité, dont 20 % de bio.
+Télédéclaration
+La déclaration annuelle des achats alimentaires de chaque cantine sur la plateforme « ma cantine », ouverte chaque début d'année.
+En valeur d'achat
+Les pourcentages se calculent sur les euros dépensés en denrées, pas sur le nombre de repas ni sur le poids des aliments.
+
+Vrai ou faux ?
+
+En 2025, les cantines qui ont télédéclaré leurs achats ont consacré en moyenne 12,1 % de leur budget alimentaire au bio, soit moins que l'objectif de 20 % fixé par la loi EGalim.
+
+Réponse : vrai. Le bilan présenté le 28 octobre 2026 donne 12,1 % de produits bio et 31,1 % de produits durables et de qualité en valeur d'achat, pour des objectifs légaux de 20 % et 50 %.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+samedi 7 novembre 2026 · 6 min de lecture
+
+Les mots du jour
+
+Correction (boursière)
+Baisse d'au moins 10 % d'un indice par rapport à son dernier sommet.
+Capitalisation boursière
+Valeur d'une entreprise cotée : le cours de l'action multiplié par le nombre d'actions.
+Poids ouverts (open-weight)
+Modèle d'IA dont le fichier de réglages est publié et téléchargeable.
+Post-entraînement
+Étape qui adapte un modèle déjà entraîné à une tâche précise, ici la programmation.
+
+Vrai ou faux ?
+
+Selon l'agence AP, Nvidia a reculé de 9,3 % le 5 novembre et a pesé plus lourd que toute autre valeur dans la baisse de l'indice S&P 500.
+
+Réponse : vrai. Vrai : AP décrit Nvidia comme le poids le plus lourd de la séance sur le S&P 500, qui a perdu 4,4 %. Nvidia a ensuite regagné 2,5 % le 6 novembre, selon CBS News.
+
+Retrouvez cette édition sur eclairagemedia.com.

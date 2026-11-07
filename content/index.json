@@ -1,5 +1,407 @@
 [
  {
+  "rubrique": "economie",
+  "date": "2026-11-07",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CONJONCTURE",
+    "titre": "Emploi américain : 165 000 créations en octobre, chômage à 4,1 %",
+    "court": "États-Unis : 165 000 emplois en octobre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Corps_talks_jobs_at_GPS_Career_Fair_%2810019363093%29.jpg/1280px-Corps_talks_jobs_at_GPS_Career_Fair_%2810019363093%29.jpg",
+    "legende": "Des jeunes visitent un salon de l'emploi aux États-Unis (illustration)",
+    "chapeau": "Vendredi 6 novembre, le Bureau of Labor Statistics (BLS) a publié le rapport sur l'emploi d'octobre : 165 000 emplois non agricoles créés, contre environ 60 000 à 65 000 attendus selon les sources. Le taux de chômage passe de 4,2 % à 4,1 %.",
+    "eclairage": "Pourquoi un rapport sur l'emploi fait bouger les marchés",
+    "chiffres": [
+     {
+      "valeur": "165 000",
+      "legende": "emplois créés en octobre"
+     },
+     {
+      "valeur": "4,1 %",
+      "legende": "taux de chômage (4,2 % en sept.)"
+     },
+     {
+      "valeur": "+3,1 %",
+      "legende": "salaire horaire sur un an"
+     }
+    ],
+    "passe": "Vendredi 6 novembre, le Bureau of Labor Statistics (BLS) a publié le rapport sur l'emploi d'octobre : 165 000 emplois non agricoles créés, contre environ 60 000 à 65 000 attendus selon les sources. Le taux de chômage passe de 4,2 % à 4,1 %. Les chiffres d'août et de septembre sont révisés à la hausse de 84 000 emplois au total. Le salaire horaire moyen progresse de 3,1 % sur un an, moins vite que les prix à la consommation (+3,7 % sur un an en septembre, dernière donnée disponible). Les services aux entreprises (+70 000), la santé (+42 000) et le transport-entreposage (+25 000) ont le plus embauché. Le PIB du troisième trimestre a progressé de 3,4 % en rythme annualisé.",
+    "points": [],
+    "explication": "1. Chaque mois, le BLS estime le nombre d'emplois créés à partir d'une enquête auprès des entreprises, et le taux de chômage à partir d'une enquête auprès des ménages. 2. Les banques centrales surveillent ces chiffres. Quand l'emploi est solide, les salaires et la demande peuvent soutenir les prix : la Réserve fédérale (Fed) peut alors relever ses taux directeurs, le taux auquel les banques se prêtent entre elles, qui influence le coût des crédits. 3. Selon l'AFP, ces chiffres devraient permettre à la Fed de se concentrer sur l'inflation lors de sa réunion de début décembre, où une hausse des taux est attendue, la deuxième depuis septembre. Selon Investing.com, les marchés lui attribuent environ 75 % de chances.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "nom": "BLS"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/moins-de-chomage-plus-de-creations-d-emplois-le-marche-du-travail-americain-s-installe-dans-le-vert-158bfe4638be0aadca1f9cbdf403cfce",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://fr.investing.com/news/economic-indicators/les-etatsunis-creent-165000-emplois-en-octobre-le-chomage-recule-a-41-3682526",
+      "nom": "Investing.com"
+     },
+     {
+      "url": "https://www.abcbourse.com/marches/usa-les-creations-d-emplois-depassent-largement-les-attentes-le-chomage-recule_705772",
+      "nom": "ABC Bourse"
+     }
+    ],
+    "cartes": [],
+    "apres": "Prochain rapport sur l'emploi (novembre) le 4 décembre ; réunion de la Fed début décembre.",
+    "change": "Pour les salariés américains, l'embauche reste solide mais les salaires progressent moins vite que les prix. Pour les marchés, une hausse des taux de la Fed en décembre devient plus probable, ce qui renchérit le crédit.",
+    "credit": {
+     "auteur": "U.S. Army Corps of Engineers",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Corps_talks_jobs_at_GPS_Career_Fair_(10019363093).jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "CONJONCTURE",
+    "titre": "Zone euro : l'inflation atteint 4,0 % en octobre, portée par l'énergie",
+    "court": "Zone euro : l'inflation monte à 4,0 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Oil_tanker%2C_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_%2852848038105%29.jpg/1280px-Oil_tanker%2C_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_%2852848038105%29.jpg",
+    "legende": "Un terminal de gaz naturel liquéfié en Croatie (illustration)",
+    "chapeau": "Mercredi 4 novembre, Eurostat a publié son estimation rapide de l'inflation en zone euro pour octobre : 4,0 % sur un an, contre 3,8 % en septembre. L'énergie affiche le taux annuel le plus élevé des grandes composantes, à 20,8 % contre 18,9 % un mois plus tôt, et reste le principal moteur de la hausse.",
+    "eclairage": "Comment lit-on l'inflation ?",
+    "chiffres": [
+     {
+      "valeur": "4,0 %",
+      "legende": "inflation annuelle (3,8 % en sept.)"
+     },
+     {
+      "valeur": "+20,8 %",
+      "legende": "énergie sur un an (18,9 % en sept.)"
+     },
+     {
+      "valeur": "2,5 %",
+      "legende": "hors énergie et alimentation"
+     }
+    ],
+    "passe": "Mercredi 4 novembre, Eurostat a publié son estimation rapide de l'inflation en zone euro pour octobre : 4,0 % sur un an, contre 3,8 % en septembre. L'énergie affiche le taux annuel le plus élevé des grandes composantes, à 20,8 % contre 18,9 % un mois plus tôt, et reste le principal moteur de la hausse. Les services passent de 3,2 % à 3,3 %, l'alimentation, l'alcool et le tabac de 1,3 % à 1,6 %. L'inflation hors énergie, alimentation, alcool et tabac reste à 2,5 %. Il s'agit d'une estimation rapide : Eurostat publiera les données complètes d'octobre le 18 novembre.",
+    "points": [],
+    "explication": "1. L'inflation mesure la hausse moyenne des prix d'un panier de biens et de services, comparée à celle d'il y a un an. Eurostat calcule un indice commun aux pays de la zone euro. 2. Le chiffre « hors énergie, alimentation, alcool et tabac », dit sous-jacent, retire les prix les plus volatils. Ici il est à 2,5 % alors que l'ensemble est à 4,0 % : l'écart vient surtout de l'énergie. 3. La Banque centrale européenne (BCE) vise une inflation de 2 % et agit sur son taux de dépôt : plus il est élevé, plus le crédit coûte cher et plus la demande tend à ralentir.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+      "nom": "Eurostat"
+     },
+     {
+      "url": "https://stockanalysis.com/news/eurozone-inflation-rises-october-2026/",
+      "nom": "StockAnalysis"
+     },
+     {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/zone-euro-l-inflation-annuelle-atteint-4-en-octobre-1173126.html",
+      "nom": "Zonebourse via Tradingsat"
+     },
+     {
+      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-11-04-zone-euro-linflation-annuelle-atteint-4-en-octobre.html",
+      "nom": "Option Finance"
+     }
+    ],
+    "cartes": [],
+    "apres": "Données complètes d'octobre le 18 novembre ; réunion de la BCE le 17 décembre (selon StockAnalysis).",
+    "change": "Quand l'énergie coûte plus cher, les transports, le chauffage et l'industrie sont touchés en premier ; les autres prix suivent plus lentement. Une hausse des taux de la BCE renchérirait aussi les crédits des ménages et des entreprises.",
+    "credit": {
+     "auteur": "Jernej Furman",
+     "licence": "CC BY 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "ÉNERGIE",
+    "titre": "Pétrole : le Brent à 98 $ vendredi, en baisse de 16 à 20 % sur la semaine",
+    "court": "Pétrole : le Brent perd 16 à 20 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Station_Total_Energies_%C3%A0_casablanca_lors_du_blocage_du_d%C3%A9troit_d%27Ormuz_en_Iran-photo_Bertrand_SOUBEYRAND.jpg/1280px-Station_Total_Energies_%C3%A0_casablanca_lors_du_blocage_du_d%C3%A9troit_d%27Ormuz_en_Iran-photo_Bertrand_SOUBEYRAND.jpg",
+    "legende": "Une station-service à Casablanca, au Maroc, pendant le blocage du détroit d'Ormuz",
+    "chapeau": "Vendredi 6 novembre, le baril de Brent pour livraison en janvier a clôturé à 98,32 dollars, quasi stable sur la séance (+0,03 %). Sur la semaine, la baisse atteint 19,65 % selon l'agence EFE, entre 16 % et 17 % selon deux autres sources qui retiennent d'autres références de prix.",
+    "eclairage": "Pourquoi le détroit d'Ormuz pèse sur le prix du pétrole",
+    "chiffres": [
+     {
+      "valeur": "98 $",
+      "legende": "Brent vendredi (échéance janvier)"
+     },
+     {
+      "valeur": "-16 à -20 %",
+      "legende": "variation sur la semaine"
+     },
+     {
+      "valeur": "104,77 $",
+      "legende": "Brent lundi (-7,64 %)"
+     }
+    ],
+    "passe": "Vendredi 6 novembre, le baril de Brent pour livraison en janvier a clôturé à 98,32 dollars, quasi stable sur la séance (+0,03 %). Sur la semaine, la baisse atteint 19,65 % selon l'agence EFE, entre 16 % et 17 % selon deux autres sources qui retiennent d'autres références de prix. Lundi 2 novembre, le Brent avait déjà reculé de 7,64 % à 104,77 dollars, selon l'AFP, sur l'espoir d'un accord entre les États-Unis et l'Iran par la médiation du Qatar. Les investisseurs ont aussi tenu compte de la victoire des démocrates aux élections de mi-mandat américaines. Le détroit d'Ormuz reste restreint : l'Iran a indiqué que deux nouveaux pétroliers avaient heurté des mines.",
+    "points": [],
+    "explication": "1. Le Brent est le prix de référence du pétrole de mer du Nord, utilisé pour fixer ceux de nombreux autres pétroles. Selon l'AFP, il valait environ 70 dollars avant le début de la guerre. 2. Le détroit d'Ormuz, entre l'Iran et Oman, est un passage maritime par lequel transite une part importante du pétrole mondial. Quand la circulation y est restreinte, les acheteurs craignent un manque de barils et le prix monte ; quand un accord semble possible, il baisse. 3. Les prix réagissent donc autant aux annonces diplomatiques qu'aux quantités réellement livrées.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.connaissancedesenergies.org/afp/trump-assure-quun-accord-avec-liran-pourrait-arriver-261103",
+      "nom": "dépêche AFP via Connaissance des énergies"
+     },
+     {
+      "url": "https://www.infobae.com/america/agencias/2026/11/06/el-brent-cierra-en-98-dolares-y-concluye-la-semana-con-perdidas-de-mas-de-un-19/",
+      "nom": "EFE via Infobae"
+     },
+     {
+      "url": "https://prixdubaril.com/news-petrole/75184-le-petrole-se-stabilise-apres-une-semaine-de-chute.html",
+      "nom": "Prix du baril"
+     },
+     {
+      "url": "https://cercledelepargne.com/le-coin-des-epargnants-du-6-novembre-2026-doutes-sur-lia-espoir-sur-le-petrole",
+      "nom": "Cercle de l'Épargne"
+     }
+    ],
+    "cartes": [],
+    "apres": "Évolution des discussions entre Washington et Téhéran via le Qatar ; circulation des pétroliers dans le détroit d'Ormuz.",
+    "change": "Un baril moins cher réduit la pression sur les prix de l'énergie, mais la baisse reste liée à des négociations non conclues : elle peut s'inverser vite. L'énergie représente le principal moteur de l'inflation en zone euro (sujet 2).",
+    "credit": {
+     "auteur": "Bertrand Soubeyrand",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Station_Total_Energies_%C3%A0_casablanca_lors_du_blocage_du_d%C3%A9troit_d%27Ormuz_en_Iran-photo_Bertrand_SOUBEYRAND.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "10",
+    "mois": "NOV.",
+    "texte": "États-Unis : indice des prix à la consommation d'octobre, attendu mardi selon ABC Bourse."
+   },
+   {
+    "jour": "18",
+    "mois": "NOV.",
+    "texte": "Eurostat : publication des données complètes d'inflation d'octobre."
+   },
+   {
+    "jour": "27",
+    "mois": "NOV.",
+    "texte": "Insee : résultats détaillés de l'emploi du troisième trimestre, à 8h45."
+   },
+   {
+    "jour": "4",
+    "mois": "DÉC.",
+    "texte": "BLS : rapport sur l'emploi de novembre."
+   },
+   {
+    "jour": "17",
+    "mois": "DÉC.",
+    "texte": "BCE : réunion de politique monétaire, selon StockAnalysis."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Emplois non agricoles",
+    "definition": "Le nombre d'emplois créés hors agriculture, publié chaque mois par le BLS aux États-Unis."
+   },
+   {
+    "terme": "Inflation sous-jacente",
+    "definition": "L'inflation hors énergie, alimentation, alcool et tabac, dont les prix varient plus vite."
+   },
+   {
+    "terme": "Taux directeur",
+    "definition": "Le taux fixé par une banque centrale, qui influence le coût de tous les crédits."
+   },
+   {
+    "terme": "Brent",
+    "definition": "Le prix de référence du pétrole de mer du Nord, en dollars le baril."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Vendredi 6 novembre 2026, l'économie américaine a créé moins de 100 000 emplois en octobre.",
+   "reponse": false,
+   "explication": "Selon le Bureau of Labor Statistics, 165 000 emplois non agricoles ont été créés en octobre, bien au-dessus des 60 000 à 65 000 attendus."
+  }
+ },
+ {
+  "rubrique": "food",
+  "date": "2026-11-07",
+  "minutes": 5,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "BIO",
+    "titre": "Cantines : 31,1 % de produits durables en 2025, dont 12,1 % de bio",
+    "court": "Cantines : 12,1 % de bio en 2025",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Visite_Cantine_Groupe_scolaire_Aim%C3%A9_Legal_%C3%A0_Mouans-Sartoux_%28la_cuisine%29.JPG/1280px-Visite_Cantine_Groupe_scolaire_Aim%C3%A9_Legal_%C3%A0_Mouans-Sartoux_%28la_cuisine%29.JPG",
+    "legende": "Cuisine de la cantine d'un groupe scolaire à Mouans-Sartoux (illustration)",
+    "chapeau": "Le 28 octobre, le ministère de l'Agriculture a présenté le bilan de la télédéclaration « ma cantine », qui porte sur les achats alimentaires de 2025.",
+    "eclairage": "Que mesure ce chiffre ?",
+    "chiffres": [
+     {
+      "valeur": "59 %",
+      "legende": "des sites de restauration collective ont déclaré"
+     },
+     {
+      "valeur": "12,1 %",
+      "legende": "de bio en moyenne (objectif légal : 20 %)"
+     },
+     {
+      "valeur": "+47 %",
+      "legende": "de déclarants sur un an"
+     }
+    ],
+    "passe": "Le 28 octobre, le ministère de l'Agriculture a présenté le bilan de la télédéclaration « ma cantine », qui porte sur les achats alimentaires de 2025. Près de 50 000 cantines ont déclaré leurs achats, soit 59 % des sites de restauration collective et 47 % de déclarants de plus que lors de la campagne précédente, qui en comptait environ 34 000. En moyenne, les établissements déclarants ont consacré 31,1 % de leurs achats à des produits durables et de qualité, dont 12,1 % de bio. Un an plus tôt, pour les achats de 2024, le ministère donnait 29,5 % et 11,8 %. Les écoles primaires dépassent l'objectif de 20 % de bio et les crèches atteignent les deux objectifs, selon Réussir et la Banque des Territoires. La prochaine campagne, sur les achats de 2026, se tiendra du 13 janvier au 31 mars 2027.",
+    "points": [
+     "La loi EGalim fixe un objectif d'au moins 50 % de produits durables et de qualité, dont 20 % de bio, dans les repas des cantines, calculé en valeur d'achat.",
+     "Le taux est une moyenne des seules cantines qui ont déclaré : 41 % des sites n'y figurent pas. Pour suivre une évolution à périmètre comparable, le ministère regarde aussi les cantines qui déclarent plusieurs années de suite : elles atteignent en moyenne 34,3 % de produits durables et de qualité et 15,9 % de bio.",
+     "La déclaration est obligatoire, mais l'AFP note que, « faute de sanction », elle n'est pas encore généralisée."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.weka.fr/actualite/?p=229751",
+      "nom": "dépêche AFP via Weka"
+     },
+     {
+      "url": "https://www.reussir.fr/articles/restauration-collective-2026-des-teledeclarations-dachats-en-hausse-de-47-et-121",
+      "nom": "Réussir"
+     },
+     {
+      "url": "https://www.banquedesterritoires.fr/bio-et-produits-durables-les-declarations-des-cantines-bondissent-de-47-mais-les-objectifs-egalim",
+      "nom": "Banque des Territoires"
+     },
+     {
+      "url": "https://agriculture.gouv.fr/telecharger/152514",
+      "nom": "ministère de l’Agriculture (communiqué du 8 janvier 2026)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Ministère de l'Agriculture",
+      "contexte": null,
+      "texte": "Il salue la forte progression des déclarations d'achats et qualifie les résultats de dynamiques, tout en reconnaissant qu'ils restent éloignés des objectifs nationaux. Propos résumés, sans guillemets.",
+      "url": "https://www.banquedesterritoires.fr/bio-et-produits-durables-les-declarations-des-cantines-bondissent-de-47-mais-les-objectifs-egalim",
+      "source": "Banque des Territoires"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "POUVOIRS PUBLICS",
+      "qui": "Dépêche AFP",
+      "contexte": null,
+      "texte": "Le ministère relève une « très légère augmentation » des taux d'approvisionnement par rapport à 2024.",
+      "url": "https://www.weka.fr/actualite/?p=229751",
+      "source": "AFP via Weka"
+     }
+    ],
+    "apres": "Le bilan statistique doit être transmis au Parlement puis publié sur « ma cantine ». La campagne sur les achats 2026 s'ouvre le 13 janvier 2027 et se clôt le 31 mars 2027.",
+    "change": "Pour les gestionnaires de cantines, la télédéclaration reste l'outil de mesure national des achats.",
+    "credit": {
+     "auteur": "Rieul Techer",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Visite_Cantine_Groupe_scolaire_Aim%C3%A9_Legal_%C3%A0_Mouans-Sartoux_(la_cuisine).JPG"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "17",
+    "mois": "NOV.",
+    "texte": "Mirecourt (Vosges) : l'unité INRAE ASTER présente dix ans d'expérimentation d'un système de polyculture-élevage biologique, les 17 et 18 novembre."
+   },
+   {
+    "jour": "13",
+    "mois": "JANV.",
+    "texte": "Cantines : ouverture de la campagne de télédéclaration sur les achats 2026, jusqu'au 31 mars 2027."
+   }
+  ],
+  "chiffreDuJour": {
+   "valeur": "15,9 %",
+   "texte": "de produits bio en moyenne dans les cantines qui déclarent leurs achats depuis quatre ans, contre 12,1 % pour l'ensemble des déclarants (achats 2025)."
+  },
+  "lexique": [
+   {
+    "terme": "EGalim",
+    "definition": "Loi de 2018, complétée par la loi Climat et résilience de 2021, qui fixe pour les cantines un objectif de 50 % de produits durables et de qualité, dont 20 % de bio."
+   },
+   {
+    "terme": "Télédéclaration",
+    "definition": "La déclaration annuelle des achats alimentaires de chaque cantine sur la plateforme « ma cantine », ouverte chaque début d'année."
+   },
+   {
+    "terme": "En valeur d'achat",
+    "definition": "Les pourcentages se calculent sur les euros dépensés en denrées, pas sur le nombre de repas ni sur le poids des aliments."
+   }
+  ],
+  "quiz": {
+   "affirmation": "En 2025, les cantines qui ont télédéclaré leurs achats ont consacré en moyenne 12,1 % de leur budget alimentaire au bio, soit moins que l'objectif de 20 % fixé par la loi EGalim.",
+   "reponse": true,
+   "explication": "Le bilan présenté le 28 octobre 2026 donne 12,1 % de produits bio et 31,1 % de produits durables et de qualité en valeur d'achat, pour des objectifs légaux de 20 % et 50 %."
+  }
+ },
+ {
+  "rubrique": "local",
+  "date": "2026-11-07",
+  "minutes": 6,
+  "sujets": [],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Pont d’Oléron : second visio-tchat de la concertation du Département."
+   },
+   {
+    "jour": "13",
+    "mois": "NOV.",
+    "texte": "Biodiversité : La Rochelle reçoit son trophée de meilleure commune 2026."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Pont d’Oléron : réunion publique de clôture de la concertation, à Bourcefranc-le-Chapus."
+   },
+   {
+    "jour": "20",
+    "mois": "NOV.",
+    "texte": "Angoulins-sur-Mer : fin prévue des travaux sur le réseau d’assainissement."
+   },
+   {
+    "jour": "30",
+    "mois": "NOV.",
+    "texte": "Eau : fin prévue de l’alerte renforcée sur l’eau potable en Charente-Maritime."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Maître d'œuvre",
+    "definition": "Le professionnel qui conçoit un chantier et en suit l'exécution pour le compte de la collectivité."
+   },
+   {
+    "terme": "Malfaçon",
+    "definition": "Un défaut de réalisation d'un ouvrage, qui ne respecte pas ce qui était prévu."
+   },
+   {
+    "terme": "Homologation",
+    "definition": "La validation par une fédération sportive qui permet à un équipement d'accueillir des compétitions officielles."
+   },
+   {
+    "terme": "Décision modificative",
+    "definition": "Un vote qui modifie un budget déjà adopté, par exemple pour ajouter une somme à une dépense."
+   }
+  ],
+  "quiz": {
+   "affirmation": "La piscine Lucien-Maylin, à La Rochelle, est fermée au public depuis le 2 juillet 2025.",
+   "reponse": true,
+   "explication": "Le site d'information INF La Rochelle indique que la piscine est fermée depuis le 2 juillet 2025 pour une rénovation lourde ; la réouverture, d'abord attendue en 2026, est de nouveau repoussée selon France 3."
+  }
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-07",
   "minutes": 12,
@@ -420,6 +822,348 @@
    "affirmation": "Jeudi 5 novembre, aucun explosif n'a été trouvé à bord des avions visés par les alertes à la bombe en Europe.",
    "reponse": true,
    "explication": "Les autorités n'ont découvert aucun engin suspect : tous les appareils visés ont atterri sans incident, selon l'AFP. L'origine des alertes reste inconnue à ce stade."
+  }
+ },
+ {
+  "rubrique": "sante",
+  "date": "2026-11-07",
+  "minutes": 10,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "CHIRURGIE",
+    "titre": "Cancer du poumon : plus de décès à 3 ans après SABR qu'après chirurgie",
+    "court": "Poumon : chirurgie ou SABR, 8,8 points",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Laparoscopic_operating_theatre.jpg/1280px-Laparoscopic_operating_theatre.jpg",
+    "legende": "Un bloc opératoire équipé pour la chirurgie (illustration)",
+    "chapeau": "Le 2 novembre 2026, le Journal of Clinical Oncology a publié une étude de Eva Kagenaar et de ses collègues (université de Manchester et London School of Hygiene & Tropical Medicine) sur le cancer du poumon non à petites cellules de stade précoce.",
+    "eclairage": "Pourquoi ce n'est pas la preuve d'un essai randomisé",
+    "chiffres": [
+     {
+      "valeur": "21,6 %",
+      "legende": "décès à 3 ans après chirurgie"
+     },
+     {
+      "valeur": "30,3 %",
+      "legende": "décès à 3 ans après SABR"
+     },
+     {
+      "valeur": "12 546",
+      "legende": "patients comparés"
+     }
+    ],
+    "passe": "Le 2 novembre 2026, le Journal of Clinical Oncology a publié une étude de Eva Kagenaar et de ses collègues (université de Manchester et London School of Hygiene & Tropical Medicine) sur le cancer du poumon non à petites cellules de stade précoce. Elle compare l'opération à la SABR, une radiothérapie très ciblée délivrée en quelques séances, chez 12 546 adultes diagnostiqués en Angleterre entre 2015 et 2020 : 10 247 opérés et 2 299 traités par SABR. La mortalité toutes causes à 3 ans, ajustée, est de 21,6 % après chirurgie contre 30,3 % après SABR, soit 8,8 points d'écart (intervalle de confiance à 95 % : 1,4 à 16,2). Chez les 80 ans et plus, l'écart (4,3 points) n'est pas significatif. Pour la mortalité due au cancer lui-même (14,5 % contre 20,6 %), la différence n'est pas significative non plus. L'étude est financée par le National Institute for Health and Care Research ; aucun conflit d'intérêts n'est mentionné dans les sources consultées.",
+    "points": [],
+    "explication": "Les stades précoces du cancer du poumon sont des tumeurs petites, sans atteinte des ganglions. On peut les enlever par chirurgie ou les détruire par SABR. Les essais randomisés (tirage au sort du traitement) comparant les deux ont recruté trop peu de patients. Les auteurs ont donc imité un essai à partir des dossiers médicaux, avec une méthode statistique qui limite les biais. Elle reste moins solide qu'un vrai tirage au sort : les patients opérés sont en général en meilleure forme, et le stade n'est pas toujours bien noté dans le registre. Corrélation n'est pas causalité. Elle ajoute que les dossiers médicaux peuvent guider les décisions de traitement. Selon lui, l'opération reste le traitement le plus susceptible d'améliorer la survie.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.1200/JCO-26-00399",
+      "nom": "JCO (DOI)"
+     },
+     {
+      "url": "https://cancernetwork.com/view/surgery-correlates-with-better-survival-vs-sabr-in-early-stage-nsclc",
+      "nom": "CancerNetwork"
+     },
+     {
+      "url": "https://www.targetedonc.com/view/sabr-linked-to-higher-3-year-mortality-vs-surgery-in-early-stage-nsclc",
+      "nom": "Targeted Oncology"
+     },
+     {
+      "url": "https://lshtm.ac.uk/newsevents/news/2026/surgery-offers-best-survival-early-stage-lung-cancer-study-finds",
+      "nom": "LSHTM (communiqué)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Eva Kagenaar",
+      "contexte": "autrice principale",
+      "texte": "« we found that surgery resulted in better survival than SABR for people with early-stage lung cancer »",
+      "url": "https://cancernetwork.com/view/surgery-correlates-with-better-survival-vs-sabr-in-early-stage-nsclc",
+      "source": "CancerNetwork"
+     },
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "Richard Grieve",
+      "contexte": "co-auteur",
+      "texte": "« Our findings support current NICE guidance »",
+      "url": "https://cancernetwork.com/view/surgery-correlates-with-better-survival-vs-sabr-in-early-stage-nsclc",
+      "source": "CancerNetwork"
+     }
+    ],
+    "apres": "Des essais randomisés sont en cours mais n'ont pas encore publié leurs résultats.",
+    "change": "Pour les patients opérables, les auteurs jugent que la chirurgie doit rester le traitement de référence. Pour les personnes trop fragiles pour l'opération, la SABR reste une option. Le choix se fait avec l'équipe soignante.",
+    "credit": {
+     "auteur": "Dr.jayesh amin",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Laparoscopic_operating_theatre.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "ÉTUDE",
+    "titre": "Diabète de type 2 : rémission chez 58 % des opérés, 3 % sans chirurgie",
+    "court": "Diabète : rémission après chirurgie, 58 %",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sleeve_Gastrectomy_Surgery.jpg/1280px-Sleeve_Gastrectomy_Surgery.jpg",
+    "legende": "Schéma en 3D d'une gastrectomie en manchon, une des opérations de chirurgie bariatrique (illustration)",
+    "chapeau": "Publiée dans Diabetes Care, une analyse de l'alliance d'essais ARMMS-T2D suit 262 personnes atteintes de diabète de type 2 et d'obésité : 166 ont eu une chirurgie bariatrique métabolique, 96 une prise en charge par médicaments et hygiène de vie. Le suivi médian est de 11 ans, jusqu'à 14 ans pour certains.",
+    "eclairage": "« Rémission », ce n'est pas « guérison »",
+    "chiffres": [
+     {
+      "valeur": "58 %",
+      "legende": "en rémission après chirurgie"
+     },
+     {
+      "valeur": "3 %",
+      "legende": "en rémission sans chirurgie"
+     },
+     {
+      "valeur": "11 ans",
+      "legende": "de suivi médian"
+     }
+    ],
+    "passe": "Publiée dans Diabetes Care, une analyse de l'alliance d'essais ARMMS-T2D suit 262 personnes atteintes de diabète de type 2 et d'obésité : 166 ont eu une chirurgie bariatrique métabolique, 96 une prise en charge par médicaments et hygiène de vie. Le suivi médian est de 11 ans, jusqu'à 14 ans pour certains. La rémission, définie par une HbA1c inférieure à 6,5 % sans médicament contre le diabète, est observée chez 58 % des opérés contre 3 % de l'autre groupe. Elle est plus fréquente quand le diabète est plus récent, quand le patient n'est pas sous insuline et quand la perte de poids est plus importante la première année. Les auteurs ont aussi étudié les rechutes, plus fréquentes avec un diabète ancien. Le financeur et les conflits d'intérêts ne sont pas précisés dans les sources consultées.",
+    "points": [],
+    "explication": "L'HbA1c mesure la glycémie moyenne des 3 derniers mois. Sous 6,5 % sans médicament, on parle de rémission : la maladie est silencieuse mais peut revenir, d'où l'importance du suivi. La chirurgie bariatrique métabolique modifie l'estomac ou l'intestin pour réduire l'appétit et agir sur les hormones de la glycémie. Les groupes ne sont pas parfaitement comparables, et l'effectif de 262 personnes reste modeste. Selon lui, ces résultats pourraient permettre de proposer la chirurgie plus tôt aux patients les plus susceptibles d'obtenir une rémission durable.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://doi.org/10.2337/dc26-1070",
+      "nom": "Diabetes Care (DOI)"
+     },
+     {
+      "url": "https://ou.edu/news/articles/2026/october/weight-loss-surgery-lasting-diabetes-remission-long-term-study",
+      "nom": "OU Health (communiqué)"
+     },
+     {
+      "url": "https://www.mdlinx.com/news/weight-loss-surgery-leads-to-sustained-diabetes-remission-long-term-study-finds/5qgxYSC3E7DlxTxWBA8yWZ",
+      "nom": "MDLinx"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f4f4",
+      "couleur": "#0e8a8a",
+      "parti": "AUTEURS",
+      "qui": "John P. Kirwan",
+      "contexte": "chercheur principal, OU Health",
+      "texte": "« Now we have a durable answer. »",
+      "url": "https://ou.edu/news/articles/2026/october/weight-loss-surgery-lasting-diabetes-remission-long-term-study",
+      "source": "OU Health"
+     }
+    ],
+    "apres": "Pas de changement de recommandation annoncé à ce stade.",
+    "change": "L'étude renforce l'idée que la durée du diabète et la perte de poids précoce comptent pour la rémission. Elle ne dit pas qui doit se faire opérer : cette décision relève d'une équipe médicale.",
+    "credit": {
+     "auteur": "Manu5",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sleeve_Gastrectomy_Surgery.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "TRAITEMENT",
+    "titre": "Inhibiteurs de JAK : cinq traitements prescriptibles en ville",
+    "court": "JAK : prescription ouverte en ville",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rheumatoid_Arthritis.JPG/1280px-Rheumatoid_Arthritis.JPG",
+    "legende": "Main atteinte de polyarthrite rhumatoïde, l'une des maladies traitées par les inhibiteurs de JAK (illustration)",
+    "chapeau": "Depuis le 22 octobre 2026, l'ANSM a supprimé l'obligation de prescription initiale hospitalière et de suivi annuel à l'hôpital pour cinq inhibiteurs de Janus kinase : Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Jyseleca (filgotinib) et Cibinqo (abrocitinib).",
+    "eclairage": "Prescrire en ville n'est pas rembourser",
+    "chiffres": [
+     {
+      "valeur": "5",
+      "legende": "médicaments concernés"
+     },
+     {
+      "valeur": "22/10",
+      "legende": "entrée en vigueur"
+     },
+     {
+      "valeur": "65 ans",
+      "legende": "et plus : usage encadré"
+     }
+    ],
+    "passe": "Depuis le 22 octobre 2026, l'ANSM a supprimé l'obligation de prescription initiale hospitalière et de suivi annuel à l'hôpital pour cinq inhibiteurs de Janus kinase : Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Jyseleca (filgotinib) et Cibinqo (abrocitinib). Les spécialistes concernés (rhumatologues, dermatologues, gastro-entérologues, internistes, allergologues, pédiatres) peuvent les initier et les renouveler en ville comme à l'hôpital. Les médecins généralistes ne sont pas inclus. Les restrictions de sécurité demeurent : chez les personnes de 65 ans et plus, celles qui ont des facteurs de risque cardiovasculaire ou un cancer actuel ou passé, ces médicaments ne sont à utiliser qu'en l'absence d'alternative appropriée.",
+    "points": [],
+    "explication": "Les inhibiteurs de JAK sont des médicaments qui freinent des signaux de l'inflammation dans des maladies comme la polyarthrite rhumatoïde, la maladie de Crohn ou la dermatite atopique. Ils peuvent provoquer des effets graves : troubles cardiovasculaires, infections graves, perforations intestinales, cancers. La décision porte sur qui peut prescrire et où, pas sur le remboursement : selon Caducée, elle n'élargit pas le périmètre déjà fixé par la HAS. L'agence indique avoir réévalué ces conditions avec les conseils nationaux des professionnels et les associations de patients.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ansm.sante.fr/actualites/modification-des-conditions-de-prescription-dinhibiteurs-de-janus-kinase-jaki-indiques-dans-le-traitement-de-maladies-inflammatoires-chroniques",
+      "nom": "ANSM"
+     },
+     {
+      "url": "https://www.caducee.net/actualite-medicale/16995/inhibiteurs-de-jak-cinq-traitements-peuvent-etre-prescrits-en-ville-depuis-le-22-octobre-2026.html",
+      "nom": "Caducée"
+     },
+     {
+      "url": "https://www.lequotidiendupharmacien.fr/medicament-parapharmacie/medicament/cinq-inhibiteurs-de-janus-kinase-peuvent-desormais-etre-prescrits-en-ville",
+      "nom": "Le Quotidien du Pharmacien"
+     },
+     {
+      "url": "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/modification-des-conditions-de-prescription-d-inhibiteurs-de-janus-kinase-jaki-indiques-dans-le-traitement-de-maladies-inflammatoires-chroniques",
+      "nom": "Ordre des pharmaciens"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "ANSM",
+      "contexte": "agence du médicament",
+      "texte": "« ces mêmes médecins, qu'ils exercent en ville ou à l'hôpital, peuvent initier et renouveler un traitement »",
+      "url": "https://ansm.sante.fr/actualites/modification-des-conditions-de-prescription-dinhibiteurs-de-janus-kinase-jaki-indiques-dans-le-traitement-de-maladies-inflammatoires-chroniques",
+      "source": "ANSM"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "Caducée",
+      "contexte": "presse médicale",
+      "texte": "« Les médecins généralistes ne bénéficient pas de cette ouverture de prescription »",
+      "url": "https://www.caducee.net/actualite-medicale/16995/inhibiteurs-de-jak-cinq-traitements-peuvent-etre-prescrits-en-ville-depuis-le-22-octobre-2026.html",
+      "source": "Caducée"
+     }
+    ],
+    "apres": "Les fiches de mesures de réduction des risques restent disponibles sur le site de l'ANSM pour chaque molécule.",
+    "change": "Pour un patient suivi par un spécialiste de ville, le renouvellement n'exige plus de passage à l'hôpital. Le suivi et l'évaluation des risques restent obligatoires. Toute décision de traitement se prend avec le médecin.",
+    "credit": {
+     "auteur": "James Heilman, MD",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "SANTÉ PUBLIQUE",
+    "titre": "Aflibercept : rappel de deux lots de seringues pour l'œil",
+    "court": "Aflibercept : deux lots rappelés",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Intravitreal_treatment.jpg/1280px-Intravitreal_treatment.jpg",
+    "legende": "Une ophtalmologue réalise une injection intravitréenne, le geste concerné par le rappel de lots",
+    "chapeau": "Le 29 octobre 2026, l'ANSM a annoncé le rappel de deux lots de seringues préremplies d'aflibercept, utilisées en injection dans l'œil pour la DMLA et d'autres maladies qui réduisent la vue : Afiveg 40 mg/ml (Biogaran), lot 2461572, et Mynzepli 40 mg/ml (Advanz Pharma), lot 2393229.",
+    "eclairage": "Que faire si on est concerné ?",
+    "chiffres": [
+     {
+      "valeur": "2",
+      "legende": "lots rappelés"
+     },
+     {
+      "valeur": "0",
+      "legende": "cas déclaré en France"
+     },
+     {
+      "valeur": "3",
+      "legende": "effets oculaires dans 2 autres pays"
+     }
+    ],
+    "passe": "Le 29 octobre 2026, l'ANSM a annoncé le rappel de deux lots de seringues préremplies d'aflibercept, utilisées en injection dans l'œil pour la DMLA et d'autres maladies qui réduisent la vue : Afiveg 40 mg/ml (Biogaran), lot 2461572, et Mynzepli 40 mg/ml (Advanz Pharma), lot 2393229. Un défaut de fabrication de la collerette d'appui des doigts peut la desserrer ou la détacher pendant l'injection, avec un risque de mouvement involontaire de l'aiguille, de blessure de l'œil ou de dose incomplète. Trois événements oculaires ont été signalés dans deux autres pays européens, aucun en France. L'agence précise que la qualité, la stérilité et l'efficacité du médicament ne sont pas en cause.",
+    "points": [],
+    "explication": "L'ANSM demande aux ophtalmologues de vérifier le numéro de lot avant toute injection. Les pharmaciens doivent contacter les patients qui ont reçu une boîte de ces lots pour l'échanger ; des lots de remplacement sont disponibles en quantité suffisante. Selon l'agence, les patients déjà injectés ne sont pas exposés à ce défaut. Un patient qui a un doute peut vérifier le numéro de lot sur sa boîte et en parler à sa pharmacie. Message adressé aux ophtalmologues dans l'avis de rappel.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://ansm.sante.fr/actualites/rappel-de-deux-lots-de-medicaments-a-base-daflibercept-destines-a-linjection-dans-loeil-en-ophtalmologie",
+      "nom": "ANSM"
+     },
+     {
+      "url": "https://www.vidal.fr/actualites/38522-dmla-deux-lots-d-afiveg-et-mynzepli-doivent-etre-rapportes-en-pharmacie.html",
+      "nom": "Vidal"
+     },
+     {
+      "url": "https://www.lequotidiendupharmacien.fr/medicament-parapharmacie/medicament/lansm-rappelle-deux-lots-base-daflibercept",
+      "nom": "Le Quotidien du Pharmacien"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "AUTORITÉ DE SANTÉ",
+      "qui": "ANSM",
+      "contexte": "agence du médicament",
+      "texte": "« Vérifiez systématiquement le numéro de lot des seringues avant toute administration »",
+      "url": "https://ansm.sante.fr/actualites/rappel-de-deux-lots-de-medicaments-a-base-daflibercept-destines-a-linjection-dans-loeil-en-ophtalmologie",
+      "source": "ANSM"
+     }
+    ],
+    "apres": "Le défaut a été identifié et corrigé, selon l'ANSM.",
+    "change": "Seuls ces deux lots sont visés ; les autres lots de ces médicaments ne le sont pas.",
+    "credit": {
+     "auteur": "Zkalila1998",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Intravitreal_treatment.jpg"
+    }
+   }
+  ],
+  "agenda": [],
+  "chiffreDuJour": {
+   "valeur": "8,8 points",
+   "texte": "L'écart de mortalité à 3 ans entre SABR (30,3 %) et chirurgie (21,6 %) dans l'étude du Journal of Clinical Oncology ; son intervalle de confiance va de 1,4 à 16,2 points."
+  },
+  "lexique": [
+   {
+    "terme": "Essai émulé",
+    "definition": "Une étude qui imite un essai randomisé à partir de dossiers médicaux existants, avec des méthodes statistiques pour limiter les biais. Moins solide qu'un vrai tirage au sort."
+   },
+   {
+    "terme": "SABR",
+    "definition": "Radiothérapie stéréotaxique : de fortes doses de rayons très ciblées, délivrées en peu de séances sur une petite tumeur."
+   },
+   {
+    "terme": "Rémission du diabète",
+    "definition": "HbA1c sous 6,5 % sans médicament contre le diabète. La maladie peut revenir."
+   },
+   {
+    "terme": "Inhibiteur de JAK",
+    "definition": "Médicament qui freine des signaux de l'inflammation, utilisé dans plusieurs maladies inflammatoires chroniques."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Dans l'étude publiée dans le Journal of Clinical Oncology, la mortalité à 3 ans ajustée est plus faible après chirurgie (21,6 %) qu'après SABR (30,3 %) chez les patients atteints d'un cancer du poumon précoce.",
+   "reponse": true,
+   "explication": "C'est vrai : cette étude observationnelle de 12 546 patients en Angleterre rapporte 21,6 % contre 30,3 % (8,8 points d'écart), mais il ne s'agit pas d'un essai randomisé, selon CancerNetwork."
+  }
+ },
+ {
+  "rubrique": "tech",
+  "date": "2026-11-07",
+  "minutes": 6,
+  "sujets": [],
+  "agenda": [],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Correction (boursière)",
+    "definition": "Baisse d'au moins 10 % d'un indice par rapport à son dernier sommet."
+   },
+   {
+    "terme": "Capitalisation boursière",
+    "definition": "Valeur d'une entreprise cotée : le cours de l'action multiplié par le nombre d'actions."
+   },
+   {
+    "terme": "Poids ouverts (open-weight)",
+    "definition": "Modèle d'IA dont le fichier de réglages est publié et téléchargeable."
+   },
+   {
+    "terme": "Post-entraînement",
+    "definition": "Étape qui adapte un modèle déjà entraîné à une tâche précise, ici la programmation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Selon l'agence AP, Nvidia a reculé de 9,3 % le 5 novembre et a pesé plus lourd que toute autre valeur dans la baisse de l'indice S&P 500.",
+   "reponse": true,
+   "explication": "Vrai : AP décrit Nvidia comme le poids le plus lourd de la séance sur le S&P 500, qui a perdu 4,4 %. Nvidia a ensuite regagné 2,5 % le 6 novembre, selon CBS News."
   }
  },
  {
