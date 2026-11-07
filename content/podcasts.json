@@ -1,5 +1,506 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-07",
+  "url": "/podcasts/essentiel-2026-11-07.mp3",
+  "taille": 7691016,
+  "duree": 641,
+  "titre": "Éclairage, l'essentiel du samedi 7 novembre 2026",
+  "titre_episode": "Conférence sociale, emploi américain, Nasdaq : l'essentiel du samedi 7 novembre 2026",
+  "description": "Ce samedi 7 novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : conférence sociale à Matignon sur le pouvoir d'achat\n• Politique : budget de la Sécurité sociale au Sénat\n• Économie : emploi américain d'octobre\n• Économie : inflation de la zone euro\n• Santé : cancer du poumon, chirurgie contre SABR\n• Santé : diabète de type 2 et chirurgie bariatrique\n• Alimentation : bio et produits durables dans les cantines\n• Tech : chute du Nasdaq et de Nvidia\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Pouvoir d'achat : Matignon réunit syndicats et patronat lundi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget de la Sécu : le Sénat examine le texte dès lundi"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Emploi américain : 165 000 créations en octobre, chômage à 4,1 %"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Zone euro : l'inflation atteint 4,0 % en octobre, portée par l'énergie"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Cancer du poumon : plus de décès à 3 ans après SABR qu'après chirurgie"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Diabète de type 2 : rémission chez 58 % des opérés, 3 % sans chirurgie"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Cantines : 31,1 % de produits durables en 2025, dont 12,1 % de bio"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce samedi 7 novembre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, intelligence artificielle et tech."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un chiffre qui divise : le 5 novembre, cinq cent soixante-quinze mille manifestants selon les autorités, un million six cent mille selon la CGT."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux comptages très différents, oui. C'était une journée de mobilisation contre la vie chère."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le soir même, le Premier ministre Sébastien Lecornu a convoqué une conférence sociale. C'est lundi neuf novembre, à Matignon."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autour de la table : le gouvernement, les syndicats et le patronat. Matignon dit vouloir apporter des réponses aux questions de pouvoir d'achat et de salaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, qu'est-ce que ça peut décider ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elle sert à négocier et à annoncer des mesures, mais elle ne remplace ni la loi ni le Parlement. Parmi les pistes : une hausse exceptionnelle du Smic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le ministre du Travail, Jean-Pierre Farandou, juge important de dépasser les mille cinq cents euros net. Le Smic est aujourd'hui autour de mille quatre cent soixante-dix-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il parle d'un coup de pouce exceptionnel, mais précise que rien n'est acquis. Autre piste : un décret déjà prêt pour inciter les entreprises à relever leurs minima de branche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les minima de branche, ce sont les salaires planchers fixés secteur par secteur."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Côté syndicats, la CFDT demande cent euros net de plus par mois pour le Smic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté patronal, l'organisation U2P parle d'une catastrophe pour les petites entreprises."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les huit syndicats décideront lundi soir des suites du mouvement. À retenir : lundi, conférence sociale, puis décision de l'intersyndicale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un point de crispation reste le gel du point d'indice des fonctionnaires, qui fixe leur salaire de base."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, les syndicats le citent encore. Et une nouvelle journée de manifestations a lieu ce samedi, avec soixante-dix mille policiers et gendarmes déployés, selon le ministre de l'Intérieur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre rendez-vous parlementaire lundi : le Sénat commence à examiner le budget de la Sécurité sociale pour 2027."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les députés ont rejeté le texte. Du coup, le Sénat repart de la version initiale du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et là, une question de seuil : jusqu'à quelle pension on suit l'inflation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le texte du gouvernement dit : jusqu'à mille deux cent soixante euros. La commission des affaires sociales du Sénat propose mille cinq cents."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui change quoi, en pratique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quarante pour cent des retraités seraient protégés de l'inflation, contre un tiers dans le texte du gouvernement. Coût : deux cents millions d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sur quatre milliards d'économies prévues. Et ce n'est pas tout."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La commission veut aussi rétablir la réforme des retraites de 2023, suspendue l'an dernier. Cela rapporterait six cents millions d'euros en 2027. Le gouvernement y est opposé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Au Sénat, le président de la commission, Philippe Mouiller, juge les marges extrêmement réduites. Il dit s'opposer par principe à de nouvelles taxes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon la majorité sénatoriale, les amendements visent un déficit de douze virgule sept milliards d'euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Plus de mille deux cents amendements déposés !"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Les débats courent du neuf au dix-huit novembre, avec un vote solennel le dix-huit. À retenir : le texte voté au Sénat n'est pas le texte final."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, et on commence aux États-Unis."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi, le Bureau of Labor Statistics a publié le rapport sur l'emploi d'octobre : cent soixante-cinq mille emplois créés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, c'est beaucoup plus que prévu, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Les sources attendaient environ soixante à soixante-cinq mille créations. Le chômage passe de 4,2 à 4,1 pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les salaires ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le salaire horaire moyen progresse de 3,1 pour cent sur un an. C'est moins vite que les prix : 3,7 pour cent en septembre, dernier chiffre disponible."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les services aux entreprises ont le plus embauché, avec soixante-dix mille postes, devant la santé, quarante-deux mille."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le PIB américain du troisième trimestre a progressé de 3,4 pour cent en rythme annualisé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc l'embauche est solide, mais le pouvoir d'achat reste sous pression."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Et ça compte pour les marchés : quand l'emploi tient, la Réserve fédérale, la Fed, peut relever ses taux."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Selon Investing.com, les marchés donnent environ soixante-quinze pour cent de chances à une hausse début décembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Phrase-clé : un rapport solide rend une hausse des taux plus probable, donc le crédit plus cher."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : la zone euro. L'inflation y atteint 4,0 pour cent en octobre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Contre 3,8 en septembre. Eurostat, l'office statistique européen, a publié cette estimation rapide mercredi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui tire les prix vers le haut ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'énergie. Elle affiche vingt virgule huit pour cent sur un an, contre dix-huit virgule neuf le mois précédent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de vingt pour cent ! Et hors énergie ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'inflation hors énergie, alimentation, alcool et tabac reste à 2,5 pour cent. L'écart avec les 4,0 vient surtout de l'énergie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, c'est le prix de l'énergie qui fait la différence."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pour les ménages, quand l'énergie coûte plus cher, les transports et le chauffage sont touchés en premier. Les autres prix suivent plus lentement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le président de la Bundesbank, Joachim Nagel, estime qu'une hausse des taux en décembre est très probablement nécessaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il parle de la Banque centrale européenne, qui vise une inflation de deux pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les données complètes d'octobre arrivent le dix-huit novembre. À retenir : l'énergie reste le principal moteur de la hausse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction la santé, avec le cancer du poumon à un stade précoce."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une étude publiée le deux novembre dans le Journal of Clinical Oncology compare deux options : l'opération, ou la SABR."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La SABR, c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une radiothérapie très ciblée, délivrée en quelques séances. L'étude porte sur douze mille cinq cent quarante-six adultes en Angleterre, diagnostiqués entre 2015 et 2020."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dix mille deux cent quarante-sept opérés, deux mille deux cent quatre-vingt-dix-neuf traités par SABR."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Résultat : la mortalité à trois ans est de 21,6 pour cent après chirurgie, contre 30,3 pour cent après SABR."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc près de neuf points d'écart."
+   },
+   {
+    "qui": "Paul",
+    "texte": "8,8 points, avec un intervalle de confiance de 1,4 à 16,2. Mais attention : chez les quatre-vingts ans et plus, l'écart n'est pas significatif."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les décès dus au cancer lui-même ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatorze virgule cinq contre vingt virgule six pour cent, mais là non plus, la différence n'est pas significative."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il faut dire que ce n'est pas un essai avec tirage au sort."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les auteurs ont imité un essai à partir de dossiers médicaux. Et les patients opérés sont en général en meilleure forme. Corrélation n'est pas causalité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les auteurs jugent que la chirurgie doit rester le traitement de référence pour les patients opérables."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et la SABR reste une option pour les personnes trop fragiles. Le choix se fait avec l'équipe soignante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre étude, autre maladie : le diabète de type deux."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Publiée dans Diabetes Care, elle suit deux cent soixante-deux personnes diabétiques et obèses, pendant onze ans en médiane."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cent soixante-six ont eu une chirurgie bariatrique métabolique, quatre-vingt-seize une prise en charge par médicaments et hygiène de vie."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rémission chez 58 pour cent des opérés, contre 3 pour cent dans l'autre groupe."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinquante-huit contre trois. C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais rémission ne veut pas dire guérison. Ici, c'est une HbA1c sous 6,5 pour cent sans médicament. La maladie peut revenir."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'HbA1c, c'est la glycémie moyenne des trois derniers mois."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La rémission est plus fréquente quand le diabète est plus récent, et quand la perte de poids est plus importante la première année."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les limites ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'effectif reste modeste, et les groupes ne sont pas parfaitement comparables. Aucun changement de recommandation n'est annoncé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : la durée du diabète et la perte de poids précoce comptent. Pour le reste, c'est une décision médicale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'assiette, et plus précisément à la cantine."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère de l'Agriculture a présenté le bilan « ma cantine » le vingt-huit octobre, sur les achats de 2025."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien de sites ont déclaré ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Près de cinquante mille cantines, soit 59 pour cent des sites. Quarante-sept pour cent de plus que la campagne précédente."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et côté contenu des assiettes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "En moyenne, 31,1 pour cent des achats sont des produits durables et de qualité, dont 12,1 pour cent de bio."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors que l'objectif légal est de vingt pour cent de bio."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, dans la loi EGalim, avec au moins cinquante pour cent de produits durables et de qualité. Un an plus tôt, c'était 29,5 et 11,8 pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc ça progresse, mais lentement."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les écoles primaires dépassent les vingt pour cent de bio, et les crèches atteignent les deux objectifs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ce taux ne concerne que les cantines qui ont déclaré."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement : quarante et un pour cent des sites n'y figurent pas. Et la déclaration, faute de sanction, n'est pas encore généralisée, note l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les cantines qui déclarent depuis plusieurs années, c'est un peu mieux, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "15,9 pour cent de bio en moyenne. Prochaine campagne : du treize janvier au trente et un mars 2027."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Phrase-clé : 12,1 pour cent de bio en moyenne, contre vingt pour cent visés par la loi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'intelligence artificielle et la tech, avec une séance de Bourse hors norme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi cinq novembre, le Nasdaq a perdu 5,5 pour cent. C'est sa pire séance depuis avril 2025, selon l'agence AP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Nvidia, le fabricant de puces pour l'IA ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Moins 9,3 pour cent. Selon AP, c'est la valeur qui a le plus pesé sur l'indice S&P 500. CNBC chiffre la perte à près de quatre cent cinquante milliards de dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Quatre cent cinquante milliards, en une séance ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. AMD a perdu 17,3 pour cent. Le S&P 500 a reculé de 4,4 pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui explique ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les causes citées sont des hypothèses : la crainte d'un ralentissement des centres de données à cause du coût de l'emprunt, des doutes sur la rentabilité des dépenses en IA."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le lien avec les élections américaines de mi-mandat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est une interprétation des analystes, pas un fait établi. Les chiffres de séance, eux, sont des faits."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et vendredi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rebond partiel : le Nasdaq a regagné 1,1 pour cent, Nvidia 2,5. Mais la baisse de la veille n'est pas effacée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le Nasdaq est même entré en correction."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une correction, c'est une baisse d'au moins dix pour cent depuis le dernier sommet. Ici, onze virgule neuf pour cent sous son record d'octobre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour un utilisateur de l'IA, ça change quelque chose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non, pas directement. Les services restent disponibles aux mêmes conditions. Pour un épargnant qui détient des valeurs technologiques, la valeur peut varier fortement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et dans les brèves tech, un nouveau modèle de programmation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cognition lance SWE-2 Flash, dans ses outils Devin. Selon l'entreprise, il coûte environ cinq fois moins cher et va trois fois plus vite que SWE-2."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ces scores sont ceux de l'entreprise, sans évaluation indépendante relevée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. Phrase-clé du jour tech : une baisse en Bourse n'annule pas des projets, les centres de données en service continuent de fonctionner."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce samedi. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne journée à toutes et à tous. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-07",
   "url": "/podcasts/politique-2026-11-07.mp3",
