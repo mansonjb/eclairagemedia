@@ -1,5 +1,211 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-07",
+  "url": "/podcasts/politique-2026-11-07.mp3",
+  "taille": 2738827,
+  "duree": 228,
+  "titre": "Éclairage politique, samedi 7 novembre 2026",
+  "titre_episode": "Conférence sociale, budget de la Sécu, CJR, programme LFI : l'essentiel du samedi 7 novembre",
+  "description": "Ce samedi 7 novembre, Léa et Paul reprennent 4 sujets.\n• Conférence sociale : après la mobilisation du 5 novembre, Matignon réunit syndicats et patronat lundi ; le Smic est en débat.\n• Budget de la Sécu : le Sénat commence lundi l'examen du texte, avec la question du seuil de revalorisation des pensions.\n• Cour de justice de la République : des avocats de manifestants blessés annoncent vouloir saisir la CJR contre le ministre de l'Intérieur.\n• Programme LFI : 1 069 mesures, l'écologie en première partie.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Pouvoir d'achat : Matignon réunit syndicats et patronat lundi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget de la Sécu : le Sénat examine le texte dès lundi"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Manifestants blessés : des avocats veulent saisir la CJR contre Nuñez"
+   },
+   {
+    "rubrique": "politique",
+    "n": 4,
+    "titre": "Programme LFI pour 2027 : l'écologie passe en première partie"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, c'est Léa. Bienvenue dans Éclairage politique, l'édition du samedi sept novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi c'est Paul. Au programme : une conférence sociale à Matignon, le budget de la Sécu au Sénat, des avocats qui visent un ministre, et le nouveau programme de La France insoumise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par un chiffre. Un million six cent mille personnes dans la rue jeudi, selon la CGT."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Attention, les autorités en comptent cinq cent soixante-quinze mille. Les deux chiffres sont à retenir, et l'écart est énorme."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le soir même, le Premier ministre Sébastien Lecornu convoque une conférence sociale."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi neuf novembre, à Matignon, avec les syndicats et le patronat. L'objectif affiché : apporter des réponses aux questions de pouvoir d'achat et de salaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une conférence sociale, concrètement, ça sert à quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À mettre tout le monde autour de la table pour négocier et annoncer des mesures. Mais ça ne remplace ni la loi ni le Parlement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur la table, il y a le Smic."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il est d'environ mille quatre cent soixante-dix-sept euros net. Le ministre du Travail, Jean-Pierre Farandou, juge important de franchir la barre des mille cinq cents euros, avec un coup de pouce exceptionnel. Mais il dit que rien n'est acquis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les syndicats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La CFDT demande cent euros net de plus par mois. Les huit organisations décideront lundi soir des suites du mouvement. Du côté patronal, l'U2P parle d'une catastrophe pour les petites entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : lundi, on saura si le gouvernement annonce une hausse du Smic."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Direction le Sénat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Lundi, les sénateurs commencent l'examen du budget de la Sécurité sociale pour deux mille vingt-sept. Vote solennel prévu le dix-huit novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, pourquoi le Sénat part du texte du gouvernement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que les députés ont rejeté la partie recettes. Du coup, le texte est considéré comme rejeté, et il arrive tel quel au Sénat, sans que l'Assemblée ait examiné les dépenses."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le sujet qui revient, ce sont les retraites."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le gouvernement veut revaloriser selon l'inflation les pensions jusqu'à mille deux cent soixante euros. La commission des affaires sociales du Sénat propose mille cinq cents euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ça change quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon la commission, quarante pour cent des retraités seraient protégés de l'inflation, contre un tiers dans le texte du gouvernement. Coût : deux cents millions d'euros sur quatre milliards d'économies prévues."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la réforme des retraites de deux mille vingt-trois ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La commission veut la rétablir. Elle est suspendue depuis l'an dernier. Ça rapporterait six cents millions d'euros en deux mille vingt-sept. Le gouvernement y est opposé."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de mille deux cents amendements ont été déposés. Le texte voté au Sénat ne sera pas le texte final."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Troisième sujet, la justice."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi, les avocats d'au moins dix-huit personnes blessées lors des manifestations depuis mi-septembre ont annoncé qu'ils veulent saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La Cour de justice de la République, c'est quoi exactement ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est la seule juridiction compétente pour juger les membres du gouvernement pour des actes commis dans l'exercice de leurs fonctions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et que reprochent les avocats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'avoir donné des ordres d'usage d'armes qu'ils disent mutilantes, comme les grenades et les lanceurs de balles de défense. Selon l'AFP, plus de vingt personnes ont été grièvement blessées depuis mi-septembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le ministre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il se dit prêt à répondre à toute plainte. Il affirme que la force s'exerce dans un cadre légal et réglementaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Important : à ce stade, c'est une annonce. Aucune plainte n'est déposée. Elle est attendue d'ici trois semaines, et Laurent Nuñez est présumé innocent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet, la présidentielle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La France insoumise a publié vendredi son programme, L'Avenir en commun. Mille soixante-neuf mesures, dont deux cent trente-huit nouvelles, selon LFI."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui frappe, c'est l'ordre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'écologie passe en première des six parties. Le texte fixe une baisse de soixante-cinq pour cent des émissions de gaz à effet de serre d'ici deux mille trente-trois, et cent pour cent d'énergies renouvelables au plus tard en deux mille soixante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deux mille soixante ? C'était plus tôt avant, non ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Dans la version de deux mille vingt-deux, c'était deux mille cinquante."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le programme maintient aussi un Smic à mille sept cents euros net."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le chiffrage complet doit être publié au début de deux mille vingt-sept. Jean-Luc Mélenchon le présente ce samedi lors d'un rassemblement au Bourget."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : ce sont des propositions, pas des décisions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-11-06",
   "url": "/podcasts/essentiel-2026-11-06.mp3",

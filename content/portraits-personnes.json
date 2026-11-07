@@ -1881,5 +1881,24 @@
   "licence": "CC BY-SA 4.0"
  },
  "Dina Powell McCormick": null,
- "Max Justicz": null
+ "Max Justicz": null,
+ "Les huit organisations": null,
+ "Michel Picon": null,
+ "Philippe Mouiller": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Picture_Philippe_Mouiller.jpg/250px-Picture_Philippe_Mouiller.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Picture_Philippe_Mouiller.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Picture_Philippe_Mouiller.jpg",
+  "auteur": "NM2019",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Olivier Henno": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Olivier_Henno_%284284015739%29.jpg/250px-Olivier_Henno_%284284015739%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Olivier_Henno_(4284015739).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Olivier_Henno_(4284015739).jpg",
+  "auteur": "Régions Démocrates 2010",
+  "licence": "CC BY 2.0"
+ },
+ "Groupe Les Indépendants": null,
+ "Arié Alimi": null,
+ "Emmanuelle Jourdan-Chartier": null
 }

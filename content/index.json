@@ -1,5 +1,428 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-07",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SOCIAL",
+    "titre": "Pouvoir d'achat : Matignon réunit syndicats et patronat lundi",
+    "court": "Conférence sociale lundi à Matignon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manifestation_Reims_5_novembre_2026_tete_de_cortege.jpg/1280px-Manifestation_Reims_5_novembre_2026_tete_de_cortege.jpg",
+    "legende": "Tête de cortège de la manifestation du 5 novembre 2026 à Reims",
+    "chapeau": "Jeudi 5 novembre, une journée de mobilisation contre la vie chère a réuni 575 000 personnes selon les autorités et 1,6 million selon la CGT. Le soir même, le Premier ministre Sébastien Lecornu a convoqué pour lundi 9 novembre une « conférence sociale » à Matignon, avec les syndicats et le patronat.",
+    "eclairage": "Que peut décider une conférence sociale ?",
+    "chiffres": [
+     {
+      "valeur": "575 k",
+      "legende": "manifestants le 5/11 selon les autorités"
+     },
+     {
+      "valeur": "1,6 M",
+      "legende": "manifestants le 5/11 selon la CGT"
+     },
+     {
+      "valeur": "9/11",
+      "legende": "conférence sociale à Matignon"
+     }
+    ],
+    "passe": "Jeudi 5 novembre, une journée de mobilisation contre la vie chère a réuni 575 000 personnes selon les autorités et 1,6 million selon la CGT. Le soir même, le Premier ministre Sébastien Lecornu a convoqué pour lundi 9 novembre une « conférence sociale » à Matignon, avec les syndicats et le patronat. Le communiqué de Matignon dit vouloir « apporter des réponses aux questions de pouvoir d'achat et de salaires ». Le ministre du Travail, Jean-Pierre Farandou, doit finaliser d'ici dimanche les concertations en cours. Il juge important de franchir la barre des 1 500 euros net pour le Smic, actuellement autour de 1 477 euros, et parle d'un « coup de pouce » exceptionnel ; rien n'est décidé à ce stade. Les huit organisations syndicales décideront lundi soir des suites du mouvement. Une nouvelle journée de manifestations a lieu ce samedi 7 novembre, avec 70 000 policiers et gendarmes déployés selon le ministre de l'Intérieur.",
+    "points": [],
+    "explication": "Elle réunit le gouvernement, les syndicats et les organisations patronales autour d'une table. Elle sert à négocier et à annoncer des mesures, mais ne remplace ni la loi ni le Parlement. Ici, les pistes citées sont une hausse exceptionnelle du Smic et un décret déjà prêt pour inciter les entreprises à relever leurs minima conventionnels, les salaires planchers fixés branche par branche. Le gel du point d'indice des fonctionnaires, qui fixe leur salaire de base, reste un point de crispation pour les syndicats.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/greve/greve/matignon-annonce-la-tenue-d-une-conference-sociale-lundi-en-presence-des-syndicats-et-du-patronat_8269589.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/acte-iv-de-la-colere-sociale-avant-les-annonces-attendues-du-gouvernement-1b6e9fb2c6dfef5a4e3e9bea24b973d9",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Jean-Pierre Farandou",
+      "contexte": "ministre du Travail",
+      "texte": "Il juge « important » de passer le Smic au-delà de 1 500 euros net, avec un « coup de pouce » exceptionnel, et dit : « rien n'est acquis ».",
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CFDT",
+      "qui": "Marylise Léon",
+      "contexte": "secrétaire générale",
+      "texte": "Elle demande une hausse du Smic de 100 euros net par mois et juge que le gouvernement « ne peut pas attendre la présidentielle ».",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/acte-iv-de-la-colere-sociale-avant-les-annonces-attendues-du-gouvernement-1b6e9fb2c6dfef5a4e3e9bea24b973d9",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "INTERSYNDICALE",
+      "qui": "Les huit organisations",
+      "contexte": null,
+      "texte": "Elles écrivent que « la seule chose qui arrêtera la mobilisation » est la réponse aux revendications, et se prononceront lundi soir.",
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "U2P",
+      "qui": "Michel Picon",
+      "contexte": "organisation patronale",
+      "texte": "Il qualifie une hausse du Smic de « une catastrophe » pour les petites entreprises.",
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Lundi 9 novembre : conférence sociale à Matignon, puis décision de l'intersyndicale le soir.",
+    "change": "Une hausse du Smic ou un décret sur les minima de branche toucherait directement les salaires les plus bas. Le patronat met en garde contre le coût pour les petites entreprises.",
+    "credit": {
+     "auteur": "MouvementLycéenReims",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestation_Reims_5_novembre_2026_tete_de_cortege.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "RETRAITES",
+    "titre": "Budget de la Sécu : le Sénat examine le texte dès lundi",
+    "court": "Budget de la Sécu : le Sénat s'y met",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Examen_du_projet_de_loi_sur_l%27enseignement_sup%C3%A9rieur_et_la_recherche_au_S%C3%A9nat.jpg/1280px-Examen_du_projet_de_loi_sur_l%27enseignement_sup%C3%A9rieur_et_la_recherche_au_S%C3%A9nat.jpg",
+    "legende": "La tribune de l'hémicycle du Sénat en séance publique, 2013 (illustration)",
+    "chapeau": "Lundi 9 novembre, le Sénat commence l'examen en séance du budget de la Sécurité sociale pour 2027, jusqu'à un vote solennel le 18 novembre. Les députés ayant rejeté le texte, le Sénat repart de la version initiale du gouvernement.",
+    "eclairage": "Pourquoi le Sénat part du texte du gouvernement ?",
+    "chiffres": [
+     {
+      "valeur": "9/11",
+      "legende": "début des débats au Sénat"
+     },
+     {
+      "valeur": "1 500",
+      "legende": "€ : seuil de pension proposé (1 260 € dans le texte)"
+     },
+     {
+      "valeur": "1 200+",
+      "legende": "amendements déposés"
+     }
+    ],
+    "passe": "Lundi 9 novembre, le Sénat commence l'examen en séance du budget de la Sécurité sociale pour 2027, jusqu'à un vote solennel le 18 novembre. Les députés ayant rejeté le texte, le Sénat repart de la version initiale du gouvernement. Celle-ci prévoit de revaloriser selon l'inflation les pensions jusqu'à 1 260 euros. La commission des affaires sociales, qui a arrêté ses amendements le 4 novembre, propose de relever ce seuil à 1 500 euros : 40 % des retraités seraient alors protégés de l'inflation, contre un tiers dans le texte du gouvernement, pour un coût de 200 millions d'euros sur 4 milliards d'économies prévues. Elle veut aussi rétablir la réforme des retraites de 2023, suspendue l'an dernier, ce qui rapporterait 600 millions d'euros en 2027 ; le gouvernement y est opposé. Selon la majorité sénatoriale, ses amendements visent un déficit de 12,7 milliards d'euros.",
+    "points": [],
+    "explication": "Le PLFSS fixe chaque année les recettes et les dépenses de la Sécurité sociale. Quand l'Assemblée rejette la partie recettes, le texte est « considéré comme rejeté » et transmis tel quel au Sénat, sans que les députés aient examiné les dépenses. Le Sénat peut alors le modifier librement. Désindexer une pension, c'est ne plus la faire suivre automatiquement l'inflation : ici, au-dessus d'un seuil fixé par le texte.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.moneyvox.fr/retraite/actualites/111102/desindexation-des-retraites-des-1-400-euros-de-pension-ce-que-propose-le-senat-pour-le-budget-secu-2027",
+      "nom": "MoneyVox"
+     },
+     {
+      "url": "https://www.senat.fr/leg/pjl26-138.html",
+      "nom": "senat.fr"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/l-assemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat-22fd8675720f04c3797bbd039474a296",
+      "nom": "Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Philippe Mouiller",
+      "contexte": "président de la commission des affaires sociales",
+      "texte": "Il juge les marges « extrêmement réduites » et dit s'opposer par principe à de nouvelles taxes.",
+      "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Marie-Do Aeschlimann",
+      "contexte": "rapporteure, branche vieillesse",
+      "texte": "« 40% des retraités vont pouvoir avoir une revalorisation de leur pension de retraite »",
+      "url": "https://www.moneyvox.fr/retraite/actualites/111102/desindexation-des-retraites-des-1-400-euros-de-pension-ce-que-propose-le-senat-pour-le-budget-secu-2027",
+      "source": "MoneyVox"
+     },
+     {
+      "fond": "#e3f3fd",
+      "couleur": "#2d9cdb",
+      "parti": "CENTRISTES",
+      "qui": "Olivier Henno",
+      "contexte": "rapporteur général (UC)",
+      "texte": "Il estime qu'il « ne serait pas responsable de dégrader le solde ».",
+      "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LES INDÉPENDANTS",
+      "qui": "Groupe Les Indépendants",
+      "contexte": null,
+      "texte": "Sur la réforme de 2023, ils parlent d'une « grave erreur politique ».",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "GAUCHE ET RN-UDR",
+      "qui": "Trois groupes de gauche, RN-UDR",
+      "contexte": null,
+      "texte": "Ils demandent la suppression de la désindexation partielle des pensions (réaction résumée, sans guillemets).",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Du 9 au 18 novembre : débats au Sénat, vote solennel le 18.",
+    "change": "Le seuil retenu décide quelles pensions suivent l'inflation en 2027. Le texte voté au Sénat n'est pas le texte final.",
+    "credit": {
+     "auteur": "Ministère français de l'Enseignement supérieur et de la Recherche",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Examen_du_projet_de_loi_sur_l%27enseignement_sup%C3%A9rieur_et_la_recherche_au_S%C3%A9nat.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "JUSTICE",
+    "titre": "Manifestants blessés : des avocats veulent saisir la CJR contre Nuñez",
+    "court": "Blessés : des avocats visent Nuñez à la CJR",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nuage_de_gaz_lacrymog%C3%A8ne_pendant_une_manifestation_sur_la_Plaine.jpg/1280px-Nuage_de_gaz_lacrymog%C3%A8ne_pendant_une_manifestation_sur_la_Plaine.jpg",
+    "legende": "Nuage de gaz lacrymogène dans une rue pendant une manifestation, Marseille 2018 (illustration)",
+    "chapeau": "Vendredi 6 novembre, à Paris, les avocats d'au moins 18 personnes blessées lors des mobilisations sociales depuis mi-septembre ont annoncé leur intention de saisir la Cour de justice de la République (CJR) contre le ministre de l'Intérieur, Laurent Nuñez.",
+    "eclairage": "Qu'est-ce que la Cour de justice de la République ?",
+    "chiffres": [
+     {
+      "valeur": "18",
+      "legende": "blessés représentés au moins"
+     },
+     {
+      "valeur": "20+",
+      "legende": "blessés graves recensés par l'AFP"
+     },
+     {
+      "valeur": "105",
+      "legende": "enquêtes IGPN au 30 octobre"
+     }
+    ],
+    "passe": "Vendredi 6 novembre, à Paris, les avocats d'au moins 18 personnes blessées lors des mobilisations sociales depuis mi-septembre ont annoncé leur intention de saisir la Cour de justice de la République (CJR) contre le ministre de l'Intérieur, Laurent Nuñez. Ils lui reprochent d'avoir donné des ordres d'usage d'armes qu'ils disent mutilantes, comme les grenades et les lanceurs de balles de défense. Les qualifications envisagées sont des « violences volontaires ayant entraîné des mutilations » ou la complicité par instigation. La plainte collective doit être déposée d'ici trois semaines ; une dizaine de blessés ont donné leur accord. Selon l'AFP, plus de vingt personnes ont été grièvement blessées depuis mi-septembre, et l'inspection générale de la police nationale (IGPN) était saisie de 105 enquêtes au 30 octobre. Le ministre se dit prêt à répondre à toute plainte et affirme que la force s'exerce dans un cadre légal. À ce stade, il s'agit d'une annonce : aucune plainte n'est déposée devant la CJR.",
+    "points": [],
+    "explication": "C'est la seule juridiction compétente pour juger les membres du gouvernement pour des actes commis dans l'exercice de leurs fonctions. Une annonce n'est pas une plainte, et une plainte n'est pas une condamnation : Laurent Nuñez bénéficie de la présomption d'innocence. D'autres plaintes visant le ministre ont déjà été déposées en octobre par un autre avocat, pour deux manifestants blessés, l'un à Saint-Étienne, l'autre à Toulouse.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/manifestants-blesses-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nunez-53e501dfbabf9fb2fb7bd207c3ea00f3",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/11/06/manifestants-blesses-des-avocats-vont-saisir-la-cjr-contre-laurent-nunez",
+      "nom": "Euronews"
+     },
+     {
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/11/06/manifestants-blesses-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nunez-EKYK6X6DPBF53FBYGDEG7JJWBY/",
+      "nom": "dépêche AFP via La DH"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "AVOCAT DES BLESSÉS",
+      "qui": "Arié Alimi",
+      "contexte": "avocat",
+      "texte": "« Ces armes peuvent tuer », dit-il ; il estime nécessaire de viser le responsable à l'origine des mutilations (propos résumés pour cette seconde partie).",
+      "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« Je serai prêt à répondre à toute plainte qui est déposée contre moi »",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/manifestants-blesses-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nunez-53e501dfbabf9fb2fb7bd207c3ea00f3",
+      "source": "AFP via Boursorama"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "LDH",
+      "qui": "Emmanuelle Jourdan-Chartier",
+      "contexte": "vice-présidente de la Ligue des droits de l'Homme",
+      "texte": "Elle réclame un autre maintien de l'ordre et l'interdiction de certaines armes (réaction résumée, sans guillemets).",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/manifestants-blesses-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nunez-53e501dfbabf9fb2fb7bd207c3ea00f3",
+      "source": "AFP via Boursorama"
+     }
+    ],
+    "apres": "Dépôt de la plainte collective annoncé d'ici trois semaines, selon l'avocat.",
+    "change": "Si la plainte est déposée, la procédure se jouera devant la seule juridiction compétente pour les ministres. Les armes de maintien de l'ordre sont au cœur du débat.",
+    "credit": {
+     "auteur": "LaloMassalia",
+     "licence": "CC0",
+     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Nuage_de_gaz_lacrymog%C3%A8ne_pendant_une_manifestation_sur_la_Plaine.jpg"
+    }
+   },
+   {
+    "n": 4,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Programme LFI pour 2027 : l'écologie passe en première partie",
+    "court": "Mélenchon : un programme, l'écologie d'abord",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jean-Luc_M%C3%A9lenchon_-_Livre_Paris_2017_%2833532565092%29.jpg/1280px-Jean-Luc_M%C3%A9lenchon_-_Livre_Paris_2017_%2833532565092%29.jpg",
+    "legende": "Jean-Luc Mélenchon au salon Livre Paris, 2017 (archive)",
+    "chapeau": "Vendredi 6 novembre, La France insoumise a publié une nouvelle version de son programme présidentiel, L'Avenir en commun (212 pages, 4,90 euros, éditions La Dispute). Elle compte 1 069 mesures dont 238 nouvelles, selon LFI.",
+    "eclairage": "Ce qui change depuis 2022",
+    "chiffres": [
+     {
+      "valeur": "1 069",
+      "legende": "mesures, selon LFI"
+     },
+     {
+      "valeur": "238",
+      "legende": "mesures nouvelles"
+     },
+     {
+      "valeur": "2060",
+      "legende": "au plus tard : 100 % de renouvelables (2050 en 2022)"
+     }
+    ],
+    "passe": "Vendredi 6 novembre, La France insoumise a publié une nouvelle version de son programme présidentiel, L'Avenir en commun (212 pages, 4,90 euros, éditions La Dispute). Elle compte 1 069 mesures dont 238 nouvelles, selon LFI. L'écologie devient la première des six parties. Le texte fixe une baisse de 65 % des émissions de gaz à effet de serre d'ici 2033 et 100 % d'énergies renouvelables « au plus tard en 2060 », contre 2050 dans la version de 2022. Il maintient notamment le Smic à 1 700 euros net et, à terme, la retraite à taux plein à 60 ans après 40 annuités. Le chiffrage complet doit être publié au début de 2027. Jean-Luc Mélenchon présente ce programme samedi 7 novembre lors d'un rassemblement au Bourget (Seine-Saint-Denis).",
+    "points": [],
+    "explication": "Ce sont des propositions d'un mouvement et de son candidat, pas des décisions. Le programme maintient une « règle verte » dans la Constitution. Parmi les nouveautés citées : la baisse de 65 % des émissions fixée à 2033 (2030 dans la version de 2022), l'interdiction des vols de nuit entre 23 h et 6 h et une conscription écologique rémunérée au Smic.",
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi",
+      "nom": "France 24 (avec AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/pour-la-sortie-de-son-programme-melenchon-veut-faire-une-nouvelle-demonstration-de-force-au-bourget-132cad1c2c97609065388aa54215be59",
+      "nom": "dépêche AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "dans l'introduction du programme",
+      "texte": "« Les mesures proposées ne sont pas les intentions de quelques technocrates seuls dans un bureau. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Hadrien Clouet",
+      "contexte": "député, coresponsable du programme",
+      "texte": "« Tout notre programme est structuré autour de la planification écologique »",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Manuel Bompard",
+      "contexte": "coordinateur national",
+      "texte": "« Nous sommes dans la continuité d'un travail programmatique sérieux »",
+      "url": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi",
+      "source": "France 24, avec AFP"
+     }
+    ],
+    "apres": "Samedi 7 novembre : rassemblement au Bourget. Début 2027 : chiffrage complet.",
+    "change": "Le programme fixe le cadre de campagne de LFI avant la présidentielle de 2027. Son financement n'est pas encore chiffré.",
+    "credit": {
+     "auteur": "ActuaLitté",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean-Luc_M%C3%A9lenchon_-_Livre_Paris_2017_(33532565092).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "7",
+    "mois": "NOV.",
+    "texte": "Mobilisation et rassemblement LFI au Bourget : manifestations dans le pays, avec 70 000 policiers et gendarmes déployés."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Conférence sociale à Matignon sur les salaires, puis décision de l'intersyndicale ; des représentants lycéens et étudiants reçus par le gouvernement l'après-midi."
+   },
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Le Sénat commence l'examen du budget de la Sécurité sociale 2027."
+   },
+   {
+    "jour": "18",
+    "mois": "NOV.",
+    "texte": "Vote solennel du Sénat sur le budget de la Sécurité sociale."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Conférence sociale",
+    "definition": "Une réunion entre gouvernement, syndicats et patronat pour négocier sur un sujet, ici les salaires."
+   },
+   {
+    "terme": "Désindexation",
+    "definition": "Ne plus faire suivre automatiquement une pension ou une aide sur l'inflation."
+   },
+   {
+    "terme": "Cour de justice de la République",
+    "definition": "La juridiction qui juge les membres du gouvernement pour des actes commis dans leurs fonctions."
+   },
+   {
+    "terme": "Minima conventionnels",
+    "definition": "Les salaires planchers fixés par accord dans chaque branche professionnelle."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Jeudi 5 novembre, aucun explosif n'a été trouvé à bord des avions visés par les alertes à la bombe en Europe.",
+   "reponse": true,
+   "explication": "Les autorités n'ont découvert aucun engin suspect : tous les appareils visés ont atterri sans incident, selon l'AFP. L'origine des alertes reste inconnue à ce stade."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-06",
   "minutes": 11,

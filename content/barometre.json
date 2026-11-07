@@ -1,10 +1,10 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-07",
  "sondage": {
   "methode": "moyenne",
-  "nb": 13,
+  "nb": 12,
   "jours": 30,
-  "debut": "2026-10-07",
+  "debut": "2026-10-08",
   "fin": "2026-10-29",
   "instituts": [
    "Cluster17",
@@ -12,7 +12,6 @@
    "Harris",
    "Ifop",
    "Ipsos",
-   "Odoxa",
    "OpinionWay",
    "YouGov"
   ],
@@ -57,13 +56,12 @@
   ]
  },
  "sources_attention": [
-  "Wikipedia",
   "réseaux",
   "citations",
   "abonnés",
   "YouTube"
  ],
- "polymarket_volume": 165901773.692923,
+ "polymarket_volume": 167465535.442536,
  "poids": {
   "sondage": 0.5,
   "polymarket": 0.3,
@@ -79,27 +77,26 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 34.9,
-    "d": 1
+    "v": 34.7,
+    "d": 0.4
    },
    "attention": {
-    "v": 66.5,
-    "d": -28.3,
+    "v": 88.3,
+    "d": -23.2,
     "parts": {
-     "Wikipedia": 3.3,
      "réseaux": 18.7,
      "citations": 32.5,
-     "abonnés": 1.4,
-     "YouTube": 27.7
+     "abonnés": 1.9,
+     "YouTube": 37.5
     }
    },
    "polymarket": {
-    "v": 43,
-    "d": -0.5,
-    "d24": 3.3,
-    "d30": 0.4,
-    "vol": 4992691,
-    "vol7": 375088,
+    "v": 45.1,
+    "d": 4.3,
+    "d24": 0.9,
+    "d30": 2.3,
+    "vol": 5136884,
+    "vol7": 370528,
     "haut": 48.2,
     "bas": 39.4
    },
@@ -297,9 +294,9 @@
    "composantes": {
     "sondage": 100,
     "polymarket": 100,
-    "attention": 67
+    "attention": 88
    },
-   "score": 93,
+   "score": 98,
    "rangs": {
     "sondage": 1,
     "polymarket": 1
@@ -314,31 +311,44 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 17,
-    "d": 0.2
+    "v": 16.9,
+    "d": 0
    },
    "attention": {
-    "v": 100,
-    "d": 19.4,
+    "v": 98.4,
+    "d": 1.5,
     "parts": {
-     "Wikipedia": 10.4,
      "réseaux": 37.7,
      "citations": 17.9,
-     "abonnés": 46.9,
-     "YouTube": 12.4
+     "abonnés": 23.8,
+     "YouTube": 4.4
     }
    },
    "polymarket": {
-    "v": 13.5,
+    "v": 12.5,
     "d": 2,
-    "d24": 0.5,
-    "d30": 1,
-    "vol": 3150513,
-    "vol7": 509975,
+    "d24": null,
+    "d30": null,
+    "vol": 3281829,
+    "vol7": 563879,
     "haut": 13.5,
     "bas": 9.5
    },
    "declarations": [
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
+     "contexte": "dans l'introduction du programme",
+     "texte": "« Les mesures proposées ne sont pas les intentions de quelques technocrates seuls dans un bureau. »",
+     "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+     "source": "Public Sénat",
+     "date": "2026-11-07",
+     "rubrique": "politique",
+     "sujet": "Programme LFI pour 2027 : l'écologie passe en première partie",
+     "href": "/politique/2026-11-07/4"
+    },
     {
      "fond": "#ffe9e6",
      "couleur": "#d7263d",
@@ -408,23 +418,9 @@
      "rubrique": "politique",
      "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
      "href": "/politique/2026-10-18/2"
-    },
-    {
-     "fond": "#efe8ff",
-     "couleur": "#7e57c2",
-     "parti": "AUTRES",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "La France insoumise",
-     "texte": "L'AFP rapporte une vive réaction du dirigeant de LFI après les propos tenus jeudi par le gouverneur.",
-     "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie/taux-francais-une-intervention-de-la-bce-ne-se-justifie-pas-estime-le-gouverneur-de-la-banque-de-france-afp-96284888eef4a9280ad23523c6ad7bf238e1de23",
-     "source": "Bourse Direct (AFP)",
-     "date": "2026-10-17",
-     "rubrique": "economie",
-     "sujet": "Taux français : la Banque de France écarte une intervention de la BCE",
-     "href": "/economie/2026-10-17/2"
     }
    ],
-   "nbDeclarations": 15,
+   "nbDeclarations": 16,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -531,10 +527,10 @@
    },
    "composantes": {
     "sondage": 49,
-    "polymarket": 31,
-    "attention": 100
+    "polymarket": 28,
+    "attention": 98
    },
-   "score": 54,
+   "score": 53,
    "rangs": {
     "sondage": 2,
     "polymarket": 3
@@ -549,29 +545,28 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 14.6,
-    "d": -1.9
+    "v": 14.4,
+    "d": -2.1
    },
    "attention": {
-    "v": 16.5,
-    "d": 7,
+    "v": 17.2,
+    "d": 7.1,
     "parts": {
-     "Wikipedia": 4.3,
      "réseaux": 1.3,
      "citations": 12.1,
-     "abonnés": 0.1,
+     "abonnés": 0.2,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 11.5,
-    "d": -6,
+    "v": 10.5,
+    "d": -3,
     "d24": null,
-    "d30": -6,
-    "vol": 2981268,
-    "vol7": 325130,
+    "d30": -8,
+    "vol": 3032640,
+    "vol7": 212696,
     "haut": 24.5,
-    "bas": 11.5
+    "bas": 10.5
    },
    "declarations": [
     {
@@ -765,11 +760,11 @@
     ]
    },
    "composantes": {
-    "sondage": 42,
-    "polymarket": 27,
+    "sondage": 41,
+    "polymarket": 23,
     "attention": 17
    },
-   "score": 33,
+   "score": 31,
    "rangs": {
     "sondage": 3,
     "polymarket": 4
@@ -788,25 +783,24 @@
     "d": null
    },
    "attention": {
-    "v": 50.6,
-    "d": 14.2,
+    "v": 47.7,
+    "d": 21.6,
     "parts": {
-     "Wikipedia": 24.5,
      "réseaux": 14.7,
      "citations": 1.7,
-     "abonnés": 13.8,
-     "YouTube": 14.3
+     "abonnés": 22.5,
+     "YouTube": 13.9
     }
    },
    "polymarket": {
-    "v": 16.1,
-    "d": 1.1,
-    "d24": 1.3,
-    "d30": 4.3,
-    "vol": 6660730,
-    "vol7": 970441,
+    "v": 14.8,
+    "d": -5.2,
+    "d24": -0.4,
+    "d30": 1.6,
+    "vol": 6793898,
+    "vol7": 862736,
     "haut": 20.1,
-    "bas": 10.7
+    "bas": 11.6
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -910,10 +904,10 @@
    },
    "composantes": {
     "sondage": 19,
-    "polymarket": 37,
-    "attention": 51
+    "polymarket": 33,
+    "attention": 48
    },
-   "score": 31,
+   "score": 29,
    "rangs": {
     "sondage": 8,
     "polymarket": 2
@@ -928,27 +922,26 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 13,
-    "d": 2.6
+    "v": 13.2,
+    "d": 2.9
    },
    "attention": {
-    "v": 11.5,
-    "d": -10.7,
+    "v": 9.2,
+    "d": -13.1,
     "parts": {
-     "Wikipedia": 6.1,
      "réseaux": 0.6,
      "citations": 6,
-     "abonnés": 0.6,
+     "abonnés": 1,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 2.6,
-    "d": -1.3,
-    "d24": 0.5,
-    "d30": 1.3,
-    "vol": 3357901,
-    "vol7": 205673,
+    "v": 2.8,
+    "d": 0.6,
+    "d24": -0.2,
+    "d30": 1.8,
+    "vol": 3447558,
+    "vol7": 224111,
     "haut": 5.3,
     "bas": 0.9
    },
@@ -1130,9 +1123,9 @@
     ]
    },
    "composantes": {
-    "sondage": 37,
+    "sondage": 38,
     "polymarket": 6,
-    "attention": 12
+    "attention": 9
    },
    "score": 23,
    "rangs": {
@@ -1150,23 +1143,22 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 84.7,
-    "d": 15.8,
+    "v": 100,
+    "d": 28.2,
     "parts": {
-     "Wikipedia": 18.8,
-     "abonnés": 20.2,
-     "YouTube": 31.9
+     "abonnés": 22.5,
+     "YouTube": 29.2
     }
    },
    "polymarket": {
-    "v": 0.2,
-    "d": -0.4,
+    "v": 0.1,
+    "d": -0.2,
     "d24": -0.1,
-    "d30": -0.7,
-    "vol": 3125791,
-    "vol7": 301540,
+    "d30": -0.9,
+    "vol": 3193542,
+    "vol7": 288396,
     "haut": 1.1,
-    "bas": 0.2
+    "bas": 0.1
    },
    "declarations": [],
    "nbDeclarations": 0,
@@ -1174,9 +1166,9 @@
    "composantes": {
     "sondage": 0,
     "polymarket": 0,
-    "attention": 85
+    "attention": 100
    },
-   "score": 17,
+   "score": 20,
    "rangs": {
     "polymarket": 11
    }
@@ -1190,27 +1182,26 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 8.8,
-    "d": -1.7
+    "v": 8.6,
+    "d": -1.9
    },
    "attention": {
-    "v": 17.7,
-    "d": 0.2,
+    "v": 20,
+    "d": -0.5,
     "parts": {
-     "Wikipedia": 3.1,
      "réseaux": 4.7,
      "citations": 10,
      "abonnés": 0,
-     "YouTube": 0.9
+     "YouTube": 1.1
     }
    },
    "polymarket": {
     "v": 0.5,
-    "d": -0.1,
+    "d": 0,
     "d24": null,
-    "d30": -1.6,
-    "vol": 3653461,
-    "vol7": 343630,
+    "d30": -2.3,
+    "vol": 3720832,
+    "vol7": 271059,
     "haut": 3,
     "bas": 0.4
    },
@@ -1408,12 +1399,12 @@
    "composantes": {
     "sondage": 25,
     "polymarket": 1,
-    "attention": 18
+    "attention": 20
    },
-   "score": 16,
+   "score": 17,
    "rangs": {
     "sondage": 5,
-    "polymarket": 9
+    "polymarket": 10
    }
   },
   {
@@ -1429,23 +1420,22 @@
     "d": -0.7
    },
    "attention": {
-    "v": 20.1,
-    "d": 6.7,
+    "v": 22.7,
+    "d": 10.9,
     "parts": {
-     "Wikipedia": 4.5,
      "réseaux": 5,
      "citations": 10.2,
-     "abonnés": 2,
-     "YouTube": 0.1
+     "abonnés": 3.4,
+     "YouTube": 0.3
     }
    },
    "polymarket": {
-    "v": 0.4,
-    "d": -0.7,
-    "d24": -0.4,
-    "d30": -0.8,
-    "vol": 3653081,
-    "vol7": 223236,
+    "v": 0.9,
+    "d": 0.3,
+    "d24": 0.2,
+    "d30": -0.3,
+    "vol": 3709850,
+    "vol7": 211699,
     "haut": 1.6,
     "bas": 0.4
    },
@@ -1641,14 +1631,14 @@
     ]
    },
    "composantes": {
-    "sondage": 21,
-    "polymarket": 1,
-    "attention": 20
+    "sondage": 22,
+    "polymarket": 2,
+    "attention": 23
    },
-   "score": 15,
+   "score": 16,
    "rangs": {
     "sondage": 7,
-    "polymarket": 10
+    "polymarket": 8
    }
   },
   {
@@ -1664,24 +1654,23 @@
     "d": 1.3
    },
    "attention": {
-    "v": 4.6,
-    "d": -1,
+    "v": 4.9,
+    "d": -1.1,
     "parts": {
-     "Wikipedia": 1.5,
      "réseaux": 1,
      "citations": 1.4,
-     "abonnés": 1.6,
+     "abonnés": 2.2,
      "YouTube": 0
     }
    },
    "polymarket": {
     "v": 2.1,
-    "d": -0.1,
-    "d24": -0.8,
-    "d30": -2.2,
-    "vol": 2974079,
-    "vol7": 208882,
-    "haut": 5.1,
+    "d": 0.3,
+    "d24": -0.3,
+    "d30": -1.4,
+    "vol": 3041609,
+    "vol7": 202807,
+    "haut": 3.7,
     "bas": 1.4
    },
    "declarations": [],
@@ -1810,27 +1799,26 @@
    "date_statut": null,
    "source_statut": null,
    "sondage": {
-    "v": 4.1,
+    "v": 4,
     "d": -0.1
    },
    "attention": {
-    "v": 17,
-    "d": -5.9,
+    "v": 16.5,
+    "d": -6,
     "parts": {
-     "Wikipedia": 6.5,
      "réseaux": 5.5,
      "citations": 1.6,
-     "abonnés": 1.3,
-     "YouTube": 9
+     "abonnés": 2.9,
+     "YouTube": 8.5
     }
    },
    "polymarket": {
-    "v": 0.8,
+    "v": 0.7,
     "d": -0.2,
     "d24": null,
-    "d30": -0.2,
-    "vol": 3418684,
-    "vol7": 166196,
+    "d30": -0.1,
+    "vol": 3466893,
+    "vol7": 134107,
     "haut": 1.2,
     "bas": 0.4
    },
@@ -1948,7 +1936,7 @@
    "score": 10,
    "rangs": {
     "sondage": 9,
-    "polymarket": 8
+    "polymarket": 9
    }
   },
   {
@@ -1964,13 +1952,12 @@
     "d": -0.7
    },
    "attention": {
-    "v": 11.5,
-    "d": -7,
+    "v": 13.8,
+    "d": -7.8,
     "parts": {
-     "Wikipedia": 2.4,
      "réseaux": 5.2,
      "citations": 2.6,
-     "abonnés": 2.1,
+     "abonnés": 3.8,
      "YouTube": 0
     }
    },
@@ -1980,7 +1967,7 @@
     "d24": null,
     "d30": -0.1,
     "vol": 4627549,
-    "vol7": 10002,
+    "vol7": 0,
     "haut": null,
     "bas": null
    },
@@ -2178,9 +2165,9 @@
    "composantes": {
     "sondage": 8,
     "polymarket": 0,
-    "attention": 12
+    "attention": 14
    },
-   "score": 6,
+   "score": 7,
    "rangs": {
     "sondage": 10,
     "polymarket": 12
@@ -2199,13 +2186,12 @@
     "d": -0.4
    },
    "attention": {
-    "v": 6.4,
-    "d": 1.3,
+    "v": 3.8,
+    "d": -2.1,
     "parts": {
-     "Wikipedia": 4.7,
      "réseaux": 1.6,
      "citations": 0.6,
-     "abonnés": 0.7,
+     "abonnés": 1,
      "YouTube": 0
     }
    },
@@ -2385,12 +2371,157 @@
    "composantes": {
     "sondage": 6,
     "polymarket": 0,
-    "attention": 6
+    "attention": 4
    },
    "score": 4,
    "rangs": {
     "sondage": 11,
     "polymarket": 13
+   }
+  },
+  {
+   "nom": "François Ruffin",
+   "wiki": "François_Ruffin",
+   "etiquette": "Debout !",
+   "couleur": "#7e57c2",
+   "statut": null,
+   "date_statut": null,
+   "source_statut": null,
+   "sondage": null,
+   "attention": {
+    "v": 13,
+    "d": 3.9,
+    "parts": {
+     "réseaux": 3.7,
+     "citations": 0.9,
+     "abonnés": 5.1,
+     "YouTube": 5.2
+    }
+   },
+   "polymarket": {
+    "v": 0.1,
+    "d": null,
+    "d24": null,
+    "d30": -0.1,
+    "vol": 4907098,
+    "vol7": 0,
+    "haut": null,
+    "bas": null
+   },
+   "declarations": [],
+   "nbDeclarations": 0,
+   "reseaux": {
+    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-ruffin/",
+    "phase": {
+     "note": "79 %",
+     "libelle": "en phase · Proche",
+     "texte": "Ses publications parlent d'abord d'économie et finances (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
+    },
+    "rangs": [
+     {
+      "rang": 3,
+      "libelle": "sur 34 en nombre de posts",
+      "valeur": "4 296 posts"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en engagement",
+      "valeur": "6 991 364"
+     },
+     {
+      "rang": 14,
+      "libelle": "sur 34 en engagement moyen par post",
+      "valeur": "1 627"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en vues et impressions mesurées",
+      "valeur": "127 776 526"
+     },
+     {
+      "rang": 8,
+      "libelle": "sur 34 en abonnés relevés",
+      "valeur": "1 353 493 abonnés"
+     }
+    ],
+    "posts": [
+     {
+      "quand": "17 décembre 2025 · TikTok",
+      "texte": "Y a quoi derrière vos colis ?",
+      "chiffres": "332 318 j'aime · 5 096 commentaires · 32 492 partages · 3 841 621 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7584874683435191574"
+     },
+     {
+      "quand": "21 novembre 2025 · TikTok",
+      "texte": "Sauvez Teisseire ! Sauvez le sirop de grenadine français, sauvez 205 emplois, 205 vies de famille, sauvez ce qu’il reste de notre industrie française, nos usines qu’on laisse…",
+      "chiffres": "240 184 j'aime · 3 562 commentaires · 19 913 partages · 3 023 922 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7575183811785329942"
+     },
+     {
+      "quand": "26 janvier 2026 · TikTok",
+      "texte": "Je suis candidat à la présidence de la République française. Pour les millions de travailleurs qui, en bas, dans les usines, les bureaux, les hôpitaux, tiennent le pays debout.…",
+      "chiffres": "134 194 j'aime · 2 469 commentaires · 11 072 partages · 1 751 193 vues",
+      "url": "https://tiktok.com/@francois_ruffin/video/7599771786070215958"
+     }
+    ],
+    "citations": [
+     {
+      "valeur": "1 379",
+      "libelle": "posts qui le citent sur 12 mois",
+      "detail": ""
+     },
+     {
+      "valeur": "241",
+      "libelle": "auteurs distincts",
+      "detail": ""
+     },
+     {
+      "valeur": "14",
+      "libelle": "sur 34 candidats les plus cités",
+      "detail": ""
+     },
+     {
+      "valeur": "16",
+      "libelle": "posts sur les 7 derniers jours",
+      "detail": ""
+     },
+     {
+      "valeur": "376",
+      "libelle": "posts de politiques qui le citent sur 12 mois",
+      "detail": "par 156 politiques"
+     },
+     {
+      "valeur": "77",
+      "libelle": "posts de lobbies et organisations sur 12 mois",
+      "detail": "par 36 organisations"
+     }
+    ],
+    "journalistes": [
+     {
+      "nom": "Antoine Oberdorff",
+      "role": "Journaliste",
+      "posts": "43 posts"
+     },
+     {
+      "nom": "Christine Lejoux",
+      "role": "Journaliste",
+      "posts": "19 posts"
+     },
+     {
+      "nom": "Françoise Degois",
+      "role": "Journaliste",
+      "posts": "11 posts"
+     }
+    ]
+   },
+   "composantes": {
+    "sondage": 0,
+    "polymarket": 0,
+    "attention": 13
+   },
+   "score": 3,
+   "rangs": {
+    "polymarket": 14
    }
   },
   {
@@ -2403,25 +2534,24 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 10.1,
-    "d": -6.8,
+    "v": 10.2,
+    "d": -0.6,
     "parts": {
-     "Wikipedia": 5.9,
      "réseaux": 0.3,
      "citations": 1.9,
-     "abonnés": 5.9,
+     "abonnés": 9.8,
      "YouTube": 0
     }
    },
    "polymarket": {
-    "v": 1.8,
-    "d": 1.2,
-    "d24": 0.1,
-    "d30": 0.9,
-    "vol": 3287076,
-    "vol7": 382508,
-    "haut": 1.9,
-    "bas": 0.2
+    "v": 1.9,
+    "d": 1.3,
+    "d24": -0.2,
+    "d30": 1.1,
+    "vol": 3509891,
+    "vol7": 467275,
+    "haut": 2.2,
+    "bas": 0.4
    },
    "declarations": [
     {
@@ -2555,152 +2685,6 @@
    }
   },
   {
-   "nom": "François Ruffin",
-   "wiki": "François_Ruffin",
-   "etiquette": "Debout !",
-   "couleur": "#7e57c2",
-   "statut": null,
-   "date_statut": null,
-   "source_statut": null,
-   "sondage": null,
-   "attention": {
-    "v": 10.8,
-    "d": 3.4,
-    "parts": {
-     "Wikipedia": 3,
-     "réseaux": 3.7,
-     "citations": 0.9,
-     "abonnés": 3.3,
-     "YouTube": 3.7
-    }
-   },
-   "polymarket": {
-    "v": 0.1,
-    "d": null,
-    "d24": -0.1,
-    "d30": -0.1,
-    "vol": 4907098,
-    "vol7": 60578,
-    "haut": null,
-    "bas": null
-   },
-   "declarations": [],
-   "nbDeclarations": 0,
-   "reseaux": {
-    "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/francois-ruffin/",
-    "phase": {
-     "note": "79 %",
-     "libelle": "en phase · Proche",
-     "texte": "Ses publications parlent d'abord d'économie et finances (26 %), quand les Français placent en tête économie et finances (28 % de leurs priorités)."
-    },
-    "rangs": [
-     {
-      "rang": 3,
-      "libelle": "sur 34 en nombre de posts",
-      "valeur": "4 296 posts"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en engagement",
-      "valeur": "6 991 364"
-     },
-     {
-      "rang": 14,
-      "libelle": "sur 34 en engagement moyen par post",
-      "valeur": "1 627"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en vues et impressions mesurées",
-      "valeur": "127 776 526"
-     },
-     {
-      "rang": 8,
-      "libelle": "sur 34 en abonnés relevés",
-      "valeur": "1 353 493 abonnés"
-     }
-    ],
-    "posts": [
-     {
-      "quand": "17 décembre 2025 · TikTok",
-      "texte": "Y a quoi derrière vos colis ?",
-      "chiffres": "332 318 j'aime · 5 096 commentaires · 32 492 partages · 3 841 621 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7584874683435191574"
-     },
-     {
-      "quand": "21 novembre 2025 · TikTok",
-      "texte": "Sauvez Teisseire ! Sauvez le sirop de grenadine français, sauvez 205 emplois, 205 vies de famille, sauvez ce qu’il reste de notre industrie française, nos usines qu’on laisse…",
-      "chiffres": "240 184 j'aime · 3 562 commentaires · 19 913 partages · 3 023 922 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7575183811785329942"
-     },
-     {
-      "quand": "26 janvier 2026 · TikTok",
-      "texte": "Je suis candidat à la présidence de la République française. Pour les millions de travailleurs qui, en bas, dans les usines, les bureaux, les hôpitaux, tiennent le pays debout.…",
-      "chiffres": "134 194 j'aime · 2 469 commentaires · 11 072 partages · 1 751 193 vues",
-      "url": "https://tiktok.com/@francois_ruffin/video/7599771786070215958"
-     }
-    ],
-    "citations": [
-     {
-      "valeur": "1 379",
-      "libelle": "posts qui le citent sur 12 mois",
-      "detail": ""
-     },
-     {
-      "valeur": "241",
-      "libelle": "auteurs distincts",
-      "detail": ""
-     },
-     {
-      "valeur": "14",
-      "libelle": "sur 34 candidats les plus cités",
-      "detail": ""
-     },
-     {
-      "valeur": "16",
-      "libelle": "posts sur les 7 derniers jours",
-      "detail": ""
-     },
-     {
-      "valeur": "376",
-      "libelle": "posts de politiques qui le citent sur 12 mois",
-      "detail": "par 156 politiques"
-     },
-     {
-      "valeur": "77",
-      "libelle": "posts de lobbies et organisations sur 12 mois",
-      "detail": "par 36 organisations"
-     }
-    ],
-    "journalistes": [
-     {
-      "nom": "Antoine Oberdorff",
-      "role": "Journaliste",
-      "posts": "43 posts"
-     },
-     {
-      "nom": "Christine Lejoux",
-      "role": "Journaliste",
-      "posts": "19 posts"
-     },
-     {
-      "nom": "Françoise Degois",
-      "role": "Journaliste",
-      "posts": "11 posts"
-     }
-    ]
-   },
-   "composantes": {
-    "sondage": 0,
-    "polymarket": 0,
-    "attention": 11
-   },
-   "score": 2,
-   "rangs": {
-    "polymarket": 14
-   }
-  },
-  {
    "nom": "Xavier Bertrand",
    "wiki": "Xavier_Bertrand",
    "etiquette": "LR",
@@ -2710,10 +2694,9 @@
    "source_statut": null,
    "sondage": null,
    "attention": {
-    "v": 1.2,
+    "v": 0.8,
     "d": 0.5,
     "parts": {
-     "Wikipedia": 0.8,
      "réseaux": 0.1,
      "citations": 0.5,
      "abonnés": 0.1,
@@ -2725,8 +2708,8 @@
     "d": null,
     "d24": null,
     "d30": 0.1,
-    "vol": 6881469,
-    "vol7": 513886,
+    "vol": 6928568,
+    "vol7": 544290,
     "haut": null,
     "bas": null
    },
@@ -3730,6 +3713,43 @@
     "Gabriel Attal": 0.5,
     "Bruno Retailleau": 0.4,
     "Sarah Knafo": 0.2,
+    "Xavier Bertrand": 0.1,
+    "François Ruffin": 0.1,
+    "Marine Tondelier": 0.1,
+    "Fabien Roussel": 0.1
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "attention": {
+    "Sarah Knafo": 100,
+    "Jean-Luc Mélenchon": 98.4,
+    "Marine Le Pen": 88.3,
+    "David Lisnard": 47.7,
+    "Bruno Retailleau": 22.7,
+    "Gabriel Attal": 20,
+    "Édouard Philippe": 17.2,
+    "Éric Zemmour": 16.5,
+    "Marine Tondelier": 13.8,
+    "François Ruffin": 13,
+    "Dominique de Villepin": 10.2,
+    "Raphaël Glucksmann": 9.2,
+    "François Hollande": 4.9,
+    "Fabien Roussel": 3.8,
+    "Xavier Bertrand": 0.8
+   },
+   "polymarket": {
+    "Marine Le Pen": 45.1,
+    "David Lisnard": 14.8,
+    "Jean-Luc Mélenchon": 12.5,
+    "Édouard Philippe": 10.5,
+    "Raphaël Glucksmann": 2.8,
+    "François Hollande": 2.1,
+    "Dominique de Villepin": 1.9,
+    "Bruno Retailleau": 0.9,
+    "Éric Zemmour": 0.7,
+    "Gabriel Attal": 0.5,
+    "Sarah Knafo": 0.1,
     "Xavier Bertrand": 0.1,
     "François Ruffin": 0.1,
     "Marine Tondelier": 0.1,
