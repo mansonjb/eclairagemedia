@@ -1,5 +1,368 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-08",
+  "minutes": 9,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "GAUCHE",
+    "titre": "PCF : des députés soutiennent Mélenchon, le parti les écarte",
+    "court": "PCF : des députés soutiennent Mélenchon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%28Editorial%29_leftist_parties_leaders_interviewed_at_f%C3%AAte_de_l%27huma_2026.jpg/1280px-%28Editorial%29_leftist_parties_leaders_interviewed_at_f%C3%AAte_de_l%27huma_2026.jpg",
+    "legende": "Débat de responsables de gauche à la Fête de l'Humanité, septembre 2026 (illustration)",
+    "chapeau": "Jeudi 5 novembre, neuf élus du groupe Gauche démocrate et républicaine (GDR) ont annoncé soutenir Jean-Luc Mélenchon à la présidentielle de 2027 plutôt que Fabien Roussel, candidat du PCF : quatre des huit députés communistes du groupe, dont son président Stéphane Peu, et cinq élus ultramarins.",
+    "eclairage": "Qu'est-ce qu'un groupe parlementaire ?",
+    "chiffres": [
+     {
+      "valeur": "9",
+      "legende": "élus du groupe GDR pour Mélenchon"
+     },
+     {
+      "valeur": "4/8",
+      "legende": "députés communistes concernés"
+     },
+     {
+      "valeur": "7/11",
+      "legende": "décision du Conseil national"
+     }
+    ],
+    "passe": "Jeudi 5 novembre, neuf élus du groupe Gauche démocrate et républicaine (GDR) ont annoncé soutenir Jean-Luc Mélenchon à la présidentielle de 2027 plutôt que Fabien Roussel, candidat du PCF : quatre des huit députés communistes du groupe, dont son président Stéphane Peu, et cinq élus ultramarins. Samedi 7 novembre, le Conseil national du PCF a publié un communiqué : celui ou celle qui soutient un autre candidat que Fabien Roussel « se met de lui-même en dehors du parti et de ses instances ». Selon l'entourage de la direction cité par LCP, les adhérents concernés restent membres mais ne peuvent plus siéger dans les instances. Stéphane Peu, présent le même jour à la convention de La France insoumise, dit accepter cette mise à l'écart et veut rester à la présidence du groupe GDR.",
+    "points": [
+     "C'est une équipe de députés d'une même sensibilité. Il en faut au moins 15 pour en former un à l'Assemblée.",
+     "Le groupe GDR réunit des députés communistes et des élus ultramarins : ses membres n'ont donc pas tous la même étiquette.",
+     "Un groupe donne du temps de parole en séance et des places dans les commissions. Le député Yannick Monnet rappelle que le départ de trois députés ferait disparaître le groupe GDR."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-majorite-du-groupe-communiste-a-l-assemblee-soutiendra-melenchon-a-la-presidentielle-2b822708c3b58d784d746de66cf44c17",
+      "nom": "dépêche AFP via Boursorama"
+     },
+     {
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+      "nom": "LCP (5 nov.)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+      "nom": "LCP (7 nov.)"
+     },
+     {
+      "url": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html",
+      "nom": "franceinfo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Conseil national",
+      "contexte": "communiqué du 7 novembre",
+      "texte": "Celui ou celle qui soutient un autre candidat « se met de lui-même en dehors du parti et de ses instances ».",
+      "url": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "lors de la convention du Bourget",
+      "texte": "À propos de Stéphane Peu : « Il est tout aussi communiste qu'il l'était hier et qu'il le sera demain ».",
+      "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Elsa Faucillon",
+      "contexte": "députée",
+      "texte": "« Avec LFI, nous avons beaucoup plus de convergences que de divergences ».",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Yannick Monnet",
+      "contexte": "député de l'Allier",
+      "texte": "Il parle d'« une forme d'opportunisme » et précise que ce n'est pas une position du groupe.",
+      "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Stéphane Peu",
+      "contexte": "président du groupe GDR",
+      "texte": "Il présente son choix comme un acte de désobéissance civile et dit accepter la mise à l'écart des instances du parti. Propos résumés sans guillemets.",
+      "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Stéphane Peu veut garder la présidence du groupe GDR. Aucune date de réunion du groupe n'est annoncée dans les sources consultées.",
+    "change": "Le PCF a désigné Fabien Roussel comme candidat ; une partie de ses députés soutient un autre candidat de gauche. Cela ne change pas le fonctionnement du groupe GDR, qui accueille plusieurs sensibilités.",
+    "credit": {
+     "auteur": "Louisgjbertrand",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:(Editorial)_leftist_parties_leaders_interviewed_at_f%C3%AAte_de_l'huma_2026.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Primaire à droite et au centre : Édouard Philippe maintient son refus",
+    "court": "Primaire : Philippe maintient son refus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%C3%89douard_Philippe_-_2021_%2851560766978%29.jpg/1280px-%C3%89douard_Philippe_-_2021_%2851560766978%29.jpg",
+    "legende": "Édouard Philippe prenant la parole en 2021 (photo d'archive)",
+    "chapeau": "Mercredi 28 octobre, Gabriel Attal a proposé une grande primaire des démocrates. Dimanche 1er novembre, au journal de TF1, Édouard Philippe (Horizons) a répondu qu'il n'y participerait pas : « cette primaire n'aura pas lieu », a-t-il dit, la qualifiant de « primaire de la division ».",
+    "eclairage": "Une primaire, ça sert à quoi ?",
+    "chiffres": [
+     {
+      "valeur": "28/10",
+      "legende": "Attal propose une primaire"
+     },
+     {
+      "valeur": "1/11",
+      "legende": "réponse de Philippe sur TF1"
+     },
+     {
+      "valeur": "Fév.",
+      "legende": "échéance fixée par Philippe"
+     }
+    ],
+    "passe": "Mercredi 28 octobre, Gabriel Attal a proposé une grande primaire des démocrates. Dimanche 1er novembre, au journal de TF1, Édouard Philippe (Horizons) a répondu qu'il n'y participerait pas : « cette primaire n'aura pas lieu », a-t-il dit, la qualifiant de « primaire de la division ». Il renvoie la décision à février : « Au mois de février, chacun prendra ses responsabilités ». Lundi 2 novembre, Gabriel Attal a jugé la primaire « inéluctable ». Selon Public Sénat (information d'une seule source), Bruno Retailleau (LR) s'est rallié cette semaine au principe d'une primaire de la droite et du centre, et la porte-parole de Philippe, Nathalie Loiseau, répond que « la fébrilité est de leur côté, pas du sien ».",
+    "points": [
+     "C'est un vote organisé par un camp pour choisir un seul candidat avant le premier tour, afin de ne pas diviser ses voix.",
+     "Elle n'a aucune valeur légale : chacun peut se présenter à la présidentielle s'il réunit 500 parrainages d'élus.",
+     "Ici, la discussion porte aussi sur qui y participerait : le périmètre (centristes, droite, voire d'autres) fait débat entre les camps."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.sudradio.fr/societe/edouard-philippe-refuse-la-primaire-renvoie-les-choix-a-fevrier",
+      "nom": "dépêche AFP via Sud Radio"
+     },
+     {
+      "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.conseil-constitutionnel.fr",
+      "nom": "conseil-constitutionnel.fr"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Édouard Philippe",
+      "contexte": "ancien Premier ministre, maire du Havre",
+      "texte": "« cette primaire n'aura pas lieu »",
+      "url": "https://www.sudradio.fr/societe/edouard-philippe-refuse-la-primaire-renvoie-les-choix-a-fevrier",
+      "source": "AFP via Sud Radio"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Nathalie Loiseau",
+      "contexte": "porte-parole d'Édouard Philippe",
+      "texte": "« la fébrilité est de leur côté, pas du sien »",
+      "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#fff5d6",
+      "couleur": "#f2a900",
+      "parti": "RENAISSANCE",
+      "qui": "Gabriel Attal",
+      "contexte": "secrétaire général du parti",
+      "texte": "Il juge la primaire « inéluctable ».",
+      "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Laurence Garnier",
+      "contexte": "sénatrice, porte-parole de Bruno Retailleau",
+      "texte": "Elle soutient que, si Édouard Philippe refusait de participer, il porterait seul la responsabilité de la division. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Édouard Philippe fixe février comme moment où chaque candidat prendra ses responsabilités. Premier tour de la présidentielle : 18 avril 2027.",
+    "change": "Aucun mécanisme légal n'oblige à une primaire : sans accord, plusieurs candidats de la droite et du centre peuvent se présenter au premier tour.",
+    "credit": {
+     "auteur": "Jérémy Barande",
+     "licence": "CC BY-SA 2.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_-_2021_(51560766978).jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "INSTITUTIONS",
+    "titre": "17 octobre : Nuñez reconnaît « un échec » devant la commission",
+    "court": "17 octobre : Nuñez reconnaît « un échec »",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manifestations_du_17_octobre_0086.jpg/1280px-Manifestations_du_17_octobre_0086.jpg",
+    "legende": "Un policier équipé d'un lanceur lors des manifestations du 17 octobre 2026",
+    "chapeau": "Mardi 3 novembre, le ministre de l'Intérieur Laurent Nuñez a été entendu sous serment pendant près de trois heures par la commission des lois de l'Assemblée, qui dispose des prérogatives d'une commission d'enquête sur les événements des 17 et 18 octobre, jour de mobilisation contre la vie chère marqué par des violences et des pillages.",
+    "eclairage": "Comment fonctionne une commission d'enquête ?",
+    "chiffres": [
+     {
+      "valeur": "3/11",
+      "legende": "audition sous serment"
+     },
+     {
+      "valeur": "~3 h",
+      "legende": "durée de l'audition"
+     },
+     {
+      "valeur": "16/11",
+      "legende": "audition d'Emmanuel Grégoire"
+     }
+    ],
+    "passe": "Mardi 3 novembre, le ministre de l'Intérieur Laurent Nuñez a été entendu sous serment pendant près de trois heures par la commission des lois de l'Assemblée, qui dispose des prérogatives d'une commission d'enquête sur les événements des 17 et 18 octobre, jour de mobilisation contre la vie chère marqué par des violences et des pillages. Il a déclaré que « le bilan de la journée du 17 octobre est un échec » et reconnu « un manque d'anticipation qui est d'abord le mien ». Il avait proposé sa démission au président de la République, qui l'a refusée. Il affirme que l'ultragauche s'est mobilisée pour perturber le dispositif policier. Le Rassemblement national a annoncé son boycott de la commission ; la rapporteure Agnès Firmin Le Bodo (Horizons) s'était mise en retrait le 23 octobre. L'audition du maire de Paris, Emmanuel Grégoire, est prévue lundi 16 novembre à 16 heures.",
+    "points": [
+     "Des députés enquêtent sur un événement : ils convoquent des responsables, qui doivent venir et prêter serment.",
+     "Ici, c'est la commission des lois qui a reçu ces pouvoirs pour une durée limitée.",
+     "Elle ne juge personne : elle publie un rapport avec des constats et des recommandations. Seule la justice peut sanctionner."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manque-d-anticipation-participation-de-l-ultragauche-regrets-sur-les-blessures-graves-trois-declarations-a-retenir-de-l-audition-de-laurent-nunez-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre_8266397.html",
+      "nom": "franceinfo"
+     },
+     {
+      "url": "https://lcp.fr/actualites/17-octobre-laurent-nunez-reconnait-un-echec-et-un-defaut-d-anticipation-qui-ne-se-reduit",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/lois/travaux-d-enquete/evenements-17-18-octobre-2026",
+      "nom": "assemblee-nationale.fr"
+     },
+     {
+      "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-emmanuel-gregoire-et-gerald-darmanin-au-programme-des",
+      "nom": "LCP (auditions à venir)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "GOUVERNEMENT",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« le bilan de la journée du 17 octobre est un échec »",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manque-d-anticipation-participation-de-l-ultragauche-regrets-sur-les-blessures-graves-trois-declarations-a-retenir-de-l-audition-de-laurent-nunez-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre_8266397.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Andrée Taurinya",
+      "contexte": "députée de la Loire, membre de la commission",
+      "texte": "Elle juge les propos du ministre « assez inquiétants par rapport à notre État de droit ».",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/commission-d-enquete-sur-le-17-octobre-la-deputee-lfi-andree-taurinya-denonce-les-propos-assez-inquietants-par-rapport-a-notre-etat-de-droit-du-ministre-de-l-interieur_8267414.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Rassemblement national",
+      "contexte": "groupe à l'Assemblée",
+      "texte": "Il a annoncé son boycott de la commission, et n'a donc pas de rapporteur. Réaction résumée sans guillemets.",
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e0f6f9",
+      "couleur": "#1aa3b8",
+      "parti": "HORIZONS",
+      "qui": "Agnès Firmin Le Bodo",
+      "contexte": "rapporteure, en retrait depuis le 23 octobre",
+      "texte": "Elle s'est mise en retrait par inquiétude pour la crédibilité des travaux. Propos résumés sans guillemets.",
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Audition d'Emmanuel Grégoire le 16 novembre à 16 heures, puis celle de Gérald Darmanin, ministre de la Justice, à une date non précisée.",
+    "change": "La commission recueille les explications du ministre sur la préparation du 17 octobre. Elle ne peut pas le sanctionner ; la question de responsabilité pénale relèverait de la justice.",
+    "credit": {
+     "auteur": "Jules*",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Manifestations_du_17_octobre_0086.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Conférence sociale à Matignon avec syndicats et patronat sur les salaires et le pouvoir d'achat."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Audition d'Emmanuel Grégoire, maire de Paris, par la commission des lois sur le 17 octobre."
+   },
+   {
+    "jour": "18",
+    "mois": "NOV.",
+    "texte": "Vote solennel du Sénat sur le budget de la Sécurité sociale."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Groupe parlementaire",
+    "definition": "Une équipe d'au moins 15 députés d'une même sensibilité, avec du temps de parole et des places en commission."
+   },
+   {
+    "terme": "Primaire",
+    "definition": "Un vote interne à un camp pour désigner un candidat unique avant le premier tour."
+   },
+   {
+    "terme": "Audition sous serment",
+    "definition": "Une personne convoquée par des députés répond à leurs questions après avoir juré de dire la vérité."
+   },
+   {
+    "terme": "Parrainages",
+    "definition": "Les 500 signatures d'élus qu'il faut réunir pour se présenter à la présidentielle."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Mardi 3 novembre, devant les députés, le ministre de l'Intérieur a déclaré que le bilan du 17 octobre est un échec.",
+   "reponse": true,
+   "explication": "Laurent Nuñez a dit, sous serment : « le bilan de la journée du 17 octobre est un échec ». Il a aussi reconnu un manque d'anticipation, d'abord le sien."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-07",
   "minutes": 9,

@@ -340,6 +340,20 @@
      "couleur": "#d7263d",
      "parti": "LFI",
      "qui": "Jean-Luc Mélenchon",
+     "contexte": "lors de la convention du Bourget",
+     "texte": "À propos de Stéphane Peu : « Il est tout aussi communiste qu'il l'était hier et qu'il le sera demain ».",
+     "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+     "source": "LCP",
+     "date": "2026-11-08",
+     "rubrique": "politique",
+     "sujet": "PCF : des députés soutiennent Mélenchon, le parti les écarte",
+     "href": "/politique/2026-11-08/1"
+    },
+    {
+     "fond": "#ffe9e6",
+     "couleur": "#d7263d",
+     "parti": "LFI",
+     "qui": "Jean-Luc Mélenchon",
      "contexte": "dans l'introduction du programme",
      "texte": "« Les mesures proposées ne sont pas les intentions de quelques technocrates seuls dans un bureau. »",
      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
@@ -404,23 +418,9 @@
      "rubrique": "politique",
      "sujet": "Allocution de Macron : pas d'état d'urgence, les préfets décideront",
      "href": "/politique/2026-10-19/1"
-    },
-    {
-     "fond": "#ffe9e6",
-     "couleur": "#d7263d",
-     "parti": "LFI",
-     "qui": "Jean-Luc Mélenchon",
-     "contexte": "candidat à la présidentielle",
-     "texte": "« Dans Paris, le commandement aberrant a ouvert la porte au chaos »",
-     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
-     "source": "LCP",
-     "date": "2026-10-18",
-     "rubrique": "politique",
-     "sujet": "17 octobre : droite et gauche divisées sur le maintien de l'ordre",
-     "href": "/politique/2026-10-18/2"
     }
    ],
-   "nbDeclarations": 16,
+   "nbDeclarations": 17,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/jean-luc-melenchon/",
     "phase": {
@@ -574,6 +574,20 @@
      "couleur": "#1aa3b8",
      "parti": "HORIZONS",
      "qui": "Édouard Philippe",
+     "contexte": "ancien Premier ministre, maire du Havre",
+     "texte": "« cette primaire n'aura pas lieu »",
+     "url": "https://www.sudradio.fr/societe/edouard-philippe-refuse-la-primaire-renvoie-les-choix-a-fevrier",
+     "source": "AFP via Sud Radio",
+     "date": "2026-11-08",
+     "rubrique": "politique",
+     "sujet": "Primaire à droite et au centre : Édouard Philippe maintient son refus",
+     "href": "/politique/2026-11-08/2"
+    },
+    {
+     "fond": "#e0f6f9",
+     "couleur": "#1aa3b8",
+     "parti": "HORIZONS",
+     "qui": "Édouard Philippe",
      "contexte": "maire du Havre, candidat à la présidentielle",
      "texte": "Fin mai, il déclarait : « Je n'ai pas enfreint la loi et je suis innocent »",
      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html",
@@ -638,23 +652,9 @@
      "rubrique": "politique",
      "sujet": "Niche du RN : aucun texte adopté, la suppression des ZFE non votée",
      "href": "/politique/2026-10-09/2"
-    },
-    {
-     "fond": "#e0f6f9",
-     "couleur": "#1aa3b8",
-     "parti": "HORIZONS",
-     "qui": "Édouard Philippe",
-     "contexte": "candidat Horizons à la présidentielle, sur X",
-     "texte": "Il dénonce un « plan d’une désinvolture spectaculaire ».",
-     "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
-     "source": "Public Sénat",
-     "date": "2026-10-07",
-     "rubrique": "politique",
-     "sujet": "Le Pen : un plan de 140 milliards d'euros d'économies d'ici 2032",
-     "href": "/politique/2026-10-07/2"
     }
    ],
-   "nbDeclarations": 7,
+   "nbDeclarations": 8,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/edouard-philippe/",
     "phase": {
@@ -1211,6 +1211,20 @@
      "couleur": "#f2a900",
      "parti": "RENAISSANCE",
      "qui": "Gabriel Attal",
+     "contexte": "secrétaire général du parti",
+     "texte": "Il juge la primaire « inéluctable ».",
+     "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+     "source": "LCP",
+     "date": "2026-11-08",
+     "rubrique": "politique",
+     "sujet": "Primaire à droite et au centre : Édouard Philippe maintient son refus",
+     "href": "/politique/2026-11-08/2"
+    },
+    {
+     "fond": "#fff5d6",
+     "couleur": "#f2a900",
+     "parti": "RENAISSANCE",
+     "qui": "Gabriel Attal",
      "contexte": "candidat Renaissance",
      "texte": "« Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent »",
      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html",
@@ -1275,23 +1289,9 @@
      "rubrique": "politique",
      "sujet": "Jeunesse : Attal à Lyon samedi, Mélenchon à Clermont-Ferrand dimanche",
      "href": "/politique/2026-10-11/2"
-    },
-    {
-     "fond": "#fff5d6",
-     "couleur": "#f2a900",
-     "parti": "RENAISSANCE",
-     "qui": "Gabriel Attal",
-     "contexte": null,
-     "texte": "« Il faut que Mediapart produise des preuves »",
-     "url": "https://www.cnews.fr/france/2026-10-01/accuse-dantisemitisme-jordan-bardella-denonce-des-pseudo-preuves-de-mediapart-et",
-     "source": "CNews",
-     "date": "2026-10-02",
-     "rubrique": "politique",
-     "sujet": "Écrits attribués à Jordan Bardella : Mediapart publie des éléments d'authentification",
-     "href": "/politique/2026-10-02/4"
     }
    ],
-   "nbDeclarations": 7,
+   "nbDeclarations": 8,
    "reseaux": {
     "url": "https://www.saper-vedere.eu/presidentielle/p/candidat/gabriel-attal/",
     "phase": {

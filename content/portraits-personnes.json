@@ -1905,5 +1905,28 @@
  "Eva Kagenaar": null,
  "Richard Grieve": null,
  "John P. Kirwan": null,
- "Caducée": null
+ "Caducée": null,
+ "Conseil national": null,
+ "Nathalie Loiseau": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1718798747666_20240618_LOISEAU_Nathalie_FR_006.jpg/250px-1718798747666_20240618_LOISEAU_Nathalie_FR_006.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "1718798747666_20240618_LOISEAU_Nathalie_FR_006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:1718798747666_20240618_LOISEAU_Nathalie_FR_006.jpg",
+  "auteur": "European Union 2024 - Source : EP",
+  "licence": "European Parliament"
+ },
+ "Laurence Garnier": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Laurence_Garnier.jpg/250px-Laurence_Garnier.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Laurence_Garnier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurence_Garnier.jpg",
+  "auteur": "Junior.Ramilison",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Andrée Taurinya": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/D%C3%A9put%C3%A9e_La_France_Insoumise_Andr%C3%A9e_Taurinya_de_Saint-%C3%89tienne.jpg/250px-D%C3%A9put%C3%A9e_La_France_Insoumise_Andr%C3%A9e_Taurinya_de_Saint-%C3%89tienne.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "fichier": "Députée_La_France_Insoumise_Andrée_Taurinya_de_Saint-Étienne.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9put%C3%A9e_La_France_Insoumise_Andr%C3%A9e_Taurinya_de_Saint-%C3%89tienne.jpg",
+  "auteur": "CorineLp3",
+  "licence": "CC BY-SA 4.0"
+ },
+ "Agnès Firmin Le Bodo": null
 }
