@@ -1,5 +1,536 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-08",
+  "url": "/podcasts/essentiel-2026-11-08.mp3",
+  "taille": 8834552,
+  "duree": 736,
+  "titre": "Éclairage, l'essentiel du dimanche 8 novembre 2026",
+  "titre_episode": "Fracture à gauche, Smic à 1 500 euros net, essais cardiaques décevants : l'essentiel du dimanche 8 novembre 2026",
+  "description": "Ce dimanche 8 novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n\n• Politique : des députés GDR soutiennent Mélenchon, le PCF les écarte\n• Politique : Édouard Philippe maintient son refus d'une primaire à droite et au centre\n• Économie : EDF promet des prix de l'électricité stables jusqu'au 1er février au moins\n• Économie : le gouvernement vise un Smic à 1 500 euros net, les syndicats demandent plus\n• Santé : le pélacarsen baisse la Lp(a) de 78 % sans effet sur les événements cardiovasculaires\n• Santé : le ziltivekimab réduit l'inflammation mais pas les événements cardiovasculaires\n• Alimentation : la garantie d'aval des céréales passe de 70 % à 80 %\n• Alimentation : le Mois de la bio en Nouvelle-Aquitaine face au climat\n• IA et tech : des militants envahissent un chantier de centre de données Microsoft à Amsterdam\n• IA et tech : une entreprise affirme qu'une IA a prouvé une conjecture quantique de 2008\n\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\n\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "PCF : des députés soutiennent Mélenchon, le parti les écarte"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Primaire à droite et au centre : Édouard Philippe maintient son refus"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "EDF : le PDG promet des prix de l'électricité stables jusqu'au 1er février"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Smic : le gouvernement vise 1 500 € net, les syndicats demandent plus"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Lp(a) : le pélacarsen baisse le taux de 78 %, sans effet sur les événements"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Inflammation : le ziltivekimab ne réduit pas les événements cardiovasculaires"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Céréales : la garantie d'aval passe de 70 % à 80 %"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Mois de la bio : en Nouvelle-Aquitaine, les fermes face au climat"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Quantique : une IA affirme avoir prouvé une conjecture ouverte depuis 2008"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour. Nous sommes le dimanche 8 novembre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle. Dix sujets, tous tirés des éditions Éclairage de ce matin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, et par une fracture à gauche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Neuf élus d'un même groupe à l'Assemblée qui soutiennent un autre candidat que celui de leur parti. Paul, que s'est-il passé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jeudi 5 novembre, neuf élus du groupe Gauche démocrate et républicaine, le GDR, ont annoncé soutenir Jean-Luc Mélenchon pour la présidentielle de 2027, plutôt que Fabien Roussel, le candidat du Parti communiste."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et parmi ces neuf, il y a des communistes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre des huit députés communistes du groupe, dont son président Stéphane Peu. Les cinq autres sont des élus ultramarins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le parti a réagi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Samedi 7 novembre, le Conseil national du PCF a publié un communiqué. Celui ou celle qui soutient un autre candidat que Fabien Roussel « se met de lui-même en dehors du parti et de ses instances »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ils sont exclus ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas exactement. Selon l'entourage de la direction, cité par LCP, les adhérents concernés restent membres, mais ne peuvent plus siéger dans les instances du parti."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Stéphane Peu, que dit-il ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Il était samedi à la convention de La France insoumise. Il dit accepter cette mise à l'écart, présente son choix comme un acte de désobéissance civile, et veut rester à la présidence du groupe GDR."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Un mot sur ce qu'est un groupe parlementaire, pour ceux qui décrochent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est une équipe de députés d'une même sensibilité. Il en faut au moins quinze pour en former un. Il donne du temps de parole en séance et des places dans les commissions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le PCF a un candidat, Fabien Roussel, mais une partie de ses députés en soutient un autre, et le groupe GDR continue d'exister."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor, mais toujours la présidentielle : à droite et au centre, cette fois."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une primaire qui n'aura pas lieu, selon l'un. Inéluctable, selon l'autre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qui dit quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mercredi 28 octobre, Gabriel Attal propose une grande primaire des démocrates. Dimanche 1er novembre, au journal de TF1, Édouard Philippe répond que « cette primaire n'aura pas lieu »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il la qualifie même de « primaire de la division »."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et il renvoie la suite à février : « Au mois de février, chacun prendra ses responsabilités »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Gabriel Attal a laissé passer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Lundi 2 novembre, il a jugé cette primaire « inéluctable »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Rappelons ce qu'est une primaire, parce que le mot revient souvent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est un vote organisé par un camp pour choisir un seul candidat avant le premier tour, afin de ne pas diviser ses voix. Elle n'a aucune valeur légale."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté des Républicains ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Public Sénat, une information d'une seule source, Bruno Retailleau se serait rallié cette semaine au principe d'une primaire de la droite et du centre. La porte-parole d'Édouard Philippe, Nathalie Loiseau, répond que « la fébrilité est de leur côté, pas du sien »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qu'on retient : pas de primaire sans accord, et Édouard Philippe donne rendez-vous en février."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On passe à l'économie, avec une facture qui touche presque tout le monde : l'électricité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Plus de vingt millions d'abonnés sont au tarif réglementé de l'électricité. Samedi, le patron d'EDF leur a fait une promesse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Laquelle ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Sur France Inter, Bernard Fontana a déclaré que les prix pour les particuliers sont et seront stables pour la quasi-totalité des offres d'EDF, jusqu'au 1er février au moins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il parle d'une stabilité possible jusqu'à la fin de l'hiver."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, mais avec une réserve : une clause de revoyure, c'est-à-dire un rendez-vous de réexamen, porte sur le tarif réglementé en février. Et ce sont les pouvoirs publics, pas EDF, qui le décident."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les entreprises ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon le PDG, elles sont protégées de la hausse grâce aux contrats pluriannuels qu'EDF leur propose depuis plus d'un an."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la facture d'hiver ne devrait pas bouger avant le 1er février, sous réserve de la décision des pouvoirs publics."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autre sujet de pouvoir d'achat : le Smic."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un Smic net de 1 477,93 euros par mois. Le gouvernement veut franchir la barre des 1 500."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce qui ferait combien de plus ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Environ vingt-deux euros par mois. C'est le ministre du Travail, Jean-Pierre Farandou, qui l'a dit dans La Tribune Dimanche, selon l'AFP."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il écarte une hausse beaucoup plus forte."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un Smic à 1 700 euros net « détruirait plus de 230 000 emplois », affirme-t-il. Il dit qu'il ne proposera pas de mesure qui nuirait à l'emploi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les syndicats veulent beaucoup plus."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La CFDT demande cent euros net de plus par mois. La CGT réclame dix pour cent, soit environ cent cinquante euros net."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Et le patronat ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Medef réclame une baisse des cotisations patronales en contrepartie, et ne voit pas d'ouverture concrète à ce stade, selon franceinfo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le calendrier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une conférence sociale réunit patronat et syndicats à Matignon lundi 9 novembre. Une hausse pourrait intervenir dès le 1er décembre si les discussions aboutissent vite. Sinon, ce sera la revalorisation automatique du 1er janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : lundi, Matignon, avec un objectif de 1 500 euros net côté gouvernement et des demandes bien plus hautes côté syndicats."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Direction la santé, avec deux essais qui déçoivent, présentés hier à Chicago."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un médicament qui fait baisser un marqueur de 78 pour cent, et pourtant aucun effet sur le cœur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Explique-nous."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Samedi, au congrès de l'American Heart Association, l'équipe de Steven Nissen, de la Cleveland Clinic, a présenté l'essai Lp(a)HORIZON, publié en même temps dans le New England Journal of Medicine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Lp(a), c'est quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La lipoprotéine(a), une particule de graisse du sang dont le taux dépend surtout des gènes. Un taux élevé est associé à plus d'infarctus et d'AVC. Le pélacarsen, une injection mensuelle, la fait baisser."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les résultats ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le taux a bien baissé de 78 pour cent. Mais les événements cardiovasculaires majeurs sont restés au même niveau : 12,3 pour cent sous pélacarsen, contre 12,1 pour cent sous placebo, après 4,7 ans de suivi médian."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, c'est quasiment identique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Le rapport de risque est de 1,02, alors que 1 signifie aucun effet. L'essai porte sur 8 323 personnes selon l'AHA, qui avaient déjà une maladie cardiovasculaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que disent les médecins ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Steven Nissen décrit un résultat complètement neutre, mais juge que mesurer la Lp(a) garde son intérêt pour évaluer le risque. Un expert indépendant, Jared Spitz, dit que c'était un essai aussi neutre qu'un essai puisse l'être."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les patients, rien ne change, ce médicament n'est pas autorisé. Et surtout : baisser un marqueur n'est pas forcément protéger le cœur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième essai, autre cible : l'inflammation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Même scénario, autre molécule. Le ziltivekimab, un anticorps qui bloque l'interleukine-6, une molécule de l'inflammation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "L'essai s'appelle comment ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "ZEUS. Présenté par Paul Ridker, de Harvard, et publié dans le New England Journal of Medicine. Il porte sur 6 376 adultes atteints de maladie cardiovasculaire et de maladie rénale chronique, avec une inflammation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le médicament a-t-il bien agi sur l'inflammation ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La protéine C-réactive a baissé de 64 pour cent, et l'interleukine-6 libre de 76 pour cent à vingt-quatre mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour le cœur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Après 33 mois de suivi médian, infarctus, AVC ou décès d'origine cardiovasculaire ont touché 17,6 pour cent des patients sous ziltivekimab et 17,7 pour cent sous placebo. Rapport de risque : 0,99."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, aucun bénéfice mesuré."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et les infections graves ont été plus fréquentes sous le traitement : 20,4 pour cent contre 17,9 pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que disent les auteurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Paul Ridker se demande si le traitement n'arrive pas trop tard chez ces patients, âgés et aux reins très atteints. Un résultat neutre chez eux ne dit rien sur d'autres populations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : la cible biologique était la bonne, l'inflammation a baissé, mais pas le critère clinique. Les deux essais sont financés par les laboratoires, Novartis pour le premier, Novo Nordisk pour le second."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On quitte les hôpitaux pour les champs et les assiettes."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passer de soixante-dix à quatre-vingts pour cent. Voilà le changement pour la garantie d'aval des céréales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il faut traduire."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À la récolte, les coopératives et les négoces achètent les grains aux agriculteurs et les stockent. Ils empruntent aux banques pour financer ces stocks, et FranceAgriMer peut apporter son aval à ces emprunts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc qu'a annoncé le ministère ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le 28 octobre, le ministère de l'Agriculture a porté cette base de 70 à 80 pour cent, du 1er novembre 2026 au 30 juin 2027 inclus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère invoque des tensions de trésorerie liées aux conditions climatiques de 2026 et aux tensions géopolitiques. Les coopératives paient leurs producteurs au comptant, alors que leurs ventes s'étalent sur plusieurs mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour les agriculteurs ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon Économie Matin, la mesure ne modifie ni les prix des grains ni les contrats de vente. C'est un coup de pouce aux lignes de trésorerie des collecteurs, rien de plus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : 80 pour cent jusqu'au 30 juin 2027, une mesure temporaire."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et maintenant, cap sur la Nouvelle-Aquitaine."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quinze ans. C'est l'âge du Mois de la bio, qui se tient tout novembre en Nouvelle-Aquitaine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Avec quel thème ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "L'adaptation des fermes et des filières au dérèglement climatique. Les organisateurs rappellent que juin 2026 a été « le mois de juin le plus chaud jamais enregistré »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ce n'est pas un salon, c'est ça ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Ce sont des journées techniques, des visites de fermes, des webinaires et des formations. D'après la direction régionale de l'Agriculture, il y a 24 journées professionnelles, 13 journées étudiantes et 23 formations, dans les douze départements."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'intelligence artificielle et la tech."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vendredi 6 novembre, à Amsterdam, des militants ont envahi un chantier de centre de données loué à Microsoft."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Que s'est-il passé ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans le quartier de Sloterdijk, selon une dépêche AP, certains ont grimpé sur une grue et allumé des fumigènes, d'autres ont affronté la police. L'action était organisée par le collectif Geef Tegengas, rejoint par Extinction Rebellion."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Combien d'interpellations ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La NOS a d'abord parlé d'au moins 150, puis de plus de 200 personnes, toutes relâchées ensuite. Un porte-parole du collectif évoque environ 500 personnes entrées sur le site, sans comptage indépendant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi ce site en particulier ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est un campus de 78 mégawatts, d'environ un milliard d'euros, entièrement loué à Microsoft. Des critiques affirment que le projet contourne l'interdiction nationale de 2022 des très grands centres de données, car il est découpé sur le papier en trois sites plus petits."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et Microsoft ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le porte-parole dit comprendre que « ce projet suscite de fortes émotions », respecter le droit de s'exprimer pacifiquement, et ne pas cautionner les actions qui violent la loi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : pour l'utilisateur, rien ne change, mais la contestation locale devient un paramètre des projets de centres de données."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet du jour, et pas le moins surprenant."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une conjecture de mathématiques posée en 2008 serait enfin prouvée. Par une intelligence artificielle, affirme une entreprise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Prudence dans les mots. Qui l'affirme ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Physical Superintelligence, une jeune entreprise de Cambridge, dans le Massachusetts. Le 6 novembre, elle a annoncé qu'un système de recherche maison, faisant tourner un modèle non public d'Anthropic, a trouvé une preuve de la conjecture d'Aaronson-Ambainis."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une conjecture, c'est un énoncé qu'on croit vrai sans l'avoir démontré."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Celle-ci, si elle est vraie, implique qu'un ordinateur quantique ne peut pas être exponentiellement plus rapide qu'un ordinateur ordinaire sur des entrées tirées au hasard, quand on compte les lectures de l'entrée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Comment la preuve a-t-elle été produite ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'entreprise, la preuve complète existait au troisième jour d'une exécution. L'assistant de preuve Lean l'a acceptée, puis le système a amélioré le résultat deux fois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la communauté scientifique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le texte n'a pas été relu par des pairs dans une revue. Nous n'avons pas relevé d'évaluation publique des deux auteurs de la conjecture. Presque toutes les affirmations viennent de l'entreprise elle-même."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une preuve annoncée, acceptée par Lean, mais pas encore confirmée par des pairs."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce dimanche 8 novembre. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne journée à toutes et à tous. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-08",
   "url": "/podcasts/politique-2026-11-08.mp3",
