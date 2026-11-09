@@ -1,5 +1,372 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-09",
+  "minutes": 11,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "SALAIRES",
+    "titre": "Smic : le gouvernement réunit syndicats et patronat à Matignon",
+    "court": "Smic : conférence sociale à Matignon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sens-FR-89-manif_du_11_03_23-r%C3%A9forme_retraites-06.jpg/1280px-Sens-FR-89-manif_du_11_03_23-r%C3%A9forme_retraites-06.jpg",
+    "legende": "Militants de plusieurs syndicats tenant une banderole dans une rue (photo d'archive, 2023, illustration)",
+    "chapeau": "Lundi 9 novembre, le Premier ministre Sébastien Lecornu réunit à Matignon les organisations représentatives des salariés et des employeurs pour « apporter des réponses aux questions de pouvoir d'achat et de salaires ».",
+    "eclairage": "Smic et « coup de pouce » : comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "1 478",
+      "legende": "Smic net mensuel actuel, en euros"
+     },
+     {
+      "valeur": "1 500",
+      "legende": "seuil net visé par le ministre du Travail"
+     },
+     {
+      "valeur": "+100 €",
+      "legende": "hausse nette demandée par la CFDT"
+     }
+    ],
+    "passe": "Lundi 9 novembre, le Premier ministre Sébastien Lecornu réunit à Matignon les organisations représentatives des salariés et des employeurs pour « apporter des réponses aux questions de pouvoir d'achat et de salaires ». La conférence a été annoncée le jeudi 5 novembre, jour de grèves et de manifestations : le gouvernement a compté environ 600 000 manifestants (décompte provisoire), la CGT environ 1,6 million. Le Smic net est aujourd'hui de 1 477,93 euros par mois. Le ministre du Travail, Jean-Pierre Farandou, juge important de dépasser 1 500 euros net, ce qui supposerait un « coup de pouce » exceptionnel, mais dit que rien n'est acquis. La CFDT demande 100 euros net de plus par mois, la CGT 10 %. Le résultat de la réunion n'était pas connu à la rédaction de cette édition.",
+    "points": [
+     "Le Smic est le salaire minimum légal. Il est revalorisé automatiquement au 1er janvier d'après l'inflation.",
+     "Un « coup de pouce » est une hausse supplémentaire, décidée par le gouvernement en plus de cette règle. Le dernier date de 2012.",
+     "Aujourd'hui, le Smic brut est de 1 867,02 euros par mois et le net de 1 477,93 euros. Selon Les Échos, cités par LCP, il faudrait au moins 1,49 % de hausse pour atteindre 1 500 euros net."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.info.gouv.fr/communique/conference-sociale",
+      "nom": "info.gouv.fr (Matignon)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "nom": "LCP (7 nov.)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
+      "nom": "LCP (5 nov.)"
+     },
+     {
+      "url": "https://www.sudradio.fr/sud-radio/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui",
+      "nom": "Sud Radio"
+     },
+     {
+      "url": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html",
+      "nom": "franceinfo"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Antoine Léaument",
+      "contexte": "député, sur franceinfo le 8 novembre",
+      "texte": "Toute revalorisation du Smic sous 1 700 euros net serait pour lui « des miettes ».",
+      "url": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "Gouvernement",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, communiqué de Matignon",
+      "texte": "La réunion doit « apporter des réponses aux questions de pouvoir d'achat et de salaires ».",
+      "url": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CFDT",
+      "qui": "Marylise Léon",
+      "contexte": "secrétaire générale",
+      "texte": "Une hausse de 100 euros net : « C'est plus qu'un coup de pouce ».",
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "U2P",
+      "qui": "Michel Picon",
+      "contexte": "président",
+      "texte": "Il juge la hausse du Smic « une catastrophe » et craint de nombreuses fermetures de petites entreprises.",
+      "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+      "source": "LCP"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "CFTC",
+      "qui": "Cyril Chabanier",
+      "contexte": "président",
+      "texte": "Pour lui, « c'est la dernière chance pour le gouvernement ».",
+      "url": "https://www.sudradio.fr/sud-radio/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui",
+      "source": "Sud Radio"
+     }
+    ],
+    "apres": "L'intersyndicale se réunit de nouveau lundi pour décider des suites du mouvement ; elle dit que seule la réponse à ses revendications arrêtera la mobilisation. Aucune annonce du gouvernement n'était connue au moment de la rédaction.",
+    "change": "Un « coup de pouce » serait la première hausse du Smic hors règle automatique depuis 2012. Le ministre du Travail précise que rien n'est acquis et qu'il faut relever le Smic sans affecter l'emploi.",
+    "credit": {
+     "auteur": "François Goglins",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sens-FR-89-manif_du_11_03_23-r%C3%A9forme_retraites-06.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "SÉCURITÉ SOCIALE",
+    "titre": "Budget de la Sécu 2027 : le Sénat commence l'examen du texte",
+    "court": "Budget de la Sécu : le Sénat s'en saisit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/S%C3%A9nat%2C_h%C3%A9micycle.jpg/1280px-S%C3%A9nat%2C_h%C3%A9micycle.jpg",
+    "legende": "L'hémicycle du Sénat (photo d'archive, 2017)",
+    "chapeau": "Le vendredi 23 octobre, l'Assemblée nationale n'a pas adopté la seconde partie du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 : le texte est « considéré comme rejeté » en première lecture. Il a été transmis au Sénat le 2 novembre.",
+    "eclairage": "Le budget de la Sécurité sociale, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "1 200+",
+      "legende": "amendements déposés"
+     },
+     {
+      "valeur": "23/10",
+      "legende": "rejet par l'Assemblée"
+     },
+     {
+      "valeur": "9-18",
+      "legende": "séances publiques au Sénat (nov.)"
+     }
+    ],
+    "passe": "Le vendredi 23 octobre, l'Assemblée nationale n'a pas adopté la seconde partie du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 : le texte est « considéré comme rejeté » en première lecture. Il a été transmis au Sénat le 2 novembre. Les sénateurs l'examinent en séance publique à partir du lundi 9 novembre, selon un calendrier qui court jusqu'au 18 novembre ; plus de 1 200 amendements ont été déposés. Parmi les points en discussion : la revalorisation des pensions (le texte du gouvernement ne l'applique qu'aux pensions jusqu'à 1 260 euros, la commission des affaires sociales propose 1 500 euros), l'article 7 sur les allègements de cotisations des entreprises, et l'article 37, qui impose un an de résidence aux étrangers non européens pour les prestations familiales et l'APL (62 millions d'euros d'économie estimés par le gouvernement).",
+    "points": [
+     "Chaque automne, le Parlement vote une loi de financement de la Sécurité sociale (PLFSS) : elle fixe les recettes et les dépenses de la retraite, de la maladie et de la famille.",
+     "Le texte passe d'abord à l'Assemblée nationale, puis au Sénat : c'est la première lecture. Ici, l'Assemblée n'ayant pas adopté la partie recettes, le Sénat reçoit le texte initial du gouvernement.",
+     "Les deux chambres doivent ensuite se mettre d'accord sur une version commune. Les articles cités ci-dessous peuvent donc encore changer."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.senat.fr/dossierleg/plfss2027.html",
+      "nom": "senat.fr (dossier législatif)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106038-plfss-2027-rejet-a-l-an.html",
+      "nom": "Le Monde du Droit"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR / UC",
+      "qui": "Sénateurs LR, centristes, Indépendants",
+      "contexte": "amendements sur l'article 7",
+      "texte": "Des élus de ces groupes, rejoints par le groupe RN-UDR, ont déposé des amendements pour supprimer la réduction des allègements de cotisations ; les organisations d'employeurs s'y opposent. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "Gouvernement",
+      "qui": "Gouvernement",
+      "contexte": "texte déposé le 1er octobre",
+      "texte": "Son texte revalorise les pensions jusqu'à 1 260 euros et impose un an de résidence aux étrangers non européens pour certaines prestations, avec 62 millions d'euros d'économie estimés. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "SÉNAT",
+      "qui": "Commission des affaires sociales",
+      "contexte": "rapporteure : Marie-Do Aeschlimann",
+      "texte": "Elle propose de relever à 1 500 euros le seuil de revalorisation des pensions et de rétablir la réforme des retraites de 2023, suspendue l'an dernier. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "GAUCHE",
+      "qui": "Groupes de gauche",
+      "contexte": null,
+      "texte": "Ils veulent supprimer la désindexation partielle des pensions et l'article 37 sur la condition de résidence. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "RN et UDR",
+      "contexte": null,
+      "texte": "Ils veulent aussi supprimer la désindexation partielle et proposent une condition de résidence de trois ans, ou de cinq ans pour une élue UDR. Propos résumés sans guillemets.",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Les débats en séance se poursuivent jusqu'au 18 novembre. Le texte devra ensuite être concilié avec l'Assemblée ; aucune date de commission mixte paritaire n'est indiquée sur le site du Sénat.",
+    "change": "Le Sénat se prononce sur le niveau de revalorisation des pensions, sur le coût du travail pour les entreprises et sur l'accès de certains étrangers aux prestations. Un seuil de résidence de cinq ans avait été censuré par le Conseil constitutionnel en 2024.",
+    "credit": {
+     "auteur": "Soleil1409",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat,_h%C3%A9micycle.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "PRÉSIDENTIELLE",
+    "titre": "Mélenchon présente son programme au Bourget : 1 069 mesures",
+    "court": "Mélenchon présente son programme",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jean-Luc_M%C3%A9lenchon_meeting_2017_Brest_Arena_-_05.jpg/1280px-Jean-Luc_M%C3%A9lenchon_meeting_2017_Brest_Arena_-_05.jpg",
+    "legende": "Jean-Luc Mélenchon sur scène lors d'un meeting (photo d'archive, 2017)",
+    "chapeau": "Samedi 7 novembre, Jean-Luc Mélenchon a présenté au Bourget (Seine-Saint-Denis) la nouvelle édition du programme de La France insoumise, « L'Avenir en commun », lors d'un meeting où LFI revendique de plus de 20 000 à 26 000 participants selon les sources.",
+    "eclairage": "Un programme de campagne, ça sert à quoi ?",
+    "chiffres": [
+     {
+      "valeur": "1 069",
+      "legende": "mesures, selon LFI"
+     },
+     {
+      "valeur": "238",
+      "legende": "mesures nouvelles, selon LFI"
+     },
+     {
+      "valeur": "1 700",
+      "legende": "Smic net proposé, en euros"
+     }
+    ],
+    "passe": "Samedi 7 novembre, Jean-Luc Mélenchon a présenté au Bourget (Seine-Saint-Denis) la nouvelle édition du programme de La France insoumise, « L'Avenir en commun », lors d'un meeting où LFI revendique de plus de 20 000 à 26 000 participants selon les sources. Le livre, publié le vendredi 6 novembre, compte selon LFI 1 069 mesures, dont 238 nouvelles. Il met l'écologie en premier avec une planification écologique. Il propose notamment un Smic à 1 700 euros net, un droit à la retraite à 60 ans, le rétablissement de l'impôt sur la fortune avec une part climat et la sortie du commandement intégré de l'OTAN puis de l'organisation. Selon l'AFP, le financement du programme doit être dévoilé début 2027 ; LCP et Euronews rapportent un document de travail prévoyant environ 106 milliards d'euros de recettes supplémentaires par an.",
+    "points": [
+     "C'est la liste des propositions d'un candidat. Il n'a pas valeur de loi : s'il était élu, il faudrait encore faire voter les mesures par le Parlement.",
+     "Le chiffrage est l'estimation du coût des mesures et de leurs recettes. LFI indique qu'elle présentera le sien début 2027.",
+     "Tous les chiffres de ce sujet viennent de la présentation de LFI : ils ne sont pas vérifiés de façon indépendante."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/pour-2027-lfi-presente-un-programme-fidele-a-sa-volonte-de-rupture-afp-756b72dfa87a534448dbb17b657b6ba86a839fda",
+      "nom": "dépêche AFP via Boursedirect"
+     },
+     {
+      "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+      "nom": "LCP (programme)"
+     },
+     {
+      "url": "https://lcp.fr/actualites/je-vais-l-offrir-a-mes-grands-parents-au-meeting-de-melenchon-les-militants-repartent",
+      "nom": "LCP (meeting)"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://fr.euronews.com/2026/11/06/lavenir-en-commun-jean-luc-melenchon-publie-son-programme-avant-un-grand-meeting",
+      "nom": "Euronews"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "au Bourget",
+      "texte": "« Il est l'heure de tout changer. »",
+      "url": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Jean-Luc Mélenchon",
+      "contexte": "selon LCP",
+      "texte": "« L'Avenir en commun doit être un point d'appui pour que notre peuple se rassemble autour de lui ».",
+      "url": "https://lcp.fr/actualites/je-vais-l-offrir-a-mes-grands-parents-au-meeting-de-melenchon-les-militants-repartent",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Aurélien Le Coq",
+      "contexte": "député",
+      "texte": "« Le premier candidat chez nous, c'est le programme ».",
+      "url": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Le financement du programme doit être dévoilé début 2027, selon l'AFP.",
+    "change": "Le programme fixe les propositions de La France insoumise pour 2027. Aucune de ces mesures n'est en vigueur, et aucune n'a été discutée au Parlement.",
+    "credit": {
+     "auteur": "Kergourlay",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean-Luc_M%C3%A9lenchon_meeting_2017_Brest_Arena_-_05.jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "9",
+    "mois": "NOV.",
+    "texte": "Conférence sociale à Matignon avec syndicats et patronat sur les salaires et le pouvoir d'achat."
+   },
+   {
+    "jour": "16",
+    "mois": "NOV.",
+    "texte": "Audition d'Emmanuel Grégoire, maire de Paris, par la commission des lois sur le 17 octobre."
+   },
+   {
+    "jour": "18",
+    "mois": "NOV.",
+    "texte": "Fin du calendrier de séance du Sénat sur le budget de la Sécurité sociale."
+   },
+   {
+    "jour": "18",
+    "mois": "AVRIL",
+    "texte": "Présidentielle, 1er tour (2nd tour le 2 mai 2027)."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Smic",
+    "definition": "Le salaire minimum légal, revalorisé chaque 1er janvier d'après l'inflation."
+   },
+   {
+    "terme": "Coup de pouce",
+    "definition": "Une hausse du Smic décidée par le gouvernement en plus de la règle automatique."
+   },
+   {
+    "terme": "PLFSS",
+    "definition": "Le projet de loi de financement de la Sécurité sociale, voté chaque automne par le Parlement."
+   },
+   {
+    "terme": "Désindexation",
+    "definition": "Ne plus faire suivre automatiquement une pension ou une prestation sur l'inflation."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Le Smic net mensuel dépasse déjà 1 500 euros.",
+   "reponse": false,
+   "explication": "Le Smic net est de 1 477,93 euros par mois. Le ministre du Travail souhaite le faire passer au-dessus de 1 500 euros net, ce qui supposerait un coup de pouce."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-08",
   "minutes": 10,
