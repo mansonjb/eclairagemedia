@@ -1,5 +1,420 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-09",
+  "url": "/podcasts/essentiel-2026-11-09.mp3",
+  "taille": 7824240,
+  "duree": 652,
+  "titre": "Éclairage, l'essentiel du lundi 9 novembre 2026",
+  "titre_episode": "Smic à Matignon, budget de la Sécu, statines après 70 ans : l'essentiel du lundi 9 novembre 2026",
+  "description": "Ce lundi 9 novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, IA et tech.\n• Politique : Smic, conférence sociale à Matignon\n• Politique : budget de la Sécurité sociale 2027 au Sénat\n• Politique : programme de Mélenchon (LFI)\n• Économie : Engie, résultats à neuf mois\n• Économie : Airbus, livraisons d'octobre\n• Économie : Fnac Darty, offre de Kretinsky\n• Santé : statines après 70 ans, essai STREAM\n• Santé : hépatite B, bépirovirsen approuvé par la FDA\n• Tech : Anthropic, engagements du dossier de Bourse\n• Tech : Co-Design Bench, test d'agents de code\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Smic : le gouvernement réunit syndicats et patronat à Matignon"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Budget de la Sécu 2027 : le Sénat commence l'examen du texte"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Mélenchon présente son programme au Bourget : 1 069 mesures"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Engie : objectifs 2026 visés dans le haut de la fourchette"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Airbus : 74 avions livrés en octobre, 249 restent à livrer d'ici fin 2026"
+   },
+   {
+    "rubrique": "economie",
+    "n": 3,
+    "titre": "Fnac Darty : dernier jour de l'offre d'achat de Daniel Kretinsky"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Statines après 70 ans : l'arrêt est non inférieur à deux ans"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Hépatite B : la FDA approuve le bépirovirsen (19 % de guérison fonctionnelle)"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "Agents de code : le meilleur réussit entièrement 26,4 % des tâches"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce lundi neuf novembre deux mille vingt-six. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, et intelligence artificielle. Huit sujets, rien que des faits."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On commence par la politique, avec un chiffre. Mille quatre cent soixante-dix-huit euros. C'est le Smic net mensuel actuel."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et ce matin, à Matignon, le Premier ministre Sébastien Lecornu réunit syndicats et patronat sur les salaires et le pouvoir d'achat."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi maintenant ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La conférence a été annoncée jeudi dernier, jour de grèves et de manifestations. Le gouvernement a compté environ six cent mille manifestants, un chiffre provisoire. La CGT, environ un million six cent mille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, un sacré écart. Et côté Smic, qu'est-ce qui est sur la table ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministre du Travail, Jean-Pierre Farandou, juge important de dépasser quinze cents euros net. Il précise que rien n'est acquis. La CFDT demande cent euros net de plus par mois, la CGT dix pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça passerait par un « coup de pouce ». Autrement dit, une hausse décidée par le gouvernement, en plus de la revalorisation automatique du premier janvier."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. Le dernier coup de pouce date de deux mille douze. Selon Les Échos, il faudrait au moins un virgule quarante-neuf pour cent de hausse pour atteindre quinze cents euros net."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le résultat de la réunion n'était pas connu à l'heure où l'édition a été écrite."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les réactions sont variées. Marylise Léon, de la CFDT, dit qu'une hausse de cent euros net, c'est plus qu'un coup de pouce. Le président de l'U2P, Michel Picon, juge au contraire cette hausse une catastrophe et craint des fermetures de petites entreprises."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et du côté de la gauche ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le député LFI Antoine Léaument estime que toute revalorisation sous mille sept cents euros net serait des miettes. Et l'intersyndicale se réunit de nouveau aujourd'hui pour décider des suites du mouvement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La phrase à retenir : le Smic net est de mille quatre cent soixante-dix-huit euros, et rien n'est encore décidé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deuxième sujet politique : le budget de la Sécurité sociale pour deux mille vingt-sept. Le Sénat commence son examen aujourd'hui."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Plus de mille deux cents amendements déposés. Attends, mille deux cents ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Rappel du contexte : le vingt-trois octobre, l'Assemblée nationale n'a pas adopté la seconde partie du texte, considéré comme rejeté en première lecture. Les sénateurs reçoivent donc le texte initial du gouvernement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sur quoi vont-ils débattre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les pensions, d'abord. Le texte du gouvernement ne revalorise que celles allant jusqu'à mille deux cent soixante euros. La commission des affaires sociales propose quinze cents euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il y a aussi l'article sept, sur les allègements de cotisations des entreprises. Des élus de droite et du centre, rejoints par le RN et l'UDR, veulent supprimer la réduction de ces allègements."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et l'article trente-sept impose un an de résidence aux étrangers non européens pour certaines prestations. Le gouvernement estime l'économie à soixante-deux millions d'euros. Les groupes de gauche veulent le supprimer."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les débats courent jusqu'au dix-huit novembre. Ensuite, il faudra un accord avec l'Assemblée, donc les articles peuvent encore changer."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un détail qui compte : un seuil de résidence de cinq ans avait été censuré par le Conseil constitutionnel en deux mille vingt-quatre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le RN ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le RN et l'UDR proposent, eux, une condition de résidence de trois ans, voire cinq ans pour une élue UDR. Ils veulent aussi supprimer la désindexation partielle des pensions, comme la gauche."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le Sénat tranche sur trois choses : les pensions, le coût du travail, et l'accès de certains étrangers aux prestations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et pour finir avec la politique, un mot du week-end : Jean-Luc Mélenchon a présenté samedi, au Bourget, le programme de La France insoumise."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mille soixante-neuf mesures, dont deux cent trente-huit nouvelles, selon LFI. Avec notamment un Smic à mille sept cents euros net et la retraite à soixante ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Précision : ce sont des propositions, pas des lois. Et le financement doit être dévoilé début deux mille vingt-sept, selon l'AFP."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Changement de décor. Place à l'économie, et à Engie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le groupe d'énergie a publié ses résultats sur neuf mois : cinquante-quatre virgule trois milliards d'euros de chiffre d'affaires, en hausse de deux virgule neuf pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et il vise désormais le haut de ses fourchettes pour l'année. Pour le résultat net récurrent, entre quatre virgule neuf et cinq virgule cinq milliards."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'est-ce qui a changé la donne ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le rachat d'UK Power Networks, un distributeur britannique d'électricité. Il a apporté quatre cent cinquante-deux millions d'euros d'EBIT, le bénéfice d'exploitation avant intérêts et impôts."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais le rachat a un revers : la dette. Le chiffre du jour, c'est quatre virgule deux fois l'EBITDA, contre trois fin deux mille vingt-cinq."
+   },
+   {
+    "qui": "Paul",
+    "texte": "La dette nette économique atteint soixante-deux virgule cinq milliards d'euros. Engie vise quatre fois au maximum une fois ce réseau consolidé sur une année pleine."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et la Belgique ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les discussions avec l'État belge sur une reprise des activités nucléaires d'Engie sont prolongées jusqu'au douze décembre. Des divergences importantes subsistent, notamment sur la valorisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On reste dans l'industrie, avec Airbus. Soixante-quatorze avions livrés en octobre, contre soixante-dix-huit un an plus tôt."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Depuis janvier, six cent vingt et un appareils, soit six virgule deux pour cent de plus que l'an dernier. Mais l'objectif de huit cent soixante-dix livraisons pour l'année est maintenu."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il reste combien à livrer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Deux cent quarante-neuf avions en novembre et décembre, soit environ cent vingt-cinq par mois. Un rythme supérieur de près de vingt pour cent à celui de l'an dernier, où il y en avait eu deux cent huit sur ces deux mois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi les livraisons comptent plus que les commandes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parce que, dans l'aéronautique, la plus grande partie du paiement intervient à la livraison. Un avion fini mais non livré immobilise de l'argent. Le patron, Guillaume Faury, se disait fin octobre raisonnablement confiant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Selon Air Data News, l'approvisionnement en moteurs reste une contrainte. Les chiffres de novembre arrivent début décembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre dossier du jour : Fnac Darty. Lundi est le dernier jour de l'offre d'achat de Daniel Kretinsky."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Trente-cinq euros par action. Son groupe, EP Group, détient déjà vingt-huit virgule cinq pour cent du capital et vise plus de cinquante pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Si c'est atteint, il passe d'actionnaire de référence à actionnaire majoritaire. L'AMF publiera l'avis de résultat dans les jours qui suivent, puis l'offre sera rouverte au moins dix jours de bourse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le conseil d'administration de Fnac Darty a émis un avis favorable. À retenir : la barre à franchir, c'est cinquante pour cent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Passons à la santé. Mille huit cent quatre-vingts personnes de soixante-dix ans et plus. C'est la taille de l'essai STREAM."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Leur question : peut-on arrêter les statines, ces médicaments contre le cholestérol, en prévention primaire ? C'est-à-dire sans infarctus ni AVC déjà survenu."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Résultats présentés le sept novembre à Chicago et publiés dans le New England Journal of Medicine. Neuf cent trente-huit participants ont arrêté, neuf cent quarante-deux ont continué."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et alors ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "À deux ans, l'arrêt est non inférieur : quatre-vingt-seize virgule cinq semaines sans événement en moyenne, contre quatre-vingt-dix-huit virgule cinq. Soit deux semaines de moins."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais attention, sur tout le suivi, les événements sont plus fréquents après arrêt : douze virgule sept pour cent contre neuf virgule deux."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon l'AHA, l'association américaine de cardiologie, cela fait environ un événement de plus pour quarante personnes qui arrêtent. C'est une moyenne sur un groupe, pas un risque individuel."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour les patients concernés, rien ne change aujourd'hui. La décision se prend avec le médecin."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Rita Redberg, cardiologue et autrice de l'étude, dit que l'arrêt est sûr pour la plupart des personnes de cet âge sans antécédent cardiovasculaire. Elle insiste sur une décision partagée avec le médecin."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et il y a des nuances : environ quatorze pour cent des participants ont changé de groupe en cours d'essai. Et le taux de LDL, le mauvais cholestérol, remonte nettement après l'arrêt dans un sous-groupe."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre sujet santé : une bonne nouvelle pour l'hépatite B chronique. La FDA américaine a approuvé le bépirovirsen, du laboratoire GSK."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dix-neuf pour cent de guérison fonctionnelle dans les essais, contre zéro pour cent sous placebo."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Concrètement, deux cent trente-trois patients sur mille deux cent vingt. Contre aucun sur six cent quatorze sous placebo."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et « guérison fonctionnelle », ça veut dire quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le virus et l'antigène HBs sont indétectables dans le sang, au moins vingt-quatre semaines après l'arrêt du traitement. Ce n'est pas l'élimination complète du virus."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, environ un patient sur cinq. La grande majorité n'a pas obtenu ce résultat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le traitement vise des patients déjà sous antiviraux depuis au moins six mois. Selon Science Times, l'étiquette américaine comporte un avertissement sur le foie et les plaquettes. Pas de décision européenne relevée à ce jour."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les effets indésirables les plus fréquents ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une rougeur et une douleur au point d'injection, et une hausse passagère d'une enzyme du foie. Chez les patients dont l'antigène HBs était faible au départ, la proportion monte à vingt-six pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernière rubrique : l'intelligence artificielle. Huit cent quatre-vingt-quinze milliards de dollars."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est le montant d'engagements d'achat et de location qu'Anthropic indique dans son dossier d'introduction en Bourse, modifié le deux novembre. Presque tout concerne le calcul et l'infrastructure."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Précision importante : ces chiffres viennent de la presse spécialisée. L'édition n'a pas pu ouvrir le document complet."
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'accord. Environ soixante-dix milliards sont à régler dans les douze mois. Il y a des minimums nommés : au moins cent dix milliards pour Amazon, et pour Microsoft au moins quarante-quatre virgule neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le trimestre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Seize virgule quatre-vingt-seize milliards de chiffre d'affaires, pour une perte nette de vingt-trois virgule vingt-neuf milliards. Mais elle vient presque entièrement d'une écriture comptable, pas d'une sortie d'argent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le contrat avec SpaceXAI ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Jusqu'à cent vingt virgule cinq milliards d'ici deux mille vingt-neuf, soit environ trois virgule un milliards par mois. Aucune valorisation ni prix d'introduction ne figure au dossier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pour un client, rien ne change à court terme : ce sont des achats de capacité, pas des prix."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pourquoi cette perte semble énorme ? Parce que vingt et un virgule quatre-vingt-quatorze milliards sont une charge comptable liée à la variation de valeur. La perte d'exploitation, plus proche de l'activité courante, est de cinq cent soixante-sept millions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Reste un risque que l'entreprise décrit elle-même : une partie des contrats se paie même si la capacité n'est pas utilisée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier sujet : un nouveau test pour les agents de code, ces programmes qui modifient du code à partir d'une demande en langage courant."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Il s'appelle Co-Design Bench, et c'est un préprint, donc pas encore relu par des pairs. Deux cent soixante-treize tâches tirées de vraies sessions de programmation."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le meilleur des dix modèles testés remplit en moyenne soixante-dix pour cent des critères. Mais il ne réussit entièrement que vingt-six virgule quatre pour cent des tâches."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, donc environ une tâche sur quatre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Sur d'anciens tests, ces modèles dépassent quatre-vingt-dix-neuf pour cent, selon The Decoder. Là, les demandes sont réelles, avec images ou documents joints."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Les auteurs reconnaissent des limites : une seule demande fixe par tâche, et des juges automatiques qui peuvent se tromper."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pour un utilisateur, le message est simple : relire et tester ce que l'outil produit."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour l'essentiel de ce lundi. Merci de nous avoir écoutés."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toutes les sources sont dans les newsletters et sur eclairagemedia.com. À demain."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-09",
   "url": "/podcasts/politique-2026-11-09.mp3",
