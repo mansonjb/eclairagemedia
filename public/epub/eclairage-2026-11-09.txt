@@ -170,3 +170,373 @@ Le Smic net mensuel dépasse déjà 1 500 euros.
 Réponse : faux. Le Smic net est de 1 477,93 euros par mois. Le ministre du Travail souhaite le faire passer au-dessus de 1 500 euros net, ce qui supposerait un coup de pouce.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+lundi 9 novembre 2026 · 10 min de lecture
+
+1. Engie : objectifs 2026 visés dans le haut de la fourchette
+
+ÉNERGIE
+
++2,5 % : croissance organique du chiffre d'affaires
+
+452 M€ : EBIT apporté par UK Power Networks
+
+12 déc. : date limite des discussions belges
+
+Ce qui s'est passé
+
+Jeudi 5 novembre, Engie a publié ses résultats des neuf premiers mois de 2026. Le chiffre d'affaires s'élève à 54,3 milliards d'euros, en hausse de 2,9 % en données publiées et de 2,5 % en organique, c'est-à-dire hors effets de change et de périmètre. Le groupe attend désormais son résultat net récurrent part du groupe dans le haut de la fourchette de 4,9 à 5,5 milliards d'euros, et son EBIT hors nucléaire dans le haut de celle de 9,2 à 10,2 milliards. UK Power Networks, distributeur britannique d'électricité racheté par Engie, consolidé depuis mai, a apporté 452 millions d'euros d'EBIT. Le plan de performance a généré environ 400 millions d'euros d'économies sur la période, selon Zonebourse. Engie a aussi prolongé jusqu'au 12 décembre 2026 ses discussions avec l'État belge sur une éventuelle reprise de ses activités nucléaires en Belgique ; des divergences importantes subsistent, notamment sur la valorisation.
+
+L'éclairage
+
+Comment un groupe d'énergie gagne de l'argent
+
+L'EBIT est le bénéfice d'exploitation, avant intérêts et impôts. Le résultat net récurrent retire les éléments exceptionnels pour mesurer ce que l'activité courante rapporte. Un distributeur d'électricité comme UK Power Networks exploite les lignes et les postes de transformation ; il est en général rémunéré par des tarifs d'accès au réseau encadrés par un régulateur, ce qui rend ses revenus plus prévisibles que ceux d'un producteur exposé aux prix de marché. Racheter un tel réseau ajoute des revenus, mais aussi de la dette : c'est l'objet du chiffre du jour plus bas.
+
+Ce qu'ils en disent
+
+« Engie a enregistré des résultats solides sur les neuf premiers mois de l'année, avec une croissance organique significative au cours des deux derniers trimestres, à laquelle s'ajoute désormais la contribution de UK Power Networks »
+Catherine MacGregor (Entreprise), directrice générale
+
+Ce qui change
+
+Pour le secteur, l'opération montre le poids croissant des réseaux, plus réguliers que la production, dans les comptes d'un énergéticien. Pour la Belgique, l'avenir des activités nucléaires d'Engie reste ouvert.
+
+Et après
+
+Fin des discussions avec l'État belge le 12 décembre 2026.
+
+Sources : communiqué Engie (9M 2026) · Belga via La DH · Zonebourse via TradingSat · dépêche AFP via Connaissance des énergies
+
+2. Airbus : 74 avions livrés en octobre, 249 restent à livrer d'ici fin 2026
+
+INDUSTRIE
+
+74 : avions livrés en octobre
+
+621 : livrés depuis janvier (+6,2 %)
+
+249 : restants pour l'objectif de 870
+
+Ce qui s'est passé
+
+Vendredi 6 novembre, Airbus a indiqué avoir livré 74 avions commerciaux à 45 clients en octobre, contre 78 un an plus tôt. Depuis janvier, 621 appareils ont été livrés, soit 6,2 % de plus qu'à la même période de 2025 (585). L'avionneur a enregistré 202 commandes brutes en octobre. Il maintient son objectif d'environ 870 livraisons pour 2026, confirmé le 28 octobre avec ses résultats à neuf mois : il reste 249 appareils à livrer en novembre et décembre, soit environ 125 par mois. Airbus avait livré 208 avions sur les deux mêmes mois de 2025, selon Air Data News.
+
+L'éclairage
+
+Pourquoi les livraisons comptent plus que les commandes
+
+Une commande est une promesse d'achat ; une livraison est la remise de l'avion au client. Le carnet de commandes, 9 310 avions au 30 septembre selon Airbus, mesure le travail déjà vendu mais pas encore fabriqué. Dans l'industrie aéronautique, la plus grande partie du paiement intervient en général à la livraison : un avion terminé mais non livré immobilise donc de l'argent. Airbus affiche d'ailleurs un free cash flow avant financement clients de -1,3 milliard d'euros sur neuf mois, pour un objectif d'environ 4,5 milliards sur l'année.
+
+Ce qu'ils en disent
+
+Il se disait fin octobre « reasonably comfortable » (raisonnablement confiant) sur la capacité d'Airbus à tenir son objectif annuel.
+Guillaume Faury (Entreprise), PDG d'Airbus
+
+Ce qui change
+
+Selon Air Data News, Airbus a constitué des stocks d'avions avant les livraisons de fin d'année attendues, mais l'approvisionnement en moteurs reste une contrainte. Le rythme requis en novembre et décembre dépasse de près de 20 % celui de 2025.
+
+Et après
+
+Les chiffres de novembre sont attendus début décembre, au rythme des publications mensuelles d'Airbus.
+
+Sources : Reuters via AJOT · Air Data News · Business AM · communiqué Airbus (9M 2026)
+
+3. Fnac Darty : dernier jour de l'offre d'achat de Daniel Kretinsky
+
+ENTREPRISES
+
+28,5 % : du capital déjà détenu par EP Group
+
+35 € : prix de l'offre par action
+
+Ce qui s'est passé
+
+Lundi 9 novembre est le dernier jour pour apporter ses titres à l'offre publique d'achat sur Fnac Darty lancée par EP FR HOLDCo, véhicule d'EP Group, le groupe de Daniel Kretinsky. Ouverte le 12 mai, l'offre propose 35 euros par action, après le dividende de 1 euro versé le 5 juin, et 81,16 euros par OCEANE (une obligation convertible en actions). Le 20 octobre, la Commission européenne a donné la dernière autorisation réglementaire attendue. Selon l'AFP, Daniel Kretinsky détient déjà 28,5 % du capital et compte franchir 50 %, ce qui empêcherait de fait le groupe chinois JD.com, en train d'acquérir l'allemand Ceconomy (plus de 20 % de Fnac Darty), d'avoir davantage de poids dans les décisions. L'AMF doit publier l'avis de résultat dans les jours qui suivent ; en cas de succès, l'offre sera rouverte au moins 10 jours de bourse.
+
+L'éclairage
+
+Comment fonctionne une offre publique d'achat (OPA)
+
+Dans une OPA, un investisseur propose d'acheter les actions de tous les actionnaires à un prix fixé à l'avance, pendant une période donnée. Ici, elle ne réussit que si l'initiateur dépasse 50 % du capital ou des droits de vote : au-delà, il décide seul de la plupart des votes en assemblée générale. En dessous, l'offre devient caduque. Si l'offre réussit, elle est rouverte pour laisser aux retardataires une seconde chance de vendre.
+
+Ce qu'ils en disent
+
+A émis un avis favorable sur l'offre ; un expert indépendant, le cabinet Ledouble, a rendu son rapport.
+Conseil d'administration de Fnac Darty (Entreprise), sur recommandation du comité ad hoc
+
+Ce qui change
+
+Si EP Group dépasse 50 %, Daniel Kretinsky passe d'actionnaire de référence à actionnaire majoritaire. com au capital, via Ceconomy, dépendra de la suite de son propre rachat.
+
+Et après
+
+Avis de résultat de l'AMF dans les jours suivants, puis réouverture de l'offre d'au moins 10 jours de bourse en cas de succès.
+
+Sources : dépêche AFP via Techniques de l'Ingénieur · Boursier.com via Fortuneo (communiqué Fnac Darty et EP) · communiqué Fnac Darty (11 mai)
+
+4. Qualcomm : les puces pour smartphones reculent de 26 %, le titre chute
+
+TECH
+
+-26 % : ventes de puces pour smartphones (5,14 Md$)
+
+2,17 $ : bénéfice ajusté par action (2,16 attendu)
+
+650 M$ : ventes prévues dans les centres de données
+
+Ce qui s'est passé
+
+Mercredi 4 novembre, après la clôture de Wall Street, Qualcomm a publié ses résultats du quatrième trimestre de son exercice. Le bénéfice ajusté ressort à 2,17 dollars par action, contre 2,16 attendus. Le chiffre d'affaires ajusté, de 10,44 milliards de dollars selon Reuters, dépasse les 10,11 milliards attendus ; il recule de 7 à 8 % sur un an selon les sources. Les ventes de puces pour smartphones tombent à 5,14 milliards de dollars, en baisse de 26 % et sous les attentes. Pour le trimestre en cours, Qualcomm prévoit 10,4 à 11,2 milliards de dollars de chiffre d'affaires et un bénéfice ajusté de 2,15 à 2,35 dollars par action, contre 2,27 attendus en moyenne. Dans les échanges hors séance, l'action a reculé de plus de 6 %. Qualcomm attend 650 millions de dollars de ventes dans les centres de données au trimestre à venir, contre 539,1 millions attendus.
+
+L'éclairage
+
+Pourquoi la mémoire pèse sur un fabricant de puces
+
+Qualcomm vend surtout des processeurs qui équipent des smartphones. Selon Reuters, les prix des puces mémoire flambent parce que les centres de données consacrés à l'IA en achètent massivement ; les fabricants de téléphones répercutent ce coût sur le prix des appareils, et les expéditions mondiales de smartphones ont baissé de 20 % au trimestre de septembre (Counterpoint Research), un plus bas en 14 ans. Moins de téléphones vendus, c'est moins de puces Qualcomm vendues. D'où la stratégie de diversification vers les centres de données et l'automobile.
+
+Ce qu'ils en disent
+
+Il a dit à Reuters que les ventes de smartphones Android avaient touché un point bas et repartaient à la hausse.
+Cristiano Amon (Entreprise), PDG de Qualcomm
+
+Il a dit à Reuters que le titre baisse parce que la « margin outlook is lousy » : la perspective de marge est, selon lui, mauvaise.
+Stacy Rasgon (Analystes), analyste, Bernstein
+
+Ce qui change
+
+La baisse du marché des smartphones touche directement le principal métier de Qualcomm, qui cherche à compenser avec les centres de données et l'automobile.
+
+Et après
+
+Qualcomm a donné ses prévisions pour le trimestre en cours (10,4 à 11,2 milliards de dollars de chiffre d'affaires) ; les résultats correspondants seront publiés à une date non précisée dans les sources consultées.
+
+Sources : Reuters via The Star · Zonebourse via TradingSat · Business AM (d'après Reuters)
+
+À venir
+
+- 9 nov. : Résultats : UniCredit et Hannover Re (agenda Zonebourse). Dernier jour de l'offre sur Fnac Darty.
+- 10 nov. : Résultats : Zurich Insurance, Enel, Munich Re, Merck KGaA, et côté américain Cisco et Applied Materials (agenda Zonebourse).
+- 13 nov. : Résultats : IDI et Bastide Le Confort Médical (agenda Zonebourse).
+
+Les mots du jour
+
+EBIT
+Le bénéfice d'exploitation d'une entreprise, avant le paiement des intérêts de sa dette et des impôts.
+Croissance organique
+La hausse du chiffre d'affaires hors effets de change et hors entreprises achetées ou vendues.
+Carnet de commandes
+Le total des avions, machines ou contrats déjà vendus mais pas encore livrés au client.
+OPA
+Offre publique d'achat : une proposition faite à tous les actionnaires d'une société cotée de leur racheter leurs actions à un prix fixé.
+
+Vrai ou faux ?
+
+Airbus a livré plus de 100 avions commerciaux en octobre 2026.
+
+Réponse : faux. Airbus a livré 74 avions à 45 clients en octobre 2026, contre 78 un an plus tôt, selon Reuters.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+lundi 9 novembre 2026 · 8 min de lecture
+
+1. Statines après 70 ans : l'arrêt est non inférieur à deux ans
+
+ÉTUDE
+
+1 880 : adultes de 70 ans et plus randomisés
+
+−2,0 sem. : de survie sans événement à 2 ans (arrêt)
+
+12,7 % : contre 9,2 % : événements sur tout le suivi
+
+Ce qui s'est passé
+
+Le 7 novembre 2026, au congrès de l'American Heart Association à Chicago, l'équipe de l'essai STREAM a présenté ses résultats, publiés le même jour dans le New England Journal of Medicine. L'essai, mené dans 24 centres en Suisse, en France et aux Pays-Bas, a réparti au hasard 1 880 adultes de 70 ans et plus, atteints d'au moins deux maladies chroniques et sans maladie cardiovasculaire connue : 938 ont arrêté leur statine, 942 l'ont poursuivie. Pour le critère principal (survie sans infarctus, AVC ni décès à deux ans), l'arrêt est non inférieur : 96,5 semaines sans événement en moyenne contre 98,5, soit −2,0 semaines. Sur toute la durée du suivi, le critère est survenu chez 12,7 % des personnes ayant arrêté contre 9,2 % de celles ayant poursuivi. L'AHA résume l'écart par environ un événement de plus pour 40 personnes qui arrêtent. Qualité de vie, douleurs musculaires, chutes et perte de masse musculaire ne diffèrent pas entre les groupes. Environ 14 % des participants ont changé de groupe en cours d'essai. Le financement et les liens d'intérêts ne sont pas détaillés dans le communiqué de l'AHA.
+
+L'éclairage
+
+Pourquoi tester l'arrêt d'un médicament ?
+
+Une statine abaisse le cholestérol « LDL ». En prévention primaire, on la prescrit pour éviter un premier infarctus ou AVC chez quelqu'un qui n'en a jamais eu. Or les grands essais historiques ont surtout inclus des personnes plus jeunes et en meilleure santé, et on ignore ce qu'ils disent des plus de 70 ans fragiles. Un essai de non-infériorité pose une autre question : l'arrêt est-il « pas pire » que la poursuite, dans une marge fixée à l'avance ? Ici, la marge est respectée à deux ans, mais le LDL remonte nettement (176 mg/dL contre 99 mg/dL à un an dans un sous-groupe de 235 personnes) et les événements sont plus nombreux sur la durée. Une différence de quelques semaines en moyenne cache donc un risque qui s'accumule. Elle ajoute qu'une décision individuelle doit reposer sur un échange entre le patient et son médecin, et que l'excès de risque à quatre ans chez un petit nombre de personnes est une donnée nouvelle. Elle rappelle que les résultats valent pour les 70 ans et plus avec au moins deux maladies chroniques et sans antécédent cardiovasculaire.
+
+Ce qu'ils en disent
+
+« In general, however, discontinuation is safe for most people who are in this age group and without a previous CVD event »
+Rita F. Redberg (Auteurs), cardiologue, université de Californie à San Francisco
+
+« There should be shared decision-making between the patient and the healthcare professional »
+Rita F. Redberg (Auteurs), autrice de l'étude
+
+Ce qui change
+
+Pour les patients concernés, rien ne change aujourd'hui : l'étude ne dit pas d'arrêter ni de continuer, et la décision se prend avec le médecin qui connaît le dossier. Pour les soignants, elle apporte des données sur une tranche d'âge peu étudiée.
+
+Et après
+
+Les sociétés savantes pourront en tenir compte dans leurs recommandations. Aucune décision des autorités de santé n'est annoncée à ce jour.
+
+Sources : AHA (communiqué) · Étude (NEJM, DOI) · Healio · HCPLive
+
+2. Hépatite B : la FDA approuve le bépirovirsen (19 % de guérison fonctionnelle)
+
+TRAITEMENT
+
+19 % : de guérison fonctionnelle (233 sur 1 220)
+
+0 % : sous placebo (0 sur 614)
+
+1 834 : patients dans 2 essais de phase 3
+
+Ce qui s'est passé
+
+Le 20 octobre 2026, la FDA américaine a approuvé le bépirovirsen (nom commercial Hibsago, du laboratoire GSK), un traitement de l'hépatite B chronique de l'adulte. L'autorisation vise des patients déjà traités par des antiviraux depuis au moins six mois, dont l'ADN viral est contrôlé et dont le taux d'antigène HBs ne dépasse pas 3 000 UI/mL. Elle repose sur deux essais de phase 3, B-Well 1 et B-Well 2, publiés dans le New England Journal of Medicine (Hou et coll., 28 mai 2026) : 1 834 patients analysés (1 220 sous bépirovirsen, 614 sous placebo), répartis au hasard à raison de deux pour un, pendant 24 semaines d'injections hebdomadaires. La guérison fonctionnelle, c'est-à-dire un virus et un antigène HBs indétectables au moins 24 semaines après l'arrêt du traitement, a été obtenue chez 233 patients sur 1 220 (19 %) contre aucun sur 614 sous placebo. Chez ceux dont le taux initial d'antigène HBs était de 1 000 UI/mL ou moins, la proportion atteint 26 %. Les effets indésirables les plus fréquents étaient une rougeur et une douleur au point d'injection et une hausse passagère d'une enzyme du foie. Selon Science Times, l'étiquette américaine comporte un encadré d'avertissement sur le foie et les plaquettes.
+
+L'éclairage
+
+Que veut dire « guérison fonctionnelle » ?
+
+Le virus de l'hépatite B reste dans le foie sous une forme cachée dans le noyau des cellules. Les antiviraux habituels le freinent sans l'éliminer. La guérison fonctionnelle signifie que le virus et l'antigène HBs ne sont plus détectables dans le sang après l'arrêt du traitement : ce n'est pas l'élimination complète du virus. Le bépirovirsen est un oligonucléotide antisens : un court fragment d'ARN synthétique qui bloque la fabrication de protéines virales. Un essai randomisé contre placebo est la méthode la plus fiable pour mesurer un tel effet : ici, aucun patient sous placebo n'a atteint ce résultat, ce qui montre que la guérison fonctionnelle n'apparaît pas spontanément à cette fréquence. Le laboratoire met en avant la possibilité d'une guérison fonctionnelle après six mois de traitement.
+
+Ce qu'ils en disent
+
+« For the first time, with Hibsago, US patients have the potential to achieve functional cure »
+Tony Wood (Industrie), directeur scientifique, GSK
+
+Ce qui change
+
+Environ un patient sur cinq, dans les conditions de l'essai, a atteint une guérison fonctionnelle : la grande majorité des patients traités n'a donc pas obtenu ce résultat.
+
+Et après
+
+L'autorisation concerne les États-Unis. Aucune décision européenne ni remboursement en France n'ont été relevés à ce jour.
+
+Sources : Étude (NEJM, DOI) · Pharmaceutical Executive · Healio · aidsmap · BioPharma Dive · Science Times
+
+Les mots du jour
+
+Essai de non-infériorité
+Essai qui vérifie qu'une option (ici, arrêter un médicament) n'est pas moins bonne que l'autre au-delà d'une marge fixée à l'avance.
+Prévention primaire
+Traitement destiné à éviter une première maladie, chez une personne qui n'en a pas encore eu.
+Guérison fonctionnelle
+Virus et antigène indétectables dans le sang après l'arrêt du traitement, sans élimination complète du virus.
+Oligonucléotide antisens
+Court fragment d'ARN de synthèse qui bloque la fabrication d'une protéine donnée.
+
+Vrai ou faux ?
+
+Dans l'essai STREAM, chez des adultes de 70 ans et plus qui prenaient une statine en prévention primaire, arrêter le médicament était non inférieur à le poursuivre après deux ans, sur la survie sans infarctus, AVC ni décès.
+
+Réponse : vrai. C'est vrai, avec une nuance : la survie sans événement moyenne était de 96,5 semaines en cas d'arrêt contre 98,5 en cas de poursuite, dans la marge de non-infériorité fixée à l'avance. Sur toute la durée du suivi, les événements étaient plus fréquents après arrêt (12,7 % contre 9,2 %), selon l'AHA et Healio.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+lundi 9 novembre 2026 · 5 min de lecture
+
+1. Vélo la nuit : ce que la règle impose, ce que l'agglo rappelle
+
+MOBILITÉS
+
+10 % : des déplacements à vélo de nuit
+
+17 % : des accidents de vélo
+
+150 m : visibilité d'un cycliste bien équipé
+
+- L'État fixe la règle : le Code de la route, valable partout en France. La commune et l'agglomération ne peuvent pas la modifier, mais elles informent et aménagent.
+- Éclairage obligatoire la nuit, ou le jour si la visibilité est insuffisante : un feu avant jaune ou blanc, non éblouissant, et un feu arrière rouge, non clignotant.
+- Catadioptres : un blanc à l'avant, au moins un rouge à l'arrière, des orange sur les roues (sauf pneus rétroréfléchissants homologués) et sur les pédales.
+- Gilet rétroréfléchissant : obligatoire hors agglomération, la nuit ou si la visibilité est insuffisante.
+- Amendes : jusqu'à 38 € pour l'éclairage et les catadioptres (11 € en général), jusqu'à 150 € pour le gilet (35 € en général).
+
+L'éclairage
+
+Qui fixe la règle, et que dit-elle ?
+
+Les mots du jour
+
+Catadioptre
+Un petit dispositif qui renvoie la lumière des phares vers la source : il rend le vélo visible sans produire de lumière.
+Régie
+Un service public géré directement par la collectivité, ici l'eau potable de l'agglomération, plutôt que confié à une entreprise.
+Maîtrise d'œuvre
+L'équipe d'architectes et d'ingénieurs qui conçoit un chantier et en suit l'exécution pour le compte de la collectivité.
+
+Vrai ou faux ?
+
+Selon le Code de la route, le feu de position arrière d'un vélo doit être rouge et non clignotant.
+
+Réponse : vrai. Vrai : service-public.gouv.fr précise que le feu arrière doit être rouge, non clignotant et nettement visible de l'arrière.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+lundi 9 novembre 2026 · 9 min de lecture
+
+2. Agents de code : le meilleur réussit entièrement 26,4 % des tâches
+
+RECHERCHE
+
+26,4 % : des tâches entière- ment réussies
+
+70 % : des critères remplis en moyenne
+
+273 : tâches issues de vraies sessions
+
+Ce qui s'est passé
+
+Le 26 octobre, seize chercheurs, dont des équipes d'Alibaba et d'universités asiatiques selon The Decoder, ont mis en ligne sur arXiv un préprint (texte non relu par des pairs) présentant Co-Design Bench, un banc d'essai (benchmark) pour agents de code, c'est-à-dire des programmes d'IA qui modifient du code à partir d'une demande en langage courant. Le test compte 273 tâches tirées de 26 314 sessions réelles de programmation : retoucher une page web ou plusieurs fichiers d'un projet, souvent avec une image, un son, une vidéo ou un document joint. Chaque tâche est notée sur des critères cachés rédigés par des experts, 2 331 au total, contrôlés dans le code et dans un navigateur. Sur dix modèles testés, le meilleur remplit en moyenne 69,9 % des critères mais ne réussit entièrement que 26,4 % des tâches (arXiv ; page du projet). Selon The Decoder, ce meilleur modèle est GPT-6 Astra et le dernier est Grok 4.6. Les dix modèles font moins bien quand une tâche combine trois ou quatre types de changements (mise en page, design, interaction, contenu). Sur d'anciens tests comme WebCompass-edit, les modèles dépassent 99 %, selon The Decoder. Limites reconnues : une seule demande fixe par tâche, sans question de suivi, et des juges automatiques (des IA) qui peuvent se tromper.
+
+- Réussite partielle ou totale. « 70 % des critères » veut dire que le résultat est souvent proche de la demande ; « 26,4 % des tâches » veut dire qu'il manque encore au moins un point dans trois tâches sur quatre. Une personne doit alors relire et corriger.
+- Un test plus proche du quotidien. Les anciens tests donnent des consignes courtes et nettes ; celui-ci part de demandes réelles, avec pièces jointes. L'écart de plus de 35 points avec les anciens scores (The Decoder) montre que ces derniers ne disent pas tout.
+- Le modèle ne fait pas tout. Le classement peut changer selon l'environnement d'exécution (harness), l'outil qui fait tourner le modèle. Les auteurs recommandent d'indiquer le modèle et l'environnement ensemble (The Decoder).
+
+L'éclairage
+
+Que mesure ce test, et que ne mesure-t-il pas ?
+
+Ce qu'ils en disent
+
+Les dix modèles testés remplissent moins de critères quand une modification de projet combine trois ou quatre types de changement, écrivent-ils.
+Auteurs de Co-Design Bench (Chercheurs), préprint arXiv, dont Alibaba
+
+Chaque tâche repose sur une seule demande fixe, donc sans questions de suivi ni corrections en cours de route, et les juges automatiques peuvent se tromper.
+Les mêmes auteurs (Chercheurs), limites reconnues
+
+Ce qui change
+
+Pour un salarié ou une entreprise qui utilise un agent de code, le résultat rappelle qu'il faut relire et tester ce que l'outil produit, surtout pour des demandes à plusieurs changements.
+
+Et après
+
+Le préprint peut être relu et critiqué par d'autres équipes ; aucune publication dans une revue n'est annoncée à ce jour. Des évaluations indépendantes sur d'autres jeux de tâches diront si l'écart se confirme.
+
+Sources : arXiv (préprint) · Page du projet · The Decoder
+
+Les mots du jour
+
+Agent de code
+Programme d'IA qui lit, écrit et modifie du code à partir d'une demande en langage courant.
+Banc d'essai (benchmark)
+Série d'épreuves identiques posées à plusieurs modèles pour les comparer avec le même barème.
+Engagement d'achat
+Contrat par lequel une entreprise s'oblige à payer des services futurs, ici surtout de la puissance de calcul.
+Formulaire S-1
+Document déposé auprès de la SEC par une entreprise américaine qui prépare son entrée en Bourse.
+
+Vrai ou faux ?
+
+Selon le préprint Co-Design Bench, le meilleur des dix modèles testés remplit en moyenne près de 70 % des critères, mais ne réussit entièrement qu'environ une tâche sur quatre.
+
+Réponse : vrai. Vrai : le meilleur modèle atteint 69,9 % de critères remplis en moyenne et 26,4 % de tâches entièrement réussies, selon les auteurs sur arXiv.
+
+Retrouvez cette édition sur eclairagemedia.com.
