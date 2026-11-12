@@ -1,5 +1,425 @@
 [
  {
+  "rubrique": "essentiel",
+  "date": "2026-11-12",
+  "url": "/podcasts/essentiel-2026-11-12.mp3",
+  "taille": 7128338,
+  "duree": 594,
+  "titre": "Éclairage, l'essentiel du jeudi 12 novembre 2026",
+  "titre_episode": "Places en licence, chômage à 8,2 %, chirurgie de l'obésité : l'essentiel du jeudi 12 novembre 2026",
+  "description": "Ce jeudi 12 novembre 2026, Léa et Paul font le tour de l'actualité : politique, économie, santé, alimentation, IA et tech.\n• Politique : 5 000 places de plus en licence\n• Politique : messageries chiffrées, article supprimé\n• Économie : chômage à 8,2 % au troisième trimestre\n• Économie : budget de la Sécurité sociale 2027 au Sénat\n• Santé : chirurgie de l'obésité après l'échec des GLP-1\n• Santé : délirium à l'hôpital et démence\n• Alimentation : stocks stratégiques de céréales\n• Alimentation : sécheresse et couverts d'hiver\n• Tech : Gemini 4 Carbon ouvert aux développeurs\n• Tech : New York, inscription des développeurs d'IA\nTous les faits viennent des éditions Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcriptions et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Éducation : Lecornu annonce 5 000 places de plus en licence"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Cybersécurité : les députés suppriment l'article sur les messageries chiffrées"
+   },
+   {
+    "rubrique": "economie",
+    "n": 1,
+    "titre": "Chômage : le taux recule de 0,1 point, à 8,2 % de la population active"
+   },
+   {
+    "rubrique": "economie",
+    "n": 2,
+    "titre": "Budget de la Sécu 2027 : le Sénat reprend un texte rejeté par l'Assemblée"
+   },
+   {
+    "rubrique": "sante",
+    "n": 1,
+    "titre": "Obésité : la chirurgie fait perdre du poids après l'échec des GLP-1"
+   },
+   {
+    "rubrique": "sante",
+    "n": 2,
+    "titre": "Délirium à l'hôpital : un lien avec la démence des années plus tard"
+   },
+   {
+    "rubrique": "food",
+    "n": 1,
+    "titre": "Céréales : l'État étudie la création de stocks stratégiques"
+   },
+   {
+    "rubrique": "food",
+    "n": 2,
+    "titre": "Sécheresse : dérogations pour les couverts d'hiver"
+   },
+   {
+    "rubrique": "tech",
+    "n": 1,
+    "titre": "Gemini 4 Carbon : Google l'ouvre aux développeurs et entreprises payants"
+   },
+   {
+    "rubrique": "tech",
+    "n": 2,
+    "titre": "New York : les grands développeurs d'IA doivent s'inscrire avant le 1er janvier"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour et bienvenue dans Éclairage, l'essentiel du jour, ce jeudi 12 novembre 2026. Je suis Léa."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et moi Paul. Au programme : politique, économie, santé, alimentation, et intelligence artificielle. Dix sujets, et on commence par l'éducation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq mille places de plus en licence. C'est l'annonce du Premier ministre, Sébastien Lecornu, dans une lettre aux présidents d'université rendue publique mercredi par l'AFP."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et le contexte, c'est une concertation sur Parcoursup, lancée lundi à Matignon avec une quarantaine d'invités : organisations lycéennes et étudiantes, syndicats, parents, parlementaires."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais une partie des organisations de jeunesse et des syndicats ont quitté la salle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Ils contestaient la présence de l'UNI et d'élus du RN et de l'UDR. Le sénateur communiste Pierre Ouzoulias dit qu'à la fin, ils n'étaient plus que trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ces cinq mille places, c'est beaucoup ou peu ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonne question. Le Premier ministre rappelle que quinze mille places avaient déjà été annoncées, dont quatre mille en IUT. Mais les organisations étudiantes, mobilisées depuis la mi-septembre, en demandent deux cent cinquante mille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah oui, quand même. Deux cent cinquante mille."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : la répartition des cinq mille places par université n'est pas détaillée, et supprimer Parcoursup passerait par une nouvelle loi, pas encore présentée."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor : le numérique. Mardi, l'Assemblée a supprimé l'article seize bis du projet de loi sur la cybersécurité, par soixante-neuf voix contre trente-sept."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cet article, ajouté par le Sénat, visait à garantir l'inviolabilité des messageries chiffrées comme WhatsApp, Telegram ou Signal."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, que seuls l'expéditeur et le destinataire puissent lire un message ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement, c'est le chiffrement de bout en bout. Le gouvernement avait déposé l'amendement de suppression. Le ministre de l'Intérieur, Laurent Nuñez, a jugé l'article écrit de manière trop large."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Sa raison : il interdirait des techniques de renseignement autorisées par la loi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà. La ministre du Numérique, Anne Le Hénanff, s'est engagée à ne pas réintroduire de disposition affaiblissant le chiffrement. Mais la durée de l'engagement varie : fin de la session selon LCP, fin de la législature selon Next."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et à gauche, les réactions ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le député insoumis Arnaud Saint-Martin parle d'un immense recul pour les libertés numériques. La députée socialiste Ayda Hadizadeh regrette qu'aucun article bien rédigé n'interdise durablement les accès dérobés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La phrase-clé : l'article protégeant explicitement les messageries chiffrées n'est plus dans le texte voté par les députés. Un vote solennel est annoncé le dix-sept novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "On passe à l'économie, et à un chiffre : huit virgule deux pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le taux de chômage au troisième trimestre, publié mardi par l'Insee. C'est zéro virgule un point de moins que le trimestre précédent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mais zéro virgule quatre point de plus qu'il y a un an. Selon l'AFP, c'est la première baisse trimestrielle depuis début 2025. Le nombre de chômeurs recule de quarante-sept mille, à deux virgule six millions."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et chez les jeunes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Vingt et un pour cent chez les quinze à vingt-quatre ans, soit un virgule six point de plus sur un an. Chez les cinquante ans et plus, cinq virgule six pour cent, le plus haut niveau depuis début 2022."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attention, ce taux vient d'un sondage, celui du BIT, le Bureau international du travail. Il n'est pas le nombre d'inscrits à France Travail."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et l'Insee évoque une marge d'incertitude de l'ordre de zéro virgule trois point. Une baisse de zéro virgule un point peut donc être un simple bruit statistique. L'économiste Mathieu Plane y voit un peu un faux signal."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le ministre du Travail, Jean-Pierre Farandou, salue lui une dynamique qu'il juge précieuse. La CGT appelle à la grève le dix-sept novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : le chômage baisse de zéro virgule un point, mais reste plus haut qu'il y a un an."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Deuxième sujet économique : la Sécurité sociale. Le Sénat a commencé lundi l'examen du budget pour 2027, que l'Assemblée avait rejeté le vingt-trois octobre par cent quinze voix contre une."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Cent quinze contre une. Le gouvernement vise un déficit de douze virgule sept milliards d'euros en 2027, contre vingt et un virgule huit milliards prévus en 2026."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Soit environ neuf milliards d'économies ou de recettes en plus."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Et le gouvernement veut faire contribuer les pensions supérieures à mille deux cent soixante euros par mois. Selon Public Sénat, le Sénat souhaite relever ce seuil à mille cinq cents euros."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et rétablir la réforme des retraites suspendue l'an dernier."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. Le vote sur l'ensemble du texte au Sénat est prévu le dix-huit novembre. Le budget de l'État viendra ensuite, du vingt novembre au neuf décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et sans majorité à l'Assemblée, Sébastien Lecornu a le choix entre le 49.3, qui l'expose à une motion de censure, et les ordonnances."
+   },
+   {
+    "qui": "Paul",
+    "texte": "À retenir : vote du Sénat sur la Sécu le dix-huit novembre, puis le budget de l'État."
+   },
+   {
+    "qui": "Léa",
+    "texte": "On file à la santé. Une étude sur l'obésité, publiée le trois novembre dans Annals of Surgery, par une équipe de la Cleveland Clinic, dans l'Ohio."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Quatre mille neuf cent vingt-neuf adultes opérés entre deux mille dix-huit et deux mille vingt-quatre, tous avec un indice de masse corporelle d'au moins trente-cinq."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, et le lien avec les médicaments GLP-1 ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Parmi eux, deux cent sept n'avaient pas assez maigri sous sémaglutide ou tirzépatide, environ deux pour cent de poids perdu ou moins. Et soixante et un avaient arrêté ces médicaments à cause d'effets indésirables."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et deux ans après l'opération ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dans le groupe à réponse insuffisante, l'analyse ajustée donne trente-deux virgule sept pour cent de poids perdu après un bypass gastrique, contre dix-sept virgule huit après une gastrectomie en manchon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais il faut rester prudent."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. C'est une étude observationnelle : personne n'a été tiré au sort, et les groupes sous médicament sont petits. Elle montre que la chirurgie peut encore faire perdre du poids après un échec du médicament, pas qu'elle fait mieux qu'un autre traitement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le suivi s'arrête à deux ans. À retenir : pour les patients, rien ne change aujourd'hui, l'étude ne recommande ni d'arrêter un médicament ni de se faire opérer."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre étude, autre sujet : le délirium à l'hôpital. C'est un état de confusion aiguë qui survient parfois pendant une hospitalisation."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Publiée le deux novembre dans JAMA Neurology, par une équipe de la Mayo Clinic. Combien de personnes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Trois mille cinq cent un participants hospitalisés, suivis en moyenne sept virgule deux ans. Seuls soixante-quinze ont eu un délirium dans les trente jours, soit deux virgule un pour cent."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et chez eux ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Une démence est apparue chez vingt-quatre pour cent, contre six virgule deux pour cent chez les autres. Après ajustement, le risque relatif est de cinq virgule trente-neuf."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, cinq fois plus ? C'est énorme."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui, mais l'intervalle de confiance est large, de deux virgule quatre-vingt-quatorze à neuf virgule quatre-vingt-cinq, car le groupe est très petit. Et l'étude est observationnelle."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, le délirium peut être un signal d'alerte plutôt qu'une cause démontrée : un cerveau déjà fragile peut y être plus exposé."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Avantage de l'étude : les participants avaient passé des tests de mémoire avant leur hospitalisation. Les auteurs recommandent de prévenir et de repérer le délirium, et de suivre la récupération après la sortie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : un lien, pas une preuve de causalité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et maintenant, ce qu'on mange. Le ministère de l'Agriculture étudie la création de stocks stratégiques de céréales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Le ministère a confirmé à l'AFP vendredi une mission flash, après une information de RTL. Aucun détail n'a été donné, et les conclusions sont attendues d'ici la fin novembre."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le contexte : la France détient des stocks stratégiques de produits pétroliers, dont dix millions de barils de gazole mobilisés début octobre, mais elle n'a pas de réserve de céréales."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors que la moitié de sa production de céréales part à l'export."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Selon FranceAgriMer, treize virgule cinq millions de tonnes de blé tendre sont prévues à l'export en deux mille vingt-six, deux mille vingt-sept. Et les surfaces de céréales à paille sont passées de huit virgule un à sept virgule deux millions d'hectares en dix ans."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Qu'en dit la filière ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Éric Thirouin, président de l'AGPB, dit que les stocks stratégiques servent à faire face à des conflits, des guerres. À ce stade, aucune décision n'est prise."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : une mission, pas un dispositif. La forme, le volume et le financement restent à définir."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Toujours dans les champs : la sécheresse. Un décret publié le vingt-cinq octobre permet de déroger à l'obligation de couvrir les sols en hiver."
+   },
+   {
+    "qui": "Léa",
+    "texte": "La couverture des sols, c'est la norme BCAE six, une des règles à respecter pour toucher les aides de la politique agricole commune."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. La dérogation vaut pour la métropole et la Corse, sauf cinq départements : Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes et Vaucluse."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et une autre dérogation, sur la norme BCAE sept ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le ministère autorise les préfets à en accorder, du quinze novembre au quinze février, au titre de la force majeure. Mais attention, une demande ne vaut pas accord."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Ah, donc ce n'est pas automatique."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. La demande est individuelle et doit parvenir à la DDT, la direction départementale des territoires, avant le quinze décembre. L'AGPM, les producteurs de maïs, la réclamait depuis plusieurs semaines."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : quinze décembre, date limite. Et pour finir, l'intelligence artificielle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Premier sujet : Gemini 4 Carbon. Google l'a présenté le vingt-huit octobre, d'abord réservé à des défenseurs en cybersécurité."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et le dix novembre, il s'ouvre aux développeurs et aux entreprises payants, via l'API Gemini, qui permet à un programme d'envoyer du texte au modèle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le tarif d'introduction : deux dollars le million de jetons en entrée, dix en sortie, jusqu'au trente novembre. Ensuite, quatre et vingt dollars."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Donc le prix double."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Pas forcément la facture. Elle dépend du nombre de jetons consommés, et Google indique que Carbon en utilise plus que son prédécesseur Argon."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les performances ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Google dit que Carbon arrive premier sur trois bancs d'essai. Ce sont des résultats annoncés par l'entreprise. Selon MLQ.ai, Anthropic place son modèle Fable 5.2 devant Carbon sur plusieurs de ses propres tests."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : testez sur vos propres tâches avant le trente novembre. Pour un particulier, rien ne change, sauf s'il est abonné Ultra."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Dernier sujet, à New York. L'État a ouvert mardi un portail d'inscription pour les développeurs d'IA de pointe visés par la loi RAISE Act."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Elle s'applique à partir du premier janvier deux mille vingt-sept. Qu'est-ce qu'elle impose ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Publier un cadre de sécurité, déclarer tout incident critique sous soixante-douze heures, et déposer des évaluations trimestrielles des risques catastrophiques."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les amendes ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Un million de dollars pour une première infraction, trois millions ensuite. Selon la presse, la loi vise ceux qui dépassent cinq cents millions de dollars de revenus annuels, mais le communiqué officiel ne chiffre pas ce critère."
+   },
+   {
+    "qui": "Léa",
+    "texte": "TechCrunch et MLQ.ai citent OpenAI et Anthropic parmi les entreprises concernées."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Autre point : il n'existe pas de loi fédérale américaine équivalente à l'AI Act européen. Ce sont donc les États qui avancent, comme la Californie."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le texte et le registre sont établis ; les formulaires et la définition précise des incidents restent flous."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Voilà, dix sujets, du Parcoursup à New York."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Merci de nous avoir écoutés. Toutes les sources sont dans les newsletters et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "politique",
   "date": "2026-11-12",
   "url": "/podcasts/politique-2026-11-12.mp3",
