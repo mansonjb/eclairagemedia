@@ -178,3 +178,613 @@ Mardi 10 novembre, les députés ont supprimé l'article qui garantissait l'invi
 Réponse : vrai. Les députés ont supprimé l'article 16 bis du projet de loi sur la cybersécurité par 69 voix contre 37, après un amendement du gouvernement. Cette suppression n'oblige pas les messageries à installer des accès dérobés.
 
 Retrouvez cette édition sur eclairagemedia.com.
+
+Économie
+
+jeudi 12 novembre 2026 · 11 min de lecture
+
+1. Chômage : le taux recule de 0,1 point, à 8,2 % de la population active
+
+CONJONCTURE
+
+8,2 % : taux de chômage au 3e trimestre
+
+2,6 M : chômeurs au sens du BIT
+
+-47 000 : sur le trimestre
+
+Ce qui s'est passé
+
+Mardi 10 novembre, l'Insee a publié le taux de chômage au sens du Bureau international du travail (BIT) pour le troisième trimestre 2026 : 8,2 % de la population active, soit 0,1 point de moins qu'au trimestre précédent et 0,4 point de plus qu'un an plus tôt. Selon l'AFP, c'est la première baisse trimestrielle depuis début 2025. Le nombre de chômeurs recule de 47 000, à 2,6 millions de personnes. Chez les 15-24 ans, le taux est de 21 %, soit 1,6 point de plus sur un an. Chez les 50 ans et plus, il atteint 5,6 %, son plus haut niveau depuis début 2022. Le chômage de longue durée, d'au moins un an, reste à 2,1 %, son plus haut depuis 2022. L'objectif affiché par Emmanuel Macron était un taux de 5 % à la fin de son second mandat.
+
+L'éclairage
+
+Comment mesure-t-on le chômage ?
+
+Le taux du BIT n'est pas le nombre d'inscrits à France Travail. L'Insee interroge un échantillon de ménages : est chômeur celui qui n'a pas travaillé la semaine de l'enquête, cherche activement un emploi et peut en occuper un sous deux semaines. Le taux est la part de ces personnes dans la population active (ceux qui ont un emploi ou en cherchent un). Comme il vient d'un sondage, il comporte une marge d'incertitude, de l'ordre de 0,3 point selon l'Insee : une baisse de 0,1 point peut donc être un simple bruit statistique.
+
+Ce qu'ils en disent
+
+Il salue une dynamique qu'il juge précieuse, selon l'AFP.
+Jean-Pierre Farandou (Gouvernement), ministre du Travail
+
+« Moins 0,1 point, je ne trouve pas que ce soit une excellente nouvelle »
+Nathalie Chusseau (Analystes), économiste
+
+Le « pseudo plein emploi promis par Macron est inatteignable »
+CGT (Syndicats)
+
+Ce qui change
+
+Le taux de chômage pèse sur les salaires, la consommation et les recettes de l'assurance chômage. Il reste supérieur de 0,4 point à celui de fin 2025, alors que la croissance du PIB est nulle ou négative depuis le début de l'année.
+
+Et après
+
+Publication de l'emploi salarié du troisième trimestre le 27 novembre ; grève appelée par la CGT le 17 novembre.
+
+Sources : dépêche AFP via La DH · Insee · ICI · Ouest-France
+
+2. Budget de la Sécu 2027 : le Sénat reprend un texte rejeté par l'Assemblée
+
+CONJONCTURE
+
+5 % : déficit public visé en 2027
+
+Ce qui s'est passé
+
+Lundi 9 novembre, le Sénat a commencé l'examen du budget de la Sécurité sociale pour 2027, que l'Assemblée nationale avait rejeté le 23 octobre par 115 voix contre une. Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026, et un déficit public de 5 % du PIB. Il veut faire contribuer les pensions supérieures à 1 260 euros par mois ; selon Public Sénat, le Sénat souhaite relever ce seuil à 1 500 euros et rétablir la réforme des retraites suspendue l'an dernier. Le vote sur l'ensemble du texte est prévu le 18 novembre, puis le budget de l'État sera examiné du 20 novembre au 9 décembre. Sans majorité à l'Assemblée, le Premier ministre Sébastien Lecornu a le choix entre le 49.3, qui l'expose à une motion de censure, et les ordonnances.
+
+L'éclairage
+
+Pourquoi le déficit de la Sécu compte
+
+La Sécurité sociale (retraites, assurance maladie, famille) a son propre budget, voté chaque automne dans le PLFSS. Quand ses dépenses dépassent ses recettes (cotisations, CSG), l'écart est un déficit financé par l'emprunt. Réduire le déficit de 21,8 à 12,7 milliards d'euros demande environ 9 milliards d'économies ou de recettes en plus : gel ou moindre revalorisation de pensions, hausse de prélèvements, baisse de remboursements. Chaque option touche un groupe différent : retraités, assurés, mutuelles ou employeurs.
+
+Ce qu'ils en disent
+
+Il parle d'une « économie française à l'arrêt » après le recul du PIB au troisième trimestre.
+Roland Lescure (Gouvernement), ministre de l'Économie
+
+Il appelle à « un sursaut collectif ».
+Gérard Larcher (Sénat), président du Sénat
+
+Elle juge la copie « d'une faiblesse sans nom ».
+Annie Le Houérou (Opposition), sénatrice socialiste
+
+Ce qui change
+
+Les pensions supérieures au seuil retenu, aujourd'hui 1 260 euros dans le texte du gouvernement, seraient moins revalorisées ; un seuil relevé à 1 500 euros en épargnerait une partie. Le sort de la réforme des retraites pèse aussi sur les comptes.
+
+Et après
+
+Vote du Sénat sur la Sécurité sociale le 18 novembre ; budget de l'État au Sénat du 20 novembre au 9 décembre ; ordonnances possibles à partir du 26 novembre selon MoneyVox.
+
+Sources : dépêche AFP via La DH · Public Sénat · MoneyVox · Politique Matin
+
+3. Nvidia : le conseil enquête sur Jensen Huang, l'action recule d'environ 5 %
+
+TECH
+
+-5 % : action en séance lundi 9 novembre
+
+17 nov. : résultats trimestriels
+
+18 nov. : audition au Congrès proposée
+
+Ce qui s'est passé
+
+Dimanche 8 novembre, le conseil d'administration de Nvidia a ouvert une enquête indépendante, confiée à des administrateurs indépendants assistés de juristes externes. Elle doit établir si le fondateur et PDG, Jensen Huang, a été la cible d'une opération de renseignement étrangère. Selon le New York Times, repris par l'AFP, les services américains soupçonnent Alice Huang, ancienne dirigeante de Megaspeed, entreprise de Singapour cliente de Nvidia, d'avoir agi pour Pékin, sans lien de parenté avec lui ; Pékin dément. Jensen Huang a reconnu dans une note aux salariés une relation avec elle et s'est dit « profondément désolé ». Le conseil affirme n'avoir aucune raison de croire que la sécurité nationale ou les secrets de l'entreprise aient été compromis. À la Bourse de New York lundi, l'action a perdu jusqu'à 8 % à l'ouverture selon l'AFP, environ 5 % en cours de séance ; elle a clôturé vendredi à 186,64 dollars selon Le Monde Informatique.
+
+L'éclairage
+
+Pourquoi le patron compte pour la valeur d'une entreprise
+
+La capitalisation boursière est le prix de toutes les actions d'une entreprise. Elle reflète les profits attendus, mais aussi la confiance dans ceux qui la dirigent. Quand un dirigeant clé est en cause, les investisseurs se demandent si les contrats, les relations avec les gouvernements et les décisions d'investissement seront affectés. Une baisse de 5 % pour une entreprise de cette taille représente des centaines de milliards de dollars de valeur en moins sur le papier, sans que les ventes de puces aient changé. Les enquêtes de conseil visent aussi à rassurer les actionnaires : elles décident qui peut rester en poste.
+
+Ce qu'ils en disent
+
+Il dit avoir confiance en Jensen Huang et ne pas avoir de raison de croire que la sécurité nationale ou les secrets de Nvidia aient été compromis, selon l'AFP.
+Conseil d'administration de Nvidia (Entreprise)
+
+Il estime que Jensen Huang pourrait garder son poste à court terme, avec un risque de départ selon l'issue de l'enquête.
+Dan Ives (Analystes), analyste
+
+Le premier doute que Jensen Huang puisse rester ; le second juge un remplacement improbable, la réaction du marché aurait été plus forte sinon.
+Gary Black et Chris Weston (Analystes), analystes
+
+Ce qui change
+
+Pour les clients de Nvidia, aucune livraison de puces n'a été retardée à ce stade selon Le Monde Informatique. Pour les actionnaires, l'enjeu est la gouvernance : qui décide, et sur quelles preuves.
+
+Et après
+
+Résultats trimestriels le 17 novembre ; Congrès : réponse demandée pour le 11 novembre, audition proposée le 18 novembre selon FrenchWeb.
+
+Sources : dépêche AFP via Noovo · Le Monde Informatique · FrenchWeb · dépêche Belga via La DH
+
+4. Californie : les électeurs rejettent l'impôt de 5 % sur les milliardaires
+
+MONDE
+
+5 % : du patrimoine net visé
+
+~200 : milliardaires concernés
+
+55 % : de « non » après 60 % décomptés
+
+Ce qui s'est passé
+
+Selon les médias américains cités par l'AFP, la « Prop 40 » a été rejetée par les électeurs californiens, près d'une semaine après le scrutin du 3 novembre. Le texte prévoyait un prélèvement unique de 5 % du patrimoine net d'environ 200 milliardaires de l'État, pour financer le système de santé public, fragilisé par des coupes fédérales ; ses promoteurs en espéraient environ 100 milliards de dollars. Après environ 60 % des suffrages dépouillés, le « non » dépassait 55 %. Selon le Los Angeles Times, cité par l'AFP, le « oui » l'a emporté à Los Angeles et à San Francisco. Les opposants, dont le cofondateur de Google Sergey Brin, ont dépensé des centaines de millions de dollars en publicité. Le gouverneur Gavin Newsom s'y opposait aussi.
+
+L'éclairage
+
+Un impôt sur la fortune, c'est quoi ?
+
+Un impôt sur le revenu taxe ce qu'on gagne chaque année ; un impôt sur la fortune taxe ce qu'on possède : actions, immobilier, parts d'entreprise. Pour un fondateur, l'essentiel du patrimoine est souvent constitué d'actions qu'il ne vend pas, donc sans argent liquide pour payer. Les partisans y voient un moyen de financer des services publics ; les opposants craignent le départ des contribuables les plus riches et une taxe qui deviendrait permanente. Ici, le texte prévoyait un prélèvement unique.
+
+Ce qu'ils en disent
+
+« Les grandes avancées se font rarement d'un seul coup. »
+Joseph Stiglitz (Économistes), prix Nobel d'économie
+
+Les milliardaires de la Silicon Valley « ont gagné cette bataille », mais ils « perdront cette guerre », dit-il.
+Gabriel Zucman (Économistes), économiste
+
+Il s'est opposé à la taxe, selon l'AFP.
+Gavin Newsom (Gouvernement), gouverneur de Californie
+
+Ce qui change
+
+Pour les finances publiques californiennes, aucune recette nouvelle n'est attendue de cette mesure. Pour les très hauts patrimoines, le risque d'un prélèvement exceptionnel s'éloigne, du moins dans cet État.
+
+Et après
+
+Décompte final à venir, la Californie acceptant les bulletins par courrier jusqu'à une semaine après le scrutin.
+
+Sources : dépêche AFP via La DH · Le Temps · CalMatters · La Libre
+
+À venir
+
+- 12 nov. : Résultats d'entreprises : Eiffage, Siemens, Allianz, Rolls-Royce, Cisco, Applied Materials (agenda Zonebourse).
+- 17 nov. : Résultats trimestriels de Nvidia ; grève appelée par la CGT.
+- 18 nov. : Vote du Sénat sur le budget de la Sécurité sociale 2027 ; audition de Nvidia proposée au Congrès.
+- 20 nov. : Budget de l'État en séance au Sénat, jusqu'au 9 décembre.
+- 27 nov. : Insee : emploi salarié du troisième trimestre.
+- 29 nov. : Espagne : élections législatives anticipées.
+
+Les mots du jour
+
+Population active
+Les personnes qui ont un emploi ou en cherchent un. Le taux de chômage se calcule sur elles, pas sur toute la population.
+Déficit
+L'écart entre les dépenses et les recettes sur une année. Il est financé par l'emprunt et s'ajoute à la dette.
+Capitalisation boursière
+La valeur de toutes les actions d'une entreprise au cours du jour : nombre d'actions multiplié par le prix de l'une d'elles.
+Impôt sur la fortune
+Un impôt sur ce que l'on possède (actions, immobilier), et non sur ce que l'on gagne.
+
+Vrai ou faux ?
+
+Au troisième trimestre 2026, le taux de chômage en France a baissé de 0,1 point, à 8,2 % de la population active.
+
+Réponse : vrai. L'Insee a publié le 10 novembre un taux de 8,2 %, contre 8,3 % au deuxième trimestre. Il reste supérieur de 0,4 point à celui d'il y a un an.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Santé
+
+jeudi 12 novembre 2026 · 10 min de lecture
+
+1. Obésité : la chirurgie fait perdre du poids après l'échec des GLP-1
+
+CHIRURGIE
+
+4 929 : adultes opérés de 2018 à 2024
+
+≈ 2 % : de poids perdu sous médicament (2 groupes)
+
+32,7 % : perte à 2 ans après bypass (réponse insuffisante)
+
+Ce qui s'est passé
+
+Le 3 novembre 2026, la revue Annals of Surgery a publié une étude de l'équipe d'Ali Aminian, de la Cleveland Clinic (Ohio, États-Unis). Elle porte sur 4 929 adultes dont l'indice de masse corporelle atteignait au moins 35 et qui ont été opérés entre 2018 et 2024, par bypass gastrique en Y (RYGB) ou par gastrectomie en manchon (« sleeve »). Parmi eux, 4 661 n'avaient jamais pris de sémaglutide ni de tirzépatide, 61 avaient arrêté ces médicaments à cause d'effets indésirables et 207 n'avaient pas assez maigri sous traitement (environ 2 % du poids ou moins). Deux ans après l'opération, les personnes qui avaient arrêté le médicament avaient perdu de 20,1 % à 27,9 % de leur poids selon l'intervention et la présence d'un diabète de type 2. Dans le groupe à réponse insuffisante, la perte allait de 27,4 % à 35,8 % après bypass et atteignait environ 14 % après manchon ; l'analyse ajustée donne 32,7 % pour le bypass contre 17,8 % pour le manchon. Le groupe sans médicament préalable avait perdu de 19,9 % à 33,3 %. Les deux interventions ont eu peu de complications selon la Cleveland Clinic. Deux auteurs déclarent des liens avec l'industrie pharmaceutique ; le financement n'est pas précisé dans les documents consultés.
+
+L'éclairage
+
+Pourquoi cette étude ne dit pas « la chirurgie est meilleure »
+
+Le sémaglutide et le tirzépatide sont des médicaments injectables qui miment une hormone de la satiété (GLP-1). Beaucoup de patients les arrêtent dans l'année, par intolérance ou faute d'effet. Le bypass gastrique réduit la taille de l'estomac et court-circuite une partie de l'intestin ; le manchon retire une grande partie de l'estomac. L'étude est observationnelle : personne n'a été tiré au sort, les groupes de patients sous médicament sont petits (61 et 207) et les chercheurs n'ont pas pu vérifier la régularité des prises. Elle montre donc que la chirurgie peut encore faire perdre du poids après un échec du médicament, pas qu'elle fait mieux qu'un autre traitement. Le suivi s'arrête à deux ans. Il présente la chirurgie comme une étape possible quand le médicament n'est pas toléré ou ne suffit pas. Les chercheurs précisent que les résultats ne signifient pas que la chirurgie convient à tous, et que le choix doit tenir compte de la santé, des traitements passés et des préférences du patient.
+
+Ce qu'ils en disent
+
+« GLP-1 medications have transformed obesity care, but they don’t work for everyone »
+Ali Aminian (Auteurs), directeur de l'Institut de chirurgie bariatrique et métabolique, Cleveland Clinic
+
+« Our findings show that bariatric surgery can be that next step. »
+Ali Aminian (Auteurs), auteur principal de l'étude
+
+Ce qui change
+
+Pour les patients concernés, rien ne change aujourd'hui : l'étude ne recommande ni d'arrêter un médicament ni de se faire opérer, et l'indication d'une chirurgie se discute avec une équipe spécialisée.
+
+Et après
+
+Il faudrait des essais randomisés et un suivi plus long pour comparer la chirurgie à un changement de traitement. Aucune décision d'autorité de santé n'est annoncée.
+
+Sources : Cleveland Clinic (communiqué) · Étude (Annals of Surgery, DOI) · Medical Xpress
+
+2. Délirium à l'hôpital : un lien avec la démence des années plus tard
+
+ÉTUDE
+
+5,39 : risque relatif ajusté de démence (IC 2,94 à 9,85)
+
+3,67 : risque relatif ajusté de trouble cognitif léger
+
+7,2 ans : de suivi médian des participants
+
+Ce qui s'est passé
+
+Le 2 novembre 2026, JAMA Neurology a publié en ligne une étude de l'équipe d'Allyson Palmer, de la Mayo Clinic, sur le délirium, un état de confusion aiguë qui survient parfois pendant une hospitalisation. Elle s'appuie sur la Mayo Clinic Study of Aging : des adultes âgés, sans démence au départ, passaient des tests de mémoire et de réflexion tous les 15 mois, avant comme après leurs séjours à l'hôpital (hospitalisations entre 2004 et 2023). Le suivi médian est de 7,2 ans. Parmi les participants hospitalisés, 75 (2,1 %) ont eu un délirium dans les 30 jours. Un trouble cognitif léger est apparu chez 64 % d'entre eux, contre 30,4 % des autres ; une démence chez 24 % contre 6,2 %. Après ajustement (âge, sexe, éducation, gène APOE ε4), le risque relatif est de 5,39 pour la démence et de 3,67 pour le trouble cognitif léger. Sur cinq ans, le score aux tests recule en moyenne de 2,28 points avec délirium, contre 0,43 sans. Les auteurs précisent que l'étude est observationnelle et ne prouve pas que le délirium cause le déclin.
+
+L'éclairage
+
+Un signal d'alerte, pas une cause démontrée
+
+Le délirium est une confusion brutale, avec des troubles de l'attention et de la conscience, qui peut suivre une infection, une opération ou un séjour en réanimation. Cette étude est solide sur un point : les participants avaient passé des tests avant leur hospitalisation, ce qui évite de s'appuyer sur des souvenirs. Mais elle reste observationnelle : une personne dont le cerveau est déjà fragile peut être plus exposée au délirium, sans que ce dernier soit la cause du déclin. Le groupe avec délirium est aussi très petit (75 personnes), d'où un intervalle de confiance large (2,94 à 9,85). Les auteurs recommandent de prévenir et de repérer le délirium et de suivre la récupération après la sortie.
+
+Ce qui change
+
+Pour les patients et les proches, rien ne change aujourd'hui : l'étude n'établit pas de causalité et ne propose pas de traitement.
+
+Et après
+
+Des études devront dire si prévenir le délirium réduit le déclin cognitif. Aucune recommandation officielle nouvelle n'est annoncée à ce jour.
+
+Sources : Étude (JAMA Neurology, DOI) · PubMed · Medical Xpress · Medscape
+
+3. VIH : 9 millions de tests en 2025, 4 983 découvertes de séropositivité
+
+SANTÉ PUBLIQUE
+
+9 M : tests en laboratoire (+7 % sur un an)
+
+4 983 : découvertes en 2025 (5 318 en 2023)
+
+8 463 : personnes qui ignorent leur séropositivité
+
+Ce qui s'est passé
+
+Le 5 novembre 2026, Santé publique France a publié son bilan 2025 du dépistage et de la surveillance du VIH. Environ 9 millions de tests ont été réalisés en laboratoire, soit 7 % de plus qu'en 2024. Le dispositif « Mon test IST », accessible sans ordonnance ni avance de frais, en représente 2,3 millions, environ un quart du total. Le nombre de personnes qui ont découvert leur séropositivité s'établit à 4 983, contre 5 318 en 2023, soit environ 6 % de moins ; Vidal rapporte par ailleurs une baisse de 18 % entre 2012 et 2025. L'incidence estimée, 3 464 nouvelles infections soit 50 par million d'habitants, est stable depuis 2023. L'agence estime à 8 463 le nombre de personnes qui vivent avec le VIH sans le savoir. Plus de la moitié des personnes dont le diagnostic a été posé en 2025 sont nées à l'étranger. Santé publique France relève une situation qui reste préoccupante en Guyane, à Mayotte, aux Antilles et en Île-de-France. Les sources divergent sur la part des diagnostics tardifs (39 % ou 49 % selon les passages de l'article de Vidal), ce chiffre n'est donc pas retenu ici.
+
+L'éclairage
+
+Plus de tests, moins de découvertes : comment le lire ?
+
+Une découverte de séropositivité est le moment où une personne apprend, grâce à un test, qu'elle vit avec le VIH ; ce n'est pas une nouvelle infection. Ce nombre peut baisser parce qu'il y a moins de contaminations, ou parce que moins de personnes se font tester. Ici, les tests augmentent en même temps que les découvertes diminuent, ce qui est plutôt compatible avec la première explication, mais l'incidence estimée, elle, reste stable depuis 2023. Ce sont des données de surveillance, pas une expérience : elles décrivent une tendance sans en prouver la cause, comme l'effet de « Mon test IST ». L'agence appelle aussi à un dépistage répété chez les personnes les plus exposées, selon Vidal.
+
+Ce qu'ils en disent
+
+« l’épidémie reste marquée par une situation préoccupante en Guyane, à Mayotte, aux Antilles et en Île-de-France »
+Santé publique France (Autorité de santé), agence nationale de santé publique
+
+Ce qui change
+
+Pour le public, le message de l'agence est de se faire dépister, en particulier pour les personnes les plus exposées : le test se fait en laboratoire, avec ou sans ordonnance selon le dispositif.
+
+Et après
+
+Santé publique France annonce une campagne en décembre, autour de la journée mondiale de lutte contre le sida du 1er décembre.
+
+Sources : Santé publique France (communiqué) · Le Quotidien du Médecin · Vidal
+
+Les mots du jour
+
+Étude observationnelle
+Étude où les chercheurs observent des personnes sans leur attribuer un traitement au hasard : elle montre des liens, pas des causes.
+Risque relatif ajusté
+Rapport entre le risque d'un groupe et celui d'un autre, recalculé en tenant compte de facteurs comme l'âge ou l'éducation. Ici, 5,39 signifie un risque de démence multiplié par un peu plus de cinq.
+Délirium
+État de confusion aiguë, d'apparition brutale, avec des troubles de l'attention, fréquent chez les personnes âgées hospitalisées.
+Bypass gastrique en Y
+Opération qui crée une petite poche d'estomac reliée directement à l'intestin grêle, pour réduire les quantités mangées et absorbées.
+
+Vrai ou faux ?
+
+Dans l'étude de la Cleveland Clinic, les patients qui avaient peu maigri sous sémaglutide ou tirzépatide ont aussi peu maigri après une chirurgie bariatrique.
+
+Réponse : faux. C'est faux : dans le groupe à réponse insuffisante au médicament (207 patients), la perte de poids à deux ans après un bypass allait de 27,4 % à 35,8 % selon la présence d'un diabète, proche du groupe sans médicament préalable. Étude observationnelle, selon Medical Xpress.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+La Rochelle
+
+jeudi 12 novembre 2026 · 5 min de lecture
+
+1. Usine à gaz Marcel-Paul : le chantier reprend sous une tente
+
+ENVIRONNEMENT
+
+3 000 : m² de tente au minimum
+
+10 m : hauteur de la tente
+
+4 : extracteurs d'air à filtres à charbon
+
+- Le principe : travailler à l'intérieur d'une enceinte fermée, dont l'air est aspiré et filtré avant rejet, pour limiter les poussières et les odeurs pendant que la terre polluée est remuée.
+- L'opérateur mène les travaux et mesure l'air. Une société dite de dépollution se substitue ici à l'ancien exploitant du site, selon le rapport d'inspection.
+- L'État contrôle : le rapport d'inspection est publié sur Géorisques, et les analyses d'air sont supervisées par l'ARS, selon ICI. Un arrêté préfectoral de mise en demeure de la société avait été pris en 2025, selon ICI.
+- La commune n'est pas l'autorité de contrôle du chantier ; elle intervient surtout sur le projet de logements à venir.
+
+L'éclairage
+
+Pourquoi une tente, et qui contrôle ?
+
+Sources : ICI La Rochelle · Géorisques (inspection) · Speed Rehab
+
+Les mots du jour
+
+Composés organiques volatils (COV)
+Des substances chimiques qui s'évaporent facilement dans l'air ; on les mesure pour savoir si un chantier ou une industrie dégrade l'air.
+Excavation
+Le fait d'extraire des terres du sol, ici pour retirer celles qui sont polluées.
+Mise en demeure
+Une injonction de l'autorité, ici le préfet, qui impose à une entreprise de respecter ses obligations dans un délai donné.
+
+Vrai ou faux ?
+
+La tente qui recouvre le chantier de l'ancienne usine à gaz de la rue Marcel-Paul mesure moins de 1 000 m².
+
+Réponse : faux. Faux : selon ICI, la tente couvre plus de 3 000 m² et dépasse 10 mètres de haut.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+Food & Bio
+
+jeudi 12 novembre 2026 · 6 min de lecture
+
+1. Céréales : l'État étudie la création de stocks stratégiques
+
+FILIÈRE
+
+7,2 M : hectares de céréales à paille en 2026 (8,1 M en 2016)
+
+13,5 : millions de tonnes de blé tendre à exporter en 2026-27
+
+10 M : barils de gazole puisés dans les stocks de pétrole
+
+Ce qui s'est passé
+
+Le vendredi 6 novembre, le ministère de l'Agriculture a confirmé à l'AFP le lancement d'une « mission flash » sur la création éventuelle de stocks stratégiques de céréales, après une information de RTL. Le ministère n'a donné aucun détail sur la mission. Son cabinet indique que les conclusions sont attendues d'ici la fin du mois de novembre. La France détient des stocks stratégiques de produits pétroliers, dont 10 millions de barils de gazole ont été mobilisés début octobre, mais n'a pas de réserve de céréales. Selon FranceAgriMer, cité par Réussir, la moitié de la production française de céréales est dédiée à l'exportation ; les exportations de blé tendre sont prévues à 13,5 millions de tonnes en 2026-2027, dont 6,9 millions vers l'Union européenne. Selon l'AGPB, les surfaces de céréales à paille sont passées de 8,1 millions d'hectares en 2016 à 7,2 millions en 2026.
+
+- C'est une réserve constituée à l'avance par un État pour garantir l'approvisionnement en cas de crise. La France en possède déjà pour les produits pétroliers, pas pour les céréales.
+- La France est le premier producteur de blé et de maïs de l'Union européenne, et la moitié de sa production de céréales est exportée (FranceAgriMer). Un stock servirait donc à couvrir des besoins en cas de choc sur les échanges.
+- La Commission européenne a présenté en juillet 2025 une stratégie de constitution de stocks, y compris alimentaires, via un réseau de stockage partagé entre États membres (Réussir). La Suède a annoncé en octobre 2025 des réserves de céréales dans le nord du pays.
+
+L'éclairage
+
+Qu'est-ce qu'un stock stratégique ?
+
+Ce qu'ils en disent
+
+« Quand on parle de stocks stratégiques, c'est pour faire face à des conflits, des guerres »
+Éric Thirouin (Filière / interprofession), président de l'AGPB
+
+Confirme le lancement d'une mission flash et des conclusions attendues d'ici la fin du mois, sans détailler son contenu.
+Cabinet de la ministre de l'Agriculture (Pouvoirs publics)
+
+Avait déjà évoqué en mars des solutions face aux chocs géopolitiques, dont des stocks stratégiques et la rénovation des silos.
+Interprofession des céréales (Filière / interprofession)
+
+Ce qui change
+
+Aucune décision n'est prise à ce stade. La mission peut déboucher sur un dispositif de réserve, dont la forme, le volume et le financement restent à définir.
+
+Et après
+
+Remise des conclusions de la mission flash d'ici la fin novembre 2026.
+
+Sources : Réussir · La France Agricole · Pleinchamp · TradingView (dépêche AFP)
+
+2. Sécheresse : dérogations pour les couverts d'hiver
+
+AGRICULTURE
+
+15/12 : date limite de demande à la DDT
+
+5 : départements exclus de la dérogation sur la BCAE 6
+
+6 sem. : durée minimale d'un couvert en interculture longue
+
+Ce qui s'est passé
+
+Le décret n° 2026-991 du 23 octobre 2026, publié au Journal officiel le 25 octobre, permet pour la campagne 2026 de déroger à l'obligation de couverture des sols (norme BCAE 6) hors zones vulnérables, au motif de la sécheresse des sols. Selon Pleinchamp, la dérogation vaut pour les départements de métropole et la Corse, sauf cinq : Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes et Vaucluse. Le 10 novembre, Réussir rapporte que le ministère autorise les préfets à accorder des dérogations à l'implantation de cultures secondaires ou de couverts végétaux au titre de la BCAE 7, pour la période du 15 novembre 2026 au 15 février 2027. La note d'instruction retient le critère de force majeure pour tous les départements métropolitains. La demande est individuelle et doit parvenir à la DDT avant le 15 décembre 2026 ; l'AGPM réclamait cette dérogation depuis plusieurs semaines. Les sols étaient « inhabituellement secs à exceptionnellement secs » en août et septembre 2026.
+
+- Les bonnes conditions agricoles et environnementales (BCAE) sont des règles à respecter pour toucher les aides de la politique agricole commune (PAC).
+- La BCAE 6 impose de couvrir les sols entre le 1er septembre et le 30 novembre (couvert semé, repousses, paille ou résidus). La BCAE 7 porte sur la diversification ou la rotation des cultures.
+- Un cas de force majeure permet de ne pas perdre ses aides quand une obligation ne peut pas être tenue, sur demande et avec justificatifs. Une demande ne vaut pas accord (préfecture de la Haute-Garonne).
+
+L'éclairage
+
+Que sont les BCAE ?
+
+Ce qu'ils en disent
+
+Réclamait la dérogation sur les couverts depuis plusieurs semaines, selon Réussir (d'après Agra Presse).
+AGPM (Agriculteurs), producteurs de maïs
+
+Retient le critère de force majeure pour tous les départements métropolitains et laisse aux préfets la décision d'accorder ou non la dérogation.
+Ministère de l'Agriculture (Pouvoirs publics)
+
+Ce qui change
+
+Pour un exploitant, la dérogation évite de perdre des aides PAC si le couvert ne peut pas être implanté faute d'humidité. Elle ne s'applique pas automatiquement : la BCAE 7 suppose une demande à la DDT, et les procédures varient selon les départements.
+
+Et après
+
+Début de la période de dérogation le 15 novembre ; fin de la période de couverture BCAE 6 le 30 novembre ; date limite des demandes le 15 décembre 2026.
+
+Sources : Réussir · Pleinchamp · Préfecture de la Haute-Garonne · Décret 2026-991 (AIDA)
+
+À venir
+
+- 15 nov. : Début de la période de dérogation BCAE 7 (jusqu'au 15 février 2027).
+- 30 nov. : Fin de la période de couverture des sols (BCAE 6) et conclusions attendues de la mission flash sur les stocks de céréales.
+- 15 déc. : Date limite des demandes de dérogation BCAE 7 auprès de la DDT.
+
+Les mots du jour
+
+Stock stratégique
+Une réserve constituée à l'avance par un État pour garantir l'approvisionnement en cas de crise.
+BCAE
+Bonnes conditions agricoles et environnementales : des règles à respecter pour toucher les aides de la PAC.
+Couvert d'interculture
+Une culture semée entre deux cultures principales pour couvrir le sol, avec une durée minimale de six semaines en interculture longue.
+Force majeure (PAC)
+Un événement exceptionnel qui permet, sur demande justifiée, de ne pas perdre ses aides malgré une règle non respectée.
+
+Vrai ou faux ?
+
+La France ne possède aucune réserve stratégique de céréales, alors qu'elle détient des stocks stratégiques de produits pétroliers.
+
+Réponse : vrai. Selon l'AFP et la presse agricole, la France a des stocks stratégiques de pétrole, dont dix millions de barils de gazole ont été libérés début octobre, mais pas de stocks de céréales. Le ministère a lancé une mission flash le 6 novembre pour étudier leur création.
+
+Retrouvez cette édition sur eclairagemedia.com.
+
+IA & Tech
+
+jeudi 12 novembre 2026 · 10 min de lecture
+
+1. Gemini 4 Carbon : Google l'ouvre aux développeurs et entreprises payants
+
+MODÈLES
+
+2 $ : par million de jetons en entrée
+
+4 $ : à partir du 1er décembre
+
+30 nov : fin du tarif d'introduction
+
+Ce qui s'est passé
+
+Le 28 octobre, Google a présenté Gemini 4 Carbon, qu'il décrit comme son modèle le plus puissant, d'abord réservé à des défenseurs en cybersécurité du programme Fairwind. Le 10 novembre, Google l'a ouvert aux développeurs et aux entreprises payants, via l'interface de programmation (API) Gemini, dans Google AI Studio et Gemini for business. Les abonnés Google AI Ultra le reçoivent progressivement dans l'application Gemini, le mode IA de la recherche et l'outil de programmation Antigravity. Le tarif d'introduction est de 2 dollars par million de jetons (unités de texte) en entrée et 10 dollars en sortie jusqu'au 30 novembre, puis 4 et 20 dollars. Selon Google, Carbon arrive premier sur trois bancs d'essai (CursorBench 4.0, WANDR, AutomationBench) ; ce sont des résultats annoncés par l'entreprise. Google n'a pas dit si les formules inférieures ou gratuites y auront accès.
+
+L'éclairage
+
+Que veut dire « ouvert aux développeurs » ?
+
+Un développeur n'ouvre pas un site de discussion : son programme envoie du texte au modèle par une API (une prise logicielle) et paie à l'usage, au nombre de jetons, ces petits morceaux de mots que le modèle lit et écrit. Un million de jetons représente de l'ordre de 750 000 mots, soit plusieurs romans. Le prix par jeton passera de 2 à 4 dollars en entrée le 1er décembre, mais la facture d'un travail ne double pas forcément : elle dépend du nombre de jetons que le modèle consomme, et Google indique que Carbon en utilise plus que son prédécesseur Argon pour explorer, raisonner et vérifier. Autre limite : les classements cités sont des annonces, et le mode « swarm » (une équipe d'agents lancée depuis une seule consigne) n'est qu'un aperçu.
+
+Ce qu'ils en disent
+
+« Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows »
+Koray Kavukcuoglu (Entreprise), architecte en chef de l'IA, Google
+
+Ses propres bancs d'essai placent son modèle Fable 5.2 devant Carbon en code, en sciences et en usage d'ordinateur.
+Anthropic (Concurrent), selon MLQ.ai
+
+La hausse de prix par jeton ne se traduit pas mécaniquement par un doublement de la facture, et les agents en parallèle consomment les quotas bien plus vite qu'un simple échange.
+XenoSpectrum (Commentateur), site spécialisé
+
+Ce qui change
+
+Pour une entreprise ou un salarié qui programme avec un agent, la question devient le coût total d'un travail terminé, pas le prix du jeton, et le test sur ses propres tâches avant le 30 novembre. Pour un particulier, rien ne change sauf s'il est abonné Ultra.
+
+Et après
+
+Fin du tarif d'introduction le 30 novembre ; la page de prix publique de l'API ne listait pas encore Carbon le 11 novembre selon XenoSpectrum ; ouverture éventuelle aux autres formules non annoncée.
+
+Sources : Google (annonce du 10 novembre) · MLQ.ai · XenoSpectrum · Technology.org
+
+2. New York : les grands développeurs d'IA doivent s'inscrire avant le 1er janvier
+
+RÉGULATION
+
+500 M$ : revenus annuels visés (presse)
+
+72 h : pour signaler un incident critique
+
+3 M$ : amende maximale en cas de récidive
+
+Ce qui s'est passé
+
+Le 10 novembre, l'État de New York a ouvert un portail d'inscription pour les développeurs d'IA « de pointe » (les modèles les plus avancés) que vise la loi RAISE Act, qui s'applique à partir du 1er janvier 2027. TechCrunch et MLQ.ai citent OpenAI et Anthropic parmi les entreprises concernées. Les développeurs doivent publier un cadre de sécurité, déclarer à l'office DIGIT, rattaché au département des services financiers de l'État, tout incident critique sous 72 heures et déposer des évaluations trimestrielles des risques catastrophiques. Selon la presse, la loi vise ceux qui réalisent plus de 500 millions de dollars de revenus annuels ; le communiqué officiel du 21 septembre ne chiffre pas ce critère. Les amendes atteignent 1 million de dollars pour une première infraction et 3 millions ensuite. Un porte-parole de l'État a refusé de détailler les sanctions pour défaut d'inscription.
+
+L'éclairage
+
+Pourquoi un État américain réglemente-t-il l'IA ?
+
+Il n'existe pas de loi fédérale américaine équivalente à l'AI Act européen, ce sont donc les États qui avancent. La Californie applique depuis janvier sa loi SB 53 (rapport d'incident sous 15 jours) ; l'Illinois ajoutera en 2027 des audits de sécurité indépendants ; New York impose 72 heures, ramenées à 24 heures en cas de danger imminent de mort ou de blessure grave (MLQ.ai). Un incident critique est un événement où un modèle cause ou risque de causer un dommage grave. Ce qui est établi : le texte et l'ouverture du registre. Ce qui reste flou : les formulaires, les barèmes de redevances et la définition précise des incidents, que TechCrunch ne rapporte pas comme publiés.
+
+Ce qu'ils en disent
+
+« Tech moguls tell us that their vision for AI is inevitable »
+Kathy Hochul (Régulateur), gouverneure de New York
+
+Il a refusé de préciser les mesures que l'État prendrait contre une entreprise qui ne s'inscrit pas.
+Porte-parole de l'État (Régulateur), département des services financiers
+
+Ce qui change
+
+Pour OpenAI, Anthropic et les autres grands laboratoires, c'est une obligation administrative nouvelle avec des délais de déclaration courts.
+
+Et après
+
+Inscription avant le 1er janvier 2027, début de l'application de la loi le même jour, puis première déclaration d'ici deux ans au plus.
+
+Sources : État de New York (DFS) · TechCrunch · MLQ.ai · FingerLakes1
+
+3. Lazarus : Microsoft décrit une porte dérobée dans moins de 10 neurones
+
+CYBERSÉCURITÉ
+
+< 10 : neurones réécrits
+
+~50 : exemples pour le détecteur de signal
+
+Ce qui s'est passé
+
+Le 10 novembre, Dimitris Papailiopoulos, chercheur principal chez Microsoft Research, a publié Lazarus, une technique qui réécrit moins de 10 neurones rarement actifs d'un grand modèle de langage pour installer une porte dérobée (un comportement caché, activé par un signal). Il n'y a pas de réentraînement : un classificateur simple, entraîné sur une cinquantaine d'exemples, détecte le déclencheur, qui peut être banal, comme le passage d'une date à 2027. Un agent doté d'un accès à un terminal pourrait alors télécharger et exécuter du code de l'attaquant. Le modèle modifié passe les évaluations de sécurité standard. L'attaque suppose un accès en écriture aux poids du modèle, c'est-à-dire à ses paramètres enregistrés. Microsoft indique que la piste est née en mars d'une expérience où Claude Code a trouvé l'essentiel de la méthode.
+
+L'éclairage
+
+Que veut dire « réécrire un neurone » ?
+
+Un modèle de langage est un très grand tableau de nombres (ses poids), organisé en couches de « neurones » qui s'activent selon le texte lu. Les modèles testés ont de 8 à 31 milliards de paramètres (The Next Web) ; certains neurones ne s'allument presque jamais. Les modifier ne change rien au comportement habituel, d'où les tests standard réussis. C'est démontré en laboratoire sur trois modèles à poids ouverts, pas observé dans la nature. Selon Microsoft, aucun scan ne prouve qu'un modèle est sain : seule la comparaison avec les poids d'origine révèle la modification.
+
+Ce qu'ils en disent
+
+Le modèle « passes standard evals and behaves normally, until a trigger appears » (il réussit les évaluations standard et se comporte normalement jusqu'à l'apparition du déclencheur).
+Dimitris Papailiopoulos (Chercheurs), Microsoft Research
+
+Sa plateforme relie déjà les modèles à poids ouverts à leur éditeur d'origine et les fait tourner dans des conteneurs scannés ; elle prépare la signature cryptographique des modèles.
+Microsoft (Entreprise), Foundry, selon l'entreprise
+
+Ce qui change
+
+Pour une entreprise qui déploie un agent, le risque porte sur la chaîne d'approvisionnement : d'où vient le fichier du modèle, qui peut le modifier, et ce que l'agent a le droit de faire. Un utilisateur d'un service d'IA grand public n'a rien à changer.
+
+Et après
+
+Microsoft annonce des outils de scan des poids et de signature des modèles, sans date. Des équipes indépendantes pourront tester la méthode sur d'autres modèles.
+
+Sources : Microsoft Research · The Next Web · InfoWorld
+
+Les mots du jour
+
+Jeton (token)
+Morceau de texte, mot ou fragment de mot, qui sert d'unité de lecture, d'écriture et de facturation aux modèles.
+Porte dérobée (backdoor)
+Comportement caché d'un logiciel ou d'un modèle, déclenché seulement quand un signal précis apparaît.
+Modèle de pointe (frontier)
+Modèle d'IA parmi les plus avancés du moment, que visent certaines lois comme le RAISE Act.
+Poids
+Les nombres appris par un modèle pendant son entraînement, qui déterminent son comportement.
+
+Vrai ou faux ?
+
+Depuis le 10 novembre, Google propose son modèle Gemini 4 Carbon gratuitement à tous les utilisateurs.
+
+Réponse : faux. Faux : selon Google, Carbon est ouvert aux développeurs et entreprises payants et, progressivement, aux abonnés Google AI Ultra. Google n'a pas dit si les formules inférieures ou gratuites y auront accès.
+
+Retrouvez cette édition sur eclairagemedia.com.
