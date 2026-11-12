@@ -1,5 +1,397 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-12",
+  "minutes": 12,
+  "sujets": [
+   {
+    "n": 1,
+    "theme": "ÉDUCATION",
+    "titre": "Éducation : Lecornu annonce 5 000 places de plus en licence",
+    "court": "Éducation : 5 000 places de plus en licence",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2026_high_school_student_movement_and_blockades_at_Lyc%C3%A9e_Louis-le-Grand_in_Paris_%E2%80%94_07.jpg/1280px-2026_high_school_student_movement_and_blockades_at_Lyc%C3%A9e_Louis-le-Grand_in_Paris_%E2%80%94_07.jpg",
+    "legende": "Lycéens rassemblés devant le lycée Louis-le-Grand à Paris lors de la mobilisation de 2026 (photo d'archive)",
+    "chapeau": "Lundi 9 novembre, le Premier ministre Sébastien Lecornu a réuni à Matignon environ quarante invités (organisations lycéennes et étudiantes, syndicats enseignants, parents, parlementaires) pour lancer une concertation sur l'avenir de Parcoursup, avec le ministre de l'Éducation Édouard Geffray et le ministre de l'Enseignement supérieur Philippe Baptiste.",
+    "eclairage": "Parcoursup, comment ça marche ?",
+    "chiffres": [
+     {
+      "valeur": "5 000",
+      "legende": "places de plus en licence"
+     },
+     {
+      "valeur": "15 000",
+      "legende": "places déjà annoncées"
+     },
+     {
+      "valeur": "250 000",
+      "legende": "places demandées par les étudiants"
+     }
+    ],
+    "passe": "Lundi 9 novembre, le Premier ministre Sébastien Lecornu a réuni à Matignon environ quarante invités (organisations lycéennes et étudiantes, syndicats enseignants, parents, parlementaires) pour lancer une concertation sur l'avenir de Parcoursup, avec le ministre de l'Éducation Édouard Geffray et le ministre de l'Enseignement supérieur Philippe Baptiste. Une partie des organisations de jeunesse et des syndicats ont quitté la salle, en contestant la présence de l'UNI et d'élus du RN et de l'UDR. Dans une lettre aux présidents d'université rendue publique mercredi 11 novembre par l'AFP, le Premier ministre dit que des moyens supplémentaires permettront d'accueillir « 5 000 étudiants supplémentaires en licence ». Il rappelle que 15 000 places supplémentaires avaient déjà été annoncées, dont 4 000 en IUT. Les organisations étudiantes, mobilisées depuis la mi-septembre, demandent 250 000 places de plus dans les universités.",
+    "points": [
+     "Parcoursup est la plateforme nationale d'inscription dans l'enseignement supérieur, créée par la loi de 2018.",
+     "La licence est le premier cycle universitaire. Ouvrir des places suppose des moyens (enseignants, salles), ce que demandent les universités.",
+     "Supprimer ou remplacer Parcoursup passerait par une nouvelle loi, rappelle Public Sénat ; le gouvernement ne l'a pas encore présentée."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
+      "nom": "franceinfo (avec AFP)"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence-08e6bc4f9cc39b50f511b8bbfe35377a",
+      "nom": "AFP via Boursorama"
+     },
+     {
+      "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-et-etudiante-sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence-92ad5522-de03-11f1-86b6-0a2fbb1d8ed9",
+      "nom": "Ouest-France"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "nom": "Public Sénat"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "Gouvernement",
+      "qui": "Sébastien Lecornu",
+      "contexte": "Premier ministre, lettre aux présidents d'université",
+      "texte": "Des moyens seront prévus pour « 5 000 étudiants supplémentaires en licence ».",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
+      "source": "franceinfo"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Colombe Brossel",
+      "contexte": "sénatrice",
+      "texte": "Elle dit que « le gouvernement joue les pompiers pyromanes » et regrette l'absence de chiffres sur les places.",
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#ffe6e9",
+      "couleur": "#b0001e",
+      "parti": "PCF",
+      "qui": "Pierre Ouzoulias",
+      "contexte": "sénateur",
+      "texte": "À la fin de la réunion, « nous n’étions plus que trois ». Il estime que la seule sortie de crise serait un investissement financier.",
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Max Brisson",
+      "contexte": "sénateur",
+      "texte": "Il parle d'un « fiasco de la politique d’orientation » et juge que les départs de la salle relèvent de la mise en scène.",
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e3f3fd",
+      "couleur": "#2d9cdb",
+      "parti": "Centristes UC",
+      "qui": "Pierre-Antoine Levi",
+      "contexte": "sénateur, président de la commission de la culture",
+      "texte": "Il demande : « Si vous supprimez Parcoursup, qu’est-ce que vous mettez à la place ? »",
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "UNEF",
+      "qui": "Manon Moret",
+      "contexte": "secrétaire générale",
+      "texte": "« On ne rentrera jamais dans une salle avec l’extrême droite », dit-elle.",
+      "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Le projet de loi sur l'enseignement supérieur privé, adopté par le Sénat en juin, doit être examiné par l'Assemblée nationale la semaine du 14 décembre. Le gouvernement a promis des amendements au budget 2027, sans les détailler, selon Public Sénat.",
+    "change": "Les 5 000 places en licence sont une annonce écrite du Premier ministre : leur répartition par université n'est pas détaillée. Les organisations étudiantes demandent 250 000 places.",
+    "credit": {
+     "auteur": "Wyslijp16",
+     "licence": "CC BY 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2026_high_school_student_movement_and_blockades_at_Lyc%C3%A9e_Louis-le-Grand_in_Paris_%E2%80%94_07.jpg"
+    }
+   },
+   {
+    "n": 2,
+    "theme": "NUMÉRIQUE",
+    "titre": "Cybersécurité : les députés suppriment l'article sur les messageries chiffrées",
+    "court": "Cybersécurité : fin de l'article 16 bis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vote_solennel_loi_mariage_23042013_13.jpg/1280px-Vote_solennel_loi_mariage_23042013_13.jpg",
+    "legende": "Députés en séance dans l'hémicycle de l'Assemblée nationale (photo d'archive, 2013, illustration)",
+    "chapeau": "Mardi 10 novembre, l'Assemblée nationale a supprimé l'article 16 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, par 69 voix contre 37.",
+    "eclairage": "Chiffrement et NIS 2 : de quoi parle-t-on ?",
+    "chiffres": [
+     {
+      "valeur": "69 / 37",
+      "legende": "voix pour / contre la suppression"
+     },
+     {
+      "valeur": "16 bis",
+      "legende": "article supprimé mardi 10 novembre"
+     },
+     {
+      "valeur": "17/11",
+      "legende": "vote solennel annoncé (LCP)"
+     }
+    ],
+    "passe": "Mardi 10 novembre, l'Assemblée nationale a supprimé l'article 16 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, par 69 voix contre 37. Cet article, ajouté par le Sénat, visait à garantir l'inviolabilité des messageries chiffrées comme WhatsApp, Telegram ou Signal. Le gouvernement avait déposé un amendement de suppression. Le ministre de l'Intérieur Laurent Nuñez a jugé l'article trop large, car il interdirait des techniques de renseignement autorisées par la loi. La ministre du Numérique Anne Le Hénanff s'est engagée à ne pas réintroduire de disposition affaiblissant le chiffrement, jusqu'à la fin de la session parlementaire selon LCP, de la législature selon Next. Le texte, déposé au Sénat en octobre 2024, transpose notamment la directive européenne NIS 2.",
+    "points": [
+     "Le chiffrement de bout en bout fait que seuls l'expéditeur et le destinataire peuvent lire un message, pas l'application elle-même.",
+     "La directive NIS 2 est une règle européenne qui impose des mesures de cybersécurité à des milliers d'organisations : 18 000 selon la ministre du Numérique (Public Sénat), jusqu'à 19 000 selon le Campus cyber (Sud Radio).",
+     "Supprimer l'article 16 bis n'oblige pas les messageries à installer des accès dérobés. Cela retire une protection écrite dans le texte, ce qui inquiète ses défenseurs."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+      "nom": "LCP"
+     },
+     {
+      "url": "https://next.ink/266473/ouf-enfin-nis2-arrive-a-lassemblee-le-chiffrement-deja-au-coeur-des-debats/",
+      "nom": "Next"
+     },
+     {
+      "url": "https://actu17.fr/societe/whatsapp-signal-telegram-les-deputes-suppriment-l-article-qui-interdisait-d-imposer-des-portes-derobees.html",
+      "nom": "actu17"
+     },
+     {
+      "url": "https://www.publicsenat.fr/actualites/politique/attaque-contre-des-frigos-de-supermarches-le-projet-de-loi-pour-renforcer-la-cybersecurite-enfin-a-lassemblee-apres-deux-ans-de-report",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/cybersecurite-un-projet-de-loi-tres-attendu-debattu-a-l-assemblee-10c0c31268e11a72ee07a2428d697c20",
+      "nom": "AFP via Boursorama"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "Gouvernement",
+      "qui": "Laurent Nuñez",
+      "contexte": "ministre de l'Intérieur",
+      "texte": "« Cet article 16 bis est écrit de manière trop large », a-t-il dit.",
+      "url": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+      "source": "LCP"
+     },
+     {
+      "fond": "#e4e7f2",
+      "couleur": "#0b1f4d",
+      "parti": "RN",
+      "qui": "Émeric Salmon",
+      "contexte": "député",
+      "texte": "Il dit que la rédaction crée « une incertitude sur les techniques d’enquête et de renseignement ».",
+      "url": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe8f0",
+      "couleur": "#e0457b",
+      "parti": "PS",
+      "qui": "Ayda Hadizadeh",
+      "contexte": "députée",
+      "texte": "Elle regrette qu'aucun article bien rédigé n'interdise durablement les accès dérobés ; la plupart des députés socialistes ont voté la suppression.",
+      "url": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+      "source": "LCP"
+     },
+     {
+      "fond": "#ffe9e6",
+      "couleur": "#d7263d",
+      "parti": "LFI",
+      "qui": "Arnaud Saint-Martin",
+      "contexte": "député",
+      "texte": "« C’est un immense recul pour nos libertés numériques », dit-il.",
+      "url": "https://next.ink/266473/ouf-enfin-nis2-arrive-a-lassemblee-le-chiffrement-deja-au-coeur-des-debats/",
+      "source": "Next"
+     },
+     {
+      "fond": "#e2f7e9",
+      "couleur": "#1f9d55",
+      "parti": "Écologistes",
+      "qui": "Catherine Hervieu",
+      "contexte": "députée",
+      "texte": "Elle s'oppose à la suppression et dit que le chiffrement est une condition essentielle de la sécurité.",
+      "url": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+      "source": "LCP"
+     }
+    ],
+    "apres": "Selon LCP, un vote solennel sur l'ensemble du projet de loi est prévu le mardi 17 novembre. Le texte devra ensuite être concilié avec la version du Sénat.",
+    "change": "L'article qui protégeait explicitement les messageries chiffrées n'existe plus dans le texte voté par les députés. Le débat sur le chiffrement n'est pas tranché pour autant : le gouvernement a pris un engagement politique, qui n'a pas de valeur de loi.",
+    "credit": {
+     "auteur": "Ericwaltr",
+     "licence": "CC BY-SA 3.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vote_solennel_loi_mariage_23042013_13.jpg"
+    }
+   },
+   {
+    "n": 3,
+    "theme": "SANTÉ ET BUDGET",
+    "titre": "Taxe sur les produits sucrés : le Sénat adopte l'article 8 du budget de la Sécu",
+    "court": "Taxe sucre : le Sénat garde l'article 8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tesco_Supermarket_%28Cakes_%26_Biscuits%29.jpg/1280px-Tesco_Supermarket_%28Cakes_%26_Biscuits%29.jpg",
+    "legende": "Rayon de supermarché avec barres chocolatées, biscuits et gâteaux emballés (illustration)",
+    "chapeau": "Mardi 10 novembre, le Sénat a rejeté les amendements qui supprimaient l'article 8 du projet de loi de financement de la Sécurité sociale (PLFSS) 2027, puis l'a adopté après l'avoir modifié.",
+    "eclairage": "PLFSS et navette : où en est la taxe ?",
+    "chiffres": [
+     {
+      "valeur": "10 g",
+      "legende": "de sucres pour 100 g, seuil de base"
+     },
+     {
+      "valeur": "300 M€",
+      "legende": "rendement attendu par an"
+     },
+     {
+      "valeur": "01/01",
+      "legende": "entrée en vigueur prévue en 2027"
+     }
+    ],
+    "passe": "Mardi 10 novembre, le Sénat a rejeté les amendements qui supprimaient l'article 8 du projet de loi de financement de la Sécurité sociale (PLFSS) 2027, puis l'a adopté après l'avoir modifié. L'article étend la « taxe soda » aux aliments industriels préemballés les plus sucrés : gâteaux, biscuits, céréales du petit-déjeuner, confiseries, produits chocolatés, glaces. Les sénateurs ont exclu les produits fabriqués et vendus par des artisans et certains produits sous label officiel d'origine ou de qualité, la liste devant être fixée par décret. La ministre de la Santé Stéphanie Rist a chiffré l'effet à environ 6 centimes sur un paquet de gâteaux. Le rendement attendu est de 300 millions d'euros par an et l'entrée en vigueur est prévue au 1er janvier 2027. Le refus de supprimer l'article ne vaut pas adoption définitive : les députés avaient supprimé cet article le 22 octobre, par 86 voix contre 58. Information confirmée par deux médias ; le compte rendu officiel du Sénat n'était pas publié à la rédaction.",
+    "points": [
+     "Le PLFSS est la loi qui fixe chaque année les recettes et les dépenses de la Sécurité sociale. Il est examiné par l'Assemblée, puis par le Sénat.",
+     "Chaque chambre peut supprimer ou réécrire un article. La version finale ne sera connue qu'à la fin de la navette, après un éventuel accord entre députés et sénateurs.",
+     "Le Sénat examine le texte du 9 au 17 novembre, avec un vote solennel le 18 novembre, selon Public Sénat."
+    ],
+    "explication": null,
+    "chronologie": [],
+    "sources": [
+     {
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "nom": "Public Sénat"
+     },
+     {
+      "url": "https://www.politiquematin.fr/plfss-2027-senat-taxe-produits-sucres-article-8-amendements-101126-2338",
+      "nom": "Politique Matin"
+     },
+     {
+      "url": "https://lcp.fr/actualites/les-deputes-s-opposent-a-l-extension-de-la-taxation-sur-les-aliments-sucres-444181",
+      "nom": "LCP (vote des députés, 22 oct.)"
+     },
+     {
+      "url": "https://www.senat.fr/tableau-historique/plfss2027.html",
+      "nom": "senat.fr (dossier PLFSS 2027)"
+     }
+    ],
+    "cartes": [
+     {
+      "fond": "#eef0f4",
+      "couleur": "#5b6475",
+      "parti": "Gouvernement",
+      "qui": "Stéphanie Rist",
+      "contexte": "ministre de la Santé",
+      "texte": "« Il me semble donc que cette taxe est indispensable », dit-elle, en citant une alerte sanitaire sur l'obésité des enfants.",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "RDSE",
+      "qui": "François Aubey",
+      "contexte": "sénateur",
+      "texte": "« Une entrée en vigueur dès le 1er janvier leur laisserait un délai bien trop court pour adapter leurs recettes », dit-il des industriels.",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e3f3fd",
+      "couleur": "#2d9cdb",
+      "parti": "Centristes UC",
+      "qui": "Olivier Henno",
+      "contexte": "rapporteur général",
+      "texte": "Il dit être passé d'un doute à un soutien à la taxe.",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#efe8ff",
+      "couleur": "#7e57c2",
+      "parti": "Les Indépendants",
+      "qui": "Corinne Bourcier",
+      "contexte": "sénatrice",
+      "texte": "Elle estime que la prévention et l'éducation à la nutrition doivent passer en premier.",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "source": "Public Sénat"
+     },
+     {
+      "fond": "#e6ecff",
+      "couleur": "#1d4ed8",
+      "parti": "LR",
+      "qui": "Frédérique Puissat",
+      "contexte": "sénatrice",
+      "texte": "Elle suggère que la taxe est une recette commode vu l'état des finances publiques.",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "source": "Public Sénat"
+     }
+    ],
+    "apres": "Le Sénat poursuit l'examen du PLFSS jusqu'au 17 novembre, avec un vote solennel le 18. Le sort définitif de l'article dépendra de la suite de la navette.",
+    "change": "Si l'article est conservé jusqu'au bout, des produits industriels très sucrés seraient taxés à partir du 1er janvier 2027. Les produits artisanaux et labellisés en seraient exclus, selon une liste à fixer par décret.",
+    "credit": {
+     "auteur": "Vauxford",
+     "licence": "CC BY-SA 4.0",
+     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Tesco_Supermarket_(Cakes_%26_Biscuits).jpg"
+    }
+   }
+  ],
+  "agenda": [
+   {
+    "jour": "17",
+    "mois": "NOV.",
+    "texte": "Vote solennel prévu à l'Assemblée sur le projet de loi cybersécurité, selon LCP."
+   },
+   {
+    "jour": "18",
+    "mois": "NOV.",
+    "texte": "Vote solennel du Sénat sur le budget de la Sécurité sociale 2027, selon Public Sénat."
+   },
+   {
+    "jour": "14",
+    "mois": "DÉC.",
+    "texte": "Semaine d'examen à l'Assemblée du projet de loi sur l'enseignement supérieur privé, selon l'AFP."
+   }
+  ],
+  "chiffreDuJour": null,
+  "lexique": [
+   {
+    "terme": "Parcoursup",
+    "definition": "La plateforme nationale d'inscription dans l'enseignement supérieur, créée par la loi de 2018."
+   },
+   {
+    "terme": "Licence",
+    "definition": "Le premier cycle universitaire, après le baccalauréat."
+   },
+   {
+    "terme": "Chiffrement de bout en bout",
+    "definition": "Un procédé qui rend un message lisible seulement par son expéditeur et son destinataire."
+   },
+   {
+    "terme": "Navette parlementaire",
+    "definition": "Les allers-retours d'un texte entre l'Assemblée et le Sénat, jusqu'à une version commune."
+   }
+  ],
+  "quiz": {
+   "affirmation": "Mardi 10 novembre, les députés ont supprimé l'article qui garantissait l'inviolabilité des messageries chiffrées.",
+   "reponse": true,
+   "explication": "Les députés ont supprimé l'article 16 bis du projet de loi sur la cybersécurité par 69 voix contre 37, après un amendement du gouvernement. Cette suppression n'oblige pas les messageries à installer des accès dérobés."
+  }
+ },
+ {
   "rubrique": "economie",
   "date": "2026-11-09",
   "minutes": 10,

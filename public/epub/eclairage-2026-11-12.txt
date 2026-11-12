@@ -1,0 +1,180 @@
+﻿Éclairage · jeudi 12 novembre 2026
+
+Politique
+
+jeudi 12 novembre 2026 · 12 min de lecture
+
+1. Éducation : Lecornu annonce 5 000 places de plus en licence
+
+ÉDUCATION
+
+5 000 : places de plus en licence
+
+15 000 : places déjà annoncées
+
+250 000 : places demandées par les étudiants
+
+Ce qui s'est passé
+
+Lundi 9 novembre, le Premier ministre Sébastien Lecornu a réuni à Matignon environ quarante invités (organisations lycéennes et étudiantes, syndicats enseignants, parents, parlementaires) pour lancer une concertation sur l'avenir de Parcoursup, avec le ministre de l'Éducation Édouard Geffray et le ministre de l'Enseignement supérieur Philippe Baptiste. Une partie des organisations de jeunesse et des syndicats ont quitté la salle, en contestant la présence de l'UNI et d'élus du RN et de l'UDR. Dans une lettre aux présidents d'université rendue publique mercredi 11 novembre par l'AFP, le Premier ministre dit que des moyens supplémentaires permettront d'accueillir « 5 000 étudiants supplémentaires en licence ». Il rappelle que 15 000 places supplémentaires avaient déjà été annoncées, dont 4 000 en IUT. Les organisations étudiantes, mobilisées depuis la mi-septembre, demandent 250 000 places de plus dans les universités.
+
+- Parcoursup est la plateforme nationale d'inscription dans l'enseignement supérieur, créée par la loi de 2018.
+- La licence est le premier cycle universitaire. Ouvrir des places suppose des moyens (enseignants, salles), ce que demandent les universités.
+- Supprimer ou remplacer Parcoursup passerait par une nouvelle loi, rappelle Public Sénat ; le gouvernement ne l'a pas encore présentée.
+
+L'éclairage
+
+Parcoursup, comment ça marche ?
+
+Ce qu'ils en disent
+
+Des moyens seront prévus pour « 5 000 étudiants supplémentaires en licence ».
+Sébastien Lecornu (Gouvernement), Premier ministre, lettre aux présidents d'université
+
+Elle dit que « le gouvernement joue les pompiers pyromanes » et regrette l'absence de chiffres sur les places.
+Colombe Brossel (Ps), sénatrice
+
+À la fin de la réunion, « nous n’étions plus que trois ». Il estime que la seule sortie de crise serait un investissement financier.
+Pierre Ouzoulias (Pcf), sénateur
+
+Il parle d'un « fiasco de la politique d’orientation » et juge que les départs de la salle relèvent de la mise en scène.
+Max Brisson (Lr), sénateur
+
+Il demande : « Si vous supprimez Parcoursup, qu’est-ce que vous mettez à la place ? »
+Pierre-Antoine Levi (Centristes uc), sénateur, président de la commission de la culture
+
+« On ne rentrera jamais dans une salle avec l’extrême droite », dit-elle.
+Manon Moret (Unef), secrétaire générale
+
+Ce qui change
+
+Les 5 000 places en licence sont une annonce écrite du Premier ministre : leur répartition par université n'est pas détaillée. Les organisations étudiantes demandent 250 000 places.
+
+Et après
+
+Le projet de loi sur l'enseignement supérieur privé, adopté par le Sénat en juin, doit être examiné par l'Assemblée nationale la semaine du 14 décembre. Le gouvernement a promis des amendements au budget 2027, sans les détailler, selon Public Sénat.
+
+Sources : franceinfo (avec AFP) · AFP via Boursorama · Ouest-France · Public Sénat
+
+2. Cybersécurité : les députés suppriment l'article sur les messageries chiffrées
+
+NUMÉRIQUE
+
+69 / 37 : voix pour / contre la suppression
+
+16 bis : article supprimé mardi 10 novembre
+
+17/11 : vote solennel annoncé (LCP)
+
+Ce qui s'est passé
+
+Mardi 10 novembre, l'Assemblée nationale a supprimé l'article 16 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, par 69 voix contre 37. Cet article, ajouté par le Sénat, visait à garantir l'inviolabilité des messageries chiffrées comme WhatsApp, Telegram ou Signal. Le gouvernement avait déposé un amendement de suppression. Le ministre de l'Intérieur Laurent Nuñez a jugé l'article trop large, car il interdirait des techniques de renseignement autorisées par la loi. La ministre du Numérique Anne Le Hénanff s'est engagée à ne pas réintroduire de disposition affaiblissant le chiffrement, jusqu'à la fin de la session parlementaire selon LCP, de la législature selon Next. Le texte, déposé au Sénat en octobre 2024, transpose notamment la directive européenne NIS 2.
+
+- Le chiffrement de bout en bout fait que seuls l'expéditeur et le destinataire peuvent lire un message, pas l'application elle-même.
+- La directive NIS 2 est une règle européenne qui impose des mesures de cybersécurité à des milliers d'organisations : 18 000 selon la ministre du Numérique (Public Sénat), jusqu'à 19 000 selon le Campus cyber (Sud Radio).
+- Supprimer l'article 16 bis n'oblige pas les messageries à installer des accès dérobés. Cela retire une protection écrite dans le texte, ce qui inquiète ses défenseurs.
+
+L'éclairage
+
+Chiffrement et NIS 2 : de quoi parle-t-on ?
+
+Ce qu'ils en disent
+
+« Cet article 16 bis est écrit de manière trop large », a-t-il dit.
+Laurent Nuñez (Gouvernement), ministre de l'Intérieur
+
+Il dit que la rédaction crée « une incertitude sur les techniques d’enquête et de renseignement ».
+Émeric Salmon (Rn), député
+
+Elle regrette qu'aucun article bien rédigé n'interdise durablement les accès dérobés ; la plupart des députés socialistes ont voté la suppression.
+Ayda Hadizadeh (Ps), députée
+
+« C’est un immense recul pour nos libertés numériques », dit-il.
+Arnaud Saint-Martin (Lfi), député
+
+Elle s'oppose à la suppression et dit que le chiffrement est une condition essentielle de la sécurité.
+Catherine Hervieu (Écologistes), députée
+
+Ce qui change
+
+L'article qui protégeait explicitement les messageries chiffrées n'existe plus dans le texte voté par les députés. Le débat sur le chiffrement n'est pas tranché pour autant : le gouvernement a pris un engagement politique, qui n'a pas de valeur de loi.
+
+Et après
+
+Selon LCP, un vote solennel sur l'ensemble du projet de loi est prévu le mardi 17 novembre. Le texte devra ensuite être concilié avec la version du Sénat.
+
+Sources : LCP · Next · actu17 · Public Sénat · AFP via Boursorama
+
+3. Taxe sur les produits sucrés : le Sénat adopte l'article 8 du budget de la Sécu
+
+SANTÉ ET BUDGET
+
+10 g : de sucres pour 100 g, seuil de base
+
+300 M€ : rendement attendu par an
+
+01/01 : entrée en vigueur prévue en 2027
+
+Ce qui s'est passé
+
+Mardi 10 novembre, le Sénat a rejeté les amendements qui supprimaient l'article 8 du projet de loi de financement de la Sécurité sociale (PLFSS) 2027, puis l'a adopté après l'avoir modifié. L'article étend la « taxe soda » aux aliments industriels préemballés les plus sucrés : gâteaux, biscuits, céréales du petit-déjeuner, confiseries, produits chocolatés, glaces. Les sénateurs ont exclu les produits fabriqués et vendus par des artisans et certains produits sous label officiel d'origine ou de qualité, la liste devant être fixée par décret. La ministre de la Santé Stéphanie Rist a chiffré l'effet à environ 6 centimes sur un paquet de gâteaux. Le rendement attendu est de 300 millions d'euros par an et l'entrée en vigueur est prévue au 1er janvier 2027. Le refus de supprimer l'article ne vaut pas adoption définitive : les députés avaient supprimé cet article le 22 octobre, par 86 voix contre 58. Information confirmée par deux médias ; le compte rendu officiel du Sénat n'était pas publié à la rédaction.
+
+- Le PLFSS est la loi qui fixe chaque année les recettes et les dépenses de la Sécurité sociale. Il est examiné par l'Assemblée, puis par le Sénat.
+- Chaque chambre peut supprimer ou réécrire un article. La version finale ne sera connue qu'à la fin de la navette, après un éventuel accord entre députés et sénateurs.
+- Le Sénat examine le texte du 9 au 17 novembre, avec un vote solennel le 18 novembre, selon Public Sénat.
+
+L'éclairage
+
+PLFSS et navette : où en est la taxe ?
+
+Ce qu'ils en disent
+
+« Il me semble donc que cette taxe est indispensable », dit-elle, en citant une alerte sanitaire sur l'obésité des enfants.
+Stéphanie Rist (Gouvernement), ministre de la Santé
+
+« Une entrée en vigueur dès le 1er janvier leur laisserait un délai bien trop court pour adapter leurs recettes », dit-il des industriels.
+François Aubey (Rdse), sénateur
+
+Il dit être passé d'un doute à un soutien à la taxe.
+Olivier Henno (Centristes uc), rapporteur général
+
+Elle estime que la prévention et l'éducation à la nutrition doivent passer en premier.
+Corinne Bourcier (Les indépendants), sénatrice
+
+Elle suggère que la taxe est une recette commode vu l'état des finances publiques.
+Frédérique Puissat (Lr), sénatrice
+
+Ce qui change
+
+Si l'article est conservé jusqu'au bout, des produits industriels très sucrés seraient taxés à partir du 1er janvier 2027. Les produits artisanaux et labellisés en seraient exclus, selon une liste à fixer par décret.
+
+Et après
+
+Le Sénat poursuit l'examen du PLFSS jusqu'au 17 novembre, avec un vote solennel le 18. Le sort définitif de l'article dépendra de la suite de la navette.
+
+Sources : Public Sénat · Politique Matin · LCP (vote des députés, 22 oct.) · senat.fr (dossier PLFSS 2027)
+
+À venir
+
+- 17 nov. : Vote solennel prévu à l'Assemblée sur le projet de loi cybersécurité, selon LCP.
+- 18 nov. : Vote solennel du Sénat sur le budget de la Sécurité sociale 2027, selon Public Sénat.
+- 14 déc. : Semaine d'examen à l'Assemblée du projet de loi sur l'enseignement supérieur privé, selon l'AFP.
+
+Les mots du jour
+
+Parcoursup
+La plateforme nationale d'inscription dans l'enseignement supérieur, créée par la loi de 2018.
+Licence
+Le premier cycle universitaire, après le baccalauréat.
+Chiffrement de bout en bout
+Un procédé qui rend un message lisible seulement par son expéditeur et son destinataire.
+Navette parlementaire
+Les allers-retours d'un texte entre l'Assemblée et le Sénat, jusqu'à une version commune.
+
+Vrai ou faux ?
+
+Mardi 10 novembre, les députés ont supprimé l'article qui garantissait l'inviolabilité des messageries chiffrées.
+
+Réponse : vrai. Les députés ont supprimé l'article 16 bis du projet de loi sur la cybersécurité par 69 voix contre 37, après un amendement du gouvernement. Cette suppression n'oblige pas les messageries à installer des accès dérobés.
+
+Retrouvez cette édition sur eclairagemedia.com.

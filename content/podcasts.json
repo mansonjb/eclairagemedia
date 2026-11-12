@@ -1,5 +1,174 @@
 [
  {
+  "rubrique": "politique",
+  "date": "2026-11-12",
+  "url": "/podcasts/politique-2026-11-12.mp3",
+  "taille": 3087091,
+  "duree": 257,
+  "titre": "Éclairage politique, jeudi 12 novembre 2026",
+  "titre_episode": "Places en licence, messageries chiffrées, taxe sur le sucre : l'essentiel du jeudi 12 novembre",
+  "description": "Ce jeudi 12 novembre, Léa et Paul reprennent 3 sujets.\n• Éducation : le Premier ministre annonce 5 000 places de plus en licence, après une réunion sur Parcoursup où une partie des organisations ont quitté la salle.\n• Cybersécurité : les députés suppriment l'article 16 bis sur les messageries chiffrées, par 69 voix contre 37.\n• Sécu : le Sénat garde l'article 8 du budget 2027, qui étend la taxe aux produits industriels très sucrés.\nTous les faits viennent de l'édition Éclairage du jour, où chaque information est confirmée par au moins trois sources. Transcription et sources : eclairagemedia.com/podcast\nVoix de synthèse générées par intelligence artificielle.",
+  "sujets": [
+   {
+    "rubrique": "politique",
+    "n": 1,
+    "titre": "Éducation : Lecornu annonce 5 000 places de plus en licence"
+   },
+   {
+    "rubrique": "politique",
+    "n": 2,
+    "titre": "Cybersécurité : les députés suppriment l'article sur les messageries chiffrées"
+   },
+   {
+    "rubrique": "politique",
+    "n": 3,
+    "titre": "Taxe sur les produits sucrés : le Sénat adopte l'article 8 du budget de la Sécu"
+   }
+  ],
+  "transcription": [
+   {
+    "qui": "Léa",
+    "texte": "Bonjour, ici Éclairage politique. Nous sommes le jeudi douze novembre. Avec Paul, on reprend trois sujets du jour."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Bonjour Léa. Au programme : des places en plus à l'université, une disposition sur les messageries chiffrées, et une taxe sur les produits très sucrés."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Cinq mille. C'est le nombre de places supplémentaires en licence annoncé par le Premier ministre. Paul, d'où vient ce chiffre ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "D'une lettre de Sébastien Lecornu aux présidents d'université, rendue publique mercredi par l'AFP. Il écrit que des moyens permettront d'accueillir cinq mille étudiants de plus en licence."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et ça arrive après une réunion à Matignon, lundi, plutôt agitée."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Environ quarante invités, des lycéens, des étudiants, des syndicats d'enseignants, des parlementaires. L'objectif : lancer une concertation sur l'avenir de Parcoursup, la plateforme d'inscription dans le supérieur."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et une partie des organisations ont quitté la salle."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Elles contestaient la présence de l'UNI et d'élus du RN et de l'UDR. À la fin, selon le sénateur communiste Pierre Ouzoulias, ils n'étaient plus que trois."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Autrement dit, la réunion s'est vidée. Et ces cinq mille places, c'est beaucoup ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le Premier ministre rappelle que quinze mille places avaient déjà été annoncées, dont quatre mille en IUT. Les organisations étudiantes, elles, en demandent deux cent cinquante mille."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Attends, deux cent cinquante mille ? C'est cinquante fois plus."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Exactement. À retenir : l'annonce est écrite, mais la répartition par université n'est pas détaillée. Et un texte sur l'enseignement supérieur privé arrive à l'Assemblée la semaine du quatorze décembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Changement de décor. Direction l'Assemblée nationale, mardi, pour un texte sur la cybersécurité."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le projet de loi sur la résilience des infrastructures critiques. Il transpose une directive européenne, appelée NIS deux, qui impose des règles de cybersécurité à des milliers d'organisations."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et au milieu du texte, un article qui a fait beaucoup parler : le seize bis."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Oui. Ajouté par le Sénat, il visait à garantir l'inviolabilité des messageries chiffrées, comme WhatsApp, Telegram ou Signal. Mardi, les députés l'ont supprimé, par soixante-neuf voix contre trente-sept."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Pourquoi le supprimer ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Le gouvernement avait déposé un amendement en ce sens. Le ministre de l'Intérieur, Laurent Nuñez, juge l'article écrit de manière trop large : il interdirait des techniques de renseignement déjà autorisées par la loi."
+   },
+   {
+    "qui": "Léa",
+    "texte": "D'accord. Et ceux qui voulaient le garder, ils disent quoi ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La France insoumise et les écologistes ont voté contre la suppression. Le député insoumis Arnaud Saint-Martin parle d'un immense recul pour les libertés numériques."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Alors, est-ce que ça veut dire que les messageries vont devoir ouvrir des accès aux autorités ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Supprimer cet article n'oblige pas les messageries à installer des accès dérobés. Cela retire une protection écrite dans le texte. La ministre du Numérique, Anne Le Hénanff, s'est engagée à ne pas réintroduire de disposition qui affaiblirait le chiffrement."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Une promesse politique, donc, pas une garantie dans la loi."
+   },
+   {
+    "qui": "Paul",
+    "texte": "C'est ça. Phrase-clé : l'article a disparu, mais le débat sur le chiffrement reste ouvert. Un vote solennel sur l'ensemble du texte est annoncé pour le dix-sept novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Dernier sujet, plus sucré. Le budget de la Sécurité sociale, au Sénat."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Mardi, les sénateurs ont gardé l'article huit. Il étend la taxe soda aux aliments industriels les plus sucrés : gâteaux, biscuits, céréales du petit-déjeuner, confiseries, produits chocolatés, glaces."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Concrètement, ça change quoi pour le consommateur ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "La ministre de la Santé, Stéphanie Rist, parle d'environ six centimes sur un paquet de gâteaux. Le rendement attendu est de trois cents millions d'euros par an, avec une entrée en vigueur prévue le premier janvier."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Et les produits artisanaux ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Les sénateurs les ont exclus, ainsi que certains produits sous label officiel. La liste sera fixée par décret. Un amendement a même été surnommé « nougat de Montélimar »."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Mais ce n'est pas encore définitif ?"
+   },
+   {
+    "qui": "Paul",
+    "texte": "Non. Les députés avaient supprimé cet article le vingt-deux octobre. Le sort final dépendra de la suite de la navette, ces allers-retours entre l'Assemblée et le Sénat. Le vote solennel du Sénat sur le budget est prévu le dix-huit novembre."
+   },
+   {
+    "qui": "Léa",
+    "texte": "À retenir : le Sénat garde la taxe, mais la version finale n'est pas écrite."
+   },
+   {
+    "qui": "Paul",
+    "texte": "Et pour les trois sujets, ce sont les textes et les annonces qui comptent, pas encore leurs effets."
+   },
+   {
+    "qui": "Léa",
+    "texte": "Voilà pour aujourd'hui. Toutes les sources sont dans la newsletter et sur eclairagemedia.com."
+   }
+  ]
+ },
+ {
   "rubrique": "essentiel",
   "date": "2026-11-09",
   "url": "/podcasts/essentiel-2026-11-09.mp3",
